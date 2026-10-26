@@ -1,0 +1,2469 @@
+# Català (ca) interface catalog for WordCraft.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	(All)	(Tot)
+	(no style)	(cap estil)
+	(no suggestions)	(cap suggeriment)
+	(normal text)	(text normal)
+	(not matched)	(no coincident)
+	(picture or object)	(imatge o objecte)
+	0 or More Characters	0 o més caràcters
+	1. Formatting restrictions	1. Restriccions de format
+	1.5 Line Spacing	Interlineat 1,5
+	1/4 Em Space	Espai d'1/4 llarg
+	1×2 Empty Matrix	Matriu buida 1×2
+	1×3 Empty Matrix	Matriu buida 1×3
+	2. Editing restrictions	2. Restriccions d'edició
+	2×1 Empty Matrix	Matriu buida 2×1
+	2×2 Determinant	Determinant 2×2
+	2×2 Empty Matrix	Matriu buida 2×2
+	2×2 Identity Matrix	Matriu identitat 2×2
+	2×2 Identity Matrix (sparse)	Matriu identitat 2×2 (dispersa)
+	2×2 Matrix in Brackets	Matriu 2×2 entre claudàtors
+	2×2 Matrix in Double Bars	Matriu 2×2 entre barres dobles
+	2×2 Matrix in Parentheses	Matriu 2×2 entre parèntesis
+	2×3 Empty Matrix	Matriu buida 2×3
+	3-D	3D
+	3. Start enforcement	3. Inicia l'aplicació
+	3×1 Empty Matrix	Matriu buida 3×1
+	3×2 Empty Matrix	Matriu buida 3×2
+	3×3 Empty Matrix	Matriu buida 3×3
+	3×3 Identity Matrix	Matriu identitat 3×3
+	3×3 Identity Matrix (sparse)	Matriu identitat 3×3 (dispersa)
+	<< Less	<< Menys
+	<< Remove	<< Elimina
+	a drawing canvas can't be ungrouped	un llenç de dibuix no es pot desagrupar
+	a drawing canvas can't go inside a text box	un llenç de dibuix no pot anar dins d'un quadre de text
+	A file dialog is already open.	Ja hi ha un diàleg de fitxers obert.
+	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Un processador de textos lliure i de codi obert escrit des de zero en Rust.\nForma part de les Crafting Apps de l'equip d'ArtCraft.
+	a group holding Word ink can't be ungrouped yet	un grup amb tinta de Word encara no es pot desagrupar
+	A mail merge field	Un camp de combinació de correspondència
+	A numbered sequence (figures, tables…)	Una seqüència numerada (figures, taules…)
+	A password is required to open this document.	Cal una contrasenya per obrir aquest document.
+	A table of contents	Una taula de continguts
+	A xor B	A xor B
+	A, B, C, …	A, B, C, …
+	a, b, c, …	a, b, c, …
+	AaBbCcDd	AaBbCcDd
+	AaBbYyZz	AaBbYyZz
+	About WordCraft	Quant a WordCraft
+	Above Chart	Sobre el gràfic
+	Above the item	Sobre l'element
+	Above/below	A sobre/a sota
+	Absolute value cases	Casos de valor absolut
+	Accent	Èmfasi
+	Accent Gradient	Degradat d'èmfasi
+	Accent with Reflection	Èmfasi amb reflex
+	Accent {n}	Èmfasi {n}
+	Accents	Accents
+	Accept	Accepta
+	Accept All Changes	Accepta tots els canvis
+	Accept This Change	Accepta aquest canvi
+	Accessed on	Consultat el
+	Accessibility Pane	Tauler d'accessibilitat
+	Account	Compte
+	Acute	Agut
+	Add >>	Afegeix >>
+	Add a Table	Afegeix una taula
+	Add at least one field.	Afegiu almenys un camp.
+	Add Chart Element	Afegeix un element de gràfic
+	Add Condition	Afegeix una condició
+	Add Field	Afegeix un camp
+	Add Font…	Afegeix un tipus de lletra…
+	Add gradient stop	Afegeix una aturada de degradat
+	Add line numbering	Afegeix numeració de línies
+	Add New Source…	Afegeix una font nova…
+	Add Object to Selection	Afegeix l'objecte a la selecció
+	Add Pen	Afegeix una ploma
+	Add Row	Afegeix una fila
+	Add Series	Afegeix una sèrie
+	Add Shape	Afegeix una forma
+	Add Space Before Paragraph	Afegeix espai abans del paràgraf
+	Add space between Asian and Latin text	Afegeix espai entre text asiàtic i llatí
+	Add space between Asian text and numbers	Afegeix espai entre text asiàtic i números
+	Add tab stop at:	Afegeix una tabulació a:
+	Add Text	Afegeix text
+	Add the chapter number	Afegeix el número de capítol
+	Add to Document	Afegeix al document
+	Add to Quick Access Toolbar	Afegeix a la barra d'accés ràpid
+	Add to Style Gallery	Afegeix a la galeria d'estils
+	Add whether it is above or below	Indica si és a sobre o a sota
+	Add/Edit\nBibliography	Afegeix/edita\nbibliografia
+	Add/Edit\nCitation	Afegeix/edita\ncitació
+	Add\nNote	Afegeix\nnota
+	Add\nPen	Afegeix\nploma
+	Add\nShape	Afegeix\nforma
+	Added 1 font	S'ha afegit 1 tipus de lletra
+	Added Fonts	Tipus de lletra afegits
+	Added {n} fonts	S'han afegit {n} tipus de lletra
+	Address	Adreça
+	Address Block	Bloc d'adreça
+	Address labels	Etiquetes d'adreça
+	Address:	Adreça:
+	Address\nBlock	Bloc\nd'adreça
+	Advanced Find	Cerca avançada
+	Advanced Find…	Cerca avançada…
+	After:	Després:
+	Agents	Agents
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Els agents connectats a WordCraft us poden mostrar missatges mitjançant l'Assistent. Si els silencieu, se'ls diu que preferiu no rebre'n.
+	Ah, Latin. The language of deadlines.	Ah, el llatí. La llengua dels terminis.
+	Ah, the editing phase. My favourite. Very decisive.	Ah, la fase d'edició. La meva preferida. Molt decidida.
+	Align Bottom Center	Alinea a baix al centre
+	Align Bottom Left	Alinea a baix a l'esquerra
+	Align Bottom Right	Alinea a baix a la dreta
+	Align Center	Alinea al centre
+	Align Center Left	Alinea al centre a l'esquerra
+	Align Center Right	Alinea al centre a la dreta
+	Align Top Center	Alinea a dalt al centre
+	Align Top Left	Alinea a dalt a l'esquerra
+	Align Top Right	Alinea a dalt a la dreta
+	Aligned at:	Alineat a:
+	All - Linear	Tot: lineal
+	All - Professional	Tot: professional
+	All Borders	Totes les vores
+	All caps	Tot majúscules
+	All Commands	Totes les ordres
+	All Fonts	Tots els tipus de lletra
+	All Levels	Tots els nivells
+	All Markup	Totes les marques
+	All pages in the range	Totes les pàgines de l'interval
+	All symbol sets	Tots els conjunts de símbols
+	All system fonts are already available.	Tots els tipus de lletra del sistema ja estan disponibles.
+	Allow hanging punctuation	Permet la puntuació penjant
+	Allow Latin text to wrap in the middle of a word	Permet que el text llatí es parteixi a mig mot
+	Allow line breaks	Permet salts de línia
+	Allow row to break across pages	Permet que la fila es divideixi entre pàgines
+	Alphabetical	Alfabètic
+	Alt Text	Text alternatiu
+	Alt text	Text alternatiu
+	Alt Text Pane	Tauler de text alternatiu
+	Alt:	Alt:
+	Alt\nText	Text\nalternatiu
+	an agent	un agent
+	And	I
+	Angle Brackets	Claudàtors angulars
+	Angle Brackets with Separator	Claudàtors angulars amb separador
+	Angle Brackets with Two Separators	Claudàtors angulars amb dos separadors
+	Animate the caret (it glides and fades)	Anima el cursor (llisca i s'esvaeix)
+	Animation effects:	Efectes d'animació:
+	Annotation Reference	Referència d'anotació
+	Annotation Subject	Assumpte de l'anotació
+	Annotation Text	Text de l'anotació
+	Annoying	Molest
+	Another file	Un altre fitxer
+	Any Character	Qualsevol caràcter
+	Any Digit	Qualsevol dígit
+	Any field	Qualsevol camp
+	Any Letter	Qualsevol lletra
+	Anyone can open this document. Encrypt it with a password to keep it private.	Qualsevol pot obrir aquest document. Xifreu-lo amb una contrasenya per mantenir-lo privat.
+	Anyone who opens the document will need this password.	Qualsevol que obri el document necessitarà aquesta contrasenya.
+	APA	APA
+	Apply as you type	Aplica mentre s'escriu
+	Apply Asian line-breaking rules (kinsoku)	Aplica les regles asiàtiques de salt de línia (kinsoku)
+	Apply formatting to:	Aplica el format a:
+	Apply Style	Aplica l'estil
+	Apply Styles	Aplica estils
+	Arabic	Àrab
+numerals	Arabic	Aràbics
+	Arch Down	Arc cap avall
+	Arch Up	Arc cap amunt
+	Arrange\nAll	Organitza-ho\ntot
+	Article I.	Article I.
+	Artistic Effects	Efectes artístics
+	As Recommended	Com es recomana
+	As you type	Mentre s'escriu
+	ASAP	Com més aviat millor
+	Asian text font:	Tipus de lletra per a text asiàtic:
+	Asian Typography	Tipografia asiàtica
+	Assistant	Assistent
+	Assistant Suggestions	Suggeriments de l'Assistent
+	At least	Com a mínim
+	At least {n}	Com a mínim {n}
+	Atelier	Atelier
+	Atmosphere	Atmosfera
+	Attach Template	Adjunta una plantilla
+	Attach…	Adjunta…
+	Auto orientation	Orientació automàtica
+	AutoCorrect	Correcció automàtica
+	AutoCorrect Options	Opcions de correcció automàtica
+	AutoFit	Ajust automàtic
+	AutoFit behavior	Comportament de l'ajust automàtic
+	AutoFit Column by Double-Clicking	Ajusta automàticament la columna amb doble clic
+	AutoFit Contents	Ajusta automàticament al contingut
+	AutoFit to contents	Ajusta automàticament al contingut
+	AutoFit to window	Ajusta automàticament a la finestra
+	AutoFit Window	Ajusta automàticament a la finestra
+	AutoFormat As You Type	Format automàtic mentre s'escriu
+	Automatic ({language})	Automàtic ({language})
+	Automatic ({region})	Automàtic ({region})
+	Automatic bulleted lists	Llistes de pics automàtiques
+	Automatic follows your system's language. Menus and commands change; your documents don't.	Automàtic segueix l'idioma del sistema. Els menús i les ordres canvien; els documents no.
+	Automatic numbered lists	Llistes numerades automàtiques
+	Automatic Table 1 (3 levels)	Taula automàtica 1 (3 nivells)
+	Automatic Table 2 (2 levels)	Taula automàtica 2 (2 nivells)
+	Automatically add words to list (First Letter)	Afegeix paraules a la llista automàticament (Primera lletra)
+	Automatically add words to list (INitial CAps)	Afegeix paraules a la llista automàticament (DUes MAjúscules inicials)
+	Automatically hyphenate document	Partició automàtica de mots al document
+	Automatically Update Document Styles	Actualitza automàticament els estils del document
+	Automatically update document styles	Actualitza automàticament els estils del document
+	AutoSave	Desament automàtic
+	AutoSave documents you have saved in WordCraft	Desa automàticament els documents que heu desat a WordCraft
+	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Ha fallat el desament automàtic: {error}. Deseu el document per tornar a activar el desament automàtic.
+	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	El desament automàtic no està disponible al navegador: no pot escriure als vostres fitxers. Desa baixa una còpia.
+	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	El desament automàtic només conserva fitxers .docx, .odt i .rtf; {name} no pot conservar tot el format. Deseu com a .docx per activar el desament automàtic.
+	AutoSave saves every change to the file (needs a saved document)	El desament automàtic desa cada canvi al fitxer (cal un document desat)
+	AutoSave writes your changes to the file a moment after you stop typing.	El desament automàtic escriu els canvis al fitxer un moment després que deixeu d'escriure.
+	AutoText	Text automàtic
+	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10,12" × 14,33"
+	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7,17" × 10,12"
+	Balloons	Globus
+	Banded Columns	Columnes amb bandes
+	Banded Rows	Files amb bandes
+	Base text:	Text base:
+	Based on: {style}	Basat en: {style}
+	Baseline Dots	Punts a la línia base
+	Basic Cycle	Cicle bàsic
+	Basic List	Llista bàsica
+	Basic Math	Matemàtiques bàsiques
+	Basic Matrix	Matriu bàsica
+	Basic Process	Procés bàsic
+	Basic Pyramid	Piràmide bàsica
+	Basic Radial	Radial bàsic
+	Basic Venn	Venn bàsic
+	Bayes' rule	Regla de Bayes
+	Before:	Abans:
+	Beginning of Word	Inici de paraula
+	Behind Text	Darrere del text
+	Below text	Sota el text
+	Below the item	Sota l'element
+	Between	Entre
+	Bibliography	Bibliografia
+	Binomial Coefficient	Coeficient binomial
+	Binomial Coefficient (angle)	Coeficient binomial (angular)
+	Binomial Coefficient with Angle Brackets	Coeficient binomial amb claudàtors angulars
+	Binomial expansion of (x+a)ⁿ	Desenvolupament binomial de (x+a)ⁿ
+	Blank	En blanc
+	Blank (Three Columns)	En blanc (tres columnes)
+	Blank document	Document en blanc
+	Blank Page	Pàgina en blanc
+	Block\nAuthors	Bloqueja\nautors
+	Blue:	Blau:
+	Body Text	Cos del text
+	Body text in a short paragraph to show spacing.	Cos del text en un paràgraf curt per mostrar l'espaiat.
+	Bold choice. Ctrl+Z is right there if you need it.	Una elecció agosarada. Ctrl+Z és aquí mateix si el necessiteu.
+	Book	Llibre
+	Book Title	Títol del llibre
+	Book title	Títol del llibre
+	Bookmark	Marcador
+	Bookmark name:	Nom del marcador:
+	Bookmark text	Text del marcador
+	Bookmarks	Marcadors
+	Border lines	Línies de vora
+	Border Painter	Pintor de vores
+	Border\nPainter	Pintor\nde vores
+	Borders and Shading	Vores i ombrejat
+	Borders and Shading…	Vores i ombrejat…
+	Both Sides	Les dues cares
+	Bottom Border	Vora inferior
+	Bottom Left Cell	Cel·la inferior esquerra
+	Bottom Margin	Marge inferior
+	Bottom of Page	Peu de pàgina
+	Bottom Right Cell	Cel·la inferior dreta
+	Box	Quadre
+	Boxed Formula	Fórmula en un quadre
+	Boxed Formula (example)	Fórmula en un quadre (exemple)
+	Boxed Formulas	Fórmules en un quadre
+	Braces	Claus
+	Braces with Separator	Claus amb separador
+	Bracket	Claudàtor
+	Brackets	Claudàtors
+	Brackets with Separators	Claudàtors amb separadors
+	Breaks	Salts
+	Breve	Breu
+	Brighter +20%	Més brillant +20%
+	Brightness, contrast and sharpness	Brillantor, contrast i nitidesa
+	Browse in WordCraft…	Navega a WordCraft…
+	Building Block Gallery Content Control	Control de contingut de galeria de blocs de construcció
+	Built-In	Integrat
+	Built-in style	Estil integrat
+	Built-in styles can't be deleted.	Els estils integrats no es poden suprimir.
+	Bullet Library	Biblioteca de pics
+	Bullets	Pics
+	By author	Per autor
+	Calendar	Calendari
+	Can't be deleted	No es pot suprimir
+	Can't find a command? Press Alt+Q and type what you want to do.	No trobeu una ordre? Premeu Alt+Q i escriviu què voleu fer.
+	can't split at the first row	no es pot dividir a la primera fila
+	Canvas Member	Membre del llenç
+	Capitalize Each Word	Posa En Majúscula Cada Paraula
+	Capitalize first letter of sentences	Posa en majúscula la primera lletra de les frases
+	Capitalize first letter of table cells	Posa en majúscula la primera lletra de les cel·les de taula
+	Capitalize names of days	Posa en majúscula els noms dels dies
+	Capitalize the first word of a sentence	Posa en majúscula la primera paraula d'una frase
+	Caption Numbering	Numeració de llegendes
+	Caption text	Text de la llegenda
+	Caption:	Llegenda:
+	Captions	Llegendes
+	Careful, any further back and we'll undo the invention of paper.	Compte, una mica més enrere i desfarem la invenció del paper.
+	Caret Character	Caràcter de circumflex
+	Case changes	Canvis de majúscules
+	Cases (Three Conditions)	Casos (tres condicions)
+	Cases (Two Conditions)	Casos (dues condicions)
+	Cases and Stacks	Casos i piles
+	Categories	Categories
+	Categories:	Categories:
+	Category {n}	Categoria {n}
+	Ceiling	Sostre
+	Cell	Cel·la
+	Cell Margins	Marges de la cel·la
+	Cell\nMargins	Marges\nde cel·la
+	Center Glow	Resplendor central
+	Centered as Group	Centrat com a grup
+	Change Chart Type	Canvia el tipus de gràfic
+	Change Colors	Canvia els colors
+	Change in y over change in x	Variació de y sobre variació de x
+	Change Layout	Canvia la disposició
+	Change List Level	Canvia el nivell de llista
+	Change Password…	Canvia la contrasenya…
+	Change Picture	Canvia la imatge
+	Change Picture…	Canvia la imatge…
+	Change Shape	Canvia la forma
+	Change Structure	Canvia l'estructura
+	Change to Display	Canvia a visualització
+	Change to Inline	Canvia a en línia
+	Change to Level 1	Canvia al nivell 1
+	Change to Level 2	Canvia al nivell 2
+	Change to Level 3	Canvia al nivell 3
+	Change to Level 4	Canvia al nivell 4
+	Change to Level 5	Canvia al nivell 5
+	Change to Level 6	Canvia al nivell 6
+	Change to Level 7	Canvia al nivell 7
+	Change to Level 8	Canvia al nivell 8
+	Change to Level 9	Canvia al nivell 9
+	Change\nChart Type	Canvia el tipus\nde gràfic
+	Change\nColors	Canvia\nels colors
+	Changed lines:	Línies canviades:
+	Changes	Canvis
+	Chapter 1	Capítol 1
+	Chapter in a book	Capítol d'un llibre
+	Chapters begin at:	Els capítols comencen amb:
+	Character Border	Vora de caràcter
+	Character code:	Codi de caràcter:
+	Character in Range	Caràcter a l'interval
+	Character level	Nivell de caràcter
+	Character Position	Posició del caràcter
+	Character Scale	Escala del caràcter
+	Character Shading	Ombrejat de caràcter
+	Character Spacing	Espaiat entre caràcters
+	Character spacing	Espaiat de caràcters
+	Character style	Estil de caràcter
+	Characters (no spaces)	Caràcters (sense espais)
+	Characters (with spaces)	Caràcters (amb espais)
+	Characters per line:	Caràcters per línia:
+	Chart	Gràfic
+	Chart Design	Disseny del gràfic
+	Chart Layouts	Disposicions de gràfic
+	Chart Title	Títol del gràfic
+	charts and diagrams can't be moved or resized yet	els gràfics i els diagrames encara no es poden moure ni canviar de mida
+	Check	Marca
+	Check Accessibility	Comprova l'accessibilitat
+	Check Box Content Control	Control de contingut de casella de selecció
+	Check Compatibility	Comprova la compatibilitat
+	Check for Errors	Comprova si hi ha errors
+	Check Spelling as You Type	Revisa l'ortografia mentre s'escriu
+	Check spelling as you type	Revisa l'ortografia mentre s'escriu
+	Check\nAccessibility	Comprova\nl'accessibilitat
+	Checked styles are allowed:	Els estils marcats estan permesos:
+	Checked symbol	Símbol marcat
+	Chevron Down	Angle cap avall
+	Chevron Up	Angle cap amunt
+	Chicago	Chicago
+	Chinese (Simplified)	Xinès (simplificat)
+	Chinese (Traditional)	Xinès (tradicional)
+	Choose a command	Trieu una ordre
+	Choose a shortcut	Trieu una drecera
+	Choose List Item	Trieu un element de la llista
+	Choose the sheet that holds the recipients.	Trieu el full que conté els destinataris.
+	Circle area from its radius	Àrea del cercle a partir del radi
+	Circled Dot	Punt encerclat
+	Circled Plus	Més encerclat
+	Circled Times	Per encerclat
+	Citation Style	Estil de citació
+	Citations	Citacions
+	Citations & Bibliography	Citacions i bibliografia
+	Clear All Formatting	Esborra tot el format
+	Clear Character Formatting	Esborra el format de caràcter
+	Clear Character Style	Esborra l'estil de caràcter
+	Clear Formatting Level	Esborra el nivell de format
+	Clear Paragraph Formatting	Esborra el format de paràgraf
+	Click a border between two cells to merge them. Esc stops.	Feu clic a la vora entre dues cel·les per combinar-les. Esc s'atura.
+	Click an item to paste it.	Feu clic en un element per enganxar-lo.
+	Click level to modify:	Feu clic al nivell per modificar:
+	Click the empty text box the text should continue in (Esc cancels)	Feu clic al quadre de text buit on ha de continuar el text (Esc cancel·la)
+	Click to switch back to inserting	Feu clic per tornar a inserir
+	Clipboard Contents	Contingut del porta-retalls
+	Clipboard Items	Elements del porta-retalls
+	Clipboard Pane	Tauler del porta-retalls
+	Close Equation	Tanca l'equació
+	Close Header and Footer	Tanca la capçalera i el peu de pàgina
+	Close Outline View	Tanca la vista d'esquema
+	Close Outline\nView	Tanca la vista\nd'esquema
+	Clustered Bar	Barra agrupada
+	Clustered Column	Columna agrupada
+	cm	cm
+	Col #:	Núm. col.:
+	Collapse Selection	Redueix la selecció
+	Collate copies	Intercala les còpies
+	Collect entries from:	Recull les entrades de:
+	Colon Equal	Dos punts igual
+	Color model:	Model de color:
+	Color only	Només color
+	Color: {color}	Color: {color}
+	Colorful	Colorit
+	Column	Columna
+	Column Break	Salt de columna
+	Column Selection	Selecció de columna
+	Column {n}	Columna {n}
+	Column:	Columna:
+	Combine Documents	Combina documents
+	Combo Box Content Control	Control de contingut de quadre combinat
+	Commands	Ordres
+	Commas	Comes
+	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Comentaris al costat de cada pàgina i canvis registrats en PDF, impressions i imatges; una llista de comentaris al final de les pàgines web, Markdown i text.
+	Comments Pane	Tauler de comentaris
+	Common Accent Objects	Objectes d'accent comuns
+	Common Brackets	Claudàtors comuns
+	Common Fractions	Fraccions comunes
+	Common Functions	Funcions comunes
+	Common Large Operators	Operadors grans comuns
+	Common Operator Structures	Estructures d'operador comunes
+	Common Operators	Operadors comuns
+	Common Radicals	Radicals comuns
+	Common Subscripts and Superscripts	Subíndexs i superíndexs comuns
+	Communication	Comunicació
+	Community\nDiscord	Discord de la\ncomunitat
+	Compact	Compacte
+	Compare Documents	Compara documents
+	Compare to	Compara amb
+	Compared: {changes} changes	Comparat: {changes} canvis
+	Comparing with another file needs the desktop app.	Per comparar amb un altre fitxer cal l'aplicació d'escriptori.
+	Comparison settings	Configuració de la comparació
+	Compress Pictures	Comprimeix les imatges
+	Compress punctuation at the start of a line	Comprimeix la puntuació a l'inici de la línia
+	Conference	Conferència
+	Conference paper	Comunicació de congrés
+	CONFIDENTIAL	CONFIDENCIAL
+	Confirm password:	Confirmeu la contrasenya:
+	Connect Shapes	Connecta formes
+	Container Title	Títol del contenidor
+	Content Control at Selection	Control de contingut a la selecció
+	Content Control Properties	Propietats del control de contingut
+	Contents can't be edited	El contingut no es pot editar
+	Context	Context
+numerals	Context	Contextuals
+	Continue from previous section	Continua des de la secció anterior
+	Continue without restoring	Continua sense restaurar
+	Continuous	Continu
+	Continuous numbering	Numeració contínua
+	Contour Integral	Integral de contorn
+	Contour Integral with Limits	Integral de contorn amb límits
+	Contour Integral with Stacked Limits	Integral de contorn amb límits apilats
+	Contour Integrals	Integrals de contorn
+	Controls	Controls
+	Conversions	Conversions
+	Convert between built-up and linear form	Converteix entre forma professional i lineal
+	Convert Notes	Converteix les notes
+	Convert Text to Table	Converteix el text en taula
+	Convert Text to Table…	Converteix el text en taula…
+	Convert to Shapes	Converteix en formes
+	Convert to Text	Converteix en text
+	Coproduct	Coproducte
+	Coproduct with Limits	Coproducte amb límits
+	Coproduct with Lower Limit	Coproducte amb límit inferior
+	Coproduct with Subscript-Superscript Limits	Coproducte amb límits de subíndex i superíndex
+	Copy Formatting	Copia el format
+	Copy of the text a bookmark marks	Còpia del text que marca un marcador
+	Copy Styles	Copia estils
+	Copy to	Copia a
+	Copyright Sign	Signe de copyright
+	Correct accidental usage of cAPS LOCK key	Corregeix l'ús accidental de la tecla bLOQ mAJ
+	Correct TWo INitial CApitals	Corregeix DUes MAjúscules INicials
+	Corrections	Correccions
+	Cosecant Function	Funció cosecant
+	Cosine 2x	Cosinus 2x
+	Cosine Function	Funció cosinus
+	Cotangent Function	Funció cotangent
+	Couldn't download {name}: {error}	No s'ha pogut baixar {name}: {error}
+	Couldn't make WordCraft the default: {error}	No s'ha pogut fer de WordCraft l'aplicació predeterminada: {error}
+	Couldn't open {path}: {error}	No s'ha pogut obrir {path}: {error}
+	Couldn't save {name}, so it is still open and nothing was lost: {error}	No s'ha pogut desar {name}, així que continua obert i no s'ha perdut res: {error}
+	Count by:	Compta per:
+	Count words in text boxes and notes	Compta les paraules dels quadres de text i les notes
+	Courtesy Title	Tractament
+	Cover Page	Portada
+	Craft	Craft
+	Create a Style	Crea un estil
+	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Creeu un esquema interactiu del document.\n\nÉs una manera excel·lent de saber on sou o de moure ràpidament el contingut.\n\nPer començar, aneu a la pestanya Inici i apliqueu estils d'encapçalament als encapçalaments del document.
+	Create Graphic	Crea un gràfic
+	Create Link	Crea un enllaç
+	Create New Style	Crea un estil nou
+	Create Source	Crea una font
+	Croatian	Croat
+	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	Retallar a la pàgina funciona amb imatges sense girar: poseu primer la rotació a 0° o utilitzeu els quadres de retall
+	Cross-reference	Referència creuada
+	Cross-reference:	Referència creuada:
+	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Retorn comença una pàgina nova. Molt més polit que prémer Retorn fins que passi.
+	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H cerca i substitueix text, format i caràcters especials.
+	Ctrl+K turns the selected text into a link.	Ctrl+K converteix el text seleccionat en un enllaç.
+	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Maj+G compta les paraules, els caràcters i els paràgrafs.
+	Cube Root	Arrel cúbica
+	Current - Linear	Actual: lineal
+	Current - Professional	Actual: professional
+	Current Document	Document actual
+	Current Position	Posició actual
+	Current record	Registre actual
+	Current style: {style}	Estil actual: {style}
+	Curved Arrow Connector	Connector de fletxa corbada
+	Curved Connector	Connector corbat
+	Custom dictionary	Diccionari personalitzat
+	Custom Margins…	Marges personalitzats…
+	Custom mark:	Marca personalitzada:
+	Custom range	Interval personalitzat
+	Custom size	Mida personalitzada
+	Custom Table of Contents…	Taula de continguts personalitzada…
+	Custom Watermark	Marca d'aigua personalitzada
+	Custom Watermark…	Marca d'aigua personalitzada…
+	Customize	Personalitza
+	Customize Keyboard	Personalitza el teclat
+	Customize Quick Access Toolbar	Personalitza la barra d'eines d'accés ràpid
+	Customize Quick Access Toolbar…	Personalitza la barra d'accés ràpid…
+	Customize Ribbon	Personalitza la cinta
+	Customize the Ribbon…	Personalitza la cinta…
+	Cycle	Cicle
+	Czech	Txec
+	Danish	Danès
+	Dark Mode	Mode fosc
+	Dark page (white text on black)	Pàgina fosca (text blanc sobre negre)
+	Dark Variations	Variacions fosques
+	Dark with Shadow	Fosc amb ombra
+	Darker −20%	Més fosc −20%
+	Darkroom	Cambra fosca
+	Data Labels	Etiquetes de dades
+	Date & Time	Data i hora
+	Date formats:	Formats de data:
+	Date Picker Content Control	Control de contingut de selector de data
+	Day	Dia
+	Decimal	Decimal
+	Decorative objects only add visual interest: screen readers skip them.	Els objectes decoratius només afegeixen interès visual: els lectors de pantalla els ometen.
+	Decrease Indent	Redueix el sagnat
+	Deep	Profund
+	Default Paragraph Font	Tipus de lletra de paràgraf predeterminat
+	Default tab stops:	Tabulacions predeterminades:
+	Define New Bullet	Defineix un pic nou
+	Define New Multilevel List	Defineix una llista multinivell nova
+	Define New Multilevel List…	Defineix una llista multinivell nova…
+	Define New Number Format	Defineix un format de número nou
+	Deflate	Desinfla
+	Delete Around Caret in Equation	Suprimeix al voltant del cursor a l'equació
+	Delete Back in Equation	Suprimeix enrere a l'equació
+	Delete Bookmark	Suprimeix el marcador
+	Delete Cells	Suprimeix cel·les
+	Delete Clipboard Item	Suprimeix l'element del porta-retalls
+	Delete Columns	Suprimeix les columnes
+	Delete Comment	Suprimeix el comentari
+	Delete in Equation	Suprimeix a l'equació
+	Delete Label	Suprimeix l'etiqueta
+	Delete Next Word	Suprimeix la paraula següent
+	Delete Previous Word	Suprimeix la paraula anterior
+	Delete Rows	Suprimeix les files
+	Delete Selected Ink	Suprimeix la tinta seleccionada
+	Delete Table	Suprimeix la taula
+	Delete Table Style	Suprimeix l'estil de taula
+	Deletions:	Supressions:
+	Delivery address:	Adreça de lliurament:
+	Delta Equal To	Delta igual a
+	Delta over arrow	Delta sobre fletxa
+	Demote	Abaixa de nivell
+	Demote to Body Text	Rebaixa a cos del text
+	Derivative as a limit	La derivada com a límit
+	Describe what this object shows, for people who can't see it.	Descriviu què mostra aquest objecte, per a les persones que no el poden veure.
+	Describe what this table shows, for people who can't see it.	Descriviu què mostra aquesta taula, per a les persones que no la poden veure.
+	Design	Disseny
+	Design Mode	Mode de disseny
+	Detach Template	Desvincula la plantilla
+	Detect language automatically	Detecta l'idioma automàticament
+	Developer	Desenvolupador
+	development build	compilació de desenvolupament
+	Diagonal Dots	Punts diagonals
+	Dictate	Dicta
+	Dictionaries	Diccionaris
+	Dictionaries folder:	Carpeta de diccionaris:
+	Different First Page	Primera pàgina diferent
+	Different Odd & Even Pages	Pàgines senars i parells diferents
+	Differential	Diferencial
+	Differential theta	Diferencial de theta
+	Differential x	Diferencial de x
+	Differential y	Diferencial de y
+	Differentials	Diferencials
+	Direct formatting	Format directe
+	Directory	Directori
+	Discard the recovery copy of {name}?	Voleu descartar la còpia de recuperació de {name}?
+	Discard…	Descarta…
+	Discord community	Comunitat de Discord
+	Display for Review	Visualització per a revisió
+	Display text	Text que es mostra
+	Distance from text	Distància del text
+	Distance from text:	Distància del text:
+	Distribute Columns	Distribueix les columnes
+	Distribute letters	Distribueix les lletres
+	Distribute Rows	Distribueix les files
+	Distribute spacing	Distribueix l'espaiat
+	Distributed	Distribuït
+	Do Not Check Spelling or Grammar	No revisis l'ortografia ni la gramàtica
+	Do not check spelling or grammar	No revisis l'ortografia ni la gramàtica
+	DO NOT COPY	NO COPIAR
+	Do Not Show in TOC	No ho mostris a la taula de continguts
+	Do you want to save changes to {name}?	Voleu desar els canvis a {name}?
+	Document End	Final del document
+	Document Formatting	Format del document
+	Document Grid	Quadrícula del document
+	Document Information	Informació del document
+	Document name	Nom del document
+	Document Property	Propietat del document
+	Document Start	Inici del document
+	Document template:	Plantilla del document:
+	Document Text	Text del document
+	Document1	Document1
+	Document\nPreferences	Preferències\ndel document
+	Documents you open will show up here.	Els documents que obriu apareixeran aquí.
+	Does not contain	No conté
+	DOI	DOI
+	Don't add space between paragraphs of the same style	No afegeixis espai entre paràgrafs del mateix estil
+	Don't capitalize after:	No posis majúscula després de:
+	Don't hyphenate	No facis partició de mots
+	Don't read Zotero, Mendeley or EndNote citations and bibliographies	No llegeixis citacions ni bibliografies de Zotero, Mendeley o EndNote
+	Don't show me this tip again	No tornis a mostrar aquest consell
+	Dot dash	Punt i ratlla
+	Dot-dash	Punt i ratlla
+	Dot-dot-dash	Punt, punt i ratlla
+	Double	Doble
+	Double Bar	Barra doble
+	Double Closing Quote	Cometa doble de tancament
+	Double Dot	Punt doble
+	Double Integral	Integral doble
+	Double Integral with Limits	Integral doble amb límits
+	Double Integral with Stacked Limits	Integral doble amb límits apilats
+	Double Left Arrow with Text Above	Fletxa doble a l'esquerra amb text a sobre
+	Double Left Arrow with Text Below	Fletxa doble a l'esquerra amb text a sota
+	Double Left Right Arrow with Text Above	Fletxa doble esquerra-dreta amb text a sobre
+	Double Left Right Arrow with Text Below	Fletxa doble esquerra-dreta amb text a sota
+	Double Opening Quote	Cometa doble d'obertura
+	Double Right Arrow with Text Above	Fletxa doble a la dreta amb text a sobre
+	Double Right Arrow with Text Below	Fletxa doble a la dreta amb text a sota
+	Double Spacing	Interlineat doble
+	Double Square Brackets	Claudàtors dobles
+	Double Strikethrough	Ratllat doble
+	Double strikethrough	Ratllat doble
+	Double summation	Suma doble
+	Double Underline	Subratllat doble
+	Double Vertical Bars	Barres verticals dobles
+	Doughnut	Anell
+	DRAFT	ESBORRANY
+	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Arrossegueu un rectangle per dibuixar una taula, o una línia a través de cel·les per dividir-les. Esc s'atura.
+	Draw Ink	Dibuixa amb tinta
+	Draw Table	Dibuixa una taula
+	Draw\nTable	Dibuixa\nuna taula
+	Drawing Canvas	Llenç de dibuix
+	Drawing Tools	Eines de dibuix
+	Drawing\nCanvas	Llenç\nde dibuix
+	Drop Cap	Lletra capital
+	Drop cap	Lletra capital
+	Drop Cap Options…	Opcions de lletra capital…
+	drop caps can't go in a table	les lletres capitals no poden anar dins d'una taula
+	Drop-Down List Content Control	Control de contingut de llista desplegable
+	Dropped	Caigut
+	Drops all formatting and pastes plain text.	Elimina tot el format i enganxa text sense format.
+	E-mail Messages	Missatges de correu electrònic
+	Edit Comment	Edita el comentari
+	Edit Data	Edita les dades
+	Edit Document	Edita el document
+	Edit Equation	Edita l'equació
+	Edit Field Code	Edita el codi de camp
+	Edit Field…	Edita el camp…
+	Edit Footer	Edita el peu de pàgina
+	Edit Header	Edita la capçalera
+	Edit Individual Documents…	Edita documents individuals…
+	Edit Items	Edita els elements
+	Edit Recipient List	Edita la llista de destinataris
+	Edit Source	Edita la font
+	Edit\nData	Edita\nles dades
+	Edit\nRecipient List	Edita la llista\nde destinataris
+	Edited	Editat
+	Editing endnote	S'està editant la nota final
+	Editing footnote	S'està editant la nota al peu
+	Editing header/footer	S'està editant la capçalera/peu de pàgina
+	Editing in this document is restricted.	L'edició d'aquest document està restringida.
+	Editing — edit the document directly	Edició: editeu el document directament
+	Edition	Edició
+	Editor	Editor
+	Elbow Arrow Connector	Connector de fletxa en angle
+	Elbow Connector	Connector en angle
+	Emphasis	Èmfasi
+	Empty Matrices	Matrius buides
+	Enclose Characters	Encercla caràcters
+	Enclosure	Envoltant
+	Encrypt with Password	Xifra amb contrasenya
+	Encrypt with Password…	Xifra amb contrasenya…
+	End of document	Final del document
+	End of section	Final de la secció
+	End of Word	Final de paraula
+	Endnote Reference	Referència de nota final
+	Endnote Text	Text de nota final
+	Endnotes	Notes finals
+	Endnotes to footnotes	Notes finals a notes al peu
+	English (Australia)	Anglès (Austràlia)
+	English (Canada)	Anglès (Canadà)
+	English (India)	Anglès (Índia)
+	English (Ireland)	Anglès (Irlanda)
+	English (New Zealand)	Anglès (Nova Zelanda)
+	English (South Africa)	Anglès (Sud-àfrica)
+	English (United Kingdom)	Anglès (Regne Unit)
+	English (United States)	Anglès (Estats Units)
+	Engrave	Gravat
+	Enlarge symbol	Amplia el símbol
+	Enter a number.	Introduïu un número.
+	Enter bookmark name:	Introduïu el nom del marcador:
+	Enter formatting for number:	Introduïu el format del número:
+	Enter in Equation	Retorn a l'equació
+	Enter page number:	Introduïu el número de pàgina:
+	Entire caption	Llegenda sencera
+	Entry marked.	Entrada marcada.
+	Envelope #10	Sobre núm. 10
+	Envelope #10   4.12" × 9.50"	Sobre núm. 10   4,12" × 9,50"
+	Envelope Address	Adreça del sobre
+	Envelope DL   4.33" × 8.66"	Sobre DL   4,33" × 8,66"
+	Envelope Return	Remitent del sobre
+	Envelope size:	Mida del sobre:
+	Envelopes	Sobres
+	Equal by Definition	Igual per definició
+	Equal column width	Amplada de columna igual
+	Equal Equal	Igual igual
+	Equal to	Igual a
+	Equals:	Igual a:
+	Equation	Equació
+	Equation Gallery	Galeria d'equacions
+	Equation Info	Informació de l'equació
+	Equation Number	Número d'equació
+	Equation Options	Opcions d'equació
+	Erase Ink	Esborra la tinta
+	Errors ({n})	Errors ({n})
+	Estonian	Estonià
+	Euler's identity	Identitat d'Euler
+	Even Banded Columns	Columnes amb bandes parells
+	Even Banded Rows	Files amb bandes parells
+	Even Page	Pàgina parell
+	Every change is recorded as a tracked change.	Cada canvi es registra com a canvi controlat.
+	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Totes les ordres estan disponibles per a scripts i agents d'IA: executeu `wordcraft-cli mcp` per a un servidor MCP, o inicieu l'aplicació amb `--control <port>` per al canal de control JSON.
+	Every field needs a name.	Cada camp necessita un nom.
+	Everyone	Tothom
+	Exactly	Exactament
+	Exactly {n}	Exactament {n}
+	Exceptions (optional)	Excepcions (opcional)
+	Exceptions…	Excepcions…
+	Executive   7.25" × 10.50"	Executive   7,25" × 10,50"
+	Existing File or Web Page	Fitxer o pàgina web existent
+	Expand or Collapse Heading	Expandeix o redueix l'encapçalament
+	Exponential	Exponencial
+	Exponential series	Sèrie exponencial
+	Export a copy to share (PDF, Word document)	Exporta una còpia per compartir (PDF, document de Word)
+	Export Page as PNG	Exporta la pàgina com a PNG
+	Extend Selection	Amplia la selecció
+	Extend Selection by Units	Amplia la selecció per unitats
+	Extra space	Espai addicional
+	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 repeteix l'última acció. Donar format a deu encapçalaments passa a ser un clic i nou tocs.
+	F7 checks the spelling and grammar of the whole document.	F7 revisa l'ortografia i la gramàtica de tot el document.
+	Faster: {command} is {key} on the keyboard.	Més ràpid: {command} és {key} al teclat.
+	Field code:	Codi de camp:
+	Field Codes	Codis de camp
+	Field codes:	Codis de camp:
+	Field name	Nom del camp
+	Field name:	Nom del camp:
+	Field names must be different.	Els noms de camp han de ser diferents.
+	Field names:	Noms de camp:
+	Field:	Camp:
+	Field…	Camp…
+	Figure	Figura
+	File locations	Ubicacions de fitxers
+	File name:	Nom del fitxer:
+	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Fitxer › Nou mostra aquí les plantilles .dotx i .dotm a Personal; Desa com a plantilla de Word comença aquí.
+	Fill color:	Color d'emplenament:
+	Filling in forms	Emplenament de formularis
+	Film	Pel·lícula
+	Filter and Sort	Filtra i ordena
+	Filter Recipients	Filtra els destinataris
+	Find in list:	Cerca a la llista:
+	Find Next Editable Region	Cerca la regió editable següent
+	Find Previous	Cerca l'anterior
+	Find Recipient	Cerca un destinatari
+	Find What Expression	Expressió a cercar
+	Find What Text	Text a cercar
+	Find what:	Cerca:
+	Find “{text}” in the document	Cerca «{text}» al document
+	Finding printers…	S'estan cercant impressores…
+	Finish & Merge	Finalitza i combina
+	Finish &\nMerge	Finalitza\ni combina
+	Finished	Acabat
+	Finnish	Finès
+	First Column	Primera columna
+	First line	Primera línia
+	First line:	Primera línia:
+	First Name	Nom
+	First Record	Primer registre
+	First row of data contains column headers	La primera fila de dades conté els encapçalaments de columna
+	Fix Position on Page	Fixa la posició a la pàgina
+	Fixed Column Width	Amplada de columna fixa
+	Floor	Terra
+	Follow number with:	Després del número:
+	Font Color	Color del tipus de lletra
+	Font color	Color de la lletra
+	Font color:	Color de la lletra:
+	Font Dialog	Diàleg de tipus de lletra
+	Font: {font}	Tipus de lletra: {font}
+	Font…	Tipus de lletra…
+	Footer	Peu de pàgina
+	Footnote and Endnote	Nota al peu i nota final
+	Footnote Reference	Referència de nota al peu
+	Footnote Text	Text de nota al peu
+	Footnotes	Notes al peu
+	Footnotes and endnotes	Notes al peu i notes finals
+	Footnotes to endnotes	Notes al peu a notes finals
+	For which item:	Per a quin element:
+	Format Page Numbers	Format dels números de pàgina
+	Format Page Numbers…	Format dels números de pàgina…
+	Format Painter	Copia el format
+	Format Shape	Format de la forma
+	Format Shape Pane	Tauler de format de la forma
+	Format Shape…	Format de la forma…
+	Formatted	Amb format
+	Formatted Text	Text amb format
+	Formatting	Format
+	Formatting at Selection	Format a la selecció
+	Formatting exceptions	Excepcions de format
+	Formatting marks	Marques de format
+	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Es comparen el format, els canvis de majúscules, els espais en blanc i les taules; la resta de paràmetres es guarden per a més endavant.
+	Formula	Fórmula
+	Formula:	Fórmula:
+	Forward	Reenvia
+	Fraction	Fracció
+	Fractions (1/2) as fraction characters (½)	Fraccions (1/2) com a caràcters de fracció (½)
+	Frames and effects	Marcs i efectes
+	French (France)	Francès (França)
+	From Bottom Left Corner	Des de l'angle inferior esquerre
+	From Bottom Right Corner	Des de l'angle inferior dret
+	From Center	Des del centre
+	From text:	Del text:
+	From Top Left Corner	Des de l'angle superior esquerre
+	From Top Right Corner	Des de l'angle superior dret
+	from Unicode (hex)	des d'Unicode (hex)
+	From {name}	De {name}
+	From:	De:
+	Full page of the same label	Pàgina completa de la mateixa etiqueta
+	Full Saturation 100%	Saturació completa 100%
+	Full Screen View	Vista de pantalla completa
+	Full\nScreen	Pantalla\ncompleta
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Curiositat: una pàgina en blanc és només un esborrany a qui encara no ho han dit.
+	Function	Funció
+	Gallery	Galeria
+	GB/T 7714	GB/T 7714
+	German (Germany)	Alemany (Alemanya)
+	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	Glow Colors	Colors de resplendor
+	Go Back	Torna enrere
+	Go To	Ves a
+	Go to	Ves a
+	Go To (⌘⌥G)	Ves a (⌘⌥G)
+	Go to Record	Ves al registre
+	Go to what:	Ves a:
+	Go To…	Ves a…
+	Gone! Like it was never written. Mostly because it now wasn't.	Esborrat! Com si no s'hagués escrit mai. Sobretot perquè ara ja no ho està.
+	Good afternoon	Bona tarda
+	Good evening	Bon vespre
+	Good morning	Bon dia
+	GOST (name sort)	GOST (ordenat per nom)
+	GOST (title sort)	GOST (ordenat per títol)
+	Grab bag	Calaix de sastre
+	Gradient fill	Emplenament amb degradat
+	Gradient stops	Punts de degradat
+	Grave	Greu
+	Gray 0%	Gris 0%
+	Greater than	Més gran que
+	Greater than or equal	Més gran o igual que
+	Greek	Grec
+	Greek Letters	Lletres gregues
+	Green:	Verd:
+	Greeting Line	Línia de salutació
+	Greeting\nLine	Línia de\nsalutació
+	Grid Table 1 Light	Taula de quadrícula 1 clara
+	Grid Table 4 – Blue	Taula de quadrícula 4: blau
+	Grid Table 4 – Green	Taula de quadrícula 4: verd
+	Grid Table 4 – Orange	Taula de quadrícula 4: taronja
+	Grid Table 4 – Purple	Taula de quadrícula 4: porpra
+	Gridlines	Línies de quadrícula
+	Grouping Character Above	Caràcter d'agrupació a sobre
+	Grouping Character Below	Caràcter d'agrupació a sota
+	Grow Font 1 Point	Augmenta la lletra 1 punt
+	H:	Al:
+	Hanging Indent	Sagnat francès
+	Harvard (Anglia)	Harvard (Anglia)
+	Hat	Barret
+	Header	Capçalera
+	Header & Footer	Capçalera i peu de pàgina
+	Header Row	Fila de capçalera
+	Header row	Fila de capçalera
+	Header/Footer Position	Posició de la capçalera/peu de pàgina
+	Headers and footers	Capçaleres i peus de pàgina
+	Heading	Encapçalament
+	Heading 1	Encapçalament 1
+	Heading 2	Encapçalament 2
+	Heading 3	Encapçalament 3
+	Heading styles (levels 1–{n})	Estils d'encapçalament (nivells 1–{n})
+	Heading text	Text de l'encapçalament
+	Heading {n}	Encapçalament {n}
+	Hebrew	Hebreu
+	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Hola! Sóc Nib, el vostre assistent d'escriptura. Ofereixo consells, dreceres i alguna opinió que ningú no m'ha demanat. Em quedo?
+	Hidden bookmarks	Marcadors ocults
+	Hide Codes	Amaga els codis
+	Hide from style lists	Amaga de les llistes d'estils
+	Hide Ink	Amaga la tinta
+	Hide Quick Access Toolbar	Amaga la barra d'accés ràpid
+	Hide White Space	Amaga l'espai en blanc
+	Hide\nInk	Amaga\nla tinta
+	Hierarchy	Jerarquia
+	Highlight	Ressalta
+	Highlight Merge Fields	Ressalta els camps de combinació
+	Highlight\nMerge Fields	Ressalta els camps\nde combinació
+	Highlighter	Retolador
+numerals	Hindi	Hindis
+	Home folder	Carpeta d'inici
+	Horizontal Line	Línia horitzontal
+	How many pages the whole document has	Quantes pàgines té tot el document
+	How many pages this section has	Quantes pàgines té aquesta secció
+	How many words the document holds	Quantes paraules conté el document
+	HTML Format	Format HTML
+	Hue:	To:
+	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	Els fitxers .aff i .dic de Hunspell d'aquí (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) s'utilitzen abans que els del sistema.
+	Hyperbolic Cosecant Function	Funció cosecant hiperbòlica
+	Hyperbolic Cosine Function	Funció cosinus hiperbòlic
+	Hyperbolic Cotangent Function	Funció cotangent hiperbòlica
+	Hyperbolic Functions	Funcions hiperbòliques
+	Hyperbolic Secant Function	Funció secant hiperbòlica
+	Hyperbolic Sine Function	Funció sinus hiperbòlic
+	Hyperbolic Tangent Function	Funció tangent hiperbòlica
+	Hyperlink	Hiperenllaç
+	Hyphenate at:	Partició a:
+	Hyphenate words in CAPS	Fes partició de les paraules en MAJÚSCULES
+	Hyphenation Options…	Opcions de partició de mots…
+	Hyphenation zone:	Zona de partició:
+	Hyphens (--) as dashes (—)	Guionets (--) com a guions (—)
+	Hypotenuse	Hipotenusa
+	I promise it's saved. I checked. Twice.	Us prometo que està desat. Ho he comprovat. Dues vegades.
+	I'd write something myself, but I'm all nib and no ink.	Escriuria alguna cosa jo mateix, però sóc tot plumí i gens de tinta.
+	I, II, III, …	I, II, III, …
+	i, ii, iii, …	i, ii, iii, …
+	Icon Color	Color de la icona
+	Icons	Icones
+	Identity Matrices	Matrius identitat
+	IEEE	IEEE
+	If…Then…Else	Si…Aleshores…Si no
+	If…Then…Else…	Si…Aleshores…Si no…
+	Ignore punctuation characters	Ignora els caràcters de puntuació
+	Ignore web and file addresses	Ignora les adreces web i de fitxers
+	Ignore white-space characters	Ignora els caràcters d'espai en blanc
+	Ignore words in capitals	Ignora les paraules en majúscules
+	Ignore words with numbers	Ignora les paraules amb números
+	Illustrations	Il·lustracions
+	Immersive	Immersiu
+	Immersive Reader	Lector immersiu
+	Immersive\nReader	Lector\nimmersiu
+	Imported 1 source	S'ha importat 1 font
+	Imported {n} sources	S'han importat {n} fonts
+	In Default apps, choose WordCraft for the document types you want it to open.	A Aplicacions predeterminades, trieu WordCraft per als tipus de document que voleu que obri.
+	In equations, typing a name after a backslash replaces it with its symbol.	A les equacions, escriure un nom després d'una barra inversa el substitueix pel seu símbol.
+	In Front of Text	Davant del text
+	In Line with Text	En línia amb el text
+	In margin	Al marge
+	In the margin	Al marge
+	Include label and number	Inclou l'etiqueta i el número
+	Include level number from:	Inclou el número de nivell de:
+	Include page numbers	Inclou els números de pàgina
+	Increase Indent	Augmenta el sagnat
+	Indent	Sagna
+	Indent from left:	Sagnat des de l'esquerra:
+	Indentation	Sagnat
+	Indented	Sagnat
+	Indents	Sagnats
+	Indents and Spacing	Sagnats i espaiat
+	Index and Tables	Índex i taules
+	Index Heading	Encapçalament d'índex
+	Index {n}	Índex {n}
+	Indonesian	Indonesi
+	Initial column width:	Amplada inicial de columna:
+	Initials:	Inicials:
+	Ink	Tinta
+	Ink Replay	Reproducció de tinta
+	Ink to Shape	Tinta a forma
+	Ink to\nMath	Tinta a\nfórmula
+	Ink to\nShape	Tinta a\nforma
+	Ink\nReplay	Reproducció\nde tinta
+	Inline	En línia
+	Input Format	Format d'entrada
+	Insert a new equation (Alt+=)	Insereix una equació nova (Alt+=)
+	Insert Above	Insereix a sobre
+	Insert Below	Insereix a sota
+	Insert Caption	Insereix una llegenda
+	Insert Caption…	Insereix una llegenda…
+	Insert Chart	Insereix un gràfic
+	Insert Citation	Insereix una citació
+	Insert Columns to the Left	Insereix columnes a l'esquerra
+	Insert Columns to the Right	Insereix columnes a la dreta
+	Insert Date Field	Insereix un camp de data
+	Insert Endnote	Insereix una nota final
+	Insert Footnote	Insereix una nota al peu
+	Insert Hyperlink	Insereix un hiperenllaç
+	Insert Index	Insereix un índex
+	Insert Left	Insereix a l'esquerra
+	Insert Merge Field	Insereix un camp de combinació
+	Insert Merge\nField	Insereix un camp\nde combinació
+	Insert New Equation	Insereix una equació nova
+	Insert one text or another, depending on a field's value.	Insereix un text o un altre, segons el valor d'un camp.
+	Insert Page Field	Insereix un camp de pàgina
+	Insert reference to:	Insereix una referència a:
+	Insert Right	Insereix a la dreta
+	Insert Row or Column by Clicking	Insereix una fila o columna amb un clic
+	Insert Rows Above	Insereix files a sobre
+	Insert Rows Below	Insereix files a sota
+	Insert Shapes	Insereix formes
+	Insert SmartArt	Insereix SmartArt
+	Insert Spike	Insereix l'acumulador
+	Insert Structure	Insereix una estructura
+	Insert Symbol	Insereix un símbol
+	Insert Table	Insereix una taula
+	Insert Table of Authorities	Insereix una taula d'autoritats
+	Insert Table of Figures	Insereix una taula d'il·lustracions
+	Insert Table…	Insereix una taula…
+	Insert Time Field	Insereix un camp d'hora
+	Insert\nAbove	Insereix\na sobre
+	Insert\nCaption	Insereix\nllegenda
+	Insert\nCitation	Insereix\ncitació
+	Insert\nFootnote	Insereix\nnota al peu
+	Insertions and Deletions	Insercions i supressions
+	Insertions:	Insercions:
+	Inside Borders	Vores interiors
+	Inside Horizontal Border	Vora horitzontal interior
+	Inside Vertical Border	Vora vertical interior
+	Inside:	Interior:
+	Inspect Styles at Selection	Inspecciona els estils a la selecció
+	Institution	Institució
+	Integral	Integral
+	Integral of e^(−x²)	Integral de e^(−x²)
+	Integral with Limits	Integral amb límits
+	Integral with Stacked Limits	Integral amb límits apilats
+	Integrals	Integrals
+	Intense Emphasis	Èmfasi intens
+	Intense Quote	Cita intensa
+	Intense Reference	Referència intensa
+	Interface language:	Idioma de la interfície:
+	Interface size:	Mida de la interfície:
+	Interface theme:	Tema de la interfície:
+	Interface\nTheme	Tema de la\ninterfície
+	Internet addresses as links	Adreces d'Internet com a enllaços
+	Intersection with Limits	Intersecció amb límits
+	Intersection with Lower Limit	Intersecció amb límit inferior
+	Intersection with Subscript-Superscript Limits	Intersecció amb límits de subíndex i superíndex
+	Inverse Cosecant Function	Funció cosecant inversa
+	Inverse Cosine Function	Funció cosinus inversa
+	Inverse Cotangent Function	Funció cotangent inversa
+	Inverse Functions	Funcions inverses
+	Inverse Hyperbolic Cosecant Function	Funció cosecant hiperbòlica inversa
+	Inverse Hyperbolic Cosine Function	Funció cosinus hiperbòlic invers
+	Inverse Hyperbolic Cotangent Function	Funció cotangent hiperbòlica inversa
+	Inverse Hyperbolic Functions	Funcions hiperbòliques inverses
+	Inverse Hyperbolic Secant Function	Funció secant hiperbòlica inversa
+	Inverse Hyperbolic Sine Function	Funció sinus hiperbòlic invers
+	Inverse Hyperbolic Tangent Function	Funció tangent hiperbòlica inversa
+	Inverse Secant Function	Funció secant inversa
+	Inverse Sine Function	Funció sinus inversa
+	Inverse Tangent Function	Funció tangent inversa
+	Ionosphere	Ionosfera
+	Is blank	És buit
+	Is not blank	No és buit
+	ISO 690 (author-date)	ISO 690 (autor-data)
+	ISO 690 (numerical)	ISO 690 (numèric)
+	Issue	Número
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Sembla que escriviu una carta. Voleu un sobre per a la carta, o una plantilla de carta per començar?
+	Join the ArtCraft community on Discord	Uniu-vos a la comunitat d'ArtCraft a Discord
+	Join us on Discord: discord.gg/artcraft	Uniu-vos a nosaltres a Discord: discord.gg/artcraft
+	Journal	Revista
+	Journal article	Article de revista
+	Justification of a display equation	Justificació d'una equació de visualització
+	Justified	Justificat
+	Keep Lines Together	Mantén les línies juntes
+	Keep lines together	Mantén les línies juntes
+	Keep me around	Queda't
+	Keep Text Only	Mantén només el text
+	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Guardeu la contrasenya en un lloc segur: sense ella ningú, ni tan sols WordCraft, pot obrir el document. Deixeu les dues caselles buides per eliminar la contrasenya.
+	Keep with Next	Mantén amb el següent
+	Keep with next	Mantén amb el següent
+	Keeps the fonts and formatting of the copied text.	Conserva els tipus de lletra i el format del text copiat.
+	Kerning for fonts:	Interlletratge per a tipus de lletra:
+	Keyboard shortcuts:	Dreceres de teclat:
+	Keys for this command:	Tecles per a aquesta ordre:
+	Label changes with:	L'etiqueta canvia amb:
+	Label:	Etiqueta:
+	Language Preferences…	Preferències d'idioma…
+	Large\nOperator	Operador\ngran
+	Largest Only	Només el més gran
+	Lasso Select	Selecció amb llaç
+	Last Column	Última columna
+	Last Name	Cognom
+	Last Record	Últim registre
+	Last, First; Last, First	Cognom, Nom; Cognom, Nom
+	Latin text font:	Tipus de lletra per a text llatí:
+	Layout Summary	Resum de la disposició
+	Layouts	Dissenys
+	Leader	Caràcter de farciment
+	Leave a recipient out of the merge when a field has this value.	Deixa un destinatari fora de la combinació quan un camp té aquest valor.
+	Leave Equation	Surt de l'equació
+	Leave out the date and time of comments and tracked changes when saving	Ometeu la data i l'hora dels comentaris i dels canvis controlats en desar
+	Leave the equation (Esc)	Surt de l'equació (Esc)
+	leave the equation first	primer surt de l'equació
+	Leave the label out of the caption	Deixa l'etiqueta fora de la llegenda
+	Left Arrow with Text Above	Fletxa a l'esquerra amb text a sobre
+	Left Arrow with Text Below	Fletxa a l'esquerra amb text a sota
+	Left Border	Vora esquerra
+	Left border	Vora esquerra
+	Left Bracket Twice	Claudàtor esquerre doble
+	Left indent	Sagnat esquerre
+	Left Margin	Marge esquerre
+	Left Only	Només esquerra
+	Left Right Arrow Above	Fletxa esquerra-dreta a sobre
+	Left Right Arrow with Text Above	Fletxa esquerra-dreta amb text a sobre
+	Left Right Arrow with Text Below	Fletxa esquerra-dreta amb text a sota
+	Left Subscript-Superscript	Subíndex i superíndex a l'esquerra
+	Left-to-right	D'esquerra a dreta
+	Left-to-Right Text Direction	Direcció del text d'esquerra a dreta
+	Leftwards Arrow Above	Fletxa cap a l'esquerra a sobre
+	Leftwards Harpoon Above	Arpó cap a l'esquerra a sobre
+	Legal   8.50" × 14.00"	Legal   8,50" × 14,00"
+	Legal style numbering	Numeració d'estil legal
+	Legend	Llegenda
+	Less Contrast −20%	Menys contrast −20%
+	Less than	Més petit que
+	Less than or equal	Més petit o igual que
+template	Letter	Carta
+	Letter   8.50" × 11.00"	Carta   8,50" × 11,00"
+	Letter headings	Encapçalaments de lletra
+	Letter template	Plantilla de carta
+	Letter-Like Symbols	Símbols similars a lletres
+	Letters	Lletres
+	Level 5	Nivell 5
+	Level 6	Nivell 6
+	Level 7	Nivell 7
+	Level 8	Nivell 8
+	Level 9	Nivell 9
+	Level {n}	Nivell {n}
+	Levels:	Nivells:
+	Light Variations	Variacions clares
+	Light with Outline	Clar amb contorn
+	Limit	Límit
+	Limit and	Límit i
+	Limit and\nLog	Límit i\nlogaritme
+	Limit consecutive hyphens to:	Limita els guionets consecutius a:
+	Limit Example	Exemple de límit
+	Limit formatting to a selection of styles	Limita el format a una selecció d'estils
+	Line and Page Breaks	Salts de línia i de pàgina
+	Line and Paragraph Spacing	Interlineat i espaiat entre paràgrafs
+	Line between	Línia entre columnes
+	Line Break	Salt de línia
+	Line breaking	Salt de línia
+	Line End	Final de línia
+	Line Number	Número de línia
+	Line Numbering Options…	Opcions de numeració de línies…
+	Line Numbers	Números de línia
+	Line Spacing	Interlineat
+	Line Spacing Options…	Opcions d'interlineat…
+	Line spacing:	Interlineat:
+	Line Start	Inici de línia
+	Linear Diagonal - Bottom Left to Top Right	Diagonal lineal: d'inferior esquerra a superior dreta
+	Linear Diagonal - Bottom Right to Top Left	Diagonal lineal: d'inferior dreta a superior esquerra
+	Linear Diagonal - Top Left to Bottom Right	Diagonal lineal: de superior esquerra a inferior dreta
+	Linear Diagonal - Top Right to Bottom Left	Diagonal lineal: de superior dreta a inferior esquerra
+	Linear Down	Lineal cap avall
+	Linear Fraction	Fracció lineal
+	Linear Left	Lineal cap a l'esquerra
+	Linear Right	Lineal cap a la dreta
+	Linear Up	Lineal cap amunt
+	Lines and characters	Línies i caràcters
+	Lines only	Només línies
+	Lines per page:	Línies per pàgina:
+	Lines to drop:	Línies que ocupa:
+	Link entries to their headings	Enllaça les entrades amb els encapçalaments
+	Link level to style:	Enllaça el nivell amb l'estil:
+	Link to Previous	Enllaça amb l'anterior
+	Link to:	Enllaça amb:
+	Linked style (paragraph and character)	Estil vinculat (paràgraf i caràcter)
+	Links and References	Enllaços i referències
+	Link…	Enllaç…
+	List Definition	Definició de llista
+	List entries	Entrades de la llista
+	List Paragraph	Paràgraf de llista
+	List Table 3 – Blue	Taula de llista 3: blau
+	List Table 3 – Green	Taula de llista 3: verd
+	List Table 3 – Orange	Taula de llista 3: taronja
+	List Table 3 – Purple	Taula de llista 3: porpra
+	Lit from Bottom	Il·luminat des de baix
+	Lit from Top	Il·luminat des de dalt
+	Load System Installed Fonts…	Carrega els tipus de lletra instal·lats al sistema…
+	Loaded {count} system fonts.	S'han carregat {count} tipus de lletra del sistema.
+	Local font access is not supported by your browser.	El vostre navegador no admet l'accés als tipus de lletra locals.
+	Local font access was denied.	S'ha denegat l'accés als tipus de lletra locals.
+	Local recovery is unavailable or still loading.	La recuperació local no està disponible o encara s'està carregant.
+	Location: {path}	Ubicació: {path}
+	Lock aspect ratio	Bloqueja la relació d'aspecte
+	Lock Fields	Bloqueja els camps
+	Log	Log
+	Logarithm	Logaritme
+	Logarithm with Base	Logaritme amb base
+	Logical AND	I lògic
+	Logical AND with Limits	I lògic amb límits
+	Logical OR	O lògic
+	Logical OR with Limits	O lògic amb límits
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: perquè les paraules de veritat encara són a la cafeteria.
+	Lum:	Llum:
+	Macros	Macros
+	Made from the author and year when empty	Es crea a partir de l'autor i l'any quan és buit
+	Magazine or newspaper article	Article de revista o de diari
+	Mail Merge	Combinació de correspondència
+	Mailings	Correspondència
+	Main entry:	Entrada principal:
+	Make WordCraft the default for Word documents…	Fes de WordCraft l'aplicació predeterminada per als documents de Word…
+	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Fa més grans o més petits la cinta, els menús i els diàlegs. Automàtic segueix l'escalat de pantalla del sistema; 100% és un píxel de pantalla per punt. El zoom del document és independent.
+	Manage Sources	Gestiona les fonts
+	Manage Styles	Gestiona els estils
+	Manage Styles…	Gestiona els estils…
+	Manual Hyphenation	Partició manual de mots
+	Manual hyphenation is complete.	La partició manual de mots ha acabat.
+	Manual Line Break	Salt de línia manual
+	Manual Page Break	Salt de pàgina manual
+	Manual…	Manual…
+	Many pages	Moltes pàgines
+	Mark	Marca
+	Mark All	Marca-ho tot
+	Mark as decorative	Marca com a decoratiu
+	Mark Citation	Marca la citació
+	Mark Entry	Marca l'entrada
+	Mark Entry…	Marca l'entrada…
+	Mark grammar errors as you type	Marca els errors gramaticals mentre s'escriu
+	Mark Index Entry	Marca l'entrada d'índex
+	Mark selected text as:	Marca el text seleccionat com a:
+	Mark\nCitation	Marca la\ncitació
+	Mark\nEntry	Marca\nl'entrada
+	Markdown (*.md)	Markdown (*.md)
+	Match case	Coincidència de majúscules i minúscules
+	Match Fields	Fes coincidir els camps
+	Match prefix	Coincideix amb el prefix
+	Match suffix	Coincideix amb el sufix
+	Matches: {count}	Coincidències: {count}
+	Math AutoCorrect	Correcció automàtica matemàtica
+	Matrices with Brackets	Matrius amb claudàtors
+	Matrix	Matriu
+	Maximum Example	Exemple de màxim
+	Measured By	Mesurat per
+	Measurement units:	Unitats de mesura:
+	Merge cells before split	Combina les cel·les abans de dividir
+	Merge Formatting	Combina el format
+	Merge Record #	Núm. de registre combinat
+	Mesosphere	Mesosfera
+	Midline Dots	Punts al mig de la línia
+	Minus Equal	Menys igual
+	Mirror indents	Sagnats simètrics
+	Mirror margins	Marges simètrics
+	Mirrored	Simètric
+	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team i els col·laboradors de WordCraft.
+	MLA	MLA
+	mm	mm
+	Moderate	Moderat
+	Modify Style	Modifica l'estil
+	Modify Table Style	Modifica l'estil de taula
+	Modify Table Style…	Modifica l'estil de taula…
+	Modify…	Modifica…
+	Mon	dl.
+	Month	Mes
+	More >>	Més >>
+	More Colors…	Més colors…
+	More Columns…	Més columnes…
+	More Commands…	Més ordres…
+	More Contrast +20%	Més contrast +20%
+	More Gradients…	Més degradats…
+	More Paper Sizes…	Més mides de paper…
+	More Symbols…	Més símbols…
+	More tabs	Més pestanyes
+	More templates →	Més plantilles →
+	More Underlines…	Més subratllats…
+	Move in Equation	Mou a l'equació
+	Move or Resize	Mou o canvia la mida
+	Move Paragraph Down	Mou el paràgraf avall
+	Move Paragraph Up	Mou el paràgraf amunt
+	Move Past Citation	Salta la citació
+	Move Past\nCitation	Salta la\ncitació
+	Move Selected Ink	Mou la tinta seleccionada
+	Move Table by Dragging	Mou la taula arrossegant
+	Move with Text	Mou amb el text
+	Moved from	Mogut des de
+	Moved from:	Mogut des de:
+	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	Els objectes moguts s'ajusten a les vores i al centre de la pàgina, als marges i a altres objectes. Manteniu premuda Alt per moure'ls lliurement.
+	Moved to	Mogut a
+	Moved to:	Mogut a:
+	Moves	Moviments
+	Multilevel List	Llista multinivell
+	Multilevel List Library	Biblioteca de llistes multinivell
+	Multiple Pages	Diverses pàgines
+	Mute agent messages	Silencia els missatges dels agents
+	Muted 50%	Atenuat 50%
+	My list has	La meva llista té
+	Name of the file this document is saved as	Nom del fitxer amb què es desa aquest document
+	Narrow	Estret
+	Narrow  {size} all	Estret  {size} tots
+	Natural Logarithm	Logaritme natural
+	Nature	Natura
+	Navigation Pane	Tauler de navegació
+	Negated Relations	Relacions negades
+	New Comment	Comentari nou
+	New comments and tracked changes are recorded under this name and these initials.	Els comentaris nous i els canvis controlats es registren amb aquest nom i aquestes inicials.
+	New Drawing Canvas	Llenç de dibuix nou
+	New Entry	Entrada nova
+	New Label	Etiqueta nova
+	New Label…	Etiqueta nova…
+	New Paragraph	Paràgraf nou
+	New shortcut:	Drecera nova:
+	New Tab	Pestanya nova
+	New Table Style	Estil de taula nou
+	New Table Style…	Estil de taula nou…
+	New word	Paraula nova
+	New\nComment	Comentari\nnou
+	New\nWindow	Finestra\nnova
+	Next Comment	Comentari següent
+	Next Field	Camp següent
+	Next Footnote	Nota al peu següent
+	Next Record	Registre següent
+	Next Section	Secció següent
+	Next Sentence	Frase següent
+	Next sentence	Frase següent
+	Nib floats over the window with tips and the occasional remark.	Nib sura sobre la finestra amb consells i algun comentari de tant en tant.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, el vostre assistent. Arrossegueu per moure'l; clic dret per a opcions.
+	No accessibility issues found.	No s'ha trobat cap problema d'accessibilitat.
+	No Border	Sense vora
+	No changes (read only)	Sense canvis (només lectura)
+	No contributor data was built into this copy.	En aquesta còpia no s'han inclòs dades de contribuïdors.
+	No document is open. Create a document or open one first.	No hi ha cap document obert. Primer creeu o obriu un document.
+	no equation at the caret	no hi ha cap equació al cursor
+	No errors found: every merge field is in the recipient list.	No s'han trobat errors: tots els camps de combinació són a la llista de destinataris.
+	No Fill	Sense emplenament
+	No fill	Sense farciment
+	No Glow	Sense resplendor
+	No Gradient	Sense degradat
+	No grid	Sense quadrícula
+	No header row	Sense fila de capçalera
+	No icons match your search.	Cap icona coincideix amb la cerca.
+	No items to show.	No hi ha elements per mostrar.
+	No Markup	Sense marques
+	No model credits were built into this copy.	En aquesta còpia no s'han inclòs crèdits de models.
+	No new sources in that file	No hi ha fonts noves en aquest fitxer
+	No Outline	Sense contorn
+	No Paragraph Space	Sense espai entre paràgrafs
+	No printers found. Configure a system printer or export a PDF.	No s'ha trobat cap impressora. Configureu una impressora del sistema o exporteu un PDF.
+	No recovery copies.	No hi ha còpies de recuperació.
+	No Reflection	Sense reflex
+	No Scaling	Sense escalat
+	No Shadow	Sense ombra
+	No Soft Edges	Sense vores suaus
+	No sources yet.	Encara no hi ha fonts.
+	No Spacing	Sense espaiat
+	No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	No hi ha cap diccionari ortogràfic instal·lat per a {language}, així que no es revisa. WordCraft cerca el diccionari Hunspell {name} a la carpeta WORDCRAFT_DICTIONARIES i a les ubicacions habituals del sistema.
+	No templates match your search.	Cap plantilla coincideix amb la cerca.
+	No Transform	Sense transformació
+	No words yet. Add to Dictionary on a misspelled word puts it here.	Encara no hi ha paraules. «Afegeix al diccionari» en una paraula mal escrita la posa aquí.
+	No-Width Non Break	No separable d'amplada zero
+	No-Width Optional Break	Salt opcional d'amplada zero
+	Nonbreaking Hyphen	Guionet no separable
+	Normal  {size} all	Normal  {size} tots
+	Normal Indent	Sagnat normal
+	Normal probability density	Densitat de probabilitat normal
+	Normal speed	Velocitat normal
+	Normal Style	Estil Normal
+	Normal Table	Taula normal
+	Normal Text	Text normal
+	Normal Word Document	Document de Word normal
+	North	Nord
+	Norwegian (Bokmål)	Noruec (bokmål)
+	Not	No
+	Not available right now	No disponible ara mateix
+	not editing an equation	no s'està editant cap equació
+	Not equal to	No igual a
+	Not linked: click a text box	Sense enllaç: feu clic a un quadre de text
+	Not now	Ara no
+	Not saved	No desat
+	Not saved yet	Encara no s'ha desat
+	Not set	No definit
+	Not set: the system's usual places	No definit: les ubicacions habituals del sistema
+	Not used by any command	No l'utilitza cap ordre
+	Not {name}	No {name}
+	Nothing	Res
+	Nothing collected yet. Items you copy or cut appear here.	Encara no s'ha recollit res. Els elements que copieu o retalleu apareixen aquí.
+	nothing is selected	no hi ha res seleccionat
+	Nothing of this type in the document.	No hi ha res d'aquest tipus al document.
+	Now used by {command}	Ara l'utilitza {command}
+	Nudge	Desplaçament fi
+	Num Occurrences	Nombre d'ocurrències
+	Number alignment:	Alineació del número:
+	Number format	Format de número
+	Number of columns:	Nombre de columnes:
+	Number of rows:	Nombre de files:
+	Number of the page the field sits on	Número de la pàgina on és el camp
+	Number of the section the field sits in	Número de la secció on és el camp
+	Number only, without the label's words	Només el número, sense les paraules de l'etiqueta
+	Number style for this level:	Estil de número per a aquest nivell:
+	Number the equation; the number sits at the right margin (or type # then the number)	Numera l'equació; el número se situa al marge dret (o escriviu # i el número)
+	Numbering	Numeració
+	Numbering:	Numeració:
+	Numbering…	Numeració…
+	Numerals	Xifres
+	Numerals:	Xifres:
+	n×n Identity Matrix	Matriu identitat n×n
+	n×n Matrix	Matriu n×n
+	Odd Banded Columns	Columnes amb bandes senars
+	Odd Banded Rows	Files amb bandes senars
+	Odd Page	Pàgina senar
+	Office	Office
+	Office 2003 Default	Office 2003 predeterminat
+	Offset (pt):	Desplaçament (pt):
+	Offset: Bottom	Desplaçament: avall
+	Offset: Bottom Left	Desplaçament: avall a l'esquerra
+	Offset: Bottom Right	Desplaçament: avall a la dreta
+	Offset: Center	Desplaçament: centre
+	Offset: Left	Desplaçament: esquerra
+	Offset: Right	Desplaçament: dreta
+	Offset: Top	Desplaçament: amunt
+	Offset: Top Left	Desplaçament: amunt a l'esquerra
+	Offset: Top Right	Desplaçament: amunt a la dreta
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Tecles de menú antigues: Alt, {keys}. Continueu escrivint o premeu Esc per cancel·lar.
+	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Activat: el cursor llisca fins a la nova posició quan escriviu o feu servir les fletxes, i el parpelleig s'esvaeix. Desactivat: salta i parpelleja.
+	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Activat: WordCraft s'obre a Fitxer › Inici, amb un document en blanc, les plantilles i els documents recents. Desactivat: obre un document en blanc.
+	One	Un
+	One half	Un mig
+	One label per recipient	Una etiqueta per destinatari
+	One line per item. Enter adds an item.	Una línia per element. Retorn afegeix un element.
+	One Page	Una pàgina
+	One-sided	Una cara
+	Only allow this kind of editing:	Permet només aquest tipus d'edició:
+	Only comments can be added, except in regions marked editable.	Només es poden afegir comentaris, excepte a les regions marcades com a editables.
+	Only for the selected text	Només per al text seleccionat
+	Only form fields can be filled in.	Només es poden emplenar els camps de formulari.
+	only in Outline view	només a la vista d'esquema
+	Only label and number	Només l'etiqueta i el número
+	Only the allowed styles can be applied.	Només es poden aplicar els estils permesos.
+	Only web (http, https) and email (mailto) links can be followed	Només es poden seguir enllaços web (http, https) i de correu (mailto)
+	Open a document first	Obre primer un document
+	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Obre un fitxer amb el navegador propi de WordCraft quan no aparegui el diàleg de fitxers del sistema.
+	OpenDocument Text (*.odt)	Text OpenDocument (*.odt)
+	Opening print dialog…	S'està obrint el diàleg d'impressió…
+	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	A partir d'ara obre amb WordCraft els fitxers .docx, .doc, .rtf i .odt i les plantilles de Word.
+	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Obre Configuració › Aplicacions predeterminades, on trieu WordCraft per a .docx i els altres tipus de document.
+	Operator	Operador
+	Operator Structures	Estructures d'operador
+	Operators	Operadors
+	Optional Hyphen	Guionet opcional
+	Or	O
+	Or save a copy in another format:	O deseu una còpia en un altre format:
+	Ordinals (1st) as superscript	Ordinals (1r) com a superíndex
+	Organizer	Organitzador
+	Organizer…	Organitzador…
+	Original document	Document original
+	Original size	Mida original
+	Other Large Operators	Altres operadors grans
+	Other styles and their TOC level:	Altres estils i el seu nivell a la taula de continguts:
+	Other:	Altres:
+	Otherwise insert:	Si no, insereix:
+	Outline Level	Nivell d'esquema
+	Outline level	Nivell d'esquema
+	Outline levels	Nivells d'esquema
+	Outline State	Estat de l'esquema
+	Outline Tools	Eines d'esquema
+	Outlining	Esquema
+	Outside border	Vora exterior
+	Outside Borders	Vores exteriors
+	Outside:	Exterior:
+	Outward Brackets	Claudàtors cap a fora
+	Overbar	Barra superior
+	Overbars and Underbars	Barres superiors i inferiors
+	Overbrace	Clau superior
+	Overtype	Sobreescriptura
+	Overtype (typing replaces the characters after the caret)	Sobreescriptura (escriure substitueix els caràcters després del cursor)
+	Page Background	Fons de la pàgina
+	Page Border	Vora de la pàgina
+	Page Borders	Vores de la pàgina
+	Page Break	Salt de pàgina
+	Page Break Before	Salt de pàgina abans
+	Page break before	Salt de pàgina abans
+	Page Breaks	Salts de pàgina
+	Page Color	Color de la pàgina
+	Page color	Color de la pàgina
+	Page display	Visualització de pàgines
+	Page Down	Av Pàg
+	Page image (*.png)	Imatge de la pàgina (*.png)
+	Page Movement	Moviment de pàgina
+	Page Number	Número de pàgina
+	Page number	Número de pàgina
+	Page Number Format	Format del número de pàgina
+	Page number style	Estil del número de pàgina
+	Page numbering	Numeració de pàgines
+	Page numbers at the right margin	Números de pàgina al marge dret
+	Page on which a bookmarked passage falls	Pàgina on cau un passatge amb marcador
+	Page Setup	Configuració de pàgina
+	Page title	Títol de la pàgina
+	Page Up	Re Pàg
+	Page Width	Amplada de pàgina
+	Page width	Amplada de pàgina
+	Page X of Y	Pàgina X de Y
+	Page {page}	Pàgina {page}
+	Page\nBorders	Vores\nde pàgina
+	Page\nColor	Color\nde pàgina
+	Page\nNumber	Número de\npàgina
+	Pages like 1-3, 5	Pàgines com 1-3, 5
+	Pages of bookmark:	Pàgines del marcador:
+	Paper size:	Mida del paper:
+	Paragraph Character	Caràcter de paràgraf
+	Paragraph Details	Detalls del paràgraf
+	Paragraph Down	Paràgraf avall
+	Paragraph Mark	Marca de paràgraf
+	Paragraph marks	Marques de paràgraf
+	Paragraph Settings	Configuració del paràgraf
+	Paragraph Spacing	Espaiat entre paràgrafs
+	Paragraph style	Estil de paràgraf
+	Paragraph Up	Paràgraf amunt
+	Paragraphs	Paràgrafs
+	Paragraph…	Paràgraf…
+	Parentheses	Parèntesis
+	Parentheses with Separator	Parèntesis amb separador
+	Partial Differential	Diferencial parcial
+	Password:	Contrasenya:
+	Paste (⌘V)	Enganxa (⌘V)
+	Paste All	Enganxa-ho tot
+	Paste as:	Enganxa com a:
+	Paste Clipboard Item	Enganxa l'element del porta-retalls
+	Paste Formatting	Enganxa el format
+	Paste function:	Enganxa la funció:
+	Paste Special…	Enganxament especial…
+	Paste: Keep Text Only	Enganxa: mantén només el text
+	Paste: Merge Formatting	Enganxa: combina el format
+	Pastes the clipboard's picture.	Enganxa la imatge del porta-retalls.
+	Paused	En pausa
+	PDF document (*.pdf)	Document PDF (*.pdf)
+	Pens	Plomes
+	People	Persones
+	Periodical	Publicació periòdica
+	Personal	Personal
+	Personal Templates	Plantilles personals
+	Personalize	Personalitza
+	Phonetic Guide	Guia fonètica
+	pi	pi
+	Pi Over 2	Pi sobre 2
+	Pick a custom group (New Group makes one)	Trieu un grup personalitzat (Grup nou en crea un)
+	Pick a field from the list	Trieu un camp de la llista
+	Picture	Imatge
+	Picture Border	Vora de la imatge
+	Picture border	Vora de la imatge
+	Picture Content Control	Control de contingut d'imatge
+	Picture Format	Format de la imatge
+	Picture Styles	Estils d'imatge
+	Picture transparency	Transparència de la imatge
+	Pictures	Imatges
+	Pie	Circular
+	Place in This Document	Lloc d'aquest document
+	Placeholder text	Text de marcador de posició
+	Plain Table 1	Taula simple 1
+	Plain text (*.txt)	Text sense format (*.txt)
+	Plain Text Content Control	Control de contingut de text sense format
+	Play/Pause	Reprodueix/pausa
+	Plus Equal	Més igual
+	Points and above	Punts i més
+	Polish	Polonès
+	Portuguese (Brazil)	Portuguès (Brasil)
+	Portuguese (Portugal)	Portuguès (Portugal)
+	Possible spelling mistake	Possible error ortogràfic
+	Postal Code	Codi postal
+	Power series of (1+x)ⁿ	Sèrie de potències de (1+x)ⁿ
+	Preferred width:	Amplada preferida:
+	Preserve formatting during updates	Conserva el format durant les actualitzacions
+	Preset gradients	Degradats predefinits
+	Press a key combination	Premeu una combinació de tecles
+	Preview Results	Previsualitza els resultats
+	Preview\nResults	Previsualitza\nels resultats
+	Previous 1 or More	1 o més anteriors
+	Previous Comment	Comentari anterior
+	Previous Field	Camp anterior
+	Previous Record	Registre anterior
+	Previous Section	Secció anterior
+	Previous Sentence	Frase anterior
+	Previous sentence	Frase anterior
+	Print Documents	Imprimeix documents
+	Print Documents…	Imprimeix documents…
+	Print failed: the printing worker stopped.	Ha fallat la impressió: el procés d'impressió s'ha aturat.
+	Print failed: {error}	Ha fallat la impressió: {error}
+	Print job submitted.	S'ha enviat el treball d'impressió.
+	Print job submitted: spooled {count} sheet(s)	S'ha enviat el treball d'impressió: {count} full(s) a la cua
+	Print job submitted: {receipt}	S'ha enviat el treball d'impressió: {receipt}
+	Print Layout	Disposició d'impressió
+	Print Markup	Imprimeix les marques
+	Print settings	Configuració d'impressió
+	Print the page color	Imprimeix el color de la pàgina
+	Print to PDF	Imprimeix a PDF
+	Print\nLayout	Disposició\nd'impressió
+	Printer default	Printer default
+	Printer discovery failed.	Ha fallat la detecció d'impressores.
+	Privacy for this document	Privadesa d'aquest document
+	Privacy Options	Opcions de privadesa
+	Privacy Settings	Configuració de privadesa
+	Process	Procés
+	Product	Producte
+	Product of A	Producte d'A
+	Product with Limits	Producte amb límits
+	Product with Lower Limit	Producte amb límit inferior
+	Product with Subscript-Superscript Limits	Producte amb límits de subíndex i superíndex
+	Products and Coproducts	Productes i coproductes
+	Professional	Professional
+	Promote	Apuja de nivell
+	Promote to Heading 1	Promou a Encapçalament 1
+	Proofing	Correcció
+	Proofing Issues	Problemes de correcció
+	Proofing language	Idioma de correcció
+	Protect Document	Protegeix el document
+	pt	pt
+	Publisher	Editorial
+	Put the caret in a content control first.	Primer col·loqueu el cursor en un control de contingut.
+	Put the default commands back on the Quick Access Toolbar?	Voleu tornar a posar les ordres predeterminades a la barra d'accés ràpid?
+	Quadratic Root	Arrel quadràtica
+	Quick Access Toolbar	Barra d'accés ràpid
+	Quick Parts	Elements ràpids
+	Quick Tables	Taules ràpides
+	Quote	Cita
+	Radical	Radical
+	Radical with Degree	Radical amb índex
+	Radicals	Radicals
+	Raised/lowered	Elevat/rebaixat
+	Read Aloud	Llegeix en veu alta
+	Read Aloud Status	Estat de la lectura en veu alta
+	Read Mode	Mode de lectura
+	Read\nAloud	Llegeix\nen veu alta
+	Read\nMode	Mode de\nlectura
+	Reading	Lectura
+	Reading Column Width	Amplada de columna de lectura
+	Reading Highlight	Ressaltat de lectura
+	Reading Line Spacing	Interlineat de lectura
+	Reading Mode	Mode de lectura
+	Reading Page Color	Color de pàgina de lectura
+	Reading Speed	Velocitat de lectura
+	Reading Text Size	Mida del text de lectura
+	Reads the clipboard's rich text and keeps its formatting.	Llegeix el text enriquit del porta-retalls i en conserva el format.
+	Reads the clipboard's web content and keeps its formatting.	Llegeix el contingut web del porta-retalls i en conserva el format.
+	Recent documents to show:	Documents recents per mostrar:
+	Recently Used Fonts	Tipus de lletra utilitzats recentment
+	Recently used symbols:	Símbols utilitzats recentment:
+	Recipient List	Llista de destinataris
+	Recipient lists	Llistes de destinataris
+	Recipients: {count}	Destinataris: {count}
+	Recolor a one-color picture, such as an icon	Torna a acolorir una imatge d'un sol color, com una icona
+	Recolor Selected Ink	Torna a acolorir la tinta seleccionada
+	Record Macro	Enregistra una macro
+	Recover documents	Recupera documents
+	Recover Unsaved Documents	Recupera documents no desats
+	Recovery copy	Còpia de recuperació
+	Recovery is disabled while this document has a password.	La recuperació està desactivada mentre aquest document tingui contrasenya.
+	Red:	Vermell:
+	Reduce Hanging Indent	Redueix el sagnat francès
+	Reference type:	Tipus de referència:
+	References	Referències
+	Reflection	Reflex
+	Refresh printers	Actualitza les impressores
+	Region:	Regió:
+	Registered	Registrat
+	Registered Sign	Signe de marca registrada
+	Regular expressions	Expressions regulars
+	Reject	Rebutja
+	Reject All Changes	Rebutja tots els canvis
+	Reject Change	Rebutja el canvi
+	Relationship	Relació
+	Relative to original picture size	Relatiu a la mida original de la imatge
+	Remove Added Font	Elimina el tipus de lletra afegit
+	Remove condition	Elimina la condició
+	Remove Content Control	Elimina el control de contingut
+	Remove every custom shortcut and restore the built-in keys?	Voleu eliminar totes les dreceres personalitzades i restaurar les tecles integrades?
+	Remove every custom tab and group and show all tabs again?	Voleu eliminar totes les pestanyes i grups personalitzats i tornar a mostrar totes les pestanyes?
+	Remove field	Elimina el camp
+	Remove Footer	Elimina el peu de pàgina
+	Remove from Quick Access Toolbar	Elimina de la barra d'eines d'accés ràpid
+	Remove gradient stop	Elimina l'aturada de degradat
+	Remove Header	Elimina la capçalera
+	Remove Hyperlink	Elimina l'hiperenllaç
+	Remove my name from comments, changes and file properties when saving	Elimina el meu nom dels comentaris, dels canvis i de les propietats del fitxer en desar
+	Remove Password	Elimina la contrasenya
+	Remove Pen	Elimina la ploma
+	Remove recipient	Elimina el destinatari
+	Remove row	Elimina la fila
+	Remove series	Elimina la sèrie
+	Remove Space After Paragraph	Elimina l'espai després del paràgraf
+	Remove Table of Contents	Elimina la taula de continguts
+	Remove the control once edited	Elimina el control un cop editat
+	Remove the space before the punctuation	Elimina l'espai abans de la puntuació
+	Remove Watermark	Elimina la marca d'aigua
+	Rename Document	Canvia el nom del document
+	Reopen	Torna a obrir
+	Repeat as header row on each page	Repeteix com a fila de capçalera a cada pàgina
+	Repeat Header Rows	Repeteix les files de capçalera
+	Repeating Section Content Control	Control de contingut de secció repetida
+	Replace All	Substitueix-ho tot
+	Replace as you type	Substitueix mentre s'escriu
+	Replace Document Text	Substitueix el text del document
+	Replace text as you type	Substitueix el text mentre escrius
+	Replace with:	Substitueix per:
+	Replay	Torna a reproduir
+	Research	Recerca
+	Researcher	Investigador
+	Researcher needs an online service; WordCraft keeps your documents offline.	L'Investigador necessita un servei en línia; WordCraft manté els documents fora de línia.
+	Reset All…	Restableix-ho tot…
+	Reset Character Formatting	Restableix el format de caràcter
+	Reset Crop	Restableix el retall
+	Reset Graphic	Restableix el gràfic
+	Reset Paragraph Formatting	Restableix el format de paràgraf
+	Reset Picture	Restableix la imatge
+	Reset tips	Restableix els consells
+	Reset to Normal	Restableix a Normal
+	Reset\nGraphic	Restableix\nel gràfic
+	Resize Table by Dragging	Canvia la mida de la taula arrossegant
+	Resolve	Resol
+	Resolved	Resolt
+	Restart at 1	Reinicia a 1
+	Restart Each Page	Reinicia a cada pàgina
+	Restart Each Section	Reinicia a cada secció
+	Restart list after:	Reinicia la llista després de:
+	Restore opens an unsaved copy. Your original file stays unchanged.	Restaura obre una còpia no desada. El fitxer original no canvia.
+	Restrict Editing	Restringeix l'edició
+	Restrict\nEditing	Restringeix\nl'edició
+	Results	Resultats
+	Return address labels	Etiquetes d'adreça del remitent
+	Return address:	Adreça del remitent:
+	Reviewing	Revisió
+	Reviewing Pane	Tauler de revisió
+	Reviewing — edits become suggestions	Revisió: les edicions esdevenen suggeriments
+	Revised document	Document revisat
+	Rewind	Rebobina
+	Rewinding. Tell me when to stop.	S'està rebobinant. Digueu-me quan he de parar.
+	Ribbon	Cinta
+	Ribbon and Quick Access Toolbar:	Cinta i barra d'accés ràpid:
+	Ribbon tabs	Pestanyes de la cinta
+	Rich Text Content Control	Control de contingut de text enriquit
+	Rich Text Format (*.rtf)	Format de text enriquit (*.rtf)
+	Rich Text Format (RTF)	Format de text enriquit (RTF)
+	Right (vertical)	Dreta (vertical)
+	Right Arrow with Text Above	Fletxa a la dreta amb text a sobre
+	Right Arrow with Text Below	Fletxa a la dreta amb text a sota
+	Right Border	Vora dreta
+	Right border	Vora dreta
+	Right Bracket Twice	Claudàtor dret doble
+	Right indent	Sagnat dret
+	Right Margin	Marge dret
+	Right Only	Només dreta
+	Right-to-left	De dreta a esquerra
+	Right-to-Left Section	Secció de dreta a esquerra
+	Right-to-Left Table	Taula de dreta a esquerra
+	Right-to-Left Text Direction	Direcció del text de dreta a esquerra
+	Rightwards Arrow Above	Fletxa cap a la dreta a sobre
+	Rightwards Harpoon Above	Arpó cap a la dreta a sobre
+	Romanian	Romanès
+	Roots of ax²+bx+c	Arrels de ax²+bx+c
+	Rotate all text 270°	Gira tot el text 270°
+	Rotate all text 90°	Gira tot el text 90°
+	Rotate Left 90°	Gira 90° a l'esquerra
+	Rotate Right 90°	Gira 90° a la dreta
+	Rotate with shape	Gira amb la forma
+	Rounded	Arrodonit
+	Row	Fila
+	Row:	Fila:
+	Rows & Columns	Files i columnes
+	Ruby text:	Text ruby:
+	Rules	Regles
+	Run-in	En línia
+	Résumé	Currículum
+	SAMPLE	MOSTRA
+	Sat:	Sat:
+	Saturation and recolor	Saturació i recoloració
+	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Deseu una còpia en un altre format. La impressió passa per un PDF que podeu imprimir des de qualsevol visor.
+	Save as Word Template…	Desa com a plantilla de Word…
+	Save documents	Desa documents
+	Save the document to turn on AutoSave	Deseu el document per activar el desament automàtic
+	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Deseu el document per activar el desament automàtic (un fitxer que només heu obert no es reescriu fins que el deseu)
+	Save these pages as PDF…	Desa aquestes pàgines com a PDF…
+	Saved. Saved again. Still saved. It's very saved.	Desat. Desat de nou. Encara desat. Està molt desat.
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Desa una plantilla .dotx a la carpeta de plantilles. Apareix a Fitxer › Nou, a Personal.
+	Saving {name} was cancelled, so it is still open and nothing was lost.	S'ha cancel·lat el desament de {name}, així que continua obert i no s'ha perdut res.
+	Sayings	Dites
+	Sayings:	Dites:
+	Scale Drawing	Escala el dibuix
+	Scale to paper size	Escala a la mida del paper
+	Scatter	Dispersió
+	Script	Script
+	Scroll ribbon left	Desplaça la cinta a l'esquerra
+	Scroll ribbon right	Desplaça la cinta a la dreta
+	Search Commands	Cerca ordres
+	Search commands and help	Cerca ordres i ajuda
+	Search document	Cerca al document
+	Search for templates	Cerca plantilles
+	Search icons	Cerca icones
+	Search Options	Opcions de cerca
+	Secant Function	Funció secant
+	Section 1.01	Secció 1.01
+	Section Break	Salt de secció
+	Section Breaks	Salts de secció
+	Section Character	Caràcter de secció
+	Section direction:	Direcció de la secció:
+	Section Mark	Marca de secció
+	Section Properties	Propietats de la secció
+	Sections	Seccions
+	See	Vegeu
+	select a chart first	primer seleccioneu un gràfic
+	select a connector first	primer seleccioneu un connector
+	select a drawing canvas first	primer seleccioneu un llenç de dibuix
+	select a floating picture or shape first	primer seleccioneu una imatge o forma flotant
+	select a group first	primer seleccioneu un grup
+	select a picture first	primer seleccioneu una imatge
+	select a picture or shape first	primer seleccioneu una imatge o forma
+	Select a picture, shape, chart or table to describe it.	Seleccioneu una imatge, forma, gràfic o taula per descriure-la.
+	Select a place in this document:	Seleccioneu un lloc d'aquest document:
+	Select a printer	Seleccioneu una impressora
+	select a shape first	primer seleccioneu una forma
+	Select a shape, text box or drawing canvas to format its fill.	Seleccioneu una forma, quadre de text o llenç de dibuix per donar format a l'emplenament.
+	select a SmartArt graphic first	primer seleccioneu un gràfic SmartArt
+	select a text box first	primer seleccioneu un quadre de text
+	select a text box linked to another first	primer seleccioneu un quadre de text enllaçat a un altre
+	Select Cell	Selecciona la cel·la
+	Select Column	Selecciona la columna
+	Select Heading and Content	Selecciona l'encapçalament i el contingut
+	Select Line	Selecciona la línia
+	Select Paragraph	Selecciona el paràgraf
+	Select Range	Selecciona l'interval
+	Select Recipients	Selecciona els destinataris
+	select recipients first	primer seleccioneu els destinataris
+	Select recipients first to choose from their fields.	Seleccioneu primer els destinataris per triar entre els seus camps.
+	Select recipients first to match their fields.	Seleccioneu primer els destinataris per fer coincidir els seus camps.
+	Select Row	Selecciona la fila
+	Select Sentence	Selecciona la frase
+	Select Table	Selecciona la taula
+	Select Table Cells by Clicking	Selecciona cel·les de taula amb un clic
+	Select Text	Selecciona el text
+	Select Text with Similar Formatting	Selecciona el text amb format similar
+	Select text, then tick who can still edit it.	Seleccioneu el text i marqueu qui encara el pot editar.
+	select two or more cells to merge	seleccioneu dues o més cel·les per combinar
+	select two or more pictures or shapes first (Shift+click)	primer seleccioneu dues o més imatges o formes (Maj+clic)
+	Select Word	Selecciona la paraula
+	Select\nRecipients	Selecciona els\ndestinataris
+	Selected Fields	Camps seleccionats
+	Selected text	Text seleccionat
+	Selection Pane	Tauler de selecció
+	Send the document straight to the system print dialog, or save a copy in another format below.	Envieu el document directament al diàleg d'impressió del sistema, o deseu-ne una còpia en un altre format a continuació.
+	Sentence	Frase
+	Sentence case.	Majúscula inicial de frase.
+	Separate text at	Separa el text a
+	Separator:	Separador:
+	Sepia	Sèpia
+	Sequence name:	Nom de la seqüència:
+	Serbian (Cyrillic)	Serbi (ciríl·lic)
+	Serbian (Latin)	Serbi (llatí)
+	Series name	Nom de la sèrie
+	Series {n}	Sèrie {n}
+	Set As Default	Estableix com a predeterminat
+	Set Caret	Situa el cursor
+	Set Character Formatting	Estableix el format de caràcter
+	Set Date	Estableix la data
+	Set Equation	Estableix l'equació
+	Set Numbering Value	Estableix el valor de numeració
+	Set Paragraph Formatting	Estableix el format de paràgraf
+	Set Proofing Language…	Estableix l'idioma de correcció…
+	Setting:	Configuració:
+	Shading	Ombrejat
+	Shadow, glow and soft edges	Ombra, resplendor i vores suaus
+	Shape Fill	Emplenament
+	Shape Format	Format de la forma
+	Shape Outline	Contorn
+	Shape Styles	Estils de forma
+	Shift+Enter starts a new line without starting a new paragraph.	Maj+Retorn comença una línia nova sense començar un paràgraf nou.
+	Shift+Tab	Maj+Tab
+	Shipping labels	Etiquetes d'enviament
+	Shortcut key:	Tecla de drecera:
+	Show alignment guides when moving pictures and shapes	Mostra guies d'alineació en moure imatges i formes
+	Show all formatting marks	Mostra totes les marques de format
+	Show All Levels	Mostra tots els nivells
+	Show all revisions inline	Mostra totes les revisions en línia
+	Show changes at:	Mostra els canvis a:
+	Show changes in:	Mostra els canvis a:
+	Show Comments	Mostra els comentaris
+	Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged.	Mostra els documents amb els colors invertits, com Visualització › Canvia de mode. El desament, la impressió i els PDF no canvien.
+	Show every bibliography field	Mostra tots els camps bibliogràfics
+	Show First Line Only	Mostra només la primera línia
+	Show in the Styles gallery	Mostra a la galeria d'estils
+	Show its list number	Mostra el número de llista
+	Show its number relative to this field	Mostra el número relatiu a aquest camp
+	Show its number with all higher levels	Mostra el número amb tots els nivells superiors
+	Show KeyTips (Alt or F10)	Mostra les indicacions de tecles (Alt o F10)
+	Show Level	Mostra el nivell
+	Show Level 1	Mostra el nivell 1
+	Show Level 2	Mostra el nivell 2
+	Show Level 3	Mostra el nivell 3
+	Show Level 4	Mostra el nivell 4
+	Show Level 5	Mostra el nivell 5
+	Show Level 6	Mostra el nivell 6
+	Show Level 7	Mostra el nivell 7
+	Show Level 8	Mostra el nivell 8
+	Show Level 9	Mostra el nivell 9
+	Show Markup	Mostra les marques
+	Show Notes	Mostra les notes
+	Show only comments and formatting in balloons	Mostra només els comentaris i el format als globus
+	Show only records that will be merged	Mostra només els registres que es combinaran
+	Show or Hide Style	Mostra o amaga l'estil
+	Show Quick Access Toolbar	Mostra la barra d'accés ràpid
+	Show revisions in balloons	Mostra les revisions als globus
+	Show Text Formatting	Mostra el format del text
+	Show the Assistant	Mostra l'Assistent
+	Show the community button in the title bar	Mostra el botó de la comunitat a la barra de títol
+	Show the equation in the line of text	Mostra l'equació a la línia de text
+	Show the equation on a line of its own	Mostra l'equació en una línia pròpia
+	Show the mini toolbar when text is selected	Mostra la minibarra d'eines quan se selecciona text
+	Show the ribbon	Mostra la cinta
+	Show the Start screen when WordCraft starts	Mostra la pantalla d'inici quan s'inicia WordCraft
+	Show the tips you asked not to see again.	Mostra els consells que heu demanat no tornar a veure.
+	Show/Hide ¶	Mostra/amaga ¶
+	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Mostra/amaga ¶ (Ctrl+Maj+8) mostra els espais, les tabulacions i els salts amagats al text.
+	Show\nComments	Mostra els\ncomentaris
+	Showing the first {count} items.	Es mostren els primers {count} elements.
+	Shows a tree: each item below the item it belongs to.	Mostra un arbre: cada element sota l'element al qual pertany.
+	Shows items around a central idea: the first item is the centre.	Mostra elements al voltant d'una idea central: el primer element és el centre.
+	Shows items of equal weight as blocks in rows.	Mostra elements del mateix pes com a blocs en files.
+	Shows overlapping ideas as overlapping circles.	Mostra idees que se superposen com a cercles superposats.
+	Shows parts of a whole as quadrants.	Mostra les parts d'un tot com a quadrants.
+	Shows parts that build on each other, largest at the bottom.	Mostra parts que es construeixen les unes sobre les altres, la més gran a baix.
+	Shows steps in order, left to right, with arrows between them.	Mostra passos en ordre, d'esquerra a dreta, amb fletxes entre ells.
+	Shows steps that repeat, around a circle.	Mostra passos que es repeteixen, al voltant d'un cercle.
+	Shrink Font 1 Point	Redueix la lletra 1 punt
+	Shrink text	Redueix el text
+	Side to Side	Costat a costat
+	Side\nto Side	Costat\na costat
+	Sides of a right triangle	Costats d'un triangle rectangle
+	Signature Line	Línia de signatura
+	Simple Frame	Marc simple
+	Sine and cosine series of f(x)	Sèrie de sinus i cosinus de f(x)
+	Sine Function	Funció sinus
+	Sine theta	Sinus de theta
+	Single	Senzill
+	Single Brackets	Claudàtors simples
+	Single Closing Quote	Cometa simple de tancament
+	Single label	Etiqueta única
+	Single Left Angle	Angle esquerre simple
+	Single Left Bar	Barra esquerra simple
+	Single Left Brace	Clau esquerra simple
+	Single Left Bracket	Claudàtor esquerre simple
+	Single Left Parenthesis	Parèntesi esquerre simple
+	Single Opening Quote	Cometa simple d'obertura
+	Single Right Brace	Clau dreta simple
+	Single Right Bracket	Claudàtor dret simple
+	Single Right Parenthesis	Parèntesi dret simple
+	Single Spacing	Interlineat senzill
+	SIST02	SIST02
+	Site name	Nom del lloc
+	Size (pt):	Mida (pt):
+	Size and Crop…	Mida i retall…
+	Sketchbook	Quadern d'esbossos
+	Skewed Fraction	Fracció inclinada
+	Skip citations & bibliography	Omet les citacions i la bibliografia
+	Skip Citations and Bibliography	Omet les citacions i la bibliografia
+	Skip Record If	Omet el registre si
+	Skip Record If…	Omet el registre si…
+	Slant Down	Inclinat cap avall
+	Slant Up	Inclinat cap amunt
+	Small caps	Versaletes
+	Small change	Canvi petit
+	Smart quotes instead of straight quotes	Cometes tipogràfiques en lloc de cometes rectes
+	SmartArt	SmartArt
+	SmartArt Design	Disseny de SmartArt
+	SmartArt Styles	Estils de SmartArt
+	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Desplaçament i zoom suaus, i menús i botons que apareixen gradualment. Desactivat mostra cada canvi de cop.
+	Soft Edge	Vora suau
+	Soft Edges	Vores suaus
+	Soft Glow	Resplendor suau
+	Solid Accent	Èmfasi sòlid
+	Solid fill	Emplenament sòlid
+	Sometimes	De vegades
+	Sort by:	Ordena per:
+	Sort order:	Ordre:
+	Sort Recipients	Ordena els destinataris
+	Source code: github.com/storytold/wordcraft	Codi font: github.com/storytold/wordcraft
+	Source Manager	Gestor de fonts
+	Source type:	Tipus de font:
+	Sources in this document:	Fonts d'aquest document:
+	South	Sud
+	Space	Espai
+	Space after	Espai després
+	Space after: {pt} pt	Espai després: {pt} pt
+	Space before	Espai abans
+	Space before/after:	Espai abans/després:
+	Space before: {pt} pt	Espai abans: {pt} pt
+	Spacing (pt):	Espaiat (pt):
+	Spanish (Latin America)	Espanyol (Amèrica Llatina)
+	Spanish (Mexico)	Espanyol (Mèxic)
+	Spanish (Spain)	Espanyol (Espanya)
+	Spanish (Uruguay)	Espanyol (Uruguai)
+	Sparse Matrices	Matrius disperses
+	Special Characters	Caràcters especials
+	Specify height:	Especifiqueu l'alçada:
+	Speech	Veu
+	Spelling & Grammar	Ortografia i gramàtica
+	Spelling &\nGrammar	Ortografia i\ngramàtica
+	Spelling and grammar are checked in English (United States).	L'ortografia i la gramàtica es revisen en anglès (Estats Units).
+	Spelling and grammar are checked in {language}.	L'ortografia i la gramàtica es revisen en {language}.
+	Spelling Suggestions	Suggeriments ortogràfics
+	Spike	Acumulador
+	Split Cells	Divideix les cel·les
+	Split Table	Divideix la taula
+	Spreadsheet Table	Taula de full de càlcul
+	Square Root	Arrel quadrada
+	Square Root with Degree	Arrel amb índex
+	Square Union	Unió quadrada
+	Stack Object	Objecte apilat
+	Stack Object (Three)	Objecte apilat (tres)
+	Stacked Bar	Barra apilada
+	Stacked Column	Columna apilada
+	Stacked Fraction	Fracció apilada
+	Stacked, no bar	Apilada, sense barra
+	Standard Colors	Colors estàndard
+	Start Enforcing Protection	Comença a aplicar la protecció
+	Start Mail Merge	Inicia la combinació de correspondència
+	Start Mail\nMerge	Inicia la combinació\nde correspondència
+	Start-up	Inici
+	State	Estat/província
+	Statement   5.50" × 8.50"	Statement   5,50" × 8,50"
+	Still there? I can hear you thinking.	Encara hi sou? Us sento pensar.
+	Stop Protection	Atura la protecció
+	Stop Reading	Deixa de llegir
+	Stopped	Aturat
+	Straight Arrow Connector	Connector de fletxa recta
+	Straight Connector	Connector recte
+	Stroke {n} of {total}	Traç {n} de {total}
+	Strong	Forta
+	Structure Actions	Accions d'estructura
+	Structures	Estructures
+	Studio cover	Coberta d'estudi
+	Studio handbook (sample)	Manual de l'estudi (mostra)
+	Style based on:	Estil basat en:
+	Style Inspector	Inspector d'estils
+	Style name:	Nom de l'estil:
+	Style Set	Conjunt d'estils
+	Style: APA	Estil: APA
+	Style: {style}	Estil: {style}
+	Styles Pane	Tauler d'estils
+	Styles:	Estils:
+	Subentry:	Subentrada:
+	Submit print job	Envia el treball d'impressió
+	Submitting print job…	S'està enviant el treball d'impressió…
+	Subscript-Superscript	Subíndex i superíndex
+	Subscripts and Superscripts	Subíndexs i superíndexs
+	Subset:	Subconjunt:
+	Subtle Emphasis	Èmfasi subtil
+	Subtle Reference	Referència subtil
+	Suggested	Suggerit
+	Sum	Suma
+	Sum of cosines	Suma de cosinus
+	Sum or difference of sines	Suma o diferència de sinus
+	Summation	Sumatori
+	Summation from 0 to n	Sumatori de 0 a n
+	Summation over binomials	Sumatori sobre binomials
+	Summation with Limits	Sumatori amb límits
+	Summation with Lower Limit	Sumatori amb límit inferior
+	Summation with Subscript Limit	Sumatori amb límit de subíndex
+	Summation with Subscript-Superscript Limits	Sumatori amb límits de subíndex i superíndex
+	Summations	Sumatoris
+	Suppress line numbers	Suprimeix els números de línia
+	Surface Integral	Integral de superfície
+	Surface Integral with Limits	Integral de superfície amb límits
+	Surface Integral with Stacked Limits	Integral de superfície amb límits apilats
+	Swap footnotes and endnotes	Intercanvia les notes al peu i les notes finals
+	Swedish	Suec
+	Switch Modes	Canvia de mode
+	Switch\nModes	Canvia\nde mode
+	Synonyms	Sinònims
+numerals	System	Sistema
+	Tab Character	Caràcter de tabulació
+	Tab character	Caràcter de tabulació
+	Tab characters	Caràcters de tabulació
+	Tab leader:	Caràcter de farciment de la tabulació:
+	Tab stop position:	Posició de la tabulació:
+	Tab stops to be cleared:	Tabulacions per esborrar:
+	Table Column Width	Amplada de columna de la taula
+	Table Design	Disseny de la taula
+	Table direction:	Direcció de la taula:
+	Table Grid	Quadrícula de taula
+	Table Layout	Disposició de la taula
+	Table of Authorities	Taula d'autoritats
+	Table of Contents	Taula de continguts
+	Table of Contents Options	Opcions de la taula de continguts
+	Table of Contents Styles	Estils de la taula de continguts
+	Table of Figures	Taula d'il·lustracions
+	Table of\nContents	Taula de\ncontinguts
+	Table Properties	Propietats de la taula
+	Table Properties…	Propietats de la taula…
+	Table Row Height	Alçada de fila de la taula
+	Table size	Mida de la taula
+	Table Style Options	Opcions d'estil de taula
+	Table Styles	Estils de taula
+	Tabloid   11.00" × 17.00"	Tabloide   11,00" × 17,00"
+	Tabs…	Tabulacions…
+	Tabular List	Llista tabular
+	Tag	Etiqueta
+	Take the last match on the page	Pren l'última coincidència de la pàgina
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Preneu-vos-ho amb calma. La pàgina no se n'anirà enlloc. Ni jo tampoc. Mai.
+	Tangent formula	Fórmula de la tangent
+	Tangent Function	Funció tangent
+	TC entry fields	Camps d'entrada TC
+	Technology	Tecnologia
+	Templates and Add-ins	Plantilles i complements
+	Templates you save in your templates folder show up here.	Les plantilles que deseu a la carpeta de plantilles apareixen aquí.
+	Text Box	Quadre de text
+	Text boxes	Quadres de text
+	text boxes can't go inside a text box	els quadres de text no poden anar dins d'un quadre de text
+	Text Direction	Direcció del text
+	Text Effects	Efectes de text
+	Text Effects and Typography	Efectes de text i tipografia
+	Text Fill	Emplenament del text
+	Text from File	Text des d'un fitxer
+	Text Highlight Color	Color de ressaltat del text
+	Text indent at:	Sagnat del text a:
+	Text of the nearest paragraph with a given style (running headers)	Text del paràgraf més proper amb un estil determinat (capçaleres variables)
+	Text Outline	Contorn del text
+	Text over Colon Equal	Text sobre dos punts igual
+	Text over Equal	Text sobre igual
+	Text Pane	Tauler de text
+	Text size	Mida del text
+	Text snaps to characters	El text s'ajusta als caràcters
+	Text to display:	Text que es mostra:
+	Text Wrapping	Ajust del text
+	Text\nBox	Quadre\nde text
+	Text\nDirection	Direcció\ndel text
+	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Aquest format no ho conserva tot, així que el document continua obert. Deseu-lo com a document de Word (.docx) per continuar.
+	That password isn't right. Check it (passwords are case-sensitive) and try again.	La contrasenya no és correcta. Comproveu-la (les contrasenyes distingeixen majúscules i minúscules) i torneu-ho a provar.
+	The clipboard is empty.	El porta-retalls és buit.
+	the Clipboard pane is empty	el tauler del porta-retalls és buit
+	the cursor isn't in a table	el cursor no és dins d'una taula
+	The date it is today	La data d'avui
+	The document has no bookmarks yet.	El document encara no té marcadors.
+	the document is protected	el document està protegit
+	The document is read only, except for regions marked editable.	El document és només de lectura, excepte les regions marcades com a editables.
+	The document will be saved with a password. Save it to protect it.	El document es desarà amb contrasenya. Deseu-lo per protegir-lo.
+	The document you are editing keeps the names and dates; only the saved file leaves them out.	El document que editeu conserva els noms i les dates; només el fitxer desat els omet.
+	The margins don't fit on a page this size; make the margins smaller first.	Els marges no caben en una pàgina d'aquesta mida; primer feu els marges més petits.
+	The measurement must be between {min} and {max}.	La mesura ha d'estar entre {min} i {max}.
+	The new style takes the formatting of the current paragraph.	L'estil nou pren el format del paràgraf actual.
+	The number must be a divisor of {max}.	El número ha de ser un divisor de {max}.
+	The number must be between 1 and {max}.	El número ha d'estar entre 1 i {max}.
+	the paragraph is empty	el paràgraf és buit
+	the paragraph starts with a space	el paràgraf comença amb un espai
+	The password is optional; without it anyone can stop the protection.	La contrasenya és opcional; sense ella, qualsevol pot aturar la protecció.
+	The password is removed. Save the document to keep the change.	S'ha eliminat la contrasenya. Deseu el document per conservar el canvi.
+	The printer, two-sided printing and pages per sheet are chosen in that dialog.	La impressora, la impressió a doble cara i les pàgines per full es trien en aquest diàleg.
+	The recipient-list field that fills each part of an address block and greeting line.	El camp de la llista de destinataris que emplena cada part d'un bloc d'adreça i d'una línia de salutació.
+	The spelling and grammar check is complete.	La revisió ortogràfica i gramatical ha acabat.
+	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	No s'ha pogut llegir el diccionari ortogràfic per a {language}, així que no es revisa. Fitxer: {file}. Motiu: {reason}
+	the Spike is empty	l'acumulador és buit
+	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	El diàleg de fitxers del sistema no està disponible, així que WordCraft mostra el seu. Per obtenir el diàleg del sistema, instal·leu un portal de selecció de fitxers (com xdg-desktop-portal-gtk) o zenity.
+	The text at the insertion point is marked Do not check spelling or grammar.	El text al punt d'inserció està marcat com a No revisis l'ortografia ni la gramàtica.
+	The time right now	L'hora d'ara
+	Theme Colors	Colors del tema
+	Theme Fonts	Tipus de lletra del tema
+	Theme List	Llista de temes
+	Themes	Temes
+	Then by	Després per
+	Then insert:	Aleshores insereix:
+	there is no ink to replay	no hi ha tinta per reproduir
+	there is nothing to undo	no hi ha res per desfer
+	there's no citation after the caret	no hi ha cap citació després del cursor
+	Thesaurus	Tesaurus
+	These marks show even when Show/Hide ¶ is off.	Aquestes marques es mostren fins i tot quan Mostra/amaga ¶ està desactivat.
+	These merge fields aren't in the recipient list:	Aquests camps de combinació no són a la llista de destinataris:
+	These settings will be used for new documents.	Aquesta configuració s'utilitzarà per als documents nous.
+	Thick	Gruixuda
+	Thick Frame	Marc gruixut
+	Thin	Fina
+	This cannot be undone. Your original file stays unchanged.	No es pot desfer. El fitxer original no canvia.
+	this chart was made in another program: WordCraft shows it but can't edit it	aquest gràfic es va fer amb un altre programa: WordCraft el mostra però no el pot editar
+	This document	Aquest document
+	This field has no options.	Aquest camp no té opcions.
+	This folder can't be read: {error}	No es pot llegir aquesta carpeta: {error}
+	This font has no characters to show.	Aquest tipus de lletra no té caràcters per mostrar.
+	this item is already at the top level	aquest element ja és al nivell superior
+	This page	Aquesta pàgina
+	This password type isn't supported.	Aquest tipus de contrasenya no és compatible.
+	This point forward	A partir d'aquest punt
+	This section	Aquesta secció
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	aquest SmartArt es va fer amb un altre programa: WordCraft el mostra però no el pot editar
+	this text box is already linked: break the link first	aquest quadre de text ja està enllaçat: primer trenqueu l'enllaç
+	Three	Tres
+	Through	A través
+	Tight	Ajustat
+	Tilde	Titlla
+	Tip	Consell
+	Tips ({n})	Consells ({n})
+preview	Title	Títol
+	Title Bar	Barra de títol
+	Title from the document properties	Títol de les propietats del document
+	Title:	Títol:
+	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Per obrir els documents de Word amb WordCraft per defecte: seleccioneu-ne un al Finder, trieu Fitxer › Obtén informació, trieu WordCraft a Obre amb i feu clic a Canvia-ho tot.
+	To:	A:
+	TOA Heading	Encapçalament de taula d'autoritats
+	TOC Heading	Encapçalament de taula de continguts
+	TOC {n}	TDC {n}
+	Today	Avui
+	tOGGLE cASE	iNVERTEIX mAJÚSCULES
+	Toggle Check Box	Commuta la casella de selecció
+	Toggle Field Codes	Commuta els codis de camp
+	Toggle Unicode Character	Commuta el caràcter Unicode
+	Top and Bottom	A dalt i a baix
+	Top Border	Vora superior
+	Top Left Cell	Cel·la superior esquerra
+	Top Margin	Marge superior
+	Top of Page	Part superior de la pàgina
+	Top of the Document	Inici del document
+	Top Right Cell	Cel·la superior dreta
+	Total Row	Fila de total
+	Track Changes	Control de canvis
+	Track Changes Options	Opcions del control de canvis
+	Track Changes: On	Control de canvis: activat
+	Track formatting	Controla el format
+	Track\nChanges	Control de\ncanvis
+	Track\nChanges ✓	Control de\ncanvis ✓
+	Tracked changes	Canvis controlats
+	Trademark	Marca comercial
+	Trademark Sign	Signe de marca comercial
+	Transport	Transport
+	Triangle Down	Triangle cap avall
+	Triangle Up	Triangle cap amunt
+	Trigonometric Functions	Funcions trigonomètriques
+	Triple	Triple
+	Triple Dot	Punt triple
+	Triple Integral	Integral triple
+	Triple Integral with Limits	Integral triple amb límits
+	Triple Integral with Stacked Limits	Integral triple amb límits apilats
+	Trust Center	Centre de confiança
+	Tue	dt.
+	Turabian	Turabian
+	Turkish	Turc
+	Two	Dos
+	Two-sided printing	Impressió a doble cara
+	Two-sided: long edge	Doble cara: vora llarga
+	Two-sided: short edge	Doble cara: vora curta
+	Type +2 or -1 to move from the page you are on.	Escriviu +2 o -1 per moure-us des de la pàgina on sou.
+	Type a command, e.g. "insert table"	Escriviu una ordre, p. ex. «insereix taula»
+	Type a New List…	Escriviu una llista nova…
+	Type a page number, or +2 / -1.	Escriviu un número de pàgina, o +2 / -1.
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Escriviu una mida en qualsevol unitat, com 5 cm o 300 px. L'altre costat la segueix, així la imatge manté les proporcions.
+	Type at least one recipient.	Escriviu almenys un destinatari.
+	Type Character Code	Escriviu el codi de caràcter
+	Type equations in LaTeX	Escriu les equacions en LaTeX
+	Type equations in the linear format (UnicodeMath)	Escriu les equacions en format lineal (UnicodeMath)
+	Type in Equation	Escriu a l'equació
+	Type normal (non-math) text in the equation	Escriu text normal (no matemàtic) a l'equació
+	Type Text	Escriu text
+	Type the categories down the side and a column of values per series.	Escriviu les categories al lateral i una columna de valors per sèrie.
+	Type the field's name and its switches, for example PAGE \\* roman.	Escriviu el nom del camp i els seus modificadors, per exemple PAGE \\* roman.
+	Type the password to stop the protection.	Escriviu la contrasenya per aturar la protecció.
+	Type the recipients, or load them from a file.	Escriviu els destinataris o carregueu-los des d'un fitxer.
+	Typing replaces selected text	Escriure substitueix el text seleccionat
+	Ukrainian	Ucraïnès
+	Unchecked symbol	Símbol no marcat
+	Underbar	Barra inferior
+	Underbrace	Clau inferior
+	Underline Color	Color del subratllat
+	Underline color	Color del subratllat
+	Underline Words Only	Subratlla només les paraules
+	Undo 1 Action	Desfés 1 acció
+	Undo Actions	Desfés accions
+	Undo History	Historial de desfer
+	Undo {n} Actions	Desfés {n} accions
+	Undo, undo, undo… we're time travelling now.	Desfés, desfés, desfés… ara viatgem en el temps.
+	Unformatted Text	Text sense format
+	Union of intersections	Unió d'interseccions
+	Union with Limits	Unió amb límits
+	Union with Lower Limit	Unió amb límit inferior
+	Union with Plus	Unió amb més
+	Union with Subscript-Superscript Limits	Unió amb límits de subíndex i superíndex
+	Unions and Intersections	Unions i interseccions
+	Unlink Fields	Desvincula els camps
+	Unlink\nCitations	Desvincula\nles citacions
+	Unlock Fields	Desbloqueja els camps
+	Up Diagonal Dots	Punts en diagonal cap amunt
+	Up one level	Un nivell amunt
+	Update Field	Actualitza el camp
+	Update fields before printing	Actualitza els camps abans d'imprimir
+	Update Index	Actualitza l'índex
+	Update Style to Match Selection	Actualitza l'estil perquè coincideixi amb la selecció
+	Update Styles from Template	Actualitza els estils des de la plantilla
+	Update Table	Actualitza la taula
+	Update Table of Figures	Actualitza la taula d'il·lustracions
+	Update to Match	Actualitza perquè coincideixi
+	Update to Match Selection	Actualitza perquè coincideixi amb la selecció
+	URGENT	URGENT
+	URL	URL
+	Use "a" before a consonant sound	Usa «a» davant d'un so consonàntic
+	Use "an" before a vowel sound	Usa «an» davant d'un so vocàlic
+	Use an Existing List…	Utilitza una llista existent…
+	Use system setting	Usa la configuració del sistema
+	Use the browser's full screen (F11)	Utilitza la pantalla completa del navegador (F11)
+	Use the Insert key to switch overtype on and off	Utilitza la tecla Insert per activar i desactivar la sobreescriptura
+	Use wildcards	Utilitza comodins
+	User Name	Nom d'usuari
+	User name:	Nom d'usuari:
+	User templates:	Plantilles d'usuari:
+	Vector A	Vector A
+	Vector AB	Vector AB
+	Version History	Historial de versions
+	Version {version} ({build})	Versió {version} ({build})
+	Vertical alignment:	Alineació vertical:
+	Vertical Bars	Barres verticals
+	Vertical Dots	Punts verticals
+	View Alt Text…	Mostra el text alternatiu…
+	View Gridlines	Mostra les línies de quadrícula
+	View State	Estat de la visualització
+	View › Focus hides everything but your words. I'll wait outside.	Visualització › Concentració amaga tot excepte les vostres paraules. Esperaré fora.
+	Views	Visualitzacions
+	Visual effects	Efectes visuals
+	Vivid 200%	Viu 200%
+	Volume	Volum
+	Volume Integral	Integral de volum
+	Volume Integral with Limits	Integral de volum amb límits
+	Volume Integral with Stacked Limits	Integral de volum amb límits apilats
+	Wait for the print job to finish submitting before closing.	Espereu que s'acabi d'enviar el treball d'impressió abans de tancar.
+	Waiting for the save to finish…	S'està esperant que acabi el desament…
+	Waiting for Zotero…	S'està esperant Zotero…
+	Warm Gradient with Outline	Degradat càlid amb contorn
+	Warnings ({n})	Avisos ({n})
+	Washout	Esvaït
+	Weather	Temps
+	Web Layout	Disposició web
+	Web page (*.html)	Pàgina web (*.html)
+	Web\nLayout	Disposició\nweb
+	Wed	dc.
+	West	Oest
+	When this document was first created	Quan es va crear aquest document
+	When this document was most recently printed	Quan es va imprimir aquest document per última vegada
+	When this document was most recently saved	Quan es va desar aquest document per última vegada
+	White Space	Espai en blanc
+	White space	Espai en blanc
+	Who the document properties name as author	Qui consta com a autor a les propietats del document
+	Whole document	Tot el document
+	Whole page	Pàgina sencera
+	Whole Table	Tota la taula
+	Whole words	Paraules senceres
+	Wide	Ample
+	Widow/Orphan Control	Control de vídues i òrfenes
+	Widow/Orphan control	Control de vídues i òrfenes
+	Width and spacing	Amplada i espaiat
+	Wildcards (regex)	Comodins (regex)
+	With:	Amb:
+	Word 2003 XML Document (*.xml)	Document XML de Word 2003 (*.xml)
+	Word Count	Recompte de paraules
+	Word document	Document de Word
+	Word document (*.docx)	Document de Word (*.docx)
+	Word Left	Paraula a l'esquerra
+	Word level	Nivell de paraula
+	Word Right	Paraula a la dreta
+	Word sources	Fonts de Word
+	Word XML Document (*.xml)	Document XML de Word (*.xml)
+	WordArt	WordArt
+	WordArt Styles	Estils de WordArt
+	WordCraft	WordCraft
+	WordCraft is now the default app for Word documents.	Ara WordCraft és l'aplicació predeterminada per als documents de Word.
+	Words only	Només paraules
+	Wrap Text	Ajusta el text
+	Wrap Text Sides	Costats de l'ajust del text
+	Wrap\nText	Ajusta\nel text
+	Write & Insert Fields	Escriu i insereix camps
+	Write a reply	Escriviu una resposta
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Bloqueig d'escriptor? A mi em va bé mirar el cursor. Fa anys que em fa l'ullet.
+	x bar	x amb barra
+	Year	Any
+	Yields	Dona
+	You haven't saved in a while, and AutoSave is off. Save now?	Fa estona que no deseu i el desament automàtic està desactivat. Voleu desar ara?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Heu començat una llista. Premeu Retorn dues vegades per acabar-la, o Retrocés a l'inici d'un element per tornar-lo a text.
+	Your document is now the most saved document in history.	El vostre document és ara el document més desat de la història.
+	Your system doesn't report an animation setting, so animation effects stay on.	El sistema no indica cap configuració d'animació, així que els efectes d'animació continuen activats.
+	Your system has animation effects turned off.	El sistema té els efectes d'animació desactivats.
+	Your system has animation effects turned on.	El sistema té els efectes d'animació activats.
+	Zotero	Zotero
+	Zotero: cancelled	Zotero: cancel·lat
+	Zotero: done	Zotero: fet
+	{added}; {count} couldn't be read: {names}	{added}; no s'han pogut llegir {count}: {names}
+	{added}; {n} skipped (limit {max})	{added}; {n} omesos (límit {max})
+	{cols}×{rows} Table	Taula de {cols}×{rows}
+	{contributors} contributors · {commits} commits	{contributors} col·laboradors · {commits} confirmacions
+	{count} items highlighted	{count} elements ressaltats
+	{count} of {total} pages will print	S'imprimiran {count} de {total} pàgines
+	{count} of {total} recipients will be merged.	Es combinaran {count} de {total} destinataris.
+	{group} settings	Configuració de {group}
+	{key}+Click to follow link	{key}+clic per seguir l'enllaç
+	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
+	{language} (dictionary unreadable)	{language} (diccionari il·legible)
+	{language} (no dictionary)	{language} (sense diccionari)
+	{language} is now the document's default language.	{language} és ara l'idioma predeterminat del document.
+	{language}: no dictionary found	{language}: no s'ha trobat cap diccionari
+	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: WordCraft encara no revisa l'ortografia ni la gramàtica en aquest idioma.
+	{language}: {file}	{language}: {file}
+	{language}: {file} (unreadable: {reason})	{language}: {file} (il·legible: {reason})
+	{names} and {n} more	{names} i {n} més
+	{name}   {height} × {width} in	{name}   {height} × {width} polz.
+	{name}   {height} × {width} mm	{name}   {height} × {width} mm
+	{name} already exists. Choose Save again to replace it.	{name} ja existeix. Torneu a triar Desa per substituir-lo.
+	{name} is protected with a password.	{name} està protegit amb contrasenya.
+	{name} options	Opcions de {name}
+	{name} wasn't found.	No s'ha trobat {name}.
+	{n} entries marked.	{n} entrades marcades.
+	{n} lines	{n} línies
+	{n} pt	{n} pt
+	{paper}   {width} × {height}	{paper}   {width} × {height}
+	{selected} of {words} words	{selected} de {words} paraules
+	{size} pt	{size} pt
+	{width} × {height} mm	{width} × {height} mm
+	{width} × {height} pixels	{width} × {height} píxels
+	{words} words	{words} paraules
+	{words} words and counting. Literally. I'm counting.	{words} paraules i comptant. Literalment. Les estic comptant.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} paraules! Llançaria confeti, però després l'hauria d'escombrar.
+	{words} words. That's {words} more than I've written today.	{words} paraules. Són {words} més de les que he escrit jo avui.
+	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) no és un número.
+	✓ None	✓ Cap
+	➕ New comment	➕ Comentari nou
+	📂  Browse…	📂  Navega…

@@ -1,0 +1,1293 @@
+# Euskara (eu) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+@id	language.name	Euskara
+	% of all commits	Konfirmazio guztien %
+	(Custom)	(Pertsonalizatua)
+	(none)	(bat ere ez)
+	1 file	Fitxategi 1
+	16 bit	16 bit
+	24 bit	24 bit
+	24 bits/pixel	24 bit/pixel
+	32 bit	32 bit
+	32 bits/pixel	32 bit/pixel
+	8 bit	8 bit
+	About	Honi buruz
+	Absolute	Absolutua
+	Absolute Colorimetric	Kolorimetriko absolutua
+	Accented Edges	Ertz nabarmenduak
+	Accessibility	Irisgarritasuna
+	Accurate	Zehatza
+	Actions	Ekintzak
+	Activate Panel	Aktibatu panela
+	Active	Aktiboa
+	Actual Size	Benetako tamaina
+	Adaptive	Moldagarria
+	Add	Gehitu
+	Add a comment	Gehitu iruzkin bat
+	Add Guide	Gehitu gida
+	Add to Dictionary	Gehitu hiztegira
+	Add to favorites	Gehitu gogokoetara
+	Add to Swatches	Gehitu laginetara
+	Adjust	Doitu
+	Adjustments	Doikuntzak
+	Advanced	Aurreratua
+	Align	Lerrokatu
+	Align center	Lerrokatu erdian
+	Align Left	Lerrokatu ezkerrean
+	Align left	Lerrokatu ezkerrean
+	Align Right	Lerrokatu eskuinean
+	Align right	Lerrokatu eskuinean
+	Align Text	Lerrokatu testua
+	Align to Selection	Lerrokatu hautapenarekin
+	Alignment	Lerrokatzea
+	Alignment:	Lerrokatzea:
+	All	Guztiak
+	All Caps	Dena maiuskulaz
+	All Categories	Kategoria guztiak
+	All files	Fitxategi guztiak
+	All Layers	Geruza guztiak
+	All pages	Orri guztiak
+	All Slices	Zati guztiak
+	Alpha	Alfa
+	Alt	Alt
+	Always	Beti
+	Amount	Kopurua
+	Amount:	Kopurua:
+	Angle	Angelua
+	Angle:	Angelua:
+	Angular	Angeluarra
+	Animation	Animazioa
+	Animation effects	Animazio-efektuak
+	Anti-Alias	Ertz-leuntzea
+	Anti-alias	Ertz-leuntzea
+	Any	Edozein
+	Appearance	Itxura
+theme	Appearance	Itxura
+	Appearance Settings…	Itxuraren ezarpenak…
+	Application	Aplikazioa
+	Apply	Aplikatu
+	Apply Character Style	Aplikatu karaktere-estiloa
+	Apply Data Set	Aplikatu datu-multzoa
+	Apply to:	Aplikatu hemen:
+	Arc	Arkua
+	Area	Area
+	Arrange	Antolatu
+	Arrow	Gezia
+	Arrows	Geziak
+	Artboard	Lan-taula
+	Artboards	Lan-taulak
+	ArtCraft	ArtCraft
+	ArtCraft Website	ArtCraft webgunea
+	ArtCraft website	ArtCraft webgunea
+	Artistic	Artistikoa
+	Ascending	Goranzkoa
+	Aspect Ratio	Aspektu-erlazioa
+	Assign	Esleitu
+	Assign Profile…	Esleitu profila…
+	Audio	Audioa
+	Author	Egilea
+	Author:	Egilea:
+	Auto	Automatikoa
+	Auto ({percent}%)	Automatikoa (%{percent})
+	Auto Color	Kolore automatikoa
+	Automate	Automatizatu
+	Automatic	Automatikoa
+	Automatically	Automatikoki
+	Available	Erabilgarri
+	Average	Batez bestekoa
+	Background	Atzeko planoa
+	Background Color	Atzeko planoaren kolorea
+	Background Contents	Atzeko planoaren edukia
+	Backspace	Atzera-tekla
+	Balance	Oreka
+	Bar	Barra
+	Baseline	Oinarri-lerroa
+	Baseline Shift	Oinarri-lerroaren desplazamendua
+	Basic	Oinarrizkoa
+	Basic Latin	Oinarrizko latina
+	Batch	Sorta
+	Batch…	Sorta…
+	Bend:	Okerdura:
+	Bicubic	Bikubikoa
+	Binary assets added	Baliabide bitarrak gehitu dira
+	Binary assets removed	Baliabide bitarrak kendu dira
+	Bitmap	Bit-mapa
+	Black	Beltza
+	Black & White	Zuri-beltza
+	Black and white	Zuri-beltza
+	Black Intensity	Beltzaren intentsitatea
+	Blacks	Beltzak
+	Blend Mode	Nahaste-modua
+	Blending Mode	Nahaste-modua
+	Block	Blokea
+	Blocks	Blokeak
+	Blue	Urdina
+	Blur	Lausotzea
+	Blur Angle	Lausotze-angelua
+	Bold	Lodia
+	Border	Ertza
+	Border Thickness	Ertzaren lodiera
+	Borders	Ertzak
+	Both	Biak
+	Both sides	Bi aldeak
+	Bottom	Behean
+	Bottom Left	Behean ezkerrean
+	Bottom Right	Behean eskuinean
+	Bottom:	Behean:
+	Break Link	Hautsi esteka
+	Brick	Adreilua
+	Brightness	Distira
+	Bring Forward	Ekarri aurrera
+	Bring to Front	Ekarri aurrealdera
+	Brown	Marroia
+	Browse	Arakatu
+	Browse…	Arakatu…
+	Brush Size	Pintzelaren tamaina
+	Brush Strokes	Pintzelkadak
+	Brushes	Pintzelak
+	Bulge	Puztua
+	Bullet	Buleta
+	Burlap	Zaku-oihala
+	Calculate	Kalkulatu
+	Cancel	Utzi
+	Canvas	Oihala
+	Caption	Epigrafea
+	Cascade	Kaskadan
+	Case Sensitive	Maiuskulak eta minuskulak bereizi
+	Category	Kategoria
+	Category:	Kategoria:
+	Cell Size	Gelaxkaren tamaina
+	Center	Erdian
+	Center X	X zentroa
+	Center Y	Y zentroa
+	Centered	Erdiratua
+	Centimeters	Zentimetroak
+	Chamfer	Alaka
+	Change	Aldatu
+	Change All	Aldatu guztiak
+	Change Case	Aldatu maiuskulak/minuskulak
+	Change Panel Layout	Aldatu panelen diseinua
+	Channel	Kanala
+	Channel Mixer	Kanal-nahasgailua
+	Channels	Kanalak
+	Character	Karakterea
+	Character Styles	Karaktere-estiloak
+	Characters	Karaktereak
+	Check for Updates	Bilatu eguneratzeak
+	Check for updates	Bilatu eguneratzeak
+	Check Spelling…	Egiaztatu ortografia…
+	Checkerboard	Xake-taula
+	Choose…	Aukeratu…
+	Circle	Zirkulua
+	City	Hiria
+	Clarity	Argitasuna
+	Classic	Klasikoa
+	Clear	Garbitu
+	Clear All	Garbitu guztia
+	Clear Guides	Garbitu gidak
+	Clear History	Garbitu historia
+	Clear Recent Files	Garbitu azken fitxategiak
+	Clipboard	Arbela
+	Clipping Mask	Ebaketa-maskara
+	Clone	Klonatu
+	Close	Itxi
+	Close (Esc)	Itxi (Esc)
+	Close All	Itxi dena
+	Close Panel	Itxi panela
+	Cmd	Cmd
+	CMYK Color	CMYK kolorea
+	CMYK:	CMYK:
+	Coarse Dots	Puntu lodiak
+	Collapse	Tolestu
+	Collate	Ordenatu kopiak
+	Color	Kolorea
+	Color Balance	Kolore-oreka
+	Color Burn	Kolore-errea
+	Color Dodge	Kolore-argitzea
+	Color Management	Kolore-kudeaketa
+	Color Mode	Kolore-modua
+	Color Picker	Kolore-hautatzailea
+	Color Settings	Kolore-ezarpenak
+	Color Settings…	Kolore-ezarpenak…
+	Color Space	Kolore-espazioa
+	Color Swatches	Kolore-laginak
+	Color Table	Kolore-taula
+	Color:	Kolorea:
+	Colorize	Koloreztatu
+	Colors	Koloreak
+	Colors:	Koloreak:
+	Color…	Kolorea…
+	Colour	Kolorea
+	Column width	Zutabe-zabalera
+	Columns	Zutabeak
+	Columns:	Zutabeak:
+	Combine	Konbinatu
+	Command	Komandoa
+	Commands:	Komandoak:
+	Comment	Iruzkina
+	Comments	Iruzkinak
+	Commits	Konfirmazioak
+	Community	Komunitatea
+	Company	Enpresa
+	Compare	Konparatu
+	Comparison	Konparazioa
+	Compatibility	Bateragarritasuna
+	Composite	Konposatua
+	Compression	Konpresioa
+	Cone	Konoa
+	Contains	Barne hartzen du
+	Continue	Jarraitu
+	Contrast	Kontrastea
+	Contributors	Laguntzaileak
+	Convert	Bihurtu
+	Convert to Shape	Bihurtu forma
+	Convert to sRGB	Bihurtu sRGB
+	Copies	Kopiak
+	Copies:	Kopiak:
+	Copy	Kopiatu
+	Copyright	Egile-eskubideak
+	Copyrighted	Egile-eskubideekin
+	Corner	Izkina
+	Corners	Izkinak
+	Correction	Zuzenketa
+	Couldn't open {name}: {e}	Ezin izan da {name} ireki: {e}
+@msg	Couldn't open {name}: {e}	Ezin izan da {name} ireki: {e}
+	Country	Herrialdea
+	Crack Brightness	Pitzaduren distira
+	Crack Depth	Pitzaduren sakonera
+	Crack Spacing	Pitzaduren tartea
+	Create	Sortu
+	Create Clipping Mask	Sortu ebaketa-maskara
+	Crop	Moztu
+	Cross	Gurutzea
+	Crosshatch	Marratze gurutzatua
+	Crystallize	Kristaldu
+	Crystallize…	Kristaldu…
+	Ctrl	Ctrl
+	Current	Unekoa
+	Current page	Uneko orria
+	Current Time	Uneko ordua
+	Curvature	Kurbadura
+	Curve	Kurba
+	Curves	Kurbak
+	Curves…	Kurbak…
+	Custom	Pertsonalizatua
+	Customize…	Pertsonalizatu…
+	Cut	Ebaki
+	Cyan	Ziana
+	Dark	Iluna
+	Dark Gray	Gris iluna
+	Dark gray	Gris iluna
+	Dark Strokes	Trazu ilunak
+	Dark Theme	Gai iluna
+	Darken	Ilundu
+	Darkness	Iluntasuna
+	Dashed	Etena
+	Data	Datuak
+	Data Sets	Datu-multzoak
+	Date	Data
+	Date and Time	Data eta ordua
+	Date Created	Sortze-data
+	Date format	Data-formatua
+	Dates	Datak
+	De-Interlace	Kendu txirikordatzea
+	Decrease Font Size	Txikitu letra-tamaina
+	Default	Lehenetsia
+	Delete	Ezabatu
+	Delete Brush	Ezabatu pintzela
+	Delete Group	Ezabatu taldea
+	Delete Layer	Ezabatu geruza
+	Delete Mask	Ezabatu maskara
+	Delete Style	Ezabatu estiloa
+	Delete Workspace	Ezabatu lan-eremua
+	Deleted	Ezabatua
+	Delete…	Ezabatu…
+	Depth	Sakonera
+	Desaturate	Desasetu
+	Descending	Beheranzkoa
+	Description	Deskribapena
+	Description:	Deskribapena:
+	Deselect	Desautatu
+	Deselect All	Desautatu dena
+	Destination	Helburua
+	Destination:	Helburua:
+	Details	Xehetasunak
+	Diagonal	Diagonala
+	Diameter	Diametroa
+	Diameter:	Diametroa:
+	Diamond	Diamantea
+	Difference	Diferentzia
+	Diffuse Glow	Distira lausoa
+	Diffusion	Difusioa
+	Digits	Digituak
+	Dimensions	Neurriak
+	Direct Selection Tool	Hautapen zuzeneko tresna
+	Direction	Norabidea
+	Direction Balance	Norabide-oreka
+	Direction:	Norabidea:
+	Discard	Baztertu
+	Discord	Discord
+	Discretionary Ligatures	Aukerako loturak
+	Dismiss	Baztertu
+	Display	Bistaratzea
+	Display name	Bistaratzeko izena
+	Distance	Distantzia
+	Distort	Distortsionatu
+	Distortion	Distortsioa
+	Distribute	Banatu
+	Divide	Zatitu
+	Dock Panel	Atrakatu panela
+	Document	Dokumentua
+	Document Title	Dokumentuaren izenburua
+	Documents	Dokumentuak
+	Don't Save	Ez gorde
+	Done	Eginda
+	Dot	Puntua
+	Dots	Puntuak
+	Dotted	Puntukatua
+	Double-click	Klik bikoitza
+	Down	Behera
+	Download	Deskargatu
+	Draft	Zirriborroa
+	Draw	Marraztu
+	Drop Shadow	Itzal proiektatua
+	Drop Shadow…	Itzal proiektatua…
+	Duplicate	Bikoiztu
+	Duplicate Layer	Bikoiztu geruza
+	Duplicate…	Bikoiztu…
+	Duplication	Bikoizketa
+	Duration	Iraupena
+	Dutch	Nederlandera
+	Dynamic	Dinamikoa
+	Dynamics	Dinamika
+	Edge	Ertza
+	Edge Brightness	Ertzen distira
+	Edge Intensity	Ertzen intentsitatea
+	Edge Only	Ertzak soilik
+	Edge Simplicity	Ertzen sinpletasuna
+	Edge Thickness	Ertzen lodiera
+	Edge Width	Ertzen zabalera
+	Edit	Editatu
+	Edit Contents	Editatu edukia
+	Edit Original	Editatu jatorrizkoa
+	Edit Toolbar	Editatu tresna-barra
+	Editing	Edizioa
+	Edit…	Editatu…
+	Effect	Efektua
+	Effects	Efektuak
+	Elevation	Altuera
+	Eliminate	Ezabatu
+	Ellipse	Elipsea
+	Ellipse Tool	Elipse-tresna
+	Ellipsis	Eten-puntuak
+	Em Dash	Marra luzea
+	Em Space	Zuriune luzea
+	Embed	Txertatu
+	Emboss	Erliebea
+	En Dash	Marra ertaina
+	En Space	Zuriune ertaina
+	Enable	Gaitu
+	Endpoint	Amaiera-puntua
+	Enlarged	Handitua
+	Enter	Sartu
+	Entire Font	Letra-tipo osoa
+	Envelope DL	DL gutun-azala
+	Erase	Ezabatu
+	Eraser	Borragoma
+	Eraser Tool	Borragoma-tresna
+	Error	Errorea
+	Even Fields	Eremu bikoitiak
+	Even pages only	Orri bikoitiak soilik
+	Exact	Zehatza
+	Example: {sample}	Adibidea: {sample}
+	Exclusion	Bazterketa
+	Exit	Irten
+	Expand	Zabaldu
+	Export	Esportatu
+	Export As	Esportatu honela
+	Export As…	Esportatu honela…
+	Export Options	Esportazio-aukerak
+	Export PDF	Esportatu PDFra
+	Export to	Esportatu hona
+	Exported to {path}	Hona esportatu da: {path}
+	Exported {path}	Esportatu da: {path}
+	Export…	Esportatu…
+	Exposure	Esposizioa
+	Expression	Adierazpena
+	Extract	Atera
+	Eyedropper	Tantakina
+	Eyedropper Tool	Tanta-kontagailu tresna
+	Faded Film	Film koloregabetua
+	Fast	Azkarra
+	Favorites	Gogokoak
+	Feather	Lausotu ertzak
+	Field	Eremua
+	Field properties	Eremuaren propietateak
+	Fields	Eremuak
+	Fields:	Eremuak:
+	File	Fitxategia
+	File Format	Fitxategi-formatua
+	File Handling	Fitxategien kudeaketa
+	File Info…	Fitxategiaren informazioa…
+	File Name	Fitxategi-izena
+	File Size	Fitxategiaren tamaina
+@id	file.close	Itxi
+	Files	Fitxategiak
+	Fill	Betegarria
+	Fill:	Betegarria:
+	Filter	Iragazkia
+	Find	Bilatu
+	Find and Replace	Bilatu eta ordeztu
+	Find Next	Bilatu hurrengoa
+	Find:	Bilatu:
+	Find…	Bilatu…
+	Fine Dots	Puntu finak
+	Finish	Amaitu
+	First	Lehena
+	First commit	Lehen konfirmazioa
+	Fit	Doitu
+	Fit in View	Doitu ikuspegira
+	Fixed	Finkoa
+	Flash	Flasha
+	Flatten	Berdindu
+	Flip	Irauli
+	Flip Horizontal	Irauli horizontalki
+	Flip Vertical	Irauli bertikalki
+	Focus	Fokua
+	Folder	Karpeta
+	Font	Letra-tipoa
+	Font Size	Letra-tamaina
+	Font size	Letra-tamaina
+	Font Size:	Letra-tamaina:
+	Font:	Letra-tipoa:
+	Fonts	Letra-tipoak
+	Format	Formatua
+	Format:	Formatua:
+	Fractions	Zatikiak
+	Frame	Markoa
+	Free	Librea
+	Free Transform	Eraldaketa librea
+	French	Frantsesa
+	Frequency	Maiztasuna
+	From	Nondik
+	Frosted	Izoztua
+	Full	Osoa
+	Full Screen	Pantaila osoa
+	Full Screen Mode	Pantaila osoko modua
+	Functions	Funtzioak
+	Gamma	Gamma
+	Gamma Correction	Gamma-zuzenketa
+	Gamut Warning	Gama-abisua
+	Gaussian Blur	Lausotze gaussiarra
+	Gaussian Blur…	Lausotze gaussiarra…
+	General	Orokorra
+	General…	Orokorra…
+	Generate	Sortu
+	Geometry	Geometria
+	German	Alemana
+	GitHub	GitHub
+	Glass	Beira
+	Global	Globala
+	Glow	Distira
+	Glow Brightness	Distiraren argitasuna
+	Glow Size	Distiraren tamaina
+	Glyphs	Glifoak
+	Good	Ona
+	Gradient	Gradientea
+	Gradient Tool	Gradiente-tresna
+	Gradients	Gradienteak
+	Grain	Pikorra
+	Grain Type	Pikor mota
+	Graininess	Pikortasuna
+	Grainy Dots	Puntu pikortsuak
+	Graphic	Grafikoa
+	Graphics	Grafikoak
+	Gray	Grisa
+	Gray Gamma 2.2	Gris-gamma 2,2
+	Grayscale	Gris-eskala
+	Green	Berdea
+	Grid	Sareta
+	Grid Size:	Saretaren tamaina:
+	Grid view	Sareta-ikuspegia
+	Gridline every	Sareta-lerroa bakoitzean
+	Group	Taldekatu
+	Group with	Taldekatu honekin
+	Groups	Taldeak
+	Grout Width	Junturaren zabalera
+	Guides	Gidak
+	Halftone Pattern	Erdi-tonuen eredua
+	Hand	Eskua
+	Hand Tool	Esku-tresna
+	Hard	Gogorra
+	Hard Light	Argi gogorra
+	Hard Mix	Nahaste gogorra
+	Headings	Goiburuak
+	Heart	Bihotza
+	Height	Altuera
+	Height:	Altuera:
+	Help	Laguntza
+	Hexagon	Hexagonoa
+	Hidden	Ezkutua
+	Hidden text	Testu ezkutua
+	Hide	Ezkutatu
+	Hide All	Ezkutatu guztiak
+	Hide Grid	Ezkutatu sareta
+	Hide Others	Ezkutatu besteak
+	High	Altua
+	High Pass	Goi-iragazkia
+	High Resolution	Bereizmen handia
+	High resolution	Bereizmen handia
+	Highlight Area	Nabarmentze-eremua
+	Highlights	Argiguneak
+	Hindi	Hindia
+	Histogram	Histograma
+	History	Historia
+	Hollow	Hutsa
+	Home	Hasiera
+	Horizontal	Horizontala
+	Horizontal scale	Eskala horizontala
+	Horizontally	Horizontalki
+	Hue	Ñabardura
+	Hue Shift	Ñabardura-desplazamendua
+	Hue/Saturation…	Ñabardura/saturazioa…
+	Hyphenation	Hitz-zatiketa
+	Icon	Ikonoa
+	Ignore	Ez ikusi
+	Ignore All	Ez ikusi guztiak
+	Image	Irudia
+	Image Size	Irudiaren tamaina
+	Images	Irudiak
+	Import	Inportatu
+	Import…	Inportatu…
+	Inches	Hazbeteak
+	Increase Font Size	Handitu letra-tamaina
+	Index	Aurkibidea
+	Inflate	Puztu
+	Info	Informazioa
+	Inner Glow…	Barneko distira…
+	Input:	Sarrera:
+	Insert	Txertatu
+	Inside	Barruan
+	Inspect Document	Ikuskatu dokumentua
+	Install Plug-in	Instalatu plugina
+	Install Plug-in…	Instalatu plugina…
+	Intensity	Intentsitatea
+	Interface	Interfazea
+	Interface Language	Interfazearen hizkuntza
+	Interface language	Interfazearen hizkuntza
+	Interface Theme	Interfazearen gaia
+	Interlaced	Txirikordatua
+	Interpolation	Interpolazioa
+	Intersect	Ebaki
+	Intersection	Ebakidura
+	Invert	Alderantzikatu
+	Invert Mask	Alderantzikatu maskara
+	Isolate	Isolatu
+	Italian	Italiera
+	Italic	Etzana
+	Japanese	Japoniera
+	Join	Elkartu
+	Join our Discord	Batu gure Discordera
+	Join the ArtCraft Discord	Batu ArtCraft-en Discordera
+	Join the ArtCraft Discord…	Batu ArtCraft-en Discordera…
+	Join us on Discord	Batu gurekin Discorden
+	just now	oraintxe
+	Justification	Justifikazioa
+	Justify	Justifikatu
+	Keep:	Mantendu:
+	Kerning	Kerning-a
+	Keyboard Shortcuts	Laster-teklak
+	Keyboard Shortcuts…	Laster-teklak…
+	Keywords	Gako-hitzak
+	Kind	Mota
+	Korean	Koreera
+	Lab	Lab
+	Label	Etiketa
+	Labels	Etiketak
+	Landscape	Horizontala
+	Language	Hizkuntza
+	Language Options	Hizkuntza-aukerak
+	Language:	Hizkuntza:
+	Large	Handia
+	Lasso	Lazoa
+	Lasso Tool	Lazo-tresna
+	Last	Azkena
+	Last commit	Azken konfirmazioa
+	Later	Geroago
+	Layer	Geruza
+	Layers	Geruzak
+	Layout	Diseinua
+	Layout:	Diseinua:
+	Leading	Lerroartea
+	Left	Ezkerrean
+	Left Diagonal	Ezkerreko diagonala
+	Left to Right	Ezkerretik eskuinera
+	Left:	Ezkerra:
+	Legal	Legala
+	Length	Luzera
+	Length:	Luzera:
+	Lens Flare	Lente-distira
+	Less	Gutxiago
+	Letter	Gutuna
+	Level	Maila
+	Level 1	1. maila
+	Level 2	2. maila
+	Level 3	3. maila
+	Level 4	4. maila
+	Levels	Mailak
+	Levels…	Mailak…
+	Libraries	Liburutegiak
+	Library	Liburutegia
+	Light	Argia
+	Light Blue	Urdin argia
+	Light Direction	Argiaren norabidea
+	Light Gray	Gris argia
+	Light gray	Gris argia
+	Light Intensity	Argiaren intentsitatea
+	Light Theme	Gai argia
+	Light Type	Argi mota
+	Lighten	Argitu
+	Lighter Color	Kolore argiagoa
+	Lighting	Argiztapena
+	Lighting Effects	Argiztapen-efektuak
+	Lightness	Argitasuna
+	Line	Lerroa
+	Line delta	Lerro-aldea
+	Line spacing	Lerroartea
+	Linear	Lineala
+	Linear Burn	Erre lineala
+	Linear Gradient	Gradiente lineala
+	Linear Light	Argi lineala
+	Lines	Lerroak
+	Lines +/−	Lerroak +/−
+	Lines added	Gehitutako lerroak
+	Lines deleted	Ezabatutako lerroak
+	Link	Esteka
+	Links	Estekak
+	List	Zerrenda
+	List View	Zerrenda-ikuspegia
+	List view	Zerrenda-ikuspegia
+	Location	Kokalekua
+	Location:	Kokapena:
+	Lock	Blokeatu
+	Lock Guides	Blokeatu gidak
+	Lock Slices	Blokeatu zatiak
+	Locked	Blokeatua
+	Long Lines	Lerro luzeak
+	Long Strokes	Trazu luzeak
+	Low	Baxua
+	lowercase	minuskulak
+	Luminance	Luminantzia
+	Luminosity	Argitasuna
+	Magenta	Magenta
+	Magic Wand Tool	Makila magikoaren tresna
+	Magnification	Handitzea
+	Margins	Marjinak
+	Mask	Maskara
+	Masks	Maskarak
+	Matte	Matea
+	Maximize	Maximizatu
+	Maximum	Gehienezkoa
+	Measure	Neurtu
+	Median	Mediana
+	Medium	Ertaina
+	Medium Dots	Puntu ertainak
+	Medium Gray	Gris ertaina
+	Medium Lines	Lerro ertainak
+	Merge	Batu
+	Merge Cells	Konbinatu gelaxkak
+	Merge Layers	Batu geruzak
+	Merged PRs	Batutako PRak
+	Mesh	Sarea
+	Message:	Mezua:
+	Metadata	Metadatuak
+	Method	Metodoa
+	Method:	Metodoa:
+	Mezzotint	Mezzotinta
+	Mezzotint…	Mezzotinta…
+	Middle	Erdia
+	Midpoint	Erdiko puntua
+	Midtones	Tarteko tonuak
+	Millimeters	Milimetroak
+	Minimize	Minimizatu
+	Minimum	Gutxienekoa
+	Mirror	Ispilatu
+	Missing	Falta da
+	Mobile	Mugikorra
+	Mode	Modua
+	Mode:	Modua:
+	Model	Eredua
+	Models	Ereduak
+	Modern	Modernoa
+	Modified	Aldatua
+	Modify	Aldatu
+	Monitor RGB	Monitorearen RGB
+	Mono	Mono
+	Monochrome	Monokromoa
+	More	Gehiago
+	Mosaic	Mosaikoa
+	Mosaic Tiles	Mosaiko-lauzak
+	Motion	Mugimendua
+	Move	Mugitu
+	Move Down	Eraman behera
+	Move Panel	Mugitu panela
+	Move Up	Eraman gora
+	Multiply	Biderkatu
+	Name	Izena
+	Name (A–Z)	Izena (A–Z)
+	Name:	Izena:
+	Navigation	Nabigazioa
+	Navigator	Nabigatzailea
+	Neon Glow	Neoi-distira
+	Never	Inoiz ez
+	New	Berria
+	New Document	Dokumentu berria
+	New document	Dokumentu berria
+	New from Template	Berria txantiloitik
+	New Group	Talde berria
+	New Guide	Gida berria
+	New Layer	Geruza berria
+	New Layer…	Geruza berria…
+	New Style…	Estilo berria…
+	New Swatch…	Lagin berria…
+	New Window	Leiho berria
+	New Workspace	Lan-eremu berria
+	New Workspace…	Lan-eremu berria…
+	New…	Berria…
+	Next	Hurrengoa
+	Next Appearance Mode	Hurrengo itxura-modua
+	Next Change	Hurrengo aldaketa
+	Next Page	Hurrengo orria
+	Next page	Hurrengo orrialdea
+	No	Ez
+	No Color	Kolorerik ez
+	No Dither	Diterrik gabe
+	No Document	Dokumenturik ez
+	No document	Dokumenturik ez
+	No document open	Ez dago dokumentu irekirik
+	No limit	Mugarik gabe
+	No matches.	Ez dago bat-etortzerik.
+	No matching commands	Ez dago bat datorren komandorik
+	No recent files	Ez dago azken fitxategirik
+	No results	Emaitzarik ez
+	No Selection	Hautapenik ez
+	No selection	Hautapenik ez
+	Noise	Zarata
+	Nonbreaking Space	Zuriune zatiezina
+	None	Bat ere ez
+	Normal	Normala
+	Not available	Ez dago erabilgarri
+	NTSC Colors	NTSC koloreak
+	Number	Zenbakia
+	Object	Objektua
+	Octagon	Oktogonoa
+	Odd Fields	Eremu bakoitiak
+	Odd pages only	Orri bakoitiak soilik
+	Off	Desaktibatuta
+	Offline	Lineaz kanpo
+	Offset	Desplazamendua
+	Offset:	Desplazamendua:
+	OK	Ados
+	Omit	Ez sartu
+	On	Aktibatuta
+	Only Web Colors	Web-koloreak soilik
+	Opacity	Opakutasuna
+	Opacity:	Opakutasuna:
+	Open	Ireki
+	Open link	Ireki esteka
+	Open Recent	Ireki azkenak
+	OpenType	OpenType
+	Open…	Ireki…
+	Optimized	Optimizatua
+	Options	Aukerak
+	Options…	Aukerak…
+	Orange	Laranja
+	Ordinals	Ordinalak
+	Orientation	Orientazioa
+	Orientation:	Orientazioa:
+	Original	Jatorrizkoa
+	Other	Bestelakoa
+	Outer Glow…	Kanpoko distira…
+	Outline	Ingerada
+	Output	Irteera
+	Output:	Irteera:
+	Outside	Kanpoan
+	Oval	Obala
+	Overlap:	Gainjartzea:
+	Overlay	Gainjarri
+	Package…	Paketatu…
+	Page	Orria
+	Page {page} of {pages}	{page}/{pages} orrialdea
+	Pages	Orriak
+	Painting	Margoketa
+	Panel	Panela
+	Panel menu	Panelaren menua
+	Panel Options…	Panelaren aukerak…
+	Panels	Panelak
+	Paper	Papera
+	Paragraph	Paragrafoa
+	Paragraph Styles	Paragrafo-estiloak
+	Password	Pasahitza
+	Paste	Itsatsi
+	Paste Special	Itsatsi berezia
+	Patchwork	Adabakiak
+	Path	Bidea
+	Path:	Bidea:
+	Paths	Bideak
+	Pattern	Eredua
+	Pattern Type	Eredu mota
+	Pause	Pausatu
+	Pen	Luma
+	Pen Tool	Luma-tresna
+	Pencil	Arkatza
+	Pencil Tool	Arkatz-tresna
+	Pentagon	Pentagonoa
+	Percent	Ehunekoa
+	Percentage	Ehunekoa
+	Performance	Errendimendua
+	Perimeter	Perimetroa
+	Perspective	Perspektiba
+	Photo	Argazkia
+	Photocopy	Fotokopia
+	Picas	Pikak
+	Pin Light	Puntu-argia
+	Pink	Arrosa
+	Pixel	Pixela
+	Pixelate	Pixelatu
+	Pixels	Pixelak
+	Play	Erreproduzitu
+	Plug-ins	Pluginak
+	Point	Seinalatu
+	Pointillize	Puntillismoa
+	Pointillize…	Puntillismoa…
+	Points	Puntuak
+	Polygon	Poligonoa
+	Polygon Tool	Poligono-tresna
+	Polyline	Polilerroa
+	Portrait	Bertikala
+	Portuguese	Portugesa
+	Position	Posizioa
+	Position:	Posizioa:
+	Postcard	Postala
+	Poster	Posterra
+	Poster Edges	Poster-ertzak
+	Posterization	Posterizazioa
+	Posterize	Posterizatu
+	Preferences	Hobespenak
+	Preferences…	Hobespenak…
+	Prefix	Aurrizkia
+	Preserve	Gorde
+	Preserve Luminosity	Mantendu argitasuna
+	Preset	Aurrezarpena
+	Preset Manager	Aurrezarpen-kudeatzailea
+	Preset:	Aurrezarpena:
+	Presets	Aurrezarpenak
+	Presets:	Aurrezarpenak:
+	Press keys…	Sakatu teklak…
+	Pressure	Presioa
+	Preview	Aurrebista
+	Previous	Aurrekoa
+	Previous Change	Aurreko aldaketa
+	Previous Page	Aurreko orria
+	Previous page	Aurreko orrialdea
+	Print	Inprimatu
+	Printer	Inprimagailua
+	Printer:	Inprimagailua:
+	Printing	Inprimatzea
+	Print…	Inprimatu…
+	Profile	Profila
+	Progressive	Progresiboa
+	Proof Setup	Proba-konfigurazioa
+	Properties	Propietateak
+	Protect	Babestu
+	PRs	PRak
+	Public Domain	Jabari publikoa
+	Punctuation	Puntuazioa
+	Purple	Morea
+	Pyramid	Piramidea
+	Quality	Kalitatea
+	Quick Actions	Ekintza azkarrak
+	Radial	Erradiala
+	Radial Blur	Lausotze erradiala
+	Radial Blur…	Lausotze erradiala…
+	Radial Gradient	Gradiente erradiala
+	Radius	Erradioa
+	Radius:	Erradioa:
+	Random	Ausazkoa
+	Range	Barrutia
+	Range:	Barrutia:
+	Rasterize	Rasterizatu
+	Ratio	Erlazioa
+	Rays	Izpiak
+	Ready	Prest
+	Real name	Benetako izena
+	Recent	Azkenak
+	Recent Colors	Azken koloreak
+	Recent Files	Azken fitxategiak
+	Recover	Berreskuratu
+	Rectangle	Laukizuzena
+	Rectangle Tool	Laukizuzen-tresna
+	Rectangular	Laukizuzena
+	Red	Gorria
+	Redo	Berregin
+	Reduce Noise	Murriztu zarata
+	Refine	Fintu
+	Reflected	Islatua
+	Refresh	Freskatu
+	Regular	Arrunta
+	Relative	Erlatiboa
+	Relative Colorimetric	Kolorimetriko erlatiboa
+	Relaxed	Lasaia
+	Relief	Erliebea
+	Reload	Birkargatu
+	Remove	Kendu
+	Remove Background	Kendu atzeko planoa
+	Remove from favorites	Kendu gogokoetatik
+	Rename	Aldatu izena
+	Rename Group…	Aldatu taldearen izena…
+	Rename Style	Aldatu estiloaren izena
+	Rename…	Aldatu izena…
+	Repeat	Errepikapena
+	Replace	Ordeztu
+	Replace:	Ordeztu:
+	Reply	Erantzun
+	Report	Txostena
+	Report an Issue…	Jakinarazi arazo bat…
+	Reselect	Hautatu berriro
+	Reset	Berrezarri
+	Reset Preferences	Berrezarri hobespenak
+	Reset…	Berrezarri…
+	Resize panel window	Aldatu panel-leihoaren tamaina
+	Resize panels	Aldatu panelen tamaina
+	Resolution	Bereizmena
+	Resolution:	Bereizmena:
+	Restore	Leheneratu
+	Result	Emaitza
+	Resume	Berrekin
+	Reveal in Finder	Erakutsi Finder-en
+	Reverse	Alderantzikatu
+	Reverse the order	Alderantzikatu ordena
+	Revert	Leheneratu
+	Review	Berrikusi
+	RGB	RGB
+	RGB Color	RGB kolorea
+	RGB:	RGB:
+	Right	Eskuinean
+	Right Diagonal	Eskuineko diagonala
+	Right:	Eskuina:
+	Rotate	Biratu
+	Rotate:	Biratu:
+	Rotation	Biraketa
+	Rotation:	Biraketa:
+	Rounded Rectangle	Laukizuzen biribildua
+	Roundness	Biribiltasuna
+	Roundness:	Biribiltasuna:
+	Rows	Errenkadak
+	Ruler	Erregela
+	Rulers	Erregelak
+	Rulers & Grids	Erregelak eta saretak
+	Russian	Errusiera
+	Sample Size	Laginaren tamaina
+	Sandstone	Hareharria
+	Saturation	Saturazioa
+	Save	Gorde
+	Save a Copy	Gorde kopia bat
+	Save a Copy…	Gorde kopia bat…
+	Save As	Gorde honela
+	Save as PDF	Gorde PDF gisa
+	Save as Template	Gorde txantiloi gisa
+	Save as Template…	Gorde txantiloi gisa…
+	Save As…	Gorde honela…
+	Save Preset…	Gorde aurrezarpena…
+	Save Selection	Gorde hautapena
+	Save Selection…	Gorde hautapena…
+	Saved	Gordeta
+	Save…	Gorde…
+	Scale	Eskala
+	Scale:	Eskala:
+	Scaling	Eskalatzea
+	Scratch Disks	Lan-diskoak
+	Scratch Disks…	Lan-diskoak…
+	Screen	Pantaila
+	Screen Mode	Pantaila-modua
+	Scripts	Scriptak
+	Search	Bilatu
+	Security	Segurtasuna
+	Segments	Segmentuak
+	Select	Hautatu
+	Select All	Hautatu dena
+	Select Objects	Hautatu objektuak
+	Select:	Hautatu:
+	Selected pages	Hautatutako orriak
+	Selection	Hautapena
+	Selection Tool	Hautapen-tresna
+	Selective	Hautakorra
+	Send Backward	Eraman atzerago
+	Send to Back	Eraman atzealdera
+	Sensitivity	Sentikortasuna
+	Sent to {printer}	Hona bidalia: {printer}
+	Services	Zerbitzuak
+	Set	Ezarri
+	Set as Default	Ezarri lehenetsi gisa
+	Set:	Multzoa:
+	Settings	Ezarpenak
+	Settings:	Ezarpenak:
+	Settings…	Ezarpenak…
+	Shadow	Itzala
+	Shadows	Itzalak
+	Shape	Forma
+	Shape Effects	Efektuak
+	Shape:	Forma:
+	Shapes	Formak
+	Share	Partekatu
+	Sharpen	Enfokatu
+	Sharpness	Zorroztasuna
+	Shift	Maius
+	Short Lines	Lerro laburrak
+	Short Strokes	Trazu laburrak
+	Shortcut	Lasterbidea
+	Shortcuts	Lasterbideak
+	Show	Erakutsi
+	Show All	Erakutsi guztiak
+	Show Grid	Erakutsi sareta
+	Show Guides	Erakutsi gidak
+	Show in Folder	Erakutsi karpetan
+	Show Mask	Erakutsi maskara
+	Show Mesh	Erakutsi sarea
+	Show Rulers	Erakutsi erregelak
+	Show rulers	Erakutsi erregelak
+	Show Tool Tips	Erakutsi argibideak
+	Show:	Erakutsi:
+	Sides:	Aldeak:
+	Simplify	Sinplifikatu
+	Size	Tamaina
+	Size:	Tamaina:
+	Sketch	Zirriborroa
+	Skew	Okertu
+	Slice	Zatia
+	Slice Options	Zatiaren aukerak
+	Slice Options…	Zatiaren aukerak…
+	Slice Tool	Zatitze-tresna
+	Slices	Zatiak
+	Small	Txikia
+	Small Caps	Maiuskula txikiak
+	Smart Blur	Lausotze adimenduna
+	Smart Blur…	Lausotze adimenduna…
+	Smart Guides	Gida adimendunak
+	Smart quotes	Komatxo tipografikoak
+	Smoothness	Leuntasuna
+	Snap to Grid	Atxiki saretari
+	Soft	Leuna
+	Soft Light	Argi leuna
+	Soften	Leundu
+	Softness	Leuntasuna
+	Solarize	Solarizatu
+	Sort	Ordenatu
+	Sort by	Ordenatu honen arabera
+	Source	Iturria
+	Source code on GitHub	Iturburu-kodea GitHub-en
+	Spaces	Zuriuneak
+	Spacing	Tartea
+	Spacing:	Tartea:
+	Spanish	Gaztelania
+	Spatter	Zipriztina
+	Special	Berezia
+	Speckle	Orbandua
+	Speed	Abiadura
+	Spelling	Ortografia
+	Spherize	Esferizatu
+	Split	Zatitu
+	Spot Color	Kolore zuzena
+	Spray Radius	Spray-erradioa
+	Square	Karratua
+	Square Size	Karratuaren tamaina
+	sRGB IEC61966-2.1	sRGB IEC61966-2.1
+	Stacked	Pilatua
+	Stained Glass	Beirate
+	Stamp	Zigilua
+	Standard	Estandarra
+	Standard Ligatures	Lotura estandarrak
+	Star	Izarra
+	Start at:	Hasi hemen:
+	Statistics	Estatistikak
+	Status	Egoera
+	Status Bar	Egoera-barra
+	Stippled	Puntukatua
+	Stop	Gelditu
+	Strength	Indarra
+	Stretch	Luzatu
+	Strikethrough	Marratua
+	Stroke	Trazua
+	Stroke Color	Trazuaren kolorea
+	Stroke Length	Trazuaren luzera
+	Stroke Options	Trazuaren aukerak
+	Stroke:	Trazua:
+	Studio	Estudioa
+	Style	Estiloa
+	Style:	Estiloa:
+	Styles	Estiloak
+	Stylize	Estilizatu
+	Subdivisions	Azpizatiketak
+	Subject	Gaia
+	Subscript	Azpiindizea
+	Subset	Azpimultzoa
+	Subtitle	Azpititulua
+	Subtract	Kendu
+	Sumi-e	Sumi-e
+	Summary	Laburpena
+	Superscript	Goi-indizea
+	Swatches	Laginak
+	Symbol	Ikurra
+	Symbols	Ikurrak
+	Sync with system	Sinkronizatu sistemarekin
+	System	Sistema
+	Tab	Tab
+	Table	Taula
+	Table style	Taula-estiloa
+	Tables	Taulak
+	Tabloid	Tabloidea
+	Tabs	Tabulazioak
+	Taper	Meharra
+	Target	Helburua
+	Target:	Helburua:
+	Temperature	Tenperatura
+	Templates	Txantiloiak
+	Text	Testua
+	Text color	Testuaren kolorea
+	Text:	Testua:
+	Texture	Testura
+	The passwords don't match.	Pasahitzak ez datoz bat.
+	Theme	Gaia
+	Thickness	Lodiera
+	This document has no bookmarks.	Dokumentu honek ez du laster-markarik.
+	Threshold	Atalasea
+	Thumbnails	Koadro txikiak
+	Tile	Lauza
+	Tile Size	Lauzaren tamaina
+	Tilt	Inklinazioa
+	Time	Ordua
+	Timecode	Denbora-kodea
+	Timeline	Denbora-lerroa
+	Tint	Tindua
+	Tint Color	Tindu-kolorea
+	Title	Izenburua
+	To	Nori
+	Tolerance	Tolerantzia
+	Tolerance:	Tolerantzia:
+	Tool	Tresna
+	Toolbars	Tresna-barrak
+	Tools	Tresnak
+	Top	Goian
+	Top Left	Goian ezkerrean
+	Top Right	Goian eskuinean
+	Top:	Goian:
+	Total	Guztira
+	Total:	Guztira:
+	Tracking	Karaktere-tartea
+	Transform	Eraldatu
+	Translate	Itzuli
+	Transparency	Gardentasuna
+	Transparent	Gardena
+	Trap…	Gainjartze-trapping…
+	Triangle	Triangelua
+	Turbulent	Zurrunbilotsua
+	Twirl	Zurrunbiloa
+	Twist	Bihurdura
+	Type	Mota
+	Type Tool	Testu-tresna
+	Type:	Mota:
+	Typewriter	Idazmakina
+	Type…	Mota…
+	Typing	Idazketa
+	Underline	Azpimarratua
+	Undo	Desegin
+	Undo {action}	Desegin: {action}
+	Ungroup	Banandu
+	Uniform	Uniformea
+	Union	Bildura
+	Units	Unitateak
+	Unknown	Ezezaguna
+	Unlock	Desblokeatu
+	Unsaved changes	Gorde gabeko aldaketak
+	Unsharp Mask	Enfoke-maskara
+	Untitled	Izengabea
+	Up	Gora
+	Update	Eguneratu
+	Updates	Eguneratzeak
+	UPPERCASE	MAIUSKULAK
+	Use Default	Erabili lehenetsia
+	User	Erabiltzailea
+	Username	Erabiltzaile-izena
+	Value	Balioa
+	Value:	Balioa:
+	Variables	Aldagaiak
+	Version	Bertsioa
+	Version {version}	{version} bertsioa
+	Vertical	Bertikala
+	Vertical Alignment	Lerrokatze bertikala
+	Vertical Type Tool	Testu bertikalaren tresna
+	Vertically	Bertikalki
+	Very High	Oso altua
+	Vibrance	Bizitasuna
+	Video	Bideoa
+	View	Ikusi
+	Violet	Bioleta
+	Visibility	Ikusgaitasuna
+	Vivid Light	Argi bizia
+	Voice	Ahotsa
+	W:	Z:
+	Warning	Abisua
+	Warnings	Abisuak
+	Warp	Deformatu
+	Watermark	Ur-marka
+	Wave	Uhina
+	Wave…	Uhina…
+	Web	Weba
+	Website	Webgunea
+	Weight	Lodiera
+	Wet	Hezea
+	White	Zuria
+	White Intensity	Zuriaren intentsitatea
+	White Is High	Zuria altua da
+	Whites	Zuriak
+	Width	Zabalera
+	Width and Height	Zabalera eta altuera
+	Width:	Zabalera:
+	Window	Leihoa
+	Windows	Leihoak
+	Words	Hitzak
+	Working CMYK	Laneko CMYK
+	Workspace	Lan-eremua
+	Workspaces	Lan-eremuak
+	X	X
+	Y	Y
+	Yellow	Horia
+	Yes	Bai
+	yesterday	atzo
+	Your changes will be lost if you don't save them.	Gordetzen ez badituzu, aldaketak galduko dira.
+	Zoom	Zooma
+	Zoom In	Handiagotu
+	Zoom in	Handiagotu
+	Zoom Out	Txikiagotu
+	Zoom out	Txikiagotu
+	Zoom Tool	Zoom-tresna
+@plural	{n} commit|{n} commits	Konfirmazio {n}|{n} konfirmazio
+	{n} files	{n} fitxategi
+	{n} h ago	Duela {n} h
+@plural	{n} item|{n} items	Elementu {n}|{n} elementu
+@plural	{n} Layer|{n} Layers	Geruza {n}|{n} geruza
+	{n} min ago	Duela {n} min
+@plural	{n} step|{n} steps	Urrats {n}|{n} urrats
+	−Bin	−Zakarrontzia
+	● Recording	● Grabatzen

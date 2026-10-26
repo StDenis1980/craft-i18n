@@ -68,3 +68,14 @@ agent messages, storytold/wordcraft#2600) in `bg`, `cs`, `de`, `es`, `et`, `fr`,
 `ja`, `ko`, `pl`, `pt-br`, `ru`, `sr-latn`, `sr`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`,
 AI-assisted with Claude Code and written from the English meaning. No native-speaker review is
 recorded.
+
+## Catalan, Galician and Basque for WordCraft
+
+Denys Mishchenko (@StDenis1980) contributed the `ca` (Català), `gl` (Galego) and `eu` (Euskara)
+catalogs: `common.tsv` and `wordcraft.tsv` in each, every row translated. They are AI-assisted
+with Claude Code and written from the plain meaning of the English. About 680 Catalan rows and
+about 400 Galician and Basque rows reuse the same contributor's earlier translations of the same
+English strings in the MIT OR Apache-2.0 Tinta Office forks of PdfCraft, GridCraft, DeckCraft
+and Tinta Correo (the Catalan PdfCraft rows there are PdfCraft contributors' work). No
+native-speaker review is recorded yet; corrections from Catalan, Galician and Basque speakers are
+welcome.
