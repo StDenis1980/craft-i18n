@@ -1,0 +1,1293 @@
+# Català (ca) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+@id	language.name	Català
+	% of all commits	% de totes les contribucions
+	(Custom)	(Personalitzat)
+	(none)	(cap)
+	1 file	1 fitxer
+	16 bit	16 bits
+	24 bit	24 bits
+	24 bits/pixel	24 bits/píxel
+	32 bit	32 bits
+	32 bits/pixel	32 bits/píxel
+	8 bit	8 bits
+	About	Quant a
+	Absolute	Absolut
+	Absolute Colorimetric	Colorimètric absolut
+	Accented Edges	Vores accentuades
+	Accessibility	Accessibilitat
+	Accurate	Precís
+	Actions	Accions
+	Activate Panel	Activa el tauler
+	Active	Actiu
+	Actual Size	Mida real
+	Adaptive	Adaptatiu
+	Add	Afegeix
+	Add a comment	Afegeix un comentari
+	Add Guide	Afegeix una guia
+	Add to Dictionary	Afegeix al diccionari
+	Add to favorites	Afegeix a preferits
+	Add to Swatches	Afegeix a les mostres
+	Adjust	Ajusta
+	Adjustments	Ajustos
+	Advanced	Avançat
+	Align	Alinea
+	Align center	Alinea al centre
+	Align Left	Alinea a l'esquerra
+	Align left	Alinea a l'esquerra
+	Align Right	Alinea a la dreta
+	Align right	Alinea a la dreta
+	Align Text	Alinea el text
+	Align to Selection	Alinea amb la selecció
+	Alignment	Alineació
+	Alignment:	Alineació:
+	All	Tot
+	All Caps	Tot majúscules
+	All Categories	Totes les categories
+	All files	Tots els fitxers
+	All Layers	Totes les capes
+	All pages	Totes les pàgines
+	All Slices	Tots els talls
+	Alpha	Alfa
+	Alt	Alt
+	Always	Sempre
+	Amount	Quantitat
+	Amount:	Quantitat:
+	Angle	Angle
+	Angle:	Angle:
+	Angular	Angular
+	Animation	Animació
+	Animation effects	Efectes d'animació
+	Anti-Alias	Antialiàsing
+	Anti-alias	Antialiàsing
+	Any	Qualsevol
+	Appearance	Aparença
+theme	Appearance	Aspecte
+	Appearance Settings…	Configuració de l'aparença…
+	Application	Aplicació
+	Apply	Aplica
+	Apply Character Style	Aplica un estil de caràcter
+	Apply Data Set	Aplica el conjunt de dades
+	Apply to:	Aplica a:
+	Arc	Arc
+	Area	Àrea
+	Arrange	Organitza
+	Arrow	Fletxa
+	Arrows	Fletxes
+	Artboard	Taula de treball
+	Artboards	Taules de treball
+	ArtCraft	ArtCraft
+	ArtCraft Website	Lloc web d'ArtCraft
+	ArtCraft website	Lloc web d'ArtCraft
+	Artistic	Artístic
+	Ascending	Ascendent
+	Aspect Ratio	Relació d'aspecte
+	Assign	Assigna
+	Assign Profile…	Assigna un perfil…
+	Audio	Àudio
+	Author	Autor
+	Author:	Autor:
+	Auto	Automàtica
+	Auto ({percent}%)	Automàtica ({percent} %)
+	Auto Color	Color automàtic
+	Automate	Automatitza
+	Automatic	Automàtic
+	Automatically	Automàticament
+	Available	Disponible
+	Average	Mitjana
+	Background	Fons
+	Background Color	Color de fons
+	Background Contents	Contingut del fons
+	Backspace	Retrocés
+	Balance	Equilibri
+	Bar	Barra
+	Baseline	Línia de base
+	Baseline Shift	Desplaçament de la línia base
+	Basic	Bàsic
+	Basic Latin	Llatí bàsic
+	Batch	Lot
+	Batch…	Lot…
+	Bend:	Corba:
+	Bicubic	Bicúbic
+	Binary assets added	Recursos binaris afegits
+	Binary assets removed	Recursos binaris eliminats
+	Bitmap	Mapa de bits
+	Black	Negre
+	Black & White	Blanc i negre
+	Black and white	Blanc i negre
+	Black Intensity	Intensitat del negre
+	Blacks	Negres
+	Blend Mode	Mode de fusió
+	Blending Mode	Mode de fusió
+	Block	Bloc
+	Blocks	Blocs
+	Blue	Blau
+	Blur	Desenfocament
+	Blur Angle	Angle de desenfocament
+	Bold	Negreta
+	Border	Vora
+	Border Thickness	Gruix de la vora
+	Borders	Vores
+	Both	Ambdues
+	Both sides	Les dues cares
+	Bottom	Inferior
+	Bottom Left	A baix a l'esquerra
+	Bottom Right	A baix a la dreta
+	Bottom:	Inferior:
+	Break Link	Trenca l'enllaç
+	Brick	Maó
+	Brightness	Brillantor
+	Bring Forward	Porta endavant
+	Bring to Front	Porta al davant
+	Brown	Marró
+	Browse	Navega
+	Browse…	Navega…
+	Brush Size	Mida del pinzell
+	Brush Strokes	Pinzellades
+	Brushes	Pinzells
+	Bulge	Bombament
+	Bullet	Pic
+	Burlap	Arpillera
+	Calculate	Calcula
+	Cancel	Cancel·la
+	Canvas	Llenç
+	Caption	Llegenda
+	Cascade	Cascada
+	Case Sensitive	Distingeix majúscules i minúscules
+	Category	Categoria
+	Category:	Categoria:
+	Cell Size	Mida de la cel·la
+	Center	Centre
+	Center X	Centre X
+	Center Y	Centre Y
+	Centered	Centrat
+	Centimeters	Centímetres
+	Chamfer	Xamfrà
+	Change	Canvia
+	Change All	Canvia-ho tot
+	Change Case	Canvia majúscules/minúscules
+	Change Panel Layout	Canvia la disposició dels taulers
+	Channel	Canal
+	Channel Mixer	Mesclador de canals
+	Channels	Canals
+	Character	Caràcter
+	Character Styles	Estils de caràcter
+	Characters	Caràcters
+	Check for Updates	Cerca actualitzacions
+	Check for updates	Cerca actualitzacions
+	Check Spelling…	Revisa l'ortografia…
+	Checkerboard	Escaquer
+	Choose…	Tria…
+	Circle	Cercle
+	City	Ciutat
+	Clarity	Claredat
+	Classic	Clàssic
+	Clear	Esborra
+	Clear All	Esborra-ho tot
+	Clear Guides	Esborra les guies
+	Clear History	Esborra l'historial
+	Clear Recent Files	Esborra els fitxers recents
+	Clipboard	Porta-retalls
+	Clipping Mask	Màscara de retall
+	Clone	Clona
+	Close	Tanca
+	Close (Esc)	Tanca (Esc)
+	Close All	Tanca-ho tot
+	Close Panel	Tanca el tauler
+	Cmd	Cmd
+	CMYK Color	Color CMYK
+	CMYK:	CMYK:
+	Coarse Dots	Punts gruixuts
+	Collapse	Replega
+	Collate	Intercala
+	Color	Color
+	Color Balance	Equilibri de color
+	Color Burn	Cremat de color
+	Color Dodge	Esvaïment de color
+	Color Management	Gestió del color
+	Color Mode	Mode de color
+	Color Picker	Selector de color
+	Color Settings	Configuració del color
+	Color Settings…	Configuració del color…
+	Color Space	Espai de color
+	Color Swatches	Mostres de color
+	Color Table	Taula de colors
+	Color:	Color:
+	Colorize	Acoloreix
+	Colors	Colors
+	Colors:	Colors:
+	Color…	Color…
+	Colour	Color
+	Column width	Amplada de columna
+	Columns	Columnes
+	Columns:	Columnes:
+	Combine	Combina
+	Command	Ordre
+	Commands:	Ordres:
+	Comment	Comentari
+	Comments	Comentaris
+	Commits	Commits
+	Community	Comunitat
+	Company	Empresa
+	Compare	Compara
+	Comparison	Comparació
+	Compatibility	Compatibilitat
+	Composite	Compost
+	Compression	Compressió
+	Cone	Con
+	Contains	Conté
+	Continue	Continua
+	Contrast	Contrast
+	Contributors	Contribuïdors
+	Convert	Converteix
+	Convert to Shape	Converteix en forma
+	Convert to sRGB	Converteix a sRGB
+	Copies	Còpies
+	Copies:	Còpies:
+	Copy	Copia
+	Copyright	Drets d'autor
+	Copyrighted	Amb drets d'autor
+	Corner	Cantonada
+	Corners	Cantonades
+	Correction	Correcció
+	Couldn't open {name}: {e}	No s'ha pogut obrir {name}: {e}
+@msg	Couldn't open {name}: {e}	No s'ha pogut obrir {name}: {e}
+	Country	País
+	Crack Brightness	Brillantor de les esquerdes
+	Crack Depth	Profunditat de les esquerdes
+	Crack Spacing	Espaiat de les esquerdes
+	Create	Crea
+	Create Clipping Mask	Crea una màscara de retall
+	Crop	Escapça
+	Cross	Creu
+	Crosshatch	Trama creuada
+	Crystallize	Cristal·litza
+	Crystallize…	Cristal·litza…
+	Ctrl	Ctrl
+	Current	Actual
+	Current page	Pàgina actual
+	Current Time	Hora actual
+	Curvature	Curvatura
+	Curve	Corba
+	Curves	Corbes
+	Curves…	Corbes…
+	Custom	Personalitzat
+	Customize…	Personalitza…
+	Cut	Retalla
+	Cyan	Cian
+	Dark	Fosc
+	Dark Gray	Gris fosc
+	Dark gray	Gris fosc
+	Dark Strokes	Traços foscos
+	Dark Theme	Tema fosc
+	Darken	Enfosqueix
+	Darkness	Foscor
+	Dashed	Discontínua
+	Data	Dades
+	Data Sets	Conjunts de dades
+	Date	Data
+	Date and Time	Data i hora
+	Date Created	Data de creació
+	Date format	Format de data
+	Dates	Dates
+	De-Interlace	Desentrellaça
+	Decrease Font Size	Redueix la mida del tipus de lletra
+	Default	Per defecte
+	Delete	Suprimeix
+	Delete Brush	Suprimeix el pinzell
+	Delete Group	Suprimeix el grup
+	Delete Layer	Suprimeix la capa
+	Delete Mask	Suprimeix la màscara
+	Delete Style	Suprimeix l'estil
+	Delete Workspace	Suprimeix l'espai de treball
+	Deleted	Suprimit
+	Delete…	Suprimeix…
+	Depth	Profunditat
+	Desaturate	Dessatura
+	Descending	Descendent
+	Description	Descripció
+	Description:	Descripció:
+	Deselect	Desselecciona
+	Deselect All	Desselecciona-ho tot
+	Destination	Destinació
+	Destination:	Destinació:
+	Details	Detalls
+	Diagonal	Diagonal
+	Diameter	Diàmetre
+	Diameter:	Diàmetre:
+	Diamond	Rombe
+	Difference	Diferència
+	Diffuse Glow	Resplendor difusa
+	Diffusion	Difusió
+	Digits	Dígits
+	Dimensions	Dimensions
+	Direct Selection Tool	Eina de selecció directa
+	Direction	Direcció
+	Direction Balance	Equilibri de direcció
+	Direction:	Direcció:
+	Discard	Descarta
+	Discord	Discord
+	Discretionary Ligatures	Lligadures opcionals
+	Dismiss	Descarta
+	Display	Visualització
+	Display name	Nom visible
+	Distance	Distància
+	Distort	Distorsiona
+	Distortion	Distorsió
+	Distribute	Distribueix
+	Divide	Divideix
+	Dock Panel	Acobla el tauler
+	Document	Document
+	Document Title	Títol del document
+	Documents	Documents
+	Don't Save	No desis
+	Done	Fet
+	Dot	Punt
+	Dots	Punts
+	Dotted	Puntejat
+	Double-click	Doble clic
+	Down	Avall
+	Download	Baixa
+	Draft	Esborrany
+	Draw	Dibuix
+	Drop Shadow	Ombra projectada
+	Drop Shadow…	Ombra projectada…
+	Duplicate	Duplica
+	Duplicate Layer	Duplica la capa
+	Duplicate…	Duplica…
+	Duplication	Duplicació
+	Duration	Durada
+	Dutch	Neerlandès
+	Dynamic	Dinàmic
+	Dynamics	Dinàmica
+	Edge	Vora
+	Edge Brightness	Brillantor de les vores
+	Edge Intensity	Intensitat de les vores
+	Edge Only	Només vores
+	Edge Simplicity	Simplicitat de les vores
+	Edge Thickness	Gruix de les vores
+	Edge Width	Amplada de les vores
+	Edit	Edita
+	Edit Contents	Edita el contingut
+	Edit Original	Edita l'original
+	Edit Toolbar	Edita la barra d'eines
+	Editing	Edició
+	Edit…	Edita…
+	Effect	Efecte
+	Effects	Efectes
+	Elevation	Elevació
+	Eliminate	Elimina
+	Ellipse	El·lipse
+	Ellipse Tool	Eina d'el·lipse
+	Ellipsis	Punts suspensius
+	Em Dash	Guió llarg
+	Em Space	Espai llarg
+	Embed	Incrusta
+	Emboss	Relleu
+	En Dash	Guió mitjà
+	En Space	Espai mitjà
+	Enable	Activa
+	Endpoint	Extrem
+	Enlarged	Ampliat
+	Enter	Introdueix
+	Entire Font	Tipus de lletra sencer
+	Envelope DL	Sobre DL
+	Erase	Esborra
+	Eraser	Goma d'esborrar
+	Eraser Tool	Eina de goma d'esborrar
+	Error	Error
+	Even Fields	Camps parells
+	Even pages only	Només les pàgines parelles
+	Exact	Exacte
+	Example: {sample}	Exemple: {sample}
+	Exclusion	Exclusió
+	Exit	Surt
+	Expand	Desplega
+	Export	Exporta
+	Export As	Exporta com a
+	Export As…	Exporta com a…
+	Export Options	Opcions d'exportació
+	Export PDF	Exporta a PDF
+	Export to	Exporta a
+	Exported to {path}	Exportat a {path}
+	Exported {path}	S'ha exportat {path}
+	Export…	Exporta…
+	Exposure	Exposició
+	Expression	Expressió
+	Extract	Extreu
+	Eyedropper	Comptagotes
+	Eyedropper Tool	Eina de comptagotes
+	Faded Film	Pel·lícula esvaïda
+	Fast	Ràpid
+	Favorites	Preferits
+	Feather	Difumina
+	Field	Camp
+	Field properties	Propietats del camp
+	Fields	Camps
+	Fields:	Camps:
+	File	Fitxer
+	File Format	Format de fitxer
+	File Handling	Gestió de fitxers
+	File Info…	Informació del fitxer…
+	File Name	Nom del fitxer
+	File Size	Mida del fitxer
+@id	file.close	Tanca
+	Files	Fitxers
+	Fill	Emplenament
+	Fill:	Emplenament:
+	Filter	Filtre
+	Find	Cerca
+	Find and Replace	Cerca i substitueix
+	Find Next	Cerca el següent
+	Find:	Cerca:
+	Find…	Cerca…
+	Fine Dots	Punts fins
+	Finish	Acaba
+	First	Primera
+	First commit	Primera contribució
+	Fit	Ajusta
+	Fit in View	Ajusta a la vista
+	Fixed	Fix
+	Flash	Flaix
+	Flatten	Aplana
+	Flip	Capgira
+	Flip Horizontal	Capgira horitzontalment
+	Flip Vertical	Capgira verticalment
+	Focus	Enfocament
+	Folder	Carpeta
+	Font	Tipus de lletra
+	Font Size	Mida de la lletra
+	Font size	Mida del tipus de lletra
+	Font Size:	Mida del tipus de lletra:
+	Font:	Tipus de lletra:
+	Fonts	Tipus de lletra
+	Format	Format
+	Format:	Format:
+	Fractions	Fraccions
+	Frame	Marc
+	Free	Lliure
+	Free Transform	Transformació lliure
+	French	Francès
+	Frequency	Freqüència
+	From	Des de
+	Frosted	Glaçat
+	Full	Complet
+	Full Screen	Pantalla completa
+	Full Screen Mode	Mode de pantalla completa
+	Functions	Funcions
+	Gamma	Gamma
+	Gamma Correction	Correcció de gamma
+	Gamut Warning	Avís de gamma
+	Gaussian Blur	Desenfocament gaussià
+	Gaussian Blur…	Desenfocament gaussià…
+	General	General
+	General…	General…
+	Generate	Genera
+	Geometry	Geometria
+	German	Alemany
+	GitHub	GitHub
+	Glass	Vidre
+	Global	Global
+	Glow	Resplendor
+	Glow Brightness	Brillantor de la resplendor
+	Glow Size	Mida de la resplendor
+	Glyphs	Glifs
+	Good	Bo
+	Gradient	Degradat
+	Gradient Tool	Eina de degradat
+	Gradients	Degradats
+	Grain	Gra
+	Grain Type	Tipus de gra
+	Graininess	Granulositat
+	Grainy Dots	Punts granulats
+	Graphic	Gràfic
+	Graphics	Gràfics
+	Gray	Gris
+	Gray Gamma 2.2	Gamma de gris 2,2
+	Grayscale	Escala de grisos
+	Green	Verd
+	Grid	Quadrícula
+	Grid Size:	Mida de la quadrícula:
+	Grid view	Visualització en quadrícula
+	Gridline every	Línia de quadrícula cada
+	Group	Agrupa
+	Group with	Agrupa amb
+	Groups	Grups
+	Grout Width	Amplada del rejuntat
+	Guides	Guies
+	Halftone Pattern	Patró de semitons
+	Hand	Mà
+	Hand Tool	Eina de mà
+	Hard	Dur
+	Hard Light	Llum forta
+	Hard Mix	Mescla forta
+	Headings	Encapçalaments
+	Heart	Cor
+	Height	Alçada
+	Height:	Alçada:
+	Help	Ajuda
+	Hexagon	Hexàgon
+	Hidden	Amagat
+	Hidden text	Text ocult
+	Hide	Amaga
+	Hide All	Amaga-ho tot
+	Hide Grid	Amaga la quadrícula
+	Hide Others	Amaga els altres
+	High	Alta
+	High Pass	Pas alt
+	High Resolution	Alta resolució
+	High resolution	Alta resolució
+	Highlight Area	Àrea de ressaltat
+	Highlights	Clars
+	Hindi	Hindi
+	Histogram	Histograma
+	History	Historial
+	Hollow	Buit
+	Home	Inici
+	Horizontal	Horitzontal
+	Horizontal scale	Escala horitzontal
+	Horizontally	Horitzontalment
+	Hue	To
+	Hue Shift	Desplaçament de to
+	Hue/Saturation…	To/saturació…
+	Hyphenation	Partició de mots
+	Icon	Icona
+	Ignore	Ignora
+	Ignore All	Omet-ho tot
+	Image	Imatge
+	Image Size	Mida de la imatge
+	Images	Imatges
+	Import	Importa
+	Import…	Importa…
+	Inches	Polzades
+	Increase Font Size	Augmenta la mida del tipus de lletra
+	Index	Índex
+	Inflate	Infla
+	Info	Informació
+	Inner Glow…	Resplendor interior…
+	Input:	Entrada:
+	Insert	Insereix
+	Inside	A dins
+	Inspect Document	Inspecciona el document
+	Install Plug-in	Instal·la un connector
+	Install Plug-in…	Instal·la un connector…
+	Intensity	Intensitat
+	Interface	Interfície
+	Interface Language	Idioma de la interfície
+	Interface language	Idioma de la interfície
+	Interface Theme	Tema de la interfície
+	Interlaced	Entrellaçat
+	Interpolation	Interpolació
+	Intersect	Interseca
+	Intersection	Intersecció
+	Invert	Inverteix
+	Invert Mask	Inverteix la màscara
+	Isolate	Aïlla
+	Italian	Italià
+	Italic	Cursiva
+	Japanese	Japonès
+	Join	Uneix
+	Join our Discord	Uneix-te al nostre Discord
+	Join the ArtCraft Discord	Uneix-te al Discord d'ArtCraft
+	Join the ArtCraft Discord…	Uneix-te al Discord d'ArtCraft…
+	Join us on Discord	Uneix-te a nosaltres a Discord
+	just now	ara mateix
+	Justification	Justificació
+	Justify	Justifica
+	Keep:	Conserva:
+	Kerning	Interlletratge
+	Keyboard Shortcuts	Dreceres de teclat
+	Keyboard Shortcuts…	Dreceres de teclat…
+	Keywords	Paraules clau
+	Kind	Tipus
+	Korean	Coreà
+	Lab	Lab
+	Label	Etiqueta
+	Labels	Etiquetes
+	Landscape	Horitzontal
+	Language	Idioma
+	Language Options	Opcions d'idioma
+	Language:	Idioma:
+	Large	Gran
+	Lasso	Llaç
+	Lasso Tool	Eina de llaç
+	Last	Última
+	Last commit	Última contribució
+	Later	Més tard
+	Layer	Capa
+	Layers	Capes
+	Layout	Disseny
+	Layout:	Disposició:
+	Leading	Interlineat
+	Left	Esquerra
+	Left Diagonal	Diagonal esquerra
+	Left to Right	D'esquerra a dreta
+	Left:	Esquerra:
+	Legal	Legal
+	Length	Longitud
+	Length:	Longitud:
+	Lens Flare	Destell de lent
+	Less	Less
+	Letter	Carta
+	Level	Nivell
+	Level 1	Nivell 1
+	Level 2	Nivell 2
+	Level 3	Nivell 3
+	Level 4	Nivell 4
+	Levels	Nivells
+	Levels…	Nivells…
+	Libraries	Biblioteques
+	Library	Biblioteca
+	Light	Clar
+	Light Blue	Blau clar
+	Light Direction	Direcció de la llum
+	Light Gray	Gris clar
+	Light gray	Gris clar
+	Light Intensity	Intensitat de la llum
+	Light Theme	Tema clar
+	Light Type	Tipus de llum
+	Lighten	Aclareix
+	Lighter Color	Color més clar
+	Lighting	Il·luminació
+	Lighting Effects	Efectes d'il·luminació
+	Lightness	Claredat
+	Line	Línia
+	Line delta	Diferència de línies
+	Line spacing	Interlineat
+	Linear	Lineal
+	Linear Burn	Cremat lineal
+	Linear Gradient	Degradat lineal
+	Linear Light	Llum lineal
+	Lines	Línies
+	Lines +/−	Línies +/−
+	Lines added	Línies afegides
+	Lines deleted	Línies suprimides
+	Link	Enllaç
+	Links	Enllaços
+	List	Llista
+	List View	Vista de llista
+	List view	Visualització en llista
+	Location	Ubicació
+	Location:	Ubicació:
+	Lock	Bloqueja
+	Lock Guides	Bloqueja les guies
+	Lock Slices	Bloqueja els talls
+	Locked	Bloquejat
+	Long Lines	Línies llargues
+	Long Strokes	Traços llargs
+	Low	Baixa
+	lowercase	minúscules
+	Luminance	Luminància
+	Luminosity	Lluminositat
+	Magenta	Magenta
+	Magic Wand Tool	Eina de vareta màgica
+	Magnification	Ampliació
+	Margins	Marges
+	Mask	Màscara
+	Masks	Màscares
+	Matte	Mat
+	Maximize	Maximitza
+	Maximum	Màxima
+	Measure	Mesura
+	Median	Mediana
+	Medium	Mitjana
+	Medium Dots	Punts mitjans
+	Medium Gray	Gris mitjà
+	Medium Lines	Línies mitjanes
+	Merge	Fusiona
+	Merge Cells	Combina les cel·les
+	Merge Layers	Fusiona les capes
+	Merged PRs	PR combinats
+	Mesh	Malla
+	Message:	Missatge:
+	Metadata	Metadades
+	Method	Mètode
+	Method:	Mètode:
+	Mezzotint	Mezzotinta
+	Mezzotint…	Mezzotinta…
+	Middle	Mig
+	Midpoint	Punt mitjà
+	Midtones	Tons mitjans
+	Millimeters	Mil·límetres
+	Minimize	Minimitza
+	Minimum	Mínima
+	Mirror	Reflecteix
+	Missing	Falta
+	Mobile	Mòbil
+	Mode	Mode
+	Mode:	Mode:
+	Model	Model
+	Models	Models
+	Modern	Modern
+	Modified	Modificat
+	Modify	Modifica
+	Monitor RGB	RGB del monitor
+	Mono	Mono
+	Monochrome	Monocrom
+	More	Més
+	Mosaic	Mosaic
+	Mosaic Tiles	Rajoles de mosaic
+	Motion	Moviment
+	Move	Mou
+	Move Down	Mou avall
+	Move Panel	Mou el tauler
+	Move Up	Mou amunt
+	Multiply	Multiplica
+	Name	Nom
+	Name (A–Z)	Nom (A–Z)
+	Name:	Nom:
+	Navigation	Navegació
+	Navigator	Navegador
+	Neon Glow	Resplendor de neó
+	Never	Mai
+	New	Nou
+	New Document	Document nou
+	New document	Document nou
+	New from Template	Nou a partir d'una plantilla
+	New Group	Grup nou
+	New Guide	Guia nova
+	New Layer	Capa nova
+	New Layer…	Capa nova…
+	New Style…	Estil nou…
+	New Swatch…	Mostra nova…
+	New Window	Finestra nova
+	New Workspace	Espai de treball nou
+	New Workspace…	Espai de treball nou…
+	New…	Nou…
+	Next	Següent
+	Next Appearance Mode	Mode d'aparença següent
+	Next Change	Canvi següent
+	Next Page	Pàgina següent
+	Next page	Pàgina següent
+	No	No
+	No Color	Sense color
+	No Dither	Sense tramat
+	No Document	Cap document
+	No document	Cap document
+	No document open	No hi ha cap document obert
+	No limit	Sense límit
+	No matches.	Cap coincidència.
+	No matching commands	Cap ordre coincident
+	No recent files	No hi ha fitxers recents
+	No results	Cap resultat
+	No Selection	Cap selecció
+	No selection	Cap selecció
+	Noise	Soroll
+	Nonbreaking Space	Espai no separable
+	None	Cap
+	Normal	Normal
+	Not available	No disponible
+	NTSC Colors	Colors NTSC
+	Number	Número
+	Object	Objecte
+	Octagon	Octàgon
+	Odd Fields	Camps senars
+	Odd pages only	Només les pàgines senars
+	Off	Desactivat
+	Offline	Fora de línia
+	Offset	Desplaçament
+	Offset:	Desplaçament:
+	OK	D'acord
+	Omit	Omet
+	On	Activat
+	Only Web Colors	Només colors web
+	Opacity	Opacitat
+	Opacity:	Opacitat:
+	Open	Obre
+	Open link	Obre l'enllaç
+	Open Recent	Obre un recent
+	OpenType	OpenType
+	Open…	Obre…
+	Optimized	Optimitzat
+	Options	Opcions
+	Options…	Opcions…
+	Orange	Taronja
+	Ordinals	Ordinals
+	Orientation	Orientació
+	Orientation:	Orientació:
+	Original	Original
+	Other	Altre
+	Outer Glow…	Resplendor exterior…
+	Outline	Contorn
+	Output	Sortida
+	Output:	Sortida:
+	Outside	A fora
+	Oval	Oval
+	Overlap:	Superposició:
+	Overlay	Superposa
+	Package…	Empaqueta…
+	Page	Pàgina
+	Page {page} of {pages}	Pàgina {page} de {pages}
+	Pages	Pàgines
+	Painting	Pintura
+	Panel	Tauler
+	Panel menu	Menú del tauler
+	Panel Options…	Opcions del tauler…
+	Panels	Taulers
+	Paper	Paper
+	Paragraph	Paràgraf
+	Paragraph Styles	Estils de paràgraf
+	Password	Contrasenya
+	Paste	Enganxa
+	Paste Special	Enganxament especial
+	Patchwork	Patchwork
+	Path	Traçat
+	Path:	Camí:
+	Paths	Traçats
+	Pattern	Trama
+	Pattern Type	Tipus de patró
+	Pause	Pausa
+	Pen	Ploma
+	Pen Tool	Eina de ploma
+	Pencil	Llapis
+	Pencil Tool	Eina de llapis
+	Pentagon	Pentàgon
+	Percent	Percentatge
+	Percentage	Percentatge
+	Performance	Rendiment
+	Perimeter	Perímetre
+	Perspective	Perspectiva
+	Photo	Foto
+	Photocopy	Fotocòpia
+	Picas	Cíceros
+	Pin Light	Llum puntual
+	Pink	Rosa
+	Pixel	Píxel
+	Pixelate	Pixel·la
+	Pixels	Píxels
+	Play	Reprodueix
+	Plug-ins	Connectors
+	Point	Assenyala
+	Pointillize	Puntejat
+	Pointillize…	Puntejat…
+	Points	Punts
+	Polygon	Polígon
+	Polygon Tool	Eina de polígon
+	Polyline	Polilínia
+	Portrait	Vertical
+	Portuguese	Portuguès
+	Position	Posició
+	Position:	Posició:
+	Postcard	Postal
+	Poster	Pòster
+	Poster Edges	Vores de pòster
+	Posterization	Posterització
+	Posterize	Posteritza
+	Preferences	Preferències
+	Preferences…	Preferències…
+	Prefix	Prefix
+	Preserve	Conserva
+	Preserve Luminosity	Conserva la lluminositat
+	Preset	Valor predefinit
+	Preset Manager	Gestor de valors predefinits
+	Preset:	Valor predefinit:
+	Presets	Valors predefinits
+	Presets:	Valors predefinits:
+	Press keys…	Premeu les tecles…
+	Pressure	Pressió
+	Preview	Visualització prèvia
+	Previous	Anterior
+	Previous Change	Canvi anterior
+	Previous Page	Pàgina anterior
+	Previous page	Pàgina anterior
+	Print	Imprimeix
+	Printer	Impressora
+	Printer:	Impressora:
+	Printing	Impressió
+	Print…	Imprimeix…
+	Profile	Perfil
+	Progressive	Progressiu
+	Proof Setup	Configuració de prova
+	Properties	Propietats
+	Protect	Protegeix
+	PRs	PR
+	Public Domain	Domini públic
+	Punctuation	Puntuació
+	Purple	Porpra
+	Pyramid	Piràmide
+	Quality	Qualitat
+	Quick Actions	Accions ràpides
+	Radial	Radial
+	Radial Blur	Desenfocament radial
+	Radial Blur…	Desenfocament radial…
+	Radial Gradient	Degradat radial
+	Radius	Radi
+	Radius:	Radi:
+	Random	Aleatori
+	Range	Interval
+	Range:	Interval:
+	Rasterize	Rasteritza
+	Ratio	Proporció
+	Rays	Raigs
+	Ready	Llest
+	Real name	Nom real
+	Recent	Recents
+	Recent Colors	Colors recents
+	Recent Files	Fitxers recents
+	Recover	Recupera
+	Rectangle	Rectangle
+	Rectangle Tool	Eina de rectangle
+	Rectangular	Rectangular
+	Red	Vermell
+	Redo	Refés
+	Reduce Noise	Redueix el soroll
+	Refine	Refina
+	Reflected	Reflectit
+	Refresh	Actualitza
+	Regular	Normal
+	Relative	Relatiu
+	Relative Colorimetric	Colorimètric relatiu
+	Relaxed	Relaxat
+	Relief	Relleu
+	Reload	Torna a carregar
+	Remove	Elimina
+	Remove Background	Elimina el fons
+	Remove from favorites	Elimina de preferits
+	Rename	Canvia el nom
+	Rename Group…	Canvia el nom del grup…
+	Rename Style	Canvia el nom de l'estil
+	Rename…	Canvia el nom…
+	Repeat	Repetició
+	Replace	Substitueix
+	Replace:	Substitueix:
+	Reply	Respon
+	Report	Informe
+	Report an Issue…	Informa d'un problema…
+	Reselect	Torna a seleccionar
+	Reset	Restableix
+	Reset Preferences	Restableix les preferències
+	Reset…	Restableix…
+	Resize panel window	Canvia la mida de la finestra del tauler
+	Resize panels	Canvia la mida dels taulers
+	Resolution	Resolució
+	Resolution:	Resolució:
+	Restore	Restaura
+	Result	Resultat
+	Resume	Reprèn
+	Reveal in Finder	Mostra al Finder
+	Reverse	Inverteix
+	Reverse the order	Inverteix l'ordre
+	Revert	Reverteix
+	Review	Revisió
+	RGB	RGB
+	RGB Color	Color RGB
+	RGB:	RGB:
+	Right	Dreta
+	Right Diagonal	Diagonal dreta
+	Right:	Dreta:
+	Rotate	Gira
+	Rotate:	Gira:
+	Rotation	Rotació
+	Rotation:	Rotació:
+	Rounded Rectangle	Rectangle arrodonit
+	Roundness	Arrodoniment
+	Roundness:	Arrodoniment:
+	Rows	Files
+	Ruler	Regle
+	Rulers	Regles
+	Rulers & Grids	Regles i quadrícules
+	Russian	Rus
+	Sample Size	Mida de la mostra
+	Sandstone	Gres
+	Saturation	Saturació
+	Save	Desa
+	Save a Copy	Desa una còpia
+	Save a Copy…	Desa una còpia…
+	Save As	Anomena i desa
+	Save as PDF	Anomena i desa com a PDF
+	Save as Template	Desa com a plantilla
+	Save as Template…	Desa com a plantilla…
+	Save As…	Desa com a…
+	Save Preset…	Desa el valor predefinit…
+	Save Selection	Desa la selecció
+	Save Selection…	Desa la selecció…
+	Saved	Desat
+	Save…	Desa…
+	Scale	Escala
+	Scale:	Escala:
+	Scaling	Escalat
+	Scratch Disks	Discs de treball
+	Scratch Disks…	Discs de treball…
+	Screen	Trama
+	Screen Mode	Mode de pantalla
+	Scripts	Scripts
+	Search	Cerca
+	Security	Seguretat
+	Segments	Segments
+	Select	Selecciona
+	Select All	Selecciona-ho tot
+	Select Objects	Selecciona objectes
+	Select:	Selecciona:
+	Selected pages	Pàgines seleccionades
+	Selection	Selecció
+	Selection Tool	Eina de selecció
+	Selective	Selectiu
+	Send Backward	Envia enrere
+	Send to Back	Envia al fons
+	Sensitivity	Sensibilitat
+	Sent to {printer}	Enviat a {printer}
+	Services	Serveis
+	Set	Estableix
+	Set as Default	Estableix com a predeterminat
+	Set:	Conjunt:
+	Settings	Configuració
+	Settings:	Configuració:
+	Settings…	Configuració…
+	Shadow	Ombra
+	Shadows	Ombres
+	Shape	Forma
+	Shape Effects	Efectes
+	Shape:	Forma:
+	Shapes	Formes
+	Share	Comparteix
+	Sharpen	Enfoca
+	Sharpness	Nitidesa
+	Shift	Maj
+	Short Lines	Línies curtes
+	Short Strokes	Traços curts
+	Shortcut	Drecera
+	Shortcuts	Dreceres
+	Show	Mostra
+	Show All	Mostra-ho tot
+	Show Grid	Mostra la quadrícula
+	Show Guides	Mostra les guies
+	Show in Folder	Mostra a la carpeta
+	Show Mask	Mostra la màscara
+	Show Mesh	Mostra la malla
+	Show Rulers	Mostra les regles
+	Show rulers	Mostra les regles
+	Show Tool Tips	Mostra els consells d'eina
+	Show:	Mostra:
+	Sides:	Costats:
+	Simplify	Simplifica
+	Size	Mida
+	Size:	Mida:
+	Sketch	Esbós
+	Skew	Inclina
+	Slice	Tall
+	Slice Options	Opcions del tall
+	Slice Options…	Opcions del tall…
+	Slice Tool	Eina de tall
+	Slices	Talls
+	Small	Petit
+	Small Caps	Versaletes
+	Smart Blur	Desenfocament intel·ligent
+	Smart Blur…	Desenfocament intel·ligent…
+	Smart Guides	Guies intel·ligents
+	Smart quotes	Cometes tipogràfiques
+	Smoothness	Suavitat
+	Snap to Grid	Ajusta a la quadrícula
+	Soft	Suau
+	Soft Light	Llum suau
+	Soften	Suavitza
+	Softness	Suavitat
+	Solarize	Solaritza
+	Sort	Ordena
+	Sort by	Ordena per
+	Source	Origen
+	Source code on GitHub	Codi font a GitHub
+	Spaces	Espais
+	Spacing	Espaiat
+	Spacing:	Espaiat:
+	Spanish	Espanyol
+	Spatter	Esquitxada
+	Special	Especial
+	Speckle	Clapejat
+	Speed	Velocitat
+	Spelling	Ortografia
+	Spherize	Esferitza
+	Split	Divideix
+	Spot Color	Color directe
+	Spray Radius	Radi de l'esprai
+	Square	Quadrat
+	Square Size	Mida del quadrat
+	sRGB IEC61966-2.1	sRGB IEC61966-2.1
+	Stacked	Apilat
+	Stained Glass	Vitrall
+	Stamp	Segell
+	Standard	Estàndard
+	Standard Ligatures	Lligadures estàndard
+	Star	Estrella
+	Start at:	Comença a:
+	Statistics	Estadístiques
+	Status	Estat
+	Status Bar	Barra d'estat
+	Stippled	Puntejat
+	Stop	Atura
+	Strength	Intensitat
+	Stretch	Estira
+	Strikethrough	Ratllat
+	Stroke	Traç
+	Stroke Color	Color del traç
+	Stroke Length	Longitud del traç
+	Stroke Options	Opcions del traç
+	Stroke:	Traç:
+	Studio	Estudi
+	Style	Estil
+	Style:	Estil:
+	Styles	Estils
+	Stylize	Estilitza
+	Subdivisions	Subdivisions
+	Subject	Assumpte
+	Subscript	Subíndex
+	Subset	Subconjunt
+	Subtitle	Subtítol
+	Subtract	Resta
+	Sumi-e	Sumi-e
+	Summary	Resum
+	Superscript	Superíndex
+	Swatches	Mostres
+	Symbol	Símbol
+	Symbols	Símbols
+	Sync with system	Sincronitza amb el sistema
+	System	Sistema
+	Tab	Tab
+	Table	Taula
+	Table style	Estil de taula
+	Tables	Taules
+	Tabloid	Tabloide
+	Tabs	Tabulacions
+	Taper	Afuat
+	Target	Objectiu
+	Target:	Objectiu:
+	Temperature	Temperatura
+	Templates	Plantilles
+	Text	Text
+	Text color	Color del text
+	Text:	Text:
+	Texture	Textura
+	The passwords don't match.	Les contrasenyes no coincideixen.
+	Theme	Tema
+	Thickness	Gruix
+	This document has no bookmarks.	Aquest document no té marcadors.
+	Threshold	Llindar
+	Thumbnails	Miniatures
+	Tile	Mosaic
+	Tile Size	Mida del mosaic
+	Tilt	Inclinació
+	Time	Hora
+	Timecode	Codi de temps
+	Timeline	Línia de temps
+	Tint	Tinta
+	Tint Color	Color del tint
+	Title	Títol
+	To	Per a
+	Tolerance	Tolerància
+	Tolerance:	Tolerància:
+	Tool	Eina
+	Toolbars	Barres d'eines
+	Tools	Eines
+	Top	Superior
+	Top Left	A dalt a l'esquerra
+	Top Right	A dalt a la dreta
+	Top:	A dalt:
+	Total	Total
+	Total:	Total:
+	Tracking	Espaiat entre caràcters
+	Transform	Transforma
+	Translate	Tradueix
+	Transparency	Transparència
+	Transparent	Transparent
+	Trap…	Sobreimpressió…
+	Triangle	Triangle
+	Turbulent	Turbulent
+	Twirl	Remolí
+	Twist	Torsió
+	Type	Tipus
+	Type Tool	Eina de text
+	Type:	Tipus:
+	Typewriter	Màquina d'escriure
+	Type…	Tipus…
+	Typing	Escriptura
+	Underline	Subratllat
+	Undo	Desfés
+	Undo {action}	Desfés {action}
+	Ungroup	Desagrupa
+	Uniform	Uniforme
+	Union	Unió
+	Units	Unitats
+	Unknown	Desconegut
+	Unlock	Desbloqueja
+	Unsaved changes	Canvis no desats
+	Unsharp Mask	Màscara de desenfocament
+	Untitled	Sense títol
+	Up	Amunt
+	Update	Actualitza
+	Updates	Actualitzacions
+	UPPERCASE	MAJÚSCULES
+	Use Default	Utilitza el predeterminat
+	User	Usuari
+	Username	Nom d'usuari
+	Value	Valor
+	Value:	Valor:
+	Variables	Variables
+	Version	Versió
+	Version {version}	Versió {version}
+	Vertical	Vertical
+	Vertical Alignment	Alineació vertical
+	Vertical Type Tool	Eina de text vertical
+	Vertically	Verticalment
+	Very High	Molt alt
+	Vibrance	Intensitat del color
+	Video	Vídeo
+	View	Visualització
+	Violet	Violeta
+	Visibility	Visibilitat
+	Vivid Light	Llum intensa
+	Voice	Veu
+	W:	A:
+	Warning	Avís
+	Warnings	Avisos
+	Warp	Deforma
+	Watermark	Marca d'aigua
+	Wave	Ona
+	Wave…	Ona…
+	Web	Web
+	Website	Lloc web
+	Weight	Gruix
+	Wet	Humit
+	White	Blanc
+	White Intensity	Intensitat del blanc
+	White Is High	El blanc és alt
+	Whites	Blancs
+	Width	Amplada
+	Width and Height	Amplada i alçada
+	Width:	Amplada:
+	Window	Finestra
+	Windows	Finestres
+	Words	Paraules
+	Working CMYK	CMYK de treball
+	Workspace	Espai de treball
+	Workspaces	Espais de treball
+	X	X
+	Y	Y
+	Yellow	Groc
+	Yes	Sí
+	yesterday	ahir
+	Your changes will be lost if you don't save them.	Els canvis es perdran si no els deses.
+	Zoom	Zoom
+	Zoom In	Amplia
+	Zoom in	Apropa
+	Zoom Out	Redueix
+	Zoom out	Allunya
+	Zoom Tool	Eina de zoom
+@plural	{n} commit|{n} commits	{n} confirmació|{n} confirmacions
+	{n} files	{n} fitxers
+	{n} h ago	fa {n} h
+@plural	{n} item|{n} items	{n} element|{n} elements
+@plural	{n} Layer|{n} Layers	{n} capa|{n} capes
+	{n} min ago	fa {n} min
+@plural	{n} step|{n} steps	{n} pas|{n} passos
+	−Bin	−Bin
+	● Recording	● S'està enregistrant
