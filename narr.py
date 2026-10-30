@@ -1,0 +1,40 @@
+# Narration for "Tinta Office: overview and install" (es, uk, va). One entry per scene, in order.
+SCENES = ["intro", "web", "install", "texto", "calculo", "presenta", "pdf", "correo", "idiomas", "outro"]
+NARR = {
+ "es": {
+  "intro": "Esto es Tinta Office: cinco programas de oficina libres y gratuitos. Sin suscripción, sin cuenta y sin anuncios. Se lo enseñamos en tres minutos.",
+  "web": "Todo se descarga desde tintaoffice punto com. Elija el programa que necesite: textos, hojas de cálculo, presentaciones, PDF o correo.",
+  "install": "En Windows, descargue el archivo MSI y ábralo. Como todavía es una versión preliminar, Windows puede mostrar un aviso: pulse Más información y después Ejecutar de todas formas. Luego, Siguiente e Instalar. Si prefiere no instalar nada, use la versión portátil en zip.",
+  "texto": "Tinta Texto es el procesador de textos. Trae plantillas pensadas para España, como esta factura, y corrige la ortografía en castellano, catalán, valenciano, gallego, euskera y ucraniano. Guarda en formato Word y OpenDocument.",
+  "calculo": "Tinta Calculo es la hoja de cálculo. Abre y guarda archivos de Excel, y trae una plantilla para autónomos con IVA e IRPF.",
+  "presenta": "Tinta Presenta sirve para crear presentaciones y abrir las de PowerPoint. Con un clic en Presentar, empieza la exposición a pantalla completa.",
+  "pdf": "Tinta PDF abre, rellena y firma documentos PDF. Aquí vemos la factura que acabamos de exportar desde Tinta Texto.",
+  "correo": "Tinta Correo reúne el correo y el calendario. Funciona con Gmail, Microsoft y cualquier servidor de correo, con varias cuentas a la vez.",
+  "idiomas": "Todos los programas hablan español, catalán, gallego, euskera y ucraniano, entre otros idiomas. El idioma se cambia en las opciones.",
+  "outro": "Tinta Office es gratis: úselo sin pagar. Descárguelo en tintaoffice punto com. En los próximos vídeos le enseñamos cada programa paso a paso.",
+ },
+ "uk": {
+  "intro": "Це Тінта Офіс: п'ять вільних і безкоштовних офісних програм. Без підписки, без облікового запису і без реклами. Покажемо все за три хвилини.",
+  "web": "Усе завантажується з сайту тінта офіс крапка ком. Виберіть потрібну програму: тексти, таблиці, презентації, пе-де-еф або пошту.",
+  "install": "У Віндовс завантажте файл ем-ес-ай і відкрийте його. Поки що це попередня версія, тож Віндовс може показати попередження: натисніть «Докладніше», а потім «Усе одно запустити». Далі натисніть «Далі» та «Установити». Якщо не хочете нічого встановлювати, є портативна версія в архіві зіп.",
+  "texto": "Тінта Тексто, це текстовий редактор. У ньому є шаблони для Іспанії, як-от цей рахунок, і перевірка правопису іспанською, каталанською, валенсійською, галісійською, баскською та українською. Зберігає у форматах Ворд і ОупенДокумент.",
+  "calculo": "Тінта Калькуло, це електронні таблиці. Відкриває і зберігає файли Ексель, а для автономо є готовий шаблон з іва та ірпф.",
+  "presenta": "Тінта Презента створює презентації і відкриває файли ПауерПойнт. Одним кліком на кнопку показу презентація відкривається на весь екран.",
+  "pdf": "Тінта пе-де-еф відкриває, заповнює і підписує пе-де-еф документи. Ось рахунок, який ми щойно експортували з Тінта Тексто.",
+  "correo": "Тінта Корео поєднує пошту й календар. Працює з Джімейл, Майкрософт і будь-якою поштою, з кількома скриньками одночасно.",
+  "idiomas": "Усі програми мають українську, іспанську, каталанську, галісійську та баскську мови. Мову можна змінити в налаштуваннях.",
+  "outro": "Тінта Офіс безкоштовний: користуйтеся без оплати. Завантажуйте на тінта офіс крапка ком. У наступних відео покажемо кожну програму крок за кроком.",
+ },
+ "va": {
+  "intro": "Açò és Tinta Office: cinc programes d'oficina lliures i gratuïts. Sense subscripció, sense compte i sense anuncis. Vos ho mostrem en tres minuts.",
+  "web": "Tot es descarrega des de tintaoffice punt com. Trieu el programa que necessiteu: textos, fulls de càlcul, presentacions, PDF o correu.",
+  "install": "En Windows, descarregueu el fitxer MSI i obriu-lo. Com que encara és una versió preliminar, Windows pot mostrar un avís: premeu Més informació i després Executa igualment. Després, Següent i Instal·la. Si no voleu instal·lar res, hi ha una versió portàtil en zip.",
+  "texto": "Tinta Texto és el processador de textos. Porta plantilles pensades per a Espanya, com esta factura, i corregix l'ortografia en valencià, català, castellà, gallec, basc i ucraïnés. Guarda en format Word i OpenDocument.",
+  "calculo": "Tinta Calculo és el full de càlcul. Obri i guarda fitxers d'Excel, i porta una plantilla per a autònoms amb IVA i IRPF.",
+  "presenta": "Tinta Presenta servix per a crear presentacions i obrir les de PowerPoint. Amb un clic en Presenta, comença l'exposició a pantalla completa.",
+  "pdf": "Tinta PDF obri, ompli i signa documents PDF. Ací veiem la factura que acabem d'exportar des de Tinta Texto.",
+  "correo": "Tinta Correo reunix el correu i el calendari. Funciona amb Gmail, Microsoft i qualsevol servidor de correu, amb diversos comptes alhora.",
+  "idiomas": "Tots els programes parlen valencià i català, castellà, gallec, basc i ucraïnés, entre altres idiomes. L'idioma es canvia en les opcions.",
+  "outro": "Tinta Office és gratuït: useu-lo sense pagar. Descarregueu-lo en tintaoffice punt com. En els pròxims vídeos vos mostrem cada programa pas a pas.",
+ },
+}
