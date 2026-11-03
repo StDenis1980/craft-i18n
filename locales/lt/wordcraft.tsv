@@ -1,0 +1,2287 @@
+# Lietuvių (lt) interface catalog for WordCraft.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+# Rows added for Tinta Texto / Vilna OS (2026-11): AI-assisted with Claude Code, written from the
+# plain meaning of the English, not yet reviewed by a native speaker.
+	(All)	(Visi)
+	(no style)	(be stiliaus)
+	(no suggestions)	(pasiūlymų nėra)
+	(normal text)	(įprastas tekstas)
+	(not matched)	(neatitinka)
+	(picture or object)	(paveikslėlis ar objektas)
+	0 or More Characters	0 ar daugiau simbolių
+	1. Formatting restrictions	1. Formatavimo apribojimai
+	1.5 Line Spacing	1,5 eilutės tarpai
+	1/4 Em Space	1/4 ketvirtainio tarpas
+	1×2 Empty Matrix	1×2 tuščia matrica
+	1×3 Empty Matrix	1×3 tuščia matrica
+	2. Editing restrictions	2. Redagavimo apribojimai
+	2×1 Empty Matrix	2×1 tuščia matrica
+	2×2 Determinant	2×2 determinantas
+	2×2 Empty Matrix	2×2 tuščia matrica
+	2×2 Identity Matrix	2×2 vienetinė matrica
+	2×2 Identity Matrix (sparse)	2×2 vienetinė matrica (reta)
+	2×2 Matrix in Brackets	2×2 matrica laužtiniuose skliaustuose
+	2×2 Matrix in Double Bars	2×2 matrica dvigubuose brūkšniuose
+	2×2 Matrix in Parentheses	2×2 matrica skliaustuose
+	2×3 Empty Matrix	2×3 tuščia matrica
+	3. Start enforcement	3. Pradėti taikyti
+	3×1 Empty Matrix	3×1 tuščia matrica
+	3×2 Empty Matrix	3×2 tuščia matrica
+	3×3 Empty Matrix	3×3 tuščia matrica
+	3×3 Identity Matrix	3×3 vienetinė matrica
+	3×3 Identity Matrix (sparse)	3×3 vienetinė matrica (reta)
+	<< Less	<< Mažiau
+	<< Remove	<< Šalinti
+	a drawing canvas can't be ungrouped	piešimo drobės negalima išgrupuoti
+	a drawing canvas can't go inside a text box	piešimo drobė negali būti teksto lauke
+	A file dialog is already open.	Failo dialogo langas jau atidarytas.
+	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Nemokama atvirojo kodo teksto rengyklė, nuo nulio parašyta Rust kalba.\nDalis „ArtCraft“ komandos Crafting Apps.
+	a group holding Word ink can't be ungrouped yet	grupės su Word rašalu dar negalima išgrupuoti
+	A mail merge field	Laiškų suliejimo laukas
+	A numbered sequence (figures, tables…)	Numeruota seka (paveikslai, lentelės…)
+	A password is required to open this document.	Šiam dokumentui atidaryti reikia slaptažodžio.
+	A table of contents	Turinys
+	A xor B	A xor B
+	A, B, C, …	A, B, C, …
+	a, b, c, …	a, b, c, …
+	AaBbCcDd	AaBbCcDd
+	AaBbYyZz	AaBbYyZz
+	About WordCraft	Apie WordCraft
+	Above Chart	Virš diagramos
+	Above the item	Virš elemento
+	Above/below	Virš / po
+	Absolute value cases	Absoliučiosios reikšmės atvejai
+	Accent	Paryškinimas
+	Accent Gradient	Paryškinimo gradientas
+	Accent with Reflection	Paryškinimas su atspindžiu
+	Accent {n}	Paryškinimas {n}
+	Accents	Diakritikai
+	Accept	Priimti
+	Accept All Changes	Priimti visus keitimus
+	Accept This Change	Priimti šį keitimą
+	Accessed on	Žiūrėta
+	Accessibility Pane	Pritaikymo neįgaliesiems sritis
+	Acute	Ūmusis kirtis
+	Add >>	Pridėti >>
+	Add a Table	Pridėti lentelę
+	Add at least one field.	Pridėkite bent vieną lauką.
+	Add Condition	Pridėti sąlygą
+	Add Field	Pridėti lauką
+	Add Font…	Pridėti šriftą…
+	Add gradient stop	Pridėti gradiento tašką
+	Add line numbering	Pridėti eilučių numeravimą
+	Add New Source…	Pridėti naują šaltinį…
+	Add Object to Selection	Pridėti objektą prie žymėjimo
+	Add Pen	Pridėti rašiklį
+	Add Row	Pridėti eilutę
+	Add Series	Pridėti seką
+	Add Space Before Paragraph	Pridėti tarpą prieš pastraipą
+	Add space between Asian and Latin text	Pridėti tarpą tarp Azijos ir lotyniško teksto
+	Add space between Asian text and numbers	Pridėti tarpą tarp Azijos teksto ir skaičių
+	Add tab stop at:	Pridėti tabuliavimo žymę ties:
+	Add Text	Pridėti tekstą
+	Add the chapter number	Pridėti skyriaus numerį
+	Add to Document	Įtraukti į dokumentą
+	Add to Style Gallery	Įtraukti į stilių galeriją
+	Add whether it is above or below	Nurodyti, ar tai virš ar po
+	Add/Edit\nBibliography	Pridėti / redaguoti\nbibliografiją
+	Add/Edit\nCitation	Pridėti / redaguoti\ncitatą
+	Add\nNote	Pridėti\npastabą
+	Add\nPen	Pridėti\nrašiklį
+	Add\nShape	Pridėti\nfigūrą
+	Added 1 font	Pridėtas 1 šriftas
+	Added Fonts	Pridėti šriftai
+	Added {n} fonts	Pridėta šriftų: {n}
+	Address Block	Adreso blokas
+	Address labels	Adresų etiketės
+	Address\nBlock	Adreso\nblokas
+	Advanced Find	Išplėstinė paieška
+	Advanced Find…	Išplėstinė paieška…
+	Agents	Agentai
+	Align Bottom Center	Lygiuoti apačioje centre
+	Align Bottom Left	Lygiuoti apačioje kairėje
+	Align Bottom Right	Lygiuoti apačioje dešinėje
+	Align Center	Lygiuoti centre
+	Align Center Left	Lygiuoti per vidurį kairėje
+	Align Center Right	Lygiuoti per vidurį dešinėje
+	Align Top Center	Lygiuoti viršuje centre
+	Align Top Left	Lygiuoti viršuje kairėje
+	Align Top Right	Lygiuoti viršuje dešinėje
+	Aligned at:	Lygiuota ties:
+	All - Linear	Visos – linijinė
+	All - Professional	Visos – profesionali
+	All caps	Visos didžiosios
+	All Commands	Visos komandos
+	All Fonts	Visi šriftai
+	All Levels	Visi lygiai
+	All Markup	Visi žymėjimai
+	All pages in the range	Visi diapazono puslapiai
+	All symbol sets	Visi simbolių rinkiniai
+	All system fonts are already available.	Visi sistemos šriftai jau prieinami.
+	Allow hanging punctuation	Leisti kabančią skyrybą
+	Allow Latin text to wrap in the middle of a word	Leisti laužyti lotynišką tekstą žodžio viduryje
+	Allow line breaks	Leisti eilučių lūžius
+	Allow row to break across pages	Leisti eilutei persikelti į kitą puslapį
+	Alphabetical	Abėcėlės tvarka
+	Alt Text Pane	Alternatyviojo teksto sritis
+	Alt:	Alt.:
+	And	Ir
+	Angle Brackets	Kampiniai skliaustai
+	Angle Brackets with Separator	Kampiniai skliaustai su skyrikliu
+	Angle Brackets with Two Separators	Kampiniai skliaustai su dviem skyrikliais
+	Animate the caret (it glides and fades)	Animuoti žymeklį (slysta ir blunka)
+	Animation effects:	Animacijos efektai:
+	Annotation Reference	Pastabos nuoroda
+	Annotation Subject	Pastabos tema
+	Annotation Text	Pastabos tekstas
+	Another file	Kitas failas
+	Any Character	Bet koks simbolis
+	Any Digit	Bet koks skaitmuo
+	Any field	Bet koks laukas
+	Any Letter	Bet kokia raidė
+	Anyone can open this document. Encrypt it with a password to keep it private.	Šį dokumentą gali atidaryti bet kas. Kad jis liktų privatus, užšifruokite jį slaptažodžiu.
+	Anyone who opens the document will need this password.	Kiekvienam, kuris atidarys dokumentą, reikės šio slaptažodžio.
+	APA	APA
+	Apply as you type	Taikyti rašant
+	Apply Asian line-breaking rules (kinsoku)	Taikyti Azijos eilučių laužymo taisykles (kinsoku)
+	Apply formatting to:	Taikyti formatavimą:
+	Apply Style	Taikyti stilių
+	Apply Styles	Taikyti stilius
+	Arabic	Arabiški
+	Arch Down	Arka žemyn
+	Arch Up	Arka aukštyn
+	Arrange\nAll	Išdėstyti\nvisus
+	Article I.	I straipsnis.
+	Artistic Effects	Meniniai efektai
+	As Recommended	Kaip rekomenduojama
+	ASAP	KUO SKUBIAU
+	Asian text font:	Azijos teksto šriftas:
+	Asian Typography	Azijos tipografija
+	At least	Mažiausiai
+	At least {n}	Mažiausiai {n}
+	Atelier	Ateljė
+	Atmosphere	Atmosfera
+	Attach Template	Prijungti šabloną
+	Attach…	Prijungti…
+	Auto orientation	Automatinis orientavimas
+	AutoCorrect Options	Automatinio taisymo parinktys
+	AutoFit	Automatinis pritaikymas
+	AutoFit behavior	Automatinio pritaikymo elgsena
+	AutoFit Column by Double-Clicking	Automatiškai pritaikyti stulpelį dukart spustelėjus
+	AutoFit Contents	Automatiškai pritaikyti pagal turinį
+	AutoFit to contents	Automatiškai pritaikyti pagal turinį
+	AutoFit to window	Automatiškai pritaikyti pagal langą
+	AutoFit Window	Automatiškai pritaikyti pagal langą
+	AutoFormat As You Type	Automatinis formatavimas rašant
+	Automatic bulleted lists	Automatiniai ženklinti sąrašai
+	Automatic numbered lists	Automatiniai numeruoti sąrašai
+	Automatic Table 1 (3 levels)	Automatinis turinys 1 (3 lygiai)
+	Automatic Table 2 (2 levels)	Automatinis turinys 2 (2 lygiai)
+	Automatically add words to list (First Letter)	Automatiškai įtraukti žodžius į sąrašą (Pirmoji raidė)
+	Automatically add words to list (INitial CAps)	Automatiškai įtraukti žodžius į sąrašą (DVI DIdžiosios)
+	Automatically hyphenate document	Automatiškai kelti žodžius dokumente
+	Automatically Update Document Styles	Automatiškai atnaujinti dokumento stilius
+	Automatically update document styles	Automatiškai atnaujinti dokumento stilius
+	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Nepavyko automatiškai įrašyti: {error}. Įrašykite dokumentą, kad automatinis įrašymas vėl įsijungtų.
+	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	Automatinis įrašymas naršyklėje negalimas: ji negali rašyti į jūsų failus. Įrašymas atsisiunčia kopiją.
+	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	Automatinis įrašymas palaiko tik .docx, .odt ir .rtf failus; {name} negali išlaikyti viso formatavimo. Įrašykite kaip .docx, kad įjungtumėte automatinį įrašymą.
+	AutoSave saves every change to the file (needs a saved document)	Automatinis įrašymas įrašo kiekvieną pakeitimą į failą (reikia įrašyto dokumento)
+	AutoText	Automatinis tekstas
+	Balloons	Debesėliai
+	Base text:	Pagrindinis tekstas:
+	Based on: {style}	Pagal: {style}
+	Baseline Dots	Taškai bazinėje linijoje
+	Basic Cycle	Paprastas ciklas
+	Basic List	Paprastas sąrašas
+	Basic Math	Pagrindinė matematika
+	Basic Matrix	Paprasta matrica
+	Basic Process	Paprastas procesas
+	Basic Pyramid	Paprasta piramidė
+	Basic Radial	Paprasta radialinė
+	Basic Venn	Paprasta Veno diagrama
+	Bayes' rule	Bajeso taisyklė
+	Before:	Prieš:
+	Beginning of Word	Žodžio pradžia
+	Behind Text	Už teksto
+	Below text	Po tekstu
+	Below the item	Po elementu
+	Between	Tarp
+	Bibliography	Bibliografija
+	Binomial Coefficient	Binominis koeficientas
+	Binomial Coefficient (angle)	Binominis koeficientas (kampinis)
+	Binomial Coefficient with Angle Brackets	Binominis koeficientas su kampiniais skliaustais
+	Binomial expansion of (x+a)ⁿ	Binominis (x+a)ⁿ skleidinys
+	Blank	Tuščias
+	Blank (Three Columns)	Tuščias (trys stulpeliai)
+	Blank document	Tuščias dokumentas
+	Blank Page	Tuščias puslapis
+	Block\nAuthors	Blokuoti\nautorius
+	Blue:	Mėlyna:
+	Body Text	Pagrindinis tekstas
+	Body text in a short paragraph to show spacing.	Pagrindinis tekstas trumpoje pastraipoje tarpams parodyti.
+	Book	Knyga
+	Book title	Knygos pavadinimas
+	Book Title	Knygos pavadinimas
+	Bookmark	Žymelė
+	Bookmark name:	Žymelės pavadinimas:
+	Bookmark text	Žymelės tekstas
+	Border lines	Kraštinių linijos
+	Border Painter	Kraštinių teptukas
+	Border\nPainter	Kraštinių\nteptukas
+	Borders and Shading	Kraštinės ir šešėliavimas
+	Borders and Shading…	Kraštinės ir šešėliavimas…
+	Both Sides	Abi pusės
+	Bottom Left Cell	Apatinis kairysis langelis
+	Bottom of Page	Puslapio apačia
+	Bottom Right Cell	Apatinis dešinysis langelis
+	Boxed Formula	Formulė rėmelyje
+	Boxed Formula (example)	Formulė rėmelyje (pavyzdys)
+	Boxed Formulas	Formulės rėmeliuose
+	Braces	Riestiniai skliaustai
+	Braces with Separator	Riestiniai skliaustai su skyrikliu
+	Bracket	Skliaustas
+	Brackets	Laužtiniai skliaustai
+	Brackets with Separators	Laužtiniai skliaustai su skyrikliais
+	Breve	Trumpumo ženklas
+	Brighter +20%	Šviesiau +20%
+	Brightness, contrast and sharpness	Ryškumas, kontrastas ir aštrumas
+	Browse in WordCraft…	Naršyti WordCraft…
+	Building Block Gallery Content Control	Statybinių blokų galerijos turinio valdiklis
+	Built-In	Įtaisytieji
+	Built-in style	Įtaisytasis stilius
+	Built-in styles can't be deleted.	Įtaisytųjų stilių naikinti negalima.
+	Bullet Library	Ženklelių biblioteka
+	By author	Pagal autorių
+	Can't be deleted	Negalima naikinti
+	can't split at the first row	negalima skaidyti ties pirma eilute
+	Canvas Member	Drobės narys
+	Capitalize Each Word	Kiekvienas Žodis Didžiąja
+	Capitalize first letter of table cells	Lentelės langelius pradėti didžiąja raide
+	Capitalize the first word of a sentence	Sakinio pirmą žodį rašyti didžiąja raide
+	Caption Numbering	Antraščių numeravimas
+	Caption text	Antraštės tekstas
+	Caption:	Antraštė:
+	Captions	Antraštės
+	Caret Character	Stogelio simbolis
+	Case changes	Raidžių dydžio keitimai
+	Cases (Three Conditions)	Atvejai (trys sąlygos)
+	Cases (Two Conditions)	Atvejai (dvi sąlygos)
+	Cases and Stacks	Atvejai ir rinkiniai
+	Categories:	Kategorijos:
+	Category {n}	Kategorija {n}
+	Ceiling	Lubos
+	Cell	Langelis
+	Cell\nMargins	Langelio\nparaštės
+	Center Glow	Švytėjimas centre
+	Centered as Group	Centruota kaip grupė
+	Change in y over change in x	y pokytis, padalytas iš x pokyčio
+	Change Layout	Keisti maketą
+	Change List Level	Keisti sąrašo lygį
+	Change Password…	Keisti slaptažodį…
+	Change Structure	Keisti struktūrą
+	Change to Display	Keisti į rodomąją
+	Change to Inline	Keisti į įterptinę
+	Change\nColors	Keisti\nspalvas
+	Changed lines:	Pakeistos eilutės:
+	Changes	Keitimai
+	Chapter 1	1 skyrius
+	Chapter in a book	Knygos skyrius
+	Chapters begin at:	Skyriai prasideda nuo:
+	Character Border	Simbolio kraštinė
+	Character code:	Simbolio kodas:
+	Character in Range	Simbolis diapazone
+	Character level	Simbolių lygis
+	Character Position	Simbolio padėtis
+	Character Scale	Simbolių mastelis
+	Character Shading	Simbolio šešėliavimas
+	Character style	Simbolių stilius
+	Characters (no spaces)	Simboliai (be tarpų)
+	Characters (with spaces)	Simboliai (su tarpais)
+	Characters per line:	Simbolių eilutėje:
+	Chart Layouts	Diagramų maketai
+	charts and diagrams can't be moved or resized yet	diagramų ir schemų dar negalima perkelti ar keisti jų dydžio
+	Check Box Content Control	Žymės langelio turinio valdiklis
+	Check Compatibility	Tikrinti suderinamumą
+	Check for Errors	Tikrinti, ar nėra klaidų
+	Check Spelling as You Type	Tikrinti rašybą rašant
+	Checked styles are allowed:	Leidžiami pažymėti stiliai:
+	Checked symbol	Pažymėtas simbolis
+	Chevron Down	Kampelis žemyn
+	Chevron Up	Kampelis aukštyn
+	Chicago	Chicago
+	Chinese (Simplified)	Kinų (supaprastinta)
+	Chinese (Traditional)	Kinų (tradicinė)
+	Choose a command	Pasirinkite komandą
+	Choose a shortcut	Pasirinkite spartųjį klavišą
+	Choose List Item	Pasirinkite sąrašo elementą
+	Choose the sheet that holds the recipients.	Pasirinkite lapą su gavėjais.
+	Circle area from its radius	Apskritimo plotas pagal spindulį
+	Circled Dot	Taškas apskritime
+	Circled Plus	Pliusas apskritime
+	Circled Times	Daugyba apskritime
+	Citation Style	Citavimo stilius
+	Citations	Citatos
+	Citations & Bibliography	Citatos ir bibliografija
+	Clear Character Formatting	Valyti simbolių formatavimą
+	Clear Character Style	Valyti simbolių stilių
+	Clear Formatting Level	Valyti formatavimo lygį
+	Clear Paragraph Formatting	Valyti pastraipos formatavimą
+	Click a border between two cells to merge them. Esc stops.	Spustelėkite kraštinę tarp dviejų langelių, kad juos suolietumėte. Esc – baigti.
+	Click an item to paste it.	Spustelėkite elementą, kad jį įklijuotumėte.
+	Click level to modify:	Spustelėkite lygį, kurį norite modifikuoti:
+	Click the empty text box the text should continue in (Esc cancels)	Spustelėkite tuščią teksto lauką, kuriame tekstas turi tęstis (Esc – atšaukti)
+	Click to switch back to inserting	Spustelėkite, kad vėl įterptumėte
+	Clipboard Contents	Mainų srities turinys
+	Clipboard Items	Mainų srities elementai
+	Clipboard Pane	Mainų srities sritis
+	Close Equation	Uždaryti lygtį
+	Close Header and Footer	Uždaryti antraštę ir poraštę
+	Close Outline View	Uždaryti struktūros rodinį
+	Close Outline\nView	Uždaryti struktūros\nrodinį
+	cm	cm
+	Collapse Selection	Sutraukti žymėjimą
+	Collate copies	Gretinti kopijas
+	Collect entries from:	Rinkti įrašus iš:
+	Colon Equal	Dvitaškis lygu
+	Color model:	Spalvų modelis:
+	Color only	Tik spalva
+	Color: {color}	Spalva: {color}
+	Colorful	Spalvinga
+	Column Break	Stulpelio lūžis
+	Column Selection	Stulpelio žymėjimas
+	Column:	Stulpelis:
+	Combine Documents	Sujungti dokumentus
+	Combo Box Content Control	Pasirinkimo lauko turinio valdiklis
+	Commands	Komandos
+	Commas	Kableliai
+	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Komentarai šalia kiekvieno puslapio ir sekami keitimai PDF, spaudiniuose ir paveikslėliuose; komentarų sąrašas tinklalapių, Markdown ir teksto pabaigoje.
+	Comments Pane	Komentarų sritis
+	Common Accent Objects	Įprasti diakritiniai objektai
+	Common Brackets	Įprasti skliaustai
+	Common Fractions	Įprastos trupmenos
+	Common Functions	Įprastos funkcijos
+	Common Large Operators	Įprasti dideli operatoriai
+	Common Operator Structures	Įprastos operatorių struktūros
+	Common Operators	Įprasti operatoriai
+	Common Radicals	Įprastos šaknys
+	Common Subscripts and Superscripts	Įprasti apatiniai ir viršutiniai indeksai
+	Communication	Komunikacija
+	Community\nDiscord	Bendruomenė\nDiscord
+	Compare Documents	Lyginti dokumentus
+	Compare to	Lyginti su
+	Compared: {changes} changes	Palyginta: pakeitimų {changes}
+	Comparing with another file needs the desktop app.	Norint lyginti su kitu failu, reikia darbalaukio programos.
+	Comparison settings	Lyginimo parametrai
+	Compress punctuation at the start of a line	Glaudinti skyrybos ženklus eilutės pradžioje
+	Conference	Konferencija
+	Conference paper	Konferencijos pranešimas
+	CONFIDENTIAL	KONFIDENCIALU
+	Confirm password:	Patvirtinkite slaptažodį:
+	Connect Shapes	Sujungti figūras
+	Container Title	Talpyklės pavadinimas
+	Content Control at Selection	Turinio valdiklis žymėjime
+	Content Control Properties	Turinio valdiklio ypatybės
+	Contents can't be edited	Turinio redaguoti negalima
+	Context	Kontekstas
+	Continue from previous section	Tęsti nuo ankstesnės sekcijos
+	Continue without restoring	Tęsti neatkuriant
+	Continuous	Ištisinis
+	Continuous numbering	Ištisinis numeravimas
+	Contour Integral	Kontūrinis integralas
+	Contour Integral with Limits	Kontūrinis integralas su rėžiais
+	Contour Integral with Stacked Limits	Kontūrinis integralas su sudėtiniais rėžiais
+	Contour Integrals	Kontūriniai integralai
+	Controls	Valdikliai
+	Convert between built-up and linear form	Konvertuoti tarp sudėtinės ir linijinės formos
+	Convert Notes	Konvertuoti pastabas
+	Convert Text to Table	Konvertuoti tekstą į lentelę
+	Convert Text to Table…	Konvertuoti tekstą į lentelę…
+	Coproduct	Kosandauga
+	Coproduct with Limits	Kosandauga su rėžiais
+	Coproduct with Lower Limit	Kosandauga su apatiniu rėžiu
+	Coproduct with Subscript-Superscript Limits	Kosandauga su apatinio ir viršutinio indekso rėžiais
+	Copy Formatting	Kopijuoti formatavimą
+	Copy of the text a bookmark marks	Žymele pažymėto teksto kopija
+	Copy Styles	Kopijuoti stilius
+	Copy to	Kopijuoti į
+	Copyright Sign	Autorių teisių ženklas
+	Correct accidental usage of cAPS LOCK key	Taisyti atsitiktinį cAPS LOCK klavišo naudojimą
+	Cosecant Function	Kosekanto funkcija
+	Cosine 2x	Kosinusas 2x
+	Cosine Function	Kosinuso funkcija
+	Cotangent Function	Kotangento funkcija
+	Couldn't download {name}: {error}	Nepavyko atsisiųsti {name}: {error}
+	Couldn't make WordCraft the default: {error}	Nepavyko nustatyti WordCraft kaip numatytosios: {error}
+	Couldn't open {path}: {error}	Nepavyko atidaryti {path}: {error}
+	Couldn't save {name}, so it is still open and nothing was lost: {error}	Nepavyko įrašyti {name}, todėl jis tebėra atidarytas ir niekas neprarasta: {error}
+	Count by:	Skaičiuoti kas:
+	Count words in text boxes and notes	Skaičiuoti žodžius teksto laukuose ir išnašose
+	Courtesy Title	Kreipinys
+	Cover Page	Viršelio puslapis
+	Craft	Amatas
+	Create a Style	Kurti stilių
+	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	Kurkite interaktyvią dokumento struktūrą.\n\nTai puikus būdas sekti, kur esate, ar greitai perkelti turinį.\n\nNorėdami pradėti, eikite į skirtuką Pradžia ir dokumento antraštėms pritaikykite antraščių stilius.
+	Create Graphic	Kurti grafiką
+	Create New Style	Kurti naują stilių
+	Create Source	Kurti šaltinį
+	Croatian	Kroatų
+	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	Apkarpymas puslapyje veikia nepasuktiems paveikslėliams: pirmiausia nustatykite pasukimą į 0° arba naudokite apkarpymo laukus
+	Cross-reference	Kryžminė nuoroda
+	Cross-reference:	Kryžminė nuoroda:
+	Cube Root	Kubinė šaknis
+	Current - Linear	Dabartinis – linijinis
+	Current - Professional	Dabartinis – profesionalus
+	Current Document	Dabartinis dokumentas
+	Current Position	Dabartinė padėtis
+	Current record	Dabartinis įrašas
+	Current style: {style}	Dabartinis stilius: {style}
+	Curved Arrow Connector	Lenkta rodyklės jungtis
+	Curved Connector	Lenkta jungtis
+	Custom mark:	Pasirinktinė žymė:
+	Custom range	Pasirinktinis diapazonas
+	Custom size	Pasirinktinis dydis
+	Custom Table of Contents…	Pasirinktinis turinys…
+	Custom Watermark	Pasirinktinis vandenženklis
+	Custom Watermark…	Pasirinktinis vandenženklis…
+	Customize Keyboard	Tinkinti klaviatūrą
+	Customize Quick Access Toolbar…	Tinkinti sparčiosios prieigos įrankių juostą…
+	Customize Ribbon	Tinkinti juostelę
+	Customize the Ribbon…	Tinkinti juostelę…
+	Cycle	Ciklas
+	Czech	Čekų
+	Danish	Danų
+	Dark Variations	Tamsūs variantai
+	Dark with Shadow	Tamsus su šešėliu
+	Darker −20%	Tamsiau −20%
+	Darkroom	Tamsi kamera
+	Data Labels	Duomenų žymos
+	Date Picker Content Control	Datos parinkiklio turinio valdiklis
+	Decorative objects only add visual interest: screen readers skip them.	Dekoratyvūs objektai skirti tik vaizdui: ekrano skaitytuvai juos praleidžia.
+	Deep	Gilus
+	Default Paragraph Font	Numatytasis pastraipos šriftas
+	Default tab stops:	Numatytosios tabuliavimo žymės:
+	Define New Bullet	Apibrėžti naują ženklelį
+	Define New Multilevel List	Apibrėžti naują daugiapakopį sąrašą
+	Define New Multilevel List…	Apibrėžti naują daugiapakopį sąrašą…
+	Define New Number Format	Apibrėžti naują numerio formatą
+	Deflate	Subliūškinti
+	Delete Around Caret in Equation	Naikinti aplink žymeklį lygtyje
+	Delete Back in Equation	Naikinti atgal lygtyje
+	Delete Bookmark	Naikinti žymelę
+	Delete Cells	Naikinti langelius
+	Delete Clipboard Item	Naikinti mainų srities elementą
+	Delete in Equation	Naikinti lygtyje
+	Delete Label	Naikinti etiketę
+	Delete Next Word	Naikinti kitą žodį
+	Delete Previous Word	Naikinti ankstesnį žodį
+	Delete Selected Ink	Naikinti pažymėtą rašalą
+	Delete Table Style	Naikinti lentelės stilių
+	Deletions:	Panaikinimai:
+	Delivery address:	Pristatymo adresas:
+	Delta Equal To	Delta lygu
+	Delta over arrow	Delta virš rodyklės
+	Demote to Body Text	Pažeminti iki pagrindinio teksto
+	Derivative as a limit	Išvestinė kaip riba
+	Describe what this object shows, for people who can't see it.	Aprašykite, ką rodo šis objektas, žmonėms, kurie jo nemato.
+	Describe what this table shows, for people who can't see it.	Aprašykite, ką rodo ši lentelė, žmonėms, kurie jos nemato.
+	Design Mode	Dizaino režimas
+	Detach Template	Atjungti šabloną
+	Detect language automatically	Automatiškai aptikti kalbą
+	Developer	Kūrėjas
+	development build	kūrimo versija
+	Diagonal Dots	Įstrižainiai taškai
+	Dictate	Diktuoti
+	Dictionaries folder:	Žodynų aplankas:
+	Differential	Diferencialas
+	Differential theta	Diferencialas teta
+	Differential x	Diferencialas x
+	Differential y	Diferencialas y
+	Differentials	Diferencialai
+	Direct formatting	Tiesioginis formatavimas
+	Directory	Katalogas
+	Discard the recovery copy of {name}?	Atmesti {name} atkūrimo kopiją?
+	Discard…	Atmesti…
+	Discord community	Discord bendruomenė
+	Display for Review	Rodyti peržiūrai
+	Display text	Rodomas tekstas
+	Distance from text	Atstumas nuo teksto
+	Distance from text:	Atstumas nuo teksto:
+	Distribute letters	Paskirstyti raides
+	Distribute spacing	Paskirstyti tarpus
+	Do Not Check Spelling or Grammar	Netikrinti rašybos ir gramatikos
+	DO NOT COPY	NEKOPIJUOTI
+	Do Not Show in TOC	Nerodyti turinyje
+	Do you want to save changes to {name}?	Ar norite įrašyti {name} pakeitimus?
+	Document End	Dokumento pabaiga
+	Document Formatting	Dokumento formatavimas
+	Document Grid	Dokumento tinklelis
+	Document Information	Dokumento informacija
+	Document name	Dokumento pavadinimas
+	Document Property	Dokumento ypatybė
+	Document Start	Dokumento pradžia
+	Document template:	Dokumento šablonas:
+	Document1	Dokumentas1
+	Document\nPreferences	Dokumento\nnuostatos
+	Documents you open will show up here.	Čia bus rodomi atidaryti dokumentai.
+	Does not contain	Nėra
+	DOI	DOI
+	Don't add space between paragraphs of the same style	Nepridėti tarpo tarp to paties stiliaus pastraipų
+	Don't capitalize after:	Nerašyti didžiosios raidės po:
+	Don't hyphenate	Nekelti žodžių
+	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Neskaityti Zotero, Mendeley ar EndNote citatų ir bibliografijų
+	Dot dash	Taškas brūkšnys
+	Dot-dash	Taškas-brūkšnys
+	Dot-dot-dash	Taškas-taškas-brūkšnys
+	Double Bar	Dvigubas brūkšnys
+	Double Closing Quote	Dvigubos uždaromosios kabutės
+	Double Dot	Dvigubas taškas
+	Double Integral	Dvigubas integralas
+	Double Integral with Limits	Dvigubas integralas su rėžiais
+	Double Integral with Stacked Limits	Dvigubas integralas su sudėtiniais rėžiais
+	Double Left Arrow with Text Above	Dviguba rodyklė kairėn su tekstu viršuje
+	Double Left Arrow with Text Below	Dviguba rodyklė kairėn su tekstu apačioje
+	Double Left Right Arrow with Text Above	Dviguba rodyklė kairėn-dešinėn su tekstu viršuje
+	Double Left Right Arrow with Text Below	Dviguba rodyklė kairėn-dešinėn su tekstu apačioje
+	Double Opening Quote	Dvigubos atidaromosios kabutės
+	Double Right Arrow with Text Above	Dviguba rodyklė dešinėn su tekstu viršuje
+	Double Right Arrow with Text Below	Dviguba rodyklė dešinėn su tekstu apačioje
+	Double Spacing	Dvigubi tarpai
+	Double Square Brackets	Dvigubi laužtiniai skliaustai
+	Double Strikethrough	Dvigubas perbraukimas
+	Double strikethrough	Dvigubas perbraukimas
+	Double summation	Dviguba suma
+	Double Vertical Bars	Dvigubi vertikalūs brūkšniai
+	DRAFT	JUODRAŠTIS
+	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Vilkite stačiakampį, kad nubraižytumėte lentelę, arba liniją per langelius, kad juos skaidytumėte. Esc – baigti.
+	Draw Ink	Piešti rašalu
+	Draw\nTable	Braižyti\nlentelę
+	Drawing Canvas	Piešimo drobė
+	Drawing Tools	Piešimo įrankiai
+	Drawing\nCanvas	Piešimo\ndrobė
+	Drop Cap	Inicialas
+	Drop cap	Inicialas
+	Drop Cap Options…	Inicialo parinktys…
+	drop caps can't go in a table	inicialo negalima dėti į lentelę
+	Drop-Down List Content Control	Išplečiamojo sąrašo turinio valdiklis
+	Dropped	Nuleistas
+	Drops all formatting and pastes plain text.	Pašalina visą formatavimą ir įklijuoja grynąjį tekstą.
+	E-mail Messages	El. laiškai
+	Edit Comment	Redaguoti komentarą
+	Edit Data	Redaguoti duomenis
+	Edit Document	Redaguoti dokumentą
+	Edit Equation	Redaguoti lygtį
+	Edit Field Code	Redaguoti lauko kodą
+	Edit Field…	Redaguoti lauką…
+	Edit Footer	Redaguoti poraštę
+	Edit Header	Redaguoti antraštę
+	Edit Individual Documents…	Redaguoti atskirus dokumentus…
+	Edit Items	Redaguoti elementus
+	Edit Recipient List	Redaguoti gavėjų sąrašą
+	Edit Source	Redaguoti šaltinį
+	Edit\nRecipient List	Redaguoti\ngavėjų sąrašą
+	Edited	Redaguota
+	Editing endnote	Redaguojama dokumento išnaša
+	Editing footnote	Redaguojama puslapio išnaša
+	Editing header/footer	Redaguojama antraštė / poraštė
+	Editing in this document is restricted.	Šio dokumento redagavimas apribotas.
+	Editing — edit the document directly	Redagavimas – redaguoti dokumentą tiesiogiai
+	Edition	Leidimas
+	Editor	Redaktorius
+	Elbow Arrow Connector	Laužta rodyklės jungtis
+	Elbow Connector	Laužta jungtis
+	Emphasis	Akcentas
+	Empty Matrices	Tuščios matricos
+	Enclose Characters	Apgaubti simbolius
+	Enclosure	Apgaubas
+	Encrypt with Password…	Šifruoti slaptažodžiu…
+	End of document	Dokumento pabaiga
+	End of section	Sekcijos pabaiga
+	End of Word	Žodžio pabaiga
+	Endnote Reference	Dokumento išnašos nuoroda
+	Endnote Text	Dokumento išnašos tekstas
+	Endnotes	Dokumento išnašos
+	Endnotes to footnotes	Dokumento išnašas į puslapio išnašas
+	English (Australia)	Anglų (Australija)
+	English (Canada)	Anglų (Kanada)
+	English (India)	Anglų (Indija)
+	English (Ireland)	Anglų (Airija)
+	English (New Zealand)	Anglų (Naujoji Zelandija)
+	English (South Africa)	Anglų (Pietų Afrika)
+	English (United Kingdom)	Anglų (Jungtinė Karalystė)
+	English (United States)	Anglų (Jungtinės Valstijos)
+	Engrave	Graviruoti
+	Enlarge symbol	Didinti simbolį
+	Enter a number.	Įveskite skaičių.
+	Enter bookmark name:	Įveskite žymelės pavadinimą:
+	Enter formatting for number:	Įveskite skaičiaus formatavimą:
+	Enter in Equation	Enter lygtyje
+	Enter page number:	Įveskite puslapio numerį:
+	Entire caption	Visa antraštė
+	Entry marked.	Įrašas pažymėtas.
+	Envelope #10	Vokas Nr. 10
+	Envelope Address	Voko adresas
+	Envelope Return	Voko grąžinimo adresas
+	Envelope size:	Voko dydis:
+	Envelopes	Vokai
+	Equal by Definition	Lygu pagal apibrėžimą
+	Equal Equal	Lygu lygu
+	Equal to	Lygu
+	Equals:	Lygu:
+	Equation Gallery	Lygčių galerija
+	Equation Info	Lygties informacija
+	Equation Number	Lygties numeris
+	Equation Options	Lygties parinktys
+	Erase Ink	Trinti rašalą
+	Errors ({n})	Klaidos ({n})
+	Estonian	Estų
+	Euler's identity	Oilerio tapatybė
+	Even Banded Columns	Lyginiai juostiniai stulpeliai
+	Even Banded Rows	Lyginės juostinės eilutės
+	Even Page	Lyginis puslapis
+	Every change is recorded as a tracked change.	Kiekvienas keitimas įrašomas kaip sekamas keitimas.
+	Every field needs a name.	Kiekvienam laukui reikia pavadinimo.
+	Everyone	Visi
+	Exactly	Tiksliai
+	Exactly {n}	Tiksliai {n}
+	Exceptions (optional)	Išimtys (neprivaloma)
+	Exceptions…	Išimtys…
+	Existing File or Web Page	Esamas failas arba tinklalapis
+	Expand or Collapse Heading	Išskleisti arba sutraukti antraštę
+	Exponential	Eksponentinė
+	Exponential series	Eksponentinė eilutė
+	Export a copy to share (PDF, Word document)	Eksportuoti kopiją bendrinti (PDF, Word dokumentas)
+	Extend Selection	Išplėsti žymėjimą
+	Extend Selection by Units	Išplėsti žymėjimą vienetais
+	Extra space	Papildomas tarpas
+	Field Codes	Laukų kodai
+	Field codes:	Laukų kodai:
+	Field name	Lauko pavadinimas
+	Field names must be different.	Laukų pavadinimai turi skirtis.
+	Field:	Laukas:
+	Field…	Laukas…
+	Figure	Paveikslas
+	File name:	Failo pavadinimas:
+	Fill color:	Užpildo spalva:
+	Filling in forms	Formų pildymas
+	Film	Juosta
+	Filter and Sort	Filtruoti ir rikiuoti
+	Filter Recipients	Filtruoti gavėjus
+	Find in list:	Rasti sąraše:
+	Find Next Editable Region	Rasti kitą redaguojamą sritį
+	Find Previous	Rasti ankstesnį
+	Find Recipient	Rasti gavėją
+	Find What Expression	Ieškomas reiškinys
+	Find What Text	Ieškomas tekstas
+	Find “{text}” in the document	Rasti „{text}“ dokumente
+	Finish & Merge	Baigti ir sulieti
+	Finish &\nMerge	Baigti ir\nsulieti
+	Finished	Baigta
+	Finnish	Suomių
+	First line	Pirmoji eilutė
+	First line:	Pirmoji eilutė:
+	First Name	Vardas
+	First Record	Pirmas įrašas
+	First row of data contains column headers	Pirmoje duomenų eilutėje yra stulpelių antraštės
+	Fix Position on Page	Fiksuoti padėtį puslapyje
+	Fixed Column Width	Fiksuotas stulpelio plotis
+	Floor	Grindys
+	Follow number with:	Po numerio:
+	Font color	Šrifto spalva
+	Font color:	Šrifto spalva:
+	Font Dialog	Šrifto dialogas
+	Font: {font}	Šriftas: {font}
+	Footnote and Endnote	Puslapio ir dokumento išnašos
+	Footnote Reference	Puslapio išnašos nuoroda
+	Footnote Text	Puslapio išnašos tekstas
+	Footnotes	Puslapio išnašos
+	Footnotes and endnotes	Puslapio ir dokumento išnašos
+	Footnotes to endnotes	Puslapio išnašas į dokumento išnašas
+	For which item:	Kuriam elementui:
+	Format Page Numbers	Formatuoti puslapių numerius
+	Format Page Numbers…	Formatuoti puslapių numerius…
+	Format Shape	Formatuoti figūrą
+	Format Shape Pane	Figūros formatavimo sritis
+	Formatted	Suformatuota
+	Formatted Text	Suformatuotas tekstas
+	Formatting	Formatavimas
+	Formatting at Selection	Formatavimas žymėjime
+	Formatting exceptions	Formatavimo išimtys
+	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Lyginami formatavimas, raidžių dydis, tarpai ir lentelės; kiti parametrai paliekami vėlesniam laikui.
+	Formula	Formulė
+	Fractions (1/2) as fraction characters (½)	Trupmenas (1/2) trupmenų simboliais (½)
+	Frames and effects	Rėmeliai ir efektai
+	French (France)	Prancūzų (Prancūzija)
+	From Bottom Left Corner	Nuo apatinio kairiojo kampo
+	From Bottom Right Corner	Nuo apatinio dešiniojo kampo
+	From Center	Nuo centro
+	From text:	Nuo teksto:
+	From Top Left Corner	Nuo viršutinio kairiojo kampo
+	From Top Right Corner	Nuo viršutinio dešiniojo kampo
+	from Unicode (hex)	iš Unicode (šešioliktainis)
+	Full page of the same label	Visas puslapis tos pačios etiketės
+	Full Saturation 100%	Visiškas sodrumas 100%
+	Full Screen View	Viso ekrano rodinys
+	Full\nScreen	Visas\nekranas
+	Function	Funkcija
+	Gallery	Galerija
+	GB/T 7714	GB/T 7714
+	German (Germany)	Vokiečių (Vokietija)
+	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	Glow Colors	Švytėjimo spalvos
+	Go Back	Grįžti
+	Go to	Eiti į
+	Go To (⌘⌥G)	Eiti į (⌘⌥G)
+	Go to Record	Eiti į įrašą
+	Go to what:	Kur eiti:
+	Good afternoon	Laba diena
+	Good evening	Labas vakaras
+	Good morning	Labas rytas
+	GOST (name sort)	GOST (rikiuoti pagal vardą)
+	GOST (title sort)	GOST (rikiuoti pagal pavadinimą)
+	Gradient fill	Gradiento užpildas
+	Grave	Kairinis kirtis
+	Gray 0%	Pilka 0%
+	Greater than	Daugiau nei
+	Greater than or equal	Daugiau arba lygu
+	Greek	Graikų
+	Greek Letters	Graikų raidės
+	Green:	Žalia:
+	Greeting Line	Pasisveikinimo eilutė
+	Greeting\nLine	Pasisveikinimo\neilutė
+	Grid Table 1 Light	Tinklelio lentelė 1, šviesi
+	Grouping Character Above	Grupavimo simbolis viršuje
+	Grouping Character Below	Grupavimo simbolis apačioje
+	Grow Font 1 Point	Didinti šriftą 1 tašku
+	H:	A:
+	Hanging Indent	Kabanti įtrauka
+	Harvard (Anglia)	Harvard (Anglia)
+	Hat	Stogelis
+	Header row	Antraštės eilutė
+	Header/Footer Position	Antraštės / poraštės padėtis
+	Headers and footers	Antraštės ir poraštės
+	Heading	Antraštė
+	Heading styles (levels 1–{n})	Antraščių stiliai (1–{n} lygiai)
+	Heading text	Antraštės tekstas
+	Heading {n}	Antraštė {n}
+	Hebrew	Hebrajų
+	Hex:	Šešioliktainis:
+	Hidden bookmarks	Paslėptos žymelės
+	Hide from style lists	Slėpti iš stilių sąrašų
+	Hide Ink	Slėpti rašalą
+	Hide Quick Access Toolbar	Slėpti sparčiosios prieigos įrankių juostą
+	Hide White Space	Slėpti tuščią vietą
+	Hide\nInk	Slėpti\nrašalą
+	Hierarchy	Hierarchija
+	Highlight Merge Fields	Paryškinti suliejimo laukus
+	Highlight\nMerge Fields	Paryškinti\nsuliejimo laukus
+	Home folder	Namų aplankas
+	Horizontal Line	Horizontalioji linija
+	How many pages the whole document has	Kiek puslapių turi visas dokumentas
+	How many pages this section has	Kiek puslapių turi ši sekcija
+	How many words the document holds	Kiek žodžių yra dokumente
+	HTML Format	HTML formatas
+	Hue:	Atspalvis:
+	Hyperbolic Cosecant Function	Hiperbolinio kosekanto funkcija
+	Hyperbolic Cosine Function	Hiperbolinio kosinuso funkcija
+	Hyperbolic Cotangent Function	Hiperbolinio kotangento funkcija
+	Hyperbolic Functions	Hiperbolinės funkcijos
+	Hyperbolic Secant Function	Hiperbolinio sekanto funkcija
+	Hyperbolic Sine Function	Hiperbolinio sinuso funkcija
+	Hyperbolic Tangent Function	Hiperbolinio tangento funkcija
+	Hyperlink	Saitas
+	Hyphenate at:	Kelti ties:
+	Hyphenate words in CAPS	Kelti DIDŽIOSIOMIS rašytus žodžius
+	Hyphenation Options…	Žodžių kėlimo parinktys…
+	Hyphenation zone:	Kėlimo zona:
+	Hyphens (--) as dashes (—)	Brūkšnelius (--) brūkšniais (—)
+	Hypotenuse	Įžambinė
+	I, II, III, …	I, II, III, …
+	i, ii, iii, …	i, ii, iii, …
+	Icon Color	Piktogramos spalva
+	Identity Matrices	Vienetinės matricos
+	IEEE	IEEE
+	If…Then…Else	Jei…Tada…Kitaip
+	If…Then…Else…	Jei…Tada…Kitaip…
+	Ignore punctuation characters	Nepaisyti skyrybos ženklų
+	Ignore white-space characters	Nepaisyti tarpo simbolių
+	Ignore words in capitals	Nepaisyti didžiosiomis raidėmis rašytų žodžių
+	Illustrations	Iliustracijos
+	Immersive	Įtraukiantis
+	Immersive Reader	Įtraukianti skaityklė
+	Immersive\nReader	Įtraukianti\nskaityklė
+	Imported 1 source	Importuotas 1 šaltinis
+	Imported {n} sources	Importuota šaltinių: {n}
+	In Default apps, choose WordCraft for the document types you want it to open.	Numatytosiose programose pasirinkite WordCraft dokumentų tipams, kuriuos ji turi atidaryti.
+	In equations, typing a name after a backslash replaces it with its symbol.	Lygtyse po atvirkštinio brūkšnio įvedus pavadinimą jis pakeičiamas simboliu.
+	In Front of Text	Prieš tekstą
+	In Line with Text	Teksto eilutėje
+	In margin	Paraštėje
+	In the margin	Paraštėje
+	Include label and number	Įtraukti etiketę ir numerį
+	Include level number from:	Įtraukti lygio numerį iš:
+	Include page numbers	Įtraukti puslapių numerius
+	Indent from left:	Įtrauka iš kairės:
+	Indented	Su įtrauka
+	Indents	Įtraukos
+	Indents and Spacing	Įtraukos ir tarpai
+	Index and Tables	Rodyklė ir lentelės
+	Index Heading	Rodyklės antraštė
+	Index {n}	Rodyklė {n}
+	Indonesian	Indoneziečių
+	Initial column width:	Pradinis stulpelio plotis:
+	Ink	Rašalas
+	Ink Replay	Rašalo pakartojimas
+	Ink to Shape	Rašalas į figūrą
+	Ink\nReplay	Rašalo\npakartojimas
+	Inline	Įterptinė
+	Input Format	Įvesties formatas
+	Insert a new equation (Alt+=)	Įterpti naują lygtį (Alt+=)
+	Insert Above	Įterpti virš
+	Insert Below	Įterpti po
+	Insert Caption	Įterpti antraštę
+	Insert Caption…	Įterpti antraštę…
+	Insert Citation	Įterpti citatą
+	Insert Columns to the Left	Įterpti stulpelius kairėje
+	Insert Columns to the Right	Įterpti stulpelius dešinėje
+	Insert Date Field	Įterpti datos lauką
+	Insert Endnote	Įterpti dokumento išnašą
+	Insert Footnote	Įterpti puslapio išnašą
+	Insert Index	Įterpti rodyklę
+	Insert Left	Įterpti kairėje
+	Insert Merge Field	Įterpti suliejimo lauką
+	Insert Merge\nField	Įterpti suliejimo\nlauką
+	Insert New Equation	Įterpti naują lygtį
+	Insert one text or another, depending on a field's value.	Įterpti vieną ar kitą tekstą pagal lauko reikšmę.
+	Insert Page Field	Įterpti puslapio lauką
+	Insert reference to:	Įterpti nuorodą į:
+	Insert Right	Įterpti dešinėje
+	Insert Row or Column by Clicking	Įterpti eilutę ar stulpelį spustelint
+	Insert Rows Above	Įterpti eilutes virš
+	Insert Rows Below	Įterpti eilutes po
+	Insert SmartArt	Įterpti SmartArt
+	Insert Spike	Įterpti sankaupą
+	Insert Structure	Įterpti struktūrą
+	Insert Symbol	Įterpti simbolį
+	Insert Table of Authorities	Įterpti šaltinių lentelę
+	Insert Table of Figures	Įterpti paveikslų sąrašą
+	Insert Time Field	Įterpti laiko lauką
+	Insert\nCaption	Įterpti\nantraštę
+	Insert\nCitation	Įterpti\ncitatą
+	Insert\nFootnote	Įterpti\npuslapio išnašą
+	Insertions and Deletions	Įterpimai ir panaikinimai
+	Insertions:	Įterpimai:
+	Inside Horizontal Border	Vidinė horizontalioji kraštinė
+	Inside Vertical Border	Vidinė vertikalioji kraštinė
+	Inside:	Viduje:
+	Inspect Styles at Selection	Tikrinti stilius žymėjime
+	Institution	Institucija
+	Integral	Integralas
+	Integral of e^(−x²)	e^(−x²) integralas
+	Integral with Limits	Integralas su rėžiais
+	Integral with Stacked Limits	Integralas su sudėtiniais rėžiais
+	Integrals	Integralai
+	Intense Emphasis	Intensyvus akcentas
+	Intense Quote	Intensyvi citata
+	Intense Reference	Intensyvi nuoroda
+	Interface\nTheme	Sąsajos\ntema
+	Internet addresses as links	Interneto adresus saitais
+	Intersection with Limits	Sankirta su rėžiais
+	Intersection with Lower Limit	Sankirta su apatiniu rėžiu
+	Intersection with Subscript-Superscript Limits	Sankirta su apatinio ir viršutinio indekso rėžiais
+	Inverse Cosecant Function	Atvirkštinio kosekanto funkcija
+	Inverse Cosine Function	Atvirkštinio kosinuso funkcija
+	Inverse Cotangent Function	Atvirkštinio kotangento funkcija
+	Inverse Functions	Atvirkštinės funkcijos
+	Inverse Hyperbolic Cosecant Function	Atvirkštinio hiperbolinio kosekanto funkcija
+	Inverse Hyperbolic Cosine Function	Atvirkštinio hiperbolinio kosinuso funkcija
+	Inverse Hyperbolic Cotangent Function	Atvirkštinio hiperbolinio kotangento funkcija
+	Inverse Hyperbolic Functions	Atvirkštinės hiperbolinės funkcijos
+	Inverse Hyperbolic Secant Function	Atvirkštinio hiperbolinio sekanto funkcija
+	Inverse Hyperbolic Sine Function	Atvirkštinio hiperbolinio sinuso funkcija
+	Inverse Hyperbolic Tangent Function	Atvirkštinio hiperbolinio tangento funkcija
+	Inverse Secant Function	Atvirkštinio sekanto funkcija
+	Inverse Sine Function	Atvirkštinio sinuso funkcija
+	Inverse Tangent Function	Atvirkštinio tangento funkcija
+	Ionosphere	Jonosfera
+	Is blank	Tuščias
+	Is not blank	Netuščias
+	ISO 690 (author-date)	ISO 690 (autorius–data)
+	ISO 690 (numerical)	ISO 690 (skaitinis)
+	Issue	Numeris
+	Join us on Discord: discord.gg/artcraft	Prisijunkite prie mūsų Discord: discord.gg/artcraft
+	Journal	Žurnalas
+	Journal article	Žurnalo straipsnis
+	Justification of a display equation	Rodomos lygties lygiuotė
+	Justified	Abipusė lygiuotė
+	Keep Lines Together	Neskaidyti eilučių
+	Keep lines together	Neskaidyti eilučių
+	Keep Text Only	Palikti tik tekstą
+	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Laikykite slaptažodį saugioje vietoje: be jo niekas, net WordCraft, negalės atidaryti dokumento. Palikite abu laukus tuščius, kad pašalintumėte slaptažodį.
+	Keep with Next	Laikyti su kita
+	Keep with next	Laikyti su kita
+	Keeps the fonts and formatting of the copied text.	Išlaiko nukopijuoto teksto šriftus ir formatavimą.
+	Kerning for fonts:	Šriftų retinimas:
+	Keys for this command:	Šios komandos klavišai:
+	Label changes with:	Etiketė keičiasi pagal:
+	Label:	Etiketė:
+	Language Preferences…	Kalbos nuostatos…
+	Large\nOperator	Didelis\noperatorius
+	Largest Only	Tik didžiausias
+	Lasso Select	Žymėti lasu
+	Last Name	Pavardė
+	Last Record	Paskutinis įrašas
+	Last, First; Last, First	Pavardė, Vardas; Pavardė, Vardas
+	Latin text font:	Lotyniško teksto šriftas:
+	Leader	Užpildas
+	Leave a recipient out of the merge when a field has this value.	Praleisti gavėją suliejant, kai laukas turi šią reikšmę.
+	Leave Equation	Išeiti iš lygties
+	Leave out the date and time of comments and tracked changes when saving	Įrašant praleisti komentarų ir sekamų keitimų datą ir laiką
+	Leave the equation (Esc)	Išeiti iš lygties (Esc)
+	leave the equation first	pirmiausia išeikite iš lygties
+	Leave the label out of the caption	Praleisti etiketę antraštėje
+	Left Arrow with Text Above	Rodyklė kairėn su tekstu viršuje
+	Left Arrow with Text Below	Rodyklė kairėn su tekstu apačioje
+	Left border	Kairioji kraštinė
+	Left Bracket Twice	Du kairieji skliaustai
+	Left indent	Kairioji įtrauka
+	Left Only	Tik kairėje
+	Left Right Arrow Above	Rodyklė kairėn-dešinėn viršuje
+	Left Right Arrow with Text Above	Rodyklė kairėn-dešinėn su tekstu viršuje
+	Left Right Arrow with Text Below	Rodyklė kairėn-dešinėn su tekstu apačioje
+	Left Subscript-Superscript	Kairysis apatinis ir viršutinis indeksas
+	Left-to-right	Iš kairės į dešinę
+	Left-to-Right Text Direction	Teksto kryptis iš kairės į dešinę
+	Leftwards Arrow Above	Rodyklė kairėn viršuje
+	Leftwards Harpoon Above	Harpūnas kairėn viršuje
+	Legal style numbering	Teisinio stiliaus numeravimas
+	Legend	Legenda
+	Less Contrast −20%	Mažesnis kontrastas −20%
+	Less than	Mažiau nei
+	Less than or equal	Mažiau arba lygu
+	Letter headings	Raidžių antraštės
+	Letter-Like Symbols	Į raides panašūs simboliai
+	Letters	Raidės
+	Level {n}	Lygis {n}
+	Levels:	Lygiai:
+	Light Variations	Šviesūs variantai
+	Light with Outline	Šviesus su kontūru
+	Limit	Riba
+	Limit and\nLog	Riba ir\nlogaritmas
+	Limit consecutive hyphens to:	Riboti iš eilės einančius brūkšnelius iki:
+	Limit Example	Ribos pavyzdys
+	Limit formatting to a selection of styles	Riboti formatavimą pasirinktais stiliais
+	Line and Page Breaks	Eilučių ir puslapių lūžiai
+	Line and Paragraph Spacing	Eilučių ir pastraipų tarpai
+	Line Break	Eilutės lūžis
+	Line breaking	Eilučių laužymas
+	Line End	Eilutės pabaiga
+	Line Number	Eilutės numeris
+	Line Numbering Options…	Eilučių numeravimo parinktys…
+	Line Numbers	Eilučių numeriai
+	Line spacing:	Eilučių tarpai:
+	Line Start	Eilutės pradžia
+	Linear Diagonal - Bottom Left to Top Right	Linijinis įstrižas – iš apačios kairės į viršų dešinėn
+	Linear Diagonal - Bottom Right to Top Left	Linijinis įstrižas – iš apačios dešinės į viršų kairėn
+	Linear Diagonal - Top Left to Bottom Right	Linijinis įstrižas – iš viršaus kairės į apačią dešinėn
+	Linear Diagonal - Top Right to Bottom Left	Linijinis įstrižas – iš viršaus dešinės į apačią kairėn
+	Linear Down	Linijinis žemyn
+	Linear Fraction	Linijinė trupmena
+	Linear Left	Linijinis kairėn
+	Linear Right	Linijinis dešinėn
+	Linear Up	Linijinis aukštyn
+	Lines and characters	Eilutės ir simboliai
+	Lines only	Tik eilutės
+	Lines per page:	Eilučių puslapyje:
+	Lines to drop:	Nuleidžiamų eilučių:
+	Link entries to their headings	Susieti įrašus su jų antraštėmis
+	Link level to style:	Susieti lygį su stiliumi:
+	Link to Previous	Susieti su ankstesne
+	Link to:	Susieti su:
+	Linked style (paragraph and character)	Susietas stilius (pastraipos ir simbolių)
+	Links and References	Saitai ir nuorodos
+	List Definition	Sąrašo apibrėžimas
+	List entries	Sąrašo įrašai
+	List Paragraph	Sąrašo pastraipa
+	Lit from Bottom	Apšviesta iš apačios
+	Lit from Top	Apšviesta iš viršaus
+	Load System Installed Fonts…	Įkelti sistemoje įdiegtus šriftus…
+	Loaded {count} system fonts.	Įkelta sistemos šriftų: {count}.
+	Local font access is not supported by your browser.	Jūsų naršyklė nepalaiko vietinių šriftų prieigos.
+	Local font access was denied.	Vietinių šriftų prieiga atmesta.
+	Local recovery is unavailable or still loading.	Vietinis atkūrimas negalimas arba dar įkeliamas.
+	Location: {path}	Vieta: {path}
+	Lock Fields	Užrakinti laukus
+	Logarithm	Logaritmas
+	Logarithm with Base	Logaritmas su pagrindu
+	Logical AND	Loginis IR
+	Logical AND with Limits	Loginis IR su rėžiais
+	Logical OR	Loginis ARBA
+	Logical OR with Limits	Loginis ARBA su rėžiais
+	Lum:	Švies.:
+	Made from the author and year when empty	Kai tuščia, sudaroma iš autoriaus ir metų
+	Magazine or newspaper article	Žurnalo ar laikraščio straipsnis
+	Mail Merge	Laiškų suliejimas
+	Mailings	Siuntimai
+	Main entry:	Pagrindinis įrašas:
+	Make WordCraft the default for Word documents…	Padaryti WordCraft numatytąja „Word“ dokumentų programa…
+	Manage Sources	Tvarkyti šaltinius
+	Manage Styles	Tvarkyti stilius
+	Manage Styles…	Tvarkyti stilius…
+	Manual Hyphenation	Rankinis kėlimas
+	Manual hyphenation is complete.	Rankinis kėlimas baigtas.
+	Manual Line Break	Rankinis eilutės lūžis
+	Manual Page Break	Rankinis puslapio lūžis
+	Manual…	Rankiniu būdu…
+	Many pages	Daug puslapių
+	Mark	Žymėti
+	Mark All	Žymėti visus
+	Mark Citation	Žymėti citatą
+	Mark Entry	Žymėti įrašą
+	Mark Entry…	Žymėti įrašą…
+	Mark Index Entry	Žymėti rodyklės įrašą
+	Mark selected text as:	Žymėti pažymėtą tekstą kaip:
+	Mark\nCitation	Žymėti\ncitatą
+	Mark\nEntry	Žymėti\nįrašą
+	Markdown (*.md)	Markdown (*.md)
+	Match Fields	Susieti laukus
+	Match prefix	Atitikti priešdėlį
+	Match suffix	Atitikti priesagą
+	Matches: {count}	Atitikmenų: {count}
+	Math AutoCorrect	Matematinis automatinis taisymas
+	Matrices with Brackets	Matricos su skliaustais
+	Matrix	Matrica
+	Maximum Example	Maksimumo pavyzdys
+	Measured By	Matuojama pagal
+	Merge cells before split	Sujungti langelius prieš skaidant
+	Merge Formatting	Sulieti formatavimą
+	Merge Record #	Sujungimo įrašo nr.
+	Mesosphere	Mezosfera
+	Midline Dots	Vidurinės linijos taškai
+	Minus Equal	Minus lygu
+	Mirror indents	Veidrodinės įtraukos
+	Mirror margins	Veidrodinės paraštės
+	Mirrored	Veidrodinės
+	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Autorių teisės (c) 2026 ArtCraft Team ir WordCraft bendraautoriai.
+	MLA	MLA
+	mm	mm
+	Moderate	Vidutinės
+	Modify Style	Keisti stilių
+	Modify Table Style	Keisti lentelės stilių
+	Modify Table Style…	Keisti lentelės stilių…
+	Modify…	Keisti…
+	More >>	Daugiau >>
+	More Commands…	Daugiau komandų…
+	More Contrast +20%	Didesnis kontrastas +20 %
+	More Gradients…	Daugiau gradientų…
+	More Paper Sizes…	Daugiau popieriaus dydžių…
+	More Symbols…	Daugiau simbolių…
+	More tabs	Daugiau skirtukų
+	More templates →	Daugiau šablonų →
+	More Underlines…	Daugiau pabraukimų…
+	Move in Equation	Perkelti lygtyje
+	Move or Resize	Perkelti arba keisti dydį
+	Move Paragraph Down	Perkelti pastraipą žemyn
+	Move Paragraph Up	Perkelti pastraipą aukštyn
+	Move Past Citation	Pereiti už citatos
+	Move Past\nCitation	Pereiti už\ncitatos
+	Move Selected Ink	Perkelti pažymėtą rašalą
+	Move Table by Dragging	Perkelti lentelę tempiant
+	Move with Text	Perkelti su tekstu
+	Moved from	Perkelta iš
+	Moved from:	Perkelta iš:
+	Moved to	Perkelta į
+	Moved to:	Perkelta į:
+	Moves	Perkėlimai
+	Multilevel List	Daugiapakopis sąrašas
+	Multilevel List Library	Daugiapakopių sąrašų biblioteka
+	Multiple Pages	Keli puslapiai
+	Muted 50%	Prislopinta 50 %
+	My list has	Mano sąraše yra
+	Name of the file this document is saved as	Failo, kuriuo įrašytas šis dokumentas, vardas
+	Narrow  {size} all	Siauros  {size} visos
+	Natural Logarithm	Natūrinis logaritmas
+	Nature	Gamta
+	Navigation Pane	Naršymo sritis
+	Negated Relations	Neigiami sąryšiai
+	New Drawing Canvas	Nauja piešimo drobė
+	New Entry	Naujas įrašas
+	New Label	Nauja etiketė
+	New Label…	Nauja etiketė…
+	New Paragraph	Nauja pastraipa
+	New shortcut:	Naujas spartusis klavišas:
+	New Tab	Naujas skirtukas
+	New Table Style	Naujas lentelės stilius
+	New Table Style…	Naujas lentelės stilius…
+	Next Field	Kitas laukas
+	Next Footnote	Kita išnaša
+	Next Record	Kitas įrašas
+	Next Section	Kitas skyrius
+	Next Sentence	Kitas sakinys
+	Next sentence	Kitas sakinys
+	No accessibility issues found.	Pritaikymo neįgaliesiems problemų nerasta.
+	No changes (read only)	Pakeitimų nėra (tik skaityti)
+	No document is open. Create a document or open one first.	Joks dokumentas neatidarytas. Pirmiausia sukurkite arba atidarykite dokumentą.
+	no equation at the caret	ties žymekliu nėra lygties
+	No errors found: every merge field is in the recipient list.	Klaidų nerasta: kiekvienas suliejimo laukas yra gavėjų sąraše.
+	No Gradient	Be gradiento
+	No grid	Be tinklelio
+	No header row	Be antraštės eilutės
+	No icons match your search.	Jūsų paieškos neatitinka jokios piktogramos.
+	No items to show.	Nėra elementų, kuriuos būtų galima rodyti.
+	No Markup	Be žymėjimo
+	No new sources in that file	Tame faile naujų šaltinių nėra
+	No Outline	Be kontūro
+	No Paragraph Space	Be tarpo tarp pastraipų
+	No printers found. Configure a system printer or export a PDF.	Spausdintuvų nerasta. Sukonfigūruokite sistemos spausdintuvą arba eksportuokite PDF.
+	No recovery copies.	Atkūrimo kopijų nėra.
+	No Reflection	Be atspindžio
+	No Scaling	Be mastelio keitimo
+	No Shadow	Be šešėlio
+	No Soft Edges	Be švelnių kraštų
+	No sources yet.	Šaltinių dar nėra.
+	No Spacing	Be tarpų
+	No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Kalbos „{language}“ rašybos žodynas neįdiegtas, todėl ji netikrinama. WordCraft ieško Hunspell žodyno {name} aplanke WORDCRAFT_DICTIONARIES ir įprastose sistemos vietose.
+	No templates match your search.	Jūsų paieškos neatitinka joks šablonas.
+	No Transform	Be transformacijos
+	No-Width Non Break	Nulinio pločio nelaužiamas
+	No-Width Optional Break	Nulinio pločio pasirenkamas lūžis
+	Nonbreaking Hyphen	Nelaužiamas brūkšnelis
+	Normal  {size} all	Įprastos  {size} visos
+	Normal Indent	Įprastinė įtrauka
+	Normal probability density	Normaliojo skirstinio tankis
+	Normal speed	Įprastas greitis
+	Normal Style	Įprastinis stilius
+	Normal Table	Įprastinė lentelė
+	Normal Text	Įprastas tekstas
+	Normal Word Document	Įprastas „Word“ dokumentas
+	North	Šiaurė
+	Norwegian (Bokmål)	Norvegų (bokmål)
+	Not	Ne
+	Not available right now	Šiuo metu nepasiekiama
+	not editing an equation	lygtis neredaguojama
+	Not equal to	Nelygu
+	Not linked: click a text box	Nesusieta: spustelėkite teksto lauką
+	Not saved	Neįrašyta
+	Not used by any command	Nenaudoja jokia komanda
+	Not {name}	Ne {name}
+	Nothing	Nieko
+	Nothing collected yet. Items you copy or cut appear here.	Kol kas nieko nesurinkta. Čia atsiras elementai, kuriuos nukopijuosite arba iškirpsite.
+	nothing is selected	niekas nepažymėta
+	Nothing of this type in the document.	Dokumente nėra nieko šio tipo.
+	Now used by {command}	Dabar naudoja {command}
+	Nudge	Stumtelėti
+	Num Occurrences	Pasikartojimų skaičius
+	Number alignment:	Skaičių lygiuotė:
+	Number format	Skaičių formatas
+	Number of the page the field sits on	Puslapio, kuriame yra laukas, numeris
+	Number of the section the field sits in	Skyriaus, kuriame yra laukas, numeris
+	Number only, without the label's words	Tik numeris, be etiketės žodžių
+	Number style for this level:	Šio lygio numeravimo stilius:
+	Number the equation; the number sits at the right margin (or type # then the number)	Numeruoti lygtį; numeris yra prie dešinės paraštės (arba įveskite # ir numerį)
+	Numbering:	Numeravimas:
+	Numbering…	Numeravimas…
+	Numerals	Skaitmenys
+	n×n Identity Matrix	n×n vienetinė matrica
+	n×n Matrix	n×n matrica
+	Odd Banded Columns	Nelyginiai juostiniai stulpeliai
+	Odd Banded Rows	Nelyginės juostinės eilutės
+	Odd Page	Nelyginis puslapis
+	Office	Office
+	Office 2003 Default	Office 2003 numatytosios
+	Offset (pt):	Poslinkis (pt):
+	Offset: Bottom	Poslinkis: apačioje
+	Offset: Bottom Left	Poslinkis: apačioje kairėje
+	Offset: Bottom Right	Poslinkis: apačioje dešinėje
+	Offset: Center	Poslinkis: centre
+	Offset: Left	Poslinkis: kairėje
+	Offset: Right	Poslinkis: dešinėje
+	Offset: Top	Poslinkis: viršuje
+	Offset: Top Left	Poslinkis: viršuje kairėje
+	Offset: Top Right	Poslinkis: viršuje dešinėje
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	Senieji meniu klavišai: Alt, {keys}. Rašykite toliau arba paspauskite Esc, kad atšauktumėte.
+	One	Vienas
+	One half	Pusantro
+	One label per recipient	Viena etiketė kiekvienam gavėjui
+	One line per item. Enter adds an item.	Viena eilutė kiekvienam elementui. Enter prideda elementą.
+	One Page	Vienas puslapis
+	Only allow this kind of editing:	Leisti tik tokį redagavimą:
+	Only comments can be added, except in regions marked editable.	Galima pridėti tik komentarus, išskyrus redaguojamomis pažymėtas sritis.
+	Only for the selected text	Tik pažymėtam tekstui
+	Only form fields can be filled in.	Galima pildyti tik formos laukus.
+	only in Outline view	tik struktūros rodinyje
+	Only label and number	Tik etiketė ir numeris
+	Only the allowed styles can be applied.	Galima taikyti tik leidžiamus stilius.
+	Only web (http, https) and email (mailto) links can be followed	Galima atidaryti tik žiniatinklio (http, https) ir el. pašto (mailto) saitus
+	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Atidaryti failą WordCraft naršykle, kai sistemos failų dialogo langas nepasirodo.
+	OpenDocument Text (*.odt)	OpenDocument tekstas (*.odt)
+	Opening print dialog…	Atidaromas spausdinimo dialogo langas…
+	Operator	Operatorius
+	Operator Structures	Operatorių struktūros
+	Operators	Operatoriai
+	Optional Hyphen	Pasirenkamas brūkšnelis
+	Or	Arba
+	Or save a copy in another format:	Arba įrašykite kopiją kitu formatu:
+	Ordinals (1st) as superscript	Kelintiniai (1st) kaip viršutinis indeksas
+	Organizer	Tvarkytuvas
+	Organizer…	Tvarkytuvas…
+	Original document	Originalus dokumentas
+	Original size	Originalus dydis
+	Other Large Operators	Kiti dideli operatoriai
+	Other styles and their TOC level:	Kiti stiliai ir jų turinio lygis:
+	Otherwise insert:	Kitu atveju įterpti:
+	Outline Level	Struktūros lygis
+	Outline level	Struktūros lygis
+	Outline levels	Struktūros lygiai
+	Outline State	Struktūros būsena
+	Outline Tools	Struktūros įrankiai
+	Outlining	Struktūra
+	Outside border	Išorinė kraštinė
+	Outside:	Išorėje:
+	Outward Brackets	Į išorę nukreipti skliaustai
+	Overbar	Brūkšnys viršuje
+	Overbars and Underbars	Brūkšniai viršuje ir apačioje
+	Overbrace	Riestinis skliaustas viršuje
+	Overtype	Perrašymas
+	Page Background	Puslapio fonas
+	Page Border	Puslapio kraštinė
+	Page Borders	Puslapio kraštinės
+	Page Break	Puslapio lūžis
+	Page Break Before	Puslapio lūžis prieš
+	Page break before	Puslapio lūžis prieš
+	Page Color	Puslapio spalva
+	Page color	Puslapio spalva
+	Page Down	Puslapis žemyn
+	Page image (*.png)	Puslapio vaizdas (*.png)
+	Page Movement	Judėjimas puslapiais
+	Page Number Format	Puslapių numerių formatas
+	Page number style	Puslapių numerių stilius
+	Page numbering	Puslapių numeravimas
+	Page numbers at the right margin	Puslapių numeriai prie dešinės paraštės
+	Page on which a bookmarked passage falls	Puslapis, kuriame yra žymele pažymėta ištrauka
+	Page title	Puslapio pavadinimas
+	Page Up	Puslapis aukštyn
+	Page Width	Puslapio plotis
+	Page width	Puslapio plotis
+	Page X of Y	Puslapis X iš Y
+	Page {page}	Puslapis {page}
+	Page\nBorders	Puslapio\nkraštinės
+	Page\nColor	Puslapio\nspalva
+	Pages like 1-3, 5	Puslapiai, pvz., 1-3, 5
+	Pages of bookmark:	Žymelės puslapiai:
+	Paper size:	Popieriaus dydis:
+	Paragraph Character	Pastraipos simbolis
+	Paragraph Down	Pastraipa žemyn
+	Paragraph Mark	Pastraipos žymė
+	Paragraph marks	Pastraipų žymės
+	Paragraph Settings	Pastraipos parametrai
+	Paragraph Spacing	Tarpai tarp pastraipų
+	Paragraph style	Pastraipos stilius
+	Paragraph Up	Pastraipa aukštyn
+	Paragraphs	Pastraipos
+	Parentheses	Lenktiniai skliaustai
+	Parentheses with Separator	Lenktiniai skliaustai su skirtuku
+	Partial Differential	Dalinė išvestinė
+	Paste All	Įklijuoti viską
+	Paste as:	Įklijuoti kaip:
+	Paste Clipboard Item	Įklijuoti iškarpinės elementą
+	Paste function:	Įklijuoti funkciją:
+	Paste: Keep Text Only	Įklijuoti: palikti tik tekstą
+	Paste: Merge Formatting	Įklijuoti: sulieti formatavimą
+	Pastes the clipboard's picture.	Įklijuoja iškarpinės paveikslėlį.
+	Paused	Pristabdyta
+	PDF document (*.pdf)	PDF dokumentas (*.pdf)
+	Pens	Rašikliai
+	Periodical	Periodinis leidinys
+	Personal	Asmeniniai
+	Personal Templates	Asmeniniai šablonai
+	Phonetic Guide	Fonetinis vadovas
+	pi	pi
+	Pi Over 2	Pi dalinta iš 2
+	Pick a custom group (New Group makes one)	Pasirinkite pasirinktinę grupę (ją sukuria „Nauja grupė“)
+	Picture border	Paveikslėlio kraštinė
+	Picture Content Control	Paveikslėlio turinio valdiklis
+	Picture Styles	Paveikslėlių stiliai
+	Picture transparency	Paveikslėlio skaidrumas
+	Place in This Document	Vieta šiame dokumente
+	Placeholder text	Vietos rezervavimo tekstas
+	Plain Table 1	Paprasta lentelė 1
+	Plain text (*.txt)	Grynasis tekstas (*.txt)
+	Plain Text Content Control	Grynojo teksto turinio valdiklis
+	Play/Pause	Leisti / pristabdyti
+	Plus Equal	Plius lygu
+	Points and above	Taškų ir daugiau
+	Polish	Lenkų
+	Portuguese (Brazil)	Portugalų (Brazilija)
+	Portuguese (Portugal)	Portugalų (Portugalija)
+	Possible spelling mistake	Galima rašybos klaida
+	Postal Code	Pašto kodas
+	Power series of (1+x)ⁿ	(1+x)ⁿ laipsninė eilutė
+	Preferred width:	Pageidaujamas plotis:
+	Press a key combination	Paspauskite klavišų derinį
+	Preview Results	Peržiūrėti rezultatus
+	Preview\nResults	Peržiūrėti\nrezultatus
+	Previous 1 or More	Ankstesni 1 ar daugiau
+	Previous Field	Ankstesnis laukas
+	Previous Record	Ankstesnis įrašas
+	Previous Section	Ankstesnis skyrius
+	Previous Sentence	Ankstesnis sakinys
+	Previous sentence	Ankstesnis sakinys
+	Print Documents	Spausdinti dokumentus
+	Print Documents…	Spausdinti dokumentus…
+	Print job submitted: spooled {count} sheet(s)	Spausdinimo užduotis pateikta: į eilę įtraukta lapų: {count}
+	Print Layout	Spaudinio maketas
+	Print Markup	Spausdinti žymėjimą
+	Print settings	Spausdinimo parametrai
+	Print\nLayout	Spaudinio\nmaketas
+	Privacy for this document	Šio dokumento privatumas
+	Process	Procesas
+	Product of A	A sandauga
+	Product with Limits	Sandauga su rėžiais
+	Product with Lower Limit	Sandauga su apatiniu rėžiu
+	Product with Subscript-Superscript Limits	Sandauga su apatinio ir viršutinio indekso rėžiais
+	Products and Coproducts	Sandaugos ir kosandaugos
+	Professional	Profesionalus
+	Promote to Heading 1	Paaukštinti iki 1 antraštės
+	Proofing	Tikrinimas
+	Proofing Issues	Tikrinimo problemos
+	Protect Document	Apsaugoti dokumentą
+	pt	pt
+	Publisher	Leidėjas
+	Put the caret in a content control first.	Pirmiausia nustatykite žymeklį turinio valdiklyje.
+	Put the default commands back on the Quick Access Toolbar?	Grąžinti numatytąsias komandas į sparčiosios prieigos įrankių juostą?
+	Quadratic Root	Kvadratinė šaknis
+	Quick Access Toolbar	Sparčiosios prieigos įrankių juosta
+	Quick Parts	Spartieji elementai
+	Quick Tables	Sparčiosios lentelės
+	Quote	Citata
+	Radical	Šaknis
+	Radical with Degree	Šaknis su laipsniu
+	Radicals	Šaknys
+	Raised/lowered	Pakeltas / nuleistas
+	Read Aloud	Skaityti garsiai
+	Read Aloud Status	Garsinio skaitymo būsena
+	Read Mode	Skaitymo režimas
+	Read\nAloud	Skaityti\ngarsiai
+	Read\nMode	Skaitymo\nrežimas
+	Reading	Skaitymas
+	Reading Column Width	Skaitymo stulpelio plotis
+	Reading Highlight	Skaitymo paryškinimas
+	Reading Line Spacing	Skaitymo eilučių tarpai
+	Reading Mode	Skaitymo režimas
+	Reading Page Color	Skaitymo puslapio spalva
+	Reading Speed	Skaitymo greitis
+	Reading Text Size	Skaitymo teksto dydis
+	Reads the clipboard's rich text and keeps its formatting.	Nuskaito iškarpinės raiškųjį tekstą ir išlaiko jo formatavimą.
+	Reads the clipboard's web content and keeps its formatting.	Nuskaito iškarpinės žiniatinklio turinį ir išlaiko jo formatavimą.
+	Recently Used Fonts	Neseniai naudoti šriftai
+	Recently used symbols:	Neseniai naudoti simboliai:
+	Recipient List	Gavėjų sąrašas
+	Recipient lists	Gavėjų sąrašai
+	Recipients: {count}	Gavėjų: {count}
+	Recolor a one-color picture, such as an icon	Perdažyti vienspalvį paveikslėlį, pvz., piktogramą
+	Recolor Selected Ink	Perdažyti pažymėtą rašalą
+	Recover documents	Atkurti dokumentus
+	Recover Unsaved Documents	Atkurti neįrašytus dokumentus
+	Recovery copy	Atkūrimo kopija
+	Recovery is disabled while this document has a password.	Kol šis dokumentas turi slaptažodį, atkūrimas išjungtas.
+	Red:	Raudona:
+	Reduce Hanging Indent	Sumažinti kabančiąją įtrauką
+	Reference type:	Nuorodos tipas:
+	References	Nuorodos
+	Registered	Registruotas
+	Registered Sign	Registruoto prekių ženklo simbolis
+	Regular expressions	Reguliarieji reiškiniai
+	Reject	Atmesti
+	Reject All Changes	Atmesti visus keitimus
+	Reject Change	Atmesti keitimą
+	Relationship	Ryšys
+	Relative to original picture size	Pagal pradinį paveikslėlio dydį
+	Remove Added Font	Šalinti pridėtą šriftą
+	Remove condition	Šalinti sąlygą
+	Remove Content Control	Šalinti turinio valdiklį
+	Remove every custom shortcut and restore the built-in keys?	Šalinti visus pasirinktinius sparčiuosius klavišus ir atkurti integruotuosius?
+	Remove every custom tab and group and show all tabs again?	Šalinti visus pasirinktinius skirtukus bei grupes ir vėl rodyti visus skirtukus?
+	Remove field	Šalinti lauką
+	Remove Footer	Šalinti poraštę
+	Remove gradient stop	Šalinti gradiento stotelę
+	Remove Header	Šalinti antraštę
+	Remove Hyperlink	Šalinti saitą
+	Remove my name from comments, changes and file properties when saving	Įrašant šalinti mano vardą iš komentarų, keitimų ir failo ypatybių
+	Remove Password	Šalinti slaptažodį
+	Remove Pen	Šalinti rašiklį
+	Remove recipient	Šalinti gavėją
+	Remove row	Šalinti eilutę
+	Remove series	Šalinti seką
+	Remove Space After Paragraph	Šalinti tarpą po pastraipos
+	Remove Table of Contents	Šalinti turinį
+	Remove the control once edited	Šalinti valdiklį jį redagavus
+	Remove the space before the punctuation	Šalinti tarpą prieš skyrybos ženklą
+	Remove Watermark	Šalinti vandens ženklą
+	Rename Document	Pervardyti dokumentą
+	Reopen	Atidaryti iš naujo
+	Repeat as header row on each page	Kartoti kaip antraštės eilutę kiekviename puslapyje
+	Repeat Header Rows	Kartoti antraštės eilutes
+	Repeating Section Content Control	Kartojamos sekcijos turinio valdiklis
+	Replace as you type	Pakeisti rašant
+	Replay	Pakartoti
+	Research	Tyrimai
+	Researcher	Tyrėjas
+	Reset All…	Atkurti viską…
+	Reset Character Formatting	Atkurti simbolių formatavimą
+	Reset Crop	Atkurti apkarpymą
+	Reset Graphic	Atkurti grafiką
+	Reset Paragraph Formatting	Atkurti pastraipos formatavimą
+	Reset to Normal	Atkurti į įprastinį
+	Reset\nGraphic	Atkurti\ngrafiką
+	Resize Table by Dragging	Keisti lentelės dydį tempiant
+	Resolve	Išspręsti
+	Resolved	Išspręsta
+	Restart at 1	Pradėti nuo 1
+	Restart Each Page	Pradėti iš naujo kiekviename puslapyje
+	Restart Each Section	Pradėti iš naujo kiekviename skyriuje
+	Restart list after:	Pradėti sąrašą iš naujo po:
+	Restore opens an unsaved copy. Your original file stays unchanged.	Atkūrimas atidaro neįrašytą kopiją. Jūsų pradinis failas lieka nepakeistas.
+	Restrict Editing	Riboti redagavimą
+	Restrict\nEditing	Riboti\nredagavimą
+	Results	Rezultatai
+	Return address labels	Atgalinio adreso etiketės
+	Return address:	Atgalinis adresas:
+	Reviewing	Peržiūra
+	Reviewing Pane	Peržiūros sritis
+	Reviewing — edits become suggestions	Peržiūra – taisymai tampa pasiūlymais
+	Revised document	Pataisytas dokumentas
+	Rewind	Atsukti
+	Ribbon	Juostelė
+	Ribbon tabs	Juostelės skirtukai
+	Rich Text Content Control	Raiškiojo teksto turinio valdiklis
+	Rich Text Format (*.rtf)	Raiškiojo teksto formatas (*.rtf)
+	Rich Text Format (RTF)	Raiškiojo teksto formatas (RTF)
+	Right (vertical)	Dešinėje (vertikaliai)
+	Right Arrow with Text Above	Rodyklė dešinėn su tekstu viršuje
+	Right Arrow with Text Below	Rodyklė dešinėn su tekstu apačioje
+	Right border	Dešinioji kraštinė
+	Right Bracket Twice	Dvigubas dešinysis skliaustas
+	Right indent	Dešinioji įtrauka
+	Right Only	Tik dešinėje
+	Right-to-left	Iš dešinės į kairę
+	Right-to-Left Section	Iš dešinės į kairę skyrius
+	Right-to-Left Table	Iš dešinės į kairę lentelė
+	Right-to-Left Text Direction	Teksto kryptis iš dešinės į kairę
+	Rightwards Arrow Above	Rodyklė dešinėn viršuje
+	Rightwards Harpoon Above	Harpūnas dešinėn viršuje
+	Roots of ax²+bx+c	ax²+bx+c šaknys
+	Rotate all text 270°	Pasukti visą tekstą 270°
+	Rotate all text 90°	Pasukti visą tekstą 90°
+	Rounded	Suapvalintas
+	Row	Eilutė
+	Row:	Eilutė:
+	Rows & Columns	Eilutės ir stulpeliai
+	Ruby text:	Rubi tekstas:
+	Run-in	Įterptinis
+	Résumé	Gyvenimo aprašymas
+	SAMPLE	PAVYZDYS
+	Sat:	Sot.:
+	Saturation and recolor	Sodrumas ir perdažymas
+	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Įrašykite kopiją kitu formatu. Spausdinama per PDF, kurį galite spausdinti bet kuria peržiūros programa.
+	Save as Word Template…	Įrašyti kaip „Word“ šabloną…
+	Save documents	Įrašyti dokumentus
+	Save the document to turn on AutoSave	Įrašykite dokumentą, kad įjungtumėte automatinį įrašymą
+	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Įrašykite dokumentą, kad įjungtumėte automatinį įrašymą (tik atidarytas failas neperrašomas, kol jo neįrašysite)
+	Save these pages as PDF…	Įrašyti šiuos puslapius kaip PDF…
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Įrašo .dotx šabloną jūsų šablonų aplanke. Jis rodomas skiltyje Failas › Naujas, dalyje Asmeniniai.
+	Saving {name} was cancelled, so it is still open and nothing was lost.	{name} įrašymas atšauktas, todėl dokumentas tebėra atidarytas ir niekas neprarasta.
+	Scale Drawing	Mastelio piešinys
+	Scale to paper size	Pritaikyti pagal popieriaus dydį
+	Search commands and help	Ieškoti komandų ir žinyno
+	Search document	Ieškoti dokumente
+	Search for templates	Ieškoti šablonų
+	Search Options	Paieškos parinktys
+	Secant Function	Sekanto funkcija
+	Section 1.01	Skyrius 1.01
+	Section Break	Skyriaus lūžis
+	Section Breaks	Skyrių lūžiai
+	Section Character	Skyriaus simbolis
+	Section direction:	Skyriaus kryptis:
+	Section Mark	Skyriaus žymė
+	Section Properties	Skyriaus ypatybės
+	Sections	Skyriai
+	See	Žr.
+	select a chart first	pirmiausia pažymėkite diagramą
+	select a connector first	pirmiausia pažymėkite jungtį
+	select a drawing canvas first	pirmiausia pažymėkite piešimo drobę
+	select a floating picture or shape first	pirmiausia pažymėkite slankųjį paveikslėlį arba figūrą
+	select a group first	pirmiausia pažymėkite grupę
+	select a picture first	pirmiausia pažymėkite paveikslėlį
+	select a picture or shape first	pirmiausia pažymėkite paveikslėlį arba figūrą
+	Select a picture, shape, chart or table to describe it.	Pažymėkite paveikslėlį, figūrą, diagramą arba lentelę, kad ją aprašytumėte.
+	Select a place in this document:	Pasirinkite vietą šiame dokumente:
+	select a shape first	pirmiausia pažymėkite figūrą
+	Select a shape, text box or drawing canvas to format its fill.	Pažymėkite figūrą, teksto lauką arba piešimo drobę, kad formatuotumėte jos užpildą.
+	select a SmartArt graphic first	pirmiausia pažymėkite SmartArt grafiką
+	select a text box first	pirmiausia pažymėkite teksto lauką
+	select a text box linked to another first	pirmiausia pažymėkite teksto lauką, susietą su kitu
+	Select Cell	Pažymėti langelį
+	Select Column	Pažymėti stulpelį
+	Select Heading and Content	Pažymėti antraštę ir turinį
+	Select Line	Pažymėti eilutę
+	Select Paragraph	Pažymėti pastraipą
+	Select Range	Pažymėti diapazoną
+	Select Recipients	Pasirinkti gavėjus
+	select recipients first	pirmiausia pasirinkite gavėjus
+	Select recipients first to choose from their fields.	Pirmiausia pasirinkite gavėjus, kad galėtumėte rinktis iš jų laukų.
+	Select recipients first to match their fields.	Pirmiausia pasirinkite gavėjus, kad susietumėte jų laukus.
+	Select Row	Pažymėti eilutę
+	Select Sentence	Pažymėti sakinį
+	Select Table	Pažymėti lentelę
+	Select Table Cells by Clicking	Žymėti lentelės langelius spustelėjant
+	Select Text	Pažymėti tekstą
+	Select Text with Similar Formatting	Pažymėti panašiai formatuotą tekstą
+	Select text, then tick who can still edit it.	Pažymėkite tekstą, tada pažymėkite, kas dar gali jį redaguoti.
+	select two or more cells to merge	norėdami sujungti, pažymėkite du ar daugiau langelių
+	select two or more pictures or shapes first (Shift+click)	pirmiausia pažymėkite du ar daugiau paveikslėlių arba figūrų (Shift+spustelėjimas)
+	Select Word	Pažymėti žodį
+	Select\nRecipients	Pasirinkti\ngavėjus
+	Selected Fields	Pasirinkti laukai
+	Selected text	Pažymėtas tekstas
+	Selection Pane	Žymėjimo sritis
+	Send the document straight to the system print dialog, or save a copy in another format below.	Siųskite dokumentą tiesiai į sistemos spausdinimo dialogo langą arba toliau įrašykite kopiją kitu formatu.
+	Sentence	Sakinys
+	Sentence case.	Kaip sakinyje.
+	Separate text at	Atskirti tekstą ties
+	Separator:	Skirtukas:
+	Sepia	Sepija
+	Serbian (Cyrillic)	Serbų (kirilica)
+	Serbian (Latin)	Serbų (lotynų rašmenys)
+	Series name	Sekos pavadinimas
+	Series {n}	Seka {n}
+	Set As Default	Nustatyti kaip numatytąjį
+	Set Caret	Nustatyti žymeklį
+	Set Character Formatting	Nustatyti simbolių formatavimą
+	Set Date	Nustatyti datą
+	Set Equation	Nustatyti lygtį
+	Set Numbering Value	Nustatyti numeravimo reikšmę
+	Set Paragraph Formatting	Nustatyti pastraipos formatavimą
+	Set Proofing Language…	Nustatyti tikrinimo kalbą…
+	Setting:	Parametras:
+	Shadow, glow and soft edges	Šešėlis, švytėjimas ir švelnūs kraštai
+	Shape Styles	Figūrų stiliai
+	Shift+Tab	Shift+Tab
+	Shipping labels	Siuntų etiketės
+	Shortcut key:	Spartusis klavišas:
+	Show alignment guides when moving pictures and shapes	Rodyti lygiavimo linijas perkeliant paveikslėlius ir figūras
+	Show All Levels	Rodyti visus lygius
+	Show all revisions inline	Rodyti visus taisymus tekste
+	Show changes at:	Rodyti keitimus ties:
+	Show changes in:	Rodyti keitimus:
+	Show Comments	Rodyti komentarus
+	Show every bibliography field	Rodyti visus bibliografijos laukus
+	Show First Line Only	Rodyti tik pirmą eilutę
+	Show in the Styles gallery	Rodyti stilių galerijoje
+	Show its list number	Rodyti jo sąrašo numerį
+	Show its number relative to this field	Rodyti jo numerį šio lauko atžvilgiu
+	Show its number with all higher levels	Rodyti jo numerį su visais aukštesniais lygiais
+	Show Level	Rodyti lygį
+	Show Level 1	Rodyti 1 lygį
+	Show Level 2	Rodyti 2 lygį
+	Show Level 3	Rodyti 3 lygį
+	Show Level 4	Rodyti 4 lygį
+	Show Level 5	Rodyti 5 lygį
+	Show Level 6	Rodyti 6 lygį
+	Show Level 7	Rodyti 7 lygį
+	Show Level 8	Rodyti 8 lygį
+	Show Level 9	Rodyti 9 lygį
+	Show Markup	Rodyti žymėjimą
+	Show Notes	Rodyti pastabas
+	Show only comments and formatting in balloons	Debesėliuose rodyti tik komentarus ir formatavimą
+	Show only records that will be merged	Rodyti tik įrašus, kurie bus sulieti
+	Show or Hide Style	Rodyti arba slėpti stilių
+	Show Quick Access Toolbar	Rodyti sparčiosios prieigos įrankių juostą
+	Show revisions in balloons	Rodyti taisymus debesėliuose
+	Show Text Formatting	Rodyti teksto formatavimą
+	Show the community button in the title bar	Rodyti bendruomenės mygtuką pavadinimo juostoje
+	Show the equation in the line of text	Rodyti lygtį teksto eilutėje
+	Show the equation on a line of its own	Rodyti lygtį atskiroje eilutėje
+	Show the ribbon	Rodyti juostelę
+	Show the Start screen when WordCraft starts	Rodyti pradžios ekraną paleidus WordCraft
+	Show/Hide ¶	Rodyti / slėpti ¶
+	Showing the first {count} items.	Rodomi pirmieji {count} elementai.
+	Shows a tree: each item below the item it belongs to.	Rodo medį: kiekvienas elementas po elementu, kuriam jis priklauso.
+	Shows items around a central idea: the first item is the centre.	Rodo elementus aplink centrinę idėją: pirmasis elementas yra centras.
+	Shows items of equal weight as blocks in rows.	Rodo vienodos svarbos elementus kaip blokus eilutėse.
+	Shows overlapping ideas as overlapping circles.	Rodo persidengiančias idėjas kaip persidengiančius apskritimus.
+	Shows parts of a whole as quadrants.	Rodo visumos dalis kaip ketvirčius.
+	Shows parts that build on each other, largest at the bottom.	Rodo viena ant kitos statomas dalis, didžiausia apačioje.
+	Shows steps in order, left to right, with arrows between them.	Rodo žingsnius iš eilės, iš kairės į dešinę, su rodyklėmis tarp jų.
+	Shows steps that repeat, around a circle.	Rodo pasikartojančius žingsnius ratu.
+	Shrink Font 1 Point	Sumažinti šriftą 1 tašku
+	Shrink text	Sutraukti tekstą
+	Side to Side	Vienas šalia kito
+	Side\nto Side	Vienas\nšalia kito
+	Sides of a right triangle	Stačiojo trikampio kraštinės
+	Signature Line	Parašo eilutė
+	Simple Frame	Paprastas rėmelis
+	Sine and cosine series of f(x)	f(x) sinusų ir kosinusų eilutė
+	Sine Function	Sinuso funkcija
+	Sine theta	Sinusas teta
+	Single Brackets	Viengubi skliaustai
+	Single Closing Quote	Viengubos uždaromosios kabutės
+	Single label	Viena etiketė
+	Single Left Angle	Viengubas kairysis kampinis skliaustas
+	Single Left Bar	Viengubas kairysis brūkšnys
+	Single Left Brace	Viengubas kairysis riestinis skliaustas
+	Single Left Bracket	Viengubas kairysis laužtinis skliaustas
+	Single Left Parenthesis	Viengubas kairysis lenktinis skliaustas
+	Single Opening Quote	Viengubos atidaromosios kabutės
+	Single Right Brace	Viengubas dešinysis riestinis skliaustas
+	Single Right Bracket	Viengubas dešinysis laužtinis skliaustas
+	Single Right Parenthesis	Viengubas dešinysis lenktinis skliaustas
+	Single Spacing	Viengubi tarpai
+	SIST02	SIST02
+	Site name	Svetainės pavadinimas
+	Size (pt):	Dydis (pt):
+	Size and Crop…	Dydis ir apkarpymas…
+	Sketchbook	Eskizų sąsiuvinis
+	Skewed Fraction	Įstrižoji trupmena
+	Skip citations & bibliography	Praleisti citatas ir bibliografiją
+	Skip Citations and Bibliography	Praleisti citatas ir bibliografiją
+	Skip Record If	Praleisti įrašą, jei
+	Skip Record If…	Praleisti įrašą, jei…
+	Slant Down	Nuolydis žemyn
+	Slant Up	Nuolydis aukštyn
+	Small caps	Mažosios didžiosios
+	Small change	Nedidelis pakeitimas
+	Smart quotes instead of straight quotes	Riestinės kabutės vietoj tiesių
+	SmartArt	SmartArt
+	Soft Edge	Švelnus kraštas
+	Soft Glow	Švelnus švytėjimas
+	Solid Accent	Vientisas akcentas
+	Solid fill	Vientisas užpildas
+	Sort by:	Rikiuoti pagal:
+	Sort order:	Rikiavimo tvarka:
+	Sort Recipients	Rikiuoti gavėjus
+	Source code: github.com/storytold/wordcraft	Išeitinis kodas: github.com/storytold/wordcraft
+	Source Manager	Šaltinių tvarkytuvas
+	Source type:	Šaltinio tipas:
+	Sources in this document:	Šaltiniai šiame dokumente:
+	South	Pietūs
+	Space after	Tarpas po
+	Space after: {pt} pt	Tarpas po: {pt} pt
+	Space before	Tarpas prieš
+	Space before/after:	Tarpas prieš / po:
+	Space before: {pt} pt	Tarpas prieš: {pt} pt
+	Spanish (Latin America)	Ispanų (Lotynų Amerika)
+	Spanish (Mexico)	Ispanų (Meksika)
+	Spanish (Spain)	Ispanų (Ispanija)
+	Spanish (Uruguay)	Ispanų (Urugvajus)
+	Sparse Matrices	Retosios matricos
+	Special Characters	Specialieji simboliai
+	Specify height:	Nurodyti aukštį:
+	Speech	Kalba
+	Spelling & Grammar	Rašyba ir gramatika
+	Spelling &\nGrammar	Rašyba ir\ngramatika
+	Spelling Suggestions	Rašybos pasiūlymai
+	Spike	Smaigas
+	Split Cells	Skaidyti langelius
+	Split Table	Skaidyti lentelę
+	Spreadsheet Table	Skaičiuoklės lentelė
+	Square Root	Kvadratinė šaknis
+	Square Root with Degree	Kvadratinė šaknis su laipsniu
+	Square Union	Kvadratinė sąjunga
+	Stack Object	Sudėtinis objektas
+	Stack Object (Three)	Sudėtinis objektas (trys)
+	Stacked Fraction	Sudėtinė trupmena
+	Stacked, no bar	Sudėtinė, be brūkšnio
+	Start Enforcing Protection	Pradėti taikyti apsaugą
+	Start Mail Merge	Pradėti laiškų suliejimą
+	Start Mail\nMerge	Pradėti laiškų\nsuliejimą
+	Start-up	Paleistis
+	State	Būsena
+	Stop Protection	Stabdyti apsaugą
+	Stop Reading	Stabdyti skaitymą
+	Stopped	Sustabdyta
+	Straight Arrow Connector	Tiesios rodyklės jungtis
+	Straight Connector	Tiesi jungtis
+	Stroke {n} of {total}	Brūkšnys {n} iš {total}
+	Structure Actions	Struktūros veiksmai
+	Structures	Struktūros
+	Studio cover	Studijos viršelis
+	Studio handbook (sample)	Studijos vadovas (pavyzdys)
+	Style based on:	Stilius pagrįstas:
+	Style Inspector	Stilių tikrintuvas
+	Style Set	Stilių rinkinys
+	Style: {style}	Stilius: {style}
+	Styles Pane	Stilių sritis
+	Styles:	Stiliai:
+	Subentry:	Papildomas įrašas:
+	Submit print job	Pateikti spausdinimo užduotį
+	Subscript-Superscript	Apatinis ir viršutinis indeksas
+	Subscripts and Superscripts	Apatiniai ir viršutiniai indeksai
+	Subset:	Poaibis:
+	Subtle Emphasis	Subtilus pabrėžimas
+	Subtle Reference	Subtili nuoroda
+	Suggested	Siūloma
+	Sum of cosines	Kosinusų suma
+	Sum or difference of sines	Sinusų suma arba skirtumas
+	Summation	Sumavimas
+	Summation from 0 to n	Sumavimas nuo 0 iki n
+	Summation over binomials	Sumavimas per binominius koeficientus
+	Summation with Limits	Sumavimas su rėžiais
+	Summation with Lower Limit	Sumavimas su apatiniu rėžiu
+	Summation with Subscript Limit	Sumavimas su apatinio indekso rėžiu
+	Summation with Subscript-Superscript Limits	Sumavimas su apatinio ir viršutinio indekso rėžiais
+	Summations	Sumos
+	Suppress line numbers	Nerodyti eilučių numerių
+	Surface Integral	Paviršinis integralas
+	Surface Integral with Limits	Paviršinis integralas su rėžiais
+	Surface Integral with Stacked Limits	Paviršinis integralas su sudėtiniais rėžiais
+	Swap footnotes and endnotes	Sukeisti išnašas ir galines išnašas
+	Swedish	Švedų
+	Switch Modes	Perjungti režimus
+	Switch\nModes	Perjungti\nrežimus
+	Synonyms	Sinonimai
+	Tab Character	Tabuliacijos simbolis
+	Tab character	Tabuliacijos simbolis
+	Tab leader:	Tabuliacijos užpildas:
+	Tab stop position:	Tabuliavimo žymės padėtis:
+	Tab stops to be cleared:	Valytinos tabuliavimo žymės:
+	Table Column Width	Lentelės stulpelio plotis
+	Table direction:	Lentelės kryptis:
+	Table Grid	Lentelės tinklelis
+	Table Layout	Lentelės maketas
+	Table of Authorities	Šaltinių rodyklė
+	Table of Contents	Turinys
+	Table of Contents Options	Turinio parinktys
+	Table of Contents Styles	Turinio stiliai
+	Table of Figures	Iliustracijų sąrašas
+	Table of\nContents	Turi-\nnys
+	Table Properties	Lentelės ypatybės
+	Table Properties…	Lentelės ypatybės…
+	Table Row Height	Lentelės eilutės aukštis
+	Table size	Lentelės dydis
+	Table Style Options	Lentelės stiliaus parinktys
+	Tabular List	Lentelinis sąrašas
+	Tag	Žyma
+	Take the last match on the page	Imti paskutinį atitikmenį puslapyje
+	Tangent formula	Tangento formulė
+	Tangent Function	Tangento funkcija
+	TC entry fields	TC įrašų laukai
+	Technology	Technologijos
+	Templates and Add-ins	Šablonai ir papildiniai
+	Templates you save in your templates folder show up here.	Čia rodomi šablonai, kuriuos įrašote savo šablonų aplanke.
+	Text boxes	Teksto laukai
+	text boxes can't go inside a text box	teksto laukai negali būti teksto lauko viduje
+	Text Effects and Typography	Teksto efektai ir tipografija
+	Text from File	Tekstas iš failo
+	Text indent at:	Teksto įtrauka ties:
+	Text of the nearest paragraph with a given style (running headers)	Artimiausios pastraipos su nurodytu stiliumi tekstas (kintamosios antraštės)
+	Text over Colon Equal	Tekstas virš dvitaškio lygu
+	Text over Equal	Tekstas virš lygu
+	Text Pane	Teksto sritis
+	Text size	Teksto dydis
+	Text snaps to characters	Tekstas lygiuojamas pagal simbolius
+	Text to display:	Rodomas tekstas:
+	Text Wrapping	Teksto laužymas
+	Text\nDirection	Teksto\nkryptis
+	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Šis formatas visko neišsaugo, todėl dokumentas tebėra atidarytas. Norėdami tęsti, įrašykite jį kaip „Word“ dokumentą (.docx).
+	That password isn't right. Check it (passwords are case-sensitive) and try again.	Slaptažodis neteisingas. Patikrinkite jį (slaptažodžiuose skiriamos didžiosios ir mažosios raidės) ir bandykite dar kartą.
+	The clipboard is empty.	Iškarpinė tuščia.
+	the Clipboard pane is empty	iškarpinės sritis tuščia
+	the cursor isn't in a table	žymeklis ne lentelėje
+	The date it is today	Šiandienos data
+	The document has no bookmarks yet.	Dokumente dar nėra žymelių.
+	the document is protected	dokumentas apsaugotas
+	The document is read only, except for regions marked editable.	Dokumentas tik skaitomas, išskyrus redaguojamomis pažymėtas sritis.
+	The document will be saved with a password. Save it to protect it.	Dokumentas bus įrašytas su slaptažodžiu. Įrašykite jį, kad apsaugotumėte.
+	The measurement must be between {min} and {max}.	Matmuo turi būti nuo {min} iki {max}.
+	The new style takes the formatting of the current paragraph.	Naujasis stilius perima dabartinės pastraipos formatavimą.
+	The number must be a divisor of {max}.	Skaičius turi būti {max} daliklis.
+	The number must be between 1 and {max}.	Skaičius turi būti nuo 1 iki {max}.
+	the paragraph is empty	pastraipa tuščia
+	the paragraph starts with a space	pastraipa prasideda tarpu
+	The password is optional; without it anyone can stop the protection.	Slaptažodis neprivalomas; be jo apsaugą gali išjungti bet kas.
+	The password is removed. Save the document to keep the change.	Slaptažodis pašalintas. Įrašykite dokumentą, kad pakeitimas išliktų.
+	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Spausdintuvas, dvipusis spausdinimas ir puslapių skaičius lape pasirenkami tame dialogo lange.
+	The recipient-list field that fills each part of an address block and greeting line.	Gavėjų sąrašo laukas, kuris užpildo kiekvieną adreso bloko ir pasisveikinimo eilutės dalį.
+	The spelling and grammar check is complete.	Rašybos ir gramatikos tikrinimas baigtas.
+	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	Kalbos „{language}“ rašybos žodyno nepavyko nuskaityti, todėl ji netikrinama. Failas: {file}. Priežastis: {reason}
+	the Spike is empty	smaigas tuščias
+	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Sistemos failų dialogo langas nepasiekiamas, todėl WordCraft rodo savo. Norėdami gauti sistemos dialogo langą, įdiekite failų parinkimo portalą (pvz., xdg-desktop-portal-gtk) arba zenity.
+	The time right now	Dabartinis laikas
+	Theme Fonts	Temos šriftai
+	Theme List	Temos sąrašas
+	Then insert:	Tada įterpti:
+	there is no ink to replay	nėra rašalo, kurį būtų galima pakartoti
+	there is nothing to undo	nėra ko anuliuoti
+	there's no citation after the caret	po žymekliu nėra citatos
+	These merge fields aren't in the recipient list:	Šių suliejimo laukų gavėjų sąraše nėra:
+	These settings will be used for new documents.	Šie parametrai bus naudojami naujiems dokumentams.
+	Thick Frame	Storas rėmelis
+	This cannot be undone. Your original file stays unchanged.	To negalima anuliuoti. Jūsų pradinis failas lieka nepakeistas.
+	this chart was made in another program: WordCraft shows it but can't edit it	ši diagrama sukurta kita programa: WordCraft ją rodo, bet negali redaguoti
+	This document	Šis dokumentas
+	This folder can't be read: {error}	Šio aplanko nepavyksta nuskaityti: {error}
+	This font has no characters to show.	Šis šriftas neturi rodomų simbolių.
+	this item is already at the top level	šis elementas jau aukščiausiame lygyje
+	This page	Šis puslapis
+	This password type isn't supported.	Šis slaptažodžio tipas nepalaikomas.
+	This section	Šis skyrius
+	this SmartArt was made in another program: WordCraft shows it but can't edit it	šis SmartArt sukurtas kita programa: WordCraft jį rodo, bet negali redaguoti
+	this text box is already linked: break the link first	šis teksto laukas jau susietas: pirmiausia nutraukite saitą
+	Three	Trys
+	Through	Kiaurai
+	Tight	Glaudus
+	Tilde	Tildė
+	Tips ({n})	Patarimai ({n})
+	Title Bar	Pavadinimo juosta
+	Title from the document properties	Pavadinimas iš dokumento ypatybių
+	TOA Heading	Šaltinių rodyklės antraštė
+	TOC Heading	Turinio antraštė
+	TOC {n}	Turinys {n}
+	tOGGLE cASE	kEISTI rAIDŽIŲ dYDĮ
+	Toggle Check Box	Perjungti žymės langelį
+	Toggle Field Codes	Perjungti laukų kodus
+	Toggle Unicode Character	Perjungti Unikodo simbolį
+	Top and Bottom	Viršuje ir apačioje
+	Top Left Cell	Viršutinis kairysis langelis
+	Top of Page	Puslapio viršus
+	Top of the Document	Dokumento pradžia
+	Top Right Cell	Viršutinis dešinysis langelis
+	Track Changes	Sekti keitimus
+	Track Changes Options	Keitimų sekimo parinktys
+	Track Changes: On	Keitimų sekimas: įjungtas
+	Track formatting	Sekti formatavimą
+	Track\nChanges	Sekti\nkeitimus
+	Track\nChanges ✓	Sekti\nkeitimus ✓
+	Tracked changes	Sekami keitimai
+	Trademark	Prekių ženklas
+	Trademark Sign	Prekių ženklo simbolis
+	Transport	Transportas
+	Triangle Down	Trikampis žemyn
+	Triangle Up	Trikampis aukštyn
+	Trigonometric Functions	Trigonometrinės funkcijos
+	Triple	Trigubas
+	Triple Dot	Trys taškai
+	Triple Integral	Trigubas integralas
+	Triple Integral with Limits	Trigubas integralas su rėžiais
+	Triple Integral with Stacked Limits	Trigubas integralas su sudėtiniais rėžiais
+	Turabian	Turabian
+	Turkish	Turkų
+	Two	Du
+	Type +2 or -1 to move from the page you are on.	Įveskite +2 arba -1, kad pereitumėte nuo dabartinio puslapio.
+	Type a command, e.g. "insert table"	Įveskite komandą, pvz., „įterpti lentelę“
+	Type a New List…	Įvesti naują sąrašą…
+	Type a page number, or +2 / -1.	Įveskite puslapio numerį arba +2 / -1.
+	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Įveskite dydį bet kokiais vienetais, pvz., 5 cm arba 300 px. Kita kraštinė prisitaiko, todėl paveikslėlio proporcijos išlieka.
+	Type at least one recipient.	Įveskite bent vieną gavėją.
+	Type Character Code	Įvesti simbolio kodą
+	Type equations in LaTeX	Rašyti lygtis LaTeX
+	Type equations in the linear format (UnicodeMath)	Rašyti lygtis linijiniu formatu (UnicodeMath)
+	Type in Equation	Rašyti lygtyje
+	Type normal (non-math) text in the equation	Rašyti įprastą (nematematinį) tekstą lygtyje
+	Type Text	Rašyti tekstą
+	Type the categories down the side and a column of values per series.	Įveskite kategorijas kairėje ir po vertės stulpelį kiekvienai sekai.
+	Type the password to stop the protection.	Įveskite slaptažodį, kad išjungtumėte apsaugą.
+	Type the recipients, or load them from a file.	Įveskite gavėjus arba įkelkite juos iš failo.
+	Typing replaces selected text	Rašomas tekstas pakeičia pažymėtą tekstą
+	Ukrainian	Ukrainiečių
+	Unchecked symbol	Nepažymėtas simbolis
+	Underbar	Brūkšnys apačioje
+	Underbrace	Riestinis skliaustas apačioje
+	Underline Color	Pabraukimo spalva
+	Underline color	Pabraukimo spalva
+	Underline Words Only	Pabraukti tik žodžius
+	Undo 1 Action	Anuliuoti 1 veiksmą
+	Undo Actions	Anuliuoti veiksmus
+	Undo History	Anuliavimo istorija
+	Undo {n} Actions	Anuliuoti veiksmų: {n}
+	Unformatted Text	Neformatuotas tekstas
+	Union of intersections	Sankirtų sąjunga
+	Union with Limits	Sąjunga su rėžiais
+	Union with Lower Limit	Sąjunga su apatiniu rėžiu
+	Union with Plus	Sąjunga su pliusu
+	Union with Subscript-Superscript Limits	Sąjunga su apatinio ir viršutinio indekso rėžiais
+	Unions and Intersections	Sąjungos ir sankirtos
+	Unlink Fields	Atsieti laukus
+	Unlink\nCitations	Atsieti\ncitatas
+	Unlock Fields	Atrakinti laukus
+	Up Diagonal Dots	Įstrižiniai taškai aukštyn
+	Up one level	Lygiu aukštyn
+	Update Field	Naujinti lauką
+	Update Index	Naujinti rodyklę
+	Update Style to Match Selection	Naujinti stilių pagal pažymėtą sritį
+	Update Styles from Template	Naujinti stilius iš šablono
+	Update Table	Naujinti lentelę
+	Update Table of Figures	Naujinti iliustracijų sąrašą
+	Update to Match	Naujinti pagal
+	Update to Match Selection	Naujinti pagal pažymėtą sritį
+	URGENT	SKUBU
+	URL	URL
+	Use "a" before a consonant sound	Vartoti „a“ prieš priebalsio garsą
+	Use "an" before a vowel sound	Vartoti „an“ prieš balsio garsą
+	Use an Existing List…	Naudoti esamą sąrašą…
+	Use the browser's full screen (F11)	Naudoti naršyklės viso ekrano režimą (F11)
+	Use wildcards	Naudoti pakaitos simbolius
+	User name:	Vartotojo vardas:
+	Vector A	Vektorius A
+	Vector AB	Vektorius AB
+	Version History	Versijų istorija
+	Version {version} ({build})	Versija {version} ({build})
+	Vertical alignment:	Vertikali lygiuotė:
+	Vertical Bars	Vertikalūs brūkšniai
+	Vertical Dots	Vertikalūs taškai
+	View Alt Text…	Peržiūrėti alternatyvųjį tekstą…
+	View Gridlines	Rodyti tinklelio linijas
+	View State	Rodinio būsena
+	Views	Rodiniai
+	Visual effects	Vaizdo efektai
+	Vivid 200%	Ryškus 200 %
+	Volume Integral	Tūrinis integralas
+	Volume Integral with Limits	Tūrinis integralas su rėžiais
+	Volume Integral with Stacked Limits	Tūrinis integralas su sudėtiniais rėžiais
+	Wait for the print job to finish submitting before closing.	Prieš uždarydami palaukite, kol spausdinimo užduotis bus pateikta.
+	Waiting for the save to finish…	Laukiama, kol baigsis įrašymas…
+	Waiting for Zotero…	Laukiama Zotero…
+	Warm Gradient with Outline	Šiltas gradientas su kontūru
+	Warnings ({n})	Įspėjimai ({n})
+	Washout	Išblukinta
+	Weather	Orai
+	Web Layout	Žiniatinklio maketas
+	Web page (*.html)	Tinklalapis (*.html)
+	Web\nLayout	Žiniatinklio\nmaketas
+	West	Vakarai
+	When this document was first created	Kada šis dokumentas buvo sukurtas
+	When this document was most recently printed	Kada šis dokumentas buvo paskutinį kartą išspausdintas
+	When this document was most recently saved	Kada šis dokumentas buvo paskutinį kartą įrašytas
+	White Space	Tuščia vieta
+	White space	Tuščia vieta
+	Who the document properties name as author	Kas dokumento ypatybėse nurodytas kaip autorius
+	Whole document	Visas dokumentas
+	Whole page	Visas puslapis
+	Whole Table	Visa lentelė
+	Whole words	Tik ištisi žodžiai
+	Widow/Orphan Control	Našlaičių eilučių valdymas
+	Widow/Orphan control	Našlaičių eilučių valdymas
+	Word 2003 XML Document (*.xml)	Word 2003 XML dokumentas (*.xml)
+	Word Count	Žodžių skaičius
+	Word document	„Word“ dokumentas
+	Word document (*.docx)	„Word“ dokumentas (*.docx)
+	Word Left	Žodis kairėn
+	Word level	Žodžio lygis
+	Word Right	Žodis dešinėn
+	Word sources	„Word“ šaltiniai
+	Word XML Document (*.xml)	Word XML dokumentas (*.xml)
+	WordArt	WordArt
+	WordArt Styles	WordArt stiliai
+	WordCraft	WordCraft
+	WordCraft is now the default app for Word documents.	Dabar WordCraft yra numatytoji „Word“ dokumentų programa.
+	Words only	Tik žodžiai
+	Wrap Text Sides	Laužymo pusės
+	Wrap\nText	Laužyti\ntekstą
+	Write & Insert Fields	Rašyti ir įterpti laukus
+	Write a reply	Rašyti atsakymą
+	x bar	x su brūkšniu
+	Yields	Duoda
+	Your system has animation effects turned off.	Jūsų sistemoje animacijos efektai išjungti.
+	Zotero	Zotero
+	Zotero: cancelled	Zotero: atšaukta
+	Zotero: done	Zotero: atlikta
+	{added}; {count} couldn't be read: {names}	{added}; nepavyko nuskaityti ({count}): {names}
+	{added}; {n} skipped (limit {max})	{added}; praleista {n} (riba {max})
+	{cols}×{rows} Table	Lentelė {cols}×{rows}
+	{contributors} contributors · {commits} commits	Bendraautorių: {contributors} · keitimų: {commits}
+	{count} items highlighted	Paryškinta elementų: {count}
+	{count} of {total} pages will print	Bus išspausdinta puslapių: {count} iš {total}
+	{count} of {total} recipients will be merged.	Bus sulieta gavėjų: {count} iš {total}.
+	{group} settings	{group}: parametrai
+	{key}+Click to follow link	{key}+spustelėkite, kad atidarytumėte saitą
+	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
+	{language} (dictionary unreadable)	{language} (žodyno nepavyko nuskaityti)
+	{language} (no dictionary)	{language} (nėra žodyno)
+	{language} is now the document's default language.	{language} dabar yra numatytoji dokumento kalba.
+	{names} and {n} more	{names} ir dar {n}
+	{name}   {height} × {width} in	{name}   {height} × {width} in
+	{name}   {height} × {width} mm	{name}   {height} × {width} mm
+	{name} already exists. Choose Save again to replace it.	{name} jau yra. Norėdami jį pakeisti, dar kartą pasirinkite „Įrašyti“.
+	{name} is protected with a password.	{name} apsaugotas slaptažodžiu.
+	{name} options	{name}: parinktys
+	{name} wasn't found.	{name} nerastas.
+	{n} entries marked.	Pažymėta įrašų: {n}.
+	{n} lines	Eilučių: {n}
+	{n} pt	{n} pt
+	{paper}   {width} × {height}	{paper}   {width} × {height}
+	{selected} of {words} words	{selected} iš {words} žodžių
+	{size} pt	{size} pt
+	{width} × {height} mm	{width} × {height} mm
+	{width} × {height} pixels	{width} × {height} pikselių
+	{words} words	Žodžių: {words}
+	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) nėra skaičius.
+	✓ None	✓ Nėra
+numerals	Arabic	Vakarietiški skaitmenys
+numerals	Context	Pagal aplinkinį tekstą
+numerals	Hindi	Rytų arabiški skaitmenys
+template	Letter	Laiškas
+numerals	System	Pagal sistemą
+preview	Title	Pavadinimas
+	3-D	3D
+	Account	Paskyra
+	Add Chart Element	Pridėti diagramos elementą
+	Add Shape	Pridėti figūrą
+	Add to Quick Access Toolbar	Įtraukti į sparčiosios prieigos įrankių juostą
+	Address	Adresas
+	Address:	Adresas:
+	After:	Po:
+	All Borders	Visos kraštinės
+	Alt Text	Alternatyvusis tekstas
+	Alt text	Alternatyvusis tekstas
+	Alt\nText	Alternatyvusis\ntekstas
+	AutoCorrect	Automatinis taisymas
+	AutoSave	Automatinis įrašymas
+	Banded Columns	Juostiniai stulpeliai
+	Banded Rows	Juostinės eilutės
+	Bottom Border	Apatinė kraštinė
+	Bottom Margin	Apatinė paraštė
+	Box	Stačiakampis
+	Breaks	Lūžiai
+	Bullets	Ženklinimas
+	Calendar	Kalendorius
+	Capitalize first letter of sentences	Sakinius pradėti didžiąja raide
+	Capitalize names of days	Dienų pavadinimus rašyti didžiąja raide
+	Categories	Kategorijos
+	Cell Margins	Langelio paraštės
+	Change Chart Type	Keisti diagramos tipą
+	Change Colors	Keisti spalvas
+	Change Picture	Keisti paveikslėlį
+	Change Picture…	Keisti paveikslėlį…
+	Change Shape	Keisti figūrą
+	Change\nChart Type	Keisti\ndiagramos tipą
+	Character Spacing	Simbolių tarpai
+	Character spacing	Tarpai tarp simbolių
+	Chart	Diagrama
+	Chart Design	Diagramos dizainas
+	Chart Title	Diagramos pavadinimas
+	Check Accessibility	Tikrinti pritaikymą neįgaliesiems
+	Check\nAccessibility	Tikrinti\npritaikymą neįgaliesiems
+	Clear All Formatting	Valyti visą formatavimą
+	Clustered Bar	Grupuota juosta
+	Clustered Column	Grupuotas stulpelis
+	Column	Stulpelinė
+	Column {n}	Stulpelis {n}
+	Compact	Kompaktiškas
+	Compress Pictures	Glaudinti paveikslėlius
+	Convert to Shapes	Konvertuoti į figūras
+	Convert to Text	Konvertuoti į tekstą
+	Correct TWo INitial CApitals	Taisyti DVI PIrmąsias DIdžiąsias raides
+	Corrections	Pataisos
+	Create Link	Kurti saitą
+	Custom Margins…	Pasirinktinės paraštės…
+	Customize Quick Access Toolbar	Tinkinti sparčiosios prieigos įrankių juostą
+	Dark Mode	Tamsusis režimas
+	Date & Time	Data ir laikas
+	Day	Diena
+	Decimal	Dešimtainis
+	Decrease Indent	Mažinti įtrauką
+	Delete Columns	Naikinti stulpelius
+	Delete Comment	Naikinti komentarą
+	Delete Rows	Naikinti eilutes
+	Delete Table	Naikinti lentelę
+	Demote	Pažeminti
+	Design	Dizainas
+	Different First Page	Kitoks pirmas puslapis
+	Different Odd & Even Pages	Skirtingi lyginiai ir nelyginiai puslapiai
+	Distribute Columns	Paskirstyti stulpelius
+	Distribute Rows	Paskirstyti eilutes
+	Distributed	Paskirstytas
+	Do not check spelling or grammar	Netikrinti rašybos ir gramatikos
+	Double	Dvigubas
+	Double Underline	Dvigubas pabraukimas
+	Doughnut	Žiedinė
+	Draw Table	Braižyti lentelę
+	Edit\nData	Redaguoti\nduomenis
+	Encrypt with Password	Šifruoti slaptažodžiu
+	Equation	Lygtis
+	Find what:	Ko ieškoti:
+	Finding printers…	Ieškoma spausdintuvų…
+	First Column	Pirmas stulpelis
+	Font Color	Šrifto spalva
+	Font…	Šriftas…
+	Footer	Poraštė
+	Format Painter	Formato teptukas
+	Format Shape…	Formatuoti figūrą…
+	Formula:	Formulė:
+	Forward	Persiųsti
+	Fraction	Trupmena
+	From:	Nuo:
+	Go To	Eiti į
+	Go To…	Eiti į…
+	Grab bag	Vardų rinkinys
+	Gradient stops	Gradiento taškai
+	Gridlines	Tinklelio linijos
+	Header	Antraštė
+	Header & Footer	Antraštė ir poraštė
+	Header Row	Antraštės eilutė
+	Heading 1	Antraštė 1
+	Heading 2	Antraštė 2
+	Heading 3	Antraštė 3
+	Highlight	Paryškinti
+	Highlighter	Žymiklis
+	Icons	Piktogramos
+	Increase Indent	Didinti įtrauką
+	Indent	Įtrauka
+	Indentation	Įtrauka
+	Ink to\nMath	Rašalas į\nmatematiką
+	Ink to\nShape	Rašalas į\nfigūrą
+	Insert Chart	Įterpti diagramą
+	Insert Hyperlink	Įterpti saitą
+	Insert Table	Įterpti lentelę
+	Insert Table…	Įterpti lentelę…
+	Insert\nAbove	Įterpti\nvirš
+	Inside Borders	Vidinės kraštinės
+	Interface language:	Sąsajos kalba:
+	Join the ArtCraft community on Discord	Prisijunkite prie ArtCraft bendruomenės Discord
+	Last Column	Paskutinis stulpelis
+	Layouts	Maketai
+	Left Border	Kairioji kraštinė
+	Left Margin	Kairioji paraštė
+	Line Spacing	Eilučių tarpai
+	Line Spacing Options…	Eilučių tarpų parinktys…
+	Link…	Saitas…
+	Lock aspect ratio	Užrakinti kraštinių santykį
+	Macros	Makrokomandos
+	Mark as decorative	Pažymėti kaip dekoratyvų
+	Match case	Skirti didžiąsias ir mažąsias raides
+	Measurement units:	Matavimo vienetai:
+	Mon	Pr
+	Month	Mėnuo
+	More Colors…	Daugiau spalvų…
+	More Columns…	Daugiau stulpelių…
+	Narrow	Siauras
+	New Comment	Naujas komentaras
+	New\nComment	Naujas\nkomentaras
+	New\nWindow	Naujas\nlangas
+	Next Comment	Kitas komentaras
+	No Border	Be kraštinės
+	No contributor data was built into this copy.	Šioje programos kopijoje nėra duomenų apie bendraautorius.
+	No Fill	Be užpildo
+	No fill	Be užpildo
+	No Glow	Be švytėjimo
+	No model credits were built into this copy.	Šioje programos kopijoje nėra naudotų modelių sąrašo.
+	Not now	Ne dabar
+	Not saved yet	Dar neįrašyta
+	Number of columns:	Stulpelių skaičius:
+	Number of rows:	Eilučių skaičius:
+	Numbering	Numeravimas
+	One-sided	Vienpusis
+	Open a document first	Pirmiausia atverkite dokumentą
+	Other:	Kita:
+	Outside Borders	Išorinės kraštinės
+	Page Breaks	Puslapių lūžiai
+	Page display	Puslapių rodymas
+	Page Number	Puslapio numeris
+	Page Setup	Puslapio sąranka
+	Page\nNumber	Puslapio\nnumeris
+	Paragraph…	Pastraipa…
+	Password:	Slaptažodis:
+	Paste (⌘V)	Įklijuoti (⌘V)
+	Paste Formatting	Įklijuoti formatavimą
+	Paste Special…	Specialusis įklijavimas…
+	People	Žmonės
+	Picture	Paveikslėlis
+	Picture Border	Paveikslėlio kraštinė
+	Picture Format	Paveikslėlio formatas
+	Pictures	Paveikslėliai
+	Pie	Skritulinė
+	Preset gradients	Iš anksto nustatyti gradientai
+	Previous Comment	Ankstesnis komentaras
+	Print failed: the printing worker stopped.	Spausdinti nepavyko: spausdinimo procesas sustojo.
+	Print failed: {error}	Spausdinti nepavyko: {error}
+	Print job submitted.	Spausdinimo užduotis išsiųsta.
+	Print job submitted: {receipt}	Spausdinimo užduotis išsiųsta: {receipt}
+	Printer default	Pagal spausdintuvą
+	Printer discovery failed.	Spausdintuvų aptikti nepavyko.
+	Promote	Paaukštinti
+	Record Macro	Įrašyti makrokomandą
+	Reflection	Atspindys
+	Refresh printers	Atnaujinti spausdintuvus
+	Remove from Quick Access Toolbar	Šalinti iš sparčiosios prieigos įrankių juostos
+	Replace All	Pakeisti visus
+	Replace text as you type	Keisti tekstą rašant
+	Replace with:	Pakeisti į:
+	Reset Picture	Atkurti paveikslėlį
+	Right Border	Dešinioji kraštinė
+	Right Margin	Dešinioji paraštė
+	Rotate Left 90°	Pasukti kairėn 90°
+	Rotate Right 90°	Pasukti dešinėn 90°
+	Rotate with shape	Sukti kartu su figūra
+	Rules	Taisyklės
+	Scatter	Taškinė
+	Script	Scenarijus
+	Scroll ribbon left	Slinkti juostelę kairėn
+	Scroll ribbon right	Slinkti juostelę dešinėn
+	Search Commands	Ieškoti komandų
+	Search icons	Ieškoti piktogramų
+	Select a printer	Pasirinkite spausdintuvą
+	Shading	Šešėliavimas
+	Shape Fill	Figūros užpildas
+	Shape Format	Figūros formatas
+	Shape Outline	Figūros kontūras
+	Show\nComments	Rodyti\nkomentarus
+	Single	Viengubas
+	SmartArt Design	SmartArt dizainas
+	SmartArt Styles	SmartArt stiliai
+	Soft Edges	Švelnūs kraštai
+	Space	Tarpas
+	Spacing (pt):	Tarpai (pt):
+	Stacked Bar	Sudėtinė juosta
+	Stacked Column	Sudėtinis stulpelis
+	Standard Colors	Standartinės spalvos
+	Submitting print job…	Siunčiama spausdinimo užduotis…
+	Sum	Suma
+	Table Design	Lentelės dizainas
+	Table Styles	Lentelių stiliai
+	Tabs…	Tabuliavimas…
+	Text Box	Teksto laukas
+	Text Direction	Teksto kryptis
+	Text Effects	Teksto efektai
+	Text Fill	Teksto užpildas
+	Text Highlight Color	Teksto paryškinimo spalva
+	Text Outline	Teksto kontūras
+	Text\nBox	Teksto\nlaukas
+	Theme Colors	Temos spalvos
+	Themes	Temos
+	Then by	Tada pagal
+	Thesaurus	Tezauras
+	Thick	Storas
+	Title:	Pavadinimas:
+	To:	Kam:
+	Today	Šiandien
+	Top Border	Viršutinė kraštinė
+	Top Margin	Viršutinė paraštė
+	Total Row	Sumų eilutė
+	Tue	An
+	Two-sided printing	Dvipusis spausdinimas
+	Two-sided: long edge	Dvipusis: ilgasis kraštas
+	Two-sided: short edge	Dvipusis: trumpasis kraštas
+	Use system setting	Naudoti sistemos nuostatą
+	Volume	Garsumas
+	Wed	Tr
+	Wide	Platus
+	With:	Su:
+	Wrap Text	Laužyti tekstą
+	Year	Metai
+	Check	Varnelė
+	Product	Sandauga
+	Strong	Stiprus
+	Bookmarks	Žymelės
+	Page number	Puslapio numeris
+	Thin	Plonas
