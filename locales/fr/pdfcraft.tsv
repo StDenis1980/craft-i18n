@@ -4337,8 +4337,8 @@ review-suggestion	Replacement text	Texte de remplacement
 	 ({n} left as they are)	 ({n} laissés tels quels)
 	; 1 image downsampled	; 1 image sous-échantillonnée
 	; 1 signed file kept its images	; 1 fichier signé a conservé ses images
-	; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A	; converti en {level}, mais tout n'est pas encore conforme ({first}) ; voir Appliquer les normes PDF ▸ Enregistrer au format PDF/A
-	; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)	; pas encore PDF/A : {list} (ouvrez-les dans Appliquer les normes PDF ▸ Enregistrer au format PDF/A)
+	; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A	; converti en {level}, mais tout n'est pas encore conforme ({first}) ; voir Appliquer les normes PDF > Enregistrer au format PDF/A
+	; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)	; pas encore PDF/A : {list} (ouvrez-les dans Appliquer les normes PDF > Enregistrer au format PDF/A)
 	; not saved as {level}: {why}	; non enregistré en tant que {level} : {why}
 	; saved as {level}	; enregistré en tant que {level}
 	; the document is signed, so its images were left as they are	; le document est signé, ses images ont donc été laissées telles quelles
@@ -4364,7 +4364,7 @@ review-suggestion	Replacement text	Texte de remplacement
 	Drag a guide to move it. Drag it back onto a ruler, or off the page, to remove it.	Faites glisser un repère pour le déplacer. Faites-le glisser à nouveau vers une règle, ou hors de la page, pour le supprimer.
 	Drag from a ruler onto a page to place a guide: from the top ruler for a horizontal one, from the left ruler for a vertical one. Hold Shift as you drop it to put it on every page.	Faites glisser depuis une règle vers une page pour placer un repère : depuis la règle supérieure pour un repère horizontal, depuis la règle de gauche pour un repère vertical. Maintenez Maj en le déposant pour le placer sur toutes les pages.
 	Each set is a text file in	Chaque jeu est un fichier texte dans
-	Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes.	Chaque jeu est un fichier texte dans le dossier des jeux de repères (Préférences ▸ Unités et repères ▸ Ouvrir le dossier). Modifiez-le dans n'importe quel éditeur de texte, envoyez-le à d'autres, ou déposez les leurs dans le dossier, puis cliquez sur Recharger. Les distances sont mesurées à partir du bord que vous indiquez, de sorte qu'un jeu s'adapte à d'autres formats de page.
+	Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes.	Chaque jeu est un fichier texte dans le dossier des jeux de repères (Préférences > Unités et repères > Ouvrir le dossier). Modifiez-le dans n'importe quel éditeur de texte, envoyez-le à d'autres, ou déposez les leurs dans le dossier, puis cliquez sur Recharger. Les distances sont mesurées à partir du bord que vous indiquez, de sorte qu'un jeu s'adapte à d'autres formats de page.
 	Edge shadow removal	Suppression de l'ombre de bord
 	Edit in document	Modifier dans le document
 	Enhance	Améliorer
@@ -4396,7 +4396,7 @@ review-suggestion	Replacement text	Texte de remplacement
 	Millimetres	Millimètres
 	No guide set has the shortcut {n}	Aucun jeu de repères n'a le raccourci {n}
 	No saved sets yet	Aucun jeu enregistré pour le moment
-	No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or put a set file in the folder.	Aucun jeu enregistré pour le moment. Faites un clic droit sur une règle ▸ Enregistrer les repères en tant que jeu…, ou placez un fichier de jeu dans le dossier.
+	No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or put a set file in the folder.	Aucun jeu enregistré pour le moment. Faites un clic droit sur une règle > Enregistrer les repères en tant que jeu…, ou placez un fichier de jeu dans le dossier.
 	No scanned pages were cleaned up.	Aucune page numérisée n'a été nettoyée.
 	On every page	Sur toutes les pages
 	Open Units and guides	Ouvrir Unités et repères
@@ -4408,7 +4408,7 @@ review-suggestion	Replacement text	Texte de remplacement
 	Replace this document's guides with the set's, to move and change them	Remplacer les repères de ce document par ceux du jeu, pour les déplacer et les modifier
 	Restore defaults	Restaurer les paramètres par défaut
 	Right-click a guide for a colour, Properties… (colour, thickness, label, every page) and Delete. Double-click opens Properties too.	Faites un clic droit sur un repère pour une couleur, Propriétés… (couleur, épaisseur, étiquette, toutes les pages) et Supprimer. Un double-clic ouvre aussi Propriétés.
-	Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move.	Clic droit sur une règle ▸ Enregistrer les repères en tant que jeu… conserve les repères, l'unité et, si vous le souhaitez, la grille sous un nom et un raccourci. {first} … {last} affiche et masque un jeu sur n'importe quel document ; Modifier dans le document le retransforme en repères déplaçables.
+	Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move.	Clic droit sur une règle > Enregistrer les repères en tant que jeu… conserve les repères, l'unité et, si vous le souhaitez, la grille sous un nom et un raccourci. {first} … {last} affiche et masque un jeu sur n'importe quel document ; Modifier dans le document le retransforme en repères déplaçables.
 	Rulers, guides and grid	Règles, repères et grille
 	Save guides as a set	Enregistrer les repères en tant que jeu
 	Save guides as a set…	Enregistrer les repères en tant que jeu…
@@ -4418,7 +4418,7 @@ review-suggestion	Replacement text	Texte de remplacement
 	Show grid	Afficher la grille
 	Show guides	Afficher les repères
 	Snap to grid	Accrocher à la grille
-	Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides.	L'espacement, le décalage, les subdivisions, la couleur et l'épaisseur se trouvent dans Préférences ▸ Unités et repères.
+	Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides.	L'espacement, le décalage, les subdivisions, la couleur et l'épaisseur se trouvent dans Préférences > Unités et repères.
 	Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight	Redresse une page courbée, pliée ou photographiée de biais, de sorte que ses lignes de texte soient droites
 	The document changed while its text was being recognized, so nothing was added. Run Recognize text again.	Le document a été modifié pendant la reconnaissance du texte, donc rien n'a été ajouté. Relancez la reconnaissance de texte.
 	The edited text is set in {font} instead of its own font.	Le texte édité est en {font} au lieu de sa propre police.
@@ -4437,9 +4437,9 @@ review-suggestion	Replacement text	Texte de remplacement
 	Eye strain background: {mode} (click to cycle, right-click for tint settings)	Arrière-plan anti-fatigue oculaire : {mode} (cliquer pour changer, clic droit pour les paramètres de teinte)
 	Units and guides	Unités et repères
 	Use the default look	Utiliser l'apparence par défaut
-	View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it.	Affichage ▸ Grille ({grid}) dessine une grille sur les pages ; Affichage ▸ Accrocher à la grille ({snap}) accroche à la grille le repère que l'on fait glisser.
-	View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF.	Affichage ▸ Repères ({guides}) les masque ou les affiche ; Affichage ▸ Effacer les repères supprime les repères de ce document. Les repères ne sont jamais enregistrés dans le PDF.
-	View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one.	Affichage ▸ Règles ({rulers}) affiche une règle au-dessus et à côté des pages. Cliquez sur l'angle entre elles pour passer à l'unité suivante, ou faites un clic droit sur une règle pour en choisir une.
+	View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it.	Affichage > Grille ({grid}) dessine une grille sur les pages ; Affichage > Accrocher à la grille ({snap}) accroche à la grille le repère que l'on fait glisser.
+	View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF.	Affichage > Repères ({guides}) les masque ou les affiche ; Affichage > Effacer les repères supprime les repères de ce document. Les repères ne sont jamais enregistrés dans le PDF.
+	View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one.	Affichage > Règles ({rulers}) affiche une règle au-dessus et à côté des pages. Cliquez sur l'angle entre elles pour passer à l'unité suivante, ou faites un clic droit sur une règle pour en choisir une.
 	Warm Sepia	Sépia chaud
 	Width between lines	Espacement horizontal entre les lignes
 	With the control channel on, ui.state lists every guide (in the set format, and where it lies on screen) and the sets with their files and errors. ui.set document-guides <set as JSON or TOML> replaces the document's guides, guide-set <name>:on|off|toggle shows a set, guide-set-file <set> saves one, and guides, grid and snap-to-grid take on or off.	Avec le canal de contrôle activé, ui.state liste chaque repère (au format des jeux, avec sa position à l'écran) ainsi que les jeux avec leurs fichiers et leurs erreurs. ui.set document-guides <jeu en JSON ou TOML> remplace les repères du document, guide-set <name>:on|off|toggle affiche un jeu, guide-set-file <set> en enregistre un, et guides, grid et snap-to-grid prennent on ou off.
