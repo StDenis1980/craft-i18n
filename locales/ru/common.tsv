@@ -16,7 +16,9 @@
 	(none)	(нет)
 	1 file	1 файл
 	16 bit	16 бит
+	24 bit	24 бита
 	24 bits/pixel	24 бит/пиксел
+	32 bit	32 бита
 	32 bits/pixel	32 бит/пиксел
 	8 bit	8 бит
 	About	О программе
@@ -70,6 +72,7 @@
 	Anti-alias	Сглаживание
 	Any	Любое
 	Appearance	Внешний вид
+theme	Appearance	Оформление
 	Appearance Settings…	Настройки оформления…
 	Application	Приложение
 	Apply	Применить
@@ -132,6 +135,7 @@
 	Blur	Размытие
 	Blur Angle	Угол размытия
 	Bold	Полужирный
+	Border	Граница
 	Border Thickness	Толщина границ
 	Borders	Границы
 	Both	Оба
@@ -146,6 +150,7 @@
 	Bring Forward	Переместить вперёд
 	Bring to Front	На передний план
 	Brown	Коричневый
+	Browse	Обзор
 	Browse…	Обзор…
 	Brush Size	Размер кисти
 	Brush Strokes	Мазки кисти
@@ -158,6 +163,7 @@
 	Canvas	Холст
 	Caption	Подпись
 	Cascade	Каскад
+	Case Sensitive	С учётом регистра
 	Category	Категория
 	Category:	Категория:
 	Cell Size	Размер ячейки
@@ -180,6 +186,7 @@
 	Check for Updates	Проверить обновления
 	Check for updates	Проверить обновления
 	Check Spelling…	Проверить орфографию…
+	Checkerboard	Шахматная доска
 	Choose…	Выбрать…
 	Circle	Круг
 	City	Город
@@ -192,6 +199,7 @@
 	Clear Recent Files	Очистить список недавних файлов
 	Clipboard	Буфер обмена
 	Clipping Mask	Маска обрезки
+	Clone	Клонировать
 	Close	Закрыть
 	Close (Esc)	Закрыть (Esc)
 	Close All	Закрыть все
@@ -234,6 +242,7 @@
 	Compare	Сравнить
 	Comparison	Сравнение
 	Compatibility	Совместимость
+	Composite	Составной
 	Compression	Сжатие
 	Cone	Конус
 	Contains	Содержит
@@ -298,9 +307,11 @@
 	Delete Brush	Удалить кисть
 	Delete Group	Удалить группу
 	Delete Layer	Удалить слой
+	Delete Mask	Удалить маску
 	Delete Style	Удалить стиль
 	Delete Workspace	Удалить рабочую среду
 	Deleted	Удалено
+	Delete…	Удалить…
 	Depth	Глубина
 	Desaturate	Обесцветить
 	Descending	По убыванию
@@ -321,6 +332,7 @@
 	Digits	Цифры
 	Dimensions	Размеры
 	Direct Selection Tool	Инструмент «Прямое выделение»
+	Direction	Направление
 	Direction Balance	Баланс направления
 	Direction:	Направление:
 	Discard	Отменить
@@ -404,6 +416,7 @@
 	Export	Экспорт
 	Export As	Экспортировать как
 	Export As…	Экспортировать как…
+	Export Options	Параметры экспорта
 	Export PDF	Экспортировать PDF
 	Export to	Экспортировать в
 	Exported to {path}	Экспортировано в {path}
@@ -414,6 +427,7 @@
 	Extract	Извлечь
 	Eyedropper	Пипетка
 	Eyedropper Tool	Инструмент «Пипетка»
+	Faded Film	Выцветшая плёнка
 	Fast	Быстро
 	Favorites	Избранное
 	Feather	Растушёвка
@@ -422,9 +436,12 @@
 	Fields	Поля
 	Fields:	Поля:
 	File	Файл
+	File Format	Формат файла
 	File Handling	Работа с файлами
 	File Info…	Сведения о файле…
 	File Name	Имя файла
+	File Size	Размер файла
+@id	file.close	Закрыть
 	Files	Файлы
 	Fill	Заливка
 	Fill:	Заливка:
@@ -518,6 +535,7 @@
 	Height	Высота
 	Height:	Высота:
 	Help	Справка
+	Hexagon	Шестиугольник
 	Hidden	Скрытые
 	Hidden text	Скрытый текст
 	Hide	Скрыть
@@ -525,6 +543,7 @@
 	Hide Grid	Скрыть сетку
 	Hide Others	Скрыть остальные
 	High	Высокая
+	High Pass	Фильтр высоких частот
 	High Resolution	Высокое разрешение
 	High resolution	Высокое разрешение
 	Highlight Area	Область светов
@@ -614,8 +633,10 @@
 	Left Diagonal	Диагональ влево
 	Left to Right	Слева направо
 	Left:	Слева:
+	Legal	Legal
 	Length	Длина
 	Length:	Длина:
+	Lens Flare	Блик объектива
 	Less	Меньше
 	Letter	Letter
 	Level	Уровень
@@ -634,9 +655,11 @@
 	Light gray	Светло-серая
 	Light Intensity	Интенсивность света
 	Light Theme	Светлая тема
+	Light Type	Тип источника света
 	Lighten	Замена светлым
 	Lighter Color	Замена светлым
 	Lighting	Освещение
+	Lighting Effects	Эффекты освещения
 	Lightness	Светлота
 	Line	Линия
 	Line delta	Разница строк
@@ -671,6 +694,7 @@
 	Magnification	Масштаб
 	Margins	Поля
 	Mask	Маска
+	Masks	Маски
 	Matte	Мат
 	Maximize	Развернуть
 	Maximum	Максимум
@@ -711,6 +735,7 @@
 	Mono	Моно
 	Monochrome	Монохром
 	More	Больше
+	Mosaic	Мозаика
 	Mosaic Tiles	Мозаичные фрагменты
 	Motion	Motion
 	Move	Переместить
@@ -765,6 +790,7 @@
 	NTSC Colors	Цвета NTSC
 	Number	Количество
 	Object	Объект
+	Octagon	Восьмиугольник
 	Odd Fields	Нечётные поля
 	Odd pages only	Только нечётные страницы
 	Off	Выключено
@@ -804,6 +830,7 @@
 	Page {page} of {pages}	Страница {page} из {pages}
 	Pages	Страницы
 	Painting	Живопись
+	Panel	Панель
 	Panel menu	Меню панели
 	Panel Options…	Параметры панели…
 	Panels	Панели
@@ -824,6 +851,7 @@
 	Pen Tool	Инструмент «Перо»
 	Pencil	Карандаш
 	Pencil Tool	Инструмент «Карандаш»
+	Pentagon	Пятиугольник
 	Percent	Проценты
 	Percentage	Процент
 	Performance	Производительность
@@ -858,8 +886,10 @@
 	Preferences	Настройки
 	Preferences…	Настройки…
 	Prefix	Префикс
+	Preserve	Сохранять
 	Preserve Luminosity	Сохранять светлоту
 	Preset	Набор
+	Preset Manager	Управление наборами
 	Preset:	Набор:
 	Presets	Наборы
 	Presets:	Наборы:
@@ -875,6 +905,7 @@
 	Printer:	Принтер:
 	Printing	Печать
 	Print…	Печать…
+	Profile	Профиль
 	Progressive	Прогрессивный
 	Proof Setup	Настройка цветопробы
 	Properties	Свойства
@@ -909,7 +940,9 @@
 	Rectangular	Прямоугольная
 	Red	Красный
 	Redo	Вернуть
+	Reduce Noise	Уменьшить шум
 	Refine	Уточнение
+	Reflected	Зеркальный
 	Refresh	Обновить
 	Regular	Обычный
 	Relative	Относительно
@@ -964,6 +997,7 @@
 	Rulers	Линейки
 	Rulers & Grids	Линейки и сетки
 	Russian	Русский
+	Sample Size	Размер образца
 	Sandstone	Песчаник
 	Saturation	Насыщенность
 	Save	Сохранить
@@ -1055,6 +1089,7 @@
 	Snap to Grid	Привязать к сетке
 	Soft	Мягкий
 	Soft Light	Мягкий свет
+	Soften	Смягчить
 	Softness	Мягкость
 	Solarize	Соляризация
 	Sort	Сортировка
@@ -1070,6 +1105,7 @@
 	Speckle	Крапинки
 	Speed	Скорость
 	Spelling	Орфография
+	Spherize	Сферизация
 	Split	Разделить
 	Spot Color	Плашечный цвет
 	Spray Radius	Радиус распыления
@@ -1119,6 +1155,7 @@
 	Table	Таблица
 	Table style	Стиль таблицы
 	Tables	Таблицы
+	Tabloid	Tabloid
 	Tabs	Табуляции
 	Taper	Сужение
 	Target	Объект
@@ -1142,6 +1179,7 @@
 	Timecode	Таймкод
 	Timeline	Шкала времени
 	Tint	Оттенок
+	Tint Color	Цвет оттенка
 	Title	Заголовок
 	Tolerance	Допуск
 	Tolerance:	Допуск:
@@ -1161,6 +1199,7 @@
 	Transparent	Прозрачный
 	Trap…	Треппинг…
 	Triangle	Треугольник
+	Turbulent	Турбулентный
 	Twirl	Закручивание
 	Twist	Закручивание
 	Type	Тип
@@ -1206,6 +1245,7 @@
 	Vivid Light	Яркий свет
 	Voice	Голос
 	W:	Ш:
+	Warning	Предупреждение
 	Warnings	Предупреждения
 	Warp	Деформация
 	Watermark	Подложка
@@ -1217,6 +1257,7 @@
 	Wet	Влага
 	White	Белый
 	White Intensity	Интенсивность белого
+	White Is High	Белые области выше
 	Whites	Белые
 	Width	Ширина
 	Width and Height	Ширина и высота
@@ -1239,12 +1280,21 @@
 	Zoom Out	Уменьшить
 	Zoom out	Уменьшить
 	Zoom Tool	Инструмент «Масштаб»
+unit	{n} B	{n} Б
 @plural	{n} commit|{n} commits	{n} коммит|{n} коммита|{n} коммитов
 	{n} files	{n} файлов
+unit	{n} GB	{n} ГБ
+unit	{n} GiB	{n} ГиБ
 	{n} h ago	{n} ч назад
 @plural	{n} item|{n} items	{n} элемент|{n} элемента|{n} элементов
+unit	{n} KB	{n} КБ
+unit	{n} KiB	{n} КиБ
 @plural	{n} Layer|{n} Layers	{n} слой|{n} слоя|{n} слоёв
+unit	{n} MB	{n} МБ
+unit	{n} MiB	{n} МиБ
 	{n} min ago	{n} мин назад
 @plural	{n} step|{n} steps	{n} шаг|{n} шага|{n} шагов
+unit	{n} TB	{n} ТБ
+unit	{n} TiB	{n} ТиБ
 	−Bin	−двоич.
 	● Recording	● Запись

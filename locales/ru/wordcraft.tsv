@@ -133,6 +133,7 @@
 	All Borders	Все границы
 	All caps	Все прописные
 	All Commands	Все команды
+	All documents based on the Normal template?	Всех документов на основе шаблона «Обычный»?
 	All Fonts	Все шрифты
 	All Levels	Все уровни
 	All Markup	Все исправления
@@ -294,13 +295,14 @@
 	By author	По автору
 	Calendar	Календарь
 	Can't be deleted	Нельзя удалять
-	Can't find a command? Press Alt+Q and type what you want to do.	Не можете найти команду? Нажмите Alt+Q и напишите, что хотите сделать.
+	Can't find a command? Press {key} and type what you want to do.	Не можете найти команду? Нажмите {key} и напишите, что хотите сделать.
 	can't split at the first row	нельзя разделить таблицу по первой строке
 	Canvas Member	Элемент полотна
 	Capitalize Each Word	Каждое Слово С Прописной
 	Capitalize first letter of sentences	Делать первые буквы предложений прописными
 	Capitalize first letter of table cells	Делать первые буквы ячеек таблиц прописными
 	Capitalize names of days	Названия дней с прописной буквы
+	Capitalize the first word of a sentence	Начните предложение с прописной буквы
 	Caption Numbering	Нумерация названий
 	Caption text	Текст названия
 	Caption:	Название:
@@ -338,6 +340,10 @@
 	Change to Level 3	Перейти на уровень 3
 	Change to Level 4	Перейти на уровень 4
 	Change to Level 5	Перейти на уровень 5
+	Change to Level 6	Перейти на уровень 6
+	Change to Level 7	Перейти на уровень 7
+	Change to Level 8	Перейти на уровень 8
+	Change to Level 9	Перейти на уровень 9
 	Change\nChart Type	Изменить\nтип диаграммы
 	Change\nColors	Изменить\nцвета
 	Changed lines:	Изменённые строки:
@@ -509,10 +515,10 @@
 	Croatian	Хорватский
 	Cross-reference	Перекрёстная ссылка
 	Cross-reference:	Перекрёстная ссылка:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter начинает новую страницу. Гораздо аккуратнее, чем жать Enter, пока она не появится.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H находит и заменяет текст, форматирование и специальные знаки.
-	Ctrl+K turns the selected text into a link.	Ctrl+K превращает выделенный текст в ссылку.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G считает слова, знаки и абзацы.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} начинает новую страницу. Гораздо аккуратнее, чем жать Enter, пока она не появится.
+	{key} finds and replaces text, formatting and special characters.	{key} находит и заменяет текст, форматирование и специальные знаки.
+	{key} turns the selected text into a link.	{key} превращает выделенный текст в ссылку.
+	{key} counts your words, characters and paragraphs.	{key} считает слова, знаки и абзацы.
 	Cube Root	Кубический корень
 	Current - Linear	Текущее — линейный вид
 	Current - Professional	Текущее — профессиональный вид
@@ -552,6 +558,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Декоративные объекты лишь украшают документ: программы чтения с экрана их пропускают.
 	Decrease Indent	Уменьшить отступ
 	Deep	Глубокий
+	Default formatting	Форматирование по умолчанию
 	Default Paragraph Font	Шрифт абзаца по умолчанию
 	Default tab stops:	Табуляция по умолчанию:
 	Define New Bullet	Определить новый маркер
@@ -602,7 +609,6 @@
 	Differential y	Дифференциал y
 	Differentials	Дифференциалы
 	Direct formatting	Прямое форматирование
-	Direction	Направление
 	Directory	Каталог
 	Discord community	Сообщество в Discord
 	Display for Review	Отображение исправлений
@@ -733,6 +739,7 @@
 	Engrave	Утопленный
 	Enlarge symbol	Увеличить символ
 	Enter a number.	Введите число.
+	Enter bookmark name:	Введите имя закладки:
 	Enter formatting for number:	Формат номера:
 	Enter in Equation	Новая строка в уравнении
 	Enter page number:	Введите номер страницы:
@@ -777,8 +784,9 @@
 	Export PDF	Экспорт в PDF
 	Extend Selection	Расширить выделение
 	Extend Selection by Units	Расширить выделение по единицам
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повторяет последнее действие. Оформить десять заголовков — теперь один щелчок и девять нажатий.
-	F7 checks the spelling and grammar of the whole document.	F7 проверяет орфографию и грамматику во всём документе.
+	Extra space	Лишний пробел
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повторяет последнее действие. Оформить десять заголовков — теперь один щелчок и девять нажатий.
+	{key} checks the spelling and grammar of the whole document.	{key} проверяет орфографию и грамматику во всём документе.
 	Faster: {command} is {key} on the keyboard.	Быстрее: {command} — это {key} на клавиатуре.
 	Field code:	Код поля:
 	Field Codes	Коды полей
@@ -805,6 +813,7 @@
 	Find What Expression	Найденное выражение
 	Find What Text	Текст для поиска
 	Find what:	Найти:
+	Find “{text}” in the document	Найти «{text}» в документе
 	Finding printers…	Поиск принтеров…
 	Finish & Merge	Завершить и объединить
 	Finish &\nMerge	Завершить\nи объединить
@@ -846,6 +855,7 @@
 	Formatting at Selection	Форматирование выделенного фрагмента
 	Formatting exceptions	Исключения форматирования
 	Formatting marks	Знаки форматирования
+	Formatting saved for new documents:	Форматирование, сохранённое для новых документов:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Сравниваются форматирование, регистр, пробелы и таблицы; остальные параметры сохраняются на будущее.
 	Formula	Формула
 	Formula:	Формула:
@@ -882,6 +892,8 @@
 	Good afternoon	Добрый день
 	Good evening	Добрый вечер
 	Good morning	Доброе утро
+	GOST (name sort)	ГОСТ (сортировка по автору)
+	GOST (title sort)	ГОСТ (сортировка по названию)
 	Grab bag	Разное
 	Gradient fill	Градиентная заливка
 	Gradient stops	Точки градиента
@@ -1086,11 +1098,14 @@
 	Ionosphere	Ионосфера
 	Is blank	Пусто
 	Is not blank	Не пусто
+	ISO 690 (author-date)	ISO 690 (автор, дата)
+	ISO 690 (numerical)	ISO 690 (числовой)
 	Issue	Выпуск
 	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Похоже, вы пишете письмо. Подготовить для него конверт или начать с шаблона письма?
 	Join the ArtCraft community on Discord	Присоединяйтесь к сообществу ArtCraft в Discord
 	Join us on Discord: discord.gg/artcraft	Присоединяйтесь к нам в Discord: discord.gg/artcraft
 	Journal	Журнал
+	Journal article	Статья в журнале
 	Justification	Выравнивание
 	Justification of a display equation	Выравнивание отдельного уравнения
 	Justified	По ширине
@@ -1322,6 +1337,14 @@
 	Negated Relations	Отрицания отношений
 	New Comment	Новый комментарий
 	New comments and tracked changes are recorded under this name and these initials.	Новые примечания и исправления записываются под этим именем и инициалами.
+	New Documents Based on This Template	В новых документах на основе этого шаблона
+	New documents based on this template	В новых документах на основе этого шаблона
+	New documents will use this font.	Новые документы будут использовать этот шрифт.
+	New documents will use this page setup.	Новые документы будут использовать эти параметры страницы.
+	New documents will use this paragraph formatting.	Новые документы будут использовать это форматирование абзаца.
+	New documents will use this style.	Новые документы будут использовать этот стиль.
+	New documents will use WordCraft's built-in formatting.	Новые документы будут использовать встроенное форматирование WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новые документы будут использовать встроенное форматирование WordCraft. Сохранённые параметры по умолчанию нельзя будет восстановить. Сбросить?
 	New Drawing Canvas	Новое полотно для рисования
 	New Entry	Новая запись
 	New Group	Создать группу
@@ -1450,6 +1473,7 @@
 	Only for the selected text	Только для выделенного текста
 	Only form fields can be filled in.	Можно заполнять только поля форм.
 	only in Outline view	только в режиме структуры
+	Only in this document	Только в этом документе
 	Only the allowed styles can be applied.	Можно применять только разрешённые стили.
 	Only web (http, https) and email (mailto) links can be followed	Переходить можно только по веб-ссылкам (http, https) и ссылкам на электронную почту (mailto)
 	Open a document first	Сначала откройте документ
@@ -1699,7 +1723,16 @@
 	Remove Space After Paragraph	Удалить интервал после абзаца
 	Remove Table of Contents	Удалить оглавление
 	Remove the control once edited	Удалить элемент управления после редактирования
+	Remove the space before the punctuation	Удалить пробел перед знаком препинания
 	Remove Watermark	Удалить подложку
+	No watermark	Без подложки
+	Picture watermark	Подложка-рисунок
+	Text watermark	Текстовая подложка
+	Select Picture…	Выбрать рисунок…
+	Washout	Выцветший
+	Semitransparent	Полупрозрачный
+	Transparency:	Прозрачность:
+	Select a picture first.	Сначала выберите рисунок.
 	Rename Document	Переименовать документ
 	Reopen	Открыть снова
 	Repeat as header row on each page	Повторять как заголовок на каждой странице
@@ -1717,6 +1750,7 @@
 	Reset All…	Сбросить все…
 	Reset Character Formatting	Сбросить форматирование символов
 	Reset Crop	Сбросить обрезку
+	Reset Default Formatting	Сброс форматирования по умолчанию
 	Reset Graphic	Сбросить графический элемент
 	Reset Paragraph Formatting	Сбросить форматирование абзаца
 	Reset Picture	Сбросить рисунок
@@ -1821,6 +1855,7 @@
 	select a picture first	сначала выделите рисунок
 	select a picture or shape first	сначала выделите рисунок или фигуру
 	Select a picture, shape, chart or table to describe it.	Выберите рисунок, фигуру, диаграмму или таблицу, чтобы описать её.
+	Select a place in this document:	Выберите место в документе:
 	Select a printer	Выберите принтер
 	select a shape first	сначала выделите фигуру
 	Select a shape, text box or drawing canvas to format its fill.	Выберите фигуру, надпись или полотно, чтобы настроить заливку.
@@ -1864,6 +1899,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Использовать по умолчанию
 	Set as Default	Использовать по умолчанию
+	Set As Default (Font)	Использовать по умолчанию (Шрифт)
+	Set As Default (Page Setup)	Использовать по умолчанию (Параметры страницы)
+	Set As Default (Paragraph)	Использовать по умолчанию (Абзац)
 	Set Caret	Установить курсор
 	Set Character Formatting	Задать формат знаков
 	Set Date	Задать дату
@@ -1879,7 +1917,7 @@
 	Shape Format	Формат фигуры
 	Shape Outline	Контур фигуры
 	Shape Styles	Стили фигур
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter начинает новую строку, не начиная новый абзац.
+	{key} starts a new line without starting a new paragraph.	{key} начинает новую строку, не начиная новый абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Транспортные наклейки
 	Shortcut key:	Сочетание клавиш:
@@ -1926,7 +1964,7 @@
 	Show the Start screen when WordCraft starts	Показывать начальный экран при запуске WordCraft
 	Show the tips you asked not to see again.	Снова показывать советы, которые вы скрыли.
 	Show/Hide ¶	Показать/скрыть ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Показать/скрыть ¶ (Ctrl+Shift+8) показывает пробелы, табуляции и разрывы, которые прячутся в тексте.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показать/скрыть ¶ ({key}) показывает пробелы, табуляции и разрывы, которые прячутся в тексте.
 	Show\nComments	Показать\nкомментарии
 	Showing the first {count} items.	Показаны первые элементы: {count}.
 	Shows a tree: each item below the item it belongs to.	Показывает дерево: каждый элемент находится под тем, к которому относится.
@@ -2151,6 +2189,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не помещаются на странице такого размера; сначала уменьшите поля.
 	The measurement must be between {min} and {max}.	Размер должен быть от {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новый стиль получит форматирование текущего абзаца.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Не удалось прочитать шаблон «Обычный», поэтому в этом документе используется встроенное форматирование WordCraft.
 	The number must be between 1 and {max}.	Число должно быть от 1 до {max}.
 	the paragraph is empty	абзац пуст
 	the paragraph starts with a space	абзац начинается с пробела
@@ -2158,6 +2197,7 @@
 	The password is removed. Save the document to keep the change.	Пароль убран. Сохраните документ, чтобы изменение осталось.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Принтер, двусторонняя печать и число страниц на листе выбираются в этом диалоге.
 	The recipient-list field that fills each part of an address block and greeting line.	Поле списка получателей, которое заполняет каждую часть блока адреса и строки приветствия.
+	The spelling and grammar check is complete.	Проверка правописания завершена.
 	the Spike is empty	копилка пуста
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Системное диалоговое окно выбора файлов недоступно, поэтому WordCraft показывает собственное. Чтобы пользоваться системным, установите портал выбора файлов (например, xdg-desktop-portal-gtk) или zenity.
 	The text at the insertion point is marked Do not check spelling or grammar.	Текст в точке вставки помечен: Не проверять орфографию и грамматику.
@@ -2178,6 +2218,7 @@
 	Thick	Толстый
 	this chart was made in another program: WordCraft shows it but can't edit it	эта диаграмма создана в другой программе: WordCraft показывает её, но не может изменить
 	This document	Этот документ
+	This document only?	Только этого документа?
 	This field has no options.	У этого поля нет параметров.
 	This folder can't be read: {error}	Не удаётся прочитать папку: {error}
 	This font has no characters to show.	В этом шрифте нет знаков для показа.
@@ -2186,6 +2227,8 @@
 	This password type isn't supported.	Этот тип пароля не поддерживается.
 	This point forward	До конца документа
 	This section	К этому разделу
+	this session has no Normal template (headless or without preferences)	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек): используйте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	этот SmartArt создан в другой программе: WordCraft показывает его, но не может изменить
 	this text box is already linked: break the link first	это текстовое поле уже связано: сначала разорвите связь
 	Three	Три
@@ -2213,6 +2256,7 @@ preview	Title	Пример
 	Top Left Cell	Левая верхняя ячейка
 	Top Margin	Верхнее поле
 	Top of Page	Вверху страницы
+	Top of the Document	Начало документа
 	Top Right Cell	Правая верхняя ячейка
 	Total Row	Строка итогов
 	Track Changes	Отслеживать изменения
@@ -2245,6 +2289,7 @@ preview	Title	Пример
 	Type +2 or -1 to move from the page you are on.	Введите +2 или -1, чтобы перейти на столько страниц от текущей.
 	Type a command, e.g. "insert table"	Введите команду, например «вставить таблицу»
 	Type a New List…	Ввести новый список…
+	Type a page number, or +2 / -1.	Введите номер страницы или +2 / -1.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Введите размер в любых единицах, например 5 cm или 300 px. Другая сторона изменится вместе с ней, и рисунок сохранит пропорции.
 	Type at least one recipient.	Введите хотя бы одного получателя.
 	Type Character Code	Ввести код символа
@@ -2295,10 +2340,14 @@ preview	Title	Пример
 	UPPERCASE	ВСЕ ПРОПИСНЫЕ
 	URGENT	СРОЧНО!
 	URL	URL
+	Use "a" before a consonant sound	Перед согласным звуком используйте "a"
+	Use "an" before a vowel sound	Перед гласным звуком используйте "an"
 	Use an Existing List…	Использовать существующий список…
 	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
+	Use the current style set and theme for all new documents?	Использовать текущий набор стилей и тему для всех новых документов?
 	Use the Insert key to switch overtype on and off	Клавиша Insert включает и выключает режим замены
+	Use this formatting as the default for:	Использовать это форматирование по умолчанию для:
 	Use wildcards	Подстановочные знаки
 	User Name	Имя пользователя
 	User name:	Имя пользователя:
@@ -2320,6 +2369,7 @@ preview	Title	Пример
 	Volume Integral	Объёмный интеграл
 	Volume Integral with Limits	Объёмный интеграл с пределами
 	Volume Integral with Stacked Limits	Объёмный интеграл с пределами сверху и снизу
+	Wait for the print job to finish submitting before closing.	Дождитесь окончания отправки задания на печать, прежде чем закрывать.
 	Waiting for the save to finish…	Ожидание завершения сохранения…
 	Waiting for Zotero…	Ожидание Zotero…
 	Warm Gradient with Outline	Тёплый градиент с контуром
@@ -2413,3 +2463,121 @@ preview	Title	Пример
 	{words} words. That's {words} more than I've written today.	Слов: {words}. Это на {words} больше, чем я написал сегодня.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+	Add a language…	Добавить язык…
+	Add a language	Добавить язык
+	Your languages	Ваши языки
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Английский, языки этого документа и каждый установленный языковой пакет. Языковые пакеты добавляют орфографические словари и переносы.
+	Set as default	Сделать языком по умолчанию
+	New blank documents are written in this language	Новые пустые документы пишутся на этом языке
+	{language} (default)	{language} (по умолчанию)
+	Built in	Встроенный
+	Your own dictionary	Ваш собственный словарь
+	System dictionary	Системный словарь
+	Not available yet	Пока недоступен
+	Grammar built in	Грамматика встроена
+	Install spelling ({size})	Установить орфографию ({size})
+	Its dictionary couldn't be read: {reason}	Не удалось прочитать его словарь: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Загрузка отключена. Щелчок по «Добавить язык…» или «Установить» включает её: тогда WordCraft скачивает языковые пакеты и шрифты с GitHub.
+	Search:	Поиск:
+	Dutch, Nederlands or nl	Нидерландский, Nederlands или nl
+	No languages to show yet.	Пока нет языков для показа.
+	No language matches your search.	Ни один язык не соответствует запросу.
+	An installed Language pack is used after this folder.	Установленный языковой пакет используется после этой папки.
+	Dictionary files	Файлы словарей
+	Gets the list of Language packs, then this language's pack if there is one.	Получает список языковых пакетов, затем пакет этого языка, если он есть.
+	Afrikaans	Африкаанс
+	Belarusian	Белорусский
+	Bulgarian	Болгарский
+	Bosnian	Боснийский
+	Catalan	Каталанский
+	Catalan (Valencian)	Каталанский (валенсийский)
+	Welsh	Валлийский
+	Esperanto	Эсперанто
+	Persian	Персидский
+	Irish	Ирландский
+	Galician	Галисийский
+	Hungarian	Венгерский
+	Armenian	Армянский
+	Icelandic	Исландский
+	Georgian	Грузинский
+	Lithuanian	Литовский
+	Latvian	Латышский
+	Macedonian	Македонский
+	Norwegian (Nynorsk)	Норвежский (нюнорск)
+	Slovak	Словацкий
+	Slovenian	Словенский
+	Albanian	Албанский
+	Swahili	Суахили
+	Tamil	Тамильский
+	Thai	Тайский
+	Vietnamese	Вьетнамский
+	Set as Default Language	Сделать языком по умолчанию
+	U.A.E.	ОАЭ
+	Angola	Ангола
+	Argentina	Аргентина
+	Austria	Австрия
+	Australia	Австралия
+	Bosnia and Herzegovina	Босния и Герцеговина
+	Belgium	Бельгия
+	Bolivia	Боливия
+	Brazil	Бразилия
+	Belarus	Беларусь
+	Canada	Канада
+	Switzerland	Швейцария
+	Chile	Чили
+	China	Китай
+	Colombia	Колумбия
+	Costa Rica	Коста-Рика
+	Cuba	Куба
+	Cabo Verde	Кабо-Верде
+	Cyprus	Кипр
+	Germany	Германия
+	Dominican Republic	Доминиканская Республика
+	Ecuador	Эквадор
+	Egypt	Египет
+	Spain	Испания
+	Finland	Финляндия
+	France	Франция
+	United Kingdom	Великобритания
+	Equatorial Guinea	Экваториальная Гвинея
+	Guatemala	Гватемала
+	Hong Kong SAR	САР Гонконг
+	Honduras	Гондурас
+	Ireland	Ирландия
+	India	Индия
+	Iraq	Ирак
+	Italy	Италия
+	Jamaica	Ямайка
+	Jordan	Иордания
+	Kuwait	Кувейт
+	Kazakhstan	Казахстан
+	Lebanon	Ливан
+	Liechtenstein	Лихтенштейн
+	Luxembourg	Люксембург
+	Morocco	Марокко
+	Monaco	Монако
+	Montenegro	Черногория
+	Macao SAR	САР Макао
+	Mexico	Мексика
+	Malaysia	Малайзия
+	Mozambique	Мозамбик
+	Nicaragua	Никарагуа
+	Netherlands	Нидерланды
+	New Zealand	Новая Зеландия
+	Panama	Панама
+	Peru	Перу
+	Philippines	Филиппины
+	Puerto Rico	Пуэрто-Рико
+	Portugal	Португалия
+	Paraguay	Парагвай
+	Qatar	Катар
+	Russia	Россия
+	Singapore	Сингапур
+	El Salvador	Сальвадор
+	Syria	Сирия
+	Taiwan	Тайвань
+	Ukraine	Украина
+	United States	Соединённые Штаты
+	Uruguay	Уругвай
+	Venezuela	Венесуэла
+	South Africa	Южная Африка

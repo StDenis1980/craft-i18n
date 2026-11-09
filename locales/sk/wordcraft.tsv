@@ -148,6 +148,7 @@
 	All Caps	Všetky veľké písmená
 	All caps	Všetky veľké písmená
 	All Commands	Všetky príkazy
+	All documents based on the Normal template?	Všetky dokumenty založené na šablóne Normálne?
 	All files	Všetky súbory
 	All Fonts	Všetky písma
 	All Levels	Všetky úrovne
@@ -655,6 +656,7 @@ numerals	Context	Podľa okolitého textu
 	Decrease Indent	Zmenšiť odsadenie
 	Deep	Sýty
 	Default	Predvolené
+	Default formatting	Predvolené formátovanie
 	Default Paragraph Font	Predvolené písmo odseku
 	Default tab stops:	Predvolené zarážky tabulátora:
 	Define New Bullet	Definovať novú odrážku
@@ -1008,6 +1010,7 @@ numerals	Context	Podľa okolitého textu
 	Formatting at Selection	Formátovanie výberu
 	Formatting exceptions	Výnimky formátovania
 	Formatting marks	Formátovacie značky
+	Formatting saved for new documents:	Formátovanie uložené pre nové dokumenty:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porovnávajú sa formátovanie, zmeny veľkosti písmen, biele znaky a tabuľky; ostatné nastavenia sa zachovajú na neskôr.
 	Formula	Vzorec
 	Formula:	Vzorec:
@@ -1578,6 +1581,14 @@ template	Letter	List
 	New comments and tracked changes are recorded under this name and these initials.	Nové komentáre a sledované zmeny sa budú zaznamenávať pod týmto menom a týmito iniciálami.
 	New Document	Nový dokument
 	New document	Nový dokument
+	New Documents Based on This Template	Nové dokumenty založené na tejto šablóne
+	New documents based on this template	Nové dokumenty založené na tejto šablóne
+	New documents will use this font.	Nové dokumenty budú používať toto písmo.
+	New documents will use this page setup.	Nové dokumenty budú používať toto nastavenie strany.
+	New documents will use this paragraph formatting.	Nové dokumenty budú používať toto formátovanie odseku.
+	New documents will use this style.	Nové dokumenty budú používať tento štýl.
+	New documents will use WordCraft's built-in formatting.	Nové dokumenty budú používať vstavané formátovanie WordCraftu.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nové dokumenty budú používať vstavané formátovanie WordCraftu. Uložené predvolené nastavenia sa už nebudú dať vrátiť. Obnoviť?
 	New Drawing Canvas	Nové kresliace plátno
 	New Entry	Nová položka
 	New from Template	Nový zo šablóny
@@ -1726,6 +1737,7 @@ template	Letter	List
 	Only for the selected text	Iba pre vybraný text
 	Only form fields can be filled in.	Vyplniť možno len polia formulára.
 	only in Outline view	dostupné iba v zobrazení Osnova
+	Only in this document	Iba v tomto dokumente
 	Only label and number	Len označenie a číslo
 	Only the allowed styles can be applied.	Použiť možno len povolené štýly.
 	Only web (http, https) and email (mailto) links can be followed	Otvárať možno len webové odkazy (http, https) a e-mailové odkazy (mailto)
@@ -2055,6 +2067,7 @@ template	Letter	List
 	Reset All…	Obnoviť všetko…
 	Reset Character Formatting	Obnoviť formátovanie znakov
 	Reset Crop	Obnoviť orezanie
+	Reset Default Formatting	Obnoviť predvolené formátovanie
 	Reset Graphic	Obnoviť grafiku
 	Reset Paragraph Formatting	Obnoviť formátovanie odseku
 	Reset Picture	Obnoviť obrázok
@@ -2225,6 +2238,9 @@ template	Letter	List
 	Set	Nastaviť
 	Set As Default	Nastaviť ako predvolené
 	Set as Default	Nastaviť ako predvolené
+	Set As Default (Font)	Nastaviť ako predvolené (Písmo)
+	Set As Default (Page Setup)	Nastaviť ako predvolené (Nastavenie strany)
+	Set As Default (Paragraph)	Nastaviť ako predvolené (Odsek)
 	Set Caret	Nastaviť kurzor
 	Set Character Formatting	Nastaviť formátovanie znakov
 	Set Date	Nastaviť dátum
@@ -2553,6 +2569,7 @@ numerals	System	Podľa systému
 	The margins don't fit on a page this size; make the margins smaller first.	Okraje sa na stranu tejto veľkosti nezmestia; najprv ich zmenšite.
 	The measurement must be between {min} and {max}.	Rozmer musí byť od {min} do {max}.
 	The new style takes the formatting of the current paragraph.	Nový štýl prevezme formátovanie aktuálneho odseku.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Šablónu Normálne sa nepodarilo prečítať, preto tento dokument používa vstavané formátovanie WordCraftu.
 	The number must be a divisor of {max}.	Číslo musí byť deliteľom čísla {max}.
 	The number must be between 1 and {max}.	Číslo musí byť od 1 do {max}.
 	the paragraph is empty	odsek je prázdny
@@ -2588,6 +2605,7 @@ numerals	System	Podľa systému
 	this chart was made in another program: WordCraft shows it but can't edit it	tento graf bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
 	This document	Tento dokument
 	This document has no bookmarks.	Tento dokument nemá žiadne záložky.
+	This document only?	Iba tento dokument?
 	This field has no options.	Toto pole nemá možnosti.
 	This folder can't be read: {error}	Tento priečinok sa nedá prečítať: {error}
 	This font has no characters to show.	Toto písmo neobsahuje žiadne znaky na zobrazenie.
@@ -2596,6 +2614,8 @@ numerals	System	Podľa systému
 	This password type isn't supported.	Tento typ hesla nie je podporovaný.
 	This point forward	Od tohto miesta ďalej
 	This section	Tento oddiel
+	this session has no Normal template (headless or without preferences)	táto relácia nemá šablónu Normálne (bez rozhrania alebo bez predvolieb)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	táto relácia nemá šablónu Normálne (bez rozhrania alebo bez predvolieb): použite "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	tento objekt SmartArt bol vytvorený v inom programe: WordCraft ho zobrazí, ale nemôže ho upraviť
 	this text box is already linked: break the link first	toto textové pole je už prepojené: najprv zrušte prepojenie
 	Three	Tri
@@ -2727,7 +2747,9 @@ preview	Title	Názov
 	Use an Existing List…	Použiť existujúci zoznam…
 	Use system setting	Použiť systémové nastavenie
 	Use the browser's full screen (F11)	Použiť režim celej obrazovky prehliadača (F11)
+	Use the current style set and theme for all new documents?	Použiť aktuálnu sadu štýlov a motív pre všetky nové dokumenty?
 	Use the Insert key to switch overtype on and off	Klávesom Insert zapínať a vypínať prepisovanie
+	Use this formatting as the default for:	Použiť toto formátovanie ako predvolené pre:
 	Use wildcards	Používať zástupné znaky
 	User Name	Meno používateľa
 	User name:	Meno používateľa:
@@ -2764,6 +2786,13 @@ preview	Title	Názov
 	Warnings ({n})	Upozornenia ({n})
 	Washout	Vyblednutie
 	Watermark	Vodotlač
+	No watermark	Bez vodotlače
+	Picture watermark	Obrázková vodotlač
+	Text watermark	Textová vodotlač
+	Select Picture…	Vybrať obrázok…
+	Semitransparent	Polopriehľadné
+	Transparency:	Priehľadnosť:
+	Select a picture first.	Najprv vyberte obrázok.
 	Wave	Vlna
 	Weather	Počasie
 	Web Layout	Webové rozloženie
@@ -2861,3 +2890,122 @@ preview	Title	Názov
 	✓ None	✓ Žiadne
 	➕ New comment	➕ Nový komentár
 	📂  Browse…	📂  Prehľadávať…
+	Add a language…	Pridať jazyk…
+	Add a language	Pridať jazyk
+	Your languages	Vaše jazyky
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Angličtina, jazyky tohto dokumentu a každý nainštalovaný jazykový balík. Jazykové balíky pridávajú slovníky pravopisu a delenie slov.
+	Set as default	Nastaviť ako predvolený
+	New blank documents are written in this language	Nové prázdne dokumenty sa píšu v tomto jazyku
+	{language} (default)	{language} (predvolený)
+	Built in	Zabudovaný
+	Your own dictionary	Váš vlastný slovník
+	System dictionary	Systémový slovník
+	Not available yet	Zatiaľ nie je k dispozícii
+	Grammar built in	Gramatika je zabudovaná
+	Install spelling ({size})	Nainštalovať pravopis ({size})
+	Its dictionary couldn't be read: {reason}	Jeho slovník sa nepodarilo prečítať: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Sťahovanie je vypnuté. Kliknutím na „Pridať jazyk…“ alebo „Nainštalovať“ sa zapne: WordCraft potom sťahuje jazykové balíky a písma z GitHubu.
+	Search:	Hľadať:
+	Dutch, Nederlands or nl	Holandčina, Nederlands alebo nl
+	No languages to show yet.	Zatiaľ nie sú k dispozícii žiadne jazyky.
+	No language matches your search.	Vášmu hľadaniu nezodpovedá žiadny jazyk.
+	An installed Language pack is used after this folder.	Nainštalovaný jazykový balík sa použije po tomto priečinku.
+	Dictionary files	Súbory slovníkov
+	Gets the list of Language packs, then this language's pack if there is one.	Načíta zoznam jazykových balíkov a potom balík tohto jazyka, ak existuje.
+	Afrikaans	afrikánčina
+	Belarusian	bieloruština
+	Bulgarian	bulharčina
+	Bosnian	bosniančina
+	Catalan	katalánčina
+	Catalan (Valencian)	katalánčina (valencijská)
+	Welsh	waleština
+	Esperanto	esperanto
+	Persian	perzština
+	Irish	írčina
+	Galician	haličština
+	Hungarian	maďarčina
+	Armenian	arménčina
+	Icelandic	islandčina
+	Georgian	gruzínčina
+	Lithuanian	litovčina
+	Latvian	lotyština
+	Macedonian	macedónčina
+	Norwegian (Nynorsk)	nórčina (nynorsk)
+	Romanian	rumunčina
+	Slovak	slovenčina
+	Slovenian	slovinčina
+	Albanian	albánčina
+	Swahili	svahilčina
+	Tamil	tamilčina
+	Thai	thajčina
+	Vietnamese	vietnamčina
+	Set as Default Language	Nastaviť ako predvolený jazyk
+	U.A.E.	Spojené arabské emiráty
+	Angola	Angola
+	Argentina	Argentína
+	Austria	Rakúsko
+	Australia	Austrália
+	Bosnia and Herzegovina	Bosna a Hercegovina
+	Belgium	Belgicko
+	Bolivia	Bolívia
+	Brazil	Brazília
+	Belarus	Bielorusko
+	Canada	Kanada
+	Switzerland	Švajčiarsko
+	Chile	Čile
+	China	Čína
+	Colombia	Kolumbia
+	Costa Rica	Kostarika
+	Cuba	Kuba
+	Cabo Verde	Kapverdy
+	Cyprus	Cyprus
+	Germany	Nemecko
+	Dominican Republic	Dominikánska republika
+	Ecuador	Ekvádor
+	Egypt	Egypt
+	Spain	Španielsko
+	Finland	Fínsko
+	France	Francúzsko
+	United Kingdom	Spojené kráľovstvo
+	Equatorial Guinea	Rovníková Guinea
+	Guatemala	Guatemala
+	Hong Kong SAR	OAO Hongkong
+	Honduras	Honduras
+	Ireland	Írsko
+	India	India
+	Iraq	Irak
+	Italy	Taliansko
+	Jamaica	Jamajka
+	Jordan	Jordánsko
+	Kuwait	Kuvajt
+	Kazakhstan	Kazachstan
+	Lebanon	Libanon
+	Liechtenstein	Lichtenštajnsko
+	Luxembourg	Luxembursko
+	Morocco	Maroko
+	Monaco	Monako
+	Montenegro	Čierna Hora
+	Macao SAR	OAO Macao
+	Mexico	Mexiko
+	Malaysia	Malajzia
+	Mozambique	Mozambik
+	Nicaragua	Nikaragua
+	Netherlands	Holandsko
+	New Zealand	Nový Zéland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Filipíny
+	Puerto Rico	Portoriko
+	Portugal	Portugalsko
+	Paraguay	Paraguaj
+	Qatar	Katar
+	Russia	Rusko
+	Singapore	Singapur
+	El Salvador	Salvádor
+	Syria	Sýria
+	Taiwan	Taiwan
+	Ukraine	Ukrajina
+	United States	Spojené štáty
+	Uruguay	Uruguaj
+	Venezuela	Venezuela
+	South Africa	Južná Afrika

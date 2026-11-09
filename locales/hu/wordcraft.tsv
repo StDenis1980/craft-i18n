@@ -133,6 +133,7 @@
 	All Borders	Minden szegély
 	All caps	Csupa nagybetű
 	All Commands	Összes parancs
+	All documents based on the Normal template?	Minden, a Normál sablonon alapuló dokumentumban?
 	All Fonts	Összes betűtípus
 	All Levels	Minden szint
 	All Markup	Minden jelölés
@@ -295,7 +296,7 @@
 	By author	Szerző szerint
 	Calendar	Naptár
 	Can't be deleted	Nem törölhető
-	Can't find a command? Press Alt+Q and type what you want to do.	Nem találsz egy parancsot? Nyomd meg az Alt+Q billentyűt, és írd be, mit szeretnél tenni.
+	Can't find a command? Press {key} and type what you want to do.	Nem találsz egy parancsot? Nyomd meg a(z) {key} billentyűt, és írd be, mit szeretnél tenni.
 	can't split at the first row	a táblázat nem osztható fel az első sornál
 	Canvas Member	Vászonelem
 	Capitalize Each Word	Minden Szó Nagy Kezdőbetűs
@@ -518,10 +519,10 @@
 	Croatian	Horvát
 	Cross-reference	Kereszthivatkozás
 	Cross-reference:	Kereszthivatkozás:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	A Ctrl+Enter új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik.
-	Ctrl+H finds and replaces text, formatting and special characters.	A Ctrl+H szöveget, formázást és speciális karaktereket keres és cserél.
-	Ctrl+K turns the selected text into a link.	A Ctrl+K linkké alakítja a kijelölt szöveget.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	A Ctrl+Shift+G megszámolja a szavaidat, karaktereidet és bekezdéseidet.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	A(z) {key} új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik.
+	{key} finds and replaces text, formatting and special characters.	A(z) {key} szöveget, formázást és speciális karaktereket keres és cserél.
+	{key} turns the selected text into a link.	A(z) {key} linkké alakítja a kijelölt szöveget.
+	{key} counts your words, characters and paragraphs.	A(z) {key} megszámolja a szavaidat, karaktereidet és bekezdéseidet.
 	Cube Root	Köbgyök
 	Current - Linear	Aktuális – lineáris
 	Current - Professional	Aktuális – kétdimenziós
@@ -561,6 +562,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket.
 	Decrease Indent	Behúzás csökkentése
 	Deep	Mély
+	Default formatting	Alapértelmezett formázás
 	Default Paragraph Font	Alapértelmezett bekezdésbetűtípus
 	Default tab stops:	Alapértelmezett tabulátortávolság:
 	Define New Bullet	Új felsorolásjel megadása
@@ -785,8 +787,8 @@
 	Extend Selection	Kijelölés bővítése
 	Extend Selection by Units	Kijelölés bővítése egységenként
 	Extra space	Felesleges szóköz
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	Az F4 megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás.
-	F7 checks the spelling and grammar of the whole document.	Az F7 ellenőrzi az egész dokumentum helyesírását és nyelvtanát.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	A(z) {key} megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás.
+	{key} checks the spelling and grammar of the whole document.	A(z) {key} ellenőrzi az egész dokumentum helyesírását és nyelvtanát.
 	Faster: {command} is {key} on the keyboard.	Gyorsabban megy: {command} billentyűparancsa {key}.
 	Field code:	Mezőkód:
 	Field Codes	Mezőkódok
@@ -854,6 +856,7 @@
 	Formatting at Selection	A kijelölés formázása
 	Formatting exceptions	Formázási kivételek
 	Formatting marks	Formázási jelek
+	Formatting saved for new documents:	Új dokumentumokhoz mentett formázás:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	A formázás, a kis- és nagybetű-változások, az üres karakterek és a táblázatok összevetése működik; a többi beállítás egyelőre csak megőrződik.
 	Formula	Képlet
 	Formula:	Képlet:
@@ -1343,6 +1346,14 @@
 	Negated Relations	Tagadott relációk
 	New Comment	Új megjegyzés
 	New comments and tracked changes are recorded under this name and these initials.	Az új megjegyzések és követett módosítások ezzel a névvel és monogrammal rögzülnek.
+	New Documents Based on This Template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents based on this template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents will use this font.	Az új dokumentumok ezt a betűtípust használják.
+	New documents will use this page setup.	Az új dokumentumok ezt az oldalbeállítást használják.
+	New documents will use this paragraph formatting.	Az új dokumentumok ezt a bekezdésformázást használják.
+	New documents will use this style.	Az új dokumentumok ezt a stílust használják.
+	New documents will use WordCraft's built-in formatting.	Az új dokumentumok a WordCraft beépített formázását használják.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Az új dokumentumok a WordCraft beépített formázását használják. A mentett alapértelmezések nem állíthatók helyre. Visszaállítod?
 	New Drawing Canvas	Új rajzvászon
 	New Entry	Új bejegyzés
 	New Label	Új címke
@@ -1470,6 +1481,7 @@
 	Only for the selected text	Csak a kijelölt szövegnél
 	Only form fields can be filled in.	Csak az űrlapmezők tölthetők ki.
 	only in Outline view	csak Vázlat nézetben
+	Only in this document	Csak ebben a dokumentumban
 	Only the allowed styles can be applied.	Csak az engedélyezett stílusok alkalmazhatók.
 	Only web (http, https) and email (mailto) links can be followed	Csak webes (http, https) és e-mail (mailto) link nyitható meg
 	Open a document first	Először nyisson meg egy dokumentumot
@@ -1720,6 +1732,14 @@
 	Remove the control once edited	A vezérlő eltávolítása szerkesztés után
 	Remove the space before the punctuation	Töröld az írásjel előtti szóközt
 	Remove Watermark	Vízjel eltávolítása
+	No watermark	Nincs vízjel
+	Picture watermark	Képvízjel
+	Text watermark	Szövegvízjel
+	Select Picture…	Kép kiválasztása…
+	Washout	Kifakult
+	Semitransparent	Félig átlátszó
+	Transparency:	Átlátszóság:
+	Select a picture first.	Előbb válasszon ki egy képet.
 	Rename Document	Dokumentum átnevezése
 	Reopen	Újbóli megnyitás
 	Repeat as header row on each page	Ismétlés fejlécsorként minden oldalon
@@ -1738,6 +1758,7 @@
 	Reset All…	Összes visszaállítása…
 	Reset Character Formatting	Karakterformázás visszaállítása
 	Reset Crop	Körülvágás visszaállítása
+	Reset Default Formatting	Alapértelmezett formázás visszaállítása
 	Reset Graphic	Ábra visszaállítása
 	Reset Paragraph Formatting	Bekezdésformázás visszaállítása
 	Reset Picture	Kép visszaállítása
@@ -1881,6 +1902,9 @@
 	Series name	Adatsor neve
 	Series {n}	Adatsor {n}
 	Set As Default	Beállítás alapértelmezettként
+	Set As Default (Font)	Beállítás alapértelmezettként (Betűtípus)
+	Set As Default (Page Setup)	Beállítás alapértelmezettként (Oldalbeállítás)
+	Set As Default (Paragraph)	Beállítás alapértelmezettként (Bekezdés)
 	Set Caret	Kurzor elhelyezése
 	Set Character Formatting	Karakterformázás beállítása
 	Set Date	Dátum beállítása
@@ -1895,7 +1919,7 @@
 	Shape Format	Alakzatformátum
 	Shape Outline	Alakzat körvonala
 	Shape Styles	Alakzatstílusok
-	Shift+Enter starts a new line without starting a new paragraph.	A Shift+Enter új sort kezd anélkül, hogy új bekezdést kezdene.
+	{key} starts a new line without starting a new paragraph.	A(z) {key} új sort kezd anélkül, hogy új bekezdést kezdene.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Szállítási címkék
 	Shortcut key:	Billentyűparancs:
@@ -1941,7 +1965,7 @@
 	Show the Start screen when WordCraft starts	Kezdőképernyő megjelenítése a WordCraft indításakor
 	Show the tips you asked not to see again.	Újra megjeleníti az elrejtett tippeket.
 	Show/Hide ¶	Megjelenítés/elrejtés ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	A Megjelenítés/elrejtés ¶ (Ctrl+Shift+8) megmutatja a szövegedben rejtőző szóközöket, tabulátorokat és töréseket.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	A Megjelenítés/elrejtés ¶ ({key}) megmutatja a szövegedben rejtőző szóközöket, tabulátorokat és töréseket.
 	Show\nComments	Megjegyzések\nmegjelenítése
 	Showing the first {count} items.	Az első {count} elem látható.
 	Shows a tree: each item below the item it belongs to.	Faszerkezet: minden elem az alatt az elem alatt áll, amelyikhez tartozik.
@@ -2163,6 +2187,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	A margók nem férnek el ekkora oldalon; először csökkentse a margókat.
 	The measurement must be between {min} and {max}.	A méretnek {min} és {max} között kell lennie.
 	The new style takes the formatting of the current paragraph.	Az új stílus az aktuális bekezdés formázását veszi át.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	A Normál sablon nem olvasható, ezért ez a dokumentum a WordCraft beépített formázását használja.
 	The number must be between 1 and {max}.	A számnak 1 és {max} között kell lennie.
 	the paragraph is empty	a bekezdés üres
 	the paragraph starts with a space	a bekezdés szóközzel kezdődik
@@ -2191,6 +2216,7 @@
 	Thick	Vastag
 	this chart was made in another program: WordCraft shows it but can't edit it	ez a diagram egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
 	This document	Ez a dokumentum
+	This document only?	Csak ebben a dokumentumban?
 	This field has no options.	Ennek a mezőnek nincsenek beállításai.
 	This folder can't be read: {error}	Ez a mappa nem olvasható: {error}
 	This font has no characters to show.	Ebben a betűtípusban nincs megjeleníthető karakter.
@@ -2199,6 +2225,8 @@
 	This password type isn't supported.	Ez a jelszótípus nem támogatott.
 	This point forward	Innentől kezdve
 	This section	Ez a szakasz
+	this session has no Normal template (headless or without preferences)	ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül): használd ezt "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ez a SmartArt egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
 	this text box is already linked: break the link first	ez a szövegdoboz már csatolva van: előbb bontsa a csatolást
 	Three	Három
@@ -2311,7 +2339,9 @@
 	Use an Existing List…	Meglévő lista használata…
 	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
+	Use the current style set and theme for all new documents?	Az aktuális stíluskészlet és téma legyen minden új dokumentumban?
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
+	Use this formatting as the default for:	Legyen ez a formázás az alapértelmezett:
 	Use wildcards	Helyettesítő karakterek használata
 	User Name	Felhasználónév
 	User name:	Felhasználónév:
@@ -2429,3 +2459,121 @@
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés
 	📂  Browse…	📂  Tallózás…
+	Add a language…	Nyelv hozzáadása…
+	Add a language	Nyelv hozzáadása
+	Your languages	Nyelveid
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Az angol, a dokumentum nyelvei és minden telepített nyelvi csomag. A nyelvi csomagok helyesírási szótárakat és elválasztást adnak hozzá.
+	Set as default	Beállítás alapértelmezettként
+	New blank documents are written in this language	Az új üres dokumentumok ezen a nyelven készülnek
+	{language} (default)	{language} (alapértelmezett)
+	Built in	Beépített
+	Your own dictionary	Saját szótár
+	System dictionary	Rendszerszótár
+	Not available yet	Még nem érhető el
+	Grammar built in	Beépített nyelvtan
+	Install spelling ({size})	Helyesírás telepítése ({size})
+	Its dictionary couldn't be read: {reason}	A szótárát nem sikerült beolvasni: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	A letöltés ki van kapcsolva. A(z) „Nyelv hozzáadása…” vagy a(z) „Telepítés” gombra kattintva bekapcsolódik: ekkor a WordCraft nyelvi csomagokat és betűtípusokat tölt le a GitHubról.
+	Search:	Keresés:
+	Dutch, Nederlands or nl	Holland, Nederlands vagy nl
+	No languages to show yet.	Még nincs megjeleníthető nyelv.
+	No language matches your search.	Egy nyelv sem felel meg a keresésnek.
+	An installed Language pack is used after this folder.	A telepített nyelvi csomagot ez a mappa után használja.
+	Dictionary files	Szótárfájlok
+	Gets the list of Language packs, then this language's pack if there is one.	Lekéri a nyelvi csomagok listáját, majd az adott nyelv csomagját, ha van.
+	Afrikaans	afrikaans
+	Belarusian	belarusz
+	Bulgarian	bolgár
+	Bosnian	bosnyák
+	Catalan	katalán
+	Catalan (Valencian)	katalán (valenciai)
+	Welsh	walesi
+	Esperanto	eszperantó
+	Persian	perzsa
+	Irish	ír
+	Galician	galíciai
+	Hungarian	magyar
+	Armenian	örmény
+	Icelandic	izlandi
+	Georgian	grúz
+	Lithuanian	litván
+	Latvian	lett
+	Macedonian	macedón
+	Norwegian (Nynorsk)	norvég (nynorsk)
+	Slovak	szlovák
+	Slovenian	szlovén
+	Albanian	albán
+	Swahili	szuahéli
+	Tamil	tamil
+	Thai	thai
+	Vietnamese	vietnami
+	Set as Default Language	Beállítás alapértelmezett nyelvként
+	U.A.E.	Egyesült Arab Emírségek
+	Angola	Angola
+	Argentina	Argentína
+	Austria	Ausztria
+	Australia	Ausztrália
+	Bosnia and Herzegovina	Bosznia-Hercegovina
+	Belgium	Belgium
+	Bolivia	Bolívia
+	Brazil	Brazília
+	Belarus	Fehéroroszország
+	Canada	Kanada
+	Switzerland	Svájc
+	Chile	Chile
+	China	Kína
+	Colombia	Kolumbia
+	Costa Rica	Costa Rica
+	Cuba	Kuba
+	Cabo Verde	Zöld-foki Köztársaság
+	Cyprus	Ciprus
+	Germany	Németország
+	Dominican Republic	Dominikai Köztársaság
+	Ecuador	Ecuador
+	Egypt	Egyiptom
+	Spain	Spanyolország
+	Finland	Finnország
+	France	Franciaország
+	United Kingdom	Egyesült Királyság
+	Equatorial Guinea	Egyenlítői-Guinea
+	Guatemala	Guatemala
+	Hong Kong SAR	Hongkong KKT
+	Honduras	Honduras
+	Ireland	Írország
+	India	India
+	Iraq	Irak
+	Italy	Olaszország
+	Jamaica	Jamaica
+	Jordan	Jordánia
+	Kuwait	Kuvait
+	Kazakhstan	Kazahsztán
+	Lebanon	Libanon
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxemburg
+	Morocco	Marokkó
+	Monaco	Monaco
+	Montenegro	Montenegró
+	Macao SAR	Makaó KKT
+	Mexico	Mexikó
+	Malaysia	Malajzia
+	Mozambique	Mozambik
+	Nicaragua	Nicaragua
+	Netherlands	Hollandia
+	New Zealand	Új-Zéland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Fülöp-szigetek
+	Puerto Rico	Puerto Rico
+	Portugal	Portugália
+	Paraguay	Paraguay
+	Qatar	Katar
+	Russia	Oroszország
+	Singapore	Szingapúr
+	El Salvador	Salvador
+	Syria	Szíria
+	Taiwan	Tajvan
+	Ukraine	Ukrajna
+	United States	Amerikai Egyesült Államok
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Dél-afrikai Köztársaság

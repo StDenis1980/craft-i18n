@@ -135,6 +135,7 @@
 	All Borders	Tất cả viền
 	All caps	Viết hoa toàn bộ
 	All Commands	Mọi lệnh
+	All documents based on the Normal template?	Tất cả tài liệu dựa trên mẫu Thường?
 	All Fonts	Tất cả phông chữ
 	All Levels	Mọi cấp
 	All Markup	Tất cả đánh dấu
@@ -302,7 +303,7 @@
 	By author	Theo tác giả
 	Calendar	Lịch
 	Can't be deleted	Không xóa được
-	Can't find a command? Press Alt+Q and type what you want to do.	Không tìm thấy lệnh? Nhấn Alt+Q rồi gõ điều bạn muốn làm.
+	Can't find a command? Press {key} and type what you want to do.	Không tìm thấy lệnh? Nhấn {key} rồi gõ điều bạn muốn làm.
 	can't split at the first row	không thể tách ở hàng đầu tiên
 	Canvas Member	Thành phần khung vẽ
 	Capitalize Each Word	Chữ hoa đầu mỗi từ
@@ -527,10 +528,10 @@
 	Croatian	Tiếng Croatia
 	Cross-reference	Tham chiếu chéo
 	Cross-reference:	Tham chiếu chéo:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H tìm và thay thế văn bản, định dạng và ký tự đặc biệt.
-	Ctrl+K turns the selected text into a link.	Ctrl+K biến văn bản đã chọn thành liên kết.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G đếm số từ, ký tự và đoạn của bạn.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang.
+	{key} finds and replaces text, formatting and special characters.	{key} tìm và thay thế văn bản, định dạng và ký tự đặc biệt.
+	{key} turns the selected text into a link.	{key} biến văn bản đã chọn thành liên kết.
+	{key} counts your words, characters and paragraphs.	{key} đếm số từ, ký tự và đoạn của bạn.
 	Cube Root	Căn bậc ba
 	Current - Linear	Hiện tại - Dạng tuyến tính
 	Current - Professional	Hiện tại - Dạng trình bày
@@ -570,6 +571,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng.
 	Decrease Indent	Giảm thụt lề
 	Deep	Sâu
+	Default formatting	Định dạng mặc định
 	Default Paragraph Font	Phông chữ mặc định của đoạn
 	Default tab stops:	Mốc tab mặc định:
 	Define New Bullet	Tạo dấu đầu dòng mới
@@ -799,8 +801,8 @@
 	Extend Selection	Mở rộng vùng chọn
 	Extend Selection by Units	Mở rộng vùng chọn theo đơn vị
 	Extra space	Thừa khoảng trắng
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím.
-	F7 checks the spelling and grammar of the whole document.	F7 kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím.
+	{key} checks the spelling and grammar of the whole document.	{key} kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu.
 	Faster: {command} is {key} on the keyboard.	Nhanh hơn: {command} là {key} trên bàn phím.
 	Field code:	Mã trường:
 	Field Codes	Mã trường
@@ -875,6 +877,7 @@
 	Formatting at Selection	Định dạng tại vùng chọn
 	Formatting exceptions	Ngoại lệ định dạng
 	Formatting marks	Dấu định dạng
+	Formatting saved for new documents:	Định dạng đã lưu cho tài liệu mới:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Định dạng, thay đổi chữ hoa/thường, khoảng trắng và bảng được đưa vào so sánh; các tùy chọn khác được lưu để dùng sau.
 	Formula	Công thức
 	Formula:	Công thức:
@@ -1385,6 +1388,14 @@ template	Letter	Thư
 	New Comment	Nhận xét mới
 	New comments and tracked changes are recorded under this name and these initials.	Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này.
 	New Document	Tạo tài liệu mới
+	New Documents Based on This Template	Tài liệu mới dựa trên mẫu này
+	New documents based on this template	Tài liệu mới dựa trên mẫu này
+	New documents will use this font.	Tài liệu mới sẽ dùng phông chữ này.
+	New documents will use this page setup.	Tài liệu mới sẽ dùng thiết lập trang này.
+	New documents will use this paragraph formatting.	Tài liệu mới sẽ dùng định dạng đoạn này.
+	New documents will use this style.	Tài liệu mới sẽ dùng kiểu này.
+	New documents will use WordCraft's built-in formatting.	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?
 	New Drawing Canvas	Khung vẽ mới
 	New Entry	Mục mới
 	New from Template	Tạo mới từ mẫu
@@ -1516,6 +1527,7 @@ template	Letter	Thư
 	Only for the selected text	Chỉ cho văn bản được chọn
 	Only form fields can be filled in.	Chỉ có thể điền vào các trường biểu mẫu.
 	only in Outline view	chỉ trong dạng xem Dàn ý
+	Only in this document	Chỉ trong tài liệu này
 	Only the allowed styles can be applied.	Chỉ có thể áp dụng các kiểu được cho phép.
 	Only web (http, https) and email (mailto) links can be followed	Chỉ mở được liên kết web (http, https) và email (mailto)
 	Open a document first	Hãy mở một tài liệu trước
@@ -1772,6 +1784,14 @@ template	Letter	Thư
 	Remove the control once edited	Gỡ điều khiển nội dung sau khi sửa
 	Remove the space before the punctuation	Bỏ khoảng trắng trước dấu câu
 	Remove Watermark	Xóa hình mờ
+	No watermark	Không có hình mờ
+	Picture watermark	Hình mờ ảnh
+	Text watermark	Hình mờ văn bản
+	Select Picture…	Chọn ảnh…
+	Washout	Nhạt màu
+	Semitransparent	Bán trong suốt
+	Transparency:	Độ trong suốt:
+	Select a picture first.	Hãy chọn ảnh trước.
 	Rename Document	Đổi tên tài liệu
 	Reopen	Mở lại
 	Repeat as header row on each page	Lặp lại làm hàng tiêu đề trên mỗi trang
@@ -1789,6 +1809,7 @@ template	Letter	Thư
 	Reset All…	Đặt lại tất cả…
 	Reset Character Formatting	Đặt lại định dạng ký tự
 	Reset Crop	Đặt lại cắt xén
+	Reset Default Formatting	Đặt lại định dạng mặc định
 	Reset Graphic	Đặt lại đồ họa
 	Reset Paragraph Formatting	Đặt lại định dạng đoạn
 	Reset Picture	Đặt lại ảnh
@@ -1938,6 +1959,9 @@ template	Letter	Thư
 	Series name	Tên chuỗi
 	Series {n}	Chuỗi {n}
 	Set As Default	Đặt làm mặc định
+	Set As Default (Font)	Đặt làm mặc định (Phông chữ)
+	Set As Default (Page Setup)	Đặt làm mặc định (Thiết lập trang)
+	Set As Default (Paragraph)	Đặt làm mặc định (Đoạn)
 	Set Caret	Đặt con trỏ
 	Set Character Formatting	Đặt định dạng ký tự
 	Set Date	Đặt ngày
@@ -1955,7 +1979,7 @@ template	Letter	Thư
 	Shape Outline	Viền hình
 	Shape Styles	Kiểu hình
 	Shapes	Các hình
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter bắt đầu một dòng mới mà không bắt đầu đoạn mới.
+	{key} starts a new line without starting a new paragraph.	{key} bắt đầu một dòng mới mà không bắt đầu đoạn mới.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nhãn vận chuyển
 	Shortcut key:	Phím tắt:
@@ -2001,7 +2025,7 @@ template	Letter	Thư
 	Show the Start screen when WordCraft starts	Hiện màn hình Bắt đầu khi khởi chạy WordCraft
 	Show the tips you asked not to see again.	Hiện lại các mẹo bạn đã yêu cầu ẩn.
 	Show/Hide ¶	Hiện/Ẩn ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Hiện/Ẩn ¶ (Ctrl+Shift+8) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Hiện/Ẩn ¶ ({key}) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn.
 	Show\nComments	Hiện\nnhận xét
 	Showing the first {count} items.	Đang hiển thị {count} mục đầu tiên.
 	Shows a tree: each item below the item it belongs to.	Hiển thị dạng cây: mỗi mục nằm dưới mục mà nó thuộc về.
@@ -2232,6 +2256,7 @@ template	Letter	Thư
 	The margins don't fit on a page this size; make the margins smaller first.	Lề không vừa với trang có kích thước này; hãy thu nhỏ lề trước.
 	The measurement must be between {min} and {max}.	Số đo phải nằm trong khoảng từ {min} đến {max}.
 	The new style takes the formatting of the current paragraph.	Kiểu mới sẽ lấy định dạng của đoạn hiện tại.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Không đọc được mẫu Thường, nên tài liệu này dùng định dạng tích hợp sẵn của WordCraft.
 	The number must be between 1 and {max}.	Số phải nằm trong khoảng từ 1 đến {max}.
 	the paragraph is empty	đoạn văn trống
 	the paragraph starts with a space	đoạn văn bắt đầu bằng dấu cách
@@ -2261,6 +2286,7 @@ template	Letter	Thư
 	Thick	Dày
 	this chart was made in another program: WordCraft shows it but can't edit it	biểu đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	This document	Tài liệu này
+	This document only?	Chỉ tài liệu này?
 	This field has no options.	Trường này không có tùy chọn nào.
 	This folder can't be read: {error}	Không thể đọc thư mục này: {error}
 	This font has no characters to show.	Phông chữ này không có ký tự nào để hiển thị.
@@ -2269,6 +2295,8 @@ template	Letter	Thư
 	This password type isn't supported.	Loại mật khẩu này không được hỗ trợ.
 	This point forward	Từ đây trở đi
 	This section	Phần này
+	this session has no Normal template (headless or without preferences)	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn): hãy dùng "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	SmartArt này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	this text box is already linked: break the link first	hộp văn bản này đã được liên kết: hãy ngắt liên kết trước
 	Three	Ba
@@ -2384,7 +2412,9 @@ template	Letter	Thư
 	Use an Existing List…	Dùng danh sách hiện có…
 	Use system setting	Dùng theo hệ thống
 	Use the browser's full screen (F11)	Dùng chế độ toàn màn hình của trình duyệt (F11)
+	Use the current style set and theme for all new documents?	Dùng bộ kiểu và chủ đề hiện tại cho mọi tài liệu mới?
 	Use the Insert key to switch overtype on and off	Dùng phím Insert để bật/tắt gõ đè
+	Use this formatting as the default for:	Dùng định dạng này làm mặc định cho:
 	Use wildcards	Dùng ký tự đại diện
 	User Name	Tên người dùng
 	User name:	Tên người dùng:
@@ -2505,3 +2535,121 @@ template	Letter	Thư
 	✓ None	✓ Không có
 	➕ New comment	➕ Nhận xét mới
 	📂  Browse…	📂  Duyệt…
+	Add a language…	Thêm ngôn ngữ…
+	Add a language	Thêm ngôn ngữ
+	Your languages	Ngôn ngữ của bạn
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Tiếng Anh, các ngôn ngữ của tài liệu này và mọi gói ngôn ngữ đã cài đặt. Gói ngôn ngữ bổ sung từ điển chính tả và ngắt từ.
+	Set as default	Đặt làm mặc định
+	New blank documents are written in this language	Tài liệu trống mới được viết bằng ngôn ngữ này
+	{language} (default)	{language} (mặc định)
+	Built in	Tích hợp sẵn
+	Your own dictionary	Từ điển riêng của bạn
+	System dictionary	Từ điển hệ thống
+	Not available yet	Chưa khả dụng
+	Grammar built in	Ngữ pháp tích hợp sẵn
+	Install spelling ({size})	Cài đặt chính tả ({size})
+	Its dictionary couldn't be read: {reason}	Không đọc được từ điển của ngôn ngữ này: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Tính năng tải xuống đang tắt. Nhấp vào “Thêm ngôn ngữ…” hoặc “Cài đặt” sẽ bật lại: khi đó WordCraft tải các gói ngôn ngữ và phông chữ từ GitHub.
+	Search:	Tìm kiếm:
+	Dutch, Nederlands or nl	Tiếng Hà Lan, Nederlands hoặc nl
+	No languages to show yet.	Chưa có ngôn ngữ nào để hiển thị.
+	No language matches your search.	Không có ngôn ngữ nào khớp với tìm kiếm của bạn.
+	An installed Language pack is used after this folder.	Gói ngôn ngữ đã cài đặt được dùng sau thư mục này.
+	Dictionary files	Tệp từ điển
+	Gets the list of Language packs, then this language's pack if there is one.	Lấy danh sách các gói ngôn ngữ, rồi gói của ngôn ngữ này nếu có.
+	Afrikaans	Tiếng Afrikaans
+	Belarusian	Tiếng Belarus
+	Bulgarian	Tiếng Bulgaria
+	Bosnian	Tiếng Bosnia
+	Catalan	Tiếng Catalan
+	Catalan (Valencian)	Tiếng Catalan (Valencia)
+	Welsh	Tiếng Wales
+	Esperanto	Tiếng Quốc tế ngữ
+	Persian	Tiếng Ba Tư
+	Irish	Tiếng Ireland
+	Galician	Tiếng Galicia
+	Hungarian	Tiếng Hungary
+	Armenian	Tiếng Armenia
+	Icelandic	Tiếng Iceland
+	Georgian	Tiếng Gruzia
+	Lithuanian	Tiếng Litva
+	Latvian	Tiếng Latvia
+	Macedonian	Tiếng Macedonia
+	Norwegian (Nynorsk)	Tiếng Na Uy (Nynorsk)
+	Slovak	Tiếng Slovak
+	Slovenian	Tiếng Slovenia
+	Albanian	Tiếng Albania
+	Swahili	Tiếng Swahili
+	Tamil	Tiếng Tamil
+	Thai	Tiếng Thái
+	Vietnamese	Tiếng Việt
+	Set as Default Language	Đặt làm ngôn ngữ mặc định
+	U.A.E.	Các Tiểu vương quốc Ả Rập Thống nhất
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Áo
+	Australia	Úc
+	Bosnia and Herzegovina	Bosnia và Herzegovina
+	Belgium	Bỉ
+	Bolivia	Bolivia
+	Brazil	Brazil
+	Belarus	Belarus
+	Canada	Canada
+	Switzerland	Thụy Sĩ
+	Chile	Chile
+	China	Trung Quốc
+	Colombia	Colombia
+	Costa Rica	Costa Rica
+	Cuba	Cuba
+	Cabo Verde	Cabo Verde
+	Cyprus	Síp
+	Germany	Đức
+	Dominican Republic	Cộng hòa Dominica
+	Ecuador	Ecuador
+	Egypt	Ai Cập
+	Spain	Tây Ban Nha
+	Finland	Phần Lan
+	France	Pháp
+	United Kingdom	Vương quốc Anh
+	Equatorial Guinea	Guinea Xích đạo
+	Guatemala	Guatemala
+	Hong Kong SAR	Đặc khu Hồng Kông
+	Honduras	Honduras
+	Ireland	Ireland
+	India	Ấn Độ
+	Iraq	Iraq
+	Italy	Ý
+	Jamaica	Jamaica
+	Jordan	Jordan
+	Kuwait	Kuwait
+	Kazakhstan	Kazakhstan
+	Lebanon	Liban
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxembourg
+	Morocco	Maroc
+	Monaco	Monaco
+	Montenegro	Montenegro
+	Macao SAR	Đặc khu Macao
+	Mexico	Mexico
+	Malaysia	Malaysia
+	Mozambique	Mozambique
+	Nicaragua	Nicaragua
+	Netherlands	Hà Lan
+	New Zealand	New Zealand
+	Panama	Panama
+	Peru	Peru
+	Philippines	Philippines
+	Puerto Rico	Puerto Rico
+	Portugal	Bồ Đào Nha
+	Paraguay	Paraguay
+	Qatar	Qatar
+	Russia	Nga
+	Singapore	Singapore
+	El Salvador	El Salvador
+	Syria	Syria
+	Taiwan	Đài Loan
+	Ukraine	Ukraine
+	United States	Hoa Kỳ
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Nam Phi

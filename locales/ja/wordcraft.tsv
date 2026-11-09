@@ -117,6 +117,7 @@
 	All Borders	格子
 	All caps	すべて大文字
 	All Commands	すべてのコマンド
+	All documents based on the Normal template?	通常テンプレートを基にしたすべての文書?
 	All Fonts	すべてのフォント
 	All Levels	すべてのレベル
 	All Markup	すべての変更履歴
@@ -260,7 +261,7 @@
 	By author	校閲者別
 	Calendar	カレンダー
 	Can't be deleted	削除できない
-	Can't find a command? Press Alt+Q and type what you want to do.	コマンドが見つかりませんか? Alt+Q を押して、やりたいことを入力してください。
+	Can't find a command? Press {key} and type what you want to do.	コマンドが見つかりませんか? {key} を押して、やりたいことを入力してください。
 	can't split at the first row	先頭の行では表を分割できません
 	Canvas Member	キャンバス内の図形
 	Capitalize Each Word	各単語の先頭を大文字にする
@@ -445,10 +446,10 @@
 	Crop	トリミング
 	Cross-reference	相互参照
 	Cross-reference:	相互参照:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter で新しいページを始められます。ページが変わるまで Enter を押し続けるより、ずっとスマートです。
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H で文字列、書式、特殊文字を検索して置換できます。
-	Ctrl+K turns the selected text into a link.	Ctrl+K で選択した文字列をリンクにできます。
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G で単語数、文字数、段落数を数えられます。
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} で新しいページを始められます。ページが変わるまで Enter を押し続けるより、ずっとスマートです。
+	{key} finds and replaces text, formatting and special characters.	{key} で文字列、書式、特殊文字を検索して置換できます。
+	{key} turns the selected text into a link.	{key} で選択した文字列をリンクにできます。
+	{key} counts your words, characters and paragraphs.	{key} で単語数、文字数、段落数を数えられます。
 	Current Position	現在の位置
 	Current record	現在のレコード
 	Current style: {style}	現在のスタイル: {style}
@@ -487,6 +488,7 @@
 	Decrease Font Size	フォント サイズの縮小
 	Decrease Indent	インデントを減らす
 	Deep	ディープ
+	Default formatting	既定の書式
 	Default tab stops:	既定のタブ間隔:
 	Define New Bullet	新しい行頭文字の定義
 	Define New Multilevel List	新しいアウトラインの定義
@@ -679,8 +681,8 @@
 	Exported {path}	{path} にエクスポートしました
 	Extend Selection	選択範囲の拡張
 	Extend Selection by Units	単位ごとに選択範囲を拡張
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 で直前の操作を繰り返せます。見出し 10 個の書式設定も、1 クリックと 9 回のキー操作で完了。
-	F7 checks the spelling and grammar of the whole document.	F7 で文書全体のスペル チェックと文章校正を行います。
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} で直前の操作を繰り返せます。見出し 10 個の書式設定も、1 クリックと 9 回のキー操作で完了。
+	{key} checks the spelling and grammar of the whole document.	{key} で文書全体のスペル チェックと文章校正を行います。
 	Faster: {command} is {key} on the keyboard.	時短ワザ: {command} はキーボードの {key} でできます。
 	Field code:	フィールド コード:
 	Field Codes	フィールド コード
@@ -749,6 +751,7 @@
 	Formatting at Selection	選択範囲の書式
 	Formatting exceptions	書式の例外
 	Formatting marks	編集記号
+	Formatting saved for new documents:	新しい文書用に保存された書式:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	書式、大文字/小文字、空白、表を比較します。その他の設定は今後の対応です。
 	Formula	計算式
 	Formula:	計算式:
@@ -1154,6 +1157,14 @@
 	New comments and tracked changes are recorded under this name and these initials.	新しいコメントと変更履歴は、この名前とイニシャルで記録されます。
 	New Document	新規文書
 	New document	新規文書
+	New Documents Based on This Template	このテンプレートを基にした新しい文書
+	New documents based on this template	このテンプレートを基にした新しい文書
+	New documents will use this font.	新しい文書ではこのフォントが使われます。
+	New documents will use this page setup.	新しい文書ではこのページ設定が使われます。
+	New documents will use this paragraph formatting.	新しい文書ではこの段落書式が使われます。
+	New documents will use this style.	新しい文書ではこのスタイルが使われます。
+	New documents will use WordCraft's built-in formatting.	新しい文書では WordCraft の組み込みの書式が使われます。
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新しい文書では WordCraft の組み込みの書式が使われます。保存した既定の設定は元に戻せません。リセットしますか?
 	New Drawing Canvas	新しい描画キャンバス
 	New Entry	新しいエントリ
 	New Group	新しいグループ
@@ -1278,6 +1289,7 @@
 	Only for the selected text	選択したテキストのみ
 	Only form fields can be filled in.	フォーム フィールドへの入力のみ可能です。
 	only in Outline view	アウトライン表示でのみ使用できます
+	Only in this document	この文書のみ
 	Only the allowed styles can be applied.	使用を許可されたスタイルだけを適用できます。
 	Only web (http, https) and email (mailto) links can be followed	開けるのは Web（http、https）とメール（mailto）のリンクだけです
 	Open a document first	先に文書を開いてください
@@ -1508,6 +1520,14 @@
 	Remove Table of Contents	目次の削除
 	Remove the control once edited	編集したらコントロールを削除する
 	Remove Watermark	透かしの削除
+	No watermark	透かしなし
+	Picture watermark	画像の透かし
+	Text watermark	テキストの透かし
+	Select Picture…	画像を選択…
+	Washout	薄色
+	Semitransparent	半透明
+	Transparency:	透明度:
+	Select a picture first.	先に画像を選択してください。
 	Rename	名前の変更
 	Rename Document	ドキュメント名の変更
 	Rename Style	スタイル名の変更
@@ -1529,6 +1549,7 @@
 	Reset All…	すべてリセット…
 	Reset Character Formatting	文字書式のリセット
 	Reset Crop	トリミングのリセット
+	Reset Default Formatting	既定の書式のリセット
 	Reset Graphic	グラフィックのリセット
 	Reset Paragraph Formatting	段落書式のリセット
 	Reset Picture	図のリセット
@@ -1672,6 +1693,9 @@
 	Series {n}	系列 {n}
 	Set As Default	既定に設定
 	Set as Default	既定に設定
+	Set As Default (Font)	既定に設定 (フォント)
+	Set As Default (Page Setup)	既定に設定 (ページ設定)
+	Set As Default (Paragraph)	既定に設定 (段落)
 	Set Caret	カーソル位置の設定
 	Set Character Formatting	文字書式の設定
 	Set Date	日付を設定
@@ -1689,7 +1713,7 @@
 	Shape Outline	図形の枠線
 	Shape Styles	図形のスタイル
 	Shapes	図形
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter で、新しい段落にせずに改行できます。
+	{key} starts a new line without starting a new paragraph.	{key} で、新しい段落にせずに改行できます。
 	Shift+Tab	Shift+Tab
 	Shipping labels	配送ラベル
 	Shortcut key:	ショートカット キー:
@@ -1734,7 +1758,7 @@
 	Show the Start screen when WordCraft starts	WordCraft の起動時にスタート画面を表示する
 	Show the tips you asked not to see again.	非表示にしたヒントをもう一度表示します。
 	Show/Hide ¶	編集記号の表示/非表示 ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	編集記号の表示/非表示 ¶ (Ctrl+Shift+8) で、文章に隠れているスペース、タブ、改行が見えます。
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	編集記号の表示/非表示 ¶ ({key}) で、文章に隠れているスペース、タブ、改行が見えます。
 	Show\nComments	コメントの表示
 	Showing the first {count} items.	最初の {count} 項目を表示しています。
 	Shows a tree: each item below the item it belongs to.	ツリーを表示します。各項目は所属する項目の下に置かれます。
@@ -1915,6 +1939,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	この用紙サイズには余白が収まりません。先に余白を小さくしてください。
 	The measurement must be between {min} and {max}.	{min} から {max} までの値を指定してください。
 	The new style takes the formatting of the current paragraph.	新しいスタイルには現在の段落の書式が使われます。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	通常テンプレートを読み込めなかったため、この文書では WordCraft の組み込みの書式を使用しています。
 	The number must be between 1 and {max}.	1 から {max} までの数値を指定してください。
 	the paragraph is empty	段落が空です
 	the paragraph starts with a space	段落がスペースで始まっています
@@ -1942,6 +1967,7 @@
 	Thick	太線
 	this chart was made in another program: WordCraft shows it but can't edit it	このグラフは別のプログラムで作成されました: WordCraft で表示できますが編集はできません
 	This document	この文書
+	This document only?	この文書のみ?
 	This field has no options.	このフィールドにはオプションがありません。
 	This folder can't be read: {error}	このフォルダーを読み取れません: {error}
 	This font has no characters to show.	このフォントには表示できる文字がありません。
@@ -1950,6 +1976,8 @@
 	This password type isn't supported.	この種類のパスワードはサポートされていません。
 	This point forward	これ以降
 	This section	このセクション
+	this session has no Normal template (headless or without preferences)	このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし): 次を使用してください "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	この SmartArt は別のプログラムで作成されました: WordCraft で表示できますが編集はできません
 	this text box is already linked: break the link first	このテキスト ボックスは既にリンクされています: 先にリンクを解除してください
 	Three	3 段
@@ -2037,7 +2065,9 @@
 	Use an Existing List…	既存のリストを使用…
 	Use system setting	システム設定を使用
 	Use the browser's full screen (F11)	ブラウザーの全画面表示を使用してください (F11)
+	Use the current style set and theme for all new documents?	現在のスタイル セットとテーマをすべての新しい文書に使用しますか?
 	Use the Insert key to switch overtype on and off	Insert キーで上書きのオンとオフを切り替える
+	Use this formatting as the default for:	この書式を既定として使用する対象:
 	Use wildcards	ワイルドカードを使う
 	User Name	ユーザー名
 	User name:	ユーザー名:
@@ -2146,3 +2176,123 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	{words} 語! パーティーを開きたいけど、片付けるのはわたしなので。
 	{words} words. That's {words} more than I've written today.	{words} 語。わたしが今日書いた分より {words} 語も上回っています。
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}、{series}）は数値ではありません。
+	Add a language…	言語を追加…
+	Add a language	言語を追加
+	Your languages	使用する言語
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	英語、この文書の言語、インストール済みのすべての言語パック。言語パックはスペルチェック用の辞書とハイフネーションを追加します。
+	Set as default	既定に設定
+	New blank documents are written in this language	新しい白紙の文書はこの言語で書かれます
+	{language} (default)	{language}（既定）
+	Built in	内蔵
+	Your own dictionary	独自の辞書
+	System dictionary	システム辞書
+	Not available yet	まだ利用できません
+	Grammar built in	文法チェック内蔵
+	Install spelling ({size})	スペルチェックをインストール（{size}）
+	Its dictionary couldn't be read: {reason}	辞書を読み込めませんでした: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	ダウンロードはオフです。「言語を追加…」または「インストール」をクリックするとオンになり、WordCraft は GitHub から言語パックとフォントをダウンロードします。
+	Search:	検索:
+	Dutch, Nederlands or nl	オランダ語、Nederlands または nl
+	No languages to show yet.	表示できる言語はまだありません。
+	No language matches your search.	検索に一致する言語はありません。
+	An installed Language pack is used after this folder.	インストール済みの言語パックは、このフォルダーの後に使われます。
+	Dictionary files	辞書ファイル
+	Possible spelling mistake	スペルミスの可能性
+	Gets the list of Language packs, then this language's pack if there is one.	言語パックの一覧を取得し、続いてこの言語のパックがあればそれを取得します。
+	Afrikaans	アフリカーンス語
+	Belarusian	ベラルーシ語
+	Bulgarian	ブルガリア語
+	Bosnian	ボスニア語
+	Catalan	カタルーニャ語
+	Catalan (Valencian)	カタルーニャ語（バレンシア語）
+	Welsh	ウェールズ語
+	Esperanto	エスペラント語
+	Persian	ペルシア語
+	Irish	アイルランド語
+	Galician	ガリシア語
+	Hungarian	ハンガリー語
+	Armenian	アルメニア語
+	Icelandic	アイスランド語
+	Georgian	ジョージア語
+	Lithuanian	リトアニア語
+	Latvian	ラトビア語
+	Macedonian	マケドニア語
+	Norwegian (Nynorsk)	ノルウェー語（ニーノシュク）
+	Slovak	スロバキア語
+	Slovenian	スロベニア語
+	Albanian	アルバニア語
+	Swahili	スワヒリ語
+	Tamil	タミル語
+	Thai	タイ語
+	Vietnamese	ベトナム語
+	Set as Default Language	既定の言語に設定
+	{language} ({region})	{language}（{region}）
+	U.A.E.	アラブ首長国連邦
+	Angola	アンゴラ
+	Argentina	アルゼンチン
+	Austria	オーストリア
+	Australia	オーストラリア
+	Bosnia and Herzegovina	ボスニア・ヘルツェゴビナ
+	Belgium	ベルギー
+	Bolivia	ボリビア
+	Brazil	ブラジル
+	Belarus	ベラルーシ
+	Canada	カナダ
+	Switzerland	スイス
+	Chile	チリ
+	China	中国
+	Colombia	コロンビア
+	Costa Rica	コスタリカ
+	Cuba	キューバ
+	Cabo Verde	カーボベルデ
+	Cyprus	キプロス
+	Germany	ドイツ
+	Dominican Republic	ドミニカ共和国
+	Ecuador	エクアドル
+	Egypt	エジプト
+	Spain	スペイン
+	Finland	フィンランド
+	France	フランス
+	United Kingdom	英国
+	Equatorial Guinea	赤道ギニア
+	Guatemala	グアテマラ
+	Hong Kong SAR	香港特別行政区
+	Honduras	ホンジュラス
+	Ireland	アイルランド
+	India	インド
+	Iraq	イラク
+	Italy	イタリア
+	Jamaica	ジャマイカ
+	Jordan	ヨルダン
+	Kuwait	クウェート
+	Kazakhstan	カザフスタン
+	Lebanon	レバノン
+	Liechtenstein	リヒテンシュタイン
+	Luxembourg	ルクセンブルク
+	Morocco	モロッコ
+	Monaco	モナコ
+	Montenegro	モンテネグロ
+	Macao SAR	マカオ特別行政区
+	Mexico	メキシコ
+	Malaysia	マレーシア
+	Mozambique	モザンビーク
+	Nicaragua	ニカラグア
+	Netherlands	オランダ
+	New Zealand	ニュージーランド
+	Panama	パナマ
+	Peru	ペルー
+	Philippines	フィリピン
+	Puerto Rico	プエルトリコ
+	Portugal	ポルトガル
+	Paraguay	パラグアイ
+	Qatar	カタール
+	Russia	ロシア
+	Singapore	シンガポール
+	El Salvador	エルサルバドル
+	Syria	シリア
+	Taiwan	台湾
+	Ukraine	ウクライナ
+	United States	米国
+	Uruguay	ウルグアイ
+	Venezuela	ベネズエラ
+	South Africa	南アフリカ

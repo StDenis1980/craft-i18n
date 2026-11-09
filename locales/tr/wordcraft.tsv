@@ -133,6 +133,7 @@
 	All Caps	Tümü Büyük Harf
 	All caps	Tümü büyük harf
 	All Commands	Tüm Komutlar
+	All documents based on the Normal template?	Normal şablonunu temel alan tüm belgeler mi?
 	All Fonts	Tüm Yazı Tipleri
 	All Levels	Tüm düzeyler
 	All Markup	Tüm İşaretler
@@ -292,7 +293,7 @@
 	By author	Yazara göre
 	Calendar	Takvim
 	Can't be deleted	Silinemez
-	Can't find a command? Press Alt+Q and type what you want to do.	Bir komutu bulamıyor musunuz? Alt+Q'ya basın ve ne yapmak istediğinizi yazın.
+	Can't find a command? Press {key} and type what you want to do.	Bir komutu bulamıyor musunuz? {key} tuşuna basın ve ne yapmak istediğinizi yazın.
 	can't split at the first row	tablo ilk satırdan bölünemez
 	Canvas Member	Tuval Öğesi
 	Capitalize Each Word	Her Sözcüğün İlk Harfini Büyüt
@@ -504,10 +505,10 @@
 	Croatian	Hırvatça
 	Cross-reference	Çapraz Başvuru
 	Cross-reference:	Çapraz başvuru:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter yeni bir sayfa başlatır. Sayfa gelene kadar Enter'a basmaktan çok daha düzenli.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H metni, biçimlendirmeyi ve özel karakterleri bulur ve değiştirir.
-	Ctrl+K turns the selected text into a link.	Ctrl+K seçili metni bağlantıya dönüştürür.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G sözcüklerinizi, karakterlerinizi ve paragraflarınızı sayar.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} yeni bir sayfa başlatır. Sayfa gelene kadar Enter'a basmaktan çok daha düzenli.
+	{key} finds and replaces text, formatting and special characters.	{key} metni, biçimlendirmeyi ve özel karakterleri bulur ve değiştirir.
+	{key} turns the selected text into a link.	{key} seçili metni bağlantıya dönüştürür.
+	{key} counts your words, characters and paragraphs.	{key} sözcüklerinizi, karakterlerinizi ve paragraflarınızı sayar.
 	Cube Root	Küp Kök
 	Current	Geçerli
 	Current - Linear	Geçerli - Doğrusal
@@ -548,6 +549,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratif nesneler yalnızca görsel çekicilik katar: ekran okuyucular bunları atlar.
 	Decrease Indent	Girintiyi Azalt
 	Deep	Koyu
+	Default formatting	Varsayılan biçimlendirme
 	Default Paragraph Font	Varsayılan Paragraf Yazı Tipi
 	Default tab stops:	Varsayılan sekme durakları:
 	Define New Bullet	Yeni Madde İşareti Tanımla
@@ -765,8 +767,8 @@
 	Export Page as PNG	Sayfayı PNG Olarak Dışa Aktar
 	Extend Selection	Seçimi Genişlet
 	Extend Selection by Units	Seçimi Birimlere Göre Genişlet
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 son eyleminizi yineler. On başlığı biçimlendirmek birden bir tıklama ve dokuz dokunuşa iner.
-	F7 checks the spelling and grammar of the whole document.	F7 tüm belgenin yazım ve dil bilgisini denetler.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} son eyleminizi yineler. On başlığı biçimlendirmek birden bir tıklama ve dokuz dokunuşa iner.
+	{key} checks the spelling and grammar of the whole document.	{key} tüm belgenin yazım ve dil bilgisini denetler.
 	Faster: {command} is {key} on the keyboard.	Daha hızlısı: {command} klavyede {key}.
 	Field code:	Alan kodu:
 	Field Codes	Alan Kodları
@@ -837,6 +839,7 @@
 	Formatting at Selection	Seçimdeki Biçimlendirme
 	Formatting exceptions	Biçimlendirme özel durumları
 	Formatting marks	Biçimlendirme işaretleri
+	Formatting saved for new documents:	Yeni belgeler için kaydedilen biçimlendirme:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Biçimlendirme, harf büyüklüğü, boşluklar ve tablolar karşılaştırılır; diğer ayarlar daha sonra için saklanır.
 	Formula	Formül
 	Formula:	Formül:
@@ -1312,6 +1315,14 @@
 	Negated Relations	Olumsuzlanmış Bağıntılar
 	New Comment	Yeni Yorum
 	New comments and tracked changes are recorded under this name and these initials.	Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir.
+	New Documents Based on This Template	Bu şablonu temel alan yeni belgeler
+	New documents based on this template	Bu şablonu temel alan yeni belgeler
+	New documents will use this font.	Yeni belgeler bu yazı tipini kullanacak.
+	New documents will use this page setup.	Yeni belgeler bu sayfa ayarlarını kullanacak.
+	New documents will use this paragraph formatting.	Yeni belgeler bu paragraf biçimlendirmesini kullanacak.
+	New documents will use this style.	Yeni belgeler bu stili kullanacak.
+	New documents will use WordCraft's built-in formatting.	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?
 	New Drawing Canvas	Yeni Çizim Tuvali
 	New Entry	Yeni Girdi
 	New Label	Yeni Etiket
@@ -1439,6 +1450,7 @@
 	Only for the selected text	Yalnızca seçili metin için
 	Only form fields can be filled in.	Yalnızca form alanları doldurulabilir.
 	only in Outline view	yalnızca Ana Hat görünümünde
+	Only in this document	Yalnızca bu belgede
 	Only the allowed styles can be applied.	Yalnızca izin verilen stiller uygulanabilir.
 	Only web (http, https) and email (mailto) links can be followed	Yalnızca web (http, https) ve e-posta (mailto) bağlantıları açılabilir
 	Open a document first	Önce bir belge açın
@@ -1692,6 +1704,14 @@
 	Remove Table of Contents	İçindekiler Tablosunu Kaldır
 	Remove the control once edited	Düzenlendikten sonra denetimi kaldır
 	Remove Watermark	Filigranı Kaldır
+	No watermark	Filigran yok
+	Picture watermark	Resim filigranı
+	Text watermark	Metin filigranı
+	Select Picture…	Resim Seç…
+	Washout	Soluk
+	Semitransparent	Yarı saydam
+	Transparency:	Saydamlık:
+	Select a picture first.	Önce bir resim seçin.
 	Rename Document	Belgeyi yeniden adlandır
 	Rename…	Yeniden Adlandır…
 	Reopen	Yeniden Aç
@@ -1710,6 +1730,7 @@
 	Reset All…	Tümünü Sıfırla…
 	Reset Character Formatting	Karakter Biçimlendirmesini Sıfırla
 	Reset Crop	Kırpmayı Sıfırla
+	Reset Default Formatting	Varsayılan Biçimlendirmeyi Sıfırla
 	Reset Graphic	Grafiği Sıfırla
 	Reset Paragraph Formatting	Paragraf Biçimlendirmesini Sıfırla
 	Reset Picture	Resmi Sıfırla
@@ -1856,6 +1877,9 @@
 	Series name	Seri adı
 	Series {n}	Seri {n}
 	Set As Default	Varsayılan Olarak Ayarla
+	Set As Default (Font)	Varsayılan Olarak Ayarla (Yazı Tipi)
+	Set As Default (Page Setup)	Varsayılan Olarak Ayarla (Sayfa Ayarları)
+	Set As Default (Paragraph)	Varsayılan Olarak Ayarla (Paragraf)
 	Set Caret	İmleci Konumlandır
 	Set Character Formatting	Karakter Biçimlendirmesini Ayarla
 	Set Date	Tarihi Ayarla
@@ -1870,7 +1894,7 @@
 	Shape Format	Şekil Biçimi
 	Shape Outline	Şekil Çizgisi
 	Shape Styles	Şekil Stilleri
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter yeni bir paragraf başlatmadan yeni bir satır başlatır.
+	{key} starts a new line without starting a new paragraph.	{key} yeni bir paragraf başlatmadan yeni bir satır başlatır.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Kargo etiketleri
 	Shortcut key:	Kısayol tuşu:
@@ -1916,7 +1940,7 @@
 	Show the Start screen when WordCraft starts	WordCraft açılırken Başlangıç ekranını göster
 	Show the tips you asked not to see again.	Bir daha görmek istemediğiniz ipuçlarını yeniden gösterir.
 	Show/Hide ¶	Göster/Gizle ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Göster/Gizle ¶ (Ctrl+Shift+8) metninizde saklanan boşlukları, sekmeleri ve sonları gösterir.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Göster/Gizle ¶ ({key}) metninizde saklanan boşlukları, sekmeleri ve sonları gösterir.
 	Show\nComments	Yorumları\nGöster
 	Showing the first {count} items.	İlk {count} öğe gösteriliyor.
 	Shows a tree: each item below the item it belongs to.	Bir ağaç gösterir: her öğe ait olduğu öğenin altındadır.
@@ -2137,6 +2161,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Kenar boşlukları bu boyuttaki bir sayfaya sığmıyor; önce kenar boşluklarını küçültün.
 	The measurement must be between {min} and {max}.	Ölçü {min} ile {max} arasında olmalıdır.
 	The new style takes the formatting of the current paragraph.	Yeni stil, geçerli paragrafın biçimlendirmesini alır.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Normal şablonu okunamadı, bu nedenle bu belge WordCraft'ın yerleşik biçimlendirmesini kullanıyor.
 	The number must be between 1 and {max}.	Sayı 1 ile {max} arasında olmalıdır.
 	the paragraph is empty	paragraf boş
 	the paragraph starts with a space	paragraf boşlukla başlıyor
@@ -2164,6 +2189,7 @@
 	Thick	Kalın
 	this chart was made in another program: WordCraft shows it but can't edit it	bu grafik başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	This document	Bu belge
+	This document only?	Yalnızca bu belge mi?
 	This field has no options.	Bu alanın seçeneği yok.
 	This folder can't be read: {error}	Bu klasör okunamıyor: {error}
 	This font has no characters to show.	Bu yazı tipinde gösterilecek karakter yok.
@@ -2172,6 +2198,8 @@
 	This password type isn't supported.	Bu parola türü desteklenmiyor.
 	This point forward	Bu noktadan itibaren
 	This section	Bu bölüm
+	this session has no Normal template (headless or without preferences)	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz): şunu kullanın "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	bu SmartArt başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	this text box is already linked: break the link first	bu metin kutusu zaten bağlı: önce bağlantıyı kesin
 	Three	Üç
@@ -2283,7 +2311,9 @@ preview	Title	Örnek
 	Use an Existing List…	Var Olan Listeyi Kullan…
 	Use system setting	Sistem ayarını kullan
 	Use the browser's full screen (F11)	Tarayıcının tam ekran modunu kullanın (F11)
+	Use the current style set and theme for all new documents?	Geçerli stil kümesi ve tema tüm yeni belgeler için kullanılsın mı?
 	Use the Insert key to switch overtype on and off	Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan
+	Use this formatting as the default for:	Bu biçimlendirmeyi şunun için varsayılan olarak kullan:
 	Use wildcards	Joker karakter kullan
 	User Name	Kullanıcı Adı
 	User name:	Kullanıcı adı:
@@ -2397,3 +2427,121 @@ preview	Title	Örnek
 	{words} words. That's {words} more than I've written today.	{words} sözcük. Bugün benim yazdığımdan {words} fazla.
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok
+	Add a language…	Dil ekle…
+	Add a language	Dil ekle
+	Your languages	Dilleriniz
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	İngilizce, bu belgenin dilleri ve yüklü her dil paketi. Dil paketleri yazım sözlükleri ve heceleme ekler.
+	Set as default	Varsayılan yap
+	New blank documents are written in this language	Yeni boş belgeler bu dilde yazılır
+	{language} (default)	{language} (varsayılan)
+	Built in	Yerleşik
+	Your own dictionary	Kendi sözlüğünüz
+	System dictionary	Sistem sözlüğü
+	Not available yet	Henüz kullanılamıyor
+	Grammar built in	Dil bilgisi yerleşik
+	Install spelling ({size})	Yazımı yükle ({size})
+	Its dictionary couldn't be read: {reason}	Sözlüğü okunamadı: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	İndirme kapalı. “Dil ekle…” veya “Yükle” düğmesine tıklamak onu açar: WordCraft bundan sonra dil paketlerini ve yazı tiplerini GitHub’dan indirir.
+	Search:	Ara:
+	Dutch, Nederlands or nl	Felemenkçe, Nederlands veya nl
+	No languages to show yet.	Henüz gösterilecek dil yok.
+	No language matches your search.	Aramanızla eşleşen dil yok.
+	An installed Language pack is used after this folder.	Yüklü bir dil paketi bu klasörden sonra kullanılır.
+	Dictionary files	Sözlük dosyaları
+	Gets the list of Language packs, then this language's pack if there is one.	Dil paketlerinin listesini, ardından varsa bu dilin paketini alır.
+	Afrikaans	Afrikanca
+	Belarusian	Belarusça
+	Bulgarian	Bulgarca
+	Bosnian	Boşnakça
+	Catalan	Katalanca
+	Catalan (Valencian)	Katalanca (Valensiyaca)
+	Welsh	Galce
+	Esperanto	Esperanto
+	Persian	Farsça
+	Irish	İrlandaca
+	Galician	Galiçyaca
+	Hungarian	Macarca
+	Armenian	Ermenice
+	Icelandic	İzlandaca
+	Georgian	Gürcüce
+	Lithuanian	Litvanca
+	Latvian	Letonca
+	Macedonian	Makedonca
+	Norwegian (Nynorsk)	Norveççe (Nynorsk)
+	Slovak	Slovakça
+	Slovenian	Slovence
+	Albanian	Arnavutça
+	Swahili	Svahili
+	Tamil	Tamilce
+	Thai	Tayca
+	Vietnamese	Vietnamca
+	Set as Default Language	Varsayılan dil yap
+	U.A.E.	Birleşik Arap Emirlikleri
+	Angola	Angola
+	Argentina	Arjantin
+	Austria	Avusturya
+	Australia	Avustralya
+	Bosnia and Herzegovina	Bosna-Hersek
+	Belgium	Belçika
+	Bolivia	Bolivya
+	Brazil	Brezilya
+	Belarus	Belarus
+	Canada	Kanada
+	Switzerland	İsviçre
+	Chile	Şili
+	China	Çin
+	Colombia	Kolombiya
+	Costa Rica	Kosta Rika
+	Cuba	Küba
+	Cabo Verde	Yeşil Burun Adaları
+	Cyprus	Kıbrıs
+	Germany	Almanya
+	Dominican Republic	Dominik Cumhuriyeti
+	Ecuador	Ekvador
+	Egypt	Mısır
+	Spain	İspanya
+	Finland	Finlandiya
+	France	Fransa
+	United Kingdom	Birleşik Krallık
+	Equatorial Guinea	Ekvator Ginesi
+	Guatemala	Guatemala
+	Hong Kong SAR	Hong Kong ÖİB
+	Honduras	Honduras
+	Ireland	İrlanda
+	India	Hindistan
+	Iraq	Irak
+	Italy	İtalya
+	Jamaica	Jamaika
+	Jordan	Ürdün
+	Kuwait	Kuveyt
+	Kazakhstan	Kazakistan
+	Lebanon	Lübnan
+	Liechtenstein	Lihtenştayn
+	Luxembourg	Lüksemburg
+	Morocco	Fas
+	Monaco	Monako
+	Montenegro	Karadağ
+	Macao SAR	Makao ÖİB
+	Mexico	Meksika
+	Malaysia	Malezya
+	Mozambique	Mozambik
+	Nicaragua	Nikaragua
+	Netherlands	Hollanda
+	New Zealand	Yeni Zelanda
+	Panama	Panama
+	Peru	Peru
+	Philippines	Filipinler
+	Puerto Rico	Porto Riko
+	Portugal	Portekiz
+	Paraguay	Paraguay
+	Qatar	Katar
+	Russia	Rusya
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Suriye
+	Taiwan	Tayvan
+	Ukraine	Ukrayna
+	United States	Amerika Birleşik Devletleri
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Güney Afrika
