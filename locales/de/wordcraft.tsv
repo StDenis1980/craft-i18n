@@ -111,6 +111,7 @@
 	All Caps	GROSSBUCHSTABEN
 	All caps	Großbuchstaben
 	All Commands	Alle Befehle
+	All documents based on the Normal template?	Alle Dokumente, die auf der Vorlage „Normal“ basieren?
 	All Fonts	Alle Schriftarten
 	All Levels	Alle Ebenen
 	All Markup	Alle Änderungen
@@ -186,13 +187,12 @@
 	Automatically hyphenate document	Silbentrennung im Dokument automatisch durchführen
 	Automatically Update Document Styles	Formatvorlagen des Dokuments automatisch aktualisieren
 	Automatically update document styles	Formatvorlagen des Dokuments automatisch aktualisieren
-	AutoSave	AutoSpeichern
 	AutoSave documents you have saved in WordCraft	In WordCraft gespeicherte Dokumente automatisch speichern
-	AutoSave failed: {error}. Save the document to turn AutoSave back on.	AutoSpeichern fehlgeschlagen: {error}. Speichern Sie das Dokument, um AutoSpeichern wieder zu aktivieren.
-	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	AutoSpeichern ist im Browser nicht verfügbar: Es kann nicht in Ihre Dateien schreiben. „Speichern“ lädt eine Kopie herunter.
-	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	AutoSpeichern behält nur .docx-, .odt- und .rtf-Dateien; {name} kann nicht die gesamte Formatierung bewahren. Speichern Sie als .docx, um AutoSpeichern zu aktivieren.
-	AutoSave saves every change to the file (needs a saved document)	AutoSpeichern speichert jede Änderung in der Datei (erfordert ein gespeichertes Dokument)
-	AutoSave writes your changes to the file a moment after you stop typing.	AutoSpeichern schreibt Ihre Änderungen kurz nach dem Ende der Eingabe in die Datei.
+	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Automatisches Speichern fehlgeschlagen: {error}. Speichern Sie das Dokument, um automatisches Speichern wieder zu aktivieren.
+	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	Automatisches Speichern ist im Browser nicht verfügbar: Es kann nicht in Ihre Dateien schreiben. „Speichern“ lädt eine Kopie herunter.
+	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	Automatisches Speichern unterstützt nur .docx-, .odt- und .rtf-Dateien; {name} kann nicht die gesamte Formatierung bewahren. Speichern Sie als .docx, um automatisches Speichern zu aktivieren.
+	AutoSave saves every change to the file (needs a saved document)	Automatisches Speichern sichert jede Änderung in der Datei (erfordert ein gespeichertes Dokument)
+	AutoSave writes your changes to the file a moment after you stop typing.	Automatisches Speichern schreibt Ihre Änderungen kurz nach dem Ende der Eingabe in die Datei.
 	AutoText	Textbausteine
 	Balloons	Sprechblasen
 	Banded Columns	Gestreifte Spalten
@@ -252,7 +252,7 @@
 	By author	Nach Autor
 	Calendar	Kalender
 	Can't be deleted	Kann nicht gelöscht werden
-	Can't find a command? Press Alt+Q and type what you want to do.	Befehl nicht gefunden? Drücken Sie Alt+Q und tippen Sie ein, was Sie tun möchten.
+	Can't find a command? Press {key} and type what you want to do.	Befehl nicht gefunden? Drücken Sie {key} und tippen Sie ein, was Sie tun möchten.
 	can't split at the first row	die Tabelle kann nicht an der ersten Zeile geteilt werden
 	Canvas Member	Element der Zeichenfläche
 	Capitalize Each Word	Jedes Wort großschreiben
@@ -430,10 +430,10 @@
 	Crop	Zuschneiden
 	Cross-reference	Querverweis
 	Cross-reference:	Querverweis:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter beginnt eine neue Seite. Viel ordentlicher, als so lange die Eingabetaste zu drücken, bis es passiert.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H sucht und ersetzt Text, Formatierungen und Sonderzeichen.
-	Ctrl+K turns the selected text into a link.	Ctrl+K macht aus dem markierten Text einen Link.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G zählt Ihre Wörter, Zeichen und Absätze.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} beginnt eine neue Seite. Viel ordentlicher, als so lange die Eingabetaste zu drücken, bis es passiert.
+	{key} finds and replaces text, formatting and special characters.	{key} sucht und ersetzt Text, Formatierungen und Sonderzeichen.
+	{key} turns the selected text into a link.	{key} macht aus dem markierten Text einen Link.
+	{key} counts your words, characters and paragraphs.	{key} zählt Ihre Wörter, Zeichen und Absätze.
 	Current Position	Aktuelle Position
 	Current record	Aktueller Datensatz
 	Current style: {style}	Aktuelle Formatvorlage: {style}
@@ -471,6 +471,7 @@
 	Decrease Font Size	Schriftgrad verkleinern
 	Decrease Indent	Einzug verkleinern
 	Deep	Tief
+	Default formatting	Standardformatierung
 	Default tab stops:	Standardtabstopps:
 	Define New Bullet	Neues Aufzählungszeichen definieren
 	Define New Multilevel List	Neue mehrstufige Liste definieren
@@ -535,7 +536,7 @@
 	Document Start	Dokumentanfang
 	Document template:	Dokumentvorlage:
 	Document Text	Dokumenttext
-	Document1	Document1
+	Document1	Dokument1
 	Document\nPreferences	Dokument-\neinstellungen
 	Documents you open will show up here.	Geöffnete Dokumente werden hier angezeigt.
 	Does not contain	Enthält nicht
@@ -654,8 +655,8 @@
 	Exported {path}	Exportiert: {path}
 	Extend Selection	Auswahl erweitern
 	Extend Selection by Units	Auswahl einheitenweise erweitern
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 wiederholt Ihre letzte Aktion. Zehn Überschriften formatieren? Plötzlich nur noch ein Klick und neun Tastendrücke.
-	F7 checks the spelling and grammar of the whole document.	F7 prüft Rechtschreibung und Grammatik im ganzen Dokument.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} wiederholt Ihre letzte Aktion. Zehn Überschriften formatieren? Plötzlich nur noch ein Klick und neun Tastendrücke.
+	{key} checks the spelling and grammar of the whole document.	{key} prüft Rechtschreibung und Grammatik im ganzen Dokument.
 	Faster: {command} is {key} on the keyboard.	Schneller: {command} geht auch mit {key} auf der Tastatur.
 	Field code:	Feldfunktion:
 	Field Codes	Feldfunktionen
@@ -722,6 +723,7 @@
 	Formatting at Selection	Formatierung an der Auswahl
 	Formatting exceptions	Formatierungsausnahmen
 	Formatting marks	Formatierungszeichen
+	Formatting saved for new documents:	Für neue Dokumente gespeicherte Formatierung:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Formatierung, Groß-/Kleinschreibung, Leerraum und Tabellen werden verglichen; die übrigen Einstellungen bleiben für später erhalten.
 	Formula	Formel
 	Formula:	Formel:
@@ -913,7 +915,7 @@
 	Interface theme:	Oberflächendesign:
 	Interface\nTheme	Oberflächen-\ndesign
 	Internet addresses as links	Internetadressen als Links
-	Intersection	Intersection
+	Intersection	Schnittmenge
 	Ionosphere	Ionosphäre
 	Is blank	Ist leer
 	Is not blank	Ist nicht leer
@@ -970,7 +972,7 @@
 	Letter	Brief
 	Letter headings	Buchstabenüberschriften
 	Letter template	Briefvorlage
-	Letters	Buchstaben
+	Letters	Briefe
 	Level {n}	Ebene {n}
 	Levels:	Ebenen:
 	Light Variations	Helle Varianten
@@ -1123,6 +1125,14 @@
 	Navigation Pane	Navigationsbereich
 	New Comment	Neuer Kommentar
 	New comments and tracked changes are recorded under this name and these initials.	Neue Kommentare und nachverfolgte Änderungen werden unter diesem Namen und diesen Initialen erfasst.
+	New Documents Based on This Template	Neue Dokumente, die auf dieser Vorlage basieren
+	New documents based on this template	Neue Dokumente, die auf dieser Vorlage basieren
+	New documents will use this font.	Neue Dokumente verwenden diese Schriftart.
+	New documents will use this page setup.	Neue Dokumente verwenden diese Seiteneinrichtung.
+	New documents will use this paragraph formatting.	Neue Dokumente verwenden diese Absatzformatierung.
+	New documents will use this style.	Neue Dokumente verwenden diese Formatvorlage.
+	New documents will use WordCraft's built-in formatting.	Neue Dokumente verwenden die integrierte Formatierung von WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Neue Dokumente verwenden die integrierte Formatierung von WordCraft. Ihre gespeicherten Standardeinstellungen lassen sich nicht wiederherstellen. Zurücksetzen?
 	New Drawing Canvas	Neue Zeichenfläche
 	New Entry	Neuer Eintrag
 	New Label	Neue Bezeichnung
@@ -1244,6 +1254,7 @@
 	Only for the selected text	Nur für den ausgewählten Text
 	Only form fields can be filled in.	Nur Formularfelder können ausgefüllt werden.
 	only in Outline view	nur in der Gliederungsansicht
+	Only in this document	Nur in diesem Dokument
 	Only the allowed styles can be applied.	Nur die zulässigen Formatvorlagen können angewendet werden.
 	Only web (http, https) and email (mailto) links can be followed	Nur Web- (http, https) und E-Mail-Links (mailto) können geöffnet werden
 	Open a document first	Zuerst ein Dokument öffnen
@@ -1473,6 +1484,14 @@
 	Remove Table of Contents	Inhaltsverzeichnis entfernen
 	Remove the control once edited	Steuerelement nach der Bearbeitung entfernen
 	Remove Watermark	Wasserzeichen entfernen
+	No watermark	Kein Wasserzeichen
+	Picture watermark	Bildwasserzeichen
+	Text watermark	Textwasserzeichen
+	Select Picture…	Bild auswählen…
+	Washout	Ausgewaschen
+	Semitransparent	Halbtransparent
+	Transparency:	Transparenz:
+	Select a picture first.	Wählen Sie zuerst ein Bild aus.
 	Rename Document	Dokument umbenennen
 	Rename Style	Formatvorlage umbenennen
 	Reopen	Erneut öffnen
@@ -1491,6 +1510,7 @@
 	Reset All…	Alle zurücksetzen…
 	Reset Character Formatting	Zeichenformatierung zurücksetzen
 	Reset Crop	Zuschnitt zurücksetzen
+	Reset Default Formatting	Standardformatierung zurücksetzen
 	Reset Graphic	Grafik zurücksetzen
 	Reset Paragraph Formatting	Absatzformatierung zurücksetzen
 	Reset Picture	Bild zurücksetzen
@@ -1549,8 +1569,8 @@
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Eine Kopie in einem anderen Format speichern. Gedruckt wird über ein PDF, das sich aus jedem Betrachter drucken lässt.
 	Save as Word Template…	Als Word-Vorlage speichern…
 	Save documents	Dokumente speichern
-	Save the document to turn on AutoSave	Speichern Sie das Dokument, um AutoSpeichern zu aktivieren
-	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Speichern Sie das Dokument, um AutoSpeichern zu aktivieren (eine nur geöffnete Datei wird erst beim Speichern neu geschrieben)
+	Save the document to turn on AutoSave	Speichern Sie das Dokument, um automatisches Speichern zu aktivieren
+	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Speichern Sie das Dokument, um automatisches Speichern zu aktivieren (eine nur geöffnete Datei wird erst beim Speichern neu geschrieben)
 	Save these pages as PDF…	Diese Seiten als PDF speichern…
 	Saved. Saved again. Still saved. It's very saved.	Gespeichert. Wieder gespeichert. Immer noch gespeichert. Sehr, sehr gespeichert.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Speichert eine .dotx-Vorlage in Ihrem Vorlagenordner. Sie erscheint unter Datei › Neu bei Persönlich.
@@ -1561,7 +1581,7 @@
 	Scale Drawing	Zeichnung skalieren
 	Scatter	Punkt (XY)
 	Script	Index
-	Scripts	Scripts
+	Scripts	Schriftvarianten
 	Scroll ribbon left	Menüband nach links scrollen
 	Scroll ribbon right	Menüband nach rechts scrollen
 	Search Commands	Befehle suchen
@@ -1629,6 +1649,9 @@
 	Series name	Name der Datenreihe
 	Series {n}	Datenreihe {n}
 	Set As Default	Als Standard festlegen
+	Set As Default (Font)	Als Standard festlegen (Schriftart)
+	Set As Default (Page Setup)	Als Standard festlegen (Seite einrichten)
+	Set As Default (Paragraph)	Als Standard festlegen (Absatz)
 	Set Caret	Einfügemarke setzen
 	Set Character Formatting	Zeichenformatierung festlegen
 	Set Date	Datum festlegen
@@ -1643,7 +1666,7 @@
 	Shape Format	Formformat
 	Shape Outline	Formkontur
 	Shape Styles	Formformate
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter beginnt eine neue Zeile, ohne einen neuen Absatz zu beginnen.
+	{key} starts a new line without starting a new paragraph.	{key} beginnt eine neue Zeile, ohne einen neuen Absatz zu beginnen.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Versandetiketten
 	Shortcut key:	Tastenkombination:
@@ -1689,7 +1712,7 @@
 	Show the Start screen when WordCraft starts	Startbildschirm beim Start von WordCraft anzeigen
 	Show the tips you asked not to see again.	Zeigt die Tipps wieder an, die Sie ausgeblendet haben.
 	Show/Hide ¶	¶ ein-/ausblenden
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	¶ ein-/ausblenden (Ctrl+Shift+8) zeigt die Leerzeichen, Tabstopps und Umbrüche, die sich in Ihrem Text verstecken.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	¶ ein-/ausblenden ({key}) zeigt die Leerzeichen, Tabstopps und Umbrüche, die sich in Ihrem Text verstecken.
 	Show\nComments	Kommentare\neinblenden
 	Showing the first {count} items.	Die ersten {count} Elemente werden angezeigt.
 	Shows a tree: each item below the item it belongs to.	Zeigt einen Baum: jedes Element unter dem Element, zu dem es gehört.
@@ -1869,6 +1892,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Die Ränder passen nicht auf eine Seite dieser Größe; verkleinern Sie zuerst die Ränder.
 	The measurement must be between {min} and {max}.	Das Maß muss zwischen {min} und {max} liegen.
 	The new style takes the formatting of the current paragraph.	Die neue Formatvorlage übernimmt die Formatierung des aktuellen Absatzes.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Die Vorlage „Normal“ konnte nicht gelesen werden, daher verwendet dieses Dokument die integrierte Formatierung von WordCraft.
 	The number must be between 1 and {max}.	Die Zahl muss zwischen 1 und {max} liegen.
 	the paragraph is empty	der Absatz ist leer
 	the paragraph starts with a space	der Absatz beginnt mit einem Leerzeichen
@@ -1897,6 +1921,8 @@
 	Thick	Stark
 	this chart was made in another program: WordCraft shows it but can't edit it	dieses Diagramm wurde in einem anderen Programm erstellt: WordCraft zeigt es an, kann es aber nicht bearbeiten
 	This document	Dieses Dokument
+	This document has no bookmarks.	Dieses Dokument hat keine Textmarken.
+	This document only?	Nur dieses Dokument?
 	This field has no options.	Dieses Feld hat keine Optionen.
 	This folder can't be read: {error}	Dieser Ordner kann nicht gelesen werden: {error}
 	This font has no characters to show.	Diese Schriftart hat keine Zeichen zum Anzeigen.
@@ -1905,6 +1931,8 @@
 	This password type isn't supported.	Dieser Kennworttyp wird nicht unterstützt.
 	This point forward	Ab dieser Stelle
 	This section	Dieser Abschnitt
+	this session has no Normal template (headless or without preferences)	diese Sitzung hat keine Vorlage „Normal“ (ohne Oberfläche oder ohne Einstellungen)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	diese Sitzung hat keine Vorlage „Normal“ (ohne Oberfläche oder ohne Einstellungen): verwenden Sie "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	diese SmartArt-Grafik wurde in einem anderen Programm erstellt: WordCraft zeigt sie an, kann sie aber nicht bearbeiten
 	this text box is already linked: break the link first	dieses Textfeld ist bereits verknüpft: heben Sie zuerst die Verknüpfung auf
 	Three	Drei
@@ -1974,6 +2002,7 @@
 	Undo {n} Actions	{n} Aktionen rückgängig
 	Undo, undo, undo… we're time travelling now.	Rückgängig, rückgängig, rückgängig… jetzt reisen wir durch die Zeit.
 	Unformatted Text	Unformatierter Text
+	Union	Vereinigung
 	Unlink Fields	Feldverknüpfungen aufheben
 	Unlink\nCitations	Verknüpfung der\nZitate lösen
 	Unlock Fields	Felder entsperren
@@ -1991,7 +2020,9 @@
 	Use an Existing List…	Vorhandene Liste verwenden…
 	Use system setting	Systemeinstellung verwenden
 	Use the browser's full screen (F11)	Verwenden Sie den Vollbildmodus des Browsers (F11)
+	Use the current style set and theme for all new documents?	Den aktuellen Formatvorlagensatz und das aktuelle Design für alle neuen Dokumente verwenden?
 	Use the Insert key to switch overtype on and off	Überschreibmodus mit der Einfg-Taste ein- und ausschalten
+	Use this formatting as the default for:	Diese Formatierung als Standard verwenden für:
 	Use wildcards	Platzhalter verwenden
 	User Name	Benutzername
 	User name:	Benutzername:
@@ -2052,7 +2083,7 @@
 	Write a reply	Antwort schreiben
 	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Schreibblockade? Mir hilft es, den Cursor anzustarren. Der blinzelt mich schon seit Jahren an.
 	Year	Jahr
-	You haven't saved in a while, and AutoSave is off. Save now?	Sie haben schon länger nicht gespeichert, und AutoSpeichern ist aus. Jetzt speichern?
+	You haven't saved in a while, and AutoSave is off. Save now?	Sie haben schon länger nicht gespeichert, und automatisches Speichern ist deaktiviert. Jetzt speichern?
 	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Sie haben eine Liste begonnen. Drücken Sie zweimal die Eingabetaste, um sie zu beenden, oder die Rücktaste am Anfang eines Eintrags, um ihn wieder in Text zu verwandeln.
 	Your document is now the most saved document in history.	Ihr Dokument ist jetzt das meistgespeicherte Dokument der Geschichte.
 	Your system doesn't report an animation setting, so animation effects stay on.	Ihr System meldet keine Animationseinstellung, daher bleiben Animationseffekte aktiviert.
@@ -2094,3 +2125,143 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	{words} Wörter! Ich würde ja Konfetti werfen, aber dann müsste ich hinterher aufräumen.
 	{words} words. That's {words} more than I've written today.	{words} Wörter. Das sind {words} mehr, als ich heute geschrieben habe.
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
+	tOGGLE cASE	gROSS-/kLEINSCHREIBUNG UMKEHREN
+	Normal	Standard
+	Emphasis	Betonung
+	Intense Emphasis	Intensive Betonung
+	No Spacing	Kein Abstand
+	Strong	Kräftig
+	Subtle Emphasis	Dezente Betonung
+	Subtle Reference	Dezenter Verweis
+	TOC {n}	Inhaltsverzeichnis {n}
+	Insert reference to:	Verweis einfügen auf:
+	Nothing of this type in the document.	Keine Elemente dieses Typs im Dokument vorhanden.
+	Above/below	Oben/Unten
+	East	Ost
+	Bright Green	Hellgrün
+	Turquoise	Türkis
+	Dark Blue	Dunkelblau
+	Teal	Petrol
+	Dark Red	Dunkelrot
+	Dark Yellow	Dunkelgelb
+	Gray-50%	Grau-50%
+	Gray-25%	Grau-25%
+	Add a language…	Sprache hinzufügen…
+	Add a language	Sprache hinzufügen
+	Your languages	Ihre Sprachen
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Englisch, die Sprachen dieses Dokuments und jedes installierte Sprachpaket. Sprachpakete bringen Rechtschreibwörterbücher und Silbentrennung mit.
+	Set as default	Als Standard festlegen
+	New blank documents are written in this language	Neue leere Dokumente werden in dieser Sprache geschrieben
+	{language} (default)	{language} (Standard)
+	Built in	Integriert
+	Your own dictionary	Ihr eigenes Wörterbuch
+	System dictionary	Systemwörterbuch
+	Not available yet	Noch nicht verfügbar
+	Grammar built in	Grammatik integriert
+	Install spelling ({size})	Rechtschreibung installieren ({size})
+	Its dictionary couldn't be read: {reason}	Das Wörterbuch konnte nicht gelesen werden: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Das Herunterladen ist ausgeschaltet. Ein Klick auf „Sprache hinzufügen…“ oder „Installieren“ schaltet es ein: WordCraft lädt dann Sprachpakete und Schriftarten von GitHub herunter.
+	Search:	Suchen:
+	Dutch, Nederlands or nl	Niederländisch, Nederlands oder nl
+	No languages to show yet.	Noch keine Sprachen anzuzeigen.
+	No language matches your search.	Keine Sprache entspricht Ihrer Suche.
+	An installed Language pack is used after this folder.	Ein installiertes Sprachpaket wird nach diesem Ordner verwendet.
+	Dictionary files	Wörterbuchdateien
+	Possible spelling mistake	Möglicher Rechtschreibfehler
+	Gets the list of Language packs, then this language's pack if there is one.	Holt die Liste der Sprachpakete, dann das Paket dieser Sprache, falls es eines gibt.
+	Afrikaans	Afrikaans
+	Belarusian	Belarussisch
+	Bulgarian	Bulgarisch
+	Bosnian	Bosnisch
+	Catalan	Katalanisch
+	Catalan (Valencian)	Katalanisch (Valencianisch)
+	Welsh	Walisisch
+	Esperanto	Esperanto
+	Persian	Persisch
+	Irish	Irisch
+	Galician	Galicisch
+	Hungarian	Ungarisch
+	Armenian	Armenisch
+	Icelandic	Isländisch
+	Georgian	Georgisch
+	Lithuanian	Litauisch
+	Latvian	Lettisch
+	Macedonian	Mazedonisch
+	Norwegian (Nynorsk)	Norwegisch (Nynorsk)
+	Slovak	Slowakisch
+	Slovenian	Slowenisch
+	Albanian	Albanisch
+	Swahili	Swahili
+	Tamil	Tamil
+	Thai	Thai
+	Vietnamese	Vietnamesisch
+	Set as Default Language	Als Standardsprache festlegen
+	U.A.E.	Vereinigte Arabische Emirate
+	Angola	Angola
+	Argentina	Argentinien
+	Austria	Österreich
+	Australia	Australien
+	Bosnia and Herzegovina	Bosnien und Herzegowina
+	Belgium	Belgien
+	Bolivia	Bolivien
+	Brazil	Brasilien
+	Belarus	Belarus
+	Canada	Kanada
+	Switzerland	Schweiz
+	Chile	Chile
+	China	China
+	Colombia	Kolumbien
+	Costa Rica	Costa Rica
+	Cuba	Kuba
+	Cabo Verde	Kap Verde
+	Cyprus	Zypern
+	Germany	Deutschland
+	Dominican Republic	Dominikanische Republik
+	Ecuador	Ecuador
+	Egypt	Ägypten
+	Spain	Spanien
+	Finland	Finnland
+	France	Frankreich
+	United Kingdom	Vereinigtes Königreich
+	Equatorial Guinea	Äquatorialguinea
+	Guatemala	Guatemala
+	Hong Kong SAR	Sonderverwaltungsregion Hongkong
+	Honduras	Honduras
+	Ireland	Irland
+	India	Indien
+	Iraq	Irak
+	Italy	Italien
+	Jamaica	Jamaika
+	Jordan	Jordanien
+	Kuwait	Kuwait
+	Kazakhstan	Kasachstan
+	Lebanon	Libanon
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxemburg
+	Morocco	Marokko
+	Monaco	Monaco
+	Montenegro	Montenegro
+	Macao SAR	Sonderverwaltungsregion Macau
+	Mexico	Mexiko
+	Malaysia	Malaysia
+	Mozambique	Mosambik
+	Nicaragua	Nicaragua
+	Netherlands	Niederlande
+	New Zealand	Neuseeland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Philippinen
+	Puerto Rico	Puerto Rico
+	Portugal	Portugal
+	Paraguay	Paraguay
+	Qatar	Katar
+	Russia	Russland
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Syrien
+	Taiwan	Taiwan
+	Ukraine	Ukraine
+	United States	Vereinigte Staaten
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Südafrika

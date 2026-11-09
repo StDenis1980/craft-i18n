@@ -112,6 +112,7 @@
 	All Caps	Усі великі літери
 	All caps	Усі великі літери
 	All Commands	Усі команди
+	All documents based on the Normal template?	Усіх документів на основі шаблону «Звичайний»?
 	All Fonts	Усі шрифти
 	All Levels	Усі рівні
 	All Markup	Усі позначки
@@ -255,7 +256,7 @@
 	By author	За автором
 	Calendar	Календар
 	Can't be deleted	Не можна видалити
-	Can't find a command? Press Alt+Q and type what you want to do.	Не можете знайти команду? Натисніть Alt+Q і напишіть, що хочете зробити.
+	Can't find a command? Press {key} and type what you want to do.	Не можете знайти команду? Натисніть {key} і напишіть, що хочете зробити.
 	can't split at the first row	не можна розділити таблицю на першому рядку
 	Canvas Member	Об’єкт полотна
 	Capitalize Each Word	Кожне слово з великої літери
@@ -431,10 +432,10 @@
 	Crop	Обітнути
 	Cross-reference	Перехресне посилання
 	Cross-reference:	Перехресне посилання:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter починає нову сторінку. Значно охайніше, ніж тиснути Enter, доки вона не з’явиться.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H знаходить і замінює текст, форматування та спеціальні символи.
-	Ctrl+K turns the selected text into a link.	Ctrl+K перетворює виділений текст на посилання.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G рахує слова, символи й абзаци.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} починає нову сторінку. Значно охайніше, ніж тиснути Enter, доки вона не з’явиться.
+	{key} finds and replaces text, formatting and special characters.	{key} знаходить і замінює текст, форматування та спеціальні символи.
+	{key} turns the selected text into a link.	{key} перетворює виділений текст на посилання.
+	{key} counts your words, characters and paragraphs.	{key} рахує слова, символи й абзаци.
 	Current Position	Поточне положення
 	Current record	Поточний запис
 	Current style: {style}	Поточний стиль: {style}
@@ -475,6 +476,7 @@
 	Decrease Indent	Зменшити відступ
 	Deep	Глибокий
 	Default	Типовий
+	Default formatting	Типове форматування
 	Default tab stops:	Типові позиції табуляції:
 	Define New Bullet	Визначити новий маркер
 	Define New Multilevel List	Визначити новий багаторівневий список
@@ -665,8 +667,8 @@
 	Exported {path}	Експортовано {path}
 	Extend Selection	Розширити виділення
 	Extend Selection by Units	Розширити виділення за одиницями
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повторює останню дію. Відформатувати десять заголовків — раптом один клік і дев’ять натискань.
-	F7 checks the spelling and grammar of the whole document.	F7 перевіряє правопис і граматику в усьому документі.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повторює останню дію. Відформатувати десять заголовків — раптом один клік і дев’ять натискань.
+	{key} checks the spelling and grammar of the whole document.	{key} перевіряє правопис і граматику в усьому документі.
 	Faster: {command} is {key} on the keyboard.	Швидше: {command} — це {key} на клавіатурі.
 	Field code:	Код поля:
 	Field Codes	Коди полів
@@ -736,6 +738,7 @@
 	Formatting at Selection	Форматування виділення
 	Formatting exceptions	Винятки форматування
 	Formatting marks	Знаки форматування
+	Formatting saved for new documents:	Форматування, збережене для нових документів:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Порівнюються форматування, регістр, пробіли й таблиці; інші параметри збережено на майбутнє.
 	Formula	Формула
 	Formula:	Формула:
@@ -1144,6 +1147,14 @@
 	New	Новий
 	New Comment	Новий коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нові коментарі та відстежувані зміни записуються під цим іменем і цими ініціалами.
+	New Documents Based on This Template	У нових документах на основі цього шаблону
+	New documents based on this template	У нових документах на основі цього шаблону
+	New documents will use this font.	Нові документи використовуватимуть цей шрифт.
+	New documents will use this page setup.	Нові документи використовуватимуть ці параметри сторінки.
+	New documents will use this paragraph formatting.	Нові документи використовуватимуть це форматування абзацу.
+	New documents will use this style.	Нові документи використовуватимуть цей стиль.
+	New documents will use WordCraft's built-in formatting.	Нові документи використовуватимуть вбудоване форматування WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нові документи використовуватимуть вбудоване форматування WordCraft. Збережені типові параметри не можна буде відновити. Скинути?
 	New Drawing Canvas	Нове полотно малювання
 	New Entry	Новий запис
 	New from Template	Створити з шаблону
@@ -1266,6 +1277,7 @@
 	Only for the selected text	Лише для виділеного тексту
 	Only form fields can be filled in.	Можна заповнювати лише поля форми.
 	only in Outline view	лише в поданні «План»
+	Only in this document	Лише в цьому документі
 	Only the allowed styles can be applied.	Можна застосовувати лише дозволені стилі.
 	Only web (http, https) and email (mailto) links can be followed	Можна переходити лише за вебпосиланнями (http, https) і посиланнями на електронну пошту (mailto)
 	Open a document first	Спочатку відкрийте документ
@@ -1495,6 +1507,14 @@
 	Remove Table of Contents	Видалити зміст
 	Remove the control once edited	Видалити елемент після редагування
 	Remove Watermark	Видалити водяний знак
+	No watermark	Без водяного знака
+	Picture watermark	Водяний знак із зображення
+	Text watermark	Текстовий водяний знак
+	Select Picture…	Вибрати зображення…
+	Washout	Вицвіле
+	Semitransparent	Напівпрозоре
+	Transparency:	Прозорість:
+	Select a picture first.	Спочатку виберіть зображення.
 	Rename Document	Перейменувати документ
 	Reopen	Відкрити знову
 	Repeat as header row on each page	Повторювати як рядок заголовка на кожній сторінці
@@ -1512,6 +1532,7 @@
 	Reset All…	Скинути все…
 	Reset Character Formatting	Скинути форматування символів
 	Reset Crop	Скинути обітнення
+	Reset Default Formatting	Скидання типового форматування
 	Reset Graphic	Скинути графіку
 	Reset Paragraph Formatting	Скинути форматування абзацу
 	Reset Picture	Скинути зображення
@@ -1653,6 +1674,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Зробити типовою
 	Set as Default	Установити як типове
+	Set As Default (Font)	Зробити типовою (Шрифт)
+	Set As Default (Page Setup)	Зробити типовою (Параметри сторінки)
+	Set As Default (Paragraph)	Зробити типовою (Абзац)
 	Set Caret	Установити каретку
 	Set Character Formatting	Установити форматування символів
 	Set Date	Задати дату
@@ -1668,7 +1692,7 @@
 	Shape Format	Формат фігури
 	Shape Outline	Контур фігури
 	Shape Styles	Стилі фігур
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter починає новий рядок, не починаючи новий абзац.
+	{key} starts a new line without starting a new paragraph.	{key} починає новий рядок, не починаючи новий абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикетки для відправлень
 	Shortcut key:	Сполучення клавіш:
@@ -1713,7 +1737,7 @@
 	Show the Start screen when WordCraft starts	Показувати початковий екран під час запуску WordCraft
 	Show the tips you asked not to see again.	Знову показує поради, які ви приховали.
 	Show/Hide ¶	Показати/приховати ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Показати/приховати ¶ (Ctrl+Shift+8) показує пробіли, табуляції та розриви, що ховаються у вашому тексті.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показати/приховати ¶ ({key}) показує пробіли, табуляції та розриви, що ховаються у вашому тексті.
 	Show\nComments	Показати\nкоментарі
 	Showing the first {count} items.	Показано лише перші елементи: {count}.
 	Shows a tree: each item below the item it belongs to.	Показує дерево: кожен елемент під елементом, до якого він належить.
@@ -1890,6 +1914,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не вміщуються на сторінці такого розміру; спершу зменште поля.
 	The measurement must be between {min} and {max}.	Розмір має бути від {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новий стиль використовує форматування поточного абзацу.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Не вдалося прочитати шаблон «Звичайний», тому цей документ використовує вбудоване форматування WordCraft.
 	The number must be between 1 and {max}.	Число має бути від 1 до {max}.
 	the paragraph is empty	абзац порожній
 	the paragraph starts with a space	абзац починається з пробілу
@@ -1917,6 +1942,7 @@
 	Thick	Товста
 	this chart was made in another program: WordCraft shows it but can't edit it	цю діаграму створено в іншій програмі: WordCraft показує її, але не може редагувати
 	This document	Цей документ
+	This document only?	Лише цього документа?
 	This field has no options.	Це поле не має параметрів.
 	This folder can't be read: {error}	Не вдається прочитати цю теку: {error}
 	This font has no characters to show.	Цей шрифт не має символів для показу.
@@ -1925,6 +1951,8 @@
 	This password type isn't supported.	Цей тип пароля не підтримується.
 	This point forward	Від цього місця
 	This section	Цей розділ
+	this session has no Normal template (headless or without preferences)	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань): використайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	цей SmartArt створено в іншій програмі: WordCraft показує його, але не може редагувати
 	this text box is already linked: break the link first	це текстове поле вже зв’язане: спочатку розірвіть зв’язок
 	Three	Три
@@ -2013,7 +2041,9 @@
 	Use an Existing List…	Використати наявний список…
 	Use system setting	Як у системі
 	Use the browser's full screen (F11)	Скористайтеся повноекранним режимом браузера (F11)
+	Use the current style set and theme for all new documents?	Використовувати поточний набір стилів і тему для всіх нових документів?
 	Use the Insert key to switch overtype on and off	Клавіша Insert вмикає та вимикає режим заміни
+	Use this formatting as the default for:	Використовувати це форматування як типове для:
 	Use wildcards	Використовувати шаблони
 	User Name	Ім'я користувача
 	User name:	Ім'я користувача:
@@ -2120,3 +2150,122 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	Слів: {words}! Я б кинув конфеті, але ж потім самому прибирати.
 	{words} words. That's {words} more than I've written today.	Слів: {words}. Це на {words} більше, ніж я написав сьогодні.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
+	Add a language…	Додати мову…
+	Add a language	Додати мову
+	Your languages	Ваші мови
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Англійська, мови цього документа та кожен установлений мовний пакет. Мовні пакети додають орфографічні словники та переноси.
+	Set as default	Зробити типовою
+	New blank documents are written in this language	Нові порожні документи пишуться цією мовою
+	{language} (default)	{language} (типово)
+	Built in	Вбудований
+	Your own dictionary	Ваш власний словник
+	System dictionary	Системний словник
+	Not available yet	Поки недоступний
+	Grammar built in	Граматика вбудована
+	Install spelling ({size})	Установити орфографію ({size})
+	Its dictionary couldn't be read: {reason}	Не вдалося прочитати його словник: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Завантаження вимкнено. Клацання «Додати мову…» або «Установити» вмикає його: тоді WordCraft завантажує мовні пакети та шрифти з GitHub.
+	Search:	Пошук:
+	Dutch, Nederlands or nl	Нідерландська, Nederlands або nl
+	No languages to show yet.	Поки немає мов для показу.
+	No language matches your search.	Жодна мова не відповідає пошуку.
+	An installed Language pack is used after this folder.	Установлений мовний пакет використовується після цієї папки.
+	Dictionary files	Файли словників
+	Possible spelling mistake	Можлива орфографічна помилка
+	Gets the list of Language packs, then this language's pack if there is one.	Отримує список мовних пакетів, а потім пакет цієї мови, якщо він є.
+	Afrikaans	Африкаанс
+	Belarusian	Білоруська
+	Bulgarian	Болгарська
+	Bosnian	Боснійська
+	Catalan	Каталонська
+	Catalan (Valencian)	Каталонська (валенсійська)
+	Welsh	Валлійська
+	Esperanto	Есперанто
+	Persian	Перська
+	Irish	Ірландська
+	Galician	Галісійська
+	Hungarian	Угорська
+	Armenian	Вірменська
+	Icelandic	Ісландська
+	Georgian	Грузинська
+	Lithuanian	Литовська
+	Latvian	Латвійська
+	Macedonian	Македонська
+	Norwegian (Nynorsk)	Норвезька (нюнорськ)
+	Slovak	Словацька
+	Slovenian	Словенська
+	Albanian	Албанська
+	Swahili	Суахілі
+	Tamil	Тамільська
+	Thai	Тайська
+	Vietnamese	В’єтнамська
+	Set as Default Language	Зробити типовою мовою
+	U.A.E.	ОАЕ
+	Angola	Ангола
+	Argentina	Аргентина
+	Austria	Австрія
+	Australia	Австралія
+	Bosnia and Herzegovina	Боснія і Герцеговина
+	Belgium	Бельгія
+	Bolivia	Болівія
+	Brazil	Бразилія
+	Belarus	Білорусь
+	Canada	Канада
+	Switzerland	Швейцарія
+	Chile	Чилі
+	China	Китай
+	Colombia	Колумбія
+	Costa Rica	Коста-Рика
+	Cuba	Куба
+	Cabo Verde	Кабо-Верде
+	Cyprus	Кіпр
+	Germany	Німеччина
+	Dominican Republic	Домініканська Республіка
+	Ecuador	Еквадор
+	Egypt	Єгипет
+	Spain	Іспанія
+	Finland	Фінляндія
+	France	Франція
+	United Kingdom	Велика Британія
+	Equatorial Guinea	Екваторіальна Гвінея
+	Guatemala	Гватемала
+	Hong Kong SAR	САР Гонконг
+	Honduras	Гондурас
+	Ireland	Ірландія
+	India	Індія
+	Iraq	Ірак
+	Italy	Італія
+	Jamaica	Ямайка
+	Jordan	Йорданія
+	Kuwait	Кувейт
+	Kazakhstan	Казахстан
+	Lebanon	Ліван
+	Liechtenstein	Ліхтенштейн
+	Luxembourg	Люксембург
+	Morocco	Марокко
+	Monaco	Монако
+	Montenegro	Чорногорія
+	Macao SAR	САР Макао
+	Mexico	Мексика
+	Malaysia	Малайзія
+	Mozambique	Мозамбік
+	Nicaragua	Нікарагуа
+	Netherlands	Нідерланди
+	New Zealand	Нова Зеландія
+	Panama	Панама
+	Peru	Перу
+	Philippines	Філіппіни
+	Puerto Rico	Пуерто-Рико
+	Portugal	Португалія
+	Paraguay	Парагвай
+	Qatar	Катар
+	Russia	Росія
+	Singapore	Сінгапур
+	El Salvador	Сальвадор
+	Syria	Сирія
+	Taiwan	Тайвань
+	Ukraine	Україна
+	United States	Сполучені Штати
+	Uruguay	Уругвай
+	Venezuela	Венесуела
+	South Africa	Південна Африка

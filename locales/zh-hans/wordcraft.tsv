@@ -115,6 +115,7 @@
 	All Borders	所有框线
 	All caps	全部大写
 	All Commands	所有命令
+	All documents based on the Normal template?	基于“正常”模板的所有文档？
 	All Fonts	所有字体
 	All Levels	所有级别
 	All Markup	所有标记
@@ -254,7 +255,7 @@
 	By author	按作者
 	Calendar	日历
 	Can't be deleted	无法删除
-	Can't find a command? Press Alt+Q and type what you want to do.	找不到命令？按 Alt+Q，然后输入你想做的事。
+	Can't find a command? Press {key} and type what you want to do.	找不到命令？按 {key}，然后输入你想做的事。
 	can't split at the first row	无法在第一行处拆分表格
 	Canvas Member	画布成员
 	Capitalize Each Word	每个单词首字母大写
@@ -432,10 +433,10 @@
 	Croatian	克罗地亚语
 	Cross-reference	交叉引用
 	Cross-reference:	交叉引用：
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter 可以开始新的一页。比一直按 Enter 直到换页整洁多了。
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H 可以查找和替换文字、格式和特殊字符。
-	Ctrl+K turns the selected text into a link.	Ctrl+K 可以将所选文字变成链接。
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G 可以统计字数、字符数和段落数。
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 可以开始新的一页。比一直按 Enter 直到换页整洁多了。
+	{key} finds and replaces text, formatting and special characters.	{key} 可以查找和替换文字、格式和特殊字符。
+	{key} turns the selected text into a link.	{key} 可以将所选文字变成链接。
+	{key} counts your words, characters and paragraphs.	{key} 可以统计字数、字符数和段落数。
 	Current Position	当前位置
 	Current record	当前记录
 	Current style: {style}	当前样式：{style}
@@ -473,6 +474,7 @@
 	Decrease Font Size	减小字号
 	Decrease Indent	减少缩进量
 	Deep	深沉
+	Default formatting	默认格式
 	Default tab stops:	默认制表位：
 	Define New Bullet	定义新项目符号
 	Define New Multilevel List	定义新的多级列表
@@ -658,8 +660,8 @@
 	Export Page as PNG	将页面导出为 PNG
 	Extend Selection	扩展选定范围
 	Extend Selection by Units	按单位扩展选定范围
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。
-	F7 checks the spelling and grammar of the whole document.	F7 可以检查整个文档的拼写和语法。
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。
+	{key} checks the spelling and grammar of the whole document.	{key} 可以检查整个文档的拼写和语法。
 	Faster: {command} is {key} on the keyboard.	更快的方法：{command} 的键盘快捷键是 {key}。
 	Field	域
 	Field code:	域代码：
@@ -731,6 +733,7 @@
 	Formatting at Selection	选定内容的格式
 	Formatting exceptions	格式例外
 	Formatting marks	格式标记
+	Formatting saved for new documents:	为新文档保存的格式：
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	会比较格式、大小写、空白和表格；其他设置留待以后支持。
 	Formula	公式
 	Formula:	公式：
@@ -1130,6 +1133,14 @@
 	Navigation Pane	导航窗格
 	New Comment	新建批注
 	New comments and tracked changes are recorded under this name and these initials.	新批注和修订将以此名称和缩写记录。
+	New Documents Based on This Template	基于此模板的新文档
+	New documents based on this template	基于此模板的新文档
+	New documents will use this font.	新文档将使用此字体。
+	New documents will use this page setup.	新文档将使用此页面设置。
+	New documents will use this paragraph formatting.	新文档将使用此段落格式。
+	New documents will use this style.	新文档将使用此样式。
+	New documents will use WordCraft's built-in formatting.	新文档将使用 WordCraft 的内置格式。
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文档将使用 WordCraft 的内置格式。已保存的默认设置无法恢复。是否重置？
 	New Drawing Canvas	新建绘图画布
 	New Entry	新建条目
 	New Label	新建标签
@@ -1249,6 +1260,7 @@
 	Only for the selected text	仅针对所选文字
 	Only form fields can be filled in.	只能填写窗体域。
 	only in Outline view	仅在大纲视图中可用
+	Only in this document	仅在此文档中
 	Only the allowed styles can be applied.	只能应用允许的样式。
 	Only web (http, https) and email (mailto) links can be followed	只能打开网页（http、https）和电子邮件（mailto）链接
 	Open a document first	请先打开文档
@@ -1480,6 +1492,14 @@
 	Remove Table of Contents	删除目录
 	Remove the control once edited	编辑后删除控件
 	Remove Watermark	删除水印
+	No watermark	无水印
+	Picture watermark	图片水印
+	Text watermark	文字水印
+	Select Picture…	选择图片…
+	Washout	褪色
+	Semitransparent	半透明
+	Transparency:	透明度：
+	Select a picture first.	请先选择图片。
 	Rename Document	重命名文档
 	Reopen	重新打开
 	Repeat as header row on each page	在各页重复作为标题行
@@ -1500,6 +1520,7 @@
 	Reset All…	全部重置…
 	Reset Character Formatting	重置字符格式
 	Reset Crop	重设裁剪
+	Reset Default Formatting	重置默认格式
 	Reset Graphic	重设图形
 	Reset Paragraph Formatting	重置段落格式
 	Reset Picture	重设图片
@@ -1640,6 +1661,9 @@
 	Series {n}	系列 {n}
 	Set As Default	设为默认值
 	Set as Default	设为默认值
+	Set As Default (Font)	设为默认值（字体）
+	Set As Default (Page Setup)	设为默认值（页面设置）
+	Set As Default (Paragraph)	设为默认值（段落）
 	Set Caret	设置光标
 	Set Character Formatting	设置字符格式
 	Set Date	设置日期
@@ -1654,7 +1678,7 @@
 	Shape Format	形状格式
 	Shape Outline	形状轮廓
 	Shape Styles	形状样式
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter 可以换行，但不开始新段落。
+	{key} starts a new line without starting a new paragraph.	{key} 可以换行，但不开始新段落。
 	Shift+Tab	Shift+Tab
 	Shipping labels	运输标签
 	Shortcut key:	快捷键：
@@ -1698,7 +1722,7 @@
 	Show the Start screen when WordCraft starts	启动 WordCraft 时显示开始屏幕
 	Show the tips you asked not to see again.	重新显示你要求不再显示的提示。
 	Show/Hide ¶	显示/隐藏 ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	显示/隐藏 ¶ (Ctrl+Shift+8) 会显示藏在文字中的空格、制表符和分隔符。
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	显示/隐藏 ¶ ({key}) 会显示藏在文字中的空格、制表符和分隔符。
 	Show\nComments	显示批注
 	Showing the first {count} items.	仅显示前 {count} 项。
 	Shows a tree: each item below the item it belongs to.	显示树形结构：每个项目位于其所属项目的下方。
@@ -1879,6 +1903,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	页边距放不进此大小的页面；请先减小页边距。
 	The measurement must be between {min} and {max}.	度量值必须介于 {min} 和 {max} 之间。
 	The new style takes the formatting of the current paragraph.	新样式将采用当前段落的格式。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	无法读取“正常”模板，因此此文档使用 WordCraft 的内置格式。
 	The number must be between 1 and {max}.	数字必须介于 1 和 {max} 之间。
 	the paragraph is empty	段落为空
 	the paragraph starts with a space	段落以空格开头
@@ -1906,6 +1931,7 @@
 	Thick	粗线
 	this chart was made in another program: WordCraft shows it but can't edit it	此图表由其他程序创建: WordCraft 可以显示但无法编辑
 	This document	此文档
+	This document only?	仅此文档？
 	This field has no options.	此域没有选项。
 	This folder can't be read: {error}	无法读取此文件夹：{error}
 	This font has no characters to show.	此字体没有可显示的字符。
@@ -1914,6 +1940,8 @@
 	This password type isn't supported.	不支持此密码类型。
 	This point forward	插入点之后
 	This section	本节
+	this session has no Normal template (headless or without preferences)	此会话没有“正常”模板（无界面或无首选项）
+	this session has no Normal template (headless or without preferences): use "scope": "document"	此会话没有“正常”模板（无界面或无首选项）：请使用 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	此 SmartArt 由其他程序创建: WordCraft 可以显示但无法编辑
 	this text box is already linked: break the link first	此文本框已链接: 请先断开链接
 	Three	三栏
@@ -2003,7 +2031,9 @@
 	Use an Existing List…	使用现有列表…
 	Use system setting	使用系统设置
 	Use the browser's full screen (F11)	请使用浏览器的全屏模式 (F11)
+	Use the current style set and theme for all new documents?	将当前样式集和主题用于所有新文档？
 	Use the Insert key to switch overtype on and off	用 Insert 键切换改写模式
+	Use this formatting as the default for:	将此格式用作以下内容的默认格式：
 	Use wildcards	使用通配符
 	User Name	用户名
 	User name:	用户名：
@@ -2112,3 +2142,123 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	{words} 个字！我想放彩带，但之后还得自己清理。
 	{words} words. That's {words} more than I've written today.	{words} 个字。比我今天写的多了 {words} 个。
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
+	Add a language…	添加语言…
+	Add a language	添加语言
+	Your languages	你的语言
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	英语、此文档的语言，以及每个已安装的语言包。语言包会添加拼写词典和断字规则。
+	Set as default	设为默认
+	New blank documents are written in this language	新的空白文档将使用此语言书写
+	{language} (default)	{language}（默认）
+	Built in	内置
+	Your own dictionary	你自己的词典
+	System dictionary	系统词典
+	Not available yet	暂不可用
+	Grammar built in	已内置语法检查
+	Install spelling ({size})	安装拼写检查（{size}）
+	Its dictionary couldn't be read: {reason}	无法读取其词典：{reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	下载已关闭。点击“添加语言…”或“安装”会将其打开，之后 WordCraft 会从 GitHub 下载语言包和字体。
+	Search:	搜索：
+	Dutch, Nederlands or nl	荷兰语、Nederlands 或 nl
+	No languages to show yet.	暂无可显示的语言。
+	No language matches your search.	没有与搜索匹配的语言。
+	An installed Language pack is used after this folder.	已安装的语言包在此文件夹之后使用。
+	Dictionary files	词典文件
+	Possible spelling mistake	可能的拼写错误
+	Gets the list of Language packs, then this language's pack if there is one.	获取语言包列表，然后获取此语言的语言包（如果有）。
+	Afrikaans	南非荷兰语
+	Belarusian	白俄罗斯语
+	Bulgarian	保加利亚语
+	Bosnian	波斯尼亚语
+	Catalan	加泰罗尼亚语
+	Catalan (Valencian)	加泰罗尼亚语（巴伦西亚语）
+	Welsh	威尔士语
+	Esperanto	世界语
+	Persian	波斯语
+	Irish	爱尔兰语
+	Galician	加利西亚语
+	Hungarian	匈牙利语
+	Armenian	亚美尼亚语
+	Icelandic	冰岛语
+	Georgian	格鲁吉亚语
+	Lithuanian	立陶宛语
+	Latvian	拉脱维亚语
+	Macedonian	马其顿语
+	Norwegian (Nynorsk)	挪威语（新挪威语）
+	Slovak	斯洛伐克语
+	Slovenian	斯洛文尼亚语
+	Albanian	阿尔巴尼亚语
+	Swahili	斯瓦希里语
+	Tamil	泰米尔语
+	Thai	泰语
+	Vietnamese	越南语
+	Set as Default Language	设为默认语言
+	{language} ({region})	{language}（{region}）
+	U.A.E.	阿联酋
+	Angola	安哥拉
+	Argentina	阿根廷
+	Austria	奥地利
+	Australia	澳大利亚
+	Bosnia and Herzegovina	波斯尼亚和黑塞哥维那
+	Belgium	比利时
+	Bolivia	玻利维亚
+	Brazil	巴西
+	Belarus	白俄罗斯
+	Canada	加拿大
+	Switzerland	瑞士
+	Chile	智利
+	China	中国
+	Colombia	哥伦比亚
+	Costa Rica	哥斯达黎加
+	Cuba	古巴
+	Cabo Verde	佛得角
+	Cyprus	塞浦路斯
+	Germany	德国
+	Dominican Republic	多米尼加共和国
+	Ecuador	厄瓜多尔
+	Egypt	埃及
+	Spain	西班牙
+	Finland	芬兰
+	France	法国
+	United Kingdom	英国
+	Equatorial Guinea	赤道几内亚
+	Guatemala	危地马拉
+	Hong Kong SAR	中国香港特别行政区
+	Honduras	洪都拉斯
+	Ireland	爱尔兰
+	India	印度
+	Iraq	伊拉克
+	Italy	意大利
+	Jamaica	牙买加
+	Jordan	约旦
+	Kuwait	科威特
+	Kazakhstan	哈萨克斯坦
+	Lebanon	黎巴嫩
+	Liechtenstein	列支敦士登
+	Luxembourg	卢森堡
+	Morocco	摩洛哥
+	Monaco	摩纳哥
+	Montenegro	黑山
+	Macao SAR	中国澳门特别行政区
+	Mexico	墨西哥
+	Malaysia	马来西亚
+	Mozambique	莫桑比克
+	Nicaragua	尼加拉瓜
+	Netherlands	荷兰
+	New Zealand	新西兰
+	Panama	巴拿马
+	Peru	秘鲁
+	Philippines	菲律宾
+	Puerto Rico	波多黎各
+	Portugal	葡萄牙
+	Paraguay	巴拉圭
+	Qatar	卡塔尔
+	Russia	俄罗斯
+	Singapore	新加坡
+	El Salvador	萨尔瓦多
+	Syria	叙利亚
+	Taiwan	台湾
+	Ukraine	乌克兰
+	United States	美国
+	Uruguay	乌拉圭
+	Venezuela	委内瑞拉
+	South Africa	南非

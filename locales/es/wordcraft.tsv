@@ -133,6 +133,7 @@
 	All Caps	Mayúsculas
 	All caps	Mayúsculas
 	All Commands	Todos los comandos
+	All documents based on the Normal template?	¿Todos los documentos basados en la plantilla Normal?
 	All Fonts	Todas las fuentes
 	All Levels	Todos los niveles
 	All Markup	Todas las marcas
@@ -292,7 +293,7 @@
 	By author	Por autor
 	Calendar	Calendario
 	Can't be deleted	No se puede eliminar
-	Can't find a command? Press Alt+Q and type what you want to do.	¿No encuentras un comando? Pulsa Alt+Q y escribe lo que quieres hacer.
+	Can't find a command? Press {key} and type what you want to do.	¿No encuentras un comando? Pulsa {key} y escribe lo que quieres hacer.
 	can't split at the first row	no se puede dividir la tabla en la primera fila
 	Canvas Member	Elemento del lienzo
 	Capitalize Each Word	Mayúscula inicial en cada palabra
@@ -501,10 +502,10 @@
 	Croatian	Croata
 	Cross-reference	Referencia cruzada
 	Cross-reference:	Referencia cruzada:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter empieza una página nueva. Mucho más limpio que pulsar Intro hasta que pase.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H busca y reemplaza texto, formato y caracteres especiales.
-	Ctrl+K turns the selected text into a link.	Ctrl+K convierte el texto seleccionado en un vínculo.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G cuenta tus palabras, caracteres y párrafos.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} empieza una página nueva. Mucho más limpio que pulsar Intro hasta que pase.
+	{key} finds and replaces text, formatting and special characters.	{key} busca y reemplaza texto, formato y caracteres especiales.
+	{key} turns the selected text into a link.	{key} convierte el texto seleccionado en un vínculo.
+	{key} counts your words, characters and paragraphs.	{key} cuenta tus palabras, caracteres y párrafos.
 	Cube Root	Raíz cúbica
 	Current - Linear	Actual - Lineal
 	Current - Professional	Actual - Profesional
@@ -544,6 +545,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Los objetos decorativos solo aportan interés visual: los lectores de pantalla los omiten.
 	Decrease Indent	Reducir sangría
 	Deep	Profundo
+	Default formatting	Formato predeterminado
 	Default Paragraph Font	Fuente de párrafo predeterminada
 	Default tab stops:	Tabulaciones predeterminadas:
 	Define New Bullet	Definir nueva viñeta
@@ -764,8 +766,8 @@
 	Exported {path}	Exportado: {path}
 	Extend Selection	Ampliar selección
 	Extend Selection by Units	Ampliar selección por unidades
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 repite tu última acción. Dar formato a diez títulos pasa a ser un clic y nueve toques.
-	F7 checks the spelling and grammar of the whole document.	F7 revisa la ortografía y la gramática de todo el documento.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} repite tu última acción. Dar formato a diez títulos pasa a ser un clic y nueve toques.
+	{key} checks the spelling and grammar of the whole document.	{key} revisa la ortografía y la gramática de todo el documento.
 	Faster: {command} is {key} on the keyboard.	Más rápido: {command} es {key} en el teclado.
 	Field code:	Código de campo:
 	Field Codes	Códigos de campo
@@ -834,6 +836,7 @@
 	Formatting at Selection	Formato en la selección
 	Formatting exceptions	Excepciones de formato
 	Formatting marks	Marcas de formato
+	Formatting saved for new documents:	Formato guardado para documentos nuevos:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Se comparan el formato, las mayúsculas, los espacios en blanco y las tablas; los demás ajustes se guardan para más adelante.
 	Formula	Fórmula
 	Formula:	Fórmula:
@@ -1293,6 +1296,14 @@
 	Negated Relations	Relaciones negadas
 	New Comment	Nuevo comentario
 	New comments and tracked changes are recorded under this name and these initials.	Los comentarios y cambios con seguimiento nuevos se registran con este nombre y estas iniciales.
+	New Documents Based on This Template	Documentos nuevos basados en esta plantilla
+	New documents based on this template	Documentos nuevos basados en esta plantilla
+	New documents will use this font.	Los documentos nuevos usarán esta fuente.
+	New documents will use this page setup.	Los documentos nuevos usarán esta configuración de página.
+	New documents will use this paragraph formatting.	Los documentos nuevos usarán este formato de párrafo.
+	New documents will use this style.	Los documentos nuevos usarán este estilo.
+	New documents will use WordCraft's built-in formatting.	Los documentos nuevos usarán el formato integrado de WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Los documentos nuevos usarán el formato integrado de WordCraft. Tus valores predeterminados guardados no se podrán recuperar. ¿Restablecer?
 	New Drawing Canvas	Nuevo lienzo de dibujo
 	New Entry	Nueva entrada
 	New from Template	Nuevo desde plantilla
@@ -1420,6 +1431,7 @@
 	Only for the selected text	Solo para el texto seleccionado
 	Only form fields can be filled in.	Solo se pueden rellenar los campos de formulario.
 	only in Outline view	solo en la vista Esquema
+	Only in this document	Solo en este documento
 	Only the allowed styles can be applied.	Solo se pueden aplicar los estilos permitidos.
 	Only web (http, https) and email (mailto) links can be followed	Solo se pueden seguir vínculos web (http, https) y de correo electrónico (mailto)
 	Open a document first	Abra primero un documento
@@ -1667,6 +1679,14 @@
 	Remove Table of Contents	Quitar tabla de contenido
 	Remove the control once edited	Quitar el control al editarlo
 	Remove Watermark	Quitar marca de agua
+	No watermark	Sin marca de agua
+	Picture watermark	Marca de agua de imagen
+	Text watermark	Marca de agua de texto
+	Select Picture…	Seleccionar imagen…
+	Washout	Descolorido
+	Semitransparent	Semitransparente
+	Transparency:	Transparencia:
+	Select a picture first.	Seleccione primero una imagen.
 	Rename Document	Cambiar nombre del documento
 	Reopen	Reabrir
 	Repeat as header row on each page	Repetir como fila de encabezado en cada página
@@ -1684,6 +1704,7 @@
 	Reset All…	Restablecer todo…
 	Reset Character Formatting	Restablecer formato de caracteres
 	Reset Crop	Restablecer recorte
+	Reset Default Formatting	Restablecer formato predeterminado
 	Reset Graphic	Restablecer gráfico
 	Reset Paragraph Formatting	Restablecer formato de párrafo
 	Reset Picture	Restablecer imagen
@@ -1828,6 +1849,9 @@
 	Series name	Nombre de la serie
 	Series {n}	Serie {n}
 	Set As Default	Establecer como predeterminado
+	Set As Default (Font)	Establecer como predeterminado (Fuente)
+	Set As Default (Page Setup)	Establecer como predeterminado (Configurar página)
+	Set As Default (Paragraph)	Establecer como predeterminado (Párrafo)
 	Set Caret	Colocar el cursor
 	Set Character Formatting	Establecer formato de carácter
 	Set Date	Establecer fecha
@@ -1842,7 +1866,7 @@
 	Shape Format	Formato de forma
 	Shape Outline	Contorno de forma
 	Shape Styles	Estilos de forma
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter empieza una línea nueva sin empezar un párrafo nuevo.
+	{key} starts a new line without starting a new paragraph.	{key} empieza una línea nueva sin empezar un párrafo nuevo.
 	Shift+Tab	Mayús+Tab
 	Shipping labels	Etiquetas de envío
 	Shortcut key:	Atajo de teclado:
@@ -1888,7 +1912,7 @@
 	Show the Start screen when WordCraft starts	Mostrar la pantalla de inicio al abrir WordCraft
 	Show the tips you asked not to see again.	Vuelve a mostrar los consejos que pediste no ver.
 	Show/Hide ¶	Mostrar u ocultar ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Mostrar u ocultar ¶ (Ctrl+Shift+8) muestra los espacios, tabulaciones y saltos que se esconden en tu texto.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Mostrar u ocultar ¶ ({key}) muestra los espacios, tabulaciones y saltos que se esconden en tu texto.
 	Show\nComments	Mostrar\ncomentarios
 	Showing the first {count} items.	Se muestran los primeros {count} elementos.
 	Shows a tree: each item below the item it belongs to.	Muestra un árbol: cada elemento debajo del elemento al que pertenece.
@@ -2108,6 +2132,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Los márgenes no caben en una página de este tamaño; reduzca primero los márgenes.
 	The measurement must be between {min} and {max}.	La medida debe estar entre {min} y {max}.
 	The new style takes the formatting of the current paragraph.	El nuevo estilo toma el formato del párrafo actual.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	No se pudo leer la plantilla Normal, así que este documento usa el formato integrado de WordCraft.
 	The number must be between 1 and {max}.	El número debe estar entre 1 y {max}.
 	the paragraph is empty	el párrafo está vacío
 	the paragraph starts with a space	el párrafo empieza con un espacio
@@ -2135,6 +2160,7 @@
 	Thick	Gruesa
 	this chart was made in another program: WordCraft shows it but can't edit it	este gráfico se creó en otro programa: WordCraft lo muestra pero no puede editarlo
 	This document	Este documento
+	This document only?	¿Solo este documento?
 	This field has no options.	Este campo no tiene opciones.
 	This folder can't be read: {error}	No se puede leer esta carpeta: {error}
 	This font has no characters to show.	Esta fuente no tiene caracteres que mostrar.
@@ -2143,6 +2169,8 @@
 	This password type isn't supported.	Este tipo de contraseña no es compatible.
 	This point forward	De aquí en adelante
 	This section	Esta sección
+	this session has no Normal template (headless or without preferences)	esta sesión no tiene plantilla Normal (sin interfaz o sin preferencias)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	esta sesión no tiene plantilla Normal (sin interfaz o sin preferencias): usa "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	este SmartArt se creó en otro programa: WordCraft lo muestra pero no puede editarlo
 	this text box is already linked: break the link first	este cuadro de texto ya está vinculado: quite primero el vínculo
 	Three	Tres
@@ -2252,7 +2280,9 @@ preview	Title	Título
 	Use an Existing List…	Usar una lista existente…
 	Use system setting	Usar la configuración del sistema
 	Use the browser's full screen (F11)	Use la pantalla completa del navegador (F11)
+	Use the current style set and theme for all new documents?	¿Usar el conjunto de estilos y el tema actuales para todos los documentos nuevos?
 	Use the Insert key to switch overtype on and off	Usar la tecla Insert para activar y desactivar la sobrescritura
+	Use this formatting as the default for:	Usar este formato como predeterminado para:
 	Use wildcards	Usar caracteres comodín
 	User Name	Nombre de usuario
 	User name:	Nombre de usuario:
@@ -2366,3 +2396,122 @@ preview	Title	Título
 	{words} words. That's {words} more than I've written today.	{words} palabras. Son {words} más de las que he escrito yo hoy.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) no es un número.
 	✓ None	✓ Ninguno
+	Add a language…	Añadir un idioma…
+	Add a language	Añadir un idioma
+	Your languages	Tus idiomas
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Inglés, los idiomas de este documento y cada paquete de idioma instalado. Los paquetes de idioma añaden diccionarios ortográficos y separación silábica.
+	Set as default	Establecer como predeterminado
+	New blank documents are written in this language	Los documentos en blanco nuevos se escriben en este idioma
+	{language} (default)	{language} (predeterminado)
+	Built in	Integrado
+	Your own dictionary	Tu propio diccionario
+	System dictionary	Diccionario del sistema
+	Not available yet	Aún no disponible
+	Grammar built in	Gramática integrada
+	Install spelling ({size})	Instalar ortografía ({size})
+	Its dictionary couldn't be read: {reason}	No se pudo leer su diccionario: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	La descarga está desactivada. Al hacer clic en «Añadir un idioma…» o «Instalar» se activa: WordCraft descargará entonces paquetes de idioma y fuentes desde GitHub.
+	Search:	Buscar:
+	Dutch, Nederlands or nl	Neerlandés, Nederlands o nl
+	No languages to show yet.	Aún no hay idiomas que mostrar.
+	No language matches your search.	Ningún idioma coincide con tu búsqueda.
+	An installed Language pack is used after this folder.	Un paquete de idioma instalado se usa después de esta carpeta.
+	Dictionary files	Archivos de diccionario
+	Possible spelling mistake	Posible error ortográfico
+	Gets the list of Language packs, then this language's pack if there is one.	Obtiene la lista de paquetes de idioma y luego el paquete de este idioma, si lo hay.
+	Afrikaans	afrikáans
+	Belarusian	bielorruso
+	Bulgarian	búlgaro
+	Bosnian	bosnio
+	Catalan	catalán
+	Catalan (Valencian)	catalán (valenciano)
+	Welsh	galés
+	Esperanto	esperanto
+	Persian	persa
+	Irish	irlandés
+	Galician	gallego
+	Hungarian	húngaro
+	Armenian	armenio
+	Icelandic	islandés
+	Georgian	georgiano
+	Lithuanian	lituano
+	Latvian	letón
+	Macedonian	macedonio
+	Norwegian (Nynorsk)	noruego (nynorsk)
+	Slovak	eslovaco
+	Slovenian	esloveno
+	Albanian	albanés
+	Swahili	suajili
+	Tamil	tamil
+	Thai	tailandés
+	Vietnamese	vietnamita
+	Set as Default Language	Establecer como idioma predeterminado
+	U.A.E.	Emiratos Árabes Unidos
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Austria
+	Australia	Australia
+	Bosnia and Herzegovina	Bosnia y Herzegovina
+	Belgium	Bélgica
+	Bolivia	Bolivia
+	Brazil	Brasil
+	Belarus	Bielorrusia
+	Canada	Canadá
+	Switzerland	Suiza
+	Chile	Chile
+	China	China
+	Colombia	Colombia
+	Costa Rica	Costa Rica
+	Cuba	Cuba
+	Cabo Verde	Cabo Verde
+	Cyprus	Chipre
+	Germany	Alemania
+	Dominican Republic	República Dominicana
+	Ecuador	Ecuador
+	Egypt	Egipto
+	Spain	España
+	Finland	Finlandia
+	France	Francia
+	United Kingdom	Reino Unido
+	Equatorial Guinea	Guinea Ecuatorial
+	Guatemala	Guatemala
+	Hong Kong SAR	RAE de Hong Kong
+	Honduras	Honduras
+	Ireland	Irlanda
+	India	India
+	Iraq	Irak
+	Italy	Italia
+	Jamaica	Jamaica
+	Jordan	Jordania
+	Kuwait	Kuwait
+	Kazakhstan	Kazajistán
+	Lebanon	Líbano
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxemburgo
+	Morocco	Marruecos
+	Monaco	Mónaco
+	Montenegro	Montenegro
+	Macao SAR	RAE de Macao
+	Mexico	México
+	Malaysia	Malasia
+	Mozambique	Mozambique
+	Nicaragua	Nicaragua
+	Netherlands	Países Bajos
+	New Zealand	Nueva Zelanda
+	Panama	Panamá
+	Peru	Perú
+	Philippines	Filipinas
+	Puerto Rico	Puerto Rico
+	Portugal	Portugal
+	Paraguay	Paraguay
+	Qatar	Catar
+	Russia	Rusia
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Siria
+	Taiwan	Taiwán
+	Ukraine	Ucrania
+	United States	Estados Unidos
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Sudáfrica

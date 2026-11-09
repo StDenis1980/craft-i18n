@@ -24,5 +24,9 @@ jobs:
         run: cargo clippy --workspace --all-targets --all-features --locked -- -D warnings
       - name: test
         run: cargo test --workspace --locked
+      - name: tools
+        # sync_app / rekey / new_locale: catalogs are UTF-8; these tests catch encoding and
+        # path-separator mistakes that cargo never exercises (and that break on Windows).
+        run: python3 -m unittest discover -s tools -v
       - name: doc
         run: cargo doc --workspace --no-deps --locked

@@ -109,6 +109,7 @@
 	All Borders	Kõik äärised
 	All caps	Suurtähed
 	All Commands	Kõik käsud
+	All documents based on the Normal template?	Kõik dokumendid, mis põhinevad mallil Tavaline?
 	All Fonts	Kõik fondid
 	All Levels	Kõik tasemed
 	All Markup	Kõik märgistused
@@ -245,7 +246,7 @@
 	By author	Autori järgi
 	Calendar	Kalender
 	Can't be deleted	Ei saa kustutada
-	Can't find a command? Press Alt+Q and type what you want to do.	Ei leia käsku? Vajuta Alt+Q ja kirjuta, mida soovid teha.
+	Can't find a command? Press {key} and type what you want to do.	Ei leia käsku? Vajuta {key} ja kirjuta, mida soovid teha.
 	can't split at the first row	tabelit ei saa esimese rea kohalt tükeldada
 	Canvas Member	Lõuendi element
 	Capitalize Each Word	Iga sõna suure algustähega
@@ -415,10 +416,10 @@
 	Croatian	Horvaadi
 	Cross-reference	Ristviide
 	Cross-reference:	Ristviide:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter alustab uut lehekülge. Palju korralikum kui Enterit vajutada, kuni see juhtub.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H otsib ja asendab teksti, vormingut ja erimärke.
-	Ctrl+K turns the selected text into a link.	Ctrl+K muudab valitud teksti lingiks.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G loendab sinu sõnad, märgid ja lõigud.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} alustab uut lehekülge. Palju korralikum kui Enterit vajutada, kuni see juhtub.
+	{key} finds and replaces text, formatting and special characters.	{key} otsib ja asendab teksti, vormingut ja erimärke.
+	{key} turns the selected text into a link.	{key} muudab valitud teksti lingiks.
+	{key} counts your words, characters and paragraphs.	{key} loendab sinu sõnad, märgid ja lõigud.
 	Current Position	Praegune asukoht
 	Current record	Praegune kirje
 	Current style: {style}	Praegune stiil: {style}
@@ -455,6 +456,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratiivsed objektid lisavad ainult visuaalset huvi: ekraanilugerid jätavad need vahele.
 	Decrease Indent	Vähenda taanet
 	Deep	Sügav
+	Default formatting	Vaikevorming
 	Default tab stops:	Vaikimisi tabelduskohad:
 	Define New Bullet	Määra uus täpitähis
 	Define New Multilevel List	Uue mitmetasemelise loendi määratlemine
@@ -637,8 +639,8 @@
 	Export Page as PNG	Ekspordi leht PNG-na
 	Extend Selection	Laienda valikut
 	Extend Selection by Units	Laienda valikut ühikute kaupa
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 kordab viimast toimingut. Kümne pealkirja vormindamine on äkki üks klõps ja üheksa toksu.
-	F7 checks the spelling and grammar of the whole document.	F7 kontrollib kogu dokumendi õigekirja ja grammatikat.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} kordab viimast toimingut. Kümne pealkirja vormindamine on äkki üks klõps ja üheksa toksu.
+	{key} checks the spelling and grammar of the whole document.	{key} kontrollib kogu dokumendi õigekirja ja grammatikat.
 	Faster: {command} is {key} on the keyboard.	Kiiremini: {command} on klaviatuuril {key}.
 	Field code:	Väljakood:
 	Field Codes	Väljakoodid
@@ -704,6 +706,7 @@
 	Formatting at Selection	Valiku vormindus
 	Formatting exceptions	Vormindamise erandid
 	Formatting marks	Vormindusmärgid
+	Formatting saved for new documents:	Uute dokumentide jaoks salvestatud vorming:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Võrreldakse vormingut, tähesuurust, tühikuid ja tabeleid; ülejäänud sätted jäävad hilisemaks.
 	Formula	Valem
 	Formula:	Valem:
@@ -1092,6 +1095,14 @@
 	Navigation Pane	Navigeerimispaan
 	New Comment	Uus kommentaar
 	New comments and tracked changes are recorded under this name and these initials.	Uued kommentaarid ja jälitatud muudatused salvestatakse selle nime ja nende initsiaalidega.
+	New Documents Based on This Template	Uued dokumendid, mis põhinevad sellel mallil
+	New documents based on this template	Uued dokumendid, mis põhinevad sellel mallil
+	New documents will use this font.	Uued dokumendid kasutavad seda fonti.
+	New documents will use this page setup.	Uued dokumendid kasutavad seda lehe seadistust.
+	New documents will use this paragraph formatting.	Uued dokumendid kasutavad seda lõiguvormingut.
+	New documents will use this style.	Uued dokumendid kasutavad seda stiili.
+	New documents will use WordCraft's built-in formatting.	Uued dokumendid kasutavad WordCrafti sisseehitatud vormingut.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Uued dokumendid kasutavad WordCrafti sisseehitatud vormingut. Salvestatud vaikesätteid ei saa taastada. Kas lähtestada?
 	New Drawing Canvas	Uus joonistuslõuend
 	New Entry	Uus kirje
 	New Label	Uus silt
@@ -1210,6 +1221,7 @@
 	Only for the selected text	Ainult valitud teksti jaoks
 	Only form fields can be filled in.	Täita saab ainult vormivälju.
 	only in Outline view	ainult liigendusvaates
+	Only in this document	Ainult selles dokumendis
 	Only the allowed styles can be applied.	Rakendada saab ainult lubatud laade.
 	Only web (http, https) and email (mailto) links can be followed	Avada saab ainult veebi- (http, https) ja e-posti (mailto) linke
 	Open a document first	Avage kõigepealt dokument
@@ -1434,6 +1446,14 @@
 	Remove Table of Contents	Eemalda sisukord
 	Remove the control once edited	Eemalda juhtelement pärast redigeerimist
 	Remove Watermark	Eemalda vesimärk
+	No watermark	Vesimärk puudub
+	Picture watermark	Pildist vesimärk
+	Text watermark	Tekstivesimärk
+	Select Picture…	Vali pilt…
+	Washout	Luitunud
+	Semitransparent	Poolläbipaistev
+	Transparency:	Läbipaistvus:
+	Select a picture first.	Vali kõigepealt pilt.
 	Rename Document	Nimeta dokument ümber
 	Reopen	Ava uuesti
 	Repeat as header row on each page	Korda päisereana igal lehel
@@ -1451,6 +1471,7 @@
 	Reset All…	Lähtesta kõik…
 	Reset Character Formatting	Lähtesta märgivorming
 	Reset Crop	Lähtesta kärpimine
+	Reset Default Formatting	Lähtesta vaikevorming
 	Reset Graphic	Lähtesta graafika
 	Reset Paragraph Formatting	Lähtesta lõiguvorming
 	Reset Picture	Lähtesta pilt
@@ -1585,6 +1606,9 @@
 	Series name	Sarja nimi
 	Series {n}	Sari {n}
 	Set As Default	Määra vaikeväärtuseks
+	Set As Default (Font)	Määra vaikeväärtuseks (Font)
+	Set As Default (Page Setup)	Määra vaikeväärtuseks (Lehe seadistus)
+	Set As Default (Paragraph)	Määra vaikeväärtuseks (Lõik)
 	Set Caret	Määra tekstikursor
 	Set Character Formatting	Määra märgivormindus
 	Set Date	Määra kuupäev
@@ -1599,7 +1623,7 @@
 	Shape Format	Kujundi vorming
 	Shape Outline	Kujundi kontuur
 	Shape Styles	Kujundistiilid
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter alustab uut rida ilma uut lõiku alustamata.
+	{key} starts a new line without starting a new paragraph.	{key} alustab uut rida ilma uut lõiku alustamata.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Saatmissildid
 	Shortcut key:	Kiirklahv:
@@ -1643,7 +1667,7 @@
 	Show the Start screen when WordCraft starts	Näita WordCrafti käivitamisel avakuva
 	Show the tips you asked not to see again.	Näitab uuesti nõuandeid, mille peitsid.
 	Show/Hide ¶	Kuva/peida ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Kuva/peida ¶ (Ctrl+Shift+8) näitab sinu tekstis peituvaid tühikuid, tabulaatoreid ja katkestusi.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Kuva/peida ¶ ({key}) näitab sinu tekstis peituvaid tühikuid, tabulaatoreid ja katkestusi.
 	Show\nComments	Kuva\nkommentaarid
 	Showing the first {count} items.	Kuvatud on ainult esimesed kirjed: {count}.
 	Shows a tree: each item below the item it belongs to.	Näitab puud: iga üksus on selle üksuse all, kuhu see kuulub.
@@ -1818,6 +1842,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Veerised ei mahu selle suurusega lehele; vähendage esmalt veeriseid.
 	The measurement must be between {min} and {max}.	Mõõt peab olema vahemikus {min} kuni {max}.
 	The new style takes the formatting of the current paragraph.	Uus stiil kasutab praeguse lõigu vormindust.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Malli Tavaline ei õnnestunud lugeda, seega kasutab see dokument WordCrafti sisseehitatud vormingut.
 	The number must be between 1 and {max}.	Arv peab olema vahemikus 1 kuni {max}.
 	the paragraph is empty	lõik on tühi
 	the paragraph starts with a space	lõik algab tühikuga
@@ -1845,6 +1870,7 @@
 	Thick	Paks
 	this chart was made in another program: WordCraft shows it but can't edit it	see diagramm on loodud teises programmis: WordCraft kuvab seda, kuid ei saa seda redigeerida
 	This document	See dokument
+	This document only?	Ainult see dokument?
 	This field has no options.	Sellel väljal pole suvandeid.
 	This folder can't be read: {error}	Seda kausta ei saa lugeda: {error}
 	This font has no characters to show.	Selles fondis pole kuvatavaid märke.
@@ -1853,6 +1879,8 @@
 	This password type isn't supported.	Seda paroolitüüpi ei toetata.
 	This point forward	Siitpeale
 	This section	See jaotis
+	this session has no Normal template (headless or without preferences)	selles seansis pole malli Tavaline (liideseta või eelistusteta)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	selles seansis pole malli Tavaline (liideseta või eelistusteta): kasuta "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	see SmartArt on loodud teises programmis: WordCraft kuvab seda, kuid ei saa seda redigeerida
 	this text box is already linked: break the link first	see tekstiväli on juba lingitud: katkestage esmalt link
 	Three	Kolm
@@ -1939,7 +1967,9 @@
 	Use an Existing List…	Kasuta olemasolevat loendit…
 	Use system setting	Kasuta süsteemi seadistust
 	Use the browser's full screen (F11)	Kasutage brauseri täisekraani (F11)
+	Use the current style set and theme for all new documents?	Kas kasutada praegust stiilikomplekti ja kujundust kõigis uutes dokumentides?
 	Use the Insert key to switch overtype on and off	Kasuta Insert-klahvi ülekirjutuse sisse- ja väljalülitamiseks
+	Use this formatting as the default for:	Kasuta seda vormingut vaikevorminguna:
 	Use wildcards	Kasuta metamärke
 	User Name	Kasutajanimi
 	User name:	Kasutajanimi:
@@ -2041,3 +2071,122 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	Sõnu: {words}! Viskaksin konfetit, aga siis peaksin selle ise ära koristama.
 	{words} words. That's {words} more than I've written today.	Sõnu: {words}. See on {words} rohkem, kui mina täna kirjutanud olen.
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
+	Add a language…	Lisa keel…
+	Add a language	Lisa keel
+	Your languages	Teie keeled
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Inglise keel, selle dokumendi keeled ja iga installitud keelepakett. Keelepaketid lisavad õigekirjasõnastikke ja poolitusreegleid.
+	Set as default	Määra vaikimisi
+	New blank documents are written in this language	Uued tühjad dokumendid kirjutatakse selles keeles
+	{language} (default)	{language} (vaikimisi)
+	Built in	Sisseehitatud
+	Your own dictionary	Teie enda sõnastik
+	System dictionary	Süsteemi sõnastik
+	Not available yet	Pole veel saadaval
+	Grammar built in	Grammatika on sisseehitatud
+	Install spelling ({size})	Installi õigekiri ({size})
+	Its dictionary couldn't be read: {reason}	Selle sõnastikku ei saanud lugeda: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Allalaadimine on välja lülitatud. Klõps nupul „Lisa keel…“ või „Installi“ lülitab selle sisse: siis laadib WordCraft keelepaketid ja fondid GitHubist alla.
+	Search:	Otsi:
+	Dutch, Nederlands or nl	Hollandi, Nederlands või nl
+	No languages to show yet.	Kuvatavaid keeli veel pole.
+	No language matches your search.	Ükski keel ei vasta teie otsingule.
+	An installed Language pack is used after this folder.	Installitud keelepaketti kasutatakse pärast seda kausta.
+	Dictionary files	Sõnastikufailid
+	Possible spelling mistake	Võimalik õigekirjaviga
+	Gets the list of Language packs, then this language's pack if there is one.	Toob keelepakettide loendi ja seejärel selle keele paketi, kui see on olemas.
+	Afrikaans	afrikaani
+	Belarusian	valgevene
+	Bulgarian	bulgaaria
+	Bosnian	bosnia
+	Catalan	katalaani
+	Catalan (Valencian)	katalaani (valentsia)
+	Welsh	kõmri
+	Esperanto	esperanto
+	Persian	pärsia
+	Irish	iiri
+	Galician	galeegi
+	Hungarian	ungari
+	Armenian	armeenia
+	Icelandic	islandi
+	Georgian	gruusia
+	Lithuanian	leedu
+	Latvian	läti
+	Macedonian	makedoonia
+	Norwegian (Nynorsk)	norra (uusnorra)
+	Slovak	slovaki
+	Slovenian	sloveeni
+	Albanian	albaania
+	Swahili	suahiili
+	Tamil	tamili
+	Thai	tai
+	Vietnamese	vietnami
+	Set as Default Language	Määra vaikekeeleks
+	U.A.E.	Araabia Ühendemiraadid
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Austria
+	Australia	Austraalia
+	Bosnia and Herzegovina	Bosnia ja Hertsegoviina
+	Belgium	Belgia
+	Bolivia	Boliivia
+	Brazil	Brasiilia
+	Belarus	Valgevene
+	Canada	Kanada
+	Switzerland	Šveits
+	Chile	Tšiili
+	China	Hiina
+	Colombia	Colombia
+	Costa Rica	Costa Rica
+	Cuba	Kuuba
+	Cabo Verde	Cabo Verde
+	Cyprus	Küpros
+	Germany	Saksamaa
+	Dominican Republic	Dominikaani Vabariik
+	Ecuador	Ecuador
+	Egypt	Egiptus
+	Spain	Hispaania
+	Finland	Soome
+	France	Prantsusmaa
+	United Kingdom	Ühendkuningriik
+	Equatorial Guinea	Ekvatoriaal-Guinea
+	Guatemala	Guatemala
+	Hong Kong SAR	Hongkongi erihalduspiirkond
+	Honduras	Honduras
+	Ireland	Iirimaa
+	India	India
+	Iraq	Iraak
+	Italy	Itaalia
+	Jamaica	Jamaica
+	Jordan	Jordaania
+	Kuwait	Kuveit
+	Kazakhstan	Kasahstan
+	Lebanon	Liibanon
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luksemburg
+	Morocco	Maroko
+	Monaco	Monaco
+	Montenegro	Montenegro
+	Macao SAR	Macao erihalduspiirkond
+	Mexico	Mehhiko
+	Malaysia	Malaisia
+	Mozambique	Mosambiik
+	Nicaragua	Nicaragua
+	Netherlands	Holland
+	New Zealand	Uus-Meremaa
+	Panama	Panama
+	Peru	Peruu
+	Philippines	Filipiinid
+	Puerto Rico	Puerto Rico
+	Portugal	Portugal
+	Paraguay	Paraguay
+	Qatar	Katar
+	Russia	Venemaa
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Süüria
+	Taiwan	Taiwan
+	Ukraine	Ukraina
+	United States	Ameerika Ühendriigid
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Lõuna-Aafrika Vabariik

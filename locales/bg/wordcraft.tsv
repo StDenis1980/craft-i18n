@@ -133,6 +133,7 @@
 	All Caps	Всички главни
 	All caps	Всички главни
 	All Commands	Всички команди
+	All documents based on the Normal template?	Всички документи, базирани на шаблона „Нормален“?
 	All Fonts	Всички шрифтове
 	All Levels	Всички нива
 	All Markup	Всички маркировки
@@ -297,7 +298,7 @@
 	By author	По автор
 	Calendar	Календар
 	Can't be deleted	Не може да се изтрие
-	Can't find a command? Press Alt+Q and type what you want to do.	Не намирате команда? Натиснете Alt+Q и напишете какво искате да направите.
+	Can't find a command? Press {key} and type what you want to do.	Не намирате команда? Натиснете {key} и напишете какво искате да направите.
 	can't split at the first row	таблицата не може да се раздели на първия ред
 	Canvas Member	Елемент на платното
 	Capitalize Each Word	Всяка дума с главна буква
@@ -511,10 +512,10 @@
 	Crop	Отрязване
 	Cross-reference	Кръстосана препратка
 	Cross-reference:	Кръстосана препратка:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter започва нова страница. Много по-спретнато, отколкото да натискате Enter, докато не стане.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H търси и заменя текст, форматиране и специални знаци.
-	Ctrl+K turns the selected text into a link.	Ctrl+K превръща маркирания текст във връзка.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G брои думите, знаците и абзаците ви.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} започва нова страница. Много по-спретнато, отколкото да натискате Enter, докато не стане.
+	{key} finds and replaces text, formatting and special characters.	{key} търси и заменя текст, форматиране и специални знаци.
+	{key} turns the selected text into a link.	{key} превръща маркирания текст във връзка.
+	{key} counts your words, characters and paragraphs.	{key} брои думите, знаците и абзаците ви.
 	Cube Root	Кубичен корен
 	Current - Linear	Текущо – линеен формат
 	Current - Professional	Текущо – професионален формат
@@ -555,6 +556,7 @@
 	Decrease Font Size	Намаляване на размера на шрифта
 	Decrease Indent	Намаляване на отстъпа
 	Deep	Наситено
+	Default formatting	Форматиране по подразбиране
 	Default Paragraph Font	Шрифт на абзаца по подразбиране
 	Default tab stops:	Позиции на табулатора по подразбиране:
 	Define New Bullet	Дефиниране на нов водещ символ
@@ -775,8 +777,8 @@
 	Export Page as PNG	Експортиране на страницата като PNG
 	Extend Selection	Разширяване на селекцията
 	Extend Selection by Units	Разширяване на селекцията по единици
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 повтаря последното ви действие. Форматирането на десет заглавия изведнъж става едно щракване и девет натискания.
-	F7 checks the spelling and grammar of the whole document.	F7 проверява правописа и граматиката в целия документ.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повтаря последното ви действие. Форматирането на десет заглавия изведнъж става едно щракване и девет натискания.
+	{key} checks the spelling and grammar of the whole document.	{key} проверява правописа и граматиката в целия документ.
 	Faster: {command} is {key} on the keyboard.	По-бързо: {command} е {key} от клавиатурата.
 	Field code:	Код на полето:
 	Field Codes	Кодове на полета
@@ -846,6 +848,7 @@
 	Formatting at Selection	Форматиране при селекцията
 	Formatting exceptions	Изключения за форматирането
 	Formatting marks	Знаци за форматиране
+	Formatting saved for new documents:	Форматиране, запазено за нови документи:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Сравняват се форматирането, промените в регистъра, празното пространство и таблиците; другите настройки се запазват за по-късно.
 	Formula	Формула
 	Formula:	Формула:
@@ -1333,6 +1336,14 @@
 	Negated Relations	Отрицания на релации
 	New Comment	Нов коментар
 	New comments and tracked changes are recorded under this name and these initials.	Новите коментари и проследени промени се записват с това име и тези инициали.
+	New Documents Based on This Template	Нови документи, базирани на този шаблон
+	New documents based on this template	Нови документи, базирани на този шаблон
+	New documents will use this font.	Новите документи ще използват този шрифт.
+	New documents will use this page setup.	Новите документи ще използват тази настройка на страницата.
+	New documents will use this paragraph formatting.	Новите документи ще използват това форматиране на абзаците.
+	New documents will use this style.	Новите документи ще използват този стил.
+	New documents will use WordCraft's built-in formatting.	Новите документи ще използват вграденото форматиране на WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новите документи ще използват вграденото форматиране на WordCraft. Запазените ви настройки по подразбиране не могат да бъдат възстановени. Нулиране?
 	New Drawing Canvas	Ново платно за рисуване
 	New Entry	Нов запис
 	New Label	Нов етикет
@@ -1461,6 +1472,7 @@
 	Only for the selected text	Само за избрания текст
 	Only form fields can be filled in.	Могат да се попълват само полета на формуляри.
 	only in Outline view	само в изгледа „Структура“
+	Only in this document	Само в този документ
 	Only the allowed styles can be applied.	Могат да се прилагат само разрешените стилове.
 	Only web (http, https) and email (mailto) links can be followed	Могат да се отварят само уеб (http, https) и имейл (mailto) връзки
 	Open a document first	Първо отворете документ
@@ -1717,6 +1729,14 @@
 	Remove Table of Contents	Премахване на съдържанието
 	Remove the control once edited	Премахване на контролата след редактиране
 	Remove Watermark	Премахване на водния знак
+	No watermark	Няма воден знак
+	Picture watermark	Воден знак от картина
+	Text watermark	Текстов воден знак
+	Select Picture…	Избор на картина…
+	Washout	Избледняло
+	Semitransparent	Полупрозрачен
+	Transparency:	Прозрачност:
+	Select a picture first.	Първо изберете картина.
 	Rename Document	Преименуване на документ
 	Reopen	Повторно отваряне
 	Repeat as header row on each page	Повтаряне като заглавен ред на всяка страница
@@ -1734,6 +1754,7 @@
 	Reset All…	Нулиране на всички…
 	Reset Character Formatting	Нулиране на форматирането на знаците
 	Reset Crop	Нулиране на изрязването
+	Reset Default Formatting	Нулиране на форматирането по подразбиране
 	Reset Graphic	Нулиране на графиката
 	Reset Paragraph Formatting	Нулиране на форматирането на абзаца
 	Reset Picture	Нулиране на изображението
@@ -1881,6 +1902,9 @@
 	Series name	Име на серията
 	Series {n}	Серия {n}
 	Set As Default	Задаване по подразбиране
+	Set As Default (Font)	Задаване по подразбиране (Шрифт)
+	Set As Default (Page Setup)	Задаване по подразбиране (Настройка на страницата)
+	Set As Default (Paragraph)	Задаване по подразбиране (Абзац)
 	Set Caret	Поставяне на курсора
 	Set Character Formatting	Задаване на форматиране на знаците
 	Set Date	Задаване на дата
@@ -1896,7 +1920,7 @@
 	Shape Format	Формат на фигура
 	Shape Outline	Контур на фигура
 	Shape Styles	Стилове на фигури
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter започва нов ред, без да започва нов абзац.
+	{key} starts a new line without starting a new paragraph.	{key} започва нов ред, без да започва нов абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикети за пратки
 	Shortcut key:	Клавишна комбинация:
@@ -1942,7 +1966,7 @@
 	Show the Start screen when WordCraft starts	Показване на началния екран при стартиране на WordCraft
 	Show the tips you asked not to see again.	Отново показва съветите, които сте скрили.
 	Show/Hide ¶	Показване/скриване на ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Показване/скриване на ¶ (Ctrl+Shift+8) показва интервалите, табулациите и прекъсванията, скрити в текста ви.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показване/скриване на ¶ ({key}) показва интервалите, табулациите и прекъсванията, скрити в текста ви.
 	Show\nComments	Показване на\nкоментарите
 	Showing the first {count} items.	Показани са първите {count} елемента.
 	Shows a tree: each item below the item it belongs to.	Показва дърво: всеки елемент е под елемента, към който принадлежи.
@@ -2164,6 +2188,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Полетата не се побират на страница с този размер; първо намалете полетата.
 	The measurement must be between {min} and {max}.	Размерът трябва да е между {min} и {max}.
 	The new style takes the formatting of the current paragraph.	Новият стил приема форматирането на текущия абзац.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Шаблонът „Нормален“ не можа да бъде прочетен, затова този документ използва вграденото форматиране на WordCraft.
 	The number must be between 1 and {max}.	Числото трябва да е между 1 и {max}.
 	the paragraph is empty	абзацът е празен
 	the paragraph starts with a space	абзацът започва с интервал
@@ -2191,6 +2216,7 @@
 	Thick	Дебело
 	this chart was made in another program: WordCraft shows it but can't edit it	тази диаграма е създадена в друга програма: WordCraft я показва, но не може да я редактира
 	This document	Този документ
+	This document only?	Само този документ?
 	This field has no options.	Това поле няма опции.
 	This folder can't be read: {error}	Тази папка не може да бъде прочетена: {error}
 	This font has no characters to show.	Този шрифт няма знаци за показване.
@@ -2199,6 +2225,8 @@
 	This password type isn't supported.	Този тип парола не се поддържа.
 	This point forward	От тази точка нататък
 	This section	Този раздел
+	this session has no Normal template (headless or without preferences)	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания): използвайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	този SmartArt е създаден в друга програма: WordCraft го показва, но не може да го редактира
 	this text box is already linked: break the link first	това текстово поле вече е свързано: първо прекъснете връзката
 	Three	Три
@@ -2310,7 +2338,9 @@
 	Use an Existing List…	Използване на съществуващ списък…
 	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
+	Use the current style set and theme for all new documents?	Да се използват ли текущият набор от стилове и темата за всички нови документи?
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
+	Use this formatting as the default for:	Използване на това форматиране по подразбиране за:
 	Use wildcards	Използване на заместващи символи
 	User Name	Потребителско име
 	User name:	Потребителско име:
@@ -2425,3 +2455,121 @@
 	{words} words. That's {words} more than I've written today.	Думи: {words}. Това са с {words} повече, отколкото съм написал аз днес.
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) не е число.
 	✓ None	✓ Няма
+	Add a language…	Добавяне на език…
+	Add a language	Добавяне на език
+	Your languages	Вашите езици
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Английски, езиците на този документ и всеки инсталиран езиков пакет. Езиковите пакети добавят речници за правопис и пренасяне на думи.
+	Set as default	Задаване по подразбиране
+	New blank documents are written in this language	Новите празни документи се пишат на този език
+	{language} (default)	{language} (по подразбиране)
+	Built in	Вграден
+	Your own dictionary	Собствен речник
+	System dictionary	Системен речник
+	Not available yet	Още не е наличен
+	Grammar built in	Граматиката е вградена
+	Install spelling ({size})	Инсталиране на правопис ({size})
+	Its dictionary couldn't be read: {reason}	Речникът му не можа да бъде прочетен: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Изтеглянето е изключено. Щракването върху „Добавяне на език…“ или „Инсталиране“ го включва: тогава WordCraft изтегля езикови пакети и шрифтове от GitHub.
+	Search:	Търсене:
+	Dutch, Nederlands or nl	Нидерландски, Nederlands или nl
+	No languages to show yet.	Все още няма езици за показване.
+	No language matches your search.	Няма език, който отговаря на търсенето.
+	An installed Language pack is used after this folder.	Инсталиран езиков пакет се използва след тази папка.
+	Dictionary files	Файлове на речници
+	Gets the list of Language packs, then this language's pack if there is one.	Взема списъка с езикови пакети, после пакета на този език, ако има такъв.
+	Afrikaans	африкаанс
+	Belarusian	беларуски
+	Bulgarian	български
+	Bosnian	босненски
+	Catalan	каталонски
+	Catalan (Valencian)	каталонски (валенсиански)
+	Welsh	уелски
+	Esperanto	есперанто
+	Persian	персийски
+	Irish	ирландски
+	Galician	галисийски
+	Hungarian	унгарски
+	Armenian	арменски
+	Icelandic	исландски
+	Georgian	грузински
+	Lithuanian	литовски
+	Latvian	латвийски
+	Macedonian	македонски
+	Norwegian (Nynorsk)	норвежки (нюнорск)
+	Slovak	словашки
+	Slovenian	словенски
+	Albanian	албански
+	Swahili	суахили
+	Tamil	тамилски
+	Thai	тайски
+	Vietnamese	виетнамски
+	Set as Default Language	Задаване като език по подразбиране
+	U.A.E.	ОАЕ
+	Angola	Ангола
+	Argentina	Аржентина
+	Austria	Австрия
+	Australia	Австралия
+	Bosnia and Herzegovina	Босна и Херцеговина
+	Belgium	Белгия
+	Bolivia	Боливия
+	Brazil	Бразилия
+	Belarus	Беларус
+	Canada	Канада
+	Switzerland	Швейцария
+	Chile	Чили
+	China	Китай
+	Colombia	Колумбия
+	Costa Rica	Коста Рика
+	Cuba	Куба
+	Cabo Verde	Кабо Верде
+	Cyprus	Кипър
+	Germany	Германия
+	Dominican Republic	Доминиканска република
+	Ecuador	Еквадор
+	Egypt	Египет
+	Spain	Испания
+	Finland	Финландия
+	France	Франция
+	United Kingdom	Обединено кралство
+	Equatorial Guinea	Екваториална Гвинея
+	Guatemala	Гватемала
+	Hong Kong SAR	Хонконг САР
+	Honduras	Хондурас
+	Ireland	Ирландия
+	India	Индия
+	Iraq	Ирак
+	Italy	Италия
+	Jamaica	Ямайка
+	Jordan	Йордания
+	Kuwait	Кувейт
+	Kazakhstan	Казахстан
+	Lebanon	Ливан
+	Liechtenstein	Лихтенщайн
+	Luxembourg	Люксембург
+	Morocco	Мароко
+	Monaco	Монако
+	Montenegro	Черна гора
+	Macao SAR	Макао САР
+	Mexico	Мексико
+	Malaysia	Малайзия
+	Mozambique	Мозамбик
+	Nicaragua	Никарагуа
+	Netherlands	Нидерландия
+	New Zealand	Нова Зеландия
+	Panama	Панама
+	Peru	Перу
+	Philippines	Филипините
+	Puerto Rico	Пуерто Рико
+	Portugal	Португалия
+	Paraguay	Парагвай
+	Qatar	Катар
+	Russia	Русия
+	Singapore	Сингапур
+	El Salvador	Салвадор
+	Syria	Сирия
+	Taiwan	Тайван
+	Ukraine	Украйна
+	United States	Съединени щати
+	Uruguay	Уругвай
+	Venezuela	Венецуела
+	South Africa	Южна Африка

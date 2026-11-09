@@ -135,6 +135,7 @@
 	All Caps	Majuscules
 	All caps	Majuscules
 	All Commands	Toutes les commandes
+	All documents based on the Normal template?	Tous les documents basés sur le modèle Normal ?
 	All Fonts	Toutes les polices
 	All Levels	Tous les niveaux
 	All Markup	Toutes les marques
@@ -302,7 +303,7 @@
 	By author	Par auteur
 	Calendar	Calendrier
 	Can't be deleted	Suppression impossible
-	Can't find a command? Press Alt+Q and type what you want to do.	Vous ne trouvez pas une commande ? Appuyez sur Alt+Q et tapez ce que vous voulez faire.
+	Can't find a command? Press {key} and type what you want to do.	Vous ne trouvez pas une commande ? Appuyez sur {key} et tapez ce que vous voulez faire.
 	can't split at the first row	impossible de fractionner le tableau à la première ligne
 	Canvas Member	Élément de la zone de dessin
 	Capitalize Each Word	Première lettre des mots en majuscule
@@ -524,10 +525,10 @@
 	Crop	Rogner
 	Cross-reference	Renvoi
 	Cross-reference:	Référence croisée :
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter commence une nouvelle page. Bien plus propre que d’appuyer sur Entrée jusqu’à ce que ça arrive.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H recherche et remplace du texte, des mises en forme et des caractères spéciaux.
-	Ctrl+K turns the selected text into a link.	Ctrl+K transforme le texte sélectionné en lien.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G compte vos mots, caractères et paragraphes.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} commence une nouvelle page. Bien plus propre que d’appuyer sur Entrée jusqu’à ce que ça arrive.
+	{key} finds and replaces text, formatting and special characters.	{key} recherche et remplace du texte, des mises en forme et des caractères spéciaux.
+	{key} turns the selected text into a link.	{key} transforme le texte sélectionné en lien.
+	{key} counts your words, characters and paragraphs.	{key} compte vos mots, caractères et paragraphes.
 	Cube Root	Racine cubique
 	Current	Actuelle
 	Current - Linear	Sélection - Linéaire
@@ -569,6 +570,7 @@
 	Decrease Font Size	Réduire la taille de la police
 	Decrease Indent	Diminuer le retrait
 	Deep	Profond
+	Default formatting	Mise en forme par défaut
 	Default Paragraph Font	Police par défaut
 	Default tab stops:	Taquets de tabulation par défaut :
 	Define New Bullet	Définir une nouvelle puce
@@ -795,8 +797,8 @@
 	Extend Selection	Étendre la sélection
 	Extend Selection by Units	Étendre la sélection par unités
 	Extra space	Espace en trop
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 répète votre dernière action. Mettre en forme dix titres ? Soudain, c’est un clic et neuf touches.
-	F7 checks the spelling and grammar of the whole document.	F7 vérifie l’orthographe et la grammaire de tout le document.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} répète votre dernière action. Mettre en forme dix titres ? Soudain, c’est un clic et neuf touches.
+	{key} checks the spelling and grammar of the whole document.	{key} vérifie l’orthographe et la grammaire de tout le document.
 	Faster: {command} is {key} on the keyboard.	Plus rapide : {command}, c’est {key} au clavier.
 	Field code:	Code de champ :
 	Field Codes	Codes de champ
@@ -869,6 +871,7 @@
 	Formatting at Selection	Mise en forme de la sélection
 	Formatting exceptions	Exceptions de mise en forme
 	Formatting marks	Marques de mise en forme
+	Formatting saved for new documents:	Mise en forme enregistrée pour les nouveaux documents :
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	La mise en forme, les modifications de casse, les espaces et les tableaux sont comparés ; les autres paramètres sont conservés pour une utilisation ultérieure.
 	Formula	Formule
 	Formula:	Formule :
@@ -1360,6 +1363,14 @@ template	Letter	Lettre
 	Negated Relations	Relations niées
 	New Comment	Nouveau commentaire
 	New comments and tracked changes are recorded under this name and these initials.	Les nouveaux commentaires et les modifications suivies sont enregistrés sous ce nom et ces initiales.
+	New Documents Based on This Template	Nouveaux documents basés sur ce modèle
+	New documents based on this template	Nouveaux documents basés sur ce modèle
+	New documents will use this font.	Les nouveaux documents utiliseront cette police.
+	New documents will use this page setup.	Les nouveaux documents utiliseront cette mise en page.
+	New documents will use this paragraph formatting.	Les nouveaux documents utiliseront cette mise en forme de paragraphe.
+	New documents will use this style.	Les nouveaux documents utiliseront ce style.
+	New documents will use WordCraft's built-in formatting.	Les nouveaux documents utiliseront la mise en forme intégrée de WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Les nouveaux documents utiliseront la mise en forme intégrée de WordCraft. Vos paramètres par défaut enregistrés ne pourront pas être récupérés. Réinitialiser ?
 	New Drawing Canvas	Nouvelle zone de dessin
 	New Entry	Nouvelle entrée
 	New from Template	Nouveau à partir d’un modèle
@@ -1491,6 +1502,7 @@ template	Letter	Lettre
 	Only for the selected text	Uniquement pour le texte sélectionné
 	Only form fields can be filled in.	Seuls les champs de formulaire peuvent être remplis.
 	only in Outline view	uniquement en mode Plan
+	Only in this document	Uniquement dans ce document
 	Only the allowed styles can be applied.	Seuls les styles autorisés peuvent être appliqués.
 	Only web (http, https) and email (mailto) links can be followed	Seuls les liens Web (http, https) et les liens de messagerie (mailto) peuvent être suivis
 	Open a document first	Ouvrez d'abord un document
@@ -1744,6 +1756,14 @@ template	Letter	Lettre
 	Remove the control once edited	Supprimer le contrôle une fois le contenu modifié
 	Remove the space before the punctuation	Supprimer l’espace avant la ponctuation
 	Remove Watermark	Supprimer le filigrane
+	No watermark	Aucun filigrane
+	Picture watermark	Filigrane image
+	Text watermark	Filigrane texte
+	Select Picture…	Sélectionner une image…
+	Washout	Délavé
+	Semitransparent	Semi-transparent
+	Transparency:	Transparence :
+	Select a picture first.	Sélectionnez d'abord une image.
 	Rename Document	Renommer le document
 	Reopen	Rouvrir
 	Repeat as header row on each page	Répéter en tant que ligne d’en-tête sur chaque page
@@ -1761,6 +1781,7 @@ template	Letter	Lettre
 	Reset All…	Tout réinitialiser…
 	Reset Character Formatting	Réinitialiser la mise en forme des caractères
 	Reset Crop	Réinitialiser le rognage
+	Reset Default Formatting	Réinitialiser la mise en forme par défaut
 	Reset Graphic	Rétablir le graphique
 	Reset Paragraph Formatting	Réinitialiser la mise en forme des paragraphes
 	Reset Picture	Réinitialiser l’image
@@ -1908,6 +1929,9 @@ template	Letter	Lettre
 	Series name	Nom de la série
 	Series {n}	Série {n}
 	Set As Default	Définir par défaut
+	Set As Default (Font)	Définir par défaut (Police)
+	Set As Default (Page Setup)	Définir par défaut (Mise en page)
+	Set As Default (Paragraph)	Définir par défaut (Paragraphe)
 	Set Caret	Placer le point d’insertion
 	Set Character Formatting	Définir la mise en forme des caractères
 	Set Date	Définir la date
@@ -1923,7 +1947,7 @@ template	Letter	Lettre
 	Shape Format	Format de la forme
 	Shape Outline	Contour de forme
 	Shape Styles	Styles de formes
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter commence une nouvelle ligne sans commencer de nouveau paragraphe.
+	{key} starts a new line without starting a new paragraph.	{key} commence une nouvelle ligne sans commencer de nouveau paragraphe.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Étiquettes d’expédition
 	Shortcut key:	Touche de raccourci :
@@ -1969,7 +1993,7 @@ template	Letter	Lettre
 	Show the Start screen when WordCraft starts	Afficher l'écran d'accueil au démarrage de WordCraft
 	Show the tips you asked not to see again.	Affiche de nouveau les conseils que vous avez masqués.
 	Show/Hide ¶	Afficher/Masquer ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Afficher/Masquer ¶ (Ctrl+Shift+8) révèle les espaces, tabulations et sauts cachés dans votre texte.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Afficher/Masquer ¶ ({key}) révèle les espaces, tabulations et sauts cachés dans votre texte.
 	Show\nComments	Afficher\nles commentaires
 	Showing the first {count} items.	Affichage des {count} premiers éléments.
 	Shows a tree: each item below the item it belongs to.	Affiche une arborescence : chaque élément sous celui auquel il appartient.
@@ -2196,6 +2220,7 @@ template	Letter	Lettre
 	The margins don't fit on a page this size; make the margins smaller first.	Les marges ne tiennent pas sur une page de cette taille ; réduisez d’abord les marges.
 	The measurement must be between {min} and {max}.	La mesure doit être comprise entre {min} et {max}.
 	The new style takes the formatting of the current paragraph.	Le nouveau style reprend la mise en forme du paragraphe actuel.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Impossible de lire le modèle Normal : ce document utilise donc la mise en forme intégrée de WordCraft.
 	The number must be between 1 and {max}.	Le nombre doit être compris entre 1 et {max}.
 	the paragraph is empty	le paragraphe est vide
 	the paragraph starts with a space	le paragraphe commence par une espace
@@ -2224,6 +2249,7 @@ template	Letter	Lettre
 	Thick	Épaisse
 	this chart was made in another program: WordCraft shows it but can't edit it	ce graphique a été créé dans un autre programme : WordCraft l’affiche mais ne peut pas le modifier
 	This document	Ce document
+	This document only?	Ce document uniquement ?
 	This field has no options.	Ce champ n’a pas d’options.
 	This folder can't be read: {error}	Impossible de lire ce dossier : {error}
 	This font has no characters to show.	Cette police ne contient aucun caractère à afficher.
@@ -2232,6 +2258,8 @@ template	Letter	Lettre
 	This password type isn't supported.	Ce type de mot de passe n’est pas pris en charge.
 	This point forward	À partir de ce point
 	This section	Cette section
+	this session has no Normal template (headless or without preferences)	cette session n’a pas de modèle Normal (sans interface ou sans préférences)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	cette session n’a pas de modèle Normal (sans interface ou sans préférences) : utilisez "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ce SmartArt a été créé dans un autre programme : WordCraft l’affiche mais ne peut pas le modifier
 	this text box is already linked: break the link first	cette zone de texte est déjà liée : rompez d’abord le lien
 	Three	Trois
@@ -2348,7 +2376,9 @@ preview	Title	Titre
 	Use an Existing List…	Utiliser une liste existante…
 	Use system setting	Utiliser le paramètre système
 	Use the browser's full screen (F11)	Utilisez le plein écran du navigateur (F11)
+	Use the current style set and theme for all new documents?	Utiliser le jeu de styles et le thème actuels pour tous les nouveaux documents ?
 	Use the Insert key to switch overtype on and off	Utiliser la touche Inser pour activer ou désactiver le mode Refrappe
+	Use this formatting as the default for:	Utiliser cette mise en forme par défaut pour :
 	Use wildcards	Utiliser les caractères génériques
 	User Name	Nom d’utilisateur
 	User name:	Nom d’utilisateur :
@@ -2466,3 +2496,210 @@ preview	Title	Titre
 	✓ None	✓ Aucun
 	➕ New comment	➕ Nouveau commentaire
 	📂  Browse…	📂  Parcourir…
+	Restore opens an unsaved copy. Your original file stays unchanged.	La restauration ouvre une copie non enregistrée. Votre fichier d’origine reste inchangé.
+	Recovery is disabled while this document has a password.	La récupération est désactivée tant que ce document est protégé par un mot de passe.
+	Local recovery is unavailable or still loading.	La récupération locale est indisponible ou en cours de chargement.
+	No recovery copies.	Aucune copie de récupération.
+	Recovery copy	Copie de récupération
+	Discard…	Supprimer…
+	Continue without restoring	Continuer sans restaurer
+	Advanced Properties…	Propriétés avancées…
+	View and edit the document's custom properties.	Afficher et modifier les propriétés personnalisées du document.
+	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	Le dictionnaire orthographique pour {language} n’a pas pu être lu ; il n’est donc pas vérifié. Fichier : {file}. Raison : {reason}
+	{language} (dictionary unreadable)	{language} (dictionnaire illisible)
+	Text Size	Taille du texte
+	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	Le rognage sur la page fonctionne sur les images non pivotées : réglez d’abord la rotation sur 0°, ou utilisez les cadres de rognage
+	Folder path	Chemin du dossier
+	No items to show.	Aucun élément à afficher.
+	File type	Type de fichier
+	No new sources in that file	Aucune nouvelle source dans ce fichier
+	Imported 1 source	1 source importée
+	Imported {n} sources	{n} sources importées
+	{n} MB	{n} Mo
+	{n} KB	{n} Ko
+	Couldn't get the list of languages: {error}	Impossible d’obtenir la liste des langues : {error}
+	Couldn't install: {error}	Impossible d’installer : {error}
+	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Seul vous pouvez activer le téléchargement : cliquez vous-même sur le bouton. Les agents pourront installer une fois qu’il est activé.
+	Couldn't turn on downloading: {error}	Impossible d’activer le téléchargement : {error}
+	Couldn't remove: {error}	Impossible de supprimer : {error}
+	{language} proofing isn't installed.	Les outils de vérification pour {language} ne sont pas installés.
+	Installing… {percent}%	Installation… {percent} %
+	Install ({size})	Installer ({size})
+	Licence: {licence}. Source: {source}	Licence : {licence}. Source : {source}
+	Installing turns on downloading of fonts and Language packs from GitHub.	L’installation active le téléchargement des polices et des packs de langue depuis GitHub.
+	Language packs come from a test source: {source}	Les packs de langue proviennent d’une source de test : {source}
+	Language packs aren't available in the browser.	Les packs de langue ne sont pas disponibles dans le navigateur.
+	Language packs need the font store folder, and there is none on this computer.	Les packs de langue ont besoin du dossier de stockage des polices, et cet ordinateur n’en a pas.
+	Getting the list of languages…	Récupération de la liste des langues…
+	Get the list of languages again	Récupérer à nouveau la liste des langues
+	Installed	Installé
+	Install	Installer
+	The spelling and hyphenation data WordCraft uses, and their licences.	Les données d’orthographe et de césure utilisées par WordCraft, et leurs licences.
+	{language}: {file} (unreadable: {reason})	{language} : {file} (illisible : {reason})
+	Spanish (Latin America)	Espagnol (Amérique latine)
+	Spanish (Uruguay)	Espagnol (Uruguay)
+	Pages in the range	Pages de la plage
+	Scale to paper size	Adapter au format du papier
+	The document or selection changed. Check again to continue.	Le document ou la sélection a changé. Vérifiez à nouveau pour continuer.
+	Not in Dictionary	Absent du dictionnaire
+	Suggestions	Suggestions
+	Change…	Modifier…
+	Add to AutoCorrect	Ajouter à la correction automatique
+	AutoCorrect Options…	Options de correction automatique…
+	More options	Plus d’options
+	Change to:	Modifier en :
+	Update check is not supported in the web browser.	La recherche de mises à jour n’est pas prise en charge dans le navigateur web.
+	Couldn't save {name}, so it is still open and nothing was lost: {error}	Impossible d’enregistrer {name} ; il reste donc ouvert et rien n’a été perdu : {error}
+	Current Document	Document actuel
+	Macro name:	Nom de la macro :
+	There are no macros yet. Record one to add it here.	Il n’y a pas encore de macro. Enregistrez-en une pour l’ajouter ici.
+	Run	Exécuter
+	Stop Recording	Arrêter l’enregistrement
+	Record…	Enregistrer…
+	*Bold* and _italic_ as real formatting	*Gras* et _italique_ en véritable mise en forme
+	Add a period with double-space	Ajouter un point avec un double espace
+	Built-in Heading styles	Styles de titre intégrés
+	Set left- and first-indent with tabs and backspaces	Définir le retrait gauche et de première ligne avec des tabulations et des retours arrière
+	Automatically add words to list (First Letter)	Ajouter automatiquement des mots à la liste (Première lettre)
+	Automatically add words to list (INitial CAps)	Ajouter automatiquement des mots à la liste (Deux majuscules initiales)
+	Select a place in this document:	Sélectionnez un emplacement dans ce document :
+	Top of the Document	Haut du document
+	Bookmarks	Signets
+	Discard the recovery copy of {name}?	Supprimer la copie de récupération de {name} ?
+	This cannot be undone. Your original file stays unchanged.	Cette action est irréversible. Votre fichier d’origine reste inchangé.
+	Property names are 1–{max} characters.	Les noms de propriété comptent de 1 à {max} caractères.
+	Property values are at most {max} bytes.	Les valeurs de propriété font au plus {max} octets.
+	Only text properties can be changed.	Seules les propriétés de type texte peuvent être modifiées.
+	Select a property to change.	Sélectionnez une propriété à modifier.
+	This document has no custom properties.	Ce document n’a aucune propriété personnalisée.
+	Text properties only: Word's number, date and yes-no types aren't offered.	Propriétés de type texte uniquement : les types nombre, date et oui/non de Word ne sont pas proposés.
+	{field}, record {n}	{field}, enregistrement {n}
+	Pane Options	Options du volet
+	Dock Left	Ancrer à gauche
+	Dock Right	Ancrer à droite
+	Float	Flottant
+	Move Pane: {title}	Déplacer le volet : {title}
+	Resize Pane	Redimensionner le volet
+	Page color	Couleur de page
+	{name} options	Options de {name}
+	The number must be a divisor of {max}.	Le nombre doit être un diviseur de {max}.
+	Nothing of this type in the document.	Aucun élément de ce type dans le document.
+	Corporate Author	Auteur collectif
+	Add a language…	Ajouter une langue…
+	Add a language	Ajouter une langue
+	Your languages	Vos langues
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	L’anglais, les langues de ce document et chaque pack de langue installé. Les packs de langue ajoutent des dictionnaires orthographiques et la césure.
+	Set as default	Définir par défaut
+	New blank documents are written in this language	Les nouveaux documents vierges sont rédigés dans cette langue
+	{language} (default)	{language} (par défaut)
+	Built in	Intégré
+	Your own dictionary	Votre propre dictionnaire
+	System dictionary	Dictionnaire du système
+	Not available yet	Pas encore disponible
+	Grammar built in	Grammaire intégrée
+	Install spelling ({size})	Installer l’orthographe ({size})
+	Its dictionary couldn't be read: {reason}	Son dictionnaire n’a pas pu être lu : {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Le téléchargement est désactivé. Cliquer sur « Ajouter une langue… » ou « Installer » l’active : WordCraft télécharge alors des packs de langue et des polices depuis GitHub.
+	Search:	Rechercher :
+	Dutch, Nederlands or nl	Néerlandais, Nederlands ou nl
+	No languages to show yet.	Aucune langue à afficher pour l’instant.
+	No language matches your search.	Aucune langue ne correspond à votre recherche.
+	An installed Language pack is used after this folder.	Un pack de langue installé est utilisé après ce dossier.
+	Dictionary files	Fichiers de dictionnaire
+	Gets the list of Language packs, then this language's pack if there is one.	Récupère la liste des packs de langue, puis le pack de cette langue s’il y en a un.
+	Afrikaans	Afrikaans
+	Belarusian	Biélorusse
+	Bulgarian	Bulgare
+	Bosnian	Bosniaque
+	Catalan	Catalan
+	Catalan (Valencian)	Catalan (valencien)
+	Welsh	Gallois
+	Esperanto	Espéranto
+	Persian	Persan
+	Irish	Irlandais
+	Galician	Galicien
+	Hungarian	Hongrois
+	Armenian	Arménien
+	Icelandic	Islandais
+	Georgian	Géorgien
+	Lithuanian	Lituanien
+	Latvian	Letton
+	Macedonian	Macédonien
+	Norwegian (Nynorsk)	Norvégien (nynorsk)
+	Slovak	Slovaque
+	Slovenian	Slovène
+	Albanian	Albanais
+	Swahili	Swahili
+	Tamil	Tamoul
+	Thai	Thaï
+	Vietnamese	Vietnamien
+	Set as Default Language	Définir comme langue par défaut
+	U.A.E.	Émirats arabes unis
+	Angola	Angola
+	Argentina	Argentine
+	Austria	Autriche
+	Australia	Australie
+	Bosnia and Herzegovina	Bosnie-Herzégovine
+	Belgium	Belgique
+	Bolivia	Bolivie
+	Brazil	Brésil
+	Belarus	Biélorussie
+	Canada	Canada
+	Switzerland	Suisse
+	Chile	Chili
+	China	Chine
+	Colombia	Colombie
+	Costa Rica	Costa Rica
+	Cuba	Cuba
+	Cabo Verde	Cap-Vert
+	Cyprus	Chypre
+	Germany	Allemagne
+	Dominican Republic	République dominicaine
+	Ecuador	Équateur
+	Egypt	Égypte
+	Spain	Espagne
+	Finland	Finlande
+	France	France
+	United Kingdom	Royaume-Uni
+	Equatorial Guinea	Guinée équatoriale
+	Guatemala	Guatemala
+	Hong Kong SAR	R.A.S. de Hong Kong
+	Honduras	Honduras
+	Ireland	Irlande
+	India	Inde
+	Iraq	Irak
+	Italy	Italie
+	Jamaica	Jamaïque
+	Jordan	Jordanie
+	Kuwait	Koweït
+	Kazakhstan	Kazakhstan
+	Lebanon	Liban
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxembourg
+	Morocco	Maroc
+	Monaco	Monaco
+	Montenegro	Monténégro
+	Macao SAR	R.A.S. de Macao
+	Mexico	Mexique
+	Malaysia	Malaisie
+	Mozambique	Mozambique
+	Nicaragua	Nicaragua
+	Netherlands	Pays-Bas
+	New Zealand	Nouvelle-Zélande
+	Panama	Panama
+	Peru	Pérou
+	Philippines	Philippines
+	Puerto Rico	Porto Rico
+	Portugal	Portugal
+	Paraguay	Paraguay
+	Qatar	Qatar
+	Russia	Russie
+	Singapore	Singapour
+	El Salvador	Salvador
+	Syria	Syrie
+	Taiwan	Taïwan
+	Ukraine	Ukraine
+	United States	États-Unis
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Afrique du Sud

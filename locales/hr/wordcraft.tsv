@@ -132,6 +132,7 @@
 	All Borders	Svi obrubi
 	All caps	Sva velika slova
 	All Commands	Sve naredbe
+	All documents based on the Normal template?	Sve dokumente temeljene na predlošku Uobičajeni?
 	All Fonts	Svi fontovi
 	All Levels	Sve razine
 	All Markup	Sve oznake
@@ -294,7 +295,7 @@
 	By author	Po autoru
 	Calendar	Kalendar
 	Can't be deleted	Ne može se izbrisati
-	Can't find a command? Press Alt+Q and type what you want to do.	Ne možete pronaći naredbu? Pritisnite Alt+Q i upišite što želite učiniti.
+	Can't find a command? Press {key} and type what you want to do.	Ne možete pronaći naredbu? Pritisnite {key} i upišite što želite učiniti.
 	can't split at the first row	nije moguće podijeliti na prvom retku
 	Canvas Member	Član platna
 	Capitalize Each Word	Svaka riječ velikim početnim slovom
@@ -510,10 +511,10 @@
 	Croatian	Hrvatski
 	Cross-reference	Unakrsna referenca
 	Cross-reference:	Unakrsna referenca:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter započinje novu stranicu. Puno urednije nego pritiskati Enter dok se ne dogodi.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H traži i zamjenjuje tekst, oblikovanje i posebne znakove.
-	Ctrl+K turns the selected text into a link.	Ctrl+K pretvara odabrani tekst u poveznicu.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G broji vaše riječi, znakove i odlomke.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} započinje novu stranicu. Puno urednije nego pritiskati Enter dok se ne dogodi.
+	{key} finds and replaces text, formatting and special characters.	{key} traži i zamjenjuje tekst, oblikovanje i posebne znakove.
+	{key} turns the selected text into a link.	{key} pretvara odabrani tekst u poveznicu.
+	{key} counts your words, characters and paragraphs.	{key} broji vaše riječi, znakove i odlomke.
 	Cube Root	Treći korijen
 	Current - Linear	Trenutačno – linearno
 	Current - Professional	Trenutačno – profesionalno
@@ -553,6 +554,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Ukrasni objekti samo daju vizualni dojam: čitači zaslona ih preskaču.
 	Decrease Indent	Smanji uvlaku
 	Deep	Duboko
+	Default formatting	Zadano oblikovanje
 	Default Paragraph Font	Zadani font odlomka
 	Default tab stops:	Zadani tabulatori:
 	Define New Bullet	Definiraj novu oznaku
@@ -774,8 +776,8 @@
 	Extend Selection	Proširi odabir
 	Extend Selection by Units	Proširi odabir po jedinicama
 	Extra space	Dodatni razmak
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 ponavlja vašu zadnju radnju. Oblikovanje deset naslova odjednom postaje jedan klik i devet pritisaka.
-	F7 checks the spelling and grammar of the whole document.	F7 provjerava pravopis i gramatiku cijelog dokumenta.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} ponavlja vašu zadnju radnju. Oblikovanje deset naslova odjednom postaje jedan klik i devet pritisaka.
+	{key} checks the spelling and grammar of the whole document.	{key} provjerava pravopis i gramatiku cijelog dokumenta.
 	Faster: {command} is {key} on the keyboard.	Brže: {command} je {key} na tipkovnici.
 	Field code:	Kôd polja:
 	Field Codes	Kodovi polja
@@ -844,6 +846,7 @@
 	Formatting at Selection	Oblikovanje na odabiru
 	Formatting exceptions	Iznimke oblikovanja
 	Formatting marks	Oznake oblikovanja
+	Formatting saved for new documents:	Oblikovanje spremljeno za nove dokumente:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Uspoređuju se oblikovanje, promjene veličine slova, razmaci i tablice; ostale postavke čuvaju se za kasnije.
 	Formula	Formula
 	Formula:	Formula:
@@ -1327,6 +1330,14 @@ template	Letter	Pismo
 	Negated Relations	Negirane relacije
 	New Comment	Novi komentar
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentari i praćene promjene bilježe se pod ovim imenom i ovim inicijalima.
+	New Documents Based on This Template	Novi dokumenti temeljeni na ovom predlošku
+	New documents based on this template	Novi dokumenti temeljeni na ovom predlošku
+	New documents will use this font.	Novi dokumenti koristit će ovaj font.
+	New documents will use this page setup.	Novi dokumenti koristit će ovo postavljanje stranice.
+	New documents will use this paragraph formatting.	Novi dokumenti koristit će ovo oblikovanje odlomka.
+	New documents will use this style.	Novi dokumenti koristit će ovaj stil.
+	New documents will use WordCraft's built-in formatting.	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft. Spremljene zadane postavke nije moguće vratiti. Vratiti na zadano?
 	New Drawing Canvas	Novo platno za crtanje
 	New Entry	Novi unos
 	New Label	Nova oznaka
@@ -1453,6 +1464,7 @@ template	Letter	Pismo
 	Only for the selected text	Samo za odabrani tekst
 	Only form fields can be filled in.	Mogu se ispunjavati samo polja obrasca.
 	only in Outline view	samo u prikazu Struktura
+	Only in this document	Samo u ovom dokumentu
 	Only the allowed styles can be applied.	Mogu se primijeniti samo dopušteni stilovi.
 	Only web (http, https) and email (mailto) links can be followed	Mogu se otvarati samo web-poveznice (http, https) i poveznice e-pošte (mailto)
 	Open a document first	Prvo otvorite dokument
@@ -1703,6 +1715,14 @@ template	Letter	Pismo
 	Remove the control once edited	Ukloni kontrolu nakon uređivanja
 	Remove the space before the punctuation	Ukloni razmak prije interpunkcije
 	Remove Watermark	Ukloni vodeni žig
+	No watermark	Bez vodenog žiga
+	Picture watermark	Vodeni žig sa slikom
+	Text watermark	Tekstualni vodeni žig
+	Select Picture…	Odaberi sliku…
+	Washout	Izblijedjelo
+	Semitransparent	Poluprozirno
+	Transparency:	Prozirnost:
+	Select a picture first.	Prvo odaberite sliku.
 	Rename Document	Preimenuj dokument
 	Reopen	Ponovno otvori
 	Repeat as header row on each page	Ponovi kao redak zaglavlja na svakoj stranici
@@ -1720,6 +1740,7 @@ template	Letter	Pismo
 	Reset All…	Vrati sve na zadano…
 	Reset Character Formatting	Vrati zadano oblikovanje znakova
 	Reset Crop	Poništi obrezivanje
+	Reset Default Formatting	Vrati zadano oblikovanje
 	Reset Graphic	Vrati grafiku
 	Reset Paragraph Formatting	Vrati zadano oblikovanje odlomka
 	Reset Picture	Vrati sliku
@@ -1862,6 +1883,9 @@ template	Letter	Pismo
 	Series name	Naziv niza
 	Series {n}	Niz {n}
 	Set As Default	Postavi kao zadano
+	Set As Default (Font)	Postavi kao zadano (Font)
+	Set As Default (Page Setup)	Postavi kao zadano (Postavljanje stranice)
+	Set As Default (Paragraph)	Postavi kao zadano (Odlomak)
 	Set Caret	Postavi kursor
 	Set Character Formatting	Postavi oblikovanje znakova
 	Set Date	Postavi datum
@@ -1876,7 +1900,7 @@ template	Letter	Pismo
 	Shape Format	Oblikovanje oblika
 	Shape Outline	Obris oblika
 	Shape Styles	Stilovi oblika
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter započinje novi redak bez započinjanja novog odlomka.
+	{key} starts a new line without starting a new paragraph.	{key} započinje novi redak bez započinjanja novog odlomka.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Naljepnice za otpremu
 	Shortcut key:	Prečac:
@@ -1922,7 +1946,7 @@ template	Letter	Pismo
 	Show the Start screen when WordCraft starts	Prikaži početni zaslon kad se WordCraft pokrene
 	Show the tips you asked not to see again.	Ponovno prikazuje savjete koje ste sakrili.
 	Show/Hide ¶	Prikaži/sakrij ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Prikaži/sakrij ¶ (Ctrl+Shift+8) prikazuje razmake, tabulatore i prijelome koji se skrivaju u vašem tekstu.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Prikaži/sakrij ¶ ({key}) prikazuje razmake, tabulatore i prijelome koji se skrivaju u vašem tekstu.
 	Show\nComments	Prikaži\nkomentare
 	Showing the first {count} items.	Prikazuje se prvih {count} stavki.
 	Shows a tree: each item below the item it belongs to.	Prikazuje stablo: svaka stavka nalazi se ispod stavke kojoj pripada.
@@ -2145,6 +2169,7 @@ template	Letter	Pismo
 	The margins don't fit on a page this size; make the margins smaller first.	Margine ne stanu na stranicu ove veličine; najprije smanjite margine.
 	The measurement must be between {min} and {max}.	Mjera mora biti između {min} i {max}.
 	The new style takes the formatting of the current paragraph.	Novi stil preuzima oblikovanje trenutačnog odlomka.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Predložak Uobičajeni nije moguće pročitati pa ovaj dokument koristi ugrađeno oblikovanje programa WordCraft.
 	The number must be between 1 and {max}.	Broj mora biti između 1 i {max}.
 	the paragraph is empty	odlomak je prazan
 	the paragraph starts with a space	odlomak počinje razmakom
@@ -2173,6 +2198,7 @@ template	Letter	Pismo
 	Thick	Debelo
 	this chart was made in another program: WordCraft shows it but can't edit it	ovaj grafikon izrađen je u drugom programu: WordCraft ga prikazuje, ali ga ne može uređivati
 	This document	Ovaj dokument
+	This document only?	Samo ovaj dokument?
 	This field has no options.	Ovo polje nema mogućnosti.
 	This folder can't be read: {error}	Ova se mapa ne može pročitati: {error}
 	This font has no characters to show.	Ovaj font nema znakova za prikaz.
@@ -2181,6 +2207,8 @@ template	Letter	Pismo
 	This password type isn't supported.	Ova vrsta lozinke nije podržana.
 	This point forward	Od ove točke nadalje
 	This section	Ovaj odjeljak
+	this session has no Normal template (headless or without preferences)	ova sesija nema predložak Uobičajeni (bez sučelja ili bez postavki)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ova sesija nema predložak Uobičajeni (bez sučelja ili bez postavki): upotrijebite "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ovaj SmartArt izrađen je u drugom programu: WordCraft ga prikazuje, ali ga ne može uređivati
 	this text box is already linked: break the link first	ovaj tekstni okvir već je povezan: najprije prekinite vezu
 	Three	Tri
@@ -2293,7 +2321,9 @@ preview	Title	Naslov
 	Use an Existing List…	Koristi postojeći popis…
 	Use system setting	Koristi postavku sustava
 	Use the browser's full screen (F11)	Koristi cijeli zaslon preglednika (F11)
+	Use the current style set and theme for all new documents?	Koristiti trenutačni skup stilova i temu za sve nove dokumente?
 	Use the Insert key to switch overtype on and off	Koristite tipku Umetni (Insert) za uključivanje i isključivanje prepisivanja
+	Use this formatting as the default for:	Koristi ovo oblikovanje kao zadano za:
 	Use wildcards	Koristi zamjenske znakove
 	User Name	Korisničko ime
 	User name:	Korisničko ime:
@@ -2410,3 +2440,121 @@ preview	Title	Naslov
 	✓ None	✓ Nema
 	➕ New comment	➕ Novi komentar
 	📂  Browse…	📂  Pregledaj…
+	Add a language…	Dodaj jezik…
+	Add a language	Dodaj jezik
+	Your languages	Vaši jezici
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Engleski, jezici ovog dokumenta i svaki instalirani jezični paket. Jezični paketi dodaju rječnike za pravopis i rastavljanje riječi.
+	Set as default	Postavi kao zadano
+	New blank documents are written in this language	Novi prazni dokumenti pišu se na ovom jeziku
+	{language} (default)	{language} (zadano)
+	Built in	Ugrađeno
+	Your own dictionary	Vaš vlastiti rječnik
+	System dictionary	Sustavski rječnik
+	Not available yet	Još nije dostupno
+	Grammar built in	Gramatika je ugrađena
+	Install spelling ({size})	Instaliraj pravopis ({size})
+	Its dictionary couldn't be read: {reason}	Njegov rječnik nije se mogao pročitati: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Preuzimanje je isključeno. Klik na „Dodaj jezik…“ ili „Instaliraj“ uključuje ga: tada WordCraft preuzima jezične pakete i fontove s GitHuba.
+	Search:	Traži:
+	Dutch, Nederlands or nl	Nizozemski, Nederlands ili nl
+	No languages to show yet.	Još nema jezika za prikaz.
+	No language matches your search.	Nijedan jezik ne odgovara vašem pretraživanju.
+	An installed Language pack is used after this folder.	Instalirani jezični paket koristi se nakon ove mape.
+	Dictionary files	Datoteke rječnika
+	Gets the list of Language packs, then this language's pack if there is one.	Dohvaća popis jezičnih paketa, zatim paket ovog jezika ako postoji.
+	Afrikaans	afrikaans
+	Belarusian	bjeloruski
+	Bulgarian	bugarski
+	Bosnian	bosanski
+	Catalan	katalonski
+	Catalan (Valencian)	katalonski (valencijski)
+	Welsh	velški
+	Esperanto	esperanto
+	Persian	perzijski
+	Irish	irski
+	Galician	galicijski
+	Hungarian	mađarski
+	Armenian	armenski
+	Icelandic	islandski
+	Georgian	gruzijski
+	Lithuanian	litavski
+	Latvian	latvijski
+	Macedonian	makedonski
+	Norwegian (Nynorsk)	norveški (nynorsk)
+	Slovak	slovački
+	Slovenian	slovenski
+	Albanian	albanski
+	Swahili	svahili
+	Tamil	tamilski
+	Thai	tajlandski
+	Vietnamese	vijetnamski
+	Set as Default Language	Postavi kao zadani jezik
+	U.A.E.	UAE
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Austrija
+	Australia	Australija
+	Bosnia and Herzegovina	Bosna i Hercegovina
+	Belgium	Belgija
+	Bolivia	Bolivija
+	Brazil	Brazil
+	Belarus	Bjelarus
+	Canada	Kanada
+	Switzerland	Švicarska
+	Chile	Čile
+	China	Kina
+	Colombia	Kolumbija
+	Costa Rica	Kostarika
+	Cuba	Kuba
+	Cabo Verde	Zelenortski Otoci
+	Cyprus	Cipar
+	Germany	Njemačka
+	Dominican Republic	Dominikanska Republika
+	Ecuador	Ekvador
+	Egypt	Egipat
+	Spain	Španjolska
+	Finland	Finska
+	France	Francuska
+	United Kingdom	Ujedinjeno Kraljevstvo
+	Equatorial Guinea	Ekvatorska Gvineja
+	Guatemala	Gvatemala
+	Hong Kong SAR	Hong Kong SAR
+	Honduras	Honduras
+	Ireland	Irska
+	India	Indija
+	Iraq	Irak
+	Italy	Italija
+	Jamaica	Jamajka
+	Jordan	Jordan
+	Kuwait	Kuvajt
+	Kazakhstan	Kazahstan
+	Lebanon	Libanon
+	Liechtenstein	Lihtenštajn
+	Luxembourg	Luksemburg
+	Morocco	Maroko
+	Monaco	Monako
+	Montenegro	Crna Gora
+	Macao SAR	Makao SAR
+	Mexico	Meksiko
+	Malaysia	Malezija
+	Mozambique	Mozambik
+	Nicaragua	Nikaragva
+	Netherlands	Nizozemska
+	New Zealand	Novi Zeland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Filipini
+	Puerto Rico	Portoriko
+	Portugal	Portugal
+	Paraguay	Paragvaj
+	Qatar	Katar
+	Russia	Rusija
+	Singapore	Singapur
+	El Salvador	Salvador
+	Syria	Sirija
+	Taiwan	Tajvan
+	Ukraine	Ukrajina
+	United States	Sjedinjene Američke Države
+	Uruguay	Urugvaj
+	Venezuela	Venezuela
+	South Africa	Južnoafrička Republika

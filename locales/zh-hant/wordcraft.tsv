@@ -114,6 +114,7 @@
 	All Borders	所有框線
 	All caps	全部大寫
 	All Commands	所有命令
+	All documents based on the Normal template?	以「正常」範本為基礎的所有文件？
 	All Fonts	所有字型
 	All Levels	所有階層
 	All Markup	所有標記
@@ -255,7 +256,7 @@
 	By author	依作者
 	Calendar	行事曆
 	Can't be deleted	無法刪除
-	Can't find a command? Press Alt+Q and type what you want to do.	找不到指令？按 Alt+Q，然後輸入你想做的事。
+	Can't find a command? Press {key} and type what you want to do.	找不到指令？按 {key}，然後輸入你想做的事。
 	can't split at the first row	無法在第一列處分割表格
 	Canvas Member	畫布成員
 	Capitalize Each Word	每個單字字首大寫
@@ -433,10 +434,10 @@
 	Crop	裁剪
 	Cross-reference	交互參照
 	Cross-reference:	交互參照：
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter 可以開始新的一頁。比一直按 Enter 直到換頁整齊多了。
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H 可以尋找及取代文字、格式和特殊字元。
-	Ctrl+K turns the selected text into a link.	Ctrl+K 可以將選取的文字變成連結。
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G 可以計算字數、字元數和段落數。
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 可以開始新的一頁。比一直按 Enter 直到換頁整齊多了。
+	{key} finds and replaces text, formatting and special characters.	{key} 可以尋找及取代文字、格式和特殊字元。
+	{key} turns the selected text into a link.	{key} 可以將選取的文字變成連結。
+	{key} counts your words, characters and paragraphs.	{key} 可以計算字數、字元數和段落數。
 	Current page	目前頁面
 	Current Position	目前位置
 	Current record	目前記錄
@@ -475,6 +476,7 @@
 	Decrease Font Size	縮小字型大小
 	Decrease Indent	減少縮排
 	Deep	深沉
+	Default formatting	預設格式設定
 	Default tab stops:	預設定位點間距：
 	Define New Bullet	定義新的項目符號
 	Define New Multilevel List	定義新的多層次清單
@@ -658,8 +660,8 @@
 	Export Page as PNG	將頁面匯出為 PNG
 	Extend Selection	擴大選取範圍
 	Extend Selection by Units	按單位擴大選取範圍
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 可以重複上一個動作。設定十個標題的格式，一下子就變成點一下再按九下。
-	F7 checks the spelling and grammar of the whole document.	F7 可以檢查整份文件的拼字及文法。
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 可以重複上一個動作。設定十個標題的格式，一下子就變成點一下再按九下。
+	{key} checks the spelling and grammar of the whole document.	{key} 可以檢查整份文件的拼字及文法。
 	Faster: {command} is {key} on the keyboard.	更快的方法：{command} 的鍵盤快速鍵是 {key}。
 	Field	功能變數
 	Field code:	功能變數代碼：
@@ -729,6 +731,7 @@
 	Formatting at Selection	選取範圍的格式
 	Formatting exceptions	格式例外
 	Formatting marks	格式化標記
+	Formatting saved for new documents:	為新文件儲存的格式設定：
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	會比較格式、大小寫、空白和表格；其他設定留待日後支援。
 	Formula	公式
 	Formula:	公式：
@@ -1126,6 +1129,14 @@
 	New Comment	新增註解
 	New comments and tracked changes are recorded under this name and these initials.	新的註解和追蹤修訂會以此名稱和縮寫記錄。
 	New Document	新文件
+	New Documents Based on This Template	以此範本為基礎的新文件
+	New documents based on this template	以此範本為基礎的新文件
+	New documents will use this font.	新文件將使用此字型。
+	New documents will use this page setup.	新文件將使用此版面設定。
+	New documents will use this paragraph formatting.	新文件將使用此段落格式設定。
+	New documents will use this style.	新文件將使用此樣式。
+	New documents will use WordCraft's built-in formatting.	新文件將使用 WordCraft 的內建格式設定。
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文件將使用 WordCraft 的內建格式設定。已儲存的預設值將無法復原。要重設嗎？
 	New Drawing Canvas	新增繪圖畫布
 	New Entry	新增項目
 	New Label	新增標籤
@@ -1249,6 +1260,7 @@
 	Only for the selected text	僅針對所選文字
 	Only form fields can be filled in.	只能填寫表單欄位。
 	only in Outline view	僅在大綱檢視中可用
+	Only in this document	僅限此文件
 	Only the allowed styles can be applied.	只能套用允許的樣式。
 	Only web (http, https) and email (mailto) links can be followed	只能開啟網頁（http、https）和電子郵件（mailto）連結
 	Open a document first	請先開啟文件
@@ -1478,6 +1490,14 @@
 	Remove Table of Contents	移除目錄
 	Remove the control once edited	編輯後移除控制項
 	Remove Watermark	移除浮水印
+	No watermark	無浮水印
+	Picture watermark	圖片浮水印
+	Text watermark	文字浮水印
+	Select Picture…	選取圖片…
+	Washout	褪色
+	Semitransparent	半透明
+	Transparency:	透明度：
+	Select a picture first.	請先選取圖片。
 	Rename Document	重新命名文件
 	Reopen	重新開啟
 	Repeat as header row on each page	在每頁重複作為標題列
@@ -1495,6 +1515,7 @@
 	Reset All…	全部重設…
 	Reset Character Formatting	重設字元格式
 	Reset Crop	重設裁剪
+	Reset Default Formatting	重設預設格式設定
 	Reset Graphic	重設圖形
 	Reset Paragraph Formatting	重設段落格式
 	Reset Picture	重設圖片
@@ -1637,6 +1658,9 @@
 	Series {n}	數列 {n}
 	Set As Default	設為預設值
 	Set as Default	設定為預設值
+	Set As Default (Font)	設為預設值（字型）
+	Set As Default (Page Setup)	設為預設值（版面設定）
+	Set As Default (Paragraph)	設為預設值（段落）
 	Set Caret	設定游標
 	Set Character Formatting	設定字元格式
 	Set Date	設定日期
@@ -1653,7 +1677,7 @@
 	Shape Outline	圖案外框
 	Shape Styles	圖案樣式
 	Shapes	圖案
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter 可以換行，但不開始新段落。
+	{key} starts a new line without starting a new paragraph.	{key} 可以換行，但不開始新段落。
 	Shift+Tab	Shift+Tab
 	Shipping labels	寄送標籤
 	Shortcut key:	快速鍵：
@@ -1698,7 +1722,7 @@
 	Show the Start screen when WordCraft starts	啟動 WordCraft 時顯示開始畫面
 	Show the tips you asked not to see again.	重新顯示你要求不再顯示的提示。
 	Show/Hide ¶	顯示/隱藏 ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	顯示/隱藏 ¶ (Ctrl+Shift+8) 會顯示藏在文字中的空格、定位字元和分隔符號。
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	顯示/隱藏 ¶ ({key}) 會顯示藏在文字中的空格、定位字元和分隔符號。
 	Show\nComments	顯示註解
 	Showing the first {count} items.	僅顯示前 {count} 個項目。
 	Shows a tree: each item below the item it belongs to.	顯示樹狀結構：每個項目位於其所屬項目的下方。
@@ -1876,6 +1900,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	邊界放不進此大小的頁面；請先縮小邊界。
 	The measurement must be between {min} and {max}.	度量值必須介於 {min} 和 {max} 之間。
 	The new style takes the formatting of the current paragraph.	新樣式會採用目前段落的格式。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	無法讀取「正常」範本，因此此文件使用 WordCraft 的內建格式設定。
 	The number must be between 1 and {max}.	數字必須介於 1 和 {max} 之間。
 	the paragraph is empty	段落是空的
 	the paragraph starts with a space	段落以空格開頭
@@ -1903,6 +1928,7 @@
 	Thick	粗線
 	this chart was made in another program: WordCraft shows it but can't edit it	此圖表由其他程式建立: WordCraft 可以顯示但無法編輯
 	This document	此文件
+	This document only?	僅此文件？
 	This field has no options.	此功能變數沒有選項。
 	This folder can't be read: {error}	無法讀取此資料夾：{error}
 	This font has no characters to show.	此字型沒有可顯示的字元。
@@ -1911,6 +1937,8 @@
 	This password type isn't supported.	不支援此密碼類型。
 	This point forward	從這裡開始
 	This section	本節
+	this session has no Normal template (headless or without preferences)	此工作階段沒有「正常」範本（無介面或無喜好設定）
+	this session has no Normal template (headless or without preferences): use "scope": "document"	此工作階段沒有「正常」範本（無介面或無喜好設定）：請使用 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	此 SmartArt 由其他程式建立: WordCraft 可以顯示但無法編輯
 	this text box is already linked: break the link first	此文字方塊已連結: 請先中斷連結
 	Three	三欄
@@ -1998,7 +2026,9 @@
 	Use an Existing List…	使用現有清單…
 	Use system setting	使用系統設定
 	Use the browser's full screen (F11)	請使用瀏覽器的全螢幕模式 (F11)
+	Use the current style set and theme for all new documents?	要將目前的樣式集和佈景主題用於所有新文件嗎？
 	Use the Insert key to switch overtype on and off	使用 Insert 鍵切換取代模式
+	Use this formatting as the default for:	將此格式設定作為以下項目的預設值：
 	Use wildcards	使用萬用字元
 	User Name	使用者名稱
 	User name:	使用者名稱：
@@ -2105,3 +2135,123 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	{words} 個字！我想放彩帶，但之後還得自己清理。
 	{words} words. That's {words} more than I've written today.	{words} 個字。比我今天寫的多了 {words} 個。
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}，{series}）不是數字。
+	Add a language…	新增語言…
+	Add a language	新增語言
+	Your languages	你的語言
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	英文、此文件的語言，以及每個已安裝的語言套件。語言套件會加入拼字字典與斷字規則。
+	Set as default	設為預設
+	New blank documents are written in this language	新的空白文件會以此語言書寫
+	{language} (default)	{language}（預設）
+	Built in	內建
+	Your own dictionary	你自己的字典
+	System dictionary	系統字典
+	Not available yet	尚無法使用
+	Grammar built in	已內建文法檢查
+	Install spelling ({size})	安裝拼字檢查（{size}）
+	Its dictionary couldn't be read: {reason}	無法讀取其字典：{reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	下載功能已關閉。按一下「新增語言…」或「安裝」會將其開啟，之後 WordCraft 會從 GitHub 下載語言套件與字型。
+	Search:	搜尋：
+	Dutch, Nederlands or nl	荷蘭文、Nederlands 或 nl
+	No languages to show yet.	尚無可顯示的語言。
+	No language matches your search.	沒有符合搜尋的語言。
+	An installed Language pack is used after this folder.	已安裝的語言套件會在此資料夾之後使用。
+	Dictionary files	字典檔案
+	Possible spelling mistake	可能的拼字錯誤
+	Gets the list of Language packs, then this language's pack if there is one.	取得語言套件清單，然後取得此語言的語言套件（若有）。
+	Afrikaans	南非荷蘭文
+	Belarusian	白俄羅斯文
+	Bulgarian	保加利亞文
+	Bosnian	波士尼亞文
+	Catalan	加泰隆尼亞文
+	Catalan (Valencian)	加泰隆尼亞文（瓦倫西亞文）
+	Welsh	威爾斯文
+	Esperanto	世界語
+	Persian	波斯文
+	Irish	愛爾蘭文
+	Galician	加利西亞文
+	Hungarian	匈牙利文
+	Armenian	亞美尼亞文
+	Icelandic	冰島文
+	Georgian	喬治亞文
+	Lithuanian	立陶宛文
+	Latvian	拉脫維亞文
+	Macedonian	馬其頓文
+	Norwegian (Nynorsk)	挪威文（新挪威文）
+	Slovak	斯洛伐克文
+	Slovenian	斯洛維尼亞文
+	Albanian	阿爾巴尼亞文
+	Swahili	斯瓦希里文
+	Tamil	坦米爾文
+	Thai	泰文
+	Vietnamese	越南文
+	Set as Default Language	設為預設語言
+	{language} ({region})	{language}（{region}）
+	U.A.E.	阿拉伯聯合大公國
+	Angola	安哥拉
+	Argentina	阿根廷
+	Austria	奧地利
+	Australia	澳洲
+	Bosnia and Herzegovina	波士尼亞與赫塞哥維納
+	Belgium	比利時
+	Bolivia	玻利維亞
+	Brazil	巴西
+	Belarus	白俄羅斯
+	Canada	加拿大
+	Switzerland	瑞士
+	Chile	智利
+	China	中國
+	Colombia	哥倫比亞
+	Costa Rica	哥斯大黎加
+	Cuba	古巴
+	Cabo Verde	維德角
+	Cyprus	賽普勒斯
+	Germany	德國
+	Dominican Republic	多明尼加共和國
+	Ecuador	厄瓜多
+	Egypt	埃及
+	Spain	西班牙
+	Finland	芬蘭
+	France	法國
+	United Kingdom	英國
+	Equatorial Guinea	赤道幾內亞
+	Guatemala	瓜地馬拉
+	Hong Kong SAR	香港特別行政區
+	Honduras	宏都拉斯
+	Ireland	愛爾蘭
+	India	印度
+	Iraq	伊拉克
+	Italy	義大利
+	Jamaica	牙買加
+	Jordan	約旦
+	Kuwait	科威特
+	Kazakhstan	哈薩克
+	Lebanon	黎巴嫩
+	Liechtenstein	列支敦斯登
+	Luxembourg	盧森堡
+	Morocco	摩洛哥
+	Monaco	摩納哥
+	Montenegro	蒙特內哥羅
+	Macao SAR	澳門特別行政區
+	Mexico	墨西哥
+	Malaysia	馬來西亞
+	Mozambique	莫三比克
+	Nicaragua	尼加拉瓜
+	Netherlands	荷蘭
+	New Zealand	紐西蘭
+	Panama	巴拿馬
+	Peru	秘魯
+	Philippines	菲律賓
+	Puerto Rico	波多黎各
+	Portugal	葡萄牙
+	Paraguay	巴拉圭
+	Qatar	卡達
+	Russia	俄羅斯
+	Singapore	新加坡
+	El Salvador	薩爾瓦多
+	Syria	敘利亞
+	Taiwan	台灣
+	Ukraine	烏克蘭
+	United States	美國
+	Uruguay	烏拉圭
+	Venezuela	委內瑞拉
+	South Africa	南非
