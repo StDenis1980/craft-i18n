@@ -21,8 +21,12 @@
 	10 fps	10 კადრი/წმ
 	100%	100%
 	101 by 101 Average	საშუალო 101×101
+	105%	105%
 	11 by 11 Average	საშუალო 11×11
+	110%	110%
+	115%	115%
 	12 Columns	12 სვეტი
+	120%	120%
 	125%	125%
 	15 fps	15 კადრი/წმ
 	150%	150%
@@ -60,6 +64,7 @@
 	5 Columns, 3 Rows	5 სვეტი, 3 სტრიქონი
 	5 x 5	5 x 5
 	50% Gray	50% ნაცრისფერი
+	50% Threshold	50%-იანი ზღვარი
 	51 by 51 Average	საშუალო 51×51
 	6-up	6 ფანჯარა
 	75%	75%
@@ -74,6 +79,10 @@
 	95%	95%
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: PR: {prs}, კომიტი: {commits}, სტრიქონი: +{added} / −{deleted} (Δ {delta}), ბინარული ფაილი: +{binAdded} / −{binDeleted}, {first} – {last}
 	A brush preset with this name already exists	ფუნჯის პრესეტი ამ სახელით უკვე არსებობს
+	A frame supports affine transforms; select its image for perspective transforms	ჩარჩო აფინურ გარდაქმნებს უჭერს მხარს; პერსპექტიული გარდაქმნისთვის მონიშნეთ მისი გამოსახულება
+	A frame supports affine transforms; select its image to warp it	ჩარჩო აფინურ გარდაქმნებს უჭერს მხარს; დეფორმაციისთვის მონიშნეთ მისი გამოსახულება
+	A picked document is no longer a grayscale document of the same size.	ერთ-ერთი არჩეული დოკუმენტი აღარ არის იმავე ზომის ნაცრისფერი ტონების დოკუმენტი.
+	A picked document is no longer open.	ერთ-ერთი არჩეული დოკუმენტი აღარ არის გახსნილი.
 	A save to {name} is still running; try again when it finishes	{name}-ში შენახვა ჯერ კიდევ მიმდინარეობს; სცადეთ მისი დასრულების შემდეგ
 	A:	კუთხე:
 	About	პროგრამის შესახებ
@@ -81,6 +90,7 @@
 	About {app}	{app}-ის შესახებ
 	Absolute	აბსოლუტური
 	Absolute Colorimetric	აბსოლუტური კოლორიმეტრიული
+	Accelerated	დაჩქარებული
 	Accented Edges	აქცენტირებული კიდეები
 	Accept and Go to Conflict	მიღება და კონფლიქტზე გადასვლა
 	Accurate	ზუსტი
@@ -122,6 +132,7 @@
 	Add Stop	გადასვლის წერტილის დამატება
 	Add to	დამატება:
 	Add to Dictionary	ლექსიკონში დამატება
+	Add to Favorites	რჩეულებში დამატება
 	Add to favorites	რჩეულებში დამატება
 	Add to Sample	ნიმუშში დამატება
 	Add to selection  ({key})	მონიშნულში დამატება  ({key})
@@ -129,6 +140,7 @@
 	Add to Swatches	ფერის ნიმუშებში დამატება
 	Add Vector Mask	ვექტორული ნიღბის დამატება
 	Add vector mask	ვექტორული ნიღბის დამატება
+	Add “copy” to Copied Layers and Groups	დაკოპირებულ შრეებსა და ჯგუფებზე „copy“-ის დამატება
 	Added swatch {name}	დაემატა ფერის ნიმუში: {name}
 	Additional plugins folder	პლაგინების დამატებითი საქაღალდე
 	Adds grain to the soft edges of the brush tip.	ფუნჯის წვერის რბილ კიდეებს მარცვლოვნებას მატებს.
@@ -144,12 +156,9 @@
 	Adjustment visible	კორექცია ხილულია
 	Adjustments	კორექცია
 	Adobe	Adobe
-	Adobe Every-line Composer	Adobe-ის აბზაცის მიხედვით აწყობა
-	Adobe PDF Presets…	Adobe PDF-ის პრესეტები…
 	Adobe rgb	Adobe RGB
 	Adobe RGB (1998)	Adobe RGB (1998)
 	Adobe RGB (1998) compatible	Adobe RGB (1998)-თან თავსებადი
-	Adobe Single-line Composer	Adobe-ის სტრიქონის მიხედვით აწყობა
 	Adobe-rgb-compat	Adobe RGB-თავსებადი
 	Advanced	დამატებითი
 	Advanced Blending	გაფართოებული შერევა
@@ -163,8 +172,10 @@
 	After	შემდეგ
 	After (X)	შემდეგ (X)
 	Again	ხელახლა
+	AHD (adaptive homogeneity)	AHD (ადაპტური ერთგვაროვნება)
 	AI Integrations	AI ინტეგრაციები
 	AI Integrations…	AI ინტეგრაციები…
+smartSvg	AI/PDF/EPS contents will be edited as SVG. Saving replaces the embedded source; format-specific features may change.	AI/PDF/EPS შიგთავსი SVG-ის სახით დარედაქტირდება. შენახვა ჩაანაცვლებს ჩაშენებულ წყაროს; ფორმატისთვის დამახასიათებელი შესაძლებლობები შეიძლება შეიცვალოს.
 	Airbrush: keeps depositing paint while the pointer rests.	აეროგრაფი: საღებავის დატანა გრძელდება, სანამ მაჩვენებელი ერთ ადგილზე დგას.
 	Airbrush: keeps painting while the pointer rests.	აეროგრაფი: ხატვა გრძელდება, სანამ მაჩვენებელი ერთ ადგილზე დგას.
 	Align	სწორება
@@ -179,17 +190,19 @@
 	Alignment	სწორება
 	All	ყველა
 	All Caps	მთავრული
+	All Classes	ყველა კლასი
 	All Layers	ყველა შრე
 	All Layers No Adjustments	ყველა შრე, კორექციის გარეშე
 	All shortcuts reset to PhotoCraft defaults.	ყველა მალსახმობი დაბრუნდა PhotoCraft-ის ნაგულისხმევზე.
-	All shortcuts reset to Photoshop defaults.	ყველა მალსახმობი დაბრუნდა Photoshop-ის ნაგულისხმევზე.
 	All Slices	ყველა ნაჭერი
 	All User Slices	მომხმარებლის ყველა ნაჭერი
 	Allow agent control	აგენტის მიერ მართვის დაშვება
 	Allow Continue	გაგრძელების დაშვება
+	Allow Non-Linear History	არაწრფივი ისტორიის დაშვება
 	Allow scripts to connect	სკრიპტების დაკავშირების დაშვება
 	Alpha	ალფა
 	Alt	Alt
+	Alt-click a plane to set the clone source	სიბრტყეზე Alt-დაწკაპუნებით მიუთითეთ კლონირების წყარო
 	Alt-click to define a source point to clone from	Alt+დაწკაპუნებით მიუთითეთ კლონირების საწყისი წერტილი
 	Alt-click went to the desktop, which moves windows with Alt-drag. Set its window-move key to Super, or latch Alt in Window › Modifier Keys.	Alt-დაწკაპუნება სამუშაო მაგიდამ მიიღო, რომელიც Alt-გადათრევით ფანჯრებს ამოძრავებს. ფანჯრის გადაადგილების კლავიშად Super დააყენეთ, ან Alt დააფიქსირეთ: ფანჯარა › მოდიფიკატორი კლავიშები.
 	Alternates for Current Selection	ალტერნატივები მიმდინარე მონიშნულისთვის
@@ -217,6 +230,7 @@ cameraRaw	Amount	რაოდენობა
 	Angle:	კუთხე:
 	Angled Strokes	დახრილი შტრიხები
 	Animated zoom	ანიმირებული მასშტაბირება
+	Animation Options	ანიმაციის პარამეტრები
 	Anisotropic	ანიზოტროპული
 	Answer the unsaved-changes prompt first	ჯერ უპასუხეთ შეუნახავი ცვლილებების შეკითხვას
 	Anti-Alias	დაგლუვება
@@ -233,6 +247,7 @@ shape	Appearance	იერსახე
 	Apple RGB	Apple RGB
 	Apple Watch 45mm	Apple Watch 45mm
 	Applies at next launch.	ძალაში შედის შემდეგი გაშვებისას.
+	Applies immediately when saved. Memory is not reserved in advance.	შენახვისთანავე მოქმედებს. მეხსიერება წინასწარ არ რეზერვდება.
 	Apply	გამოყენება
 	Apply At Canvas Bounds	ტილოს საზღვრებზე გამოყენება
 	Apply auto tone	ავტოტონის გამოყენება
@@ -269,6 +284,7 @@ cameraRaw	Aqua	ზღვისფერი
 	Arrows	ისრები
 	Art & Illustration	ხელოვნება და ილუსტრაცია
 	Art History Brush	მხატვრული ისტორიის ფუნჯი
+	Art History Brush Tool	მხატვრული ისტორიის ფუნჯის ხელსაწყო
 	Artboard	სამუშაო დაფა
 	Artboard Background Color	სამუშაო დაფის ფონის ფერი
 	Artboard from Group	სამუშაო დაფა ჯგუფიდან
@@ -332,7 +348,9 @@ cameraRaw	Aqua	ზღვისფერი
 	Automate	ავტომატიზაცია
 	Automatic	ავტომატური
 	Automatic (recommended)	ავტომატური (რეკომენდებული)
+	Automatic paragraph direction	აბზაცის ავტომატური მიმართულება
 	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	ავტომატური რეჟიმი იყენებს GPU-აჩქარებას, როცა ის ხელმისაწვდომია, ხოლო შეცდომისას CPU-რენდერზე გადადის.
+	Automatically Check for Updates	განახლებების ავტომატური შემოწმება
 	Automatically Create First Snapshot	პირველი სნეპშოტის ავტომატურად შექმნა
 	Automatically Create New Snapshot When Saving	შენახვისას ახალი სნეპშოტის ავტომატურად შექმნა
 	Automatically level near-horizontal line segments	თითქმის ჰორიზონტალური მონაკვეთების ავტომატური გასწორება
@@ -347,6 +365,8 @@ cameraRaw	Aqua	ზღვისფერი
 	Backend: {backend} ({type})	ბექენდი: {backend} ({type})
 	Background	ფონი
 	Background (Default)	ფონი (ნაგულისხმევი)
+	Background (default)	ფონი (ნაგულისხმევი)
+	Background (default):	ფონი (ნაგულისხმევი):
 	Background Color	ფონის ფერი
 	Background Contents	ფონის შიგთავსი
 	Background Eraser	ფონის საშლელი
@@ -361,6 +381,8 @@ cameraRaw	Balance	ბალანსი
 	Base Tree Type	ხის ძირითადი ტიპი
 	Based On	საფუძველი
 	Baseline	საბაზისო ხაზი
+	Baseline ("Standard")	საბაზისო („სტანდარტული“)
+	Baseline Optimized	საბაზისო ოპტიმიზებული
 	Baseline Shift	საბაზისო ხაზის წანაცვლება
 	Baseline shift	საბაზისო ხაზის წანაცვლება
 	Basic	საბაზო
@@ -370,7 +392,9 @@ cameraRaw	Balance	ბალანსი
 	Beep when done	დასრულებისას ხმოვანი სიგნალი
 	Before	მანამდე
 	Before (Y)	მანამდე (Y)
+cameraRaw	Before (Y)	მანამდე (Y)
 	Begin recording	ჩაწერის დაწყება
+	Behind	უკან
 	Bend	მოხრა
 	Bend:	მოხრა:
 	Berries	კენკრა
@@ -380,9 +404,12 @@ cameraRaw	Balance	ბალანსი
 	Bevel & Emboss…	ფასკა და რელიეფი…
 	Bicubic	ბიკუბური
 	Bicubic (smooth gradients)	ბიკუბური (გლუვი გრადიენტებისთვის)
+	Bicubic Automatic	ბიკუბური, ავტომატური
 	Bicubic automatic	ბიკუბური, ავტომატური
+	Bicubic Sharper	ბიკუბური, უფრო მკვეთრი
 	Bicubic sharper	ბიკუბური, უფრო მკვეთრი
 	Bicubic Sharper (reduction)	ბიკუბური, უფრო მკვეთრი (შემცირებისთვის)
+	Bicubic Smoother	ბიკუბური, უფრო გლუვი
 	Bicubic smoother	ბიკუბური, უფრო გლუვი
 	Bicubic Smoother (enlargement)	ბიკუბური, უფრო გლუვი (გადიდებისთვის)
 	Bilinear	ბიწრფივი
@@ -400,6 +427,7 @@ fontWeight	Black	შავი
 	Black Matte	შავი ფონი
 	Black Point Compensation	შავი წერტილის კომპენსაცია
 	Black, White	შავი, თეთრი
+	Blackletter	გოთიკური
 	Blacks	შავები
 cameraRaw	Blacks	შავები
 	Blade Curvature	ფრთების სიმრუდე
@@ -418,6 +446,7 @@ cameraRaw	Blacks	შავები
 cameraRaw	Blending	შერევა
 	Blending Mode	შერევის რეჟიმი
 	Blending Options	შერევის პარამეტრები
+	Blending Options ({filter})	შერევის პარამეტრები ({filter})
 	Blending Options…	შერევის პარამეტრები…
 	Bloat	გაბერვა
 	Block	ბლოკი
@@ -425,6 +454,7 @@ cameraRaw	Blending	შერევა
 	Blue	ლურჯი
 cameraRaw	Blue	ლურჯი
 	blue	ლურჯი
+	Blue Primary	ლურჯი ძირითადი
 	Blue Yellow	ლურჯი/ყვითელი
 	Blue, Red, Yellow	ლურჯი, წითელი, ყვითელი
 	Blues	ლურჯები
@@ -452,6 +482,7 @@ fontWeight	Bold	მუქი
 	Branches Color	ტოტების ფერი
 	Branches Height	ტოტების სიმაღლე
 	Branches Thickness	ტოტების სისქე
+	Breeze	Breeze
 	Breeze Dark	Breeze ბნელი
 	Breeze dark	Breeze ბნელი
 	Breeze Dark Theme	Breeze ბნელი თემა
@@ -460,6 +491,7 @@ fontWeight	Bold	მუქი
 	Breeze Light Theme	Breeze ღია თემა
 	Brick	აგური
 	Brightness	სიკაშკაშე
+	Brightness Cube	სიკაშკაშის კუბი
 	Brightness Jitter	სიკაშკაშის ცვალებადობა
 	Brightness/Contrast	სიკაშკაშე/კონტრასტი
 	Brightness/Contrast…	სიკაშკაშე/კონტრასტი…
@@ -468,6 +500,7 @@ fontWeight	Bold	მუქი
 	Bring to Front	წინა პლანზე გადმოტანა
 	Bristle Detail	ჯაგრის დეტალი
 	Browse	არჩევა
+	browser preset storage timed out	ბრაუზერის პრესეტების საცავმა დროულად არ უპასუხა
 	Browser storage is unavailable; brushes are session-only. Keep this tab open to retain them.	ბრაუზერის საცავი მიუწვდომელია; ფუნჯები მხოლოდ ამ სეანსში შეინახება. მათ შესანარჩუნებლად ეს ჩანართი ღია დატოვეთ.
 	Browse…	არჩევა…
 	Brush	ფუნჯი
@@ -509,21 +542,16 @@ fontWeight	Bold	მუქი
 	Cache Level:	ქეშის დონე:
 	Cache levels	ქეშის დონეები
 	Cache tile size	ქეშის ფილის ზომა
+	Calculating…	გამოითვლება…
 	Calculations	გამოთვლები
 	Calculations…	გამოთვლები…
+	Calibration	კალიბრაცია
 	Camera Calibration	კამერის კალიბრაცია
 	Camera Data	კამერის მონაცემები
 	Camera Make	კამერის მწარმოებელი
 	Camera Model	კამერის მოდელი
-	Camera Raw	Camera Raw
-	Camera Raw ({name})	Camera Raw ({name})
-	Camera Raw Defaults	Camera Raw-ის ნაგულისხმევი პარამეტრები
-	Camera Raw Filter	Camera Raw ფილტრი
-	Camera Raw Filter ({layer})	Camera Raw ფილტრი ({layer})
-	Camera Raw Filter…	Camera Raw ფილტრი…
-	Camera Raw isn't open	Camera Raw არ არის გახსნილი
-	Camera Raw…	Camera Raw…
 	Cancel	გაუქმება
+cameraRaw	Cancel	გაუქმება
 	Cancel (Esc)	გაუქმება (Esc)
 	Cancel any current edits (Esc)	მიმდინარე ცვლილებების გაუქმება (Esc)
 	Cancel current crop operation  (Esc)	მიმდინარე ჩამოჭრის გაუქმება  (Esc)
@@ -532,7 +560,9 @@ fontWeight	Bold	მუქი
 	Cancel transform (Esc)	გარდაქმნის გაუქმება (Esc)
 	Cancel warp (Esc)	დეფორმაციის გაუქმება (Esc)
 	Cancelled opening {name}	{name}-ის გახსნა გაუქმდა
+cameraRaw	Cancelled opening {name}	{name}-ის გახსნა გაუქმდა
 	Cancelled {label}	გაუქმდა: {label}
+cameraRaw	Cancelled {label}	გაუქმდა: {label}
 	Candle Light	სანთლის შუქი
 	Canvas	ტილო
 	Canvas border	ტილოს საზღვარი
@@ -581,6 +611,7 @@ fontWeight	Bold	მუქი
 	Channel Color	არხის ფერი
 	Channel Mixer	არხების მიქშერი
 	Channel Mixer…	არხების მიქშერი…
+	Channel Options…	არხის პარამეტრები…
 	Channel1	არხი1
 	Channel2	არხი2
 	Channel3	არხი3
@@ -597,6 +628,7 @@ fontWeight	Bold	მუქი
 	Charcoal Thickness	ნახშირის სისქე
 	Check All Layers	ყველა შრის შემოწმება
 	Check for Updates	განახლებების შემოწმება
+	Check for Updates…	განახლებების შემოწმება…
 	Check Spelling	მართლწერის შემოწმება
 	Check Spelling…	მართლწერის შემოწმება…
 	Checkerboard	ჭადრაკის დაფა
@@ -606,8 +638,10 @@ fontWeight	Bold	მუქი
 	Choose a format that keeps it, such as Photoshop (PSD), or save a copy.	აირჩიეთ ფორმატი, რომელიც მას შეინარჩუნებს, მაგალითად Photoshop (PSD), ან შეინახეთ ასლი.
 	Choose a gradient file (.grd).	აირჩიეთ გრადიენტის ფაილი (.grd).
 	Choose a new shortcut for this command, or leave it without one.	აირჩიეთ ამ ბრძანების ახალი მალსახმობი ან დატოვეთ ის მალსახმობის გარეშე.
+smartSvg	Choose executable…	შესრულებადი ფაილის არჩევა…
 	Choose Folder	საქაღალდის არჩევა
 	Choose Stack Mode:	აირჩიეთ დასტის რეჟიმი:
+smartSvg	Choose the application used to edit this SVG:	აირჩიეთ აპლიკაცია, რომლითაც ეს SVG დარედაქტირდება:
 	Choose…	არჩევა…
 	Chrome	ქრომი
 	CIE RGB	CIE RGB
@@ -618,10 +652,13 @@ fontWeight	Bold	მუქი
 cameraRaw	Clarity	სიცხადე
 	Classic	კლასიკური
 	Classic Theme	კლასიკური თემა
+	Clean Brush	ფუნჯის გაწმენდა
+	Clean the brush after each stroke	ყოველი შტრიხის შემდეგ ფუნჯის გაწმენდა
 	Cleanliness	სისუფთავე
 	Clear	გასუფთავება
 	Clear All	ყველას გასუფთავება
 	Clear Amount	სისუფთავის ოდენობა
+	Clear aspect ratio values	გაასუფთავეთ ასპექტის თანაფარდობის მნიშვნელობები
 	Clear Brush Controls	ფუნჯის პარამეტრების გასუფთავება
 	Clear Brush Strokes	ფუნჯის მონასმების გასუფთავება
 	Clear Canvas Guides	ტილოს დამხმარე ხაზების წაშლა
@@ -630,6 +667,7 @@ cameraRaw	Clarity	სიცხადე
 	Clear History	ისტორიის გასუფთავება
 	Clear Layer Style	შრის სტილის გასუფთავება
 	Clear Override	გადაფარვის მოხსნა
+	Clear Recent File List	ბოლოს გახსნილი ფაილების სიის გასუფთავება
 	Clear Recent Files	ბოლოს გახსნილი ფაილების სიის გასუფთავება
 	Clear Samples	ნიმუშების გასუფთავება
 	Clear Selected Artboard Guides	მონიშნული სამუშაო დაფის დამხმარე ხაზების წაშლა
@@ -655,6 +693,7 @@ cameraRaw	Clarity	სიცხადე
 	Click to fill similar colours	დაწკაპეთ მსგავსი ფერების შესავსებად
 	Click to pick · Esc to cancel	დაწკაპეთ ასაღებად · Esc — გაუქმება
 	Click to place · Alt-click or drag off-canvas to remove	დაწკაპეთ განსათავსებლად · Alt-დაწკაპუნება ან ტილოს გარეთ გადათრევა — წაშლა
+	Click to refresh histogram with uncached data	დაწკაპეთ ჰისტოგრამის ქეშის გარეშე მონაცემებით განსაახლებლად
 	Click to restore the current colour	დაწკაპეთ მიმდინარე ფერის აღსადგენად
 	Click to sample the foreground colour  ·  {key}-click for background	დაწკაპეთ წინა პლანის ფერის ნიმუშის ასაღებად  ·  {key}+დაწკაპუნება — ფონისთვის
 	Click to zoom in  ·  {key}-click to zoom out  ·  drag right/left to zoom in/out	დაწკაპეთ გასადიდებლად  ·  {key}-დაწკაპუნება — დასაპატარავებლად  ·  მარჯვნივ/მარცხნივ გადათრევა — გადიდება/დაპატარავება
@@ -666,6 +705,7 @@ cameraRaw	Clarity	სიცხადე
 	Click: corner · Drag: smooth · {alt}-drag: break handle · Click or drag first point: close · {key} finish · Esc cancel	დაწკაპუნება: კუთხე · გადათრევა: გლუვი · {alt}-გადათრევა: სახელურის გაწყვეტა · პირველ წერტილზე დაწკაპუნება ან გადათრევა: დახურვა · {key} დასრულება · Esc გაუქმება
 	Click: select anchor · Drag: move anchor, handle or segment · {shift}-click: add · {alt}-click: whole subpath	დაწკაპუნება: საყრდენი წერტილის მონიშვნა · გადათრევა: საყრდენი წერტილის, სახელურის ან სეგმენტის გადაადგილება · {shift}-დაწკაპუნება: დამატება · {alt}-დაწკაპუნება: მთელი ქვეტრაექტორია
 	Click: smooth point · Double-click: corner · Drag a point: move · Click first point: close · {key} finish	დაწკაპუნება: გლუვი წერტილი · ორმაგი დაწკაპუნება: კუთხე · წერტილის გადათრევა: გადაადგილება · პირველ წერტილზე დაწკაპუნება: დახურვა · {key} დასრულება
+	Clip Thumbnails to Document Bounds	ესკიზების დოკუმენტის საზღვრებით მოჭრა
 	Clip Thumbnails to Layer Bounds	ესკიზების შრის საზღვრებით მოჭრა
 	Clip thumbnails to layer bounds	ესკიზების შრის საზღვრებით მოჭრა
 	Clip to layer below	ქვედა შრეში ჩაჭრა
@@ -692,6 +732,8 @@ cameraRaw	Clarity	სიცხადე
 	Cmd	Cmd
 	Cmyk	CMYK
 	CMYK Color	CMYK ფერი
+	CMYK Sliders	CMYK სლაიდერები
+	CMYK Spectrum	CMYK სპექტრი
 	CMYK:	CMYK:
 	Coarse Dots	მსხვილი წერტილები
 	Coated CMYK	ცარცული ქაღალდის CMYK
@@ -706,6 +748,7 @@ cameraRaw	Clarity	სიცხადე
 cameraRaw	Color	ფერი
 	Color & Swatches	ფერი და ფერის ნიმუშები
 	Color Adaptation	ფერის ადაპტაცია
+	Color Aware	ფერის გათვალისწინებით
 	Color Balance	ფერთა ბალანსი
 	Color Balance…	ფერთა ბალანსი…
 	Color Blindness — Deuteranopia-type	დალტონიზმი — დეიტერანოპიის ტიპი
@@ -753,6 +796,7 @@ cameraRaw	Color Mixer	ფერების მიქშერი
 	Color Picker (Text Color)	ფერის ამრჩევი (ტექსტის ფერი)
 	Color Picker ({name})	ფერის ამრჩევი ({name})
 	Color Priority	ფერის პრიორიტეტი
+cameraRaw	Color Priority	ფერის პრიორიტეტი
 	Color Profile	ფერის პროფილი
 	Color Range	ფერების დიაპაზონი
 	Color Range preview	ფერების დიაპაზონის გადახედვა
@@ -767,6 +811,7 @@ cameraRaw	Color Mixer	ფერების მიქშერი
 	Color Table	ფერთა ცხრილი
 	Color Table…	ფერების ცხრილი…
 	Color to Alpha…	ფერიდან ალფაში…
+	Color Wheel	ფერთა წრე
 	Color:	ფერი:
 	Colored Pencil	ფერადი ფანქარი
 	Colorize	გაფერადება
@@ -807,7 +852,9 @@ cameraRaw	Color Mixer	ფერების მიქშერი
 	Cone (Inverted)	კონუსი (შებრუნებული)
 	Cone - Inverted	კონუსი - შებრუნებული
 	Confirm	დადასტურება
+	Confirm or cancel the open action step dialog first	ჯერ დაადასტურეთ ან გააუქმეთ მოქმედების ნაბიჯის გახსნილი დიალოგი
 	Conform	მორგება
+	Consolidate All to Here	ყველას აქ გაერთიანება
 	Consolidate All to Tabs	ყველას ჩანართებად გაერთიანება
 	Constant	მუდმივი
 	Constrain proportions	პროპორციების შენარჩუნება
@@ -817,6 +864,7 @@ cameraRaw	Color Mixer	ფერების მიქშერი
 	Contact Sheet II…	საკონტაქტო ფურცელი II…
 	Content-Aware	შიგთავსის გათვალისწინებით
 	Content-Aware Fill	შიგთავსის გათვალისწინებით შევსება
+	Content-aware fill	შიგთავსზე დაფუძნებული შევსება
 	Content-Aware Fill needs a selection on a pixel layer	შიგთავსის გათვალისწინებით შევსებას სჭირდება მონიშნული პიქსელურ შრეზე
 	Content-Aware Fill…	შიგთავსის გათვალისწინებით შევსება…
 	Content-Aware Move	შიგთავსის გათვალისწინებით გადაადგილება
@@ -824,6 +872,7 @@ cameraRaw	Color Mixer	ფერების მიქშერი
 	Content-Aware Scale	შიგთავსის გათვალისწინებით მასშტაბირება
 	Contents:	შიგთავსი:
 	Contextual Alternates	კონტექსტური ალტერნატივები
+	Contextual Task Bar	კონტექსტური ამოცანების ზოლი
 	Contiguous	მომიჯნავე
 	Continue	გაგრძელება
 	Contour	კონტური
@@ -844,6 +893,7 @@ cameraRaw	Contrast	კონტრასტი
 	Convert Point Tool	წერტილის გარდაქმნის ხელსაწყო
 	Convert to Alpha Channel	ალფა-არხად გარდაქმნა
 	Convert to Embedded	ჩადგმულად გარდაქმნა
+	Convert to Frame…	ჩარჩოდ გარდაქმნა…
 	Convert to Grayscale	ნაცრისფერ ტონებად გარდაქმნა
 	Convert to Layers	შრეებად გარდაქმნა
 	Convert to Linked	დაკავშირებულად გარდაქმნა
@@ -853,17 +903,23 @@ cameraRaw	Contrast	კონტრასტი
 	Convert to Profile	პროფილში გარდაქმნა
 	Convert to Profile…	პროფილში გარდაქმნა…
 	Convert to Shape	ფიგურად გარდაქმნა
+	Convert to Shape…	ფიგურად გარდაქმნა…
 	Convert to Smart Object	ჭკვიან ობიექტად გარდაქმნა
 	Convert to sRGB	sRGB-ად გარდაქმნა
 	Convert to srgb	sRGB-ად გარდაქმნა
 	Convert to the working space ({profile})	სამუშაო სივრცეში გარდაქმნა ({profile})
 	Cool	ცივი
+	Cooling Filter (80)	გამაციებელი ფილტრი (80)
+	Cooling Filter (82)	გამაციებელი ფილტრი (82)
+	Cooling Filter (LBB)	გამაციებელი ფილტრი (LBB)
 	Cooling L B B	გამაციებელი LBB
 	Cooling80	გამაციებელი 80
 	Cooling82	გამაციებელი 82
 	Copies	ასლები
 	Copper	სპილენძი
 	Copy	კოპირება
+	Copy Color as HTML	ფერის კოპირება HTML კოდად
+	Copy Color's Hex Code	ფერის Hex კოდის კოპირება
 	Copy Complete Stroke	სრული კონტურის კოპირება
 	Copy Fill	შევსების კოპირება
 	Copy Layer Style	შრის სტილის კოპირება
@@ -872,6 +928,7 @@ cameraRaw	Contrast	კონტრასტი
 	Copyright	საავტორო უფლება
 	Copyright and Contact Info	საავტორო უფლება და საკონტაქტო ინფორმაცია
 	Copyright Info URL	საავტორო უფლებების ინფორმაციის URL
+	Copyright Notice	საავტორო უფლების შენიშვნა
 	Copyright Status	საავტორო უფლებების სტატუსი
 	Copyright Url	საავტორო უფლებების URL
 	Copyrighted	დაცულია საავტორო უფლებით
@@ -886,35 +943,43 @@ cameraRaw	Contrast	კონტრასტი
 	Could not complete the Free Transform command because the layer is locked.	თავისუფალი გარდაქმნის ბრძანება ვერ შესრულდა, რადგან შრე ჩაკეტილია.
 	Could not open	გახსნა ვერ მოხერხდა
 	Could not rename the action: {error}	მოქმედების სახელის შეცვლა ვერ მოხერხდა: {error}
+	Could not transform because the layer is locked.	გარდაქმნა ვერ მოხერხდა, რადგან შრე ჩაკეტილია.
 	Could not transform: the layer is empty	გარდაქმნა ვერ მოხერხდა: შრე ცარიელია
 	Could not use Perspective Warp: the layer is empty	პერსპექტიული დეფორმაცია ვერ გამოიყენება: შრე ცარიელია
 	Could not use Puppet Warp: no opaque pixels	მარიონეტული დეფორმაცია ვერ გამოიყენება: გაუმჭვირვალე პიქსელები არ არის
 	Could not use Puppet Warp: the layer is empty	მარიონეტული დეფორმაცია ვერ გამოიყენება: შრე ცარიელია
 	Could not use the move tool because the layer is locked.	გადაადგილების ხელსაწყო ვერ გამოიყენება, რადგან შრე ჩაკეტილია.
+	Could not write {name}: {error}	{name}-ის ჩაწერა ვერ მოხერხდა: {error}
 	Couldn't open {name}: {error}	{name}-ის გახსნა ვერ მოხერხდა: {error}
 	Couldn't place {name}: {error}	{name}-ის ჩასმა ვერ მოხერხდა: {error}
 	Couldn't save preferences: {error}. Retrying…	პარამეტრების შენახვა ვერ მოხერხდა: {error}. ხელახლა ცდა…
 	Count	დათვლა
 	Count Jitter	რაოდენობის ცვალებადობა
 	Count Tool	დათვლის ხელსაწყო
+	Count:	რაოდენობა:
 	Count: {n}	რაოდენობა: {n}
 	Country	ქვეყანა
 	Cove - Deep	ღარი - ღრმა
 	Cove - Shallow	ღარი - ზედაპირული
 	CPU (no GPU acceleration)	CPU (GPU-აჩქარების გარეშე)
 	CPU / Compatibility	CPU / თავსებადობა
+	CPU Rendering	CPU-რენდერინგი
 	Crack Brightness	ბზარის სიკაშკაშე
 	Crack Depth	ბზარის სიღრმე
 	Crack Spacing	ბზარებს შორის მანძილი
 	Craquelure	კრაკელიური
 	Create	შექმნა
 	Create a new count group	ახალი დათვლის ჯგუფის შექმნა
+	Create a new custom frame	ახალი მორგებული ჩარჩოს შექმნა
 	Create a new document or open an existing file.	შექმენით ახალი დოკუმენტი ან გახსენით არსებული ფაილი.
 	Create a new elliptical frame	ახალი ელიფსური ჩარჩოს შექმნა
 	Create a new group	ახალი ჯგუფის შექმნა
 	Create a new layer	ახალი შრის შექმნა
 	Create a new layer  (⇧⌘N)	ახალი შრის შექმნა  (⇧⌘N)
+	Create a new polygonal frame	ახალი მრავალკუთხა ჩარჩოს შექმნა
 	Create a new rectangular frame	ახალი მართკუთხა ჩარჩოს შექმნა
+	Create a new triangular frame	ახალი სამკუთხა ჩარჩოს შექმნა
+	Create a single history state	ისტორიის ერთი მდგომარეობის შექმნა
 	Create By	შექმნის ხერხი
 	Create Clipping Mask	მომჭრელი ნიღბის შექმნა
 	Create Date	შექმნის თარიღი
@@ -954,6 +1019,7 @@ cameraRaw	Contrast	კონტრასტი
 	Create Vector Mask	ვექტორული ნიღბის შექმნა
 	Create Video Timeline	ვიდეოს დროის ხაზის შექმნა
 	Create Warped Text	დეფორმირებული ტექსტის შექმნა
+	Create warped text	დეფორმირებული ტექსტის შექმნა
 	Create Work Path	სამუშაო ტრაექტორიის შექმნა
 	Create…	შექმნა…
 	Credit	ავტორობა
@@ -975,7 +1041,10 @@ cameraRaw	Contrast	კონტრასტი
 	current	მიმდინარე
 	Current & Below	მიმდინარე და ქვედა
 	Current & Below No Adjustments	მიმდინარე და ქვედა, კორექციის გარეშე
+	Current Brush Load	ფუნჯზე აღებული საღებავი
+	Current Colors	მიმდინარე ფერები
 	Current Layer	მიმდინარე შრე
+	Current Layer:	მიმდინარე შრე:
 	Current Path	მიმდინარე ტრაექტორია
 	Current Size	მიმდინარე ზომა
 	Current Time	მიმდინარე დრო
@@ -999,6 +1068,7 @@ cameraRaw	Curve	მრუდი
 	Custom Branch Color	ტოტების საკუთარი ფერი
 	Custom dark	მორგებული ბნელი
 	Custom light	მორგებული ღია
+	Custom Pattern	მორგებული პატერნი
 	Custom pattern	მორგებული პატერნი
 	Custom Pattern:	მორგებული პატერნი:
 	Custom Pixel Aspect Ratio	პიქსელის საკუთარი თანაფარდობა
@@ -1020,7 +1090,9 @@ cameraRaw	Curve	მრუდი
 	D1/DV NTSC Widescreen (1.21)	D1/DV NTSC ფართოეკრანიანი (1,21)
 	D1/DV PAL (1.09)	D1/DV PAL (1,09)
 	D1/DV PAL Widescreen (1.46)	D1/DV PAL ფართოეკრანიანი (1,46)
+	Dab	ლაქა
 	Daisies	გვირილები
+	Damaged Photoshop document	დაზიანებული Photoshop-ის დოკუმენტი
 	Dark	ბნელი
 	Dark Gray	მუქი ნაცრისფერი
 	Dark gray	მუქი ნაცრისფერი
@@ -1054,9 +1126,12 @@ cameraRaw	Darks	მუქი ტონები
 cameraData	Date Taken	გადაღების თარიღი
 	DateTime Original	ორიგინალის თარიღი და დრო
 	Day For Night	დღე ღამედ
+	DDS Options	DDS-ის პარამეტრები
 	De-Interlace	სტრიქონგამოტოვების მოცილება
 	De-Interlace…	სტრიქონგამოტოვების მოცილება…
 	Decontaminate	ფერის გაწმენდა
+	Decontaminate Colors	ფერების გაწმენდა
+	Decorative	დეკორატიული
 	Decrease Brush Hardness	ფუნჯის სიხისტის შემცირება
 	Decrease Brush Size	ფუნჯის ზომის შემცირება
 	Decrease Type Size	ტექსტის ზომის შემცირება
@@ -1072,7 +1147,6 @@ cameraData	Date Taken	გადაღების თარიღი
 	Default Foreground and Background Colors	ნაგულისხმევი წინა პლანისა და ფონის ფერები
 	Default Leaves	ნაგულისხმევი ფოთლები
 	Default PhotoCraft Size	ნაგულისხმევი ზომა
-	Default Photoshop Size	Photoshop-ის ნაგულისხმევი ზომა
 	Default printer	ნაგულისხმევი პრინტერი
 	Default restored.	ნაგულისხმევი აღდგენილია.
 	Defaults	ნაგულისხმევი
@@ -1099,15 +1173,18 @@ cameraRaw	Dehaze	ბურუსის მოცილება
 	Delete Brush	ფუნჯის წაშლა
 	Delete brush	ფუნჯის წაშლა
 	Delete Channel	არხის წაშლა
+	Delete Contour	კონტურის წაშლა
 	Delete count group	დათვლის ჯგუფის წაშლა
 	Delete Crop Preset…	ჩამოჭრის პრესეტის წაშლა…
 	Delete Cropped Pixels	ჩამოჭრილი პიქსელების წაშლა
 	Delete current channel	მიმდინარე არხის წაშლა
 	Delete current state	მიმდინარე მდგომარეობის წაშლა
+	Delete effect	ეფექტის წაშლა
 	Delete effect layer	ეფექტის შრის წაშლა
 	Delete Filter Mask	ფილტრის ნიღბის წაშლა
 	Delete Frame	კადრის წაშლა
 	Delete Group	ჯგუფის წაშლა
+	Delete Hidden Layers	დამალული შრეების წაშლა
 	Delete Layer	შრის წაშლა
 	Delete layer	შრის წაშლა
 	Delete layer comp	შრეების კომპოზიციის წაშლა
@@ -1138,6 +1215,7 @@ cameraRaw	Dehaze	ბურუსის მოცილება
 	Delete Workspace…	სამუშაო სივრცის წაშლა…
 	Delete {count} layers? {names}	წაიშალოს შრეები ({count})? {names}
 	Delete…	წაშლა…
+	Demosaic	დემოზაიკა
 	Density	სიმკვრივე
 	Density:	სიმკვრივე:
 	Depth	სიღრმე
@@ -1157,7 +1235,9 @@ cameraRaw	Detail	დეტალი
 	Detailed	დეტალური
 	Details	დეტალები
 	Detect Faces	სახეების ამოცნობა
+	Determines if pixel data outside the crop box is retained or deleted	განსაზღვრავს, შენარჩუნდება თუ წაიშლება ჩამოჭრის ჩარჩოს გარეთ არსებული პიქსელები
 	Developing {name}	მუშავდება {name}
+cameraRaw	Developing {name}	მუშავდება {name}
 	Diagonal	დიაგონალური
 	Diagonal (Descending)	დიაგონალური (დაღმავალი)
 	Diameter	დიამეტრი
@@ -1170,6 +1250,7 @@ cameraRaw	Detail	დეტალი
 	Diffuse Glow	გაბნეული ნათება
 	Diffuse…	დიფუზია…
 	Diffusion	დიფუზია
+	Diffusion Dither	დიფუზიური დიზერინგი
 	Digits	ციფრები
 	Dimensions:	ზომები:
 	Direct Selection Tool	პირდაპირი მონიშვნის ხელსაწყო
@@ -1202,7 +1283,9 @@ cameraRaw	Detail	დეტალი
 	Display profiles: {reason}	ეკრანის პროფილები: {reason}
 	Display Text	ტექსტის ჩვენება
 	Display-p3	Display P3
+	Displays pop-up help for the fill methods	აჩვენებს ამომხტარ დახმარებას შევსების მეთოდებზე
 	Dissolve	გაფანტვა
+	Dissolve is approximated: it blends without Photoshop's dither.	„გაფანტვა“ მიახლოებითია: შერევა Photoshop-ის დიზერინგის გარეშე ხდება.
 	Distance	მანძილი
 	Distort	დამახინჯება
 	Distortion	დეფორმაცია
@@ -1211,6 +1294,7 @@ cameraRaw	Detail	დეტალი
 	Dither	დიზერინგი
 	Divide	გაყოფა
 	Divide…	გაყოფა…
+	Do not append "copy" to filename when saving a copy	ასლის შენახვისას ფაილის სახელს „copy“ არ დაემატოს
 	Do you want to save the changes you made to “{name}” before closing?	გსურთ, დახურვამდე შეინახოთ „{name}“-ში შეტანილი ცვლილებები?
 	Do you want to save the changes you made to “{name}” before quitting?	გსურთ, გასვლამდე შეინახოთ „{name}“-ში შეტანილი ცვლილებები?
 	Do you want to save you made to “{name}” before quitting?	გსურთ „{name}“-ში შეტანილი ცვლილებების შენახვა გასვლამდე?
@@ -1250,6 +1334,7 @@ cameraRaw	Detail	დეტალი
 	Drag a crop box · drag inside to move · edges resize ({ratio} ratio, {centre} centre) · Space moves while drawing · {commit} commits · Esc cancels	გადაათრიეთ ჩამოჭრის ჩარჩო · შიგნით გადათრევით გადაადგილება · კიდეებით ზომის შეცვლა ({ratio} თანაფარდობა, {centre} ცენტრიდან) · Space — გადაადგილება ხაზვისას · {commit} — დადასტურება · Esc — გაუქმება
 	Drag a rectangle around the object	ობიექტის გარშემო მართკუთხედი გაავლეთ
 	Drag around the centre to rotate the view  ·  Shift constrains to 15°	გადაათრიეთ ცენტრის გარშემო ხედის შესაბრუნებლად  ·  Shift — 15°-იანი ბიჯით
+	Drag on the image to add a constraint; Shift for horizontal/vertical; right-click a constraint to change or delete it.	შეზღუდვის დასამატებლად გამოსახულებაზე გაავლეთ; Shift — ჰორიზონტალური/ვერტიკალური; შეზღუდვის შესაცვლელად ან წასაშლელად — მასზე მარჯვენა დაწკაპუნება.
 	Drag on the image to add a constraint; Shift for horizontal/vertical; right-click to delete.	გადაათრიეთ გამოსახულებაზე შეზღუდვის დასამატებლად; Shift — ჰორიზონტალური/ვერტიკალური; წასაშლელად დაწკაპეთ მარჯვენა ღილაკით.
 	Drag or click polygon points · hold Alt during lasso for straight segments · {add} add · {sub} before drawing subtracts	გადაათრიეთ ან დაწკაპეთ მრავალკუთხედის წერტილებზე · სწორი მონაკვეთებისთვის ლასოს დროს დააჭირეთ Alt-ს · {add} დამატება · {sub} ხაზვამდე — გამოკლება
 	Drag the arrow to set the angle, the dots to set the roundness	გადაათრიეთ ისარი კუთხის დასაყენებლად, წერტილები — სიმრგვალისთვის
@@ -1261,12 +1346,14 @@ cameraRaw	Detail	დეტალი
 	Drag to move the active layer	გადაათრიეთ აქტიური შრის გადასაადგილებლად
 	Drag to move the active shape's path or the Work Path	გადაათრიეთ აქტიური ფიგურის ტრაექტორიის ან სამუშაო ტრაექტორიის გადასაადგილებლად
 	Drag to move the layer	გადაათრიეთ შრის გადასაადგილებლად
+	Drag to move the selected path	გადაათრიეთ მონიშნული ტრაექტორიის გადასაადგილებლად
 	Drag to pan  ·  hold Space with any tool	გადაათრიეთ ხედის გადასაწევად  ·  ან ნებისმიერ ხელსაწყოსთან დააჭირეთ Space-ს
 	Drag to pan · Scroll to zoom · Double-click to fit	გადათრევა: გადაადგილება · გადახვევა: მასშტაბი · ორმაგი დაწკაპუნება: ჩატევა
 	Drag: draw freehand · Release on the start point: close	გადათრევა: თავისუფალი ხატვა · გაშვება საწყის წერტილზე: დახურვა
 	Drag: draw freehand · {alt}-click: straight segment · Release on the start point: close	გადათრევა: თავისუფალი ხატვა · {alt}-დაწკაპუნება: სწორი მონაკვეთი · გაშვება საწყის წერტილზე: დახურვა
 	Draw to modify the curve	მრუდის შესაცვლელად ხატვა
 	Draw with the Pen tool (P) or make a work path from a selection.	დახაზეთ კალმით (P) ან შექმენით სამუშაო ტრაექტორია მონიშნულიდან.
+	Drawn on the CPU: {reason}. Click for System Info.	დახატულია CPU-ზე: {reason}. დაწკაპეთ სისტემის ინფორმაციის სანახავად.
 	Driver: {driver}	დრაივერი: {driver}
 	Drop an image or PSD anywhere to open it.	გასახსნელად ჩააგდეთ გამოსახულება ან PSD ნებისმიერ ადგილას.
 	Drop Shadow	ჩრდილი
@@ -1300,6 +1387,7 @@ cameraRaw	Detail	დეტალი
 	East Asian Features	აღმოსავლეთაზიური შესაძლებლობები
 	Edge	კიდე
 	Edge Brightness	კიდის სიკაშკაშე
+	Edge Detection	კიდის აღმოჩენა
 	Edge Extension	კიდის გაგრძელება
 	Edge Fidelity	კიდის სიზუსტე
 	Edge Intensity	კიდის ინტენსივობა
@@ -1308,6 +1396,7 @@ cameraRaw	Detail	დეტალი
 	Edge Thickness	კიდის სისქე
 	Edge Width	კიდის სიგანე
 	Edit	რედაქტირება
+	Edit Brush…	ფუნჯის რედაქტირება…
 	Edit Contents	შიგთავსის რედაქტირება
 	Edit in Quick Mask Mode	სწრაფი ნიღბის რეჟიმში რედაქტირება
 	Edit in Quick Mask Mode  (Q)	რედაქტირება სწრაფი ნიღბის რეჟიმში  (Q)
@@ -1316,6 +1405,7 @@ cameraRaw	Detail	დეტალი
 	Edit Plane	სიბრტყის რედაქტირება
 	Edit points to modify the curve	მრუდის შესაცვლელად წერტილების რედაქტირება
 	Edit Selected Guides	მონიშნული დამხმარე ხაზების რედაქტირება
+smartSvg	Edit SVG Smart Object	SVG ჭკვიანი ობიექტის რედაქტირება
 	Edit Toolbar	ხელსაწყოთა ზოლის რედაქტირება
 	Edit Toolbar…	ხელსაწყოთა ზოლის რედაქტირება…
 	Edit Type	ტექსტის რედაქტირება
@@ -1325,6 +1415,7 @@ cameraRaw	Detail	დეტალი
 @id	edit.purge.undo	დაბრუნების ისტორია
 @id	edit.stroke	კონტური…
 @id	edit.transform.scale	მასშტაბირება
+	Edits	ცვლილებები
 	Edits that change the whole document, such as a layer's blend mode, opacity or visibility, redraw all of it.	ცვლილებები, რომლებიც მთელ დოკუმენტს ცვლის, მაგალითად შრის შერევის რეჟიმი, გაუმჭვირვალობა ან ხილვადობა, მთელ დოკუმენტს ხელახლა ხატავს.
 	Edit…	რედაქტირება…
 	Effect cache mb	ეფექტების ქეში (მბ)
@@ -1338,7 +1429,9 @@ cameraRaw	Effects	ეფექტები
 	Ellipse Tool	ელიფსის ხელსაწყო
 	Elliptical Marquee Tool	ელიფსური მონიშვნის ხელსაწყო
 	Email	ელფოსტა
+	Embed All Linked	ყველა დაკავშირებულის ჩაშენება
 	Embed Color Profile	ფერის პროფილის ჩაშენება
+	Embed Linked	დაკავშირებულის ჩაშენება
 	Embed profiles	პროფილების ჩაშენება
 	Embedded Profile Mismatch	ჩაშენებული პროფილის შეუსაბამობა
 	Emboss	რელიეფი
@@ -1350,6 +1443,7 @@ cameraRaw	Effects	ეფექტები
 	Enable Crop Shield	ჩამოჭრის ფარის ჩართვა
 	Enable flick panning	ინერციული გადაწევის ჩართვა
 	Enable floating document window docking	მცურავი დოკუმენტის ფანჯრების მიმაგრების ჩართვა
+	Enable Generator	გენერატორის ჩართვა
 	Enable Layer Mask	შრის ნიღბის ჩართვა
 	Enable Mask	ნიღბის ჩართვა
 	Enable narrow options bar	ვიწრო პარამეტრების ზოლის ჩართვა
@@ -1367,6 +1461,7 @@ cameraRaw	Effects	ეფექტები
 	Enter a name for the brush preset	შეიყვანეთ ფუნჯის პრესეტის სახელი
 	Enter a name for the crop preset	შეიყვანეთ ჩამოჭრის პრესეტის სახელი
 	Enter description…	შეიყვანეთ აღწერა…
+	Entire Document	მთელი დოკუმენტი
 	Entire Font	მთელი შრიფტი
 	Entropy	ენტროპია
 	Equalize	გათანაბრება
@@ -1393,12 +1488,14 @@ cameraRaw	Effects	ეფექტები
 	Expand Detection Area	აღმოჩენის არის გაფართოება
 	Expand group  ({key}-click: all groups)	ჯგუფის გაშლა  ({key}+დაწკაპუნება: ყველა ჯგუფი)
 	Expand group  (⌥-click: all groups)	ჯგუფის გაშლა  (⌥+დაწკაპუნება: ყველა ჯგუფი)
+	Expand New Effects	ახალი ეფექტების გაშლა
 	Expand Panel Group	პანელების ჯგუფის გაშლა
 	Expand…	გაფართოება…
 	Expansion:	გაფართოება:
 	Export	ექსპორტი
 	Export As	ექსპორტი სხვა ფორმატით
 	Export As: {name}	ექსპორტი სხვა ფორმატით: {name}
+	Export As: {n} layers	ექსპორტი სხვა ფორმატით: შრე: {n}
 	Export As…	ექსპორტი სხვა ფორმატით…
 	Export clipboard	გაცვლის ბუფერის ექსპორტი
 	Export Contents	შიგთავსის ექსპორტი
@@ -1409,7 +1506,9 @@ cameraRaw	Effects	ეფექტები
 	Export Preferences…	ექსპორტის პარამეტრები…
 	Export Presets	ექსპორტის პრესეტები
 	Export selected measurements (CSV)	მონიშნული გაზომვების ექსპორტი (CSV)
+	Export Selected Styles…	მონიშნული სტილების ექსპორტი…
 	Export Settings	პარამეტრების ექსპორტი
+	Export Styles…	სტილების ექსპორტი…
 	Export Swatches for Exchange…	ფერის ნიმუშების ექსპორტი გასაცვლელად…
 	Export Swatches…	ფერის ნიმუშების ექსპორტი…
 	Export to	ექსპორტი ფორმატში
@@ -1417,6 +1516,8 @@ cameraRaw	Effects	ეფექტები
 	Export/Import Presets…	პრესეტების ექსპორტი/იმპორტი…
 	Exported contents to {path}	შიგთავსი ექსპორტირებულია: {path}
 	Exported presets to {path}	პრესეტები ექსპორტირებულია: {path}
+	Exported {n} files	ექსპორტირებულია ფაილი: {n}
+@plural	Exported {n} style to {file}|Exported {n} styles to {file}	სტილი: {n} ექსპორტირებულია {file}-ში|სტილი: {n} ექსპორტირებულია {file}-ში
 @plural	Exported {n} swatch to {file}|Exported {n} swatches to {file}	ფერის ნიმუში: {n} ექსპორტირებულია {file}-ში|ფერის ნიმუში: {n} ექსპორტირებულია {file}-ში
 	Exported {path}	ექსპორტირებულია: {path}
 	Exported {path} ({size})	ექსპორტირებულია: {path} ({size})
@@ -1429,6 +1530,7 @@ cameraRaw	Exposure	ექსპოზიცია
 	Exposure Program	ექსპოზიციის პროგრამა
 	Exposure:	ექსპოზიცია:
 	Exposure…	ექსპოზიცია…
+	EXR	EXR
 	Extend	გაფართოება
 	Extensions	გაფართოებები
 	Extra Bold	ძალიან მუქი
@@ -1462,6 +1564,7 @@ cameraData	F-Stop	დიაფრაგმა
 	Fast	სწრაფი
 	Faux Bold	ხელოვნური მუქი
 	Faux Italic	ხელოვნური დახრილი
+	Favorite fonts	რჩეული შრიფტები
 	Feather	კიდეების შერბილება
 cameraRaw	Feather	კიდეების შერბილება
 	Feather Radius	კიდეების შერბილების რადიუსი
@@ -1496,11 +1599,13 @@ layers	Fill	შევსება
 	Fill Light	შევსების სინათლე
 	Fill new type layers with placeholder	ახალი ტექსტური შრეების შევსება ჩანაცვლების ტექსტით
 	Fill Opacity	შევსების გაუმჭვირვალობა
+	Fill options	შევსების პარამეტრები
 	Fill Path	ტრაექტორიის შევსება
 	Fill path with foreground color	ტრაექტორიის წინა პლანის ფერით შევსება
 	Fill Path…	ტრაექტორიის შევსება…
 	Fill Screen	ეკრანის შევსება
 	Fill Settings	შევსების პარამეტრები
+	Fill the expanded area with your background color or transparent pixels	შეავსეთ გაფართოებული არე ფონის ფერით ან გამჭვირვალე პიქსელებით
 	Fill with Background Color	ფონის ფერით შევსება
 	Fill with Background Color, Preserve Transparency	ფონის ფერით შევსება, გამჭვირვალობის შენარჩუნებით
 	Fill with Foreground Color	წინა პლანის ფერით შევსება
@@ -1521,6 +1626,7 @@ layers	Fill:	შევსება:
 	Filter for type layers	ტექსტური შრეების ფილტრი
 	Filter Gallery	ფილტრების გალერეა
 	Filter Gallery…	ფილტრების გალერეა…
+	Filter Options	ფილტრის პარამეტრები
 @id	filter.sharpen.sharpen	გამკვეთრება
 	Filter:	ფილტრი:
 	Find	ძებნა
@@ -1533,6 +1639,7 @@ layers	Fill:	შევსება:
 	Finger Painting	თითით ხატვა
 	Finish	დასრულება
 	First	პირველი
+	First Brush	პირველი ფუნჯი
 	First Color Readout	ფერის პირველი ანათვალი
 	First commit	პირველი კომიტი
 	First Line Indent	პირველი სტრიქონის შეწევა
@@ -1540,9 +1647,12 @@ layers	Fill:	შევსება:
 	Fisheye	თევზის თვალი
 	Fit	მორგება
 	Fit Artboard on Screen	სამუშაო დაფის ეკრანში ჩატევა
+	Fit Content to Frame	შიგთავსის ჩარჩოზე მორგება
+	Fit Frame to Content	ჩარჩოს შიგთავსზე მორგება
 	Fit Image	გამოსახულების ჩატევა
 	Fit Image…	გამოსახულების ჩატევა…
 	Fit in View	ხედში ჩატევა
+	Fit Layer on Screen	შრის ეკრანში ჩატევა
 	Fit Layer(s) on Screen	შრე(ებ)ის ეკრანში ჩატევა
 	Fit on Screen	ეკრანში ჩატევა
 	Fit Screen	ეკრანში ჩატევა
@@ -1582,6 +1692,7 @@ layers	Fill:	შევსება:
 	Floating point	მცურავი წერტილი
 	Flow	ნაკადი
 	Flow Jitter	ნაკადის ცვალებადობა
+	Flow:	ნაკადი:
 	Flower Color	ყვავილის ფერი
 	Focal Distance	ფოკუსური მანძილი
 	Focal Length	ფოკუსური მანძილი
@@ -1596,7 +1707,9 @@ cameraData	Focal Length (35 mm)	ფოკუსური მანძილი (
 	Font	შრიფტი
 	Font preview	შრიფტის წინასწარი ნახვა
 	Font Preview Size	შრიფტის წინასწარი ნახვის ზომა
+	Font preview:	შრიფტის ნიმუში:
 	Font size	შრიფტის ზომა
+	Font size presets	შრიფტის ზომის პრესეტები
 	Font Size:	შრიფტის ზომა:
 	Foreground	წინა პლანი
 	Foreground Color	წინა პლანის ფერი
@@ -1604,11 +1717,13 @@ cameraData	Focal Length (35 mm)	ფოკუსური მანძილი (
 	Foreground to Background	წინა პლანიდან ფონისკენ
 	Foreground/Background Jitter	წინა პლანის/ფონის ცვალებადობა
 	Format	ფორმატი
+	Format Options	ფორმატის პარამეტრები
 	Forward	წინ
 	Forward Warp	წინ დეფორმაცია
 	Fractions	წილადები
 	Fragment	ფრაგმენტი
 	Frame	ჩარჩო
+	Frame coordinates must be finite and within 600000 pixels	ჩარჩოს კოორდინატები სასრული უნდა იყოს და 600000 პიქსელს არ უნდა აღემატებოდეს
 	Frame Duration	კადრის ხანგრძლივობა
 	Frame from Layers	კადრი შრეებიდან
 	Frame from Layers…	კადრი შრეებიდან…
@@ -1625,22 +1740,26 @@ cameraData	Focal Length (35 mm)	ფოკუსური მანძილი (
 	Freeze Lasso: drag to freeze an area, Alt-drag to thaw it (L)	ლასოთი გაყინვა: გადათრევით არე იყინება, Alt+გადათრევით — დნება (L)
 	Freeze Mask	ნიღბით გაყინვა
 	Frequency	სიხშირე
+	Frequency:	სიხშირე:
 	Fresco	ფრესკა
 	From	საწყისი
 	From Center	ცენტრიდან
 	From Left	მარცხნიდან
 	From Right	მარჯვნიდან
 	From Transparency	გამჭვირვალობიდან
+	From:	საიდან:
 	Front Image	წინა გამოსახულება
 	Frosted	მქრქალი
 	Fuchsia	ფუქსია
 	Full	სრული
+	Full Document	მთელი დოკუმენტი
 	Full Screen	მთელ ეკრანზე
 	Full Screen Mode	სრულეკრანიანი რეჟიმი
 	Full Screen Mode With Menu Bar	სრულეკრანიანი რეჟიმი მენიუს ზოლით
 	Full size tip	სრული ზომის წვერი
 	Full Spherical	სრული სფერული
 	Full-resolution preview unavailable	სრული გარჩევადობის გადახედვა მიუწვდომელია
+cameraRaw	Full-resolution preview unavailable	სრული გარჩევადობის გადახედვა მიუწვდომელია
 	Fullscreen	მთელ ეკრანზე
 	Functions	ფუნქციები
 	Fuzziness	გაბნეულობა
@@ -1661,6 +1780,8 @@ cameraData	Focal Length (35 mm)	ფოკუსური მანძილი (
 	General Brushes	ზოგადი ფუნჯები
 	General…	ზოგადი…
 	Generate	გენერაცია
+	Generate Mipmaps	მიპმაპების გენერაცია
+	Generator enabled	გენერატორი ჩართულია
 	Generators	გენერატორები
 	Generic	ზოგადი
 	Gif	GIF
@@ -1670,6 +1791,7 @@ cameraData	Focal Length (35 mm)	ფოკუსური მანძილი (
 cameraRaw	Global	გლობალური
 	Global Light	გლობალური განათება
 	Global Light…	გლობალური განათება…
+	Global Refinements	გლობალური დაზუსტებები
 	Gloss	სიპრიალე
 	Gloss Contour	ბზინვარების კონტური
 	Glossy	პრიალა
@@ -1690,6 +1812,8 @@ cameraRaw	Global	გლობალური
 	GPS	GPS
 	GPU	GPU
 	GPU acceleration could not continue. Your documents are unchanged.	GPU-აჩქარების გაგრძელება ვერ მოხერხდა. თქვენი დოკუმენტები უცვლელია.
+	GPU acceleration resumed.	GPU-აჩქარება აღდგა.
+	GPU adapter	GPU ადაპტერი
 	GPU Backend	GPU ბექენდი
 	GPU backend	GPU ბექენდი
 	GPU backend preference: {backend}	GPU ბექენდის არჩევანი: {backend}
@@ -1717,10 +1841,12 @@ cameraRaw	Global	გლობალური
 	Gradient Preset Options	გრადიენტის პრესეტის პარამეტრები
 	Gradient stops	გრადიენტის გადასვლის წერტილები
 	Gradient Tool	გრადიენტის ხელსაწყო
+	Gradient-corrected interpolation: sharp and fast, with some colour fringing on fine detail.	გრადიენტით კორექტირებული ინტერპოლაცია: მკვეთრი და სწრაფი, წვრილ დეტალებზე მცირე ფერადი შარავანდით.
 	Gradients	გრადიენტები
 	gradients	გრადიენტები
 	Gradient…	გრადიენტი…
 	Grain	მარცვლოვნება
+cameraRaw	Grain	მარცვლოვნება
 	Grain Amount	მარცვლოვნების ოდენობა
 	Grain Roughness	მარცვლის უხეშობა
 	Grain Size	მარცვლის ზომა
@@ -1733,6 +1859,7 @@ cameraRaw	Global	გლობალური
 	Graphics	გრაფიკა
 	Graphics adapter	გრაფიკული ადაპტერი
 	Graphics adapter: {adapter}	გრაფიკული ადაპტერი: {adapter}
+	Graphics memory: {size}	გრაფიკული მეხსიერება: {size}
 	Gray	ნაცრისფერი
 	gray	ნაცრისფერი
 	Gray Gamma 2.2	Gray Gamma 2.2
@@ -1743,11 +1870,13 @@ cameraRaw	Global	გლობალური
 	Gray-gamma-2.2	Gray Gamma 2.2
 	Gray:	რუხი:
 	Grayscale	ნაცრისფერი ტონები
+	Grayscale Ramp	ნაცრისფერი ტონების შკალა
 	Grayscale Slider	ნაცრისფერი ტონების სლაიდერი
 	Greek	ბერძნული
 	Green	მწვანე
 cameraRaw	Green	მწვანე
 	green	მწვანე
+	Green Primary	მწვანე ძირითადი
 	Greens	მწვანეები
 	Grid	ბადე
 	Grid  (⌘')	ბადე  (⌘')
@@ -1783,9 +1912,11 @@ cameraRaw	Green	მწვანე
 	H	H
 	Half Round	ნახევარწრიული
 	Halftone Pattern	ნახევარტონური პატერნი
+	Halftone Screen	ნახევარტონური რასტრი
 	Hand	ხელი
 	Hand Tool	ხელის ხელსაწყო
 	Hand Tool (hold)	ხელის ხელსაწყო (დაჭერით)
+	Handwritten	ხელნაწერი
 	Hanging Punctuation	ჩამოკიდებული პუნქტუაცია
 	Hard	მკვეთრი
 	Hard Light	მკვეთრი სინათლე
@@ -1817,30 +1948,41 @@ cameraRaw	Green	მწვანე
 	Hide All	ყველას დამალვა
 	Hide All Effects	ყველა ეფექტის დამალვა
 	Hide Auto Slices	ავტომატური ნაჭრების დამალვა
+	Hide bar	ზოლის დამალვა
+	Hide Font Classes	შრიფტის კლასების დამალვა
 	Hide Grid	ბადის დამალვა
 	Hide Layers	შრეების დამალვა
 	Hide Others	სხვების დამალვა
 	Hide Properties	თვისებების დამალვა
 	Hide Selection	მონიშნულის დამალვა
+	Hide Styles	სტილების დამალვა
 	Hide the layer's effects  ({key}-click: all layers)	შრის ეფექტების დამალვა  ({key}+დაწკაპუნება: ყველა შრე)
 	Hide the layer's effects  (⌥-click: all layers)	შრის ეფექტების დამალვა  (⌥+დაწკაპუნება: ყველა შრე)
+	Hide the layer's effects and Smart Filters  ({key}-click: all layers)	შრის ეფექტებისა და ჭკვიანი ფილტრების დამალვა  ({key}+დაწკაპუნება: ყველა შრე)
 	Hide {app}	{app}-ის დამალვა
 	High	მაღალი
 	High Pass	მაღალსიხშირული ფილტრი
 	High Pass…	მაღალსიხშირული ფილტრი…
+	High Quality Preview	მაღალი ხარისხის წინასწარი ნახვა
 	Higher values follow only edges that contrast sharply with their surroundings	მაღალი მნიშვნელობები მხოლოდ გარემოსთან მკვეთრად კონტრასტულ კიდეებს მიჰყვება
 	Highlight	ღია ტონი
 	Highlight Amount	ღია ტონების ოდენობა
 	Highlight Area	ნათელი არე
 	Highlight Clipping Warning (O)	ღია ტონების მოკვეთის გაფრთხილება (O)
+cameraRaw	Highlight Clipping Warning (O)	ღია ტონების მოკვეთის გაფრთხილება (O)
+	Highlight Color	ღია ტონების ფერი
 	Highlight Compression	ღია ტონების შეკუმშვა
+	Highlight Mode	ღია ტონების რეჟიმი
+	Highlight Opacity	ღია ტონების გაუმჭვირვალობა
 	Highlight Priority	ღია ტონების პრიორიტეტი
+cameraRaw	Highlight Priority	ღია ტონების პრიორიტეტი
 	Highlight Radius	ღია ტონების რადიუსი
 	Highlight Strength	ღია ტონების სიძლიერე
 	Highlight Tone	ღია ტონების ტონი
 	Highlights	ღია ტონები
 cameraRaw	Highlights	ღია ტონები
 	Highlights from:	ღია ტონები, საწყისი:
+	Hirakawa–Parks: the cleanest edges and the least colour fringing, the slowest.	Hirakawa–Parks: ყველაზე სუფთა კიდეები და ყველაზე ნაკლები ფერადი შარავანდი, ყველაზე ნელი.
 	Histogram	ჰისტოგრამა
 	Histories	ისტორიები
 	History	ისტორია
@@ -1848,6 +1990,7 @@ cameraRaw	Highlights	ღია ტონები
 	History Brush Tool	ისტორიის ფუნჯის ხელსაწყო
 	History Log	ისტორიის ჟურნალი
 	History Log…	ისტორიის ჟურნალი…
+	History Options…	ისტორიის პარამეტრები…
 	History states	ისტორიის მდგომარეობები
 	Hold Alt while drawing for straight segments	სწორი მონაკვეთებისთვის ხაზვისას დააჭირეთ Alt-ს
 	Home	საწყისი ეკრანი
@@ -1861,9 +2004,12 @@ cameraRaw	Highlights	ღია ტონები
 	Horizontal Type Tool	ჰორიზონტალური ტექსტის ხელსაწყო
 	Horizontally	ჰორიზონტალურად
 	Hotspot	ცხელი წერტილი
+	How expanded crop area gets filled	როგორ ივსება გაფართოებული ჩამოჭრის არე
 	How often fastening points are placed by themselves	რა სიხშირით ისმება დამაგრების წერტილები ავტომატურად
+	How the camera's colour filter mosaic is filled in. It is applied when the file opens; the preview shows the method it was opened with.	როგორ ივსება კამერის ფერადი ფილტრის მოზაიკა. გამოიყენება ფაილის გახსნისას; წინასწარი ნახვა აჩვენებს მეთოდს, რომლითაც ფაილი გაიხსნა.
 	Hsb	HSB
 	HSB Color	HSB ფერი
+	HSB Sliders	HSB სლაიდერები
 	HSB/HSL	HSB/HSL
 	Hsl	HSL
 	Hsl Hue	HSL ფერის ტონი
@@ -1872,6 +2018,7 @@ cameraRaw	Highlights	ღია ტონები
 	HSL/Grayscale	HSL/ნაცრისფერი ტონები
 	Hue	ფერის ტონი
 cameraRaw	Hue	ფერის ტონი
+	Hue Cube	ფერის ტონის კუბი
 	Hue Jitter	ფერის ტონის ცვალებადობა
 	Hue/Saturation	ფერის ტონი/გაჯერება
 	Hue/Saturation…	ფერის ტონი/გაჯერება…
@@ -1879,6 +2026,7 @@ cameraRaw	Hue	ფერის ტონი
 	Humidity	ტენიანობა
 	Hyphenate	სიტყვების გადატანა
 	ICO is limited to 256 × 256 pixels	ICO შეზღუდულია 256 × 256 პიქსელით
+	If you continue, saving over the original may permanently discard unreadable data. Save a copy to keep the original.	თუ გააგრძელებთ და ორიგინალს გადააწერთ, წაუკითხავი მონაცემები შეიძლება სამუდამოდ დაიკარგოს. ორიგინალის შესანარჩუნებლად შეინახეთ ასლი.
 	Ignore	უგულებელყოფა
 	Ignore All	ყველას გამოტოვება
 	Ignore exif profile tag	EXIF პროფილის ტეგის უგულებელყოფა
@@ -1888,6 +2036,7 @@ cameraRaw	Hue	ფერის ტონი
 	Image compositor: {processor}	გამოსახულების კომპოზიტორი: {processor}
 	image file path	გამოსახულების ფაილის მისამართი
 	Image interpolation	გამოსახულების ინტერპოლაცია
+	Image Options	გამოსახულების პარამეტრები
 	Image previews	გამოსახულების მინიატურები
 	Image Processor	გამოსახულებების დამმუშავებელი
 	Image Processor…	გამოსახულებების დამმუშავებელი…
@@ -1904,12 +2053,14 @@ cameraRaw	Hue	ფერის ტონი
 	Import Brushes… (.abr or image)	ფუნჯების იმპორტი… (.abr ან გამოსახულება)
 	Import Brushes… (.abr)	ფუნჯების იმპორტი… (.abr)
 	Import Image	გამოსახულების იმპორტი
+	Import Image…	გამოსახულების იმპორტი…
 	Import keyboard shortcuts?	მოხდეს კლავიატურის მალსახმობების იმპორტი?
 	Import Options	იმპორტის პარამეტრები
 	Import Photoshop brushes (.abr)	Photoshop-ის ფუნჯების იმპორტი (.abr)
 	Import Presets	პრესეტების იმპორტი
 	Import Settings	პარამეტრების იმპორტი
 	Import Shortcuts…	მალსახმობების იმპორტი…
+	Import Styles…	სტილების იმპორტი…
 	Import Swatches…	ფერის ნიმუშების იმპორტი…
 	Imported	იმპორტირებული
 @plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	{file}-დან იმპორტირებულია ფუნჯი: {n}|{file}-დან იმპორტირებულია ფუნჯი: {n}
@@ -1917,6 +2068,7 @@ cameraRaw	Hue	ფერის ტონი
 @plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	{file}-დან იმპორტირებულია გრადიენტი: {n}|{file}-დან იმპორტირებულია გრადიენტი: {n}
 @plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	{file}-დან იმპორტირებულია პატერნი: {n}|{file}-დან იმპორტირებულია პატერნი: {n}
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{file}-დან იმპორტირებულია მალსახმობი: {n}. მათ შესანარჩუნებლად დაწკაპეთ OK-ზე.
+@plural	Imported {n} style from {file}|Imported {n} styles from {file}	{file}-დან იმპორტირებულია სტილი: {n}|{file}-დან იმპორტირებულია სტილი: {n}
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	{file}-დან იმპორტირებულია ფერის ნიმუში: {n}|{file}-დან იმპორტირებულია ფერის ნიმუში: {n}
 	Importing {what} from {file}…	{file}-დან {what}-ის იმპორტი…
 	Importing…	იმპორტირდება…
@@ -1924,6 +2076,7 @@ cameraRaw	Hue	ფერის ტონი
 	Impressionist	იმპრესიონისტული
 	In	შესვლა
 	In Black	შემავალი შავი
+	In Front	წინ
 	In White	შემავალი თეთრი
 	Inches	დუიმი
 	Include All Subfolders	ყველა ქვესაქაღალდის ჩართვა
@@ -1971,6 +2124,7 @@ cameraRaw	Hue	ფერის ტონი
 	Inside	შიგნით
 	Install Plug-in	პლაგინის დაყენება
 	Install Plug-in…	პლაგინის დაყენება…
+	Installed RAM: {ram} MB; this limit: {percent}%	კომპიუტერის RAM: {ram} მბ; ეს ლიმიტი: {percent}%
 	Integer	მთელი რიცხვი
 	Integrated Density	ინტეგრალური სიმკვრივე
 	Integrations	ინტეგრაციები
@@ -1981,6 +2135,7 @@ cameraRaw	Hue	ფერის ტონი
 	Interface…	ინტერფეისი…
 	Interlaced	ინტერლეისი
 	Internet Standard RGB	ინტერნეტის სტანდარტული RGB
+	Internet Standard RGB (sRGB)	ინტერნეტის სტანდარტული RGB (sRGB)
 	Interpolation	ინტერპოლაცია
 	Interpolation:	ინტერპოლაცია:
 	Interpret Footage	ვიდეომასალის ინტერპრეტაცია
@@ -1992,7 +2147,10 @@ cameraRaw	Hue	ფერის ტონი
 	Intersect with selection  (⇧⌥)	მონიშნულთან გადაკვეთა  (⇧⌥)
 	Interval	ინტერვალი
 	Invalid delete command	წაშლის ბრძანება არასწორია
+	Invalid frame transform	ჩარჩოს არასწორი გარდაქმნა
 	Invalid guide layout	დამხმარე ხაზების არასწორი განლაგება
+	Invalid nested file drop	ფაილის ჩაგდების არასწორი მოთხოვნა
+	Invalid numeric entry. An integer between {min}% and {max}% is required. Previous value was inserted.	არასწორი რიცხვითი მნიშვნელობა. საჭიროა მთელი რიცხვი {min}%-დან {max}%-მდე. ჩასმულია წინა მნიშვნელობა.
 	Invalid panel layout; restored the default dock	პანელების განლაგება არასწორია; აღდგა ნაგულისხმევი დოკი
 	Invalid {mode} profile	{mode} პროფილი არასწორია
 	Inverse	შებრუნება
@@ -2019,6 +2177,7 @@ fontWeight	Italic	დახრილი
 	Join the ArtCraft Discord ({url})	შემოუერთდით ArtCraft-ის Discord-ს ({url})
 	Join the ArtCraft Discord…	შემოუერთდით ArtCraft-ის Discord-ს…
 	Join us on Discord	შემოგვიერთდით Discord-ზე
+	JPEG Options	JPEG-ის პარამეტრები
 	Jpeg quality	JPEG-ის ხარისხი
 	Jpg	JPG
 	Justification	სწორება
@@ -2032,6 +2191,7 @@ fontWeight	Italic	დახრილი
 	Keep Using CPU	CPU-ის გამოყენების გაგრძელება
 	Keep view in sync	ხედის სინქრონიზაცია
 	Keeps the current texture when switching presets.	პრესეტების გადართვისას მიმდინარე ტექსტურას ინარჩუნებს.
+	Kept {name}: written by another application	{name} შენარჩუნებულია: ჩაწერილია სხვა აპლიკაციის მიერ
 	Kernel	ბირთვი
 	Kerning	კერნინგი
 	Kerning: Metrics, Optical or a value in 1/1000 em (Alt+←/→ at the caret)	კერნინგი: მეტრიკა, ოპტიკური ან მნიშვნელობა em-ის 1/1000-ში (Alt+←/→ კურსორთან)
@@ -2046,6 +2206,7 @@ fontWeight	Italic	დახრილი
 	Kurtosis	ექსცესი
 	Lab	Lab
 	Lab Color	Lab ფერი
+	Lab Sliders	Lab სლაიდერები
 	Label	იარლიყი
 	Label Size	წარწერის ზომა
 	Labels	წარწერები
@@ -2059,10 +2220,12 @@ fontWeight	Italic	დახრილი
 	Large	დიდი
 	Large document: redrawing on the CPU	დიდი დოკუმენტი: გადახატვა CPU-ზე
 	Large tabs	დიდი ჩანართები
+	Large Thumbnails	დიდი ესკიზები
 	Lasso	ლასო
 	Lasso around an area, then drag the selection	შემოხაზეთ არე ლასოთი, შემდეგ გადაათრიეთ მონიშნული
 	Lasso Tool	ლასოს ხელსაწყო
 	Last	ბოლო
+	Last Brush	ბოლო ფუნჯი
 	Last commit	ბოლო კომიტი
 	Last Document State	დოკუმენტის ბოლო მდგომარეობა
 	Last Filter	ბოლო ფილტრი
@@ -2071,6 +2234,7 @@ fontWeight	Italic	დახრილი
 	Latin Extended-A	ლათინური გაფართოებული-A
 	Latin Extended-B	ლათინური გაფართოებული-B
 	Layer	შრე
+	Layer Bounds	შრის საზღვრები
 	Layer Comp	შრეების კომპოზიცია
 	Layer Comps	შრეების კომპოზიციები
 	Layer Comps to Files	შრეების კომპოზიციები ფაილებად
@@ -2087,21 +2251,25 @@ fontWeight	Italic	დახრილი
 	Layer Knocks Out Drop Shadow	შრე ჩრდილს ამოკვეთს
 	Layer Mask	შრის ნიღაბი
 	layer mask	შრის ნიღაბი
+	Layer Mask Display Options…	შრის ნიღბის ჩვენების პარამეტრები…
 	Layer Mask Hides Effects	შრის ნიღაბი მალავს ეფექტებს
 	Layer Properties	შრის თვისებები
 	Layer Style	შრის სტილი
 	Layer Styles	შრის სტილები
-	Layer via Copy	შრე კოპირებით
-	Layer via Cut	შრე ამოჭრით
+	Layer Via Copy	შრე კოპირებით
+	Layer Via Cut	შრე ამოჭრით
 @id	layer.layerMask.apply	გამოყენება
 	Layers	შრეები
+	Layers Panel Options	შრეების პანელის პარამეტრები
 	Layers to Files	შრეები ფაილებად
 	Layers to Files…	შრეები ფაილებად…
 	Layer…	შრე…
 	Layout	განლაგება
 	Leading	სტრიქონთა დაშორება
 	Leading (set to the font size × auto-leading when Auto)	სტრიქონთა დაშორება (ავტომატურ რეჟიმში უდრის შრიფტის ზომას × ავტომატური დაშორება)
+	Leading presets	სტრიქონთა დაშორების პრესეტები
 	Leaf Color	ფოთლის ფერი
+	Learn	სწავლა
 	Learn More	დაწვრილებით
 	Leave as is (don't color manage)	დატოვება როგორც არის (ფერების მართვის გარეშე)
 	Leave empty for automatic size	ავტომატური ზომისთვის დატოვეთ ცარიელი
@@ -2112,10 +2280,12 @@ fontWeight	Italic	დახრილი
 	Left align text	ტექსტის მარცხნივ სწორება
 	Left Diagonal	მარცხენა დიაგონალი
 	Left Edges	მარცხენა კიდეები
+	Left-to-right paragraph direction	აბზაცის მიმართულება მარცხნიდან მარჯვნივ
 	Left:	მარცხნივ:
 	Legacy	მოძველებული
 	Legacy compositing	ძველი კომპოზიტინგი
 	Legacy Macintosh RGB	მოძველებული Macintosh RGB
+	Legacy Macintosh RGB (Gamma 1.8)	მოძველებული Macintosh RGB (გამა 1.8)
 	Legal	Legal
 	Length	სიგრძე
 	Length:	სიგრძე:
@@ -2134,6 +2304,7 @@ cameraData	Lens	ობიექტივი
 	Letter Spacing	ასოებს შორის ინტერვალი
 	Level	დონე
 	Level Based	დონეზე დაფუძნებული
+	Level:	დონე:
 	Levels	დონეები
 	Levels…	დონეები…
 	Libraries	ბიბლიოთეკები
@@ -2168,6 +2339,7 @@ fontWeight	Light	ღია
 	Lights	ნათელი ტონები
 cameraRaw	Lights	ნათელი ტონები
 	Limit Playback	დაკვრის შეზღუდვა
+	Limits each open document's pixels plus History. Oldest undo states are discarded when the limit is exceeded.	ზღუდავს თითოეული ღია დოკუმენტის პიქსელებსა და ისტორიას ერთად. ლიმიტის გადაჭარბებისას დაბრუნების უძველესი მდგომარეობები იშლება.
 	Limits:	ზღვრები:
 	Line	ხაზი
 	Line delta	სტრიქონების სხვაობა
@@ -2184,6 +2356,8 @@ cameraRaw	Lights	ნათელი ტონები
 	Lines +/−	სტრიქონები +/−
 	Lines added	დამატებული სტრიქონები
 	Lines deleted	წაშლილი სტრიქონები
+	Lines/Centimeter	ხაზი/სანტიმეტრი
+	Lines/Inch	ხაზი/დუიმი
 	Link	დაკავშირება
 	Link Layer Mask	შრის ნიღბის დაკავშირება
 	Link Layers	შრეების დაკავშირება
@@ -2205,7 +2379,9 @@ cameraRaw	Lights	ნათელი ტონები
 	Load 3D LUT…	3D LUT-ის ჩატვირთვა…
 	Load a keyboard shortcut set saved as .kys	.kys ფაილად შენახული კლავიატურის მალსახმობების ნაკრების ჩატვირთვა
 	Load Actions…	მოქმედებების ჩატვირთვა…
+	Load Brush	ფუნჯზე საღებავის აღება
 	Load channel as selection	არხის ჩატვირთვა მონიშნულად
+	Load Contours…	კონტურების ჩატვირთვა…
 	Load Default Type Styles	ტექსტის ნაგულისხმევი სტილების ჩატვირთვა
 	Load Files into Stack	ფაილების დასტაში ჩატვირთვა
 	Load Files into Stack…	ფაილების დასტაში ჩატვირთვა…
@@ -2213,9 +2389,14 @@ cameraRaw	Lights	ნათელი ტონები
 	Load Selection	მონიშნულის ჩატვირთვა
 	Load Selection…	მონიშნულის ჩატვირთვა…
 	Load settings from a Camera Raw .xmp file	პარამეტრების ჩატვირთვა Camera Raw-ის .xmp ფაილიდან
+cameraRaw	Load settings from a Camera Raw .xmp file	პარამეტრების ჩატვირთვა Camera Raw-ის .xmp ფაილიდან
 	Load Settings…	პარამეტრების ჩატვირთვა…
-	Loaded Camera Raw settings from {file}	Camera Raw-ის პარამეტრები ჩაიტვირთა {file}-დან
-	Loaded Camera Raw settings from {file} ({n} not supported)	Camera Raw-ის პარამეტრები ჩაიტვირთა {file}-დან (მხარდაუჭერელი: {n})
+cameraRaw	Load Settings…	პარამეტრების ჩატვირთვა…
+	Load the brush after each stroke	ყოველი შტრიხის შემდეგ ფუნჯზე საღებავის აღება
+	Loaded contours from {file}	{file}-დან ჩაიტვირთა კონტურები
+	Loaded RAW Develop settings from {file}	RAW დამუშავება-ის პარამეტრები ჩაიტვირთა {file}-დან
+cameraRaw	Loaded RAW Develop settings from {file}	RAW დამუშავება-ის პარამეტრები ჩაიტვირთა {file}-დან
+	Loaded RAW Develop settings from {file} ({n} not supported)	RAW დამუშავება-ის პარამეტრები ჩაიტვირთა {file}-დან (მხარდაუჭერელი: {n})
 @plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	{file}-დან ჩაიტვირთა მოქმედება: {n}|{file}-დან ჩაიტვირთა მოქმედება: {n}
 	Loading fonts…	შრიფტები იტვირთება…
 	Loading…	იტვირთება…
@@ -2248,6 +2429,9 @@ cameraRaw	Lights	ნათელი ტონები
 	Long Lines	გრძელი ხაზები
 	Long Strokes	გრძელი შტრიხები
 	Loop	ციკლი
+	Loose Curl	თავისუფალი ხვია
+	Loose Long	თავისუფალი გრძელი
+	Loose Medium	თავისუფალი საშუალო
 	Lorem Ipsum	Lorem Ipsum
 	Lossless	უდანაკარგო
 	Low	დაბალი
@@ -2263,6 +2447,7 @@ cameraRaw	Luminance Detail	სიკაშკაშის დეტალებ�
 	Luminance Smoothness	სიკაშკაშის სიგლუვე
 	Luminosity	ნათება
 	Lut	LUT
+	LUT folder	LUT-ების საქაღალდე
 	Mac Crisp	Mac მკაფიო
 	Mac LCD	Mac LCD
 	Mac OS	Mac OS
@@ -2283,14 +2468,18 @@ layerLabel	Magenta	მეწამული
 cameraData	Make	მწარმოებელი
 	Make Default	ნაგულისხმევად დაყენება
 	Make Landscape	ჰორიზონტალურად
+	Make Layer Visibility Changes Undoable	შრის ხილვადობის ცვლილებებისთვის დაბრუნების ჩართვა
 	Make Portrait	ვერტიკალურად
+	Make Ramp Web Safe	ვებისთვის უსაფრთხო შკალა
 	Make Selection	მონიშნულის შექმნა
 	Make Selection from Path	ტრაექტორიიდან მონიშნულის შექმნა
 	Make Selection…	მონიშნულის შექმნა…
+	Make Shape	ფიგურის შექმნა
 	Make Symmetry Path	სიმეტრიის ტრაექტორიის შექმნა
 	Make Work Path	სამუშაო ტრაექტორიის შექმნა
 	Make work path from selection	მონიშნულიდან სამუშაო ტრაექტორიის შექმნა
 	Make Work Path…	სამუშაო ტრაექტორიის შექმნა…
+	Malvar–He–Cutler	Malvar–He–Cutler
 	Manage submitted jobs in the system print queue	სისტემის ბეჭდვის რიგში გაგზავნილი დავალებების მართვა
 	Manual	ხელით
 	manual	ხელით
@@ -2308,6 +2497,7 @@ cameraData	Make	მწარმოებელი
 	Mask Incomplete Blocks	არასრული ბლოკების დაფარვა
 	Mask None	ნიღბის გარეშე
 	Mask Options	ნიღბის პარამეტრები
+	Mask Options…	ნიღბის პარამეტრები…
 	Masked Areas	ნიღბიანი არეები
 	Masking	ნიღბვა
 cameraRaw	Masking	ნიღბვა
@@ -2346,7 +2536,10 @@ fontWeight	Medium	საშუალო
 	Medium gray	საშუალო ნაცრისფერი
 	Medium Lines	საშუალო ხაზები
 	Medium Strokes	საშუალო შტრიხები
+	Medium Thumbnails	საშუალო ესკიზები
+	Memory Usage	მეხსიერების გამოყენება
 	Memory usage mb	მეხსიერების გამოყენება (მბ)
+	Memory usage percent	მეხსიერების გამოყენება (%)
 	Menus	მენიუები
 	Menus…	მენიუები…
 	Merge Channels…	არხების შერწყმა…
@@ -2358,9 +2551,11 @@ fontWeight	Medium	საშუალო
 	Merge to HDR Pro	HDR Pro-ში შერწყმა
 	Merge to HDR Pro…	HDR Pro-ში შერწყმა…
 	Merge Visible	ხილულების შერწყმა
+	Merged Layers	შერწყმული შრეები
 	Merged PRs	გაერთიანებული PR-ები
 	Mesh	დეფორმაციის ბადე
 	Mesh Size	ბადის ზომა
+	Message	შეტყობინება
 	Message:	შეტყობინება:
 	Metadata	მეტამონაცემები
 	Metal	Metal
@@ -2420,8 +2615,10 @@ cameraData	Model	მოდელი
 	Mono Contrast	მონოკონტრასტი
 	Monochromatic	მონოქრომული
 	Monochrome	მონოქრომული
+	Monospace	მონოსიგანიანი
 	More	მეტი
 	More documents	სხვა დოკუმენტები
+	More options	მეტი პარამეტრი
 	More panels	სხვა პანელები
 	More Points	მეტი წერტილი
 	Mosaic	მოზაიკა
@@ -2434,15 +2631,21 @@ cameraData	Model	მოდელი
 	Mouse Controls	თაგვის მართვა
 	Mouse Coordinates	თაგვის კოორდინატები
 	Move	გადაადგილება
+	Move bar	ზოლის გადაადგილება
 	Move Down	ჩამოწევა
+	Move effect down	ეფექტის ჩამოწევა
 	Move effect layer down	ეფექტის შრის ჩამოწევა
 	Move effect layer up	ეფექტის შრის აწევა
+	Move effect up	ეფექტის აწევა
 	Move Group Down	ჯგუფის ჩამოწევა
 	Move Group Up	ჯგუფის აწევა
 	Move Layer	შრის გადაადგილება
 	Move Panel	პანელის გადაადგილება
 	Move to	გადატანა
+	Move to New Window	ახალ ფანჯარაში გადატანა
 	Move Tool	გადაადგილების ხელსაწყო
+	Move Toolbar to the Left	ხელსაწყოების პანელის მარცხნივ გადატანა
+	Move Toolbar to the Right	ხელსაწყოების პანელის მარჯვნივ გადატანა
 	Move Up	აწევა
 	Movie Prime	ფიქსირებული კინოობიექტივი
 	Multichannel	მრავალარხიანი
@@ -2472,7 +2675,9 @@ cameraData	Model	მოდელი
 	Never Show Overlay	გადაფარვის არასოდეს ჩვენება
 	New	ახალი
 	new	ახალი
+	New Action…	ახალი მოქმედება…
 	New Adjustment Layer	ახალი მაკორექტირებელი შრე
+	New Artboard…	ახალი სამუშაო დაფა…
 	New Blank Video Layer	ახალი ცარიელი ვიდეოშრე
 	New Brush	ახალი ფუნჯი
 	New Brush Preset	ფუნჯის ახალი პრესეტი
@@ -2484,12 +2689,17 @@ cameraData	Model	მოდელი
 	New Document	ახალი დოკუმენტი
 	New document	ახალი დოკუმენტი
 	New Document With Mask	ახალი დოკუმენტი ნიღბით
+	New Document…	ახალი დოკუმენტი…
 	New document…	ახალი დოკუმენტი…
 	New document…     ⌘N	ახალი დოკუმენტი…     ⌘N
 	New effect layer	ახალი ეფექტის შრე
+	New file	ახალი ფაილი
 	New Fill Layer	ახალი შევსების შრე
+	New Frame	ახალი ჩარჩო
 	New from Clipboard	ახალი გაცვლის ბუფერიდან
 	New Group	ახალი ჯგუფი
+	New Group from Layers…	ახალი ჯგუფი შრეებიდან…
+	New Group…	ახალი ჯგუფი…
 	New Guide	ახალი დამხმარე ხაზი
 	New Guide Layout	დამხმარე ხაზების ახალი განლაგება
 	New Guide Layout…	დამხმარე ხაზების ახალი განლაგება…
@@ -2509,6 +2719,7 @@ cameraData	Model	მოდელი
 	New Size	ახალი ზომა
 	New Smart Object via Copy	ახალი ჭკვიანი ობიექტი კოპირებით
 	New Snapshot	ახალი სნეპშოტი
+	New Snapshot…	ახალი სნეპშოტი…
 	New Spot Channel…	ახალი სპოტ-ფერის არხი…
 	New Style…	ახალი სტილი…
 	New Swatch Group…	ფერის ნიმუშების ახალი ჯგუფი…
@@ -2527,6 +2738,7 @@ cameraData	Model	მოდელი
 	New…	ახალი…
 	Next	შემდეგი
 	Next Appearance Mode	შემდეგი იერსახის რეჟიმი
+	Next Brush	შემდეგი ფუნჯი
 	Next Document	შემდეგი დოკუმენტი
 	Next frame	შემდეგი კადრი
 	Next note	შემდეგი შენიშვნა
@@ -2544,11 +2756,14 @@ layerLabel	No Color	ფერის გარეშე
 	No Document	დოკუმენტი არ არის
 	No document	დოკუმენტი არ არის
 	No document open	დოკუმენტი გახსნილი არ არის
+	No favorite fonts yet: click the star beside a font to add it.	რჩეული შრიფტები ჯერ არ არის: დასამატებლად დაწკაპეთ ვარსკვლავზე შრიფტის გვერდით.
+	No fonts match these filters.	ამ ფილტრებს არცერთი შრიფტი არ შეესაბამება.
 	No Image	გამოსახულება არ არის
 	No Layer Comps	შრეების კომპოზიციები არ არის
 	No Layers	შრეები არ არის
 	No layers	შრეები არ არის
 	No matching commands	შესაბამისი ბრძანება ვერ მოიძებნა
+	No matching fonts	შესაბამისი შრიფტები არ არის
 	No matching settings	შესაბამისი პარამეტრები არ არის
 	No model credits were built into this copy.	ამ ასლში მოდელების მონაცემები არ არის ჩაშენებული.
 	No object found there — drag a rectangle around it	იქ ობიექტი ვერ მოიძებნა — გადაათრიეთ მის გარშემო მართკუთხედი
@@ -2564,9 +2779,11 @@ layerLabel	No Color	ფერის გარეშე
 	No saved presets yet.	შენახული პრესეტები ჯერ არ არის.
 	No Selection	მონიშნული არაფერია
 	No selection	მონიშნული არაფერია
+	No similar fonts: the current font doesn't say what it looks like.	მსგავსი შრიფტები არ არის: მიმდინარე შრიფტი არ აღწერს, როგორ გამოიყურება.
 	No Spelling Suggestions	მართლწერის შეთავაზებები არ არის
 	No subject found — try a rectangle around the object	ობიექტი ვერ მოიძებნა — სცადეთ ობიექტის გარშემო მართკუთხედი
 	No subject found — try Object Selection or the Lasso	ობიექტი ვერ მოიძებნა — სცადეთ ობიექტის მონიშვნა ან ლასო
+	No Thumbnails	ესკიზების გარეშე
 	No tool presets.	ხელსაწყოს პრესეტები არ არის.
 	Noise	ხმაური
 	Noise Color	ხმაურის ფერი
@@ -2574,18 +2791,22 @@ layerLabel	No Color	ფერის გარეშე
 	Noise Luminance	ხმაურის სიკაშკაშე
 	Noise Luminance Detail	ხმაურის სიკაშკაშის დეტალი
 	Noise Reduction	ხმაურის შემცირება
+cameraRaw	Noise Reduction	ხმაურის შემცირება
 	None	არცერთი
 	none	არცერთი
 	Nonlinear History	არაწრფივი ისტორია
 	Normal	ჩვეულებრივი
 	Normal tip	ჩვეულებრივი წვერი
 	Not a web colour: click for the nearest web colour	ვებფერი არ არის: დაწკაპეთ უახლოესი ვებფერისთვის
+	Not enough grayscale documents for this mode.	ამ რეჟიმისთვის ნაცრისფერი ტონების დოკუმენტები საკმარისი არ არის.
 	Not in Dictionary:	ლექსიკონში არ არის:
+	Not rendered: this adjustment ({key}) is kept as imported.	არ არის დარენდერებული: ეს კორექცია ({key}) შენარჩუნებულია იმპორტირებული სახით.
 	Note Paper	ქაღალდი ჩანაწერებისთვის
 	Note Tool	შენიშვნის ხელსაწყო
 	Note tool	შენიშვნის ხელსაწყო
 	Notes	შენიშვნები
 	Notes…	შენიშვნები…
+	Nothing to paste: PhotoCraft can't read the system clipboard here	ჩასასმელი არაფერია: PhotoCraft აქ სისტემის გაცვლის ბუფერს ვერ კითხულობს
 	Nothing to paste: the clipboard holds no image	ჩასასმელი არაფერია: გაცვლის ბუფერში გამოსახულება არ არის
 	Nothing to Redo	ხელახლა შესასრულებელი არაფერია
 	Nothing to Undo	დასაბრუნებელი არაფერია
@@ -2597,6 +2818,8 @@ layerLabel	No Color	ფერის გარეშე
 	Number	რაოდენობა
 	Number Of Levels	დონეების რაოდენობა
 	Numbers	რიცხვები
+	Object Aware	ობიექტის გათვალისწინებით
+	Object Aware needs a segmentation model, which isn't available yet	„ობიექტის გათვალისწინებით“ რეჟიმს სჭირდება სეგმენტაციის მოდელი, რომელიც ჯერ მიუწვდომელია
 	Object Finder	ობიექტების მაძიებელი
 	Object Name / Title	ობიექტის სახელი / სათაური
 	Object Selection found nothing there — try a tighter rectangle	ობიექტის მონიშვნამ იქ ვერაფერი იპოვა — სცადეთ უფრო ვიწრო მართკუთხედი
@@ -2612,21 +2835,25 @@ layerLabel	No Color	ფერის გარეშე
 	Oil Paint	ზეთის საღებავი
 	Oil Paint…	ზეთის საღებავი…
 	OK	OK
+cameraRaw	OK	OK
 	Oldstyle	ძველი სტილის ციფრები
 	On	ჩართული
 	on	ჩართული
 	On Black	შავ ფონზე
 	On Layers	შრეებზე
 	On White	თეთრ ფონზე
+	On your computer	თქვენს კომპიუტერზე
 	One Flame Along Path	ერთი ალი ტრაექტორიის გასწვრივ
 	Onion Skin	ხახვის ფენები
 	Only Web Colors	მხოლოდ ვებ-ფერები
 	Opacity	გაუმჭვირვალობა
 	Opacity Jitter	გაუმჭვირვალობის ცვალებადობა
 	Opacity Mask	გაუმჭვირვალობის ნიღაბი
+	Opacity must be between 0% and 100%.	გაუმჭვირვალობა უნდა იყოს 0%-სა და 100%-ს შორის.
 	Opacity Threshold	გაუმჭვირვალობის ზღვარი
 	Opacity:	გაუმჭვირვალობა:
 	Open	გახსნა
+cameraRaw	Open	გახსნა
 	Open a document to define variables.	ცვლადების განსასაზღვრად გახსენით დოკუმენტი.
 	Open a document to select a colour range.	ფერების დიაპაზონის მოსანიშნად გახსენით დოკუმენტი.
 	Open a document to use the timeline.	დროის ხაზის გამოსაყენებლად გახსენით დოკუმენტი.
@@ -2635,16 +2862,18 @@ layerLabel	No Color	ფერის გარეშე
 	Open As…	გახსნა, როგორც…
 	Open color-less EXR as ACEScg	ფერის სივრცის გარეშე EXR-ის გახსნა ACEScg-ად
 	Open documents as tabs	დოკუმენტების ჩანართებად გახსნა
+	Open Document…	დოკუმენტის გახსნა…
 	Open EXR Parts…	EXR ნაწილების გახსნა…
 	Open File	ფაილის გახსნა
 	Open Folder	საქაღალდის გახსნა
 	Open Image	გამოსახულების გახსნა
-	Open in camera raw	Camera Raw-ში გახსნა
 	Open paths use centered strokes	ღია ტრაექტორიების კონტური ცენტრირებულია
 	Open Recent	ბოლოს გახსნილი ფაილების გახსნა
 	Open Recent is unavailable on the web	ბოლოს გახსნილი ფაილების გახსნა ვებში მიუწვდომელია
 	open source	ღია კოდი
+	Open the release page to choose an installer for your system.	გახსენით გამოშვების გვერდი და აირჩიეთ თქვენი სისტემის ინსტალატორი.
 	Opened {name}	გაიხსნა {name}
+cameraRaw	Opened {name}	გაიხსნა {name}
 	Opened {url}	გაიხსნა: {url}
 	OpenGL	OpenGL
 	Opening	იხსნება
@@ -2652,6 +2881,7 @@ layerLabel	No Color	ფერის გარეშე
 	Opening {name}…	იხსნება {name}…
 	Opening…	იხსნება…
 	OpenType	OpenType
+	OpenType font	OpenType შრიფტი
 	Open…	გახსნა…
 	Open…     ⌘O	გახსნა…     ⌘O
 	Operation	ოპერაცია
@@ -2674,6 +2904,7 @@ document	Orientation	ორიენტაცია
 	Original Ratio	საწყისი პროპორცია
 	Ornaments	ორნამენტები
 	Other	სხვა
+smartSvg	Other application	სხვა აპლიკაცია
 	Other…	სხვა…
 	Out	გამოსვლა
 	Out Black	გამომავალი შავი
@@ -2699,10 +2930,13 @@ document	Orientation	ორიენტაცია
 	Overlay Edge	კიდის გადაფარვა
 	Overlay Opacity	გადაფარვის გაუმჭვირვალობა
 	Overlay: Rule of Thirds	გადაფარვა: მესამედების წესი
+	Overprint	ზედდაბეჭდვა
 	Override Action "Save" Commands	მოქმედების „შენახვის“ ბრძანებების უგულებელყოფა
 	Override Pressure	დაწოლის უგულებელყოფა
 	Override Rotation	შემობრუნების უგულებელყოფა
 	Override Tilt	დახრის უგულებელყოფა
+	Override Tilt X	X-დახრის უგულებელყოფა
+	Override Tilt Y	Y-დახრის უგულებელყოფა
 	Overscroll	საზღვრებს მიღმა გადახვევა
 	Package	შეფუთვა
 	Package…	შეფუთვა…
@@ -2711,8 +2945,10 @@ document	Orientation	ორიენტაცია
 	Paint Daubs	საღებავის ლაქები
 	Paint over hair or fur on the image; Alt paints the other mode	გამოსახულებაზე თმა ან ბეწვი გადაღებეთ; Alt მეორე რეჟიმით ხატავს
 	Paint Overlay	საღებავით გადაფარვა
+cameraRaw	Paint Overlay	საღებავით გადაფარვა
 	Painting	ხატვა
 	Paints from the document's opening state	ხატავს დოკუმენტის გახსნისდროინდელი მდგომარეობიდან
+	Paints from the History panel's source state	ხატავს ისტორიის პანელის წყარო მდგომარეობიდან
 	PAL/SECAM	PAL/SECAM
 	Palette Knife	პალიტრის დანა
 	Panel	პანელი
@@ -2739,6 +2975,7 @@ document	Orientation	ორიენტაცია
 	Paste Lorem Ipsum	Lorem Ipsum-ის ჩასმა
 	Paste Outside	გარეთ ჩასმა
 	Paste Special	სპეციალური ჩასმა
+	Pasting from other apps is unavailable	სხვა აპლიკაციებიდან ჩასმა მიუწვდომელია
 	Patch	საკერებელი
 	Patch Tool	საკერებლის ხელსაწყო
 	Patch:	საკერებელი:
@@ -2746,6 +2983,7 @@ document	Orientation	ორიენტაცია
 	Path	ტრაექტორია
 	Path Blur	ტრაექტორიის გასწვრივ გაბუნდოვნება
 	Path Blur…	ტრაექტორიის გასწვრივ გაბუნდოვნება…
+	Path operations	ტრაექტორიის ოპერაციები
 	Path Selection Tool	ტრაექტორიის მონიშვნის ხელსაწყო
 	Path to Illustrator…	ტრაექტორია Illustrator-ისთვის…
 	Path:	ტრაექტორია:
@@ -2753,6 +2991,7 @@ document	Orientation	ორიენტაცია
 	Paths to Illustrator	ტრაექტორიები Illustrator-ში
 	Paths to Illustrator…	ტრაექტორიები Illustrator-ში…
 	Pattern	პატერნი
+	Pattern Dither	პატერნული დიზერინგი
 	Pattern Fill…	პატერნით შევსება…
 	Pattern Overlay	პატერნის გადაფარვა
 	Pattern Overlay…	პატერნის გადაფარვა…
@@ -2764,6 +3003,8 @@ document	Orientation	ორიენტაცია
 	Patterns	პატერნები
 	Pattern…	პატერნი…
 	Pause	პაუზა
+	Pause For	პაუზა
+	Pause For:	პაუზა:
 	PDF Presentation…	PDF პრეზენტაცია…
 	Pen	კალამი
 	Pen Pressure	კალმის დაწოლა
@@ -2773,8 +3014,10 @@ document	Orientation	ორიენტაცია
 	Pencil Tool	ფანქრის ხელსაწყო
 	Pencil Width	ფანქრის სისქე
 	Pentagon	ხუთკუთხედი
+	Per-document RAM limit (MB)	RAM-ის ლიმიტი თითო დოკუმენტზე (მბ)
 	Percent	პროცენტი
 	Percentage	პროცენტული
+	Percentile:	პროცენტილი:
 	Perceptual	აღქმითი
 	Performance	წარმადობა
 	Performance…	წარმადობა…
@@ -2796,6 +3039,8 @@ document	Orientation	ორიენტაცია
 	Photo Filter…	ფოტოფილტრი…
 	Photocopy	ფოტოასლი
 	PhotoCraft	PhotoCraft
+smartSvg	PhotoCraft (internal editor)	PhotoCraft (ჩაშენებული რედაქტორი)
+	PhotoCraft can't reach the system clipboard in this session. On Wayland, a Flatpak sandbox hides the protocol that images from other apps are read through.	PhotoCraft ამ სესიაში სისტემის გაცვლის ბუფერთან წვდომას ვერ ახერხებს. Wayland-ზე Flatpak-ის იზოლირებული გარემო მალავს პროტოკოლს, რომლითაც სხვა აპლიკაციების გამოსახულებები იკითხება.
 	PhotoCraft Defaults	PhotoCraft-ის ნაგულისხმევი
 	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft-მა ამ კომპიუტერზე იპოვა თქვენი კლავიატურის მალსახმობების ნაკრები {set} სხვა გამოსახულების რედაქტორიდან: PhotoCraft-ისგან განსხვავდება მისი მალსახმობი: {n}. მოხდეს იმპორტი?
 	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft იყენებს CPU-ზე მომუშავე გამოსახულების კომპოზიტორს. ფანჯარამ შეიძლება მაინც გამოიყენოს თქვენი ვიდეოადაპტერი.
@@ -2810,6 +3055,7 @@ document	Orientation	ორიენტაცია
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
 	Picas	პიკა
+	Pick a different document for each channel.	თითოეული არხისთვის სხვა დოკუმენტი აირჩიეთ.
 	Pick a screen pixel or press Esc to cancel	აიღეთ ეკრანის პიქსელი ან დააჭირეთ Esc-ს გასაუქმებლად
 	Pick Color From Image	ფერის აღება გამოსახულებიდან
 	Pick screen color	ეკრანის ფერის აღება
@@ -2817,6 +3063,7 @@ document	Orientation	ორიენტაცია
 	Picture Frame…	სურათის ჩარჩო…
 	Picture Package…	ფოტოპაკეტი…
 	Pillow Emboss	ბალიშისებრი რელიეფი
+	Pin bar position	ზოლის პოზიციის ჩამაგრება
 	Pin Depth:	სამაგრის სიღრმე:
 	Pin Light	წერტილოვანი სინათლე
 	Pinch	მოჭყლეტა
@@ -2850,10 +3097,14 @@ document	Orientation	ორიენტაცია
 	Play	დაკვრა
 	Play Once	ერთხელ დაკვრა
 	Play selection	მონიშნულის დაკვრა
+	Playback Options	შესრულების პარამეტრები
+	Playback Options…	შესრულების პარამეტრები…
 @plural	Played {n} step|Played {n} steps	შესრულებულია ნაბიჯი: {n}|შესრულებულია ნაბიჯი: {n}
 	Please wait…	გთხოვთ, მოიცადოთ…
 	Plug-ins	პლაგინები
 	Plug-ins…	პლაგინები…
+	Plugins	პლაგინები
+	Plugins…	პლაგინები…
 	Png	PNG
 	Point	წერტილი
 	Point Curve	წერტილოვანი მრუდი
@@ -2915,10 +3166,14 @@ document	Orientation	ორიენტაცია
 	Pressure curve	დაწოლის მრუდი
 	Pressure for Opacity	დაწოლა გაუმჭვირვალობისთვის
 	Pressure for Size	დაწოლა ზომისთვის
+	Prevent Auto-Nesting	ავტომატური ჩადგმის აკრძალვა
 	Prevent auto-nesting in and out of Artboards and Frames	სამუშაო დაფებსა და ჩარჩოებში ავტომატური ჩასმისა და ამოღების აკრძალვა
 	Preview	წინასწარი ნახვა
 	Preview Image	გამოსახულების გადახედვა
+	Preview on canvas when reordering layers	შრეების გადალაგებისას ტილოზე წინასწარი ნახვა
+	Preview size	გადახედვის ზომა
 	Previous	წინა
+	Previous Brush	წინა ფუნჯი
 	Previous Document	წინა დოკუმენტი
 	Previous frame	წინა კადრი
 	Previous note	წინა შენიშვნა
@@ -2927,6 +3182,7 @@ document	Orientation	ორიენტაცია
 	Prime35	ფიქსირებული 35 მმ
 	Print	დაბეჭდვა
 	Print One Copy	ერთი ასლის დაბეჭდვა
+	Print preview image	ამობეჭდვამდე ნახვის გამოსახულება
 	Print resolution	ბეჭდვის გარჩევადობა
 	Print Resolution:	ბეჭდვის გარჩევადობა:
 	Print Settings…	ბეჭდვის პარამეტრები…
@@ -2942,12 +3198,15 @@ document	Orientation	ორიენტაცია
 	Pro (Light Gray)	Pro (ღია ნაცრისფერი)
 	Pro (Light)	Pro (ღია)
 	Pro (Medium Gray)	Pro (საშუალო ნაცრისფერი)
+	Pro Light	Pro ღია
 	Pro light	Pro ღია
+	Pro Light Gray	Pro ღია ნაცრისფერი
 	Pro light gray	Pro ღია ნაცრისფერი
 	Pro Light Gray Theme	Pro ღია ნაცრისფერი თემა
 	Pro Light Theme	Pro ღია თემა
 	Pro Medium	Pro საშუალო
 	Pro medium	Pro საშუალო
+	Pro Medium Gray	Pro საშუალო ნაცრისფერი
 	Pro Medium Gray Theme	Pro საშუალო ნაცრისფერი თემა
 	Pro photo	ProPhoto
 	Pro Theme	Pro თემა
@@ -3028,14 +3287,27 @@ cameraRaw	Radius	რადიუსი
 	Rasterize Type	ტექსტის რასტრირება
 	Rasterize Type Layer	ტექსტის შრის რასტრირება
 	Rate	სიხშირე
+liquify	Rate	სიჩქარე
 	Ratio	პროპორცია
 	Raw Data	დაუმუშავებელი მონაცემები
+	RAW Defaults	RAW-ის ნაგულისხმევი პარამეტრები
 	Raw Defaults	Raw ნაგულისხმევი პარამეტრები
+	RAW Defaults…	RAW-ის ნაგულისხმევი პარამეტრები…
 	Raw Defaults…	Raw-ის ნაგულისხმევი პარამეტრები…
+	RAW Develop	RAW დამუშავება
+	RAW Develop ({name})	RAW დამუშავება ({name})
+cameraRaw	RAW Develop ({name})	RAW დამუშავება ({name})
+	RAW Develop Filter	RAW დამუშავება ფილტრი
+	RAW Develop Filter ({layer})	RAW დამუშავება ფილტრი ({layer})
+cameraRaw	RAW Develop Filter ({layer})	RAW დამუშავება ფილტრი ({layer})
+	RAW Develop Filter…	RAW დამუშავება ფილტრი…
+	RAW Develop isn't open	RAW დამუშავება არ არის გახსნილი
+cameraRaw	RAW Develop isn't open	RAW დამუშავება არ არის გახსნილი
 	Reading	იკითხება
 	Reading…	იკითხება…
 	Ready	მზადაა
 	Real name	ნამდვილი სახელი
+	Real-Time Refinement	დაზუსტება რეალურ დროში
 	Rec2020	Rec. 2020
 	Recent	ბოლოდროინდელი
 	Recent file count	ბოლოს გახსნილი ფაილების რაოდენობა
@@ -3044,6 +3316,7 @@ cameraRaw	Radius	რადიუსი
 	Recent fonts	ბოლოდროინდელი შრიფტები
 	Recent Items	ბოლოდროინდელი ელემენტები
 	Recently Used	ბოლოს გამოყენებული
+	Recently Used Colors	ბოლოს გამოყენებული ფერები
 	Reconstruct	რეკონსტრუქცია
 	Reconstruct All	ყველაფრის რეკონსტრუქცია
 	Record Measurements	გაზომვების ჩაწერა
@@ -3064,6 +3337,7 @@ layerLabel	Red	წითელი
 	Red Cyan	წითელი/ცისფერი
 	Red Eye	წითელი თვალები
 	Red Eye Tool	წითელი თვალების ხელსაწყო
+	Red Primary	წითელი ძირითადი
 	Redefine style by current selection	სტილის ხელახლა განსაზღვრა მიმდინარე მონიშნულით
 	Redo	გამეორება
 	Redrawing	გადახატვა
@@ -3075,6 +3349,11 @@ layerLabel	Red	წითელი
 	Refine	დაზუსტება
 	Refine Edge	კიდის დაზუსტება
 	Refine Edge Brush (R)	კიდის დაზუსტების ფუნჯი (R)
+	Refine Edge Brush Tool	კიდის დაზუსტების ფუნჯის ხელსაწყო
+	Refine Edge…	კიდის დაზუსტება…
+	Refine Hair	თმის დაზუსტება
+	Refine Hair needs hair detection, which isn't available yet	„თმის დაზუსტებას“ სჭირდება თმის აღმოჩენა, რომელიც ჯერ მიუწვდომელია
+	Refine Mode	დაზუსტების რეჟიმი
 	Refine Strokes	დაზუსტების შტრიხები
 	Reflect	არეკვლა
 	Reflected	არეკლილი
@@ -3090,6 +3369,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Relink to File	ფაილთან ხელახლა დაკავშირება
 	Relink to File…	ფაილთან ხელახლა დაკავშირება…
 	Reload Frame	კადრის ხელახლა ჩატვირთვა
+	Remember Settings	პარამეტრების დამახსოვრება
 	Remember this choice for future images	ამ არჩევანის დამახსოვრება მომავალი გამოსახულებებისთვის
 	Remember to turn off the printer's own colour management in Print Settings…	არ დაგავიწყდეთ თავად პრინტერის ფერების მართვის გამორთვა ბეჭდვის პარამეტრებში…
 	Remember workspace changes	სამუშაო სივრცის ცვლილებების დამახსოვრება
@@ -3099,6 +3379,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Remove All Pins	ყველა სამაგრის მოშორება
 	Remove Background	ფონის მოშორება
 	Remove Black Matte	შავი შემოსაზღვრის მოცილება
+	Remove from Favorites	რჩეულებიდან ამოშლა
 	Remove from favorites	რჩეულებიდან ამოშლა
 	Remove from Recent	ბოლოს გახსნილებიდან ამოშლა
 	Remove Jpeg Artifact	JPEG არტეფაქტის მოცილება
@@ -3119,6 +3400,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Rename Layer	შრის სახელის შეცვლა
 	Rename Layer Comp	შრეების კომპოზიციის სახელის შეცვლა
 	Rename Layer…	შრის სახელის შეცვლა…
+	Rename Path…	ტრაექტორიის სახელის შეცვლა…
 	Rename Tool Preset	ხელსაწყოს პრესეტის სახელის შეცვლა
 	Rename Tool Preset…	ხელსაწყოს პრესეტის სახელის შეცვლა…
 	Rename…	სახელის შეცვლა…
@@ -3136,8 +3418,10 @@ fontWeight	Regular	ჩვეულებრივი
 	Replace Color…	ფერის ჩანაცვლება…
 	Replace Contents	შიგთავსის ჩანაცვლება
 	Replace Contents…	შიგთავსის ჩანაცვლება…
+	Replace Contours…	კონტურების ჩანაცვლება…
 	Replace Footage	ვიდეომასალის ჩანაცვლება
 	Replace Footage…	მასალის ჩანაცვლება…
+	Replace Image…	გამოსახულების ჩანაცვლება…
 	Replace it with this document, or cancel and use File › Save As to keep both.	ჩაანაცვლეთ ის ამ დოკუმენტით, ან გააუქმეთ და ორივეს შესანარჩუნებლად გამოიყენეთ ფაილი › შენახვა როგორც.
 	Replace Swatches…	ფერის ნიმუშების ჩანაცვლება…
 	Report a Bug	შეცდომის შეტყობინება
@@ -3152,11 +3436,14 @@ fontWeight	Regular	ჩვეულებრივი
 	Reset All to Defaults	ყველაფრის ნაგულისხმევზე დაბრუნება
 	Reset All Tools	ყველა ხელსაწყოს ჩამოყრა
 	Reset all tools to their default settings?	ჩამოიყაროს ყველა ხელსაწყო ნაგულისხმევ პარამეტრებზე?
+	Reset bar position	ზოლის პოზიციის ჩამოყრა
+	Reset Essentials	ძირითადის საწყისზე დაბრუნება
 	Reset GPU Backend	GPU-ის ბექენდის ჩამოყრა
 	Reset Preferences	პარამეტრების ჩამოყრა
 	Reset Section	სექციის საწყისზე დაბრუნება
 	Reset Swatches	ფერის ნიმუშების ჩამოყრა
 	Reset the brush to the defaults	ფუნჯის ნაგულისხმევ პარამეტრებზე დაბრუნება
+	Reset the crop box, image rotation, and aspect ratio settings	ჩამოჭრის ჩარჩოს, სურათის ბრუნვისა და ასპექტის თანაფარდობის აღდგენა
 	Reset to Default	ნაგულისხმევზე დაბრუნება
 	Reset to defaults	ნაგულისხმევზე დაბრუნება
 	Reset Tool	ხელსაწყოს ჩამოყრა
@@ -3166,6 +3453,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Resize image during place	განთავსებისას გამოსახულების ზომის შეცვლა
 	Resize panel window	პანელის ფანჯრის ზომის შეცვლა
 	Resize panels	პანელების ზომის შეცვლა
+	Resize Windows to Fit	ფანჯრების ზომის მორგება
 	Resolution	გარჩევადობა
 	Resolution:	გარჩევადობა:
 	Resolution: {dpi} pixels/inch	გარჩევადობა: {dpi} პიქსელი/დუიმი
@@ -3189,8 +3477,10 @@ fontWeight	Regular	ჩვეულებრივი
 	Retry	ხელახლა ცდა
 	Retry GPU	GPU-ის ხელახლა ცდა
 	Retry GPU requires a restart. Save your work first.	GPU-ის ხელახლა ცდას გადატვირთვა სჭირდება. ჯერ შეინახეთ ნამუშევარი.
+	Retry GPU tries the graphics processor again now.	„GPU-ის ხელახლა ცდა“ გრაფიკული პროცესორის გამოყენებას ახლავე ხელახლა სცდის.
 	Retry saving presets	პრესეტების შენახვის ხელახლა ცდა
 	Reveal All	ყველაფრის გამოჩენა
+	Reveal in Explorer	Explorer-ში ჩვენება
 	Reveal in Finder	Finder-ში ჩვენება
 	Reveal Selection	მონიშნულის გამოჩენა
 	Reverse	შებრუნება
@@ -3200,6 +3490,8 @@ fontWeight	Regular	ჩვეულებრივი
 	RGB	RGB
 	Rgb	RGB
 	RGB Color	RGB ფერი
+	RGB Sliders	RGB სლაიდერები
+	RGB Spectrum	RGB სპექტრი
 	RGB:	RGB:
 	Ridges	ქედები
 	Right	მარჯვნივ
@@ -3207,6 +3499,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Right click with painting tools	მარჯვენა დაწკაპუნება სახატავი ხელსაწყოებით
 	Right Diagonal	მარჯვენა დიაგონალი
 	Right Edges	მარჯვენა კიდეები
+	Right-to-left paragraph direction	აბზაცის მიმართულება მარჯვნიდან მარცხნივ
 	Right:	მარჯვნივ:
 	Rigid	ხისტი
 	Ring	რგოლი
@@ -3237,6 +3530,7 @@ fontWeight	Regular	ჩვეულებრივი
 	Roughness	უხეშობა
 cameraRaw	Roughness	უხეშობა
 	Round	მომრგვალებული
+	Rounded Rectangle Tool	მომრგვალებული მართკუთხედის ხელსაწყო
 	Rounded Steps	მომრგვალებული საფეხურები
 	Roundness	სიმრგვალე
 cameraRaw	Roundness	სიმრგვალე
@@ -3254,6 +3548,7 @@ cameraRaw	Roundness	სიმრგვალე
 	Same folder	იგივე საქაღალდე
 	Sample a pixel anywhere on the screen	პიქსელის ნიმუშის აღება ეკრანის ნებისმიერი ადგილიდან
 	Sample All Layers	ყველა შრიდან ნიმუშის აღება
+	Sample content from part of the image and use it to fill a small area	აიღეთ შიგთავსი სურათის ნაწილიდან პატარა არის შესავსებად
 	Sample Size	ნიმუშის ზომა
 	Sample Size:	ნიმუშის ზომა:
 	Sample:	ნიმუში:
@@ -3268,6 +3563,7 @@ cameraRaw	Roundness	სიმრგვალე
 	Sampling: Continuous	ნიმუშის აღება: უწყვეტი
 	Sampling: Once	ნიმუშის აღება: ერთხელ
 	Sandstone	ქვიშაქვა
+	Sans Serif	უსერიფო
 	Sat	გაჯ.
 	Satin	ატლასი
 	Satin…	ატლასი…
@@ -3287,11 +3583,13 @@ cameraRaw	Saturation	გაჯერება
 	Save before closing?	შევინახო დახურვამდე?
 	Save cancelled	შენახვა გაუქმდა
 	Save Changes	ცვლილებების შენახვა
+	Save Contours…	კონტურების შენახვა…
 	Save Default Type Styles	ტექსტის ნაგულისხმევი სტილების შენახვა
 	Save failed: {error}	შენახვა ვერ მოხერხდა: {error}
 	Save File	ფაილის შენახვა
 	Save for Web (Legacy)	ვებისთვის შენახვა (მოძველებული)
 	Save for Web (Legacy)…	ვებისთვის შენახვა (მოძველებული)…
+	Save Full-Size Composite in .pcraft Files	სრული ზომის გაერთიანებული გამოსახულების შენახვა .pcraft ფაილებში
 	Save HTML and Images	HTML-ისა და გამოსახულებების შენახვა
 	Save Image	გამოსახულების შენახვა
 	Save in background	ფონურ რეჟიმში შენახვა
@@ -3302,18 +3600,24 @@ cameraRaw	Saturation	გაჯერება
 	Save selection as channel	მონიშნულის არხად შენახვა
 	Save Selection…	მონიშნულის შენახვა…
 	Save Settings…	პარამეტრების შენახვა…
+cameraRaw	Save Settings…	პარამეტრების შენახვა…
 	Save Set…	ნაკრების შენახვა…
 	Save the changes to this set	ამ ნაკრებში ცვლილებების შენახვა
 	Save these settings as a Camera Raw .xmp file	ამ პარამეტრების შენახვა Camera Raw-ის .xmp ფაილად
+cameraRaw	Save these settings as a Camera Raw .xmp file	ამ პარამეტრების შენახვა Camera Raw-ის .xmp ფაილად
 	Save these shortcuts as a .kys file	ამ მალსახმობების .kys ფაილად შენახვა
 	Save these shortcuts as a new set	ამ მალსახმობების ახალ ნაკრებად შენახვა
+smartSvg	Save to the opened SVG file. Each saved change becomes one undo step in PhotoCraft.	შეინახეთ გახსნილ SVG ფაილში. ყოველი შენახული ცვლილება PhotoCraft-ში ერთ დაბრუნების ნაბიჯად იქცევა.
 	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	შეინახეთ ნამუშევარი და გადატვირთეთ PhotoCraft GPU-აჩქარების ხელახლა საცდელად. ამ სესიაში CPU-რენდერინგი აქტიური რჩება.
 	Saved	შენახულია
 	Saved a copy as {path}	ასლი შენახულია როგორც {path}
+	Saved contours to {file}	{file}-ში შეინახა კონტურები
 @plural	Saved for Web: {n} file|Saved for Web: {n} files	შენახულია ვებისთვის: ფაილი: {n}|შენახულია ვებისთვის: ფაილი: {n}
 	Saved Multichannel	შენახული მრავალარხიანი
+	Saved RAW Develop settings to {file}	RAW დამუშავების პარამეტრები შენახულია {file}-ში
 	Saved {name}	შენახულია {name}
 @plural	Saved {n} action to {file}|Saved {n} actions to {file}	{file}-ში შეინახა მოქმედება: {n}|{file}-ში შეინახა მოქმედება: {n}
+@plural	Saved {n} color to {file}|Saved {n} colors to {file}	{file}-ში შეინახა ფერი: {n}|{file}-ში შეინახა ფერი: {n}
 	Saved {path}; image assets: {n} in {dir}	შენახულია {path}; გამოსახულების რესურსები: {n}, {dir}-ში
 	Save…	შენახვა…
 	Saving brush presets… Keep this tab open until saving finishes.	ფუნჯის პრესეტები ინახება… ეს ჩანართი ღია დატოვეთ შენახვის დასრულებამდე.
@@ -3339,11 +3643,13 @@ cameraRaw	Saturation	გაჯერება
 	Scratch Disks	დროებითი დისკები
 	Scratch disks	დროებითი დისკები
 	Scratch Disks…	დროებითი დისკები…
+	Scratch Size Limit (MB, 0 = No Limit)	დროებითი დისკის ზომის ლიმიტი (მბ, 0 = ლიმიტის გარეშე)
 	Scratch Sizes	დროებითი დისკის ზომები
 	Scratch: {size}	დროებითი: {size}
 	Screen	ეკრანი
 	Screen Mode	ეკრანის რეჟიმი
 	Screen resolution	ეკრანის გარჩევადობა
+	Script	კალიგრაფიული
 	Script Events Manager	სკრიპტის მოვლენების მართვა
 	Script Events Manager…	სკრიპტის მოვლენების მართვა…
 	Scripts	სკრიპტები
@@ -3364,14 +3670,18 @@ cameraRaw	Saturation	გაჯერება
 	Search settings…	პარამეტრების ძიება…
 	Search…	ძიება…
 	Second Color Readout	ფერის მეორე ანათვალი
+	seconds	წამი
 	Seed	საწყისი რიცხვი
 	Select	მონიშვნა
+	Select a preset aspect ratio or crop size	აირჩიეთ წინასწარ დაყენებული ასპექტის თანაფარდობა ან ჩამოჭრის ზომა
 	Select a type layer or click into text to insert glyphs	გლიფების ჩასასმელად მონიშნეთ ტექსტური შრე ან დაწკაპეთ ტექსტში
 	Select a type layer to edit its character and paragraph settings.	სიმბოლოსა და აბზაცის პარამეტრების შესაცვლელად მონიშნეთ ტექსტური შრე.
 	Select All	ყველაფრის მონიშვნა
 	Select All Layers	ყველა შრის მონიშვნა
 	Select an action first	ჯერ აირჩიეთ მოქმედება
 	Select and Mask	მონიშვნა და ნიღაბი
+	Select and Mask was closed: another layer was selected	„მონიშვნა და ნიღაბი“ დაიხურა: მონიშნულია სხვა შრე
+	Select and Mask was closed: its document is no longer the active one	„მონიშვნა და ნიღაბი“ დაიხურა: მისი დოკუმენტი აღარ არის აქტიური
 	Select and Mask…	მონიშვნა და ნიღაბი…
 	Select Bottom Layer	უქვედაესი შრის მონიშვნა
 	Select Custom Color…	მორგებული ფერის არჩევა…
@@ -3382,6 +3692,7 @@ cameraRaw	Saturation	გაჯერება
 	Select Layer	შრის მონიშვნა
 	Select Layer Above	ზედა შრის მონიშვნა
 	Select Layer Below	ქვედა შრის მონიშვნა
+	Select Layer Under Cursor	კურსორის ქვეშ არსებული შრის მონიშვნა
 	Select Linked Layers	დაკავშირებული შრეების მონიშვნა
 	Select Plane	სიბრტყის მონიშვნა
 	Select Similar Colors	მსგავსი ფერების მონიშვნა
@@ -3413,6 +3724,7 @@ fontWeight	SemiBold	ნახევრად მუქი
 	Sent to the printer ({spooler})	გაიგზავნა პრინტერზე ({spooler})
 	Sent to {printer}	გაიგზავნა პრინტერზე: {printer}
 	Sepia	სეპია
+	Serif	სერიფიანი
 	Services	სერვისები
 	Sessions only	მხოლოდ სესიები
 	Set additional Crop options	ჩამოჭრის დამატებითი პარამეტრები
@@ -3435,20 +3747,31 @@ fontWeight	SemiBold	ნახევრად მუქი
 	Set shape fill type	ფიგურის შევსების ტიპის დაყენება
 	Set shape stroke type	ფიგურის კონტურის ტიპის დაყენება
 	Set Start Timecode…	საწყისი დროის კოდის დაყენება…
+	Set the aspect ratio for the crop box	დააყენეთ ასპექტის თანაფარდობა ჩამოჭრის ჩარჩოსთვის
+	Set the overlay options for the Crop Tool	დააყენეთ ჩამოჭრის გადაფარვის პარამეტრები
 	Set the overlay options for the Crop tool	ჩამოჭრის ხელსაწყოს გადაფარვის პარამეტრები
 	Set the text color	ტექსტის ფერის დაყენება
+	Set the tone sliders from the image	ტონის სლაიდერების დაყენება გამოსახულების მიხედვით
 	Set vertical skew	ვერტიკალური დახრის დაყენება
 	Set White Point	თეთრი წერტილის დაყენება
 	Set:	ნაკრები:
+	Sets the source for the history brush	ადგენს ისტორიის ფუნჯის წყაროს
 	Settings	პარამეტრები
+	Settings from {name}	პარამეტრები {name}-დან
+	Settings from {name}; {count} not supported: {names}	პარამეტრები {name}-დან; მხარდაუჭერელი ({count}): {names}
 	Settings:	პარამეტრები:
 	Settings…	პარამეტრები…
 	Sgray	sGray
 	Shadow	ჩრდილი
 	Shadow Amount	ჩრდილის ოდენობა
 	Shadow Clipping Warning (U)	ჩრდილების მოკვეთის გაფრთხილება (U)
+cameraRaw	Shadow Clipping Warning (U)	ჩრდილების მოკვეთის გაფრთხილება (U)
+	Shadow Color	ჩრდილის ფერი
 	Shadow Intensity	ჩრდილის ინტენსივობა
+	Shadow Mode	ჩრდილის რეჟიმი
+	Shadow Opacity	ჩრდილის გაუმჭვირვალობა
 	Shadow Radius	ჩრდილის რადიუსი
+	Shadow Tint	ჩრდილების ტონირება
 	Shadow Tone	ჩრდილის ტონი
 	Shadows	ჩრდილები
 cameraRaw	Shadows	ჩრდილები
@@ -3463,6 +3786,7 @@ cameraRaw	Shadows	ჩრდილები
 	Shape Layer	ფიგურის შრე
 	Shape:	ფორმა:
 	Shapes	ფიგურები
+	Shapes can't use patterns yet	ფიგურებს პატერნების გამოყენება ჯერ არ შეუძლიათ
 	Sharp	მკვეთრი
 	Sharpen	გამკვეთრება
 	Sharpen Amount	გამკვეთრების ოდენობა
@@ -3475,6 +3799,7 @@ cameraRaw	Shadows	ჩრდილები
 	Sharpen Radius	გამკვეთრების რადიუსი
 	Sharpen Tool	გამკვეთრების ხელსაწყო
 	Sharpening	გამკვეთრება
+cameraRaw	Sharpening	გამკვეთრება
 	Sharpness	სიმკვეთრე
 	Shear	დახრა
 	Shear…	დახრა…
@@ -3491,11 +3816,13 @@ cameraRaw	Shadows	ჩრდილები
 	Shortcuts	მალსახმობები
 	Show	ჩვენება
 	Show All	ყველას ჩვენება
+	Show All Fonts	ყველა შრიფტის ჩვენება
 	Show All Menu Items	მენიუს ყველა პუნქტის ჩვენება
 	Show Altered Video	შეცვლილი ვიდეოს ჩვენება
 	Show Backdrop	ფონის ჩვენება
 	Show bounding box when dragging layer	შრის გადათრევისას შემომსაზღვრელი ჩარჩოს ჩვენება
 	Show canvas dots	ტილოს წერტილების ჩვენება
+	Show Channels in Color	არხების ფერად ჩვენება
 	Show channels in color	არხების ფერად ჩვენება
 	Show Cropped Area	ჩამოჭრილი არის ჩვენება
 	Show crosshair in brush tip	ფუნჯის წვერში ჯვრის ჩვენება
@@ -3504,6 +3831,9 @@ cameraRaw	Shadows	ჩრდილები
 	Show extension panels	გაფართოების პანელების ჩვენება
 	Show Extras Options	დამატებითი ელემენტების პარამეტრების ჩვენება
 	Show Extras Options…	დამატებითი ელემენტების ჩვენების პარამეტრები…
+	Show Favorite Fonts	რჩეული შრიფტების ჩვენება
+	Show file name in title	ფაილის სახელის ჩვენება სათაურში
+	Show Font Classes	შრიფტის კლასების ჩვენება
 	Show font names in english	შრიფტების სახელების ინგლისურად ჩვენება
 	Show Grid	ბადის ჩვენება
 	Show Guides	დამხმარე ხაზების ჩვენება
@@ -3513,6 +3843,9 @@ cameraRaw	Shadows	ჩრდილები
 	Show in Explorer	Explorer-ში ჩვენება
 	Show in Folder	საქაღალდეში ჩვენება
 	Show Lab Color Readouts	Lab ფერის მნიშვნელობების ჩვენება
+cameraRaw	Show Lab Color Readouts	Lab ფერის მნიშვნელობების ჩვენება
+	Show layer mask badges	შრის ნიღბის ნიშნების ჩვენება
+	Show Layers	შრეების ჩვენება
 	Show Mask	ნიღბის ჩვენება
 	Show menu colors	მენიუს ფერების ჩვენება
 	Show Mesh	ბადის ჩვენება
@@ -3522,20 +3855,29 @@ cameraRaw	Shadows	ჩრდილები
 	Show Original	ორიგინალის ჩვენება
 	Show Overlay	გადაფარვის ჩვენება
 	Show Red at 3 o'clock	წითლის ჩვენება 3 საათის მიმართულებით
+cameraRaw	Show Red at 3 o'clock	წითლის ჩვენება 3 საათის მიმართულებით
 	Show Rulers	სახაზავების ჩვენება
 	Show rulers	სახაზავების ჩვენება
 	Show Sampling Area	ნიმუშის აღების არის ჩვენება
 	Show Sampling Ring	ნიმუშის აღების რგოლის ჩვენება
 	Show Selected Region	მონიშნული რეგიონის ჩვენება
+cameraRaw	Show Selected Region	მონიშნული რეგიონის ჩვენება
+	Show Similar Fonts	მსგავსი შრიფტების ჩვენება
 	Show Skin Tone Indicator	კანის ტონის მაჩვენებლის ჩვენება
+cameraRaw	Show Skin Tone Indicator	კანის ტონის მაჩვენებლის ჩვენება
 	Show slice numbers	ნაჭრების ნომრების ჩვენება
+	Show Statistics	სტატისტიკის ჩვენება
+	Show Styles	სტილების ჩვენება
 	Show the layer mask as an overlay	შრის ნიღბის გადაფარვად ჩვენება
 	Show the layer's effects  ({key}-click: all layers)	შრის ეფექტების ჩვენება  ({key}+დაწკაპუნება: ყველა შრე)
 	Show the layer's effects  (⌥-click: all layers)	შრის ეფექტების ჩვენება  (⌥+დაწკაპუნება: ყველა შრე)
+	Show the layer's effects and Smart Filters  ({key}-click: all layers)	შრის ეფექტებისა და ჭკვიანი ფილტრების ჩვენება  ({key}+დაწკაპუნება: ყველა შრე)
 	Show tooltips	მინიშნებების ჩვენება
 	Show Transform Controls	გარდაქმნის მართვის ელემენტების ჩვენება
 	Show transformation values	გარდაქმნის მნიშვნელობების ჩვენება
+	Show Variable Fonts	ცვლადი შრიფტების ჩვენება
 	Show Vectorscope	ვექტორსკოპის ჩვენება
+cameraRaw	Show Vectorscope	ვექტორსკოპის ჩვენება
 	Show/Hide All Panels	ყველა პანელის ჩვენება/დამალვა
 	Show/Hide Panels	პანელების ჩვენება/დამალვა
 	Show:	ჩვენება:
@@ -3559,6 +3901,7 @@ cameraRaw	Size	ზომა
 	Skewness	ასიმეტრია
 	Skip	გამოტოვება
 	Sky	ცა
+	Slab Serif	სლაბ-სერიფი
 	Slant	დახრა
 	Slice color	ნაჭრის ფერი
 	Slice Options	ნაჭრის პარამეტრები
@@ -3570,6 +3913,7 @@ cameraRaw	Size	ზომა
 	Slices From Guides	ნაჭრები დამხმარე ხაზებიდან
 	Small	პატარა
 	Small Caps	პატარა მთავრული
+	Small Thumbnails	პატარა ესკიზები
 	Smart Blur	ჭკვიანი გაბუნდოვნება
 	Smart Blur…	ჭკვიანი გაბუნდოვნება…
 	Smart Filter	ჭკვიანი ფილტრი
@@ -3612,6 +3956,7 @@ curves	Smooth	გაგლუვება
 	Software	პროგრამა
 	Software adapter	პროგრამული ადაპტერი
 	Solarize	სოლარიზაცია
+	Solarized	Solarized
 	Solarized Dark	Solarized ბნელი
 	Solarized dark	Solarized ბნელი
 	Solarized Dark Theme	Solarized ბნელი თემა
@@ -3621,6 +3966,7 @@ curves	Smooth	გაგლუვება
 	Solid Front Faces	უწყვეტი წინა წახნაგები
 	Solidity:	სიმკვრივე:
 	Some brush presets could not be loaded	ფუნჯის ზოგიერთი პრესეტი ვერ ჩაიტვირთა
+	Some layers, pixels or masks could not be read. Do you want to continue opening it?	ზოგიერთი შრის, პიქსელის ან ნიღბის წაკითხვა ვერ მოხერხდა. გსურთ გახსნის გაგრძელება?
 	Sort	სორტირება
 	Sort By Name	სახელის მიხედვით დალაგება
 	Source	წყარო
@@ -3632,8 +3978,10 @@ curves	Smooth	გაგლუვება
 	Source1 Invert	წყარო 1-ის ინვერსია
 	Source2 Channel	წყარო 2-ის არხი
 	Source2 Invert	წყარო 2-ის ინვერსია
+	Source:	წყარო:
 	Source: not set ({key}-click with Clone Stamp)	წყარო: არ არის დაყენებული ({key}+დაწკაპუნება კლონირების შტამპით)
 	Source: set	წყარო: დაყენებულია
+	Source: {name}	წყარო: {name}
 	Space	ჰარი
 	Space After	ინტერვალი შემდეგ
 	Space Before	ინტერვალი წინ
@@ -3641,6 +3989,7 @@ curves	Smooth	გაგლუვება
 	Spacing:	ინტერვალი:
 	Sparkle	ბრჭყვიალი
 	Spatter	შხეფები
+	Specify Channels:	არხების მითითება:
 	Speckle	ლაქები
 	Speed	სიჩქარე
 	Spell check complete.	მართლწერის შემოწმება დასრულდა.
@@ -3692,6 +4041,7 @@ curves	Smooth	გაგლუვება
 	Star ratio	ვარსკვლავის თანაფარდობა
 	Star Ratio:	ვარსკვლავის თანაფარდობა:
 	Stars	ვარსკვლავები
+	Start Recording	ჩაწერის დაწყება
 	Start X	დასაწყისი X
 	Start Y	დასაწყისი Y
 	Starting serial	საწყისი რიგითი ნომერი
@@ -3701,13 +4051,17 @@ curves	Smooth	გაგლუვება
 	Status Information	მდგომარეობის ინფორმაცია
 	Std Dev:	სტანდ. გადახრა:
 	Step Backward	ნაბიჯით უკან
+	Step by Step	ნაბიჯ-ნაბიჯ
 	Step Forward	ნაბიჯით წინ
 	Step {step} ({id}) failed: {error}	ნაბიჯი {step} ({id}) ვერ შესრულდა: {error}
 	Step {step} is waiting for its dialog	ნაბიჯი {step} თავის დიალოგს ელოდება
 	Stippled	პუნქტირებული
 	Stop	შეწყვეტა
+	Stop Color	გადასვლის წერტილის ფერი
 	Stop For Errors	შეცდომისას შეჩერება
 	Stop playing/recording	დაკვრის/ჩაწერის შეჩერება
+	Stop Recording	ჩაწერის შეჩერება
+smartSvg	Stop syncing this Smart Object	ამ ჭკვიანი ობიექტის სინქრონიზაციის შეწყვეტა
 	Stops	გადასვლის წერტილები
 	Straighten	გასწორება
 	Straighten Layer	შრის გასწორება
@@ -3752,6 +4106,7 @@ curves	Smooth	გაგლუვება
 	Stylistic Alternates	სტილისტური ალტერნატივები
 	Stylization	სტილიზაცია
 	Stylize	სტილიზაცია
+	Stylized dabs from a history state	სტილიზებული ლაქები ისტორიის მდგომარეობიდან
 	Stylus Wheel	სტილუსის ბორბალი
 	Subdivisions	ქვედანაყოფები
 	Subject	საგანი
@@ -3773,6 +4128,7 @@ curves	Smooth	გაგლუვება
 	Supplemental Categories	დამატებითი კატეგორიები
 	Surface Blur	ზედაპირის გაბუნდოვნება
 	Surface Blur…	ზედაპირის გაბუნდოვნება…
+smartSvg	SVG editor opened. Save the SVG to update this Smart Object.	SVG-რედაქტორი გაიხსნა. ამ ჭკვიანი ობიექტის განსაახლებლად შეინახეთ SVG.
 	Swap colours (X)	ფერების გაცვლა (X)
 	Swaps height and width	სიმაღლისა და სიგანის გაცვლა
 	Swash	მოხატული ასოები (swash)
@@ -3827,6 +4183,7 @@ cameraRaw	Texture	ტექსტურა
 	Texture Each Tip	ტექსტურა თითოეულ წვერზე
 	Texturizer	ტექსტურირება
 	Thaw Mask	ნიღბის გალღობა
+	The active layer has no pixels here — turn on Sample All Layers or select a layer with pixels	აქტიურ შრეს აქ პიქსელები არ აქვს — ჩართეთ „ყველა შრიდან ნიმუშის აღება“ ან აირჩიეთ შრე, რომელსაც პიქსელები აქვს
 	The canvas is shown as sRGB. Choose a monitor profile in Edit › Color Settings.	ტილო ნაჩვენებია როგორც sRGB. აირჩიეთ მონიტორის პროფილი: რედაქტირება › ფერის პარამეტრები.
 	The canvas on {display} is shown as sRGB. Choose a monitor profile in Edit › Color Settings.	ტილო {display}-ზე ნაჩვენებია როგორც sRGB. აირჩიეთ მონიტორის პროფილი: რედაქტირება › ფერის პარამეტრები.
 	The current gradient (pick one in Window › Gradients)	მიმდინარე გრადიენტი (აირჩიეთ ფანჯარა › გრადიენტები)
@@ -3834,18 +4191,30 @@ cameraRaw	Texture	ტექსტურა
 	The document has an embedded colour profile that does not match the working space.\nEmbedded: {embedded}\nWorking: {working}	დოკუმენტს აქვს ჩაშენებული ფერის პროფილი, რომელიც სამუშაო სივრცეს არ შეესაბამება.\nჩაშენებული: {embedded}\nსამუშაო: {working}
 	The document is closed	დოკუმენტი დახურულია
 	The document or selected layers changed. Please request deletion again.	დოკუმენტი ან მონიშნული შრეები შეიცვალა. გთხოვთ, წაშლა ხელახლა მოითხოვოთ.
+	The document or Smart Filter changed. Reopen its dialog.	დოკუმენტი ან ჭკვიანი ფილტრი შეიცვალა. ხელახლა გახსენით მისი დიალოგი.
 	The document “{name}” does not have an embedded {mode} profile.	დოკუმენტს „{name}“ არ აქვს ჩაშენებული {mode} პროფილი.
 	The document “{name}” has an embedded color profile that does not match the current {mode} working space.	დოკუმენტს „{name}“ აქვს ჩაშენებული ფერის პროფილი, რომელიც მიმდინარე {mode} სამუშაო სივრცეს არ შეესაბამება.
+	The document “{name}” may be damaged.	დოკუმენტი „{name}“ შეიძლება დაზიანებული იყოს.
+	The fastest and the softest, with colour fringing on fine detail.	ყველაზე სწრაფი და ყველაზე რბილი, წვრილ დეტალებზე ფერადი შარავანდით.
 	The file could not be opened.	ფაილის გახსნა ვერ მოხერხდა.
 	The file could not be saved.	ფაილის შენახვა ვერ მოხერხდა.
+	The fill for this layer must be rasterized before proceeding. It will no longer be editable as a fill. Rasterize the fill?	გასაგრძელებლად ეს შევსების შრე უნდა დარასტრირდეს. მისი შევსება აღარ იქნება რედაქტირებადი. დავარასტრირო შრე?
+	The frame is locked	ჩარჩო ჩაკეტილია
+	The frame is unavailable	ჩარჩო მიუწვდომელია
+	The GPU compositor is still being prepared	GPU-კომპოზიტორი ჯერ კიდევ მზადდება
 	The GPU compositor wasn't used: {reason}	GPU-კომპოზიტორი არ იქნა გამოყენებული: {reason}
 	The gradient the Gradient tool paints with	გრადიენტი, რომლითაც გრადიენტის ხელსაწყო ხატავს
+	The History Brush source was deleted: set a new source in the History panel	ისტორიის ფუნჯის წყარო წაიშალა: მიუთითეთ ახალი წყარო ისტორიის პანელში
 	The keyboard shortcut set was not imported: {error}	კლავიატურის მალსახმობების ნაკრების იმპორტი ვერ მოხერხდა: {error}
 	The layer or its mask changed. Drag the mask onto the Trash again.	შრე ან მისი ნიღაბი შეიცვალა. კვლავ გადაათრიეთ ნიღაბი ნაგვის ყუთზე.
 	The layers need {needed} of GPU memory and may hold {budget}, so edits that redraw the whole document do it on the CPU. Click to set GPU Memory.	შრეებს GPU-ის მეხსიერებიდან სჭირდება {needed}, დასაშვებია კი {budget}, ამიტომ ცვლილებები, რომლებიც მთელ დოკუმენტს ხელახლა ხატავს, ამას CPU-ზე აკეთებს. დაწკაპეთ GPU-ის მეხსიერების დასაყენებლად.
+	The name in the save dialog was “{name}”.	შენახვის დიალოგში სახელი იყო „{name}“.
+	The path was discarded	ტრაექტორია გაუქმდა
+	The path was kept as the Work Path	ტრაექტორია შენარჩუნდა სამუშაო ტრაექტორიად
 	The transform couldn't be applied.	გარდაქმნის გამოყენება ვერ მოხერხდა.
 	Theme	თემა
 	There are too many sets: delete one first.	ნაკრები ძალიან ბევრია: ჯერ ერთი წაშალეთ.
+	There is no color table to save.	შესანახი ფერთა ცხრილი არ არის.
 	There is no crop size or ratio to save	შესანახი ჩამოჭრის ზომა ან თანაფარდობა არ არის
 	These settings aren't available in PhotoCraft yet.	ეს პარამეტრები PhotoCraft-ში ჯერ ხელმისაწვდომი არ არის.
 	Thickness	სისქე
@@ -3854,23 +4223,30 @@ fontWeight	Thin	თხელი
 	This adjustment ({key}) is kept as imported and can't be edited yet.	ეს კორექცია ({key}) შენარჩუნებულია იმპორტირებული სახით და ჯერ ვერ რედაქტირდება.
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	ამ დოკუმენტის შრეებს სჭირდება {needed}, დასაშვებია კი {budget}: მთელი დოკუმენტის გადახატვა CPU-ს იყენებს
 	This document's layers: {needed} of {budget} for layers	ამ დოკუმენტის შრეები: {needed} / {budget} (შრეებისთვის)
-	This fill layer must be rasterized before proceeding. Its fill content will no longer be editable. Rasterize the layer?	გასაგრძელებლად ეს შევსების შრე უნდა დარასტრირდეს. მისი შევსება აღარ იქნება რედაქტირებადი. დავარასტრირო შრე?
 	This layer must be rasterized before proceeding.	გასაგრძელებლად ეს შრე უნდა დარასტრირდეს.
 	This Layer:	ეს შრე:
 	This redraw took {seconds} s on the CPU.	ამ გადახატვას CPU-ზე {seconds} წმ დასჭირდა.
 	This session: {reason}	ეს სესია: {reason}
 	This shape layer must be rasterized before proceeding. It will no longer be editable as a shape. Rasterize the shape?	გასაგრძელებლად ეს ფიგურის შრე უნდა დარასტრირდეს. ის ფიგურად აღარ იქნება რედაქტირებადი. დავარასტრირო ფიგურა?
-	This Smart Object must be rasterized before proceeding. Its contents will no longer be editable. Rasterize the Smart Object?	გასაგრძელებლად ეს ჭკვიანი ობიექტი უნდა დარასტრირდეს. მისი შიგთავსი აღარ იქნება რედაქტირებადი. დავარასტრირო ჭკვიანი ობიექტი?
+	This smart object must be rasterized before proceeding. Edit Contents will no longer be available. Rasterize the smart object?	გასაგრძელებლად ეს ჭკვიანი ობიექტი უნდა დარასტრირდეს. მისი შიგთავსი აღარ იქნება რედაქტირებადი. დავარასტრირო ჭკვიანი ობიექტი?
 	This type layer must be rasterized before proceeding. Its text will no longer be editable. Rasterize the type?	გასაგრძელებლად ეს ტექსტის შრე უნდა დარასტრირდეს. მისი ტექსტი აღარ იქნება რედაქტირებადი. დავარასტრირო ტექსტი?
 	Threshold	ზღვარი
 	Threshold Level	ზღვრის დონე
 	Threshold…	ზღვარი…
+	Thumbnail Contents	ესკიზის შიგთავსი
+	Thumbnail Size	ესკიზის ზომა
 	Thumbnail size (smallest: list)	ესკიზის ზომა (უმცირესი: სია)
 	TIFF Options	TIFF-ის პარამეტრები
+	Tight Curl	მჭიდრო ხვია
+	Tight Long	მჭიდრო გრძელი
+	Tight Medium	მჭიდრო საშუალო
+	Tight Short	მჭიდრო მოკლე
 	Tile	ფილებად
 	Tile All Horizontally	ყველას ჰორიზონტალურად განლაგება
 	Tile All Vertically	ყველას ვერტიკალურად განლაგება
+	Tile Horizontally	ჰორიზონტალურად განლაგება
 	Tile Size	ფილის ზომა
+	Tile Vertically	ვერტიკალურად განლაგება
 	Tiles	ფილები
 	Tiles…	ფილები…
 	Tilt	დახრა
@@ -3893,6 +4269,7 @@ cameraRaw	Tint	ტონირება
 	To	საბოლოო
 	To Center	ცენტრისკენ
 	To drop files, start PhotoCraft under XWayland: `{command}`	ფაილების ჩასაგდებად გაუშვით PhotoCraft XWayland-ში: `{command}`
+	To paste from other apps, start PhotoCraft under XWayland: `{command}`	სხვა აპლიკაციებიდან ჩასასმელად გაუშვით PhotoCraft XWayland-ში: `{command}`
 	Toggle count group visibility	დათვლის ჯგუფის ხილვადობის გადართვა
 	Toggle Last State	ბოლო მდგომარეობის გადართვა
 	Toggle Layer Mask Overlay	შრის ნიღბის გადაფარვის გადართვა
@@ -3905,7 +4282,9 @@ cameraRaw	Tint	ტონირება
 	Tolerance:	დაშვება:
 	Tone Curve	ტონალური მრუდი
 	Tone Histogram	ტონების ჰისტოგრამა
+cameraRaw	Tone Histogram	ტონების ჰისტოგრამა
 	Tone:	ტონი:
+	Too many clone strokes: apply Vanishing Point first	კლონირების შტრიხები ზედმეტად ბევრია: ჯერ გამოიყენეთ გაქრობის წერტილი
 	Tool	ხელსაწყო
 	Tool Options	ხელსაწყოების პარამეტრები
 	Tool Presets	ხელსაწყოს პრესეტები
@@ -3927,6 +4306,7 @@ cameraRaw	Tint	ტონირება
 	Trace Contour…	კონტურის გავლება…
 	Tracking	ტრეკინგი
 	Tracking (1/1000 em)	ტრეკინგი (1/1000 em)
+	Tracking presets	ტრეკინგის პრესეტები
 	Traditional (72.27 points/inch)	ტრადიციული (72.27 პუნქტი/დუიმი)
 	Transfer	გადაცემა
 	Transform	გარდაქმნა
@@ -3943,6 +4323,7 @@ cameraRaw	Tint	ტონირება
 	Transparency Shapes Layer	გამჭვირვალობა განსაზღვრავს შრის ფორმას
 	Transparency Threshold	გამჭვირვალობის ზღვარი
 	Transparent	გამჭვირვალე
+	Transparent (default)	გამჭვირვალე (ნაგულისხმევი)
 	Trap	ტრეპინგი
 	Trap…	ტრეპინგი…
 	Tree	ხე
@@ -3952,6 +4333,7 @@ cameraRaw	Tint	ტონირება
 	Trilinear	სამწრფივი
 	Trim	შეკვეცა
 	Trim…	შეკვეცა…
+	TrueType font	TrueType შრიფტი
 	Turbulent	ტურბულენტობა
 	Turn the prompt back on with Ask On Mismatch in Edit › Color Settings.	შეკითხვის ხელახლა ჩასართავად გამოიყენეთ „შეუსაბამობისას შეკითხვა“: რედაქტირება › ფერის პარამეტრები.
 	Twirl	გრიგალი
@@ -3972,6 +4354,7 @@ cameraRaw	Tint	ტონირება
 	Ultra Light	ულტრა ღია
 	Unaltered	უცვლელი
 	Unavailable in this color mode	მიუწვდომელია ამ ფერის რეჟიმში
+	Uncached Refresh	განახლება ქეშის გარეშე
 	Uncoated CMYK	CMYK უცარცო ქაღალდისთვის
 	Undefined Areas	განუსაზღვრელი არეები
 	Underline	ხაზგასმული
@@ -4018,13 +4401,16 @@ cameraRaw	Tint	ტონირება
 	Update the current brush with these settings	მიმდინარე ფუნჯის განახლება ამ პარამეტრებით
 @plural	Updated {n} linked smart object changed on disk|Updated {n} linked smart objects changed on disk	განახლდა დისკზე შეცვლილი დაკავშირებული ჭკვიანი ობიექტი: {n}|განახლდა დისკზე შეცვლილი დაკავშირებული ჭკვიანი ობიექტი: {n}
 	Updates	განახლებები
+smartSvg	Updates wait while another document or an editing dialog is active.	განახლება დაელოდება, სანამ სხვა დოკუმენტი ან რედაქტირების დიალოგი აქტიურია.
 	Upper	ზედა
 	Urgency	სასწრაფოობა
 	URLs	URL-ები
+	Use	გამოყენება
 	Use additional plugins folder	პლაგინების დამატებითი საქაღალდის გამოყენება
 	Use Classic Mode	კლასიკური რეჟიმის გამოყენება
 	Use Custom Color	საკუთარი ფერის გამოყენება
 	Use Default	ნაგულისხმევის გამოყენება
+	Use Default Masks on Fill Layers	შევსების შრეებზე ნაგულისხმევი ნიღბების გამოყენება
 	Use esc to commit	დადასტურება Esc-ით
 	Use File › Open to open an image.	გამოსახულების გასახსნელად გამოიყენეთ ფაილი › გახსნა.
 	Use File › Open, or paste a copied image with {paste}.	გამოიყენეთ ფაილი › გახსნა, ან ჩასვით დაკოპირებული სურათი {paste}-ით.
@@ -4051,6 +4437,7 @@ cameraRaw	Tint	ტონირება
 	Vanishing Point…	გაქრობის წერტილი…
 	Variable Data Sets	ცვლადი მონაცემთა ნაკრებები
 	Variable Data Sets…	ცვლადი მონაცემების ნაკრებები…
+	Variable font	ცვლადი შრიფტი
 	Variables	ცვლადები
 	Variables bind a layer's visibility, text or pixels to a named data slot.	ცვლადები შრის ხილვადობას, ტექსტს ან პიქსელებს აკავშირებს მონაცემთა დასახელებულ ველთან.
 	Variance	დისპერსია
@@ -4081,6 +4468,7 @@ cameraRaw	Vibrance	სიხალასე
 	Video Layers	ვიდეოშრეები
 	View	ხედი
 	View menu	ხედის მენიუ
+	View Mode	ხედის რეჟიმი
 	View Options	ხედის პარამეტრები
 	Vignette Amount	ვინიეტის ოდენობა
 	Vignette Feather	ვინიეტის კიდეების შერბილება
@@ -4089,6 +4477,7 @@ cameraRaw	Vibrance	სიხალასე
 	Vignette Roundness	ვინიეტის სიმრგვალე
 	Vignette Style	ვინიეტის სტილი
 	Vignetting	ვინიეტირება
+cameraRaw	Vignetting	ვინიეტირება
 	Vine Color	ვაზის ფერი
 	Vine With Flowers	ვაზი ყვავილებით
 	Vine With Leaves	ვაზი ფოთლებით
@@ -4103,9 +4492,12 @@ cameraRaw	Vibrance	სიხალასე
 	W	W
 	W x H x Resolution	სიგ. x სიმ. x გარჩევადობა
 	W:	სიგ.:
+	Wait for the current job to finish.	დაელოდეთ მიმდინარე დავალების დასრულებას.
 	Wand	ჯოხი
 	Warm	თბილი
+	Warming Filter (81)	გამათბობელი ფილტრი (81)
 	Warming Filter (85)	გამათბობელი ფილტრი (85)
+	Warming Filter (LBA)	გამათბობელი ფილტრი (LBA)
 	Warming L B A	გამათბობელი LBA
 	Warming81	გამათბობელი 81
 	Warming85	გამათბობელი 85
@@ -4125,6 +4517,7 @@ cameraRaw	Vibrance	სიხალასე
 	Wave…	ტალღა…
 	Web	ვები
 	Web Color	ვებფერი
+	Web Color Sliders	ვებფერის სლაიდერები
 	Web Large	ვები, დიდი
 	Web Minimum	ვები, მინიმალური
 	Web Most Common	ვები, ყველაზე გავრცელებული
@@ -4132,6 +4525,7 @@ cameraRaw	Vibrance	სიხალასე
 	Web Snap	ვებ-ფერებზე მიბმა
 	Webp	WebP
 	WebP (lossless)	WebP (უდანაკარგო)
+	Website	ვებსაიტი
 	Weight	სისქე
 	Weight:	სისქე:
 	Wet	სინოტივე
@@ -4140,6 +4534,7 @@ cameraRaw	Vibrance	სიხალასე
 	Wetness Jitter	სინოტივის ცვალებადობა
 	White	თეთრი
 	White Balance: As Shot	თეთრის ბალანსი: როგორც გადაღებულია
+cameraRaw	White Balance: As Shot	თეთრის ბალანსი: როგორც გადაღებულია
 	White Clip	თეთრის მოკვეთა
 	White Intensity	თეთრის ინტენსივობა
 	White Is High	თეთრი მაღალია
@@ -4161,11 +4556,13 @@ cameraRaw	Whites	თეთრები
 	Windows	Windows
 	Windows LCD	Windows LCD
 	Wind…	ქარი…
+	With GPU Memory set to Automatic, this also limits the GPU layer budget. That budget is capped at one quarter of installed RAM and, when known, three eighths of the graphics card's memory, with a 512 MB minimum. Raising this limit beyond those caps does not increase the GPU budget.	როცა GPU-ის მეხსიერება ავტომატურზეა დაყენებული, ეს GPU-ზე შრეების ლიმიტსაც ზღუდავს. ის არ აღემატება კომპიუტერის RAM-ის მეოთხედს და, თუ ცნობილია, ვიდეობარათის მეხსიერების სამ მერვედს; მინიმუმი 512 მბ-ია. ამ ზღვრებს ზემოთ ამ ლიმიტის გაზრდა GPU-ის ლიმიტს არ ზრდის.
 	Word Spacing	სიტყვებს შორის ინტერვალი
 	Work Path	სამუშაო ტრაექტორია
 	Working	მუშავდება
 	Working Black Plate	სამუშაო შავი ფირფიტა
 	Working CMY Plate	სამუშაო CMY ფირფიტა
+	Working CMY Plates	სამუშაო CMY ფირფიტები
 	Working CMYK	სამუშაო CMYK
 	Working Cmyk	სამუშაო CMYK
 	Working Cyan Plate	სამუშაო ცისფერი ფირფიტა
@@ -4184,6 +4581,7 @@ cameraRaw	Whites	თეთრები
 	Workspace…	სამუშაო სივრცე…
 	World ready	მსოფლიო (World-Ready)
 	Wrap	შემოხვევა
+	Write xmp sidecars	XMP თანმხლები ფაილების ჩაწერა
 	X	X
 	X11	X11
 	XOR	XOR
@@ -4212,6 +4610,7 @@ navigator	Zoom	მასშტაბი
 	Zoom with scroll wheel	მასშტაბირება გორგოლაჭით
 	Zoom with trackpad pinch	მასშტაბირება სენსორულ პანელზე თითების მოჭერით
 	{added}, {removed} subtracted	{added}, გამოკლებულია {removed}
+	{file} is not a style library (.asl)	{file} სტილების ბიბლიოთეკა არ არის (.asl)
 	{index} of {total}	{index} / {total}
 	{key} to subtract	{key} — გამოსაკლებად
 	{key}-click to set the source	{key}+დაწკაპუნება წყაროს დასაყენებლად
@@ -4225,13 +4624,17 @@ navigator	Zoom	მასშტაბი
 	{name} options	{name}: პარამეტრები
 	{name} Properties	{name}: თვისებები
 	{name} was changed by another app after it was opened or saved here.	{name} სხვა აპლიკაციამ შეცვალა მას შემდეგ, რაც აქ გაიხსნა ან შეინახა.
+@plural	{n} action file loaded|{n} action files loaded	ჩატვირთულია მოქმედებების ფაილი: {n}|ჩატვირთულია მოქმედებების ფაილი: {n}
 @plural	{n} action|{n} actions	მოქმედება: {n}|მოქმედება: {n}
 	{n} commands are not in PhotoCraft.	PhotoCraft-ში არ არის ბრძანება: {n}.
+@plural	{n} document|{n} documents	{n} დოკუმენტი|{n} დოკუმენტი
+@plural	{n} file could not be loaded: {errors}|{n} files could not be loaded: {errors}	ვერ ჩაიტვირთა ფაილი: {n} — {errors}|ვერ ჩაიტვირთა ფაილი: {n} — {errors}
 @plural	{n} item|{n} items	{n} ელემენტი|{n} ელემენტი
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	ამ კომპოზიციის მიერ ჩაწერილი შრე წაიშალა: {n}. განაახლეთ კომპოზიცია ან გაასუფთავეთ გაფრთხილება.|ამ კომპოზიციის მიერ ჩაწერილი შრე წაიშალა: {n}. განაახლეთ კომპოზიცია ან გაასუფთავეთ გაფრთხილება.
 @plural	{n} Layer|{n} Layers	შრე: {n}|შრე: {n}
 @plural	{n} layer|{n} layers	შრე: {n}|შრე: {n}
 	{n} of {max} sample points	სინჯის წერტილი: {n} / {max}
+@plural	{n} pixel|{n} pixels	{n} პიქსელი|{n} პიქსელი
 @plural	{n} plane|{n} planes	სიბრტყე: {n}|სიბრტყე: {n}
 @plural	{n} preset|{n} presets	პრესეტი: {n}|პრესეტი: {n}
 @plural	{n} sample point removed|{n} sample points removed	მოშორებულია სინჯის წერტილი: {n}|მოშორებულია სინჯის წერტილი: {n}
@@ -4241,7 +4644,9 @@ navigator	Zoom	მასშტაბი
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	გამოტოვებული ნაბიჯი, რომელსაც Photoshop-ში შესატყვისი არ აქვს: {n}|გამოტოვებული ნაბიჯი, რომელსაც Photoshop-ში შესატყვისი არ აქვს: {n}
 @plural	{n} step|{n} steps	ნაბიჯი: {n}|ნაბიჯი: {n}
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: გზა არ არის სწორი Unicode; გადაარქვით ფაილს სახელი და ხელახლა გახსენით.
+	{path}: the path is not valid Unicode; save under another name.	{path}: გზა არ არის სწორი Unicode; შეინახეთ სხვა სახელით.
 	{set} (modified)	{set} (შეცვლილი)
+	{set} from {file} replaced the one from {earlier}	{file}-დან {set}-მა ჩაანაცვლა {earlier}-დან ჩატვირთული
 	{shortcut} assigned.	{shortcut} მინიჭებულია.
 	{shortcut} is already in use by {commands} and will be removed from it when you click OK.	{shortcut} უკვე გამოიყენება ბრძანებისთვის {commands} და OK-ზე დაწკაპუნებისას იქიდან მოიხსნება.
 	{shortcut} is reserved by the system and can't be assigned.	{shortcut} სისტემისთვისაა დაჯავშნული და მისი მინიჭება შეუძლებელია.
@@ -4252,9 +4657,9 @@ navigator	Zoom	მასშტაბი
 	{w} px x {h} px ({ppi} ppi)	{w} px x {h} px ({ppi} ppi)
 	{w} {unit} x {h} {unit} ({ppi} ppi)	{w} {unit} x {h} {unit} ({ppi} ppi)
 	{zoom}%	{zoom}%
+	“{name}” already exists. Replace it?	„{name}“ უკვე არსებობს. ჩავანაცვლოთ?
 	…and {n} more	…და კიდევ {n}
 	↑↓ navigate   {key} run   esc close	↑↓ ნავიგაცია   {key} გაშვება   esc დახურვა
 	↑↓ navigate   ↵ run   esc close	↑↓ ნავიგაცია   ↵ გაშვება   esc დახურვა
 	✓ Color Indicates Masked Areas	✓ ფერი აღნიშნავს ნიღბიან არეებს
 	✓ Color Indicates Selected Areas	✓ ფერი აღნიშნავს მონიშნულ არეებს
-	Generator enabled	გენერატორი ჩართულია

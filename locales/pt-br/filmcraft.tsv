@@ -41,6 +41,7 @@
 	(RGB) Output White Level	(RGB) Nível de branco de saída
 	+ Cmd	+ Cmd
 	+ Opt	+ Opt
+	0 fastest, 8 smallest	0 mais rápido, 8 menor
 	10 Bit Black Point	Ponto preto de 10 bits
 	10 Bit White Point	Ponto branco de 10 bits
 	105mm Prime	Lente fixa de 105 mm
@@ -62,6 +63,7 @@
 	A boxed label with a round pointer; move the label and the pointer follows.	Um rótulo em caixa com um ponteiro redondo; ao mover o rótulo, o ponteiro o acompanha.
 	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	Um editor de vídeo não linear em Rust puro, desenvolvido em sala limpa. Parte da família ArtCraft.
 	A cut sequence with transitions, effects and music	Uma sequência editada com transições, efeitos e música
+	A file dialog is already open	Uma caixa de diálogo de arquivo já está aberta
 	A news-style line that crawls in from the right and leaves at the left.	Uma linha no estilo de telejornal que entra pela direita e sai pela esquerda.
 	A rounded tag that fits its text, with a status dot.	Uma etiqueta arredondada que se ajusta ao texto, com um ponto de status.
 	A title on a rounded card with a soft shadow.	Um título em um cartão arredondado com uma sombra suave.
@@ -160,6 +162,7 @@
 	Amplify	Amplificar
 	Amplitude	Amplitude
 	Amplitude and Compression	Amplitude e compressão
+	An earlier start failed with the default graphics. Updating the graphics driver usually fixes this.	Uma inicialização anterior falhou com os gráficos padrão. A atualização do driver gráfico geralmente resolve isso.
 	Analog	Analógico
 	Analog Delay	Delay analógico
 	Analyze	Analisar
@@ -171,6 +174,7 @@
 	Anchor point	Ponto de ancoragem
 	Anchor to In Point	Ancorar no ponto de entrada
 	Anchor to Out Point	Ancorar no ponto de saída
+	Animate zoom, scrolling and menus	Animar zoom, rolagem e menus
 	Animated GIF	GIF animado
 	Animated GIF 640×360	GIF animado 640×360
 	Anti-aliasing Quality	Qualidade da suavização de serrilhado
@@ -240,7 +244,9 @@
 	Audio Options	Opções de áudio
 	Audio Out	Saída de áudio
 	Audio Out Point	Ponto de saída do áudio
+	Audio output failed: playing without sound (check Settings > Audio Hardware)	Falha na saída de áudio: reproduzindo sem som (verifique Preferências > Hardware de áudio)
 	Audio output failed: playing without sound (check Settings ▸ Audio Hardware)	A saída de áudio falhou: reproduzindo sem som (verifique Preferências ▸ Hardware de áudio)
+	Audio output is not responding: playing without sound (check Settings > Audio Hardware)	A saída de áudio não está respondendo: reproduzindo sem som (verifique Preferências > Hardware de áudio)
 	Audio output is not responding: playing without sound (check Settings ▸ Audio Hardware)	A saída de áudio não está respondendo: reproduzindo sem som (verifique Preferências ▸ Hardware de áudio)
 	Audio Previews:	Pré-visualizações de áudio:
 	Audio Samples	Amostras de áudio
@@ -290,6 +296,7 @@
 	Automatically transcribe clips	Transcrever clipes automaticamente
 	Automation Keyframe Optimization	Otimização de quadros-chave de automação
 	AV1	AV1
+	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	O AV1 precisa de um codificador por hardware; nenhum foi encontrado nesta máquina e o FilmCraft ainda não possui um codificador AV1 por software.
 	Average Data Rate	Taxa de dados média
 	Avid DNxHR	Avid DNxHR
 	Avid DNxHR HQ	Avid DNxHR HQ
@@ -590,6 +597,7 @@
 	Composite Video	Vídeo composto
 	Compound Blur	Desfoque composto
 	Compression Before Clipping	Compressão antes do clipping
+	Compression Level	Nível de compressão
 	Compressor	Compressor
 	Configure…	Configurar…
 	Conflict: {key} is assigned to {commands} ({ctx})	Conflito: {key} está atribuída a {commands} ({ctx})
@@ -612,6 +620,7 @@
 	Core Width	Largura do núcleo
 	Corner Pin	Fixação de cantos
 	Corner Radius	Raio do canto
+	Couldn't open your web browser	Não foi possível abrir seu navegador web
 	Count	Contagem
 	Countdown Sound Cues	Bipes de contagem regressiva
 	Counter-clockwise	Sentido anti-horário
@@ -728,10 +737,13 @@
 	Delete Media Cache Files	Excluir arquivos de cache de mídia
 	Delete oldest files when the cache exceeds	Excluir os arquivos mais antigos quando o cache ultrapassar
 	Delete Preset	Excluir predefinição
+	Delete Redoable Actions	Excluir ações refazíveis
 	Delete Render Files	Excluir arquivos de renderização
 	Delete Render Files In to Out	Excluir arquivos de renderização da entrada à saída
 	Delete Search Bin	Excluir pasta de pesquisa
 	Delete selected captions	Excluir legendas selecionadas
+	Delete the dimmed actions after the current state? They cannot be redone.	Excluir as ações esmaecidas após o estado atual? Elas não poderão ser refeitas.
+	Delete this preset	Excluir esta predefinição
 	Delete Tracks	Excluir faixas
 	Delete Tracks…	Excluir faixas…
 	Delete Transcript	Excluir transcrição
@@ -764,6 +776,7 @@
 	Directional	Direcional
 	Directional Blur	Desfoque direcional
 	Directional Blur (Legacy)	Desfoque direcional (legado)
+	DirectX 12 only	Somente DirectX 12
 	Disable video output when in the background	Desativar a saída de vídeo em segundo plano
 	Disabled clips	Clipes desativados
 	Discard take	Descartar tomada
@@ -789,6 +802,7 @@
 	Distribute Vertically	Distribuir verticalmente
 	Do not delete cache files automatically	Não excluir arquivos de cache automaticamente
 	Dock Panel	Dock Panel
+	Docking Action	Ação de acoplamento
 	Does Not Contain	Não contém
 	Don't label speakers	Não identificar locutores
 	Don't Save	Não salvar
@@ -804,6 +818,7 @@
 	Drag an edge to change the clip's speed so it fills the new duration.	Arraste uma borda para alterar a velocidade do clipe de modo que ele preencha a nova duração.
 	Drag an edit point to ripple trim; later clips move to keep the gap closed.	Arraste um ponto de edição para uma aparagem em cascata; os clipes seguintes se movem para manter a lacuna fechada.
 	Drag an edit point to roll it: the out of one clip and the in of the next move together.	Arraste um ponto de edição para rolá-lo: a saída de um clipe e a entrada do seguinte se movem juntas.
+	Drag inward to round the corners	Arraste para dentro para arredondar os cantos
 	Drag the edge of a music clip to remix it to the new duration at musically matching beats.	Arraste a borda de um clipe de música para remixá-lo para a nova duração em batidas musicalmente correspondentes.
 	Drag to scroll the timeline.	Arraste para rolar a linha do tempo.
 	Drag: move · Alt-click: smooth/corner · Cmd-click: delete	Arrastar: mover · Alt+clique: suave/canto · Cmd+clique: excluir
@@ -819,6 +834,7 @@
 	Duck Under Voice and Effects	Atenuar sob a voz e os efeitos
 	Ducking	Atenuação automática
 	Duration:	Duração:
+	Duration: {tc}	Duração: {tc}
 	DVCPRO HD (1.5)	DVCPRO HD (1.5)
 	Dynamic Audio Waveforms	Formas de onda de áudio dinâmicas
 	Dynamic Link	Dynamic Link
@@ -885,6 +901,7 @@
 	End Off Screen	Terminar fora da tela
 	End Point	Ponto final
 	End:	Fim:
+	End: {tc}	Fim: {tc}
 	Ends With	Termina com
 	Enhance Speech	Aprimorar fala
 	Entire Source	Toda a origem
@@ -917,6 +934,7 @@
 	Export Markers as CSV…	Exportar marcadores como CSV…
 	Export presets	Predefinições de exportação
 	Export Preset…	Exportar predefinição…
+	Export the labels to a preset file…	Exportar os rótulos para um arquivo de predefinição…
 	Export: no file chosen (agents: export.presets.export {path, names})	Exportar: nenhum arquivo escolhido (agentes: export.presets.export {path, names})
 	Export: no file chosen (agents: shortcuts.export {path})	Exportar: nenhum arquivo escolhido (agentes: shortcuts.export {path})
 	Exported graphics template to {path}	Modelo de gráficos exportado para {path}
@@ -1003,7 +1021,11 @@
 	Find Next	Localizar próximo
 	first marker	primeiro marcador
 	Fit to frame	Ajustar ao quadro
+	FLAC	FLAC
+	FLAC (lossless)	FLAC (sem perdas)
+	FLAC 48 kHz 24-bit	FLAC 48 kHz 24 bits
 	FLAC stores whole-number samples only	O FLAC só armazena amostras inteiras
+	FLAC, stereo 48 kHz 24-bit, lossless	FLAC, estéreo 48 kHz 24 bits, sem perdas
 	Flanger	Flanger
 	Flare	Reflexo
 	Flare Brightness	Brilho do reflexo
@@ -1176,6 +1198,7 @@
 	H.264 at the sequence's frame size and rate; 0.1 bits per pixel	H.264 com o tamanho e a taxa de quadros da sequência; 0,1 bit por pixel
 	H.264 at the sequence's frame size and rate; bitrate adapts to the frame size (0.2 bits per pixel)	H.264 com o tamanho e a taxa de quadros da sequência; a taxa de bits se adapta ao tamanho do quadro (0,2 bit por pixel)
 	H.265 (HEVC)	H.265 (HEVC)
+	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	O H.265 (HEVC) precisa de um codificador por hardware (NVENC em GPUs NVIDIA, VideoToolbox no macOS); nenhum foi encontrado nesta máquina e o FilmCraft ainda não possui um codificador H.265 por software. Escolha H.264 ou ProRes.
 	Half Saturation	Saturação em 50 %
 	Handle Frames:	Quadros de margem:
 	Hard Clip	Clipping duro
@@ -1185,6 +1208,7 @@
 	Hardware (AV1 has no software encoder)	Hardware (o AV1 não tem codificador por software)
 	Hardware (H.265 has no software encoder)	Hardware (o H.265 não tem codificador por software)
 	Hardware decoding	Decodificação por hardware
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Decodificação por hardware: Auto usa o decodificador de vídeo do sistema (VideoToolbox no macOS, Media Foundation no Windows, VA-API para H.264 e HEVC no Linux) para os fluxos suportados e o decodificador próprio do FilmCraft para os demais ou se o hardware falhar. Mídias já abertas mantêm seu decodificador até serem reabertas.
 	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Decodificação por hardware: Automático usa o decodificador de vídeo do sistema (VideoToolbox no macOS, Media Foundation no Windows, VA-API ou NVDEC para H.264 e HEVC no Linux) para os fluxos que ele suporta, e o decodificador próprio do FilmCraft para todo o resto ou se o hardware falhar. A mídia que já está aberta mantém seu decodificador até ser reaberta.
 	HD Anamorphic 1080 (1.333)	HD anamórfico 1080 (1.333)
 	HDR	HDR
@@ -1198,6 +1222,7 @@
 	Heading	Cabeçalho
 	Hide All Caption Tracks	Ocultar todas as faixas de legendas
 	Hide Back Face	Ocultar face traseira
+	Hide FilmCraft	Ocultar FilmCraft
 	High	Alta
 	High contrast with held highlights and deep shadows	Alto contraste com realces contidos e sombras profundas
 	High Cutoff	Corte de agudos
@@ -1255,6 +1280,7 @@
 	Image Overlay	Sobreposição de imagem
 	Image Sequence	Sequência de imagens
 	Immersive Video	Vídeo imersivo
+	Import a preset file…	Importar um arquivo de predefinição…
 	Import as Image Sequence	Importar como sequência de imagens
 	Import captions file…	Importar arquivo de legendas…
 	Import From	Importar de
@@ -1346,6 +1372,7 @@
 	Keyboard: US	Teclado: EUA
 	Keyboard: US (macOS)	Teclado: EUA (macOS)
 	Keying	Chaveamento
+	Label Color Presets	Predefinições de cores dos rótulos
 	Label Colors	Cores dos rótulos
 	Label Defaults	Rótulos padrão
 	Label speakers	Identificar locutores
@@ -1620,6 +1647,7 @@
 	Monospace only	Somente monoespaçadas
 	More colour in the less saturated areas	Mais cor nas áreas menos saturadas
 	More presets…	Mais predefinições…
+	More transport controls	Mais controles de transporte
 	Morph Cut	Corte com morphing
 	Mosaic (Legacy)	Mosaico (legado)
 	Mosaic In	Entrada em mosaico
@@ -1737,6 +1765,7 @@
 	no Korean font is installed on this system; the interface stays in English	nenhuma fonte coreana está instalada neste sistema; a interface permanece em inglês
 	No markers. Press M to add one.	Nenhum marcador. Pressione M para adicionar um.
 	No matching captions.	Nenhuma legenda correspondente.
+	No matching text.	Nenhum texto correspondente.
 	No model credits were built into this copy.	Esta cópia não inclui créditos de modelos.
 	No Motion	Sem movimento
 	No multi-camera clip at the playhead	Nenhum clipe multicâmera no cursor de reprodução
@@ -1744,6 +1773,7 @@
 	No saved guide templates.	Nenhum modelo de guias salvo.
 	No Scroll	Sem rolagem
 	No templates match.	Nenhum modelo corresponde.
+	No text graphics in this sequence. Add text with the Type tool.	Não há gráficos de texto nesta sequência. Adicione texto com a ferramenta Texto.
 	Noise & Grain	Ruído e granulação
 	Noise (Legacy)	Ruído (legado)
 	Noise Level	Nível de ruído
@@ -1816,6 +1846,7 @@
 	Opacity 0 → 100 % over the first second	Opacidade de 0 a 100 % durante o primeiro segundo
 	Opacity 100 → 0 % over the last second	Opacidade de 100 a 0 % durante o último segundo
 	Open a sequence to export	Abra uma sequência para exportar
+	Open a sequence to search its graphics	Abra uma sequência para pesquisar seus gráficos
 	Open a sequence to see its transcript	Abra uma sequência para ver sua transcrição
 	Open a sequence to work with captions	Abra uma sequência para trabalhar com legendas
 	Open Air	Ar livre
@@ -1834,9 +1865,11 @@
 	Open new tab	Abrir uma nova guia
 	Open Project…	Abrir projeto…
 	Open Search	Abrir pesquisa
+	Open this address in your browser yourself:	Abra este endereço no seu navegador:
 	Opened {url}	{url} aberto
 	OpenEXR	OpenEXR
 	OpenEXR Sequence	Sequência OpenEXR
+	Opens in your web browser: {url}	Abre no seu navegador web: {url}
 	Opens up the shadows	Abre as sombras
 	OpenTimelineIO…	OpenTimelineIO…
 	Optical Flow	Fluxo óptico
@@ -2151,9 +2184,11 @@
 	Reset All Parameters	Redefinir todos os parâmetros
 	Reset Duration	Redefinir duração
 	Reset Effect	Redefinir efeito
+	Reset Interface Zoom	Redefinir zoom da interface
 	Reset Parameter	Redefinir parâmetro
 	Reset to Grid	Redefinir para a grade
 	Reset to Saved Layout	Redefinir para o layout salvo
+	Resize floating panel	Redimensionar painel flutuante
 	Responsive Design - Position	Design responsivo - posição
 	Responsive Design - Time	Design responsivo - tempo
 	Restore Arrangement	Restaurar disposição
@@ -2179,6 +2214,7 @@
 	Reverse Match Frame	Quadro correspondente inverso
 	Reverse Speed	Inverter velocidade
 	Revert Remix	Reverter remixagem
+	Revert to the preset's colors and names	Reverter para as cores e nomes da predefinição
 	RGB Curves	Curvas RGB
 	RGB Split	Divisão RGB
 	RGB-White	RGB-branco
@@ -2216,6 +2252,7 @@
 	Rule Color	Cor da linha
 	Rusty	Enferrujado
 	Rusty Color	Cor enferrujada
+	Safe graphics mode: {mode}	Modo gráfico seguro: {mode}
 	Safe Margins	Margens de segurança
 	Same as Project	Igual ao projeto
 	Sample Rate	Taxa de amostragem
@@ -2243,6 +2280,7 @@
 	Saved preset “{name}”	Predefinição “{name}” salva
 	Saved template {path}	Modelo salvo em {path}
 	Saves the view, columns, sort, thumbnail and font size.	Salva a visualização, as colunas, a ordenação, a miniatura e o tamanho da fonte.
+	Saves this session's log and shows it in your file manager.	Salva o log desta sessão e o exibe no gerenciador de arquivos.
 	Scale (Degrees)	Escala (graus)
 	Scale Amount	Quantidade de escala
 	Scale Attribute Times	Escalar os tempos dos atributos
@@ -2387,6 +2425,7 @@
 	Show Clip Mismatch Warning dialog	Mostrar o aviso de incompatibilidade de clipe
 	Show clip names	Mostrar nomes dos clipes
 	Show Dot	Mostrar ponto
+	Show Duplicate Frame Markers	Mostrar marcadores de quadros duplicados
 	Show durations	Mostrar durações
 	Show Event Indicator	Mostrar o indicador de eventos
 	Show finished jobs	Mostrar tarefas concluídas
@@ -2407,6 +2446,7 @@
 	Show Rich Tool Tips	Mostrar dicas de ferramentas detalhadas
 	Show Role	Mostrar função
 	Show system compatibility issues at startup	Mostrar problemas de compatibilidade do sistema na inicialização
+	Show the presets folder	Mostrar a pasta de predefinições
 	Show Through Edits	Mostrar edições contíguas
 	Show Tool Tips	Mostrar dicas de ferramentas
 	Show Transport Controls	Mostrar controles de transporte
@@ -2416,6 +2456,8 @@
 	Show/Hide Effects and Sends	Mostrar/ocultar efeitos e envios
 	Show/Hide Tracks	Mostrar/ocultar faixas
 	Show/Hide Tracks…	Mostrar/ocultar faixas…
+	Shows a report on this computer.	Exibe um relatório sobre este computador.
+	Shows the version, community links and credits in a FilmCraft window.	Exibe a versão, links da comunidade e créditos em uma janela do FilmCraft.
 	Shrink	Encolher
 	Shutter Angle	Ângulo do obturador
 	Shuttle Left	Shuttle para a esquerda
@@ -2475,6 +2517,7 @@
 	Soft Vignette	Vinheta suave
 	Soft Wipe	Cortina suave
 	Soften Harshness	Suavizar a aspereza
+	software rendering	renderização por software
 	Solid	Sólido
 	Solid Colors	Cores sólidas
 	Solo	Solo
@@ -2539,6 +2582,7 @@
 	Start Voice-over Recording	Iniciar a gravação de narração
 	Start with an Empty Project	Começar com um projeto vazio
 	Start:	Início:
+	Start: {tc}	Início: {tc}
 	Starting Intensity	Intensidade inicial
 	Static Plates	Placas estáticas
 	Steel Blue	Azul-aço
@@ -2653,6 +2697,7 @@
 	Text Styling	Estilo do texto
 	Text to Speech	Texto para fala
 	TextPanel	Painel Texto
+	The default graphics are used from the next start.	Os gráficos padrão serão usados a partir da próxima inicialização.
 	The language changed but could not be saved: {e}	O idioma mudou, mas não pôde ser salvo: {e}
 	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	O cache de mídia guarda pré-visualizações renderizadas de projetos não salvos e outros arquivos que o FilmCraft pode recriar. Excluí-los é sempre seguro; o FilmCraft os recria quando necessário.
 	The project had not been saved yet.	O projeto ainda não tinha sido salvo.
@@ -2726,6 +2771,7 @@
 	Top Center	Superior central
 	Total Duration	Duração total
 	Touch	Touch
+	Track Color	Cor da faixa
 	Track Fx Editor	Editor de efeitos da faixa
 	Track Keyframes	Quadros-chave da faixa
 	Track Matte Key	Chave de matte de faixa
@@ -2756,6 +2802,7 @@
 	Transition Softness	Suavidade da transição
 	Transitions	Transições
 	Transmit Multi-Camera View	Transmitir visualização multicâmera
+	Transparency Grid	Grade de transparência
 	Transparent Video…	Vídeo transparente…
 	Trash	Lixeira
 	Travel Motion	Movimento de deslocamento
@@ -2793,6 +2840,7 @@
 	UI:	Interface:
 	Ultra Key	Ultra Key
 	Uncompressed (PCM)	Sem compressão (PCM)
+	Undock Panel	Desacoplar painel
 	Uniform Scale	Escala uniforme
 	Uniform Spacing	Espaçamento uniforme
 	Universal Counting Leader…	Cabeçote de contagem universal…
@@ -2817,6 +2865,7 @@
 	Upper Left	Superior esquerdo
 	Upper Right	Superior direito
 	Use Color Noise	Usar ruído colorido
+	Use Default Graphics	Usar gráficos padrão
 	Use Effect Shutter Angle	Usar o ângulo do obturador do efeito
 	Use End Color	Usar cor final
 	Use File	Usar arquivo
@@ -2971,6 +3020,7 @@
 	Without keyframes	Sem quadros-chave
 	Wonder Glow	Brilho maravilhoso
 	Work Area	Região de trabalho
+	Work Area Bar	Barra da região de trabalho
 	Working Color Space	Espaço de cores de trabalho
 	Working Color Space:	Espaço de cores de trabalho:
 	Wrap Back	Envolver para trás
@@ -2991,6 +3041,8 @@
 	YUV	YUV
 	Z Position	Posição Z
 	Z Rotation	Rotação Z
+	ZIP (1 scan line)	ZIP (1 linha de varredura)
+	ZIP (16 scan lines)	ZIP (16 linhas de varredura)
 	Zoom Amount	Quantidade de zoom
 	Zoom Blur	Desfoque de zoom
 	Zoom Program Monitor to 100%	Ampliar o monitor do programa para 100%
@@ -3010,6 +3062,7 @@
 	{mode} · no clip	{mode} · nenhum clipe
 	{mode} · no sequence	{mode} · nenhuma sequência
 	{name} (copy)	{name} (cópia)
+	{name} (Modified)	{name} (Modificado)
 	{name} (Simplified)	{name} (simplificada)
 	{name} (user)	{name} (usuário)
 	{name} - Edited	{name} - Editado

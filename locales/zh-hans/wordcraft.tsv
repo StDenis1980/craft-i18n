@@ -2262,3 +2262,17 @@
 	Uruguay	乌拉圭
 	Venezuela	委内瑞拉
 	South Africa	南非
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	图示
+	Insert Diagram	插入图示
+	Diagram Design	图示设计
+	Diagram Styles	图示样式
+	Decorative Text	装饰文字
+	Decorative Text Styles	装饰文字样式
+	select a diagram first	请先选择一个图示
+	this diagram was made in another program: WordCraft shows it but can't edit it	此图示由其他程序创建：WordCraft 可以显示，但无法编辑
+	this diagram can't be edited	无法编辑此图示
+@msg	a diagram holds at most {MAX_ITEMS} items	一个图示最多包含 {MAX_ITEMS} 个项目
+@msg	unknown decorative text style `{id}`	未知的装饰文字样式 `{id}`
+	select a shape or decorative text first	请先选择一个形状或装饰文字

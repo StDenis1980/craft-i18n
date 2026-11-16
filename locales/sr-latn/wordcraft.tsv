@@ -2204,3 +2204,17 @@
 	Uruguay	Urugvaj
 	Venezuela	Venecuela
 	South Africa	Južnoafrička Republika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Dijagram
+	Insert Diagram	Umetni dijagram
+	Diagram Design	Dizajn dijagrama
+	Diagram Styles	Stilovi dijagrama
+	Decorative Text	Ukrasni tekst
+	Decorative Text Styles	Stilovi ukrasnog teksta
+	select a diagram first	prvo izaberite dijagram
+	this diagram was made in another program: WordCraft shows it but can't edit it	ovaj dijagram je napravljen u drugom programu: WordCraft ga prikazuje, ali ne može da ga uređuje
+	this diagram can't be edited	ovaj dijagram ne može da se uređuje
+@msg	a diagram holds at most {MAX_ITEMS} items	dijagram može da sadrži najviše {MAX_ITEMS} stavki
+@msg	unknown decorative text style `{id}`	nepoznat stil ukrasnog teksta `{id}`
+	select a shape or decorative text first	prvo izaberite oblik ili ukrasni tekst

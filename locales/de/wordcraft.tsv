@@ -2265,3 +2265,17 @@
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Südafrika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Schema
+	Insert Diagram	Schema einfügen
+	Diagram Design	Schemaentwurf
+	Diagram Styles	Schemaformatvorlagen
+	Decorative Text	Dekorativer Text
+	Decorative Text Styles	Formatvorlagen für dekorativen Text
+	select a diagram first	zuerst ein Schema auswählen
+	this diagram was made in another program: WordCraft shows it but can't edit it	dieses Schema wurde in einem anderen Programm erstellt: WordCraft zeigt es an, kann es aber nicht bearbeiten
+	this diagram can't be edited	dieses Schema kann nicht bearbeitet werden
+@msg	a diagram holds at most {MAX_ITEMS} items	ein Schema enthält höchstens {MAX_ITEMS} Elemente
+@msg	unknown decorative text style `{id}`	unbekannte Formatvorlage für dekorativen Text `{id}`
+	select a shape or decorative text first	zuerst eine Form oder dekorativen Text auswählen

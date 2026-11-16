@@ -108,3 +108,14 @@ more than the `CRAFT_I18N_DIR` it already sets for the catalogs, at a pin that h
 Whether craft-common-actions' release workflow checks out craft-i18n and sets
 `CRAFT_I18N_DIR` and `CRAFT_I18N_REQUIRED=1`, as it does for craft-fonts, is a pending maintainer
 decision.
+
+## Initial import from TextureCraft Rust tables
+
+TextureCraft's pre-cutover catalogs are Rust tables rather than `i18n/*.tsv`.
+Use `python tools/export_texturecraft.py ../texturecraft --ref <pre-cutover SHA>`
+for its initial export. The tool uses rustc to decode the original strings, reuses
+identical shared rows and verifies that every original translation still resolves.
+`--check` verifies without rewriting catalogs. Record the full source SHA in
+`ATTRIBUTION.md`. This is an initial import, not an incremental merge: do not run
+write mode over independently edited catalogs. After cutover, edit the TSV files
+here directly. Coordination: storytold/texturecraft#419.

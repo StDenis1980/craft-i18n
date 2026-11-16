@@ -2703,3 +2703,17 @@ preview	Title	Titre
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Afrique du Sud
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagramme
+	Insert Diagram	Insérer un diagramme
+	Diagram Design	Conception du diagramme
+	Diagram Styles	Styles de diagramme
+	Decorative Text	Texte décoratif
+	Decorative Text Styles	Styles de texte décoratif
+	select a diagram first	sélectionnez d’abord un diagramme
+	this diagram was made in another program: WordCraft shows it but can't edit it	ce diagramme a été créé dans un autre programme : WordCraft l’affiche mais ne peut pas le modifier
+	this diagram can't be edited	ce diagramme ne peut pas être modifié
+@msg	a diagram holds at most {MAX_ITEMS} items	un diagramme contient au maximum {MAX_ITEMS} éléments
+@msg	unknown decorative text style `{id}`	style de texte décoratif inconnu `{id}`
+	select a shape or decorative text first	sélectionnez d’abord une forme ou du texte décoratif

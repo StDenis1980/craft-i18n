@@ -2545,3 +2545,17 @@ preview	Title	Örnek
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Güney Afrika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diyagram
+	Insert Diagram	Diyagram Ekle
+	Diagram Design	Diyagram Tasarımı
+	Diagram Styles	Diyagram Stilleri
+	Decorative Text	Dekoratif Metin
+	Decorative Text Styles	Dekoratif Metin Stilleri
+	select a diagram first	önce bir diyagram seçin
+	this diagram was made in another program: WordCraft shows it but can't edit it	bu diyagram başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
+	this diagram can't be edited	bu diyagram düzenlenemez
+@msg	a diagram holds at most {MAX_ITEMS} items	bir diyagram en fazla {MAX_ITEMS} öğe içerebilir
+@msg	unknown decorative text style `{id}`	bilinmeyen dekoratif metin stili `{id}`
+	select a shape or decorative text first	önce bir şekil veya dekoratif metin seçin

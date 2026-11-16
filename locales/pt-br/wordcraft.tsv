@@ -10,20 +10,36 @@
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
-
 	(All)	(Todos)
 	(no style)	(sem estilo)
 	(no suggestions)	(sem sugestões)
 	(normal text)	(texto normal)
 	(not matched)	(sem correspondência)
 	(picture or object)	(imagem ou objeto)
+	*Bold* and _italic_ as real formatting	*Negrito* e _itálico_ como formatação real
 	0 or More Characters	0 ou mais caracteres
 	1. Formatting restrictions	1. Restrições de formatação
 	1.5 Line Spacing	Espaçamento de 1,5 linha
 	1/4 Em Space	Espaço de 1/4 de eme
+	1×2 Empty Matrix	Matriz vazia 1×2
+	1×3 Empty Matrix	Matriz vazia 1×3
 	2. Editing restrictions	2. Restrições de edição
+	2×1 Empty Matrix	Matriz vazia 2×1
+	2×2 Determinant	Determinante 2×2
+	2×2 Empty Matrix	Matriz vazia 2×2
+	2×2 Identity Matrix	Matriz identidade 2×2
+	2×2 Identity Matrix (sparse)	Matriz identidade 2×2 (esparsa)
+	2×2 Matrix in Brackets	Matriz 2×2 entre colchetes
+	2×2 Matrix in Double Bars	Matriz 2×2 entre barras duplas
+	2×2 Matrix in Parentheses	Matriz 2×2 entre parênteses
+	2×3 Empty Matrix	Matriz vazia 2×3
 	3-D	3D
 	3. Start enforcement	3. Aplicar a proteção
+	3×1 Empty Matrix	Matriz vazia 3×1
+	3×2 Empty Matrix	Matriz vazia 3×2
+	3×3 Empty Matrix	Matriz vazia 3×3
+	3×3 Identity Matrix	Matriz identidade 3×3
+	3×3 Identity Matrix (sparse)	Matriz identidade 3×3 (esparsa)
 	<< Less	<< Menos
 	<< Remove	<< Remover
 	a drawing canvas can't be ungrouped	uma tela de desenho não pode ser desagrupada
@@ -34,25 +50,36 @@
 	A mail merge field	Um campo de mesclagem
 	A numbered sequence (figures, tables…)	Uma sequência numerada (figuras, tabelas…)
 	A password is required to open this document.	É necessária uma senha para abrir este documento.
+	a shape inside a drawing canvas is placed by the canvas	uma forma dentro de uma tela de desenho é posicionada pela tela
 	A table of contents	Um sumário
+	A xor B	A xor B
 	A, B, C, …	A, B, C, …
 	a, b, c, …	a, b, c, …
+	AaBbCcDd	AaBbCcDd
 	AaBbYyZz	AaBbYyZz ÇçÃã
 	About WordCraft	Sobre o WordCraft
 	Above Chart	Acima do gráfico
 	Above the item	Acima do item
 	Above/below	Acima/abaixo
+	Absolute value cases	Casos de valor absoluto
 	Accent	Acento
 	Accent Gradient	Gradiente de destaque
 	Accent with Reflection	Destaque com reflexo
 	Accent {n}	Ênfase {n}
+	Accents	Acentos
 	Accept	Aceitar
 	Accept All Changes	Aceitar todas as alterações
+	Accept All Changes and Stop Tracking	Aceitar todas as alterações e parar o controle
+	Accept and Move to Next	Aceitar e ir para a próxima
 	Accept This Change	Aceitar esta alteração
 	Accessed on	Acessado em
 	Accessibility Pane	Painel de acessibilidade
 	Account	Conta
+	Acute	Acento agudo
 	Add >>	Adicionar >>
+	Add a language	Adicionar um idioma
+	Add a language…	Adicionar um idioma…
+	Add a period with double-space	Adicionar ponto final com espaço duplo
 	Add a Table	Adicionar uma tabela
 	Add at least one field.	Adicione pelo menos um campo.
 	Add Chart Element	Adicionar elemento ao gráfico
@@ -73,6 +100,7 @@
 	Add tab stop at:	Adicionar tabulação em:
 	Add Text	Adicionar texto
 	Add the chapter number	Adicionar o número do capítulo
+	Add to AutoCorrect	Adicionar à AutoCorreção
 	Add to Document	Adicionar ao documento
 	Add to Quick Access Toolbar	Adicionar à Barra de Ferramentas de Acesso Rápido
 	Add to Style Gallery	Adicionar à galeria de estilos
@@ -92,11 +120,14 @@
 	Address\nBlock	Bloco de\nendereço
 	Advanced Find	Localização avançada
 	Advanced Find…	Localização avançada…
+	Advanced Properties…	Propriedades avançadas…
+	Afrikaans	Africâner
 	After:	Depois:
 	Agents	Agentes
 	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Agentes conectados ao WordCraft podem mostrar mensagens para você pelo assistente. Quando silenciados, eles são avisados de que você prefere não recebê-las.
 	Ah, Latin. The language of deadlines.	Ah, o latim. A língua oficial dos prazos.
 	Ah, the editing phase. My favourite. Very decisive.	Ah, a fase de edição. Minha favorita. Muito decidida.
+	Albanian	Albanês
 	Align Bottom Center	Alinhar abaixo ao centro
 	Align Bottom Left	Alinhar abaixo à esquerda
 	Align Bottom Right	Alinhar abaixo à direita
@@ -107,6 +138,8 @@
 	Align Top Left	Alinhar acima à esquerda
 	Align Top Right	Alinhar acima à direita
 	Aligned at:	Alinhado em:
+	All - Linear	Tudo - Linear
+	All - Professional	Tudo - Profissional
 	All Borders	Todas as bordas
 	All caps	Tudo em maiúsculas
 	All Commands	Todos os comandos
@@ -128,9 +161,17 @@
 	Alt:	Alt.:
 	Alt\nText	Texto\nalternativo
 	an agent	um agente
+	An installed Language pack is used after this folder.	Um pacote de idioma instalado é usado depois desta pasta.
 	And	E
+	Angle Brackets	Colchetes angulares
+	Angle Brackets with Separator	Colchetes angulares com separador
+	Angle Brackets with Two Separators	Colchetes angulares com dois separadores
+	Angola	Angola
 	Animate the caret (it glides and fades)	Animar o ponto de inserção (desliza e esmaece)
 	Animation effects:	Efeitos de animação:
+	Annotation Reference	Referência de anotação
+	Annotation Subject	Assunto da anotação
+	Annotation Text	Texto da anotação
 	Annoying	Irritante
 	Another file	Outro arquivo
 	Any Character	Qualquer caractere
@@ -139,6 +180,8 @@
 	Any Letter	Qualquer letra
 	Anyone can open this document. Encrypt it with a password to keep it private.	Qualquer pessoa pode abrir este documento. Criptografe-o com uma senha para mantê-lo privado.
 	Anyone who opens the document will need this password.	Quem abrir o documento precisará desta senha.
+	APA	APA
+	Applies the next time WordCraft starts.	Aplica-se na próxima vez que o WordCraft for iniciado.
 	Apply as you type	Aplicar ao digitar
 	Apply Asian line-breaking rules (kinsoku)	Aplicar as regras asiáticas de quebra de linha (kinsoku)
 	Apply Character Style	Aplicar estilo de caractere
@@ -146,13 +189,17 @@
 	Apply Style	Aplicar estilo
 	Apply Styles	Aplicar estilos
 	Arabic	Arábico
+numerals	Arabic	Arábicos
 	Arch Down	Arco para baixo
 	Arch Up	Arco para cima
+	Argentina	Argentina
+	Armenian	Armênio
 	Arrange\nAll	Organizar\ntudo
 	Article I.	Artigo I.
 	Artistic Effects	Efeitos artísticos
 	As Recommended	Recomendada
 	As you type	Enquanto você digita
+	ASAP	O MAIS RÁPIDO POSSÍVEL
 	Asian text font:	Fonte de texto asiático:
 	Asian Typography	Tipografia asiática
 	Assistant	Assistente
@@ -163,10 +210,14 @@
 	Atmosphere	Atmosfera
 	Attach Template	Anexar modelo
 	Attach…	Anexar…
+	Australia	Austrália
+	Austria	Áustria
 	Auto	Auto
 	Auto ({percent}%)	Auto ({percent}%)
+	Auto orientation	Orientação automática
 	AutoCorrect	Autocorreção
 	AutoCorrect Options	Opções de autocorreção
+	AutoCorrect Options…	Opções de AutoCorreção…
 	AutoFit	Autoajuste
 	AutoFit behavior	Comportamento de autoajuste
 	AutoFit Column by Double-Clicking	Autoajustar coluna com clique duplo
@@ -182,6 +233,8 @@
 	Automatic numbered lists	Listas numeradas automáticas
 	Automatic Table 1 (3 levels)	Tabela automática 1 (3 níveis)
 	Automatic Table 2 (2 levels)	Tabela automática 2 (2 níveis)
+	Automatically add words to list (First Letter)	Adicionar palavras à lista automaticamente (Primeira Letra)
+	Automatically add words to list (INitial CAps)	Adicionar palavras à lista automaticamente (DUas MAiúsculas)
 	Automatically hyphenate document	Hifenizar o documento automaticamente
 	Automatically Update Document Styles	Atualizar automaticamente os estilos do documento
 	Automatically update document styles	Atualizar automaticamente os estilos do documento
@@ -193,27 +246,39 @@
 	AutoSave saves every change to the file (needs a saved document)	O salvamento automático grava cada alteração no arquivo (requer um documento já salvo)
 	AutoSave writes your changes to the file a moment after you stop typing.	O salvamento automático grava suas alterações no arquivo pouco depois que você para de digitar.
 	AutoText	Autotexto
+	B4 (JIS)   10.12" × 14.33"	B4 (JIS)   10,12" × 14,33"
+	B5 (JIS)   7.17" × 10.12"	B5 (JIS)   7,17" × 10,12"
 	Balloons	Balões
 	Banded Columns	Colunas listradas
 	Banded Rows	Linhas listradas
 	Base text:	Texto base:
 	Based on: {style}	Baseado em: {style}
+	Baseline Dots	Pontos na linha de base
 	Basic Cycle	Ciclo básico
 	Basic List	Lista básica
+	Basic Math	Matemática básica
 	Basic Matrix	Matriz básica
 	Basic Process	Processo básico
 	Basic Pyramid	Pirâmide básica
 	Basic Radial	Radial básico
 	Basic Venn	Venn básico
+	Bayes' rule	Regra de Bayes
 	Before:	Antes:
 	Beginning of Word	Início da palavra
 	Behind Text	Atrás do texto
+	Belarus	Belarus
+	Belarusian	Bielorrusso
+	Belgium	Bélgica
 	Below text	Abaixo do texto
 	Below the item	Abaixo do item
 	Between	Entre parágrafos
 	Bibliography	Bibliografia
 	Binary assets added	Recursos binários adicionados
 	Binary assets removed	Recursos binários removidos
+	Binomial Coefficient	Coeficiente binomial
+	Binomial Coefficient (angle)	Coeficiente binomial (angular)
+	Binomial Coefficient with Angle Brackets	Coeficiente binomial com colchetes angulares
+	Binomial expansion of (x+a)ⁿ	Expansão binomial de (x+a)ⁿ
 	Blank	Em branco
 	Blank (Three Columns)	Em branco (três colunas)
 	Blank document	Documento em branco
@@ -221,16 +286,23 @@
 	Block\nAuthors	Bloquear\nautores
 	Blue:	Azul:
 	Body Text	Corpo do texto
+	Body text in a short paragraph to show spacing.	Texto do corpo em um parágrafo curto para mostrar o espaçamento.
 	Bold choice. Ctrl+Z is right there if you need it.	Escolha ousada. O Ctrl+Z está logo ali, se precisar.
+	Bolivia	Bolívia
 	Book	Livro
+	Book Title	Título do livro
 	Book title	Título do livro
 	Bookmark	Indicador
 	Bookmark name:	Nome do indicador:
+	Bookmark text	Texto do indicador
+	Bookmarks	Indicadores
 	Border lines	Linhas de borda
 	Border Painter	Pincel de bordas
 	Border\nPainter	Pincel\nde bordas
 	Borders and Shading	Bordas e sombreamento
 	Borders and Shading…	Bordas e sombreamento…
+	Bosnia and Herzegovina	Bósnia e Herzegovina
+	Bosnian	Bósnio
 	Both Sides	Ambos os lados
 	Bottom Border	Borda inferior
 	Bottom Left Cell	Célula inferior esquerda
@@ -238,28 +310,46 @@
 	Bottom of Page	Fim da página
 	Bottom Right Cell	Célula inferior direita
 	Box	Caixa
+	Boxed Formula	Fórmula emoldurada
+	Boxed Formula (example)	Fórmula emoldurada (exemplo)
+	Boxed Formulas	Fórmulas emolduradas
+	Braces	Chaves
+	Braces with Separator	Chaves com separador
 	Bracket	Colchete
+	Brackets	Colchetes
+	Brackets with Separators	Colchetes com separadores
+	Brazil	Brasil
 	Break Link	Quebrar link
 	Breaks	Quebras
+	Breve	Breve
 	Bright Green	Verde-vivo
+	Brighter +20%	Mais claro +20%
+	Brightness, contrast and sharpness	Brilho, contraste e nitidez
 	Bring Forward	Trazer para frente
 	Browse in WordCraft…	Procurar no WordCraft…
 	Building Block Gallery Content Control	Controle de conteúdo da galeria de blocos de construção
+	Built in	Integrado
 	Built-In	Internas
+	Built-in Heading styles	Estilos internos de título
 	Built-in style	Estilo integrado
 	Built-in styles can't be deleted.	Estilos integrados não podem ser excluídos.
+	Bulgarian	Búlgaro
 	Bullet Library	Biblioteca de marcadores
 	Bullets	Marcadores
 	By author	Por autor
+	Cabo Verde	Cabo Verde
 	Calendar	Calendário
 	Can't be deleted	Não pode ser excluído
+	Can't find a command? Press Alt+Q and type what you want to do.	Não encontra um comando? Pressione Alt+Q e digite o que deseja fazer.
 	Can't find a command? Press {key} and type what you want to do.	Não encontra um comando? Pressione {key} e digite o que você quer fazer.
 	can't split at the first row	não é possível dividir a tabela na primeira linha
+	Canada	Canadá
 	Canvas Member	Item da tela
 	Capitalize Each Word	Capitalizar cada palavra
 	Capitalize first letter of sentences	Primeira letra das frases em maiúscula
 	Capitalize first letter of table cells	Primeira letra das células em maiúscula
 	Capitalize names of days	Nomes dos dias em maiúscula
+	Capitalize the first word of a sentence	Iniciar a primeira palavra da frase com maiúscula
 	Caption Numbering	Numeração de legendas
 	Caption text	Texto da legenda
 	Caption:	Legenda:
@@ -267,18 +357,26 @@
 	Careful, any further back and we'll undo the invention of paper.	Cuidado: mais um pouco e a gente desfaz a invenção do papel.
 	Caret Character	Acento circunflexo
 	Case changes	Alterações de maiúsculas
+	Cases (Three Conditions)	Casos (três condições)
+	Cases (Two Conditions)	Casos (duas condições)
+	Cases and Stacks	Casos e empilhamentos
+	Catalan	Catalão
+	Catalan (Valencian)	Catalão (valenciano)
 	Categories	Categorias
 	Categories:	Categorias:
 	Category {n}	Categoria {n}
+	Ceiling	Teto
 	Cell	Célula
 	Cell Margins	Margens das células
 	Cell Size	Tamanho das células
 	Cell\nMargins	Margens\ndas células
 	Center	Centralizar
 	Center Glow	Brilho central
+	Centered as Group	Centralizado como grupo
 	Change Case	Alterar maiúsculas/minúsculas
 	Change Chart Type	Alterar tipo de gráfico
 	Change Colors	Alterar cores
+	Change in y over change in x	Variação em y sobre variação em x
 	Change Layout	Alterar layout
 	Change List Level	Alterar nível da lista
 	Change Password…	Alterar senha…
@@ -288,10 +386,21 @@
 	Change Structure	Alterar estrutura
 	Change to Display	Alterar para exibição
 	Change to Inline	Alterar para embutida
+	Change to Level 1	Alterar para Nível 1
+	Change to Level 2	Alterar para Nível 2
+	Change to Level 3	Alterar para Nível 3
+	Change to Level 4	Alterar para Nível 4
+	Change to Level 5	Alterar para Nível 5
+	Change to Level 6	Alterar para Nível 6
+	Change to Level 7	Alterar para Nível 7
+	Change to Level 8	Alterar para Nível 8
+	Change to Level 9	Alterar para Nível 9
+	Change to:	Alterar para:
 	Change\nChart Type	Alterar tipo\nde gráfico
 	Change\nColors	Alterar\ncores
 	Changed lines:	Linhas alteradas:
 	Changes	Alterações
+	Change…	Alterar…
 	Chapter 1	Capítulo 1
 	Chapter in a book	Capítulo de livro
 	Chapters begin at:	Os capítulos começam em:
@@ -313,23 +422,33 @@
 	Chart Layouts	Layouts do gráfico
 	Chart Title	Título do gráfico
 	charts and diagrams can't be moved or resized yet	gráficos e diagramas ainda não podem ser movidos nem redimensionados
+	Check	Cáron
 	Check Accessibility	Verificar acessibilidade
 	Check Box Content Control	Controle de conteúdo de caixa de seleção
 	Check Compatibility	Verificar compatibilidade
 	Check for Errors	Verificar erros
+	Check for\nUpdates…	Verificar se há\natualizações…
 	Check Spelling as You Type	Verificar ortografia ao digitar
 	Check spelling as you type	Verificar a ortografia enquanto você digita
 	Check\nAccessibility	Verificar\nacessibilidade
 	Checked styles are allowed:	Os estilos marcados são permitidos:
 	Checked symbol	Símbolo marcado
+	Checking for updates…	Verificando se há atualizações…
 	Chevron Down	Divisa para baixo
 	Chevron Up	Divisa para cima
+	Chicago	Chicago
+	Chile	Chile
+	China	China
 	Chinese (Simplified)	Chinês (simplificado)
 	Chinese (Traditional)	Chinês (tradicional)
 	Choose a command	Escolha um comando
 	Choose a shortcut	Escolha um atalho
 	Choose List Item	Escolher item da lista
 	Choose the sheet that holds the recipients.	Escolha a planilha que contém os destinatários.
+	Circle area from its radius	Área do círculo a partir do seu raio
+	Circled Dot	Ponto circulado
+	Circled Plus	Mais circulado
+	Circled Times	Multiplicação circulada
 	Citation Style	Estilo de citação
 	Citations	Citações
 	Citations & Bibliography	Citações e bibliografia
@@ -346,6 +465,7 @@
 	Clipboard Contents	Conteúdo da área de transferência
 	Clipboard Items	Itens da área de transferência
 	Clipboard Pane	Painel da área de transferência
+	Close Document	Fechar documento
 	Close Equation	Fechar equação
 	Close Header and Footer	Fechar cabeçalho e rodapé
 	Close Outline View	Fechar estrutura de tópicos
@@ -357,6 +477,8 @@
 	Collapse Selection	Recolher seleção
 	Collate copies	Agrupar cópias
 	Collect entries from:	Coletar entradas de:
+	Colombia	Colômbia
+	Colon Equal	Dois-pontos igual
 	Color model:	Modelo de cor:
 	Color only	Somente cor
 	Color: {color}	Cor: {color}
@@ -372,6 +494,15 @@
 	Commas	Vírgulas
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Comentários ao lado de cada página e alterações controladas em PDFs, impressões e imagens; uma lista de comentários no final de páginas da web, Markdown e texto.
 	Comments Pane	Painel de comentários
+	Common Accent Objects	Objetos de acentuação comuns
+	Common Brackets	Colchetes comuns
+	Common Fractions	Frações comuns
+	Common Functions	Funções comuns
+	Common Large Operators	Operadores grandes comuns
+	Common Operator Structures	Estruturas de operadores comuns
+	Common Operators	Operadores comuns
+	Common Radicals	Radicais comuns
+	Common Subscripts and Superscripts	Subscritos e sobrescritos comuns
 	Communication	Comunicação
 	Community\nDiscord	Comunidade\nDiscord
 	Compact	Compacto
@@ -384,6 +515,7 @@
 	Compress punctuation at the start of a line	Comprimir a pontuação no início da linha
 	Conference	Conferência
 	Conference paper	Artigo de conferência
+	CONFIDENTIAL	CONFIDENCIAL
 	Confirm password:	Confirmar senha:
 	Connect Shapes	Conectar formas
 	Container Title	Título do contêiner
@@ -391,27 +523,50 @@
 	Content Control Properties	Propriedades do controle de conteúdo
 	Contents can't be edited	O conteúdo não pode ser editado
 	Context	Contexto
+numerals	Context	Contexto
 	Continue from previous section	Continuar da seção anterior
+	Continue without restoring	Continuar sem restaurar
 	Continuous	Contínua
 	Continuous numbering	Numeração contínua
+	Contour Integral	Integral de contorno
+	Contour Integral with Limits	Integral de contorno com limites
+	Contour Integral with Stacked Limits	Integral de contorno com limites empilhados
+	Contour Integrals	Integrais de contorno
 	Controls	Controles
 	Conversions	Conversões
+	Convert between built-up and linear form	Converter entre formato profissional e linear
 	Convert Notes	Converter notas
 	Convert Text to Table	Converter texto em tabela
 	Convert Text to Table…	Converter texto em tabela…
 	Convert to Shapes	Converter em formas
 	Convert to Text	Converter em texto
+	Coproduct	Coproduto
+	Coproduct with Limits	Coproduto com limites
+	Coproduct with Lower Limit	Coproduto com limite inferior
+	Coproduct with Subscript-Superscript Limits	Coproduto com limites em subscrito e sobrescrito
 	Copy Formatting	Copiar formatação
 	Copy of the text a bookmark marks	O texto de um indicador
 	Copy Styles	Copiar estilos
 	Copy to	Copiar para
 	Copyright Sign	Sinal de copyright
+	Corporate Author	Autor institucional
 	Correct accidental usage of cAPS LOCK key	Corrigir o uso acidental da tecla cAPS LOCK
 	Correct TWo INitial CApitals	Corrigir DUas INiciais MAiúsculas
 	Corrections	Correções
+	Cosecant Function	Função cossecante
+	Cosine 2x	Cosseno de 2x
+	Cosine Function	Função cosseno
+	Costa Rica	Costa Rica
+	Cotangent Function	Função cotangente
+	Could not check for updates:\n{error}	Não foi possível verificar se há atualizações:\n{error}
 	Couldn't download {name}: {error}	Não foi possível baixar {name}: {error}
+	Couldn't get the list of languages: {error}	Não foi possível obter a lista de idiomas: {error}
+	Couldn't install: {error}	Não foi possível instalar: {error}
 	Couldn't make WordCraft the default: {error}	Não foi possível tornar o WordCraft o aplicativo padrão: {error}
 	Couldn't open {path}: {error}	Não foi possível abrir {path}: {error}
+	Couldn't remove: {error}	Não foi possível remover: {error}
+	Couldn't save {name}, so it is still open and nothing was lost: {error}	Não foi possível salvar {name}, portanto ele continua aberto e nada foi perdido: {error}
+	Couldn't turn on downloading: {error}	Não foi possível ativar o download: {error}
 	Count by:	Intervalo:
 	Count words in text boxes and notes	Contar palavras em caixas de texto e notas
 	Courtesy Title	Pronome de tratamento
@@ -424,36 +579,25 @@
 	Create New Style	Criar novo estilo
 	Create Source	Criar fonte
 	Croatian	Croata
+	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	O corte na página funciona em imagens não rotacionadas: defina a rotação como 0° primeiro ou use as caixas de corte
 	Cross-reference	Referência cruzada
 	Cross-reference:	Referência cruzada:
-	Dark Blue	Azul-escuro
-	Dark Red	Vermelho-escuro
-	Dark Yellow	Amarelo-escuro
-	East	Leste
-	Emphasis	Ênfase
-	Gray-25%	Cinza-25%
-	Gray-50%	Cinza-50%
-	Insert reference to:	Inserir referência a:
-	Intense Emphasis	Ênfase intensa
-	No Spacing	Sem espaçamento
-	Nothing of this type in the document.	Nenhum item deste tipo no documento.
-	Strong	Forte
-	Subtle Emphasis	Ênfase sutil
-	Subtle Reference	Referência sutil
-	Teal	Verde-azulado
-	TOC {n}	Sumário {n}
-	tOGGLE cASE	aLTERNAR mAIÚSCULAS/mINÚSCULAS
-	Turquoise	Turquesa
-	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
-	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
-	{key} turns the selected text into a link.	{key} transforma o texto selecionado em um link.
-	{key} counts your words, characters and paragraphs.	{key} conta suas palavras, caracteres e parágrafos.
+	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter inicia uma nova página. Muito mais prático do que pressionar Enter repetidamente.
+	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H localiza e substitui texto, formatação e caracteres especiais.
+	Ctrl+K turns the selected text into a link.	Ctrl+K transforma o texto selecionado em um link.
+	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G conta suas palavras, caracteres e parágrafos.
+	Cuba	Cuba
+	Cube Root	Raiz cúbica
+	Current - Linear	Atual - Linear
+	Current - Professional	Atual - Profissional
+	Current Document	Documento atual
 	Current Position	Posição atual
 	Current record	Registro atual
 	Current style: {style}	Estilo atual: {style}
 	Curved Arrow Connector	Conector curvo com seta
 	Curved Connector	Conector curvo
 	Custom dictionary	Dicionário personalizado
+	Custom Document Properties	Propriedades personalizadas do documento
 	Custom Margins…	Margens personalizadas…
 	Custom mark:	Marca personalizada:
 	Custom range	Intervalo personalizado
@@ -468,12 +612,17 @@
 	Customize Ribbon	Personalizar Faixa de Opções
 	Customize the Ribbon…	Personalizar a Faixa de Opções…
 	Cycle	Ciclo
+	Cyprus	Chipre
 	Czech	Tcheco
 	Danish	Dinamarquês
+	Dark Blue	Azul-escuro
 	Dark Mode	Modo escuro
 	Dark page (white text on black)	Página escura (texto branco sobre preto)
+	Dark Red	Vermelho-escuro
 	Dark Variations	Variações escuras
 	Dark with Shadow	Escuro com sombra
+	Dark Yellow	Amarelo-escuro
+	Darker −20%	Mais escuro −20%
 	Darkroom	Câmara escura
 	Data Labels	Rótulos de dados
 	Date & Time	Data e hora
@@ -487,6 +636,7 @@
 	Decrease Indent	Diminuir recuo
 	Deep	Profundo
 	Default formatting	Formatação padrão
+	Default Paragraph Font	Fonte padrão do parágrafo
 	Default tab stops:	Tabulações padrão:
 	Define New Bullet	Definir novo marcador
 	Define New Multilevel List	Definir nova lista de vários níveis
@@ -511,8 +661,11 @@
 	Delete Table Style	Excluir estilo de tabela
 	Deletions:	Exclusões:
 	Delivery address:	Endereço de entrega:
+	Delta Equal To	Delta igual a
+	Delta over arrow	Delta sobre seta
 	Demote	Rebaixar
 	Demote to Body Text	Rebaixar a corpo do texto
+	Derivative as a limit	Derivada como um limite
 	Describe what this object shows, for people who can't see it.	Descreva o que este objeto mostra, para quem não pode vê-lo.
 	Describe what this table shows, for people who can't see it.	Descreva o que esta tabela mostra, para quem não pode vê-la.
 	Design	Design
@@ -521,15 +674,25 @@
 	Detect language automatically	Detectar o idioma automaticamente
 	Developer	Desenvolvedor
 	development build	versão de desenvolvimento
+	Diagonal Dots	Pontos diagonais
 	Dictate	Ditar
 	Dictionaries	Dicionários
 	Dictionaries folder:	Pasta de dicionários:
+	Dictionary files	Arquivos de dicionário
 	Different First Page	Primeira página diferente
 	Different Odd & Even Pages	Páginas ímpares e pares diferentes
+	Differential	Diferencial
+	Differential theta	Diferencial teta
+	Differential x	Diferencial x
+	Differential y	Diferencial y
+	Differentials	Diferenciais
 	Direct formatting	Formatação direta
 	Directory	Diretório
+	Discard the recovery copy of {name}?	Descartar a cópia de recuperação de {name}?
+	Discard…	Descartar…
 	Discord community	Comunidade do Discord
 	Display for Review	Exibir para revisão
+	Display server:	Servidor de exibição:
 	Display text	Texto exibido
 	Distance from text	Distância do texto
 	Distance from text:	Distância do texto:
@@ -540,8 +703,11 @@
 	Distributed	Distribuído
 	Do Not Check Spelling or Grammar	Não verificar ortografia nem gramática
 	Do not check spelling or grammar	Não verificar ortografia nem gramática
+	DO NOT COPY	NÃO COPIAR
 	Do Not Show in TOC	Não mostrar no sumário
 	Do you want to save changes to {name}?	Deseja salvar as alterações em {name}?
+	Dock Left	Fixar à esquerda
+	Dock Right	Fixar à direita
 	Document End	Fim do documento
 	Document Formatting	Formatação do documento
 	Document Grid	Grade do documento
@@ -556,6 +722,7 @@
 	Documents you open will show up here.	Os documentos que você abrir aparecerão aqui.
 	Does not contain	Não contém
 	DOI	DOI
+	Dominican Republic	República Dominicana
 	Don't add space between paragraphs of the same style	Não adicionar espaço entre parágrafos do mesmo estilo
 	Don't capitalize after:	Não colocar maiúscula depois de:
 	Don't hyphenate	Não hifenizar
@@ -566,13 +733,32 @@
 	Dot-dot-dash	Ponto-ponto-traço
 	Dotted	Pontilhada
 	Double	Dupla
+	Double Bar	Barra dupla
 	Double Closing Quote	Aspas duplas de fechamento
+	Double Dot	Ponto duplo
+	Double Integral	Integral dupla
+	Double Integral with Limits	Integral dupla com limites
+	Double Integral with Stacked Limits	Integral dupla com limites empilhados
+	Double Left Arrow with Text Above	Seta dupla para a esquerda com texto acima
+	Double Left Arrow with Text Below	Seta dupla para a esquerda com texto abaixo
+	Double Left Right Arrow with Text Above	Seta dupla bidirecional com texto acima
+	Double Left Right Arrow with Text Below	Seta dupla bidirecional com texto abaixo
 	Double Opening Quote	Aspas duplas de abertura
+	Double Right Arrow with Text Above	Seta dupla para a direita com texto acima
+	Double Right Arrow with Text Below	Seta dupla para a direita com texto abaixo
 	Double Spacing	Espaçamento duplo
+	Double Square Brackets	Colchetes duplos
 	Double Strikethrough	Tachado duplo
 	Double strikethrough	Tachado duplo
+	Double summation	Somatório duplo
 	Double Underline	Sublinhado duplo
+	Double Vertical Bars	Barras verticais duplas
 	Doughnut	Rosca
+	Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads.	O botão Baixar obtém o dicionário do acervo de dicionários do LibreOffice para a pasta de dicionários. Cada um mantém sua própria licença (GPL, LGPL ou MPL) e permanece um arquivo separado que o WordCraft apenas lê.
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	O download está desativado. Clicar em “Adicionar um idioma…” ou “Instalar” o ativa: o WordCraft passa a baixar pacotes de idioma e fontes do GitHub.
+	Downloading the {language} dictionary…	Baixando o dicionário de {language}…
+	Downloading…	Baixando…
+	DRAFT	RASCUNHO
 	Drag a rectangle to draw a table, or a line across cells to split them. Esc stops.	Arraste um retângulo para desenhar uma tabela, ou uma linha sobre as células para dividi-las. Esc encerra.
 	Draw Ink	Desenhar tinta
 	Draw Table	Desenhar tabela
@@ -587,7 +773,10 @@
 	Drop-Down List Content Control	Controle de conteúdo de lista suspensa
 	Dropped	No texto
 	Drops all formatting and pastes plain text.	Remove toda a formatação e cola texto simples.
+	Dutch, Nederlands or nl	Holandês, Nederlands ou nl
 	E-mail Messages	Mensagens de email
+	East	Leste
+	Ecuador	Equador
 	Edit Comment	Editar comentário
 	Edit Data	Editar dados
 	Edit Document	Editar documento
@@ -607,13 +796,19 @@
 	Editing footnote	Editando nota de rodapé
 	Editing header/footer	Editando cabeçalho/rodapé
 	Editing in this document is restricted.	A edição deste documento está restrita.
+	Editing is blocked in Viewing mode.	A edição está bloqueada no modo de visualização.
 	Editing — edit the document directly	Edição — edite o documento diretamente
 	Edition	Edição
 	Editor	Editor
+	Egypt	Egito
+	El Salvador	El Salvador
 	Elbow Arrow Connector	Conector angular com seta
 	Elbow Connector	Conector angular
 	Em Space	Espaço eme
 	Emboss	Em relevo
+	Emphasis	Ênfase
+	Emphasis Mark	Marca de ênfase
+	Empty Matrices	Matrizes vazias
 	En Dash	Meia-risca
 	En Space	Espaço ene
 	Enclose Characters	Envolver caracteres
@@ -623,6 +818,8 @@
 	End of document	Fim do documento
 	End of section	Fim da seção
 	End of Word	Fim da palavra
+	Endnote Reference	Referência de nota de fim
+	Endnote Text	Texto da nota de fim
 	Endnotes	Notas de fim
 	Endnotes to footnotes	Notas de fim em notas de rodapé
 	English (Australia)	Inglês (Austrália)
@@ -633,17 +830,26 @@
 	English (South Africa)	Inglês (África do Sul)
 	English (United Kingdom)	Inglês (Reino Unido)
 	English (United States)	Inglês (Estados Unidos)
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Inglês, os idiomas deste documento e cada pacote de idioma instalado. Os pacotes de idioma adicionam dicionários de ortografia e hifenização.
 	Engrave	Gravado
 	Enlarge symbol	Ampliar símbolo
 	Enter a number.	Digite um número.
+	Enter bookmark name:	Digite o nome do indicador:
 	Enter formatting for number:	Formatação do número:
 	Enter in Equation	Enter na equação
 	Enter page number:	Digite o número da página:
+	Entire caption	Legenda inteira
 	Entry marked.	Entrada marcada.
 	Envelope #10	Envelope nº 10
+	Envelope #10   4.12" × 9.50"	Envelope nº 10   4,12" × 9,50"
+	Envelope Address	Endereço do envelope
+	Envelope DL   4.33" × 8.66"	Envelope DL   4,33" × 8,66"
+	Envelope Return	Remetente do envelope
 	Envelope size:	Tamanho do envelope:
 	Envelopes	Envelopes
+	Equal by Definition	Igual por definição
 	Equal column width	Colunas de largura igual
+	Equal Equal	Igual duplo
 	Equal to	Igual a
 	Equals:	É igual a:
 	Equation	Equação
@@ -651,9 +857,12 @@
 	Equation Info	Informações da equação
 	Equation Number	Número da equação
 	Equation Options	Opções de equação
+	Equatorial Guinea	Guiné Equatorial
 	Erase Ink	Apagar tinta
 	Errors ({n})	Erros ({n})
+	Esperanto	Esperanto
 	Estonian	Estoniano
+	Euler's identity	Identidade de Euler
 	Even Banded Columns	Colunas listradas pares
 	Even Banded Rows	Linhas listradas pares
 	Even Page	Página par
@@ -666,15 +875,19 @@
 	Exactly {n}	Exatamente {n}
 	Exceptions (optional)	Exceções (opcional)
 	Exceptions…	Exceções…
+	Executive   7.25" × 10.50"	Executivo   7,25" × 10,50"
 	Existing File or Web Page	Página da Web ou arquivo existente
 	Expand or Collapse Heading	Expandir ou recolher título
+	Exponential	Exponencial
+	Exponential series	Série exponencial
 	Export a copy to share (PDF, Word document)	Exporte uma cópia para compartilhar (PDF, documento Word)
 	Export Page as PNG	Exportar página como PNG
 	Exported {path}	Exportado {path}
 	Extend Selection	Expandir seleção
 	Extend Selection by Units	Expandir seleção por unidades
-	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} repete sua última ação. Formatar dez títulos vira, de repente, um clique e nove toques.
-	{key} checks the spelling and grammar of the whole document.	{key} verifica a ortografia e a gramática do documento inteiro.
+	Extra space	Espaço extra
+	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 repete sua última ação. Formatar dez títulos se torna apenas um clique e nove toques.
+	F7 checks the spelling and grammar of the whole document.	F7 verifica a ortografia e a gramática do documento inteiro.
 	Faster: {command} is {key} on the keyboard.	Mais rápido: {command} é {key} no teclado.
 	Field code:	Código de campo:
 	Field Codes	Códigos de campo
@@ -688,6 +901,7 @@
 	Figure	Figura
 	File locations	Locais de arquivos
 	File name:	Nome do arquivo:
+	File type	Tipo de arquivo
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Arquivo › Novo lista os modelos .dotx e .dotm daqui em Pessoal; Salvar como modelo do Word começa aqui.
 	Fill	Cor de fundo
 	Fill color:	Cor de preenchimento:
@@ -703,10 +917,12 @@
 	Find What Expression	Expressão localizada
 	Find What Text	Texto localizado
 	Find what:	Localizar:
+	Find “{text}” in the document	Localizar “{text}” no documento
 	Finding printers…	Localizando impressoras…
 	Finish & Merge	Concluir e mesclar
 	Finish &\nMerge	Concluir e\nmesclar
 	Finished	Concluído
+	Finland	Finlândia
 	Finnish	Finlandês
 	First Column	Primeira coluna
 	First line	Primeira linha
@@ -716,6 +932,10 @@
 	First row of data contains column headers	A primeira linha de dados contém cabeçalhos de coluna
 	Fix Position on Page	Fixar posição na página
 	Fixed Column Width	Largura de coluna fixa
+	Flat OpenDocument Text (*.fodt)	Texto OpenDocument plano (*.fodt)
+	Float	Flutuar
+	Floor	Piso
+	Folder path	Caminho da pasta
 	Follow number with:	Após o número:
 	Font Color	Cor da fonte
 	Font color	Cor da fonte
@@ -725,9 +945,12 @@
 	Font…	Fonte…
 	Footer	Rodapé
 	Footnote and Endnote	Nota de rodapé e nota de fim
+	Footnote Reference	Referência de nota de rodapé
+	Footnote Text	Texto da nota de rodapé
 	Footnotes	Notas de rodapé
 	Footnotes and endnotes	Notas de rodapé e notas de fim
 	Footnotes to endnotes	Notas de rodapé em notas de fim
+	For which item:	Para qual item:
 	Format	Formatar
 	Format Page Numbers	Formatar números de página
 	Format Page Numbers…	Formatar números de página…
@@ -748,6 +971,8 @@
 	Forward	Avançar
 	Fraction	Fração
 	Fractions (1/2) as fraction characters (½)	Frações (1/2) como caracteres de fração (½)
+	Frames and effects	Molduras e efeitos
+	France	França
 	French (France)	Francês (França)
 	From Bottom Left Corner	Do canto inferior esquerdo
 	From Bottom Right Corner	Do canto inferior direito
@@ -759,14 +984,22 @@
 	From {name}	De {name}
 	From:	De:
 	Full page of the same label	Página inteira da mesma etiqueta
+	Full Saturation 100%	Saturação máxima 100%
 	Full Screen	Tela inteira
 	Full Screen View	Modo de tela inteira
 	Full\nScreen	Tela\ninteira
 	Fun fact: a blank page is just a draft that hasn't been told yet.	Curiosidade: uma página em branco é só um rascunho que ainda não ficou sabendo.
 	Function	Função
+	Galician	Galego
 	Gallery	Galeria
+	GB/T 7714	GB/T 7714
+	Georgian	Georgiano
 	German (Germany)	Alemão (Alemanha)
+	Germany	Alemanha
+	Get the list of languages again	Obter a lista de idiomas novamente
 	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	Gets the list of Language packs, then this language's pack if there is one.	Obtém a lista de pacotes de idioma e depois o pacote deste idioma, se houver.
+	Getting the list of languages…	Obtendo a lista de idiomas…
 	Glow Colors	Cores do brilho
 	Go Back	Voltar
 	Go To	Ir para
@@ -779,29 +1012,49 @@
 	Good afternoon	Boa tarde
 	Good evening	Boa noite
 	Good morning	Bom dia
+	GOST (name sort)	GOST (ordem por nome)
+	GOST (title sort)	GOST (ordem por título)
 	Grab bag	Diversos
 	Gradient fill	Preenchimento gradiente
 	Gradient stops	Pontos de gradiente
+	Grammar built in	Gramática integrada
+	Grave	Acento grave
+	Gray 0%	Cinza 0%
+	Gray-25%	Cinza-25%
+	Gray-50%	Cinza-50%
 	Greater than	Maior que
 	Greater than or equal	Maior ou igual a
 	Greek	Grego
+	Greek Letters	Letras gregas
 	Green:	Verde:
 	Greeting Line	Linha de saudação
 	Greeting\nLine	Linha de\nsaudação
+	Grid Table 1 Light	Tabela com grade 1 Clara
+	Grid Table 4 – Blue	Tabela com grade 4 – Azul
+	Grid Table 4 – Green	Tabela com grade 4 – Verde
+	Grid Table 4 – Orange	Tabela com grade 4 – Laranja
+	Grid Table 4 – Purple	Tabela com grade 4 – Roxo
 	Gridlines	Linhas de grade
+	Grouping Character Above	Caractere de agrupamento acima
+	Grouping Character Below	Caractere de agrupamento abaixo
 	Grow Font 1 Point	Aumentar fonte em 1 ponto
+	Guatemala	Guatemala
 	H:	A:
 	Hanging Indent	Recuo deslocado
+	Harvard (Anglia)	Harvard (Anglia)
+	Hat	Circunflexo
 	Header	Cabeçalho
 	Header & Footer	Cabeçalho e rodapé
 	Header Row	Linha de cabeçalho
 	Header row	Linha de cabeçalho
 	Header/Footer Position	Posição do cabeçalho/rodapé
 	Headers and footers	Cabeçalhos e rodapés
+	Heading	Título
 	Heading 1	Título 1
 	Heading 2	Título 2
 	Heading 3	Título 3
 	Heading styles (levels 1–{n})	Estilos de título (níveis 1–{n})
+	Heading text	Texto do título
 	Heading {n}	Título {n}
 	Hebrew	Hebraico
 	Hex:	Hex.:
@@ -818,28 +1071,45 @@
 	Highlight Merge Fields	Realçar campos de mesclagem
 	Highlight\nMerge Fields	Realçar campos\nde mesclagem
 	Highlighter	Marca-texto
+numerals	Hindi	Hindi
 	Hollow	Vazado
 	Home folder	Pasta pessoal
+	Honduras	Honduras
+	Hong Kong SAR	RAE de Hong Kong
 	Horizontal Line	Linha horizontal
 	How many pages the whole document has	O número de páginas do documento
 	How many pages this section has	O número de páginas da seção
 	How many words the document holds	O número de palavras do documento
 	HTML Format	Formato HTML
 	Hue:	Matiz:
+	Hungarian	Húngaro
 	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	Os arquivos .aff e .dic do Hunspell nesta pasta (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) são usados antes dos do sistema.
+	Hyperbolic Cosecant Function	Função cossecante hiperbólica
+	Hyperbolic Cosine Function	Função cosseno hiperbólico
+	Hyperbolic Cotangent Function	Função cotangente hiperbólica
+	Hyperbolic Functions	Funções hiperbólicas
+	Hyperbolic Secant Function	Função secante hiperbólica
+	Hyperbolic Sine Function	Função seno hiperbólico
+	Hyperbolic Tangent Function	Função tangente hiperbólica
+	Hyperlink	Hiperlink
 	Hyphenate at:	Hifenizar em:
 	Hyphenate words in CAPS	Hifenizar palavras em MAIÚSCULAS
 	Hyphenation Options…	Opções de hifenização…
 	Hyphenation zone:	Zona de hifenização:
 	Hyphens (--) as dashes (—)	Hífens (--) como travessões (—)
+	Hypotenuse	Hipotenusa
 	I promise it's saved. I checked. Twice.	Prometo que está salvo. Eu conferi. Duas vezes.
 	I'd write something myself, but I'm all nib and no ink.	Eu mesmo escreveria algo, mas sou muita pena e pouca tinta. Uma pena.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
+	Icelandic	Islandês
 	Icon Color	Cor do Ícone
 	Icons	Ícones
+	Identity Matrices	Matrizes identidade
+	IEEE	IEEE
 	If…Then…Else	Se…Então…Senão
 	If…Then…Else…	Se…Então…Senão…
+	Ignore Once	Ignorar uma vez
 	Ignore punctuation characters	Ignorar sinais de pontuação
 	Ignore web and file addresses	Ignorar endereços da Web e de arquivos
 	Ignore white-space characters	Ignorar espaços em branco
@@ -849,6 +1119,8 @@
 	Immersive	Imersivo
 	Immersive Reader	Leitor imersivo
 	Immersive\nReader	Leitor\nimersivo
+	Imported 1 source	1 fonte bibliográfica importada
+	Imported {n} sources	{n} fontes bibliográficas importadas
 	In Default apps, choose WordCraft for the document types you want it to open.	Em Aplicativos padrão, escolha o WordCraft para os tipos de documento que você quer que ele abra.
 	In equations, typing a name after a backslash replaces it with its symbol.	Nas equações, digitar um nome após uma barra invertida o substitui pelo símbolo.
 	In Front of Text	Na frente do texto
@@ -867,6 +1139,9 @@
 	Indents	Recuos
 	Indents and Spacing	Recuos e espaçamento
 	Index and Tables	Índices e tabelas
+	Index Heading	Título do índice
+	Index {n}	Índice {n}
+	India	Índia
 	Indonesian	Indonésio
 	Initial column width:	Largura inicial da coluna:
 	Initials:	Iniciais:
@@ -898,6 +1173,7 @@
 	Insert New Equation	Inserir nova equação
 	Insert one text or another, depending on a field's value.	Inserir um texto ou outro, conforme o valor de um campo.
 	Insert Page Field	Inserir campo de página
+	Insert reference to:	Inserir referência a:
 	Insert Right	Inserir à direita
 	Insert Row or Column by Clicking	Inserir linha ou coluna clicando
 	Insert Rows Above	Inserir linhas acima
@@ -924,24 +1200,69 @@
 	Inside:	Interno:
 	Inspect Document	Inspecionar documento
 	Inspect Styles at Selection	Inspecionar estilos na seleção
+	Install	Instalar
+	Install ({size})	Instalar ({size})
+	Install Language Pack	Instalar pacote de idiomas
+	Install spelling ({size})	Instalar ortografia ({size})
+	Installed	Instalado
+	Installing turns on downloading of fonts and Language packs from GitHub.	A instalação ativa o download de fontes e pacotes de idiomas do GitHub.
+	Installing… {percent}%	Instalando… {percent}%
 	Institution	Instituição
 	Integral	Integral
+	Integral of e^(−x²)	Integral de e^(−x²)
+	Integral with Limits	Integral com limites
+	Integral with Stacked Limits	Integral com limites empilhados
+	Integrals	Integrais
+	Intense Emphasis	Ênfase intensa
+	Intense Quote	Citação destacada
+	Intense Reference	Referência destacada
 	Interface language:	Idioma da interface:
 	Interface size:	Tamanho da interface:
 	Interface theme:	Tema da interface:
 	Interface\nTheme	Tema da\ninterface
 	Internet addresses as links	Endereços da Internet como links
 	Intersection	Intersection
+	Intersection with Limits	Interseção com limites
+	Intersection with Lower Limit	Interseção com limite inferior
+	Intersection with Subscript-Superscript Limits	Interseção com limites em subscrito e sobrescrito
+	Inverse	Invertido
+	Inverse Cosecant Function	Função cossecante inversa
+	Inverse Cosine Function	Função cosseno inverso
+	Inverse Cotangent Function	Função cotangente inversa
+	Inverse Functions	Funções inversas
+	Inverse Hyperbolic Cosecant Function	Função cossecante hiperbólica inversa
+	Inverse Hyperbolic Cosine Function	Função cosseno hiperbólico inverso
+	Inverse Hyperbolic Cotangent Function	Função cotangente hiperbólica inversa
+	Inverse Hyperbolic Functions	Funções hiperbólicas inversas
+	Inverse Hyperbolic Secant Function	Função secante hiperbólica inversa
+	Inverse Hyperbolic Sine Function	Função seno hiperbólico inverso
+	Inverse Hyperbolic Tangent Function	Função tangente hiperbólica inversa
+	Inverse Secant Function	Função secante inversa
+	Inverse Sine Function	Função seno inverso
+	Inverse Tangent Function	Função tangente inversa
 	Ionosphere	Ionosfera
+	Iraq	Iraque
+	Ireland	Irlanda
+	Irish	Irlandês
 	Is blank	Está em branco
 	Is not blank	Não está em branco
+	ISO 690 (author-date)	ISO 690 (autor-data)
+	ISO 690 (numerical)	ISO 690 (numérico)
 	Issue	Número
 	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Parece que você está escrevendo uma carta. Quer um envelope para ela ou um modelo de carta para começar?
+	Italy	Itália
+	Item Color	Cor do item
+	Its dictionary couldn't be read: {reason}	Não foi possível ler o dicionário dele: {reason}
+	Jamaica	Jamaica
 	Join the ArtCraft community on Discord	Junte-se à comunidade ArtCraft no Discord
 	Join us on Discord: discord.gg/artcraft	Junte-se a nós no Discord: discord.gg/artcraft
+	Jordan	Jordânia
 	Journal	Periódico científico
+	Journal article	Artigo de periódico
 	Justification	Alinhamento
+	Justification of a display equation	Alinhamento de uma equação destacada
 	Justified	Justificado
+	Kazakhstan	Cazaquistão
 	Keep Lines Together	Manter linhas juntas
 	Keep lines together	Manter linhas juntas
 	Keep me around	Pode ficar
@@ -953,9 +1274,16 @@
 	Kerning for fonts:	Kerning para fontes:
 	Keyboard shortcuts:	Atalhos de teclado:
 	Keys for this command:	Teclas deste comando:
+	Kuwait	Kuwait
 	Label changes with:	Rotular alterações com:
 	Label:	Rótulo:
 	Labels	Etiquetas
+	Language data	Dados de idioma
+	Language Packs	Pacotes de idiomas
+	Language packs aren't available in the browser	Pacotes de idiomas não estão disponíveis no navegador
+	Language packs aren't available in the browser.	Os pacotes de idiomas não estão disponíveis no navegador.
+	Language packs come from a test source: {source}	Os pacotes de idiomas vêm de uma fonte de teste: {source}
+	Language packs need the font store folder, and there is none on this computer.	Os pacotes de idiomas precisam da pasta de armazenamento de fontes, e não há nenhuma neste computador.
 	Language Preferences…	Preferências de idioma…
 	Large\nOperator	Operador\ngrande
 	Largest Only	Somente o lado mais largo
@@ -965,6 +1293,7 @@
 	Last Record	Último registro
 	Last, First; Last, First	Sobrenome, Nome; Sobrenome, Nome
 	Latin text font:	Fonte de texto latino:
+	Latvian	Letão
 	Layout Summary	Resumo do layout
 	Layouts	Layouts
 	Leader	Preenchimento
@@ -974,26 +1303,51 @@
 	Leave the equation (Esc)	Sair da equação (Esc)
 	leave the equation first	saia primeiro da equação
 	Leave the label out of the caption	Omitir o rótulo na legenda
+	Lebanon	Líbano
+	Left Arrow with Text Above	Seta para a esquerda com texto acima
+	Left Arrow with Text Below	Seta para a esquerda com texto abaixo
 	Left Border	Borda esquerda
 	Left border	Borda esquerda
+	Left Bracket Twice	Colchete esquerdo duplo
 	Left indent	Recuo à esquerda
 	Left Margin	Margem esquerda
 	Left Only	Somente à esquerda
+	Left Right Arrow Above	Seta bidirecional acima
+	Left Right Arrow with Text Above	Seta bidirecional com texto acima
+	Left Right Arrow with Text Below	Seta bidirecional com texto abaixo
+	Left Subscript-Superscript	Subscrito e sobrescrito à esquerda
 	Left-to-right	Da esquerda para a direita
 	Left-to-Right Text Direction	Direção do texto da esquerda para a direita
+	Leftwards Arrow Above	Seta para a esquerda acima
+	Leftwards Harpoon Above	Arpão para a esquerda acima
+	Legal   8.50" × 14.00"	Ofício   8,50" × 14,00"
 	Legal style numbering	Numeração no estilo legal
 	Legend	Legenda
+	Less Contrast −20%	Menos contraste −20%
 	Less than	Menor que
 	Less than or equal	Menor ou igual a
+template	Letter	Carta
+	Letter   8.50" × 11.00"	Carta   8,50" × 11,00"
 	Letter headings	Cabeçalhos de letra
 	Letter template	Modelo de carta
+	Letter-Like Symbols	Símbolos semelhantes a letras
 	Letters	Cartas
+	Level 5	Nível 5
+	Level 6	Nível 6
+	Level 7	Nível 7
+	Level 8	Nível 8
+	Level 9	Nível 9
 	Level {n}	Nível {n}
 	Levels:	Níveis:
+	Licence: {licence}. Source: {source}	Licença: {licence}. Fonte: {source}
+	Liechtenstein	Liechtenstein
 	Light Variations	Variações claras
 	Light with Outline	Claro com contorno
+	Limit	Limite
+	Limit and	Limite e
 	Limit and\nLog	Limite e\nlogaritmo
 	Limit consecutive hyphens to:	Limitar hífens consecutivos a:
+	Limit Example	Exemplo de limite
 	Limit formatting to a selection of styles	Limitar a formatação a uma seleção de estilos
 	Line and Page Breaks	Quebras de linha e de página
 	Line and Paragraph Spacing	Espaçamento entre linhas e parágrafos
@@ -1002,6 +1356,7 @@
 	Line breaking	Quebra de linhas
 	Line delta	Variação de linhas
 	Line End	Fim da linha
+	Line Number	Número de linha
 	Line Numbering Options…	Opções de numeração de linhas…
 	Line Numbers	Números de linha
 	Line Spacing	Espaçamento entre linhas
@@ -1013,6 +1368,7 @@
 	Linear Diagonal - Top Left to Bottom Right	Linear diagonal – do superior esquerdo ao inferior direito
 	Linear Diagonal - Top Right to Bottom Left	Linear diagonal – do superior direito ao inferior esquerdo
 	Linear Down	Linear para baixo
+	Linear Fraction	Fração linear
 	Linear Left	Linear para a esquerda
 	Linear Right	Linear para a direita
 	Linear Up	Linear para cima
@@ -1028,19 +1384,38 @@
 	Linked style (paragraph and character)	Estilo vinculado (parágrafo e caractere)
 	Links and References	Links e referências
 	Link…	Link…
+	Linux display server	Servidor de exibição Linux
 	List Definition	Definição da lista
 	List entries	Itens da lista
+	List Paragraph	Parágrafo de lista
+	List Table 3 – Blue	Tabela de lista 3 – Azul
+	List Table 3 – Green	Tabela de lista 3 – Verde
+	List Table 3 – Orange	Tabela de lista 3 – Laranja
+	List Table 3 – Purple	Tabela de lista 3 – Roxo
 	Lit from Bottom	Iluminado de baixo
 	Lit from Top	Iluminado de cima
+	Lithuanian	Lituano
 	Load System Installed Fonts…	Carregar fontes do sistema instaladas…
 	Loaded {count} system fonts.	{count} fontes do sistema carregadas.
 	Local font access is not supported by your browser.	O acesso a fontes locais não é compatível com seu navegador.
 	Local font access was denied.	O acesso a fontes locais foi negado.
+	Local recovery is unavailable or still loading.	A recuperação local está indisponível ou ainda carregando.
 	Location: {path}	Local: {path}
 	Lock aspect ratio	Bloquear proporção
 	Lock Fields	Bloquear campos
+	Log	Log
+	Logarithm	Logaritmo
+	Logarithm with Base	Logaritmo com base
+	Logical AND	E lógico
+	Logical AND with Limits	E lógico com limites
+	Logical OR	OU lógico
+	Logical OR with Limits	OU lógico com limites
 	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: porque as palavras de verdade ainda estão no cafezinho.
 	Lum:	Lum.:
+	Luxembourg	Luxemburgo
+	Macao SAR	RAE de Macau
+	Macedonian	Macedônio
+	Macro name:	Nome da macro:
 	Macros	Macros
 	Made from the author and year when empty	Se vazio, é formado pelo autor e ano
 	Magazine or newspaper article	Artigo de revista ou jornal
@@ -1049,6 +1424,7 @@
 	Main entry:	Entrada principal:
 	Make WordCraft the default for Word documents…	Tornar o WordCraft o aplicativo padrão para documentos do Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	Aumenta ou diminui a faixa de opções, os menus e as caixas de diálogo. Auto segue a escala de exibição do sistema; 100% é um pixel da tela por ponto. O zoom do documento é separado.
+	Malaysia	Malásia
 	Manage Sources	Gerenciar fontes
 	Manage Styles	Gerenciar estilos
 	Manage Styles…	Gerenciar estilos…
@@ -1076,16 +1452,24 @@
 	Match suffix	Coincidir sufixo
 	Matches: {count}	Correspondências: {count}
 	Math AutoCorrect	Autocorreção de matemática
+	Matrices with Brackets	Matrizes com colchetes
 	Matrix	Matriz
+	Maximum Example	Exemplo de máximo
+	Measured By	Medido por
 	Measurement units:	Unidades de medida:
 	Merge cells before split	Mesclar células antes de dividir
 	Merge Formatting	Mesclar formatação
 	Merge Record #	Nº do registro de mesclagem
 	Mesosphere	Mesosfera
+	Mexico	México
+	Midline Dots	Pontos na linha média
+	Minus Equal	Menos igual
 	Mirror indents	Recuos espelhados
 	Mirror margins	Margens espelho
 	Mirrored	Espelhada
+	Missing Fonts	Fontes ausentes
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team e os colaboradores do WordCraft.
+	MLA	MLA
 	mm	mm
 	Moderate	Moderada
 	Modify Style	Modificar estilo
@@ -1093,20 +1477,26 @@
 	Modify Table Style…	Modificar estilo de tabela…
 	Modify…	Modificar…
 	Mon	Seg
+	Monaco	Mônaco
+	Montenegro	Montenegro
 	Month	Mês
 	More >>	Mais >>
 	More Colors…	Mais cores…
 	More Columns…	Mais colunas…
 	More Commands…	Mais Comandos…
+	More Contrast +20%	Mais contraste +20%
 	More Gradients…	Mais gradientes…
+	More options	Mais opções
 	More Paper Sizes…	Mais tamanhos de papel…
 	More Symbols…	Mais símbolos…
 	More tabs	Mais guias
 	More templates →	Mais modelos →
 	More Underlines…	Mais sublinhados…
+	Morocco	Marrocos
 	Move Down	Mover para baixo
 	Move in Equation	Mover na equação
 	Move or Resize	Mover ou redimensionar
+	Move Pane: {title}	Mover o painel: {title}
 	Move Paragraph Down	Mover parágrafo para baixo
 	Move Paragraph Up	Mover parágrafo para cima
 	Move Past Citation	Mover para depois da citação
@@ -1121,16 +1511,22 @@
 	Moved to	Movido para
 	Moved to:	Movido para:
 	Moves	Movimentações
+	Mozambique	Moçambique
 	Multilevel List	Lista de vários níveis
 	Multilevel List Library	Biblioteca de listas de vários níveis
 	Multiple Pages	Várias páginas
 	Mute agent messages	Silenciar mensagens de agentes
+	Muted 50%	Atenuado 50%
 	My list has	Minha lista tem
 	Name of the file this document is saved as	O nome do arquivo do documento
 	Narrow	Estreita
 	Narrow  {size} all	Estreita  {size} em todas as margens
+	Natural Logarithm	Logaritmo natural
 	Nature	Natureza
 	Navigation Pane	Painel de navegação
+	Negated Relations	Relações negadas
+	Netherlands	Países Baixos
+	New blank documents are written in this language	Novos documentos em branco são escritos neste idioma
 	New Comment	Novo comentário
 	New comments and tracked changes are recorded under this name and these initials.	Novos comentários e alterações controladas são registrados com este nome e estas iniciais.
 	New Documents Based on This Template	Novos documentos baseados neste modelo
@@ -1153,6 +1549,7 @@
 	New Table Style	Novo estilo de tabela
 	New Table Style…	Novo estilo de tabela…
 	New word	Nova palavra
+	New Zealand	Nova Zelândia
 	New\nComment	Novo\ncomentário
 	New\nWindow	Nova\njanela
 	New…	Nova…
@@ -1166,6 +1563,7 @@
 	Next sentence	Próxima frase
 	Nib floats over the window with tips and the occasional remark.	Nib flutua sobre a janela com dicas e um comentário de vez em quando.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, seu assistente. Arraste para mover; clique com o botão direito para ver as opções.
+	Nicaragua	Nicarágua
 	No accessibility issues found.	Nenhum problema de acessibilidade encontrado.
 	No Border	Sem borda
 	No changes (read only)	Sem alterações (somente leitura)
@@ -1180,18 +1578,26 @@
 	No grid	Sem grade
 	No header row	Sem linha de cabeçalho
 	No icons match your search.	Nenhum ícone corresponde à pesquisa.
+	No items to show.	Nenhum item para exibir.
+	No language matches your search.	Nenhum idioma corresponde à sua pesquisa.
+	No languages to show yet.	Ainda não há idiomas para mostrar.
 	No Markup	Sem marcação
 	No model credits were built into this copy.	Nenhum crédito de modelos foi compilado nesta cópia.
+	No new sources in that file	Nenhuma nova fonte bibliográfica nesse arquivo
 	No Outline	Sem contorno
 	No Paragraph Space	Sem espaço entre parágrafos
 	No printers found. Configure a system printer or export a PDF.	Nenhuma impressora encontrada. Configure uma impressora no sistema ou exporte um PDF.
+	No recovery copies.	Nenhuma cópia de recuperação.
 	No Reflection	Sem reflexo
+	No Scaling	Sem dimensionamento
 	No Shadow	Sem sombra
 	No Soft Edges	Sem bordas suaves
 	No sources yet.	Ainda não há fontes.
+	No Spacing	Sem espaçamento
 	No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Não há dicionário ortográfico instalado para {language}, então o texto não é verificado. O WordCraft procura o dicionário Hunspell {name} na pasta WORDCRAFT_DICTIONARIES e nos locais habituais do sistema.
 	No templates match your search.	Nenhum modelo corresponde à pesquisa.
 	No Transform	Sem transformação
+	No watermark	Sem marca-d'água
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Ainda não há palavras. Adicionar ao dicionário em uma palavra com erro a coloca aqui.
 	No-Width Non Break	Junção sem largura
 	No-Width Optional Break	Quebra opcional sem largura
@@ -1199,16 +1605,22 @@
 	Nonbreaking Space	Espaço inseparável
 	None	Nenhuma
 	Normal  {size} all	Normal  {size} em todas as margens
+	Normal Indent	Recuo normal
+	Normal probability density	Densidade de probabilidade normal
 	Normal speed	Velocidade normal
 	Normal Style	Estilo Normal
+	Normal Table	Tabela normal
 	Normal Text	Texto normal
 	Normal Word Document	Documento normal
 	North	Norte
 	Norwegian (Bokmål)	Norueguês (bokmål)
+	Norwegian (Nynorsk)	Norueguês (nynorsk)
 	Not	Não
 	Not available right now	Indisponível no momento
+	Not available yet	Ainda não disponível
 	not editing an equation	nenhuma equação está sendo editada
 	Not equal to	Diferente de
+	Not in Dictionary	Não consta no dicionário
 	Not linked: click a text box	Não vinculado: clique em uma caixa de texto
 	Not now	Agora não
 	Not saved	Não salvo
@@ -1220,6 +1632,7 @@
 	Nothing	Nada
 	Nothing collected yet. Items you copy or cut appear here.	Nada coletado ainda. Os itens que você copiar ou recortar aparecem aqui.
 	nothing is selected	nada está selecionado
+	Nothing of this type in the document.	Nenhum item deste tipo no documento.
 	Now used by {command}	Usado agora por {command}
 	Nudge	Deslocar ligeiramente
 	Num Occurrences	Número de ocorrências
@@ -1231,11 +1644,14 @@
 	Number of the section the field sits in	O número da seção atual
 	Number only, without the label's words	Só o número, sem as palavras do rótulo
 	Number style for this level:	Estilo de número deste nível:
+	Number the equation; the number sits at the right margin (or type # then the number)	Numerar a equação; o número fica na margem direita (ou digite # seguido do número)
 	Numbering	Numeração
 	Numbering:	Numeração:
 	Numbering…	Numeração…
 	Numerals	Numerais
 	Numerals:	Numerais:
+	n×n Identity Matrix	Matriz identidade n×n
+	n×n Matrix	Matriz n×n
 	Odd Banded Columns	Colunas listradas ímpares
 	Odd Banded Rows	Linhas listradas ímpares
 	Odd Page	Página ímpar
@@ -1256,6 +1672,7 @@
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	Ativado: o ponto de inserção desliza até a nova posição quando você digita ou usa as setas, e o piscar é suave. Desativado: ele salta e pisca de forma brusca.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Ativado: o WordCraft abre em Arquivo › Início, com um documento em branco, os modelos e seus documentos recentes. Desativado: abre um documento em branco.
 	One	Uma
+	One half	Um meio
 	One label per recipient	Uma etiqueta por destinatário
 	One line per item. Enter adds an item.	Uma linha por item. Enter adiciona um item.
 	One Page	Uma página
@@ -1266,15 +1683,22 @@
 	Only form fields can be filled in.	Somente os campos de formulário podem ser preenchidos.
 	only in Outline view	somente no modo de exibição Estrutura de tópicos
 	Only in this document	Somente neste documento
+	Only label and number	Apenas rótulo e número
+	Only text properties can be changed.	Apenas propriedades de texto podem ser alteradas.
 	Only the allowed styles can be applied.	Somente os estilos permitidos podem ser aplicados.
 	Only web (http, https) and email (mailto) links can be followed	Só é possível seguir links da web (http, https) e de e-mail (mailto)
+	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Somente você pode ativar o download: Clique no botão você mesmo. Os agentes poderão instalar assim que estiver ativado.
+spacing	Open	Aberto
 	Open a document first	Abra um documento primeiro
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Abra um arquivo com o navegador próprio do WordCraft quando a caixa de diálogo de arquivos do sistema não aparecer.
 	OpenDocument Text (*.odt)	Texto OpenDocument (*.odt)
+	OpenDocument Text Template (*.ott)	Modelo de texto OpenDocument (*.ott)
 	Opening print dialog…	Abrindo a caixa de diálogo de impressão…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	A partir de agora, arquivos .docx, .doc, .rtf e .odt e modelos do Word abrem no WordCraft.
 	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Abre Configurações › Aplicativos padrão, onde você escolhe o WordCraft para .docx e os outros tipos de documento.
 	Operator	Operador
+	Operator Structures	Estruturas de operadores
+	Operators	Operadores
 	Optional Hyphen	Hífen opcional
 	Or	Ou
 	Or save a copy in another format:	Ou salve uma cópia em outro formato:
@@ -1283,6 +1707,7 @@
 	Organizer…	Organizador…
 	Original document	Documento original
 	Original size	Tamanho original
+	Other Large Operators	Outros operadores grandes
 	Other styles and their TOC level:	Outros estilos e seu nível no sumário:
 	Other:	Outro:
 	Otherwise insert:	Senão, inserir:
@@ -1296,6 +1721,10 @@
 	Outside border	Borda externa
 	Outside Borders	Bordas externas
 	Outside:	Externo:
+	Outward Brackets	Colchetes invertidos
+	Overbar	Barra superior
+	Overbars and Underbars	Barras superiores e inferiores
+	Overbrace	Chave superior
 	Overtype	Sobrescrever
 	Overtype (typing replaces the characters after the caret)	Sobrescrever (o que você digita substitui os caracteres após o cursor)
 	Page Background	Plano de fundo da página
@@ -1306,11 +1735,13 @@
 	Page break before	Quebra de página antes
 	Page Breaks	Quebras de página
 	Page Color	Cor da página
+	Page color	Cor da página
 	Page display	Exibição da página
 	Page Down	Página abaixo
 	Page image (*.png)	Imagem de página (*.png)
 	Page Movement	Movimentação entre páginas
 	Page Number	Número da página
+	Page number	Número de página
 	Page Number Format	Formato do número de página
 	Page number style	Estilo do número de página
 	Page numbering	Numeração de páginas
@@ -1326,8 +1757,11 @@
 	Page\nBorders	Bordas da\npágina
 	Page\nColor	Cor da\npágina
 	Page\nNumber	Número da\npágina
+	Pages in the range	Páginas no intervalo
 	Pages like 1-3, 5	Páginas como 1-3, 5
 	Pages of bookmark:	Páginas do indicador:
+	Panama	Panamá
+	Pane Options	Opções do painel
 	Paper size:	Tamanho do papel:
 	Paragraph Character	Símbolo de parágrafo
 	Paragraph Details	Detalhes do parágrafo
@@ -1340,6 +1774,10 @@
 	Paragraph Up	Parágrafo acima
 	Paragraphs	Parágrafos
 	Paragraph…	Parágrafo…
+	Paraguay	Paraguai
+	Parentheses	Parênteses
+	Parentheses with Separator	Parênteses com separador
+	Partial Differential	Diferencial parcial
 	Password:	Senha:
 	Paste (⌘V)	Colar (⌘V)
 	Paste All	Colar tudo
@@ -1356,30 +1794,42 @@
 	Pens	Canetas
 	People	Pessoas
 	Periodical	Periódico
+	Persian	Persa
 	Personal	Pessoal
 	Personal Templates	Modelos pessoais
 	Personalize	Personalizar
+	Peru	Peru
+	Philippines	Filipinas
 	Phonetic Guide	Guia fonético
 	pi	pi
+	Pi Over 2	Pi sobre 2
 	Pick a custom group (New Group makes one)	Escolha um grupo personalizado (Novo Grupo cria um)
 	Pick a field from the list	Escolha um campo
 	Picture	Imagem
 	Picture Border	Borda da imagem
+	Picture border	Borda da imagem
 	Picture Content Control	Controle de conteúdo de imagem
 	Picture Format	Formato da imagem
 	Picture Styles	Estilos de imagem
+	Picture transparency	Transparência da imagem
+	Picture watermark	Marca-d'água de imagem
 	Pictures	Imagens
 	Pie	Pizza
 	Place in This Document	Colocar neste documento
 	Placeholder text	Texto do espaço reservado
+	Plain Table 1	Tabela simples 1
 	Plain text (*.txt)	Texto simples (*.txt)
 	Plain Text Content Control	Controle de conteúdo de texto sem formatação
 	Play/Pause	Reproduzir/pausar
+	Plus Equal	Mais igual
 	Points and above	pontos ou mais
 	Polish	Polonês
+	Portugal	Portugal
 	Portuguese (Brazil)	Português (Brasil)
 	Portuguese (Portugal)	Português (Portugal)
+	Possible spelling mistake	Possível erro de ortografia
 	Postal Code	CEP
+	Power series of (1+x)ⁿ	Série de potências de (1+x)ⁿ
 	Preferred width:	Largura preferencial:
 	Preserve formatting during updates	Preservar a formatação ao atualizar
 	Preset gradients	Gradientes predefinidos
@@ -1414,21 +1864,35 @@
 	Privacy Options	Opções de privacidade
 	Privacy Settings	Configurações de privacidade atuais
 	Process	Processo
+	Product	Produtório
+	Product of A	Produtório de A
+	Product with Limits	Produtório com limites
+	Product with Lower Limit	Produtório com limite inferior
+	Product with Subscript-Superscript Limits	Produtório com limites em subscrito e sobrescrito
+	Products and Coproducts	Produtórios e coprodutos
 	Professional	Profissional
 	Promote	Promover
 	Promote to Heading 1	Promover a Título 1
 	Proofing	Correção de texto
 	Proofing Issues	Problemas de correção
 	Proofing language	Idioma de revisão
+	Property names are 1–{max} characters.	Nomes de propriedade têm de 1 a {max} caracteres.
+	Property values are at most {max} bytes.	Valores de propriedade têm no máximo {max} bytes.
 	Protect Document	Proteger documento
 	pt	pt
 	Publisher	Editora
+	Puerto Rico	Porto Rico
 	Put the caret in a content control first.	Coloque primeiro o cursor em um controle de conteúdo.
 	Put the default commands back on the Quick Access Toolbar?	Colocar de volta os comandos padrão na Barra de Ferramentas de Acesso Rápido?
+	Qatar	Catar
+	Quadratic Root	Fórmula quadrática
 	Quick Access Toolbar	Barra de acesso rápido
 	Quick Parts	Partes rápidas
 	Quick Tables	Tabelas rápidas
+	Quote	Citação
 	Radical	Radical
+	Radical with Degree	Radical com índice
+	Radicals	Radicais
 	Raised/lowered	Elevado/rebaixado
 	Read Aloud	Ler em voz alta
 	Read Aloud Status	Status da leitura em voz alta
@@ -1440,6 +1904,7 @@
 	Reading Highlight	Realçar resultados
 	Reading Line Spacing	Espaçamento entre linhas na leitura
 	Reading Mode	Modo de leitura
+	Reading Page Color	Cor da página de leitura
 	Reading Speed	Velocidade de leitura
 	Reading Text Size	Tamanho do texto na leitura
 	Reads the clipboard's rich text and keeps its formatting.	Lê o rich text da área de transferência e mantém a formatação.
@@ -1454,9 +1919,14 @@
 	Recolor a one-color picture, such as an icon	Mudar a cor de uma imagem de uma só cor, como um ícone
 	Recolor Selected Ink	Mudar a cor da tinta selecionada
 	Record Macro	Gravar macro
+	Record…	Gravar…
+	Recover documents	Recuperar documentos
 	Recover Unsaved Documents	Recuperar documentos não salvos
+	Recovery copy	Cópia de recuperação
+	Recovery is disabled while this document has a password.	A recuperação fica desativada enquanto este documento tiver uma senha.
 	Red:	Vermelho:
 	Reduce Hanging Indent	Reduzir recuo deslocado
+	Reference type:	Tipo de referência:
 	References	Referências
 	Reflection	Reflexo
 	Refresh printers	Atualizar impressoras
@@ -1466,6 +1936,8 @@
 	Regular expressions	Expressões regulares
 	Reject	Rejeitar
 	Reject All Changes	Rejeitar todas as alterações
+	Reject All Changes and Stop Tracking	Rejeitar todas as alterações e parar o controle
+	Reject and Move to Next	Rejeitar e ir para a próxima
 	Reject Change	Rejeitar alteração
 	Relationship	Relação
 	Relative to original picture size	Em relação ao tamanho original da imagem
@@ -1480,6 +1952,7 @@
 	Remove gradient stop	Remover ponto de gradiente
 	Remove Header	Remover cabeçalho
 	Remove Hyperlink	Remover hiperlink
+	Remove Language Pack	Remover pacote de idiomas
 	Remove my name from comments, changes and file properties when saving	Remover meu nome dos comentários, alterações e propriedades do arquivo ao salvar
 	Remove Password	Remover senha
 	Remove Pen	Remover caneta
@@ -1489,15 +1962,8 @@
 	Remove Space After Paragraph	Remover espaço depois do parágrafo
 	Remove Table of Contents	Remover sumário
 	Remove the control once edited	Remover o controle após a edição
+	Remove the space before the punctuation	Remover o espaço antes da pontuação
 	Remove Watermark	Remover marca-d'água
-	No watermark	Sem marca-d'água
-	Picture watermark	Marca-d'água de imagem
-	Text watermark	Marca-d'água de texto
-	Select Picture…	Selecionar imagem…
-	Washout	Desbotado
-	Semitransparent	Semitransparente
-	Transparency:	Transparência:
-	Select a picture first.	Selecione uma imagem primeiro.
 	Rename Document	Renomear documento
 	Rename Style	Renomear estilo
 	Reopen	Reabrir
@@ -1523,6 +1989,7 @@
 	Reset tips	Redefinir dicas
 	Reset to Normal	Redefinir para Normal
 	Reset\nGraphic	Redefinir\ngráfico
+	Resize Pane	Redimensionar o painel
 	Resize Table by Dragging	Redimensionar tabela arrastando
 	Resolve	Resolver
 	Resolved	Resolvido
@@ -1530,6 +1997,7 @@
 	Restart Each Page	Reiniciar a cada página
 	Restart Each Section	Reiniciar a cada seção
 	Restart list after:	Reiniciar lista após:
+	Restore opens an unsaved copy. Your original file stays unchanged.	A restauração abre uma cópia não salva. Seu arquivo original permanece inalterado.
 	Restrict Editing	Restringir edição
 	Restrict\nEditing	Restringir\nedição
 	Results	Resultados
@@ -1548,8 +2016,11 @@
 	Rich Text Format (*.rtf)	Formato Rich Text (*.rtf)
 	Rich Text Format (RTF)	Rich Text Format (RTF)
 	Right (vertical)	Direita (vertical)
+	Right Arrow with Text Above	Seta para a direita com texto acima
+	Right Arrow with Text Below	Seta para a direita com texto abaixo
 	Right Border	Borda direita
 	Right border	Borda direita
+	Right Bracket Twice	Colchete direito duplo
 	Right indent	Recuo à direita
 	Right Margin	Margem direita
 	Right Only	Somente à direita
@@ -1557,21 +2028,29 @@
 	Right-to-Left Section	Seção da direita para a esquerda
 	Right-to-Left Table	Tabela da direita para a esquerda
 	Right-to-Left Text Direction	Direção do texto da direita para a esquerda
+	Rightwards Arrow Above	Seta para a direita acima
+	Rightwards Harpoon Above	Arpão para a direita acima
 	Romanian	Romeno
+	Roots of ax²+bx+c	Raízes de ax²+bx+c
 	Rotate all text 270°	Girar todo o texto 270°
 	Rotate all text 90°	Girar todo o texto 90°
 	Rotate Left 90°	Girar 90° para a esquerda
 	Rotate Right 90°	Girar 90° para a direita
 	Rotate with shape	Girar com a forma
+	Rounded	Arredondado
 	Rounded Rectangle	Retângulo arredondado
 	Row	Linha
 	Row:	Linha:
 	Rows & Columns	Linhas e colunas
 	Ruby text:	Texto ruby:
 	Rules	Regras
+	Run	Executar
 	Run-in	Contínuo
+	Russia	Rússia
 	Résumé	Currículo
+	SAMPLE	EXEMPLO
 	Sat:	Sat.:
+	Saturation and recolor	Saturação e recoloração
 	Save a copy in another format. Printing goes through a PDF you can print from any viewer.	Salve uma cópia em outro formato. A impressão passa por um PDF que você pode imprimir em qualquer visualizador.
 	Save as Word Template…	Salvar como modelo do Word…
 	Save documents	Salvar documentos
@@ -1584,6 +2063,8 @@
 	Sayings	Tiradas
 	Sayings:	Frases:
 	Scale Drawing	Dimensionar desenho
+	Scale Font Sizes	Dimensionar tamanhos de fonte
+	Scale to paper size	Ajustar ao tamanho do papel
 	Scatter	Dispersão
 	Script	Índice
 	Scroll ribbon left	Rolar a faixa de opções para a esquerda
@@ -1594,6 +2075,8 @@
 	Search for templates	Pesquisar modelos
 	Search icons	Pesquisar ícones
 	Search Options	Opções de pesquisa
+	Search:	Pesquisar:
+	Secant Function	Função secante
 	Section 1.01	Seção 1.01
 	Section Break	Quebra de seção
 	Section Breaks	Quebras de seção
@@ -1609,19 +2092,24 @@
 	select a floating picture or shape first	selecione primeiro uma imagem ou forma flutuante
 	select a group first	selecione primeiro um grupo
 	select a picture first	selecione primeiro uma imagem
+	Select a picture first.	Selecione uma imagem primeiro.
 	select a picture or shape first	selecione primeiro uma imagem ou forma
 	Select a picture, shape, chart or table to describe it.	Selecione uma imagem, forma, gráfico ou tabela para descrevê-lo.
+	Select a place in this document:	Selecione um local neste documento:
 	Select a printer	Selecione uma impressora
+	Select a property to change.	Selecione uma propriedade para alterar.
 	select a shape first	selecione primeiro uma forma
 	Select a shape, text box or drawing canvas to format its fill.	Selecione uma forma, caixa de texto ou tela de desenho para formatar o preenchimento.
 	select a SmartArt graphic first	selecione primeiro um elemento gráfico SmartArt
 	select a text box first	selecione primeiro uma caixa de texto
 	select a text box linked to another first	selecione primeiro uma caixa de texto vinculada a outra
+	Select Canvas Member	Selecionar item da tela
 	Select Cell	Selecionar célula
 	Select Column	Selecionar coluna
 	Select Heading and Content	Selecionar título e conteúdo
 	Select Line	Selecionar linha
 	Select Paragraph	Selecionar parágrafo
+	Select Picture…	Selecionar imagem…
 	Select Range	Selecionar intervalo
 	Select Recipients	Selecionar destinatários
 	select recipients first	selecione primeiro os destinatários
@@ -1641,11 +2129,14 @@
 	Selected Fields	Campos selecionados
 	Selected text	Texto selecionado
 	Selection Pane	Painel de seleção
+	Semitransparent	Semitransparente
 	Send the document straight to the system print dialog, or save a copy in another format below.	Envie o documento direto para a caixa de diálogo de impressão do sistema ou salve uma cópia em outro formato abaixo.
 	Sentence	Frase
 	Sentence case.	Primeira letra maiúscula.
 	Separate text at	Separar texto em
+	Separate text with	Separar texto com
 	Separator:	Separador:
+	Sepia	Sépia
 	Sequence name:	Nome da sequência:
 	Serbian (Cyrillic)	Sérvio (cirílico)
 	Serbian (Latin)	Sérvio (latino)
@@ -1653,25 +2144,30 @@
 	Series {n}	Série {n}
 	Set As Default	Definir como padrão
 	Set as Default	Definir como padrão
+	Set as default	Definir como padrão
 	Set As Default (Font)	Definir como padrão (Fonte)
 	Set As Default (Page Setup)	Definir como padrão (Configuração da página)
 	Set As Default (Paragraph)	Definir como padrão (Parágrafo)
+	Set as Default Language	Definir como idioma padrão
 	Set Caret	Definir ponto de inserção
 	Set Character Formatting	Definir formatação de caracteres
 	Set Date	Definir data
 	Set Equation	Definir equação
+	Set left- and first-indent with tabs and backspaces	Definir recuo esquerdo e de primeira linha com tabs e backspaces
 	Set Numbering Value	Definir valor da numeração
 	Set Paragraph Formatting	Definir formatação de parágrafo
 	Set Proofing Language…	Definir idioma de revisão…
+	Set the colors in the Text Pane to use custom colors.	Defina as cores no painel de texto para usar cores personalizadas.
 	Setting:	Tipo:
 	Shading	Sombreamento
 	Shadow, glow and soft edges	Sombra, brilho e bordas suaves
+	Shape color	Cor da forma
 	Shape Effects	Efeitos de forma
 	Shape Fill	Preenchimento da forma
 	Shape Format	Formato da forma
 	Shape Outline	Contorno da forma
 	Shape Styles	Estilos de forma
-	{key} starts a new line without starting a new paragraph.	{key} inicia uma nova linha sem iniciar um novo parágrafo.
+	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter inicia uma nova linha sem iniciar um novo parágrafo.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etiquetas de envio
 	Shortcut key:	Tecla de atalho:
@@ -1710,14 +2206,18 @@
 	Show Text Formatting	Mostrar formatação do texto
 	Show the Assistant	Mostrar o assistente
 	Show the community button in the title bar	Mostrar o botão da comunidade na barra de título
+	Show the equation in the line of text	Exibir a equação no corpo do texto
+	Show the equation on a line of its own	Exibir a equação em sua própria linha
 	Show the mini toolbar when text is selected	Mostrar a minibarra de ferramentas ao selecionar texto
 	Show the ribbon	Mostrar a faixa de opções
 	Show the Start screen when WordCraft starts	Mostrar a tela inicial ao abrir o WordCraft
 	Show the tips you asked not to see again.	Mostra de novo as dicas que você pediu para não ver.
 	Show/Hide ¶	Mostrar/ocultar ¶
+	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	Mostrar/Ocultar ¶ (Ctrl+Shift+8) exibe os espaços, tabulações e quebras ocultos no seu texto.
 	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Mostrar/ocultar ¶ ({key}) mostra os espaços, tabulações e quebras escondidos no seu texto.
 	Show\nComments	Mostrar\ncomentários
 	Showing the first {count} items.	Mostrando os primeiros {count} itens.
+	Shown in substitute fonts. Click for details.	Exibido em fontes substitutas. Clique para ver detalhes.
 	Shows a tree: each item below the item it belongs to.	Mostra uma árvore: cada item abaixo do item ao qual pertence.
 	Shows items around a central idea: the first item is the centre.	Mostra itens ao redor de uma ideia central: o primeiro item é o centro.
 	Shows items of equal weight as blocks in rows.	Mostra itens de mesmo peso como blocos em linhas.
@@ -1730,28 +2230,49 @@
 	Shrink text	Reduzir texto
 	Side to Side	Lado a lado
 	Side\nto Side	Lado\na lado
+	Sides of a right triangle	Lados de um triângulo retângulo
 	Signature Line	Linha de assinatura
+	Simple Frame	Moldura simples
+	Sine and cosine series of f(x)	Série de senos e cossenos de f(x)
+	Sine Function	Função seno
+	Sine theta	Seno de teta
+	Singapore	Singapura
 	Single	Simples
+	Single Brackets	Delimitadores simples
 	Single Closing Quote	Aspas simples de fechamento
 	Single label	Etiqueta única
+	Single Left Angle	Colchete angular esquerdo simples
+	Single Left Bar	Barra esquerda simples
+	Single Left Brace	Chave esquerda simples
+	Single Left Bracket	Colchete esquerdo simples
+	Single Left Parenthesis	Parêntese esquerdo simples
 	Single Opening Quote	Aspas simples de abertura
+	Single Right Brace	Chave direita simples
+	Single Right Bracket	Colchete direito simples
+	Single Right Parenthesis	Parêntese direito simples
 	Single Spacing	Espaçamento simples
+	SIST02	SIST02
 	Site name	Nome do site
 	Size (pt):	Tamanho (pt):
 	Size and Crop…	Tamanho e corte…
 	Sketchbook	Caderno de esboços
+	Skewed Fraction	Fração chanfrada
 	Skip citations & bibliography	Ignorar citações e bibliografia
 	Skip Citations and Bibliography	Ignorar citações e bibliografia
 	Skip Record If	Ignorar registro se
 	Skip Record If…	Ignorar registro se…
 	Slant Down	Inclinação para baixo
 	Slant Up	Inclinação para cima
+	Slovak	Eslovaco
+	Slovenian	Esloveno
 	Small caps	Versaletes
+	Small change	Pequena variação
 	Smart quotes instead of straight quotes	Aspas inteligentes em vez de retas
 	SmartArt	SmartArt
 	SmartArt Design	Design do SmartArt
 	SmartArt Styles	Estilos de SmartArt
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	Rolagem e zoom suaves, e menus e botões que aparecem gradualmente. Com “Desativado”, cada alteração é mostrada de imediato.
+	Soft Edge	Borda suave
 	Soft Edges	Bordas suaves
 	Soft Glow	Brilho suave
 	Solid Accent	Destaque sólido
@@ -1765,6 +2286,7 @@
 	Source type:	Tipo de fonte:
 	Sources in this document:	Fontes deste documento:
 	South	Sul
+	South Africa	África do Sul
 	Space	Espaço
 	Space after	Espaço depois
 	Space after: {pt} pt	Espaço depois: {pt} pt
@@ -1772,21 +2294,33 @@
 	Space before/after:	Espaço antes/depois:
 	Space before: {pt} pt	Espaço antes: {pt} pt
 	Spacing (pt):	Espaçamento (pt):
+	Spain	Espanha
+	Spanish (Latin America)	Espanhol (América Latina)
 	Spanish (Mexico)	Espanhol (México)
 	Spanish (Spain)	Espanhol (Espanha)
+	Spanish (Uruguay)	Espanhol (Uruguai)
+	Sparse Matrices	Matrizes esparsas
 	Special Characters	Caracteres especiais
 	Specify height:	Especificar altura:
 	Speech	Fala
 	Spelling & Grammar	Ortografia e gramática
 	Spelling &\nGrammar	Ortografia e\ngramática
+	Spelling and grammar are checked in English (United States).	A ortografia e a gramática são verificadas em inglês (Estados Unidos).
 	Spelling and grammar are checked in {language}.	Idioma da verificação de ortografia e gramática: {language}.
 	Spelling Suggestions	Sugestões de ortografia
 	Spike	Coletor
 	Split Cells	Dividir células
 	Split Table	Dividir tabela
 	Spreadsheet Table	Tabela de planilha
+	Square Root	Raiz quadrada
+	Square Root with Degree	Raiz quadrada com índice
+	Square Union	União quadrada
+	Stack Object	Objeto empilhado
+	Stack Object (Three)	Objeto empilhado (três)
 	Stacked Bar	Barras empilhadas
 	Stacked Column	Colunas empilhadas
+	Stacked Fraction	Fração empilhada
+	Stacked, no bar	Empilhado, sem barra
 	Standard Colors	Cores padrão
 	Start at:	Iniciar em:
 	Start Enforcing Protection	Aplicar a proteção
@@ -1794,13 +2328,18 @@
 	Start Mail\nMerge	Iniciar mala\ndireta
 	Start-up	Inicialização
 	State	Estado
+	Statement   5.50" × 8.50"	Statement   5,50" × 8,50"
+	Status bar	Barra de status
+	Status bar count:	Contagem da barra de status:
 	Still there? I can hear you thinking.	Ainda está aí? Dá para ouvir você pensando.
 	Stop Protection	Parar proteção
 	Stop Reading	Parar leitura
+	Stop Recording	Parar gravação
 	Stopped	Parado
 	Straight Arrow Connector	Conector reto com seta
 	Straight Connector	Conector reto
 	Stroke {n} of {total}	Traço {n} de {total}
+	Strong	Forte
 	Structure Actions	Ações de estrutura
 	Structures	Estruturas
 	Studio	Estúdio
@@ -1810,21 +2349,48 @@
 	Style Inspector	Inspetor de estilos
 	Style name:	Nome do estilo:
 	Style Set	Conjunto de estilos
+	Style: APA	Estilo: APA
 	Style: {style}	Estilo: {style}
 	Styles Pane	Painel de estilos
+	Styles Pane Position	Posição do painel de estilos
 	Styles:	Estilos:
 	Subentry:	Subentrada:
 	Submit print job	Enviar trabalho de impressão
 	Submitting print job…	Enviando trabalho de impressão…
+	Subscript-Superscript	Subscrito-sobrescrito
+	Subscripts and Superscripts	Subscritos e sobrescritos
 	Subset:	Subconjunto:
+	Subtle Emphasis	Ênfase sutil
+	Subtle Reference	Referência sutil
 	Suggested	Sugestões
+	Suggestions	Sugestões
 	Sum	Soma
+	Sum of cosines	Soma de cossenos
+	Sum or difference of sines	Soma ou diferença de senos
+	Summation	Somatório
+	Summation from 0 to n	Somatório de 0 a n
+	Summation over binomials	Somatório sobre binômios
+	Summation with Limits	Somatório com limites
+	Summation with Lower Limit	Somatório com limite inferior
+	Summation with Subscript Limit	Somatório com limite em subscrito
+	Summation with Subscript-Superscript Limits	Somatório com limites em subscrito e sobrescrito
+	Summations	Somatórios
 	Suppress line numbers	Suprimir números de linha
+	Surface Integral	Integral de superfície
+	Surface Integral with Limits	Integral de superfície com limites
+	Surface Integral with Stacked Limits	Integral de superfície com limites empilhados
+	Swahili	Suaíli
 	Swap footnotes and endnotes	Trocar notas de rodapé e notas de fim
 	Swedish	Sueco
 	Switch Modes	Alternar modos
+	Switch Windows	Alternar janelas
 	Switch\nModes	Alternar\nmodos
+	Switch\nWindows	Alternar\njanelas
+	Switzerland	Suíça
 	Synonyms	Sinônimos
+	Syria	Síria
+numerals	System	Sistema
+	System dictionary	Dicionário do sistema
 	Tab	Tab
 	Tab Character	Caractere de tabulação
 	Tab character	Caractere de tabulação
@@ -1835,11 +2401,13 @@
 	Table Column Width	Largura da coluna da tabela
 	Table Design	Design da tabela
 	Table direction:	Direção da tabela:
+	Table Grid	Grade da tabela
 	Table Layout	Layout de tabela
 	Table of Authorities	Índice de autoridades
 	Table of Contents	Sumário
 	Table of Contents Options	Opções do sumário
 	Table of Contents Styles	Estilos do sumário
+	Table of Figures	Tabela de Figuras
 	Table of\nContents	Sumário
 	Table Properties	Propriedades da tabela
 	Table Properties…	Propriedades da tabela…
@@ -1847,13 +2415,19 @@
 	Table size	Tamanho da tabela
 	Table Style Options	Opções de estilo de tabela
 	Table Styles	Estilos de tabela
+	Tabloid   11.00" × 17.00"	Tabloide   11,00" × 17,00"
 	Tabs	Tabulações
 	Tabs…	Tabulações…
 	Tabular List	Lista tabular
 	Tag	Marca
+	Taiwan	Taiwan
 	Take the last match on the page	Usar a última ocorrência da página
 	Take your time. The page isn't going anywhere. Neither am I. Ever.	Sem pressa. A página não vai a lugar nenhum. Nem eu. Nunca.
+	Tamil	Tâmil
+	Tangent formula	Fórmula da tangente
+	Tangent Function	Função tangente
 	TC entry fields	Campos de entrada TC
+	Teal	Verde-azulado
 	Technology	Tecnologia
 	Templates and Add-ins	Modelos e suplementos
 	Templates you save in your templates folder show up here.	Os modelos que você salvar na sua pasta de modelos aparecem aqui.
@@ -1869,13 +2443,19 @@
 	Text indent at:	Recuo do texto em:
 	Text of the nearest paragraph with a given style (running headers)	Texto do parágrafo mais próximo com um determinado estilo (cabeçalhos dinâmicos)
 	Text Outline	Contorno do texto
+	Text over Colon Equal	Texto sobre dois-pontos igual
+	Text over Equal	Texto sobre igual
 	Text Pane	Painel de texto
+	Text properties only: Word's number, date and yes-no types aren't offered.	Somente propriedades de texto: os tipos Número, Data e Sim ou Não, não estão disponíveis.
+	Text Size	Tamanho do texto
 	Text size	Tamanho do texto
 	Text snaps to characters	O texto se ajusta aos caracteres
 	Text to display:	Texto a ser exibido:
+	Text watermark	Marca-d'água de texto
 	Text Wrapping	Quebra de texto
 	Text\nBox	Caixa de\ntexto
 	Text\nDirection	Direção do\ntexto
+	Thai	Tailandês
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	Esse formato não preserva tudo, então o documento continua aberto. Salve-o como documento do Word (.docx) para continuar.
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	A senha está incorreta. Verifique-a (as senhas diferenciam maiúsculas de minúsculas) e tente novamente.
 	The clipboard is empty.	A área de transferência está vazia.
@@ -1885,12 +2465,14 @@
 	The document has no bookmarks yet.	O documento ainda não tem indicadores.
 	the document is protected	o documento está protegido
 	The document is read only, except for regions marked editable.	O documento é somente leitura, exceto nas regiões marcadas como editáveis.
+	The document or selection changed. Check again to continue.	O documento ou a seleção mudou. Verifique novamente para continuar.
 	The document will be saved with a password. Save it to protect it.	O documento será salvo com senha. Salve-o para protegê-lo.
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	O documento que você está editando mantém os nomes e as datas; só o arquivo salvo os omite.
 	The margins don't fit on a page this size; make the margins smaller first.	As margens não cabem em uma página deste tamanho; reduza as margens primeiro.
 	The measurement must be between {min} and {max}.	A medida deve estar entre {min} e {max}.
 	The new style takes the formatting of the current paragraph.	O novo estilo assume a formatação do parágrafo atual.
 	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Não foi possível ler o modelo Normal, então este documento usa a formatação integrada do WordCraft.
+	The number must be a divisor of {max}.	O número deve ser um divisor de {max}.
 	The number must be between 1 and {max}.	O número deve estar entre 1 e {max}.
 	the paragraph is empty	o parágrafo está vazio
 	the paragraph starts with a space	o parágrafo começa com um espaço
@@ -1898,16 +2480,22 @@
 	The password is removed. Save the document to keep the change.	A senha foi removida. Salve o documento para manter a alteração.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	A impressora, a impressão frente e verso e as páginas por folha são escolhidas nessa caixa de diálogo.
 	The recipient-list field that fills each part of an address block and greeting line.	O campo da lista de destinatários que preenche cada parte do bloco de endereço e da linha de saudação.
+	The spelling and grammar check is complete.	A verificação ortográfica e gramatical está concluída.
+	The spelling and hyphenation data WordCraft uses, and their licences.	Os dados de ortografia e hifenização usados pelo WordCraft e suas licenças.
+	The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}	Não foi possível ler o dicionário ortográfico de {language}, portanto ele não será verificado. Arquivo: {file}. Motivo: {reason}
 	the Spike is empty	o coletor está vazio
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	A caixa de diálogo de arquivos do sistema não está disponível, então o WordCraft mostra a sua própria. Para usar a do sistema, instale um portal seletor de arquivos (como xdg-desktop-portal-gtk) ou o zenity.
 	The text at the insertion point is marked Do not check spelling or grammar.	O texto no ponto de inserção está marcado como: Não verificar ortografia nem gramática.
 	The time right now	A hora atual
+	The {language} dictionary couldn't be downloaded: {error}	Não foi possível baixar o dicionário de {language}: {error}
+	The {language} dictionary is installed.	O dicionário de {language} está instalado.
 	Theme Colors	Cores do tema
 	Theme Fonts	Fontes do tema
 	Theme List	Lista do tema
 	Themes	Temas
 	Then by	Depois por
 	Then insert:	Então inserir:
+	There are no macros yet. Record one to add it here.	Ainda não há macros. Grave um para adicioná-lo aqui.
 	there is no ink to replay	não há tinta para reproduzir
 	there is nothing to undo	não há nada para desfazer
 	there's no citation after the caret	não há citação depois do cursor
@@ -1916,8 +2504,12 @@
 	These merge fields aren't in the recipient list:	Estes campos de mesclagem não estão na lista de destinatários:
 	These settings will be used for new documents.	Essas configurações serão usadas nos novos documentos.
 	Thick	Grossa
+	Thick Frame	Moldura espessa
+	Thin	Fina
+	This cannot be undone. Your original file stays unchanged.	Isso não pode ser desfeito. Seu arquivo original permanece inalterado.
 	this chart was made in another program: WordCraft shows it but can't edit it	este gráfico foi criado em outro programa: o WordCraft o exibe, mas não pode editá-lo
 	This document	Este documento
+	This document has no custom properties.	Este documento não possui propriedades personalizadas.
 	This document only?	Somente este documento?
 	This field has no options.	Este campo não tem opções.
 	This folder can't be read: {error}	Não é possível ler esta pasta: {error}
@@ -1934,14 +2526,20 @@
 	Three	Três
 	Through	Através
 	Tight	Estreito
+	Tilde	Til
 	Tip	Dica
 	Tips ({n})	Dicas ({n})
+preview	Title	Título
 	Title Bar	Barra de título
 	Title from the document properties	O título do documento
 	Title:	Título:
 	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Para abrir documentos do Word com o WordCraft por padrão: selecione um no Finder, escolha Arquivo › Obter Informações, selecione o WordCraft em “Abrir com” e clique em “Alterar Tudo”.
 	To:	Até:
+	TOA Heading	Título do Índice de Autoridades
+	TOC Heading	Título do sumário
+	TOC {n}	Sumário {n}
 	Today	Hoje
+	tOGGLE cASE	aLTERNAR mAIÚSCULAS/mINÚSCULAS
 	Toggle Check Box	Alternar caixa de seleção
 	Toggle Field Codes	Alternar códigos de campo
 	Toggle Unicode Character	Alternar caractere Unicode
@@ -1950,23 +2548,34 @@
 	Top Left Cell	Célula superior esquerda
 	Top Margin	Margem superior
 	Top of Page	Topo da página
+	Top of the Document	Início do documento
 	Top Right Cell	Célula superior direita
 	Total Row	Linha de totais
 	Track Changes	Controlar alterações
 	Track Changes Options	Opções de controle de alterações
 	Track Changes: On	Controlar alterações: ativado
 	Track formatting	Controlar formatação
+	Track\nChanges	Controlar\nalterações
+	Track\nChanges ✓	Controlar\nalterações ✓
 	Tracked changes	Alterações controladas
 	Tracking	Controle
 	Trademark	Marca comercial
 	Trademark Sign	Sinal de marca comercial
+	Transparency:	Transparência:
 	Transport	Transporte
 	Triangle Down	Triângulo para baixo
 	Triangle Up	Triângulo para cima
+	Trigonometric Functions	Funções trigonométricas
 	Triple	Tripla
+	Triple Dot	Ponto triplo
+	Triple Integral	Integral tripla
+	Triple Integral with Limits	Integral tripla com limites
+	Triple Integral with Stacked Limits	Integral tripla com limites empilhados
 	Trust Center	Central de confiabilidade
 	Tue	Ter
+	Turabian	Turabian
 	Turkish	Turco
+	Turquoise	Turquesa
 	Two	Duas
 	Two-sided printing	Impressão frente e verso
 	Two-sided: long edge	Frente e verso: borda longa
@@ -1974,18 +2583,26 @@
 	Type +2 or -1 to move from the page you are on.	Digite +2 ou -1 para se mover a partir da página atual.
 	Type a command, e.g. "insert table"	Digite um comando, por exemplo "insert table"
 	Type a New List…	Digitar uma nova lista…
+	Type a page number, or +2 / -1.	Digite um número de página ou +2 / -1.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Digite um tamanho em qualquer unidade, como 5 cm ou 300 px. O outro lado acompanha, e a imagem mantém as proporções.
 	Type at least one recipient.	Digite pelo menos um destinatário.
 	Type Character Code	Digitar código de caractere
+	Type equations in LaTeX	Digitar equações em LaTeX
+	Type equations in the linear format (UnicodeMath)	Digitar equações no formato linear (UnicodeMath)
 	Type in Equation	Digitar na equação
+	Type normal (non-math) text in the equation	Digitar texto normal (não matemático) na equação
 	Type Text	Digitar texto
 	Type the categories down the side and a column of values per series.	Digite as categorias na lateral e uma coluna de valores por série.
 	Type the field's name and its switches, for example PAGE \\* roman.	Digite o nome do campo e suas opções, por exemplo PAGE \\* roman.
 	Type the password to stop the protection.	Digite a senha para parar a proteção.
 	Type the recipients, or load them from a file.	Digite os destinatários ou carregue-os de um arquivo.
 	Typing replaces selected text	O que você digita substitui o texto selecionado
+	U.A.E.	Emirados Árabes Unidos
+	Ukraine	Ucrânia
 	Ukrainian	Ucraniano
 	Unchecked symbol	Símbolo desmarcado
+	Underbar	Barra inferior
+	Underbrace	Chave inferior
 	Underline Color	Cor do sublinhado
 	Underline color	Cor do sublinhado
 	Underline Words Only	Sublinhar somente palavras
@@ -1995,10 +2612,20 @@
 	Undo {n} Actions	Desfazer {n} ações
 	Undo, undo, undo… we're time travelling now.	Desfazer, desfazer, desfazer… agora estamos viajando no tempo.
 	Unformatted Text	Texto sem formatação
+	Union of intersections	União de interseções
+	Union with Limits	União com limites
+	Union with Lower Limit	União com limite inferior
+	Union with Plus	União disjunta (com sinal de mais)
+	Union with Subscript-Superscript Limits	União com limites em subscrito e sobrescrito
+	Unions and Intersections	Uniões e interseções
+	United Kingdom	Reino Unido
+	United States	Estados Unidos
 	Unlink Fields	Desvincular campos
 	Unlink\nCitations	Desvincular\ncitações
 	Unlock Fields	Desbloquear campos
+	Up Diagonal Dots	Pontos diagonais ascendentes
 	Up one level	Subir um nível
+	Update check is not supported in the web browser.	A verificação de atualizações não é suportada no navegador web.
 	Update Field	Atualizar campo
 	Update fields before printing	Atualizar campos antes de imprimir
 	Update Index	Atualizar índice
@@ -2008,7 +2635,9 @@
 	Update Table of Figures	Atualizar índice de figuras
 	Update to Match	Atualizar para corresponder
 	Update to Match Selection	Atualizar para corresponder à seleção
+	URGENT	URGENTE
 	URL	URL
+	Uruguay	Uruguai
 	Use an Existing List…	Usar uma lista existente…
 	Use system setting	Usar a configuração do sistema
 	Use the browser's full screen (F11)	Use a tela inteira do navegador (F11)
@@ -2019,27 +2648,43 @@
 	User Name	Nome de usuário
 	User name:	Nome de usuário:
 	User templates:	Modelos do usuário:
+	Vector A	Vetor A
+	Vector AB	Vetor AB
+	Venezuela	Venezuela
 	Version History	Histórico de versões
 	Version {version} ({build})	Versão {version} ({build})
 	Vertical alignment:	Alinhamento vertical:
+	Vertical Bars	Barras verticais
+	Vertical Dots	Pontos verticais
+	Vietnamese	Vietnamita
 	View Alt Text…	Exibir texto alternativo…
+	View and edit the document's custom properties.	Exibir e editar as propriedades personalizadas do documento.
 	View Gridlines	Exibir linhas de grade
 	View State	Estado da exibição
 	View › Focus hides everything but your words. I'll wait outside.	Exibir › Foco oculta tudo, menos as suas palavras. Eu espero lá fora.
+	Viewing	Visualização
+	Viewing — view the file but make no changes	Visualização — ver o arquivo sem fazer alterações
 	Views	Exibições
 	Visual effects	Efeitos visuais
+	Vivid 200%	Vívido 200%
 	Volume	Volume
+	Volume Integral	Integral de volume
+	Volume Integral with Limits	Integral de volume com limites
+	Volume Integral with Stacked Limits	Integral de volume com limites empilhados
 	W:	L:
+	Wait for the print job to finish submitting before closing.	Aguarde a impressão concluir antes de fechar.
 	Waiting for the save to finish…	Aguardando o término do salvamento…
 	Waiting for Zotero…	Aguardando o Zotero…
 	Warm Gradient with Outline	Gradiente quente com contorno
 	Warnings ({n})	Avisos ({n})
+	Washout	Desbotado
 	Wave	Ondulada
 	Weather	Clima
 	Web Layout	Layout da Web
 	Web page (*.html)	Página Web (*.html)
 	Web\nLayout	Layout\nda Web
 	Wed	Qua
+	Welsh	Galês
 	West	Oeste
 	When this document was first created	A data em que o documento foi criado
 	When this document was most recently printed	A data em que o documento foi impresso pela última vez
@@ -2055,6 +2700,7 @@
 	Widow/Orphan Control	Controle de viúvas e órfãs
 	Widow/Orphan control	Controle de viúvas e órfãs
 	Width and spacing	Largura e espaçamento
+	Wildcards (regex)	Caracteres curinga (regex)
 	With:	Por:
 	Word 2003 XML Document (*.xml)	Documento XML do Word 2003 (*.xml)
 	Word Count	Contagem de palavras
@@ -2063,11 +2709,13 @@
 	Word Left	Palavra à esquerda
 	Word level	Nível de palavra
 	Word Right	Palavra à direita
+	Word sources	Fontes do Word
 	Word XML Document (*.xml)	Documento XML do Word (*.xml)
 	WordArt	Texto artístico
 	WordArt Styles	Estilos de WordArt
 	WordCraft	WordCraft
 	WordCraft is now the default app for Word documents.	O WordCraft agora é o aplicativo padrão para documentos do Word.
+	WordCraft {version} is currently the newest version available.	O WordCraft {version} é a versão mais recente disponível no momento.
 	Words only	Somente palavras
 	Wrap Text	Quebrar texto
 	Wrap Text Sides	Lados da quebra
@@ -2075,11 +2723,16 @@
 	Write & Insert Fields	Escrever e inserir campos
 	Write a reply	Escrever uma resposta
 	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Bloqueio criativo? Para mim, encarar o cursor ajuda. Ele pisca para mim há anos.
+	x bar	x barra
 	Year	Ano
+	Yields	Produz
+	You can also right-click the count in the status bar to change it.	Você também pode clicar com o botão direito na contagem na barra de status para alterá-la.
 	You haven't saved in a while, and AutoSave is off. Save now?	Faz tempo que você não salva, e o salvamento automático está desativado. Salvar agora?
 	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Você começou uma lista. Pressione Enter duas vezes para encerrá-la, ou Backspace no início de um item para transformá-lo de novo em texto.
 	Your changes will be lost if you don't save them.	Suas alterações serão perdidas se você não salvá-las.
 	Your document is now the most saved document in history.	Seu documento agora é o documento mais salvo da história.
+	Your languages	Seus idiomas
+	Your own dictionary	Seu próprio dicionário
 	Your system doesn't report an animation setting, so animation effects stay on.	Seu sistema não informa uma configuração de animação, então os efeitos de animação continuam ativados.
 	Your system has animation effects turned off.	Seu sistema está com os efeitos de animação desativados.
 	Your system has animation effects turned on.	Seu sistema está com os efeitos de animação ativados.
@@ -2093,23 +2746,41 @@
 	{count} items highlighted	{count} itens realçados
 	{count} of {total} pages will print	{count} de {total} páginas serão impressas
 	{count} of {total} recipients will be merged.	{count} de {total} destinatários serão mesclados.
+	{field}, record {n}	{field}, registro {n}
+	{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list.	{font} não está instalada neste computador, portanto seu texto é exibido em {shown}. As quebras de linha e a contagem de páginas podem ser diferentes de onde o documento foi criado. Se você tiver o arquivo da fonte, adicione-o com Adicionar fonte… no final desta lista.
 	{group} settings	Configurações de {group}
+	{key} checks the spelling and grammar of the whole document.	{key} verifica a ortografia e a gramática do documento inteiro.
+	{key} counts your words, characters and paragraphs.	{key} conta suas palavras, caracteres e parágrafos.
+	{key} finds and replaces text, formatting and special characters.	{key} localiza e substitui texto, formatação e caracteres especiais.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} repete sua última ação. Formatar dez títulos vira, de repente, um clique e nove toques.
+	{key} starts a new line without starting a new paragraph.	{key} inicia uma nova linha sem iniciar um novo parágrafo.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} inicia uma nova página. Bem mais organizado do que apertar Enter até acontecer.
+	{key} turns the selected text into a link.	{key} transforma o texto selecionado em um link.
 	{key}+Click to follow link	{key}+clique para seguir o link
 	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
+	{language} (default)	{language} (padrão)
+	{language} (dictionary unreadable)	{language} (dicionário ilegível)
 	{language} (no dictionary)	{language} (sem dicionário)
+	{language} ({region})	{language} ({region})
 	{language} is now the document's default language.	{language} agora é o idioma padrão do documento.
+	{language} proofing isn't installed.	A revisão de texto para {language} não está instalada.
 	{language}: no dictionary found	{language}: nenhum dicionário encontrado
 	{language}: WordCraft doesn't check spelling or grammar in this language yet.	{language}: o WordCraft ainda não verifica ortografia nem gramática neste idioma.
 	{language}: {file}	{language}: {file}
+	{language}: {file} (unreadable: {reason})	{language}: {file} (ilegível: {reason})
 	{names} and {n} more	{names} e mais {n}
 	{name}   {height} × {width} in	{name}   {height} × {width} pol.
 	{name}   {height} × {width} mm	{name}   {height} × {width} mm
 	{name} already exists. Choose Save again to replace it.	{name} já existe. Escolha Salvar novamente para substituí-lo.
 	{name} is protected with a password.	{name} está protegido por senha.
+	{name} options	Opções de {name}
 	{name} wasn't found.	{name} não foi encontrado.
 	{n} entries marked.	Entradas marcadas: {n}.
+	{n} KB	{n} KB
 	{n} lines	{n} linhas
+	{n} MB	{n} MB
 	{n} pt	{n} pt
+	{paper}   {width} × {height}	{paper}   {width} × {height}
 	{selected} of {words} words	Palavras: {words}; seleção: {selected}
 	{size} pt	{size} pt
 	{width} × {height} mm	{width} × {height} mm
@@ -2119,122 +2790,20 @@
 	{words} words! I'd throw confetti but I'd have to clean it up.	{words} palavras! Eu jogaria confete, mas depois teria que limpar.
 	{words} words. That's {words} more than I've written today.	{words} palavras. São {words} a mais do que eu escrevi hoje.
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
-	Add a language…	Adicionar um idioma…
-	Add a language	Adicionar um idioma
-	Your languages	Seus idiomas
-	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Inglês, os idiomas deste documento e cada pacote de idioma instalado. Os pacotes de idioma adicionam dicionários de ortografia e hifenização.
-	Set as default	Definir como padrão
-	New blank documents are written in this language	Novos documentos em branco são escritos neste idioma
-	{language} (default)	{language} (padrão)
-	Built in	Integrado
-	Your own dictionary	Seu próprio dicionário
-	System dictionary	Dicionário do sistema
-	Not available yet	Ainda não disponível
-	Grammar built in	Gramática integrada
-	Install spelling ({size})	Instalar ortografia ({size})
-	Its dictionary couldn't be read: {reason}	Não foi possível ler o dicionário dele: {reason}
-	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	O download está desativado. Clicar em “Adicionar um idioma…” ou “Instalar” o ativa: o WordCraft passa a baixar pacotes de idioma e fontes do GitHub.
-	Search:	Pesquisar:
-	Dutch, Nederlands or nl	Holandês, Nederlands ou nl
-	No languages to show yet.	Ainda não há idiomas para mostrar.
-	No language matches your search.	Nenhum idioma corresponde à sua pesquisa.
-	An installed Language pack is used after this folder.	Um pacote de idioma instalado é usado depois desta pasta.
-	Dictionary files	Arquivos de dicionário
-	Possible spelling mistake	Possível erro de ortografia
-	Gets the list of Language packs, then this language's pack if there is one.	Obtém a lista de pacotes de idioma e depois o pacote deste idioma, se houver.
-	Afrikaans	Africâner
-	Belarusian	Bielorrusso
-	Bulgarian	Búlgaro
-	Bosnian	Bósnio
-	Catalan	Catalão
-	Catalan (Valencian)	Catalão (valenciano)
-	Welsh	Galês
-	Esperanto	Esperanto
-	Persian	Persa
-	Irish	Irlandês
-	Galician	Galego
-	Hungarian	Húngaro
-	Armenian	Armênio
-	Icelandic	Islandês
-	Georgian	Georgiano
-	Lithuanian	Lituano
-	Latvian	Letão
-	Macedonian	Macedônio
-	Norwegian (Nynorsk)	Norueguês (nynorsk)
-	Slovak	Eslovaco
-	Slovenian	Esloveno
-	Albanian	Albanês
-	Swahili	Suaíli
-	Tamil	Tâmil
-	Thai	Tailandês
-	Vietnamese	Vietnamita
-	Set as Default Language	Definir como idioma padrão
-	U.A.E.	Emirados Árabes Unidos
-	Angola	Angola
-	Argentina	Argentina
-	Austria	Áustria
-	Australia	Austrália
-	Bosnia and Herzegovina	Bósnia e Herzegovina
-	Belgium	Bélgica
-	Bolivia	Bolívia
-	Brazil	Brasil
-	Belarus	Belarus
-	Canada	Canadá
-	Switzerland	Suíça
-	Chile	Chile
-	China	China
-	Colombia	Colômbia
-	Costa Rica	Costa Rica
-	Cuba	Cuba
-	Cabo Verde	Cabo Verde
-	Cyprus	Chipre
-	Germany	Alemanha
-	Dominican Republic	República Dominicana
-	Ecuador	Equador
-	Egypt	Egito
-	Spain	Espanha
-	Finland	Finlândia
-	France	França
-	United Kingdom	Reino Unido
-	Equatorial Guinea	Guiné Equatorial
-	Guatemala	Guatemala
-	Hong Kong SAR	RAE de Hong Kong
-	Honduras	Honduras
-	Ireland	Irlanda
-	India	Índia
-	Iraq	Iraque
-	Italy	Itália
-	Jamaica	Jamaica
-	Jordan	Jordânia
-	Kuwait	Kuwait
-	Kazakhstan	Cazaquistão
-	Lebanon	Líbano
-	Liechtenstein	Liechtenstein
-	Luxembourg	Luxemburgo
-	Morocco	Marrocos
-	Monaco	Mônaco
-	Montenegro	Montenegro
-	Macao SAR	RAE de Macau
-	Mexico	México
-	Malaysia	Malásia
-	Mozambique	Moçambique
-	Nicaragua	Nicarágua
-	Netherlands	Países Baixos
-	New Zealand	Nova Zelândia
-	Panama	Panamá
-	Peru	Peru
-	Philippines	Filipinas
-	Puerto Rico	Porto Rico
-	Portugal	Portugal
-	Paraguay	Paraguai
-	Qatar	Catar
-	Russia	Rússia
-	Singapore	Singapura
-	El Salvador	El Salvador
-	Syria	Síria
-	Taiwan	Taiwan
-	Ukraine	Ucrânia
-	United States	Estados Unidos
-	Uruguay	Uruguai
-	Venezuela	Venezuela
-	South Africa	África do Sul
+	✓ None	✓ Nenhum
+	➕ New comment	➕ Novo comentário
+	📂  Browse…	📂  Procurar…
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagrama
+	Insert Diagram	Inserir diagrama
+	Diagram Design	Design do diagrama
+	Diagram Styles	Estilos de diagrama
+	Decorative Text	Texto decorativo
+	Decorative Text Styles	Estilos de texto decorativo
+	select a diagram first	selecione primeiro um diagrama
+	this diagram was made in another program: WordCraft shows it but can't edit it	este diagrama foi criado em outro programa: o WordCraft o exibe, mas não pode editá-lo
+	this diagram can't be edited	este diagrama não pode ser editado
+@msg	a diagram holds at most {MAX_ITEMS} items	um diagrama pode conter no máximo {MAX_ITEMS} itens
+@msg	unknown decorative text style `{id}`	estilo de texto decorativo desconhecido `{id}`
+	select a shape or decorative text first	selecione primeiro uma forma ou um texto decorativo

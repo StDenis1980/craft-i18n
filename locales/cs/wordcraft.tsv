@@ -2630,6 +2630,20 @@ preview	Title	Ukázka
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Jihoafrická republika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagram
+	Insert Diagram	Vložit diagram
+	Diagram Design	Návrh diagramu
+	Diagram Styles	Styly diagramu
+	Decorative Text	Ozdobný text
+	Decorative Text Styles	Styly ozdobného textu
+	select a diagram first	nejprve vyberte diagram
+	this diagram was made in another program: WordCraft shows it but can't edit it	tento diagram byl vytvořen v jiném programu: WordCraft jej zobrazí, ale nemůže jej upravovat
+	this diagram can't be edited	tento diagram nelze upravovat
+@msg	a diagram holds at most {MAX_ITEMS} items	diagram obsahuje nejvýše {MAX_ITEMS} položek
+@msg	unknown decorative text style `{id}`	neznámý styl ozdobného textu `{id}`
+	select a shape or decorative text first	nejprve vyberte obrazec nebo ozdobný text
 	Auto orientation	Automatická orientace
 	No Scaling	Bez změny měřítka
 	Page color	Barva stránky

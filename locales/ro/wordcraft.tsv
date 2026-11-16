@@ -3005,6 +3005,20 @@ preview	Title	Titlu
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Africa de Sud
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagramă
+	Insert Diagram	Inserare diagramă
+	Diagram Design	Proiectare diagramă
+	Diagram Styles	Stiluri de diagramă
+	Decorative Text	Text decorativ
+	Decorative Text Styles	Stiluri de text decorativ
+	select a diagram first	selectați mai întâi o diagramă
+	this diagram was made in another program: WordCraft shows it but can't edit it	această diagramă a fost creată în alt program: WordCraft o afișează, dar nu o poate edita
+	this diagram can't be edited	această diagramă nu poate fi editată
+@msg	a diagram holds at most {MAX_ITEMS} items	o diagramă poate conține cel mult {MAX_ITEMS} elemente
+@msg	unknown decorative text style `{id}`	stil de text decorativ necunoscut `{id}`
+	select a shape or decorative text first	selectați mai întâi o formă sau un text decorativ
 	Above/below	Deasupra/dedesubt
 	Auto orientation	Orientare automată
 	Automatically add words to list (First Letter)	Adăugare automată a cuvintelor în listă (Prima literă)

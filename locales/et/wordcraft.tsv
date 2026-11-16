@@ -2190,3 +2190,17 @@
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Lõuna-Aafrika Vabariik
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Skeem
+	Insert Diagram	Lisa skeem
+	Diagram Design	Skeemi kujundus
+	Diagram Styles	Skeemi laadid
+	Decorative Text	Dekoratiivtekst
+	Decorative Text Styles	Dekoratiivteksti laadid
+	select a diagram first	vali kõigepealt skeem
+	this diagram was made in another program: WordCraft shows it but can't edit it	see skeem loodi teises programmis: WordCraft näitab seda, kuid ei saa seda muuta
+	this diagram can't be edited	seda skeemi ei saa muuta
+@msg	a diagram holds at most {MAX_ITEMS} items	skeem mahutab kuni {MAX_ITEMS} elementi
+@msg	unknown decorative text style `{id}`	tundmatu dekoratiivteksti laad `{id}`
+	select a shape or decorative text first	vali kõigepealt kujund või dekoratiivtekst

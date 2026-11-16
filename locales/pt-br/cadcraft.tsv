@@ -97,6 +97,7 @@
 	Automatic save file location	Local dos arquivos de salvamento automático
 	Axis, End	Eixo, extremidade
 	B	N
+	Backup copies are off, so the current file will be replaced.	As cópias de backup estão desativadas, portanto o arquivo atual será substituído.
 	Backup copy	Cópia de backup
 	Base	Base
 	Batch Publish	Publicação em lote
@@ -159,6 +160,7 @@
 	Click to set new origin	Clique para definir a nova origem
 	Clip	Recortar
 	Clip Viewport	Recortar viewport
+	Clip Xref	Recortar referência externa
 	Close All Other Drawings	Fechar todos os outros desenhos
 	Close Array Editing	Fechar edição de matriz
 	Close Block Editor	Fechar o editor de blocos
@@ -289,9 +291,12 @@ menu	Draw	Desenho
 	Drawing Utilities	Utilitários de desenho
 	Drawings (DWG, DXF)	Desenhos (DWG, DXF)
 	Drawings with no file yet are saved in the default version. 0 minutes turns automatic save off.	Desenhos ainda sem arquivo são salvos na versão padrão. 0 minutos desativa o salvamento automático.
+	DView	Vista dinâmica
 	DWG	DWG
 	DWG Reference...	Referência DWG...
 	DXF	DXF
+	DXF 2010 and earlier keep them. Use Save As to keep them in the drawing.	O DXF 2010 e versões anteriores os mantêm. Use Salvar como para mantê-los no desenho.
+	DXF keeps them. Use Save As to keep them in the drawing.	O DXF os mantém. Use Salvar como para mantê-los no desenho.
 	Dynamic Block Data	Dados de bloco dinâmico
 	Dynamic Block Grips	Pinças de bloco dinâmico
 	Dynamic Block Reference	Referência de bloco dinâmico
@@ -323,6 +328,7 @@ menu	Draw	Desenho
 	Enter an option	Digite uma opção
 	Enter angle of xline	Digite o ângulo da linha infinita
 	Enter angle of xline (0)	Digite o ângulo da linha infinita (0)
+	Enter angle of xline (0) or	Digite o ângulo da linha infinita (0) ou
 	Enter area of rectangle in current units	Digite a área do retângulo nas unidades atuais
 	Enter attribute prompt	Digite o texto de solicitação do atributo
 	Enter attribute tag name	Digite o nome do rótulo do atributo
@@ -335,6 +341,7 @@ menu	Draw	Desenho
 	Enter degree of spline	Digite o grau da spline
 	Enter delta angle	Digite o ângulo delta
 	Enter delta length	Digite o comprimento delta
+	Enter delta length or	Digite o comprimento delta ou
 	Enter dimension text	Digite o texto da cota
 	Enter dimension text (<> = measurement)	Digite o texto da cota (<> = medida)
 	Enter dimension value or [name=expression]	Digite o valor da cota ou [nome=expressão]
@@ -594,6 +601,7 @@ menu	Modify	Modificar
 	Multiline Text...	Texto multilinha...
 	Multiline...	Multilinha...
 	Multiple	Múltiplo
+	Multiple Insert	Inserção múltipla
 	Multiple Point	Ponto múltiplo
 	My	Minhas
 	My properties: not available yet	Minhas propriedades: ainda não disponíveis
@@ -760,6 +768,8 @@ menu	Modify	Modificar
 	Quit CADCraft	Sair do CADCraft
 	Radians	Radianos
 	Raster Image	Imagem raster
+	Raster Image Reference...	Referência de imagem raster...
+	Raster Images	Imagens raster
 	Ray	Semirreta
 	Read-only	Somente leitura
 	Realtime	Tempo real
@@ -813,9 +823,11 @@ menu	Modify	Modificar
 	Sample output	Amostra de saída
 	Save (⌘S)	Salvar (⌘S)
 	Save alias	Salvar alias
+	Save Anyway	Salvar mesmo assim
 	Save As...	Salvar como...
 	Save Block	Salvar bloco
 	Save Block As	Salvar bloco como
+	Save cancelled: {path} was not changed.	Salvamento cancelado: {path} não foi alterado.
 	Save changes to block "{name}"?	Salvar alterações no bloco "{name}"?
 	Save changes to {name}?	Salvar alterações em {name}?
 	Save Layer State	Salvar estado de camada
@@ -824,6 +836,7 @@ menu	Modify	Modificar
 	Save Reference Edits	Salvar alterações da referência
 	Save State	Salvar estado
 	Saved Path	Caminho salvo
+	Saving {name} will remove content	Salvar {name} removerá conteúdo
 	Scale List...	Lista de escalas...
 	Scientific	Científico
 	Screen magnifiers, screen readers and recorders follow the system cursor.	Ampliadores de tela, leitores de tela e gravadores acompanham o cursor do sistema.
@@ -857,7 +870,9 @@ menu	Modify	Modificar
 	Select an arc.	Selecione um arco.
 	Select an object	Selecione um objeto
 	Select an object to change	Selecione um objeto para alterar
+	Select an object to change or	Selecione um objeto para alterar ou
 	Select an object to measure	Selecione um objeto para medir
+	Select an object to measure or	Selecione um objeto para medir ou
 	Select an object.	Selecione um objeto.
 	Select an open curve.	Selecione uma curva aberta.
 	Select an open line, arc, polyline, ellipse arc or spline.	Selecione uma linha aberta, arco, polilinha, arco elíptico ou spline.
@@ -872,8 +887,10 @@ menu	Modify	Modificar
 	Select first line	Selecione a primeira linha
 	Select first line or arc	Selecione a primeira linha ou arco
 	Select first object	Selecione o primeiro objeto
+	Select first object or	Selecione o primeiro objeto ou
 	Select first point	Selecione o primeiro ponto
 	Select nested objects to copy	Selecione objetos aninhados para copiar
+	Select nested objects to copy or	Selecione objetos aninhados para copiar ou
 	Select object	Selecione o objeto
 	Select object to dimension	Selecione o objeto a cotar
 	Select object to divide	Selecione o objeto a dividir
@@ -891,6 +908,7 @@ menu	Modify	Modificar
 	Select path curve	Selecione a curva da trajetória
 	Select point or object	Selecione um ponto ou objeto
 	Select polyline	Selecione uma polilinha
+	Select polyline or	Selecione uma polilinha ou
 	Select second line	Selecione a segunda linha
 	Select second line or shift-select to apply corner	Selecione a segunda linha ou use Shift para aplicar o canto
 	Select second object	Selecione o segundo objeto
@@ -968,8 +986,10 @@ menu	Modify	Modificar
 	Specify axis endpoint of ellipse	Especifique a extremidade do eixo da elipse
 	Specify base diameter	Especifique o diâmetro da base
 	Specify base point	Especifique o ponto base
+	Specify base point or	Especifique o ponto base ou
 	Specify base point or displacement (drag with the middle mouse button for realtime pan)	Especifique o ponto base ou o deslocamento (arraste com o botão do meio do mouse para pan em tempo real)
 	Specify base radius	Especifique o raio da base
+	Specify base radius or	Especifique o raio da base ou
 	Specify center of donut	Especifique o centro do anel
 	Specify center of ellipse	Especifique o centro da elipse
 	Specify center of polygon	Especifique o centro do polígono
@@ -1012,6 +1032,7 @@ menu	Modify	Modificar
 	Specify first source point	Especifique o primeiro ponto de origem
 	Specify height	Especifique a altura
 	Specify helix height	Especifique a altura da hélice
+	Specify helix height or	Especifique a altura da hélice ou
 	Specify included angle	Especifique o ângulo incluído
 	Specify insertion base point	Especifique o ponto base de inserção
 	Specify insertion point	Especifique o ponto de inserção
@@ -1030,6 +1051,7 @@ menu	Modify	Modificar
 	Specify new width for all segments	Especifique a nova largura para todos os segmentos
 	Specify next point	Especifique o próximo ponto
 	Specify offset distance	Especifique a distância de offset
+	Specify offset distance or	Especifique a distância de offset ou
 	Specify opposite corner	Especifique o canto oposto
 	Specify other corner point	Especifique o outro ponto de canto
 	Specify other endpoint of axis	Especifique a outra extremidade do eixo
@@ -1042,6 +1064,7 @@ menu	Modify	Modificar
 	Specify radius of circle	Especifique o raio do círculo
 	Specify rotation angle	Especifique o ângulo de rotação
 	Specify rotation angle of text	Especifique o ângulo de rotação do texto
+	Specify rotation angle or	Especifique o ângulo de rotação ou
 	Specify scale factor	Especifique o fator de escala
 	Specify second angle endpoint	Especifique a segunda extremidade do ângulo
 	Specify second break point	Especifique o segundo ponto de quebra
@@ -1075,8 +1098,10 @@ menu	Modify	Modificar
 	Specify through point	Especifique o ponto de passagem
 	Specify top diameter	Especifique o diâmetro superior
 	Specify top radius	Especifique o raio superior
+	Specify top radius or	Especifique o raio superior ou
 	Specify total angle	Especifique o ângulo total
 	Specify total length	Especifique o comprimento total
+	Specify total length or	Especifique o comprimento total ou
 	Specify width for rectangles	Especifique a largura para retângulos
 	Sphere	Esfera
 	Spherical	Esférico
@@ -1124,8 +1149,11 @@ menu	Modify	Modificar
 	Thaw All Layers	Descongelar todas as camadas
 	Thaw Layer	Descongelar camada
 	The aperture is how near the cursor must come to a point for an object snap to find it.	A abertura é o quanto o cursor precisa se aproximar de um ponto para que o snap a objetos o encontre.
+	The current file doesn't look whole, so {name} stays as it is and the current file will be replaced.	O arquivo atual não parece íntegro, portanto {name} permanecerá como está e o arquivo atual será substituído.
+	The current file is kept as {name} until the next save.	O arquivo atual será mantido como {name} até o próximo salvamento.
 	There is nothing here yet.	Ainda não há nada aqui.
 	This drawing	Este desenho
+	This format can't keep these objects yet: {objects}.	Este formato ainda não pode manter estes objetos: {objects}.
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	Clique direito sensível ao tempo: um clique rápido é Enter; mantê-lo pressionado abre o menu
 	To	A
 	To get started, create or open a drawing.	Para começar, crie ou abra um desenho.
@@ -1202,6 +1230,7 @@ menu	View	Exibir
 	VP Freeze	Congelar no VP
 	W	O
 	WCS	SCM
+	WCS ⌄	SCM ⌄
 	When a command is active	Quando um comando está ativo
 	When no command is active	Quando nenhum comando está ativo
 	Whole words	Whole words
@@ -1214,7 +1243,9 @@ menu	View	Exibir
 	Write Block	Gravar bloco
 	X offset (mm)	Deslocamento X (mm)
 	Xline	Linha infinita
+	Xref	Referência externa
 	Xref and Block In-place Editing	Edição no local de referências externas e blocos
+	Xref Clip Frame	Quadro de recorte de referência externa
 	Xrefs	Referências externas
 	Y offset (mm)	Deslocamento Y (mm)
 	Yards	Jardas
@@ -1232,6 +1263,7 @@ menu	View	Exibir
 	{alias} is already defined; select it and use Edit.	{alias} já está definido; selecione-o e use Editar.
 	{command} is an unknown command.	{command} é um comando desconhecido.
 	{contributors} · {commits}	{contributors} · {commits}
+	{count} more types	Mais {count} tipos
 	{kind} (constraint {id})	{kind} (restrição {id})
 	{kind} constraint {name} = {expression}  (double-click to edit)	Restrição {kind} {name} = {expression}  (clique duas vezes para editar)
 	{name}: {distance} < {angle}°	{name}: {distance} < {angle}°

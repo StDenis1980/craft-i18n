@@ -2577,3 +2577,17 @@
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Dél-afrikai Köztársaság
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagram
+	Insert Diagram	Diagram beszúrása
+	Diagram Design	Diagramtervezés
+	Diagram Styles	Diagramstílusok
+	Decorative Text	Díszítő szöveg
+	Decorative Text Styles	Díszítő szöveg stílusai
+	select a diagram first	először jelöljön ki egy diagramot
+	this diagram was made in another program: WordCraft shows it but can't edit it	ez a diagram másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
+	this diagram can't be edited	ez a diagram nem szerkeszthető
+@msg	a diagram holds at most {MAX_ITEMS} items	egy diagram legfeljebb {MAX_ITEMS} elemet tartalmazhat
+@msg	unknown decorative text style `{id}`	ismeretlen díszítő szövegstílus: `{id}`
+	select a shape or decorative text first	először jelöljön ki egy alakzatot vagy díszítő szöveget

@@ -2646,3 +2646,17 @@ preview	Title	Titel
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Sydafrika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagram
+	Insert Diagram	Indsæt diagram
+	Diagram Design	Diagramdesign
+	Diagram Styles	Diagramtypografier
+	Decorative Text	Dekorativ tekst
+	Decorative Text Styles	Typografier for dekorativ tekst
+	select a diagram first	vælg først et diagram
+	this diagram was made in another program: WordCraft shows it but can't edit it	dette diagram blev oprettet i et andet program: WordCraft viser det, men kan ikke redigere det
+	this diagram can't be edited	dette diagram kan ikke redigeres
+@msg	a diagram holds at most {MAX_ITEMS} items	et diagram kan højst indeholde {MAX_ITEMS} elementer
+@msg	unknown decorative text style `{id}`	ukendt typografi for dekorativ tekst `{id}`
+	select a shape or decorative text first	vælg først en figur eller dekorativ tekst
