@@ -2269,3 +2269,17 @@
 	Uruguay	Уругвай
 	Venezuela	Венесуела
 	South Africa	Південна Африка
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Схема
+	Insert Diagram	Вставити схему
+	Diagram Design	Оформлення схеми
+	Diagram Styles	Стилі схеми
+	Decorative Text	Декоративний текст
+	Decorative Text Styles	Стилі декоративного тексту
+	select a diagram first	спочатку виберіть схему
+	this diagram was made in another program: WordCraft shows it but can't edit it	цю схему створено в іншій програмі: WordCraft показує її, але не може редагувати
+	this diagram can't be edited	цю схему не можна редагувати
+@msg	a diagram holds at most {MAX_ITEMS} items	схема може містити щонайбільше {MAX_ITEMS} елементів
+@msg	unknown decorative text style `{id}`	невідомий стиль декоративного тексту `{id}`
+	select a shape or decorative text first	спочатку виберіть фігуру або декоративний текст

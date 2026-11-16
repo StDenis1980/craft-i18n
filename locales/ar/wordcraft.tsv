@@ -2861,3 +2861,17 @@ preview	Title	العنوان
 	Uruguay	أوروغواي
 	Venezuela	فنزويلا
 	South Africa	جنوب أفريقيا
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	رسم تخطيطي
+	Insert Diagram	إدراج رسم تخطيطي
+	Diagram Design	تصميم الرسم التخطيطي
+	Diagram Styles	أنماط الرسم التخطيطي
+	Decorative Text	نص مزخرف
+	Decorative Text Styles	أنماط النص المزخرف
+	select a diagram first	حدد رسمًا تخطيطيًا أولًا
+	this diagram was made in another program: WordCraft shows it but can't edit it	أُنشئ هذا الرسم التخطيطي في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره
+	this diagram can't be edited	لا يمكن تحرير هذا الرسم التخطيطي
+@msg	a diagram holds at most {MAX_ITEMS} items	يحتوي الرسم التخطيطي على {MAX_ITEMS} عنصرًا كحد أقصى
+@msg	unknown decorative text style `{id}`	نمط النص المزخرف `{id}` غير معروف
+	select a shape or decorative text first	حدد شكلًا أو نصًا مزخرفًا أولًا

@@ -11,6 +11,7 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
+	A new version is available. Download it to replace this version?	Uma nova versão está disponível. Baixá-la para substituir esta versão?
 	A new version is available. Would you like to relaunch with the updated version?	Uma nova versão está disponível. Reiniciar com a nova versão?
 	All	Todos
 	All releases	Todos os lançamentos
@@ -36,6 +37,7 @@ column	App	Aplicativo
 month	Apr	abr.
 	Arch package (.pkg.tar.zst)	Pacote Arch (.pkg.tar.zst)
 	ArtCraft Launcher	ArtCraft Launcher
+	ArtCraft Launcher is still running	O ArtCraft Launcher ainda está em execução
 	ArtCraft Launcher {version}	ArtCraft Launcher {version}
 	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} está disponível.
 @plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} atualização disponível|ArtCraft Launcher · {n} atualizações disponíveis
@@ -87,6 +89,7 @@ month	Feb	fev.
 @id	filter.notinstalled	Não instalados
 @id	filter.updates	Atualizações
 	Flatpak bundle	Pacote Flatpak
+	Frequently used	Usados frequentemente
 	Full changelog	Histórico completo de alterações
 	GitHub limit hit; back in {min} min	Limite do GitHub atingido; volta em {min} min
 	GitHub repository	Repositório no GitHub
@@ -119,6 +122,7 @@ filter	Installed	Instalados
 	Installing, then restarting…	Instalando e reiniciando…
 	Installing…	Instalando…
 figcraft	Interface design and prototyping	Design de interfaces e prototipagem
+	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	Ele está na bandeja do sistema: abra-o ou feche-o a partir do ícone da bandeja, ou desative isso nas configurações.
 month	Jan	jan.
 	Join the ArtCraft community on Discord	Entre na comunidade ArtCraft no Discord
 	Join the ArtCraft Discord	Entrar no Discord da ArtCraft
@@ -126,6 +130,7 @@ month	Jan	jan.
 month	Jul	jul.
 month	Jun	jun.
 	Keep running in the tray when the window is closed	Continuar na bandeja do sistema ao fechar a janela
+	Last updated: {date}	Última atualização: {date}
 	Latest	Última
 column	Latest	Última
 	Latest release	Último lançamento
@@ -144,11 +149,14 @@ column	Latest	Última
 month	Mar	mar.
 	Match system	Igual ao sistema
 month	May	mai.
+	More actions for {name}	Mais ações para {name}
 effectcraft	Motion graphics and visual effects	Motion graphics e efeitos visuais
+	Name (Z–A)	Nome (Z–A)
 	NEW	NOVO
 	New apps	Novos aplicativos
 	New installs use this folder. Updates stay in their current location.	Novas instalações usam esta pasta. As atualizações mantêm o local atual.
 	Newest release	Lançamento mais recente
+	Next app	Próximo aplicativo
 	Next picture (→)	Próxima imagem (→)
 	No apps match	Nenhum aplicativo encontrado
 	No downloads for this system	Nenhum download disponível para este sistema
@@ -161,6 +169,7 @@ effectcraft	Motion graphics and visual effects	Motion graphics e efeitos visuais
 	Notify me when an installed app has an update	Notificar quando um aplicativo instalado tiver atualização
 month	Nov	nov.
 month	Oct	out.
+	On Linux, custom folders use AppImage format.	No Linux, pastas personalizadas usam o formato AppImage.
 	Only when I ask	Apenas quando eu pedir
 	Open ArtCraft Launcher to update.	Abra o ArtCraft Launcher para atualizar.
 	Open on GitHub	Abrir no GitHub
@@ -172,10 +181,12 @@ lightcraft	Photo library and raw development	Biblioteca de fotos e revelação R
 	Platforms	Plataformas
 	Portable (.zip)	Portátil (.zip)
 deckcraft	Presentations and slide shows	Apresentações e slides
+	Previous app	Aplicativo anterior
 	Previous picture (←)	Imagem anterior (←)
 	Questions, ideas and news from the ArtCraft team	Dúvidas, ideias e novidades da equipe ArtCraft
 	Quit ArtCraft Launcher	Sair do ArtCraft Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Leitura, organização e proteção de PDFs
+	Recently updated	Atualizados recentemente
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Gravação, edição e mixagem de áudio
 	Reinstall	Reinstalar
@@ -202,6 +213,7 @@ month	Sep	set.
 	Show in Files	Mostrar no gerenciador de arquivos
 	Show in Finder	Mostrar no Finder
 	Show the window on the current desktop	Mostrar a janela na área de trabalho atual
+	Show {n} more changes	Mostrar mais {n} alterações
 	Sort	Ordenar
 @id	sort.inspired	Inspirado em
 @id	sort.installed	Versão instalada
@@ -248,6 +260,7 @@ gridcraft	Spreadsheets and data	Planilhas e dados
 vectorcraft	Vector illustration	Ilustração vetorial
 	Verifying checksum…	Conferindo a soma de verificação…
 	Verifying…	Verificando…
+column	Version	Versão
 	Version {latest}	Versão {latest}
 	Version {version} installed	Versão {version} instalada
 filmcraft	Video editing, color and sound	Edição de vídeo, cor e som
@@ -256,6 +269,7 @@ filmcraft	Video editing, color and sound	Edição de vídeo, cor e som
 	Visit getartcraft.com	Visitar getartcraft.com
 	Waiting for another app…	Aguardando outro aplicativo…
 	Waiting for other installs…	Aguardando outras instalações…
+	Website (coming soon)	Site (em breve)
 	What's new	Novidades
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Quando ativado, abrir o launcher pela barra de menus traz a janela para a área de trabalho atual. Quando desativado, o macOS alterna para a área de trabalho onde a janela estava.
 	Windows will remove it like any installed program. Your documents and settings stay.	O Windows o removerá como qualquer programa instalado. Seus documentos e configurações serão mantidos.
@@ -275,6 +289,10 @@ wordcraft	Writing and document design	Escrita e design de documentos
 @msg	{name} is running. Quit it, then try again.	{name} está em execução. Feche-o e tente novamente.
 @msg	{name} updated to {version}	{name} atualizado para {version}
 @msg	{name} updated to {version} (this release publishes no checksum, so only its size was checked)	{name} atualizado para {version} (este lançamento não publica soma de verificação, então apenas o tamanho foi verificado)
+@msg	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	{name} foi instalado a partir do AUR ({pkg}). Atualize-o com seu auxiliar do AUR (por exemplo: yay -S {pkg})
+@msg	{name} was installed from the AUR ({pkg}). Update it with {cmd}	{name} foi instalado a partir do AUR ({pkg}). Atualize-o com {cmd}
+@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	{name} foi instalado a partir do repositório {repo} ou do AUR ({pkg}). Atualize-o com seu auxiliar do AUR (por exemplo: yay -S {pkg}) ou sudo pacman -Syu
+@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with {cmd} or sudo pacman -Syu	{name} foi instalado a partir do repositório {repo} ou do AUR ({pkg}). Atualize-o com {cmd} ou sudo pacman -Syu
 @msg	{name} was removed	{name} foi removido
 	{name} {version}	{name} {version}
 	{name} {v} is available	{name} {v} está disponível

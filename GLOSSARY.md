@@ -76,3 +76,58 @@ _Avoid_: dictionary download, language download
 **Licence class**: how an upstream file's licence lets the suite ship it: **Embeddable** (may be
 built into a release), **Download-only** (only as a separate, unmodified file in a Language pack)
 or **Excluded** (never shipped).
+
+**Suggestion**: a proposed translation from a logged-in contributor. It changes no catalog until a
+Reviewer accepts it.
+_Avoid_: submission, proposal
+
+**Vote**: a contributor's support for one Suggestion. Votes rank Suggestions; they never accept one.
+
+**Reviewer**: a trusted speaker of one locale who accepts or declines that locale's Suggestions. A
+Reviewer is per locale, never global.
+
+**Diagram**: an editable arrangement of labeled shapes, such as a process, hierarchy,
+cycle or relationship. Distinct from a numeric-data chart, so a locale's Diagram must not be
+the same word as its Chart: both sit on the Insert tab. `ar`, `bg`, `de`, `et` and `uk` use a
+schema/scheme word for this reason. In `sv` Diagram equals Chart (both "Diagram") by a native
+speaker's choice, confirmed in craft-i18n#211, so it is a deliberate exception. In `da` and `hu`
+the draft Diagram still equals Chart; the candidate words there already mean Figure or have
+another main sense, so the choice waits for a native speaker. The checker lists these three as
+known exceptions.
+
+**Decorative Text**: text styled with fills, outlines, effects or geometric warping.
+These feature names describe what the app does and are translated by meaning, not
+kept as English brand names.
+
+## Shared Diagram and Decorative Text wording
+
+The WordCraft catalog uses the same terms as GridCraft
+([storytold/gridcraft#3622](https://github.com/storytold/gridcraft/pull/3622), head `beae40d`)
+for shared language/script variants, except `de` (Schema) and `uk` (Схема), which changed
+here so Diagram differs from Chart; that GridCraft PR should adopt them before it merges. GridCraft's `pt` module is Brazilian Portuguese (`pt-br` here), its `sr`
+module is Serbian Latin (`sr-latn` here), and its `zh` module is Simplified Chinese
+(`zh-hans` here). Serbian Cyrillic and Traditional Chinese keep their own scripts.
+
+| Locale | Diagram | Decorative Text |
+| --- | --- | --- |
+| cs | Diagram | Ozdobný text |
+| de | Schema | Dekorativer Text |
+| es | Diagrama | Texto decorativo |
+| fr | Diagramme | Texte décoratif |
+| it | Diagramma | Testo decorativo |
+| ja | 図解 | 装飾文字 |
+| ko | 다이어그램 | 장식 텍스트 |
+| nl | Diagram | Decoratieve tekst |
+| pl | Diagram | Tekst ozdobny |
+| pt-br | Diagrama | Texto decorativo |
+| ro | Diagramă | Text decorativ |
+| ru | Схема | Декоративный текст |
+| sr-latn | Dijagram | Ukrasni tekst |
+| tr | Diyagram | Dekoratif Metin |
+| uk | Схема | Декоративний текст |
+| vi | Sơ đồ | Chữ trang trí |
+| zh-hans | 图示 | 装饰文字 |
+
+These are the agreed draft terms, not a claim of native-speaker review. The regression
+test pins the shared values so later wording changes receive deliberate cross-app
+review. Missing translations continue to fall back to English.

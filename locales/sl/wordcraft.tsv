@@ -2831,3 +2831,17 @@ preview	Title	Naslov
 	Uruguay	Urugvaj
 	Venezuela	Venezuela
 	South Africa	Južna Afrika
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagram
+	Insert Diagram	Vstavi diagram
+	Diagram Design	Oblikovanje diagrama
+	Diagram Styles	Slogi diagrama
+	Decorative Text	Okrasno besedilo
+	Decorative Text Styles	Slogi okrasnega besedila
+	select a diagram first	najprej izberite diagram
+	this diagram was made in another program: WordCraft shows it but can't edit it	ta diagram je bil ustvarjen v drugem programu: WordCraft ga prikaže, vendar ga ne more urejati
+	this diagram can't be edited	tega diagrama ni mogoče urejati
+@msg	a diagram holds at most {MAX_ITEMS} items	diagram lahko vsebuje največ {MAX_ITEMS} elementov
+@msg	unknown decorative text style `{id}`	neznan slog okrasnega besedila `{id}`
+	select a shape or decorative text first	najprej izberite obliko ali okrasno besedilo

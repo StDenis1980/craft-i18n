@@ -2296,3 +2296,17 @@
 	Uruguay	ウルグアイ
 	Venezuela	ベネズエラ
 	South Africa	南アフリカ
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	図解
+	Insert Diagram	図解を挿入
+	Diagram Design	図解のデザイン
+	Diagram Styles	図解のスタイル
+	Decorative Text	装飾文字
+	Decorative Text Styles	装飾文字のスタイル
+	select a diagram first	先に図解を選択してください
+	this diagram was made in another program: WordCraft shows it but can't edit it	この図解は別のプログラムで作成されました。WordCraft では表示できますが編集できません
+	this diagram can't be edited	この図解は編集できません
+@msg	a diagram holds at most {MAX_ITEMS} items	図解には最大 {MAX_ITEMS} 個の項目を含められます
+@msg	unknown decorative text style `{id}`	不明な装飾文字のスタイル `{id}`
+	select a shape or decorative text first	先に図形または装飾文字を選択してください

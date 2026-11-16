@@ -2684,3 +2684,17 @@ preview	Title	Esempio
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Sudafrica
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Diagramma
+	Insert Diagram	Inserisci diagramma
+	Diagram Design	Progettazione diagramma
+	Diagram Styles	Stili diagramma
+	Decorative Text	Testo decorativo
+	Decorative Text Styles	Stili di testo decorativo
+	select a diagram first	seleziona prima un diagramma
+	this diagram was made in another program: WordCraft shows it but can't edit it	questo diagramma è stato creato in un altro programma: WordCraft lo mostra ma non può modificarlo
+	this diagram can't be edited	questo diagramma non può essere modificato
+@msg	a diagram holds at most {MAX_ITEMS} items	un diagramma può contenere al massimo {MAX_ITEMS} elementi
+@msg	unknown decorative text style `{id}`	stile di testo decorativo sconosciuto `{id}`
+	select a shape or decorative text first	seleziona prima una forma o del testo decorativo

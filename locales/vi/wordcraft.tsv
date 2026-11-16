@@ -2653,3 +2653,17 @@ template	Letter	Thư
 	Uruguay	Uruguay
 	Venezuela	Venezuela
 	South Africa	Nam Phi
+
+# Descriptive feature names; legacy rows remain for earlier app pins.
+	Diagram	Sơ đồ
+	Insert Diagram	Chèn sơ đồ
+	Diagram Design	Thiết kế sơ đồ
+	Diagram Styles	Kiểu sơ đồ
+	Decorative Text	Chữ trang trí
+	Decorative Text Styles	Kiểu chữ trang trí
+	select a diagram first	hãy chọn một sơ đồ trước
+	this diagram was made in another program: WordCraft shows it but can't edit it	sơ đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không thể chỉnh sửa
+	this diagram can't be edited	không thể chỉnh sửa sơ đồ này
+@msg	a diagram holds at most {MAX_ITEMS} items	một sơ đồ chứa tối đa {MAX_ITEMS} mục
+@msg	unknown decorative text style `{id}`	kiểu chữ trang trí không xác định `{id}`
+	select a shape or decorative text first	hãy chọn một hình hoặc chữ trang trí trước
