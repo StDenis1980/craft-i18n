@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Alle)"
+
+msgid "(no style)"
+msgstr "(geen stijl)"
+
+msgid "(no suggestions)"
+msgstr "(geen suggesties)"
+
+msgid "(normal text)"
+msgstr "(normale tekst)"
+
+msgid "(not matched)"
+msgstr "(niet gekoppeld)"
+
+msgid "(picture or object)"
+msgstr "(afbeelding of object)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 of meer tekens"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Opmaakbeperkingen"
+
+msgid "1.5 Line Spacing"
+msgstr "Regelafstand 1,5"
+
+msgid "1/4 Em Space"
+msgstr "1/4 emspatie"
+
+msgid "1×2 Empty Matrix"
+msgstr "Lege matrix 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Lege matrix 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Wijzigingsbeperkingen"
+
+msgid "2×1 Empty Matrix"
+msgstr "Lege matrix 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Determinant 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Lege matrix 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Eenheidsmatrix 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Eenheidsmatrix 2×2 (ijl)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Matrix 2×2 in vierkante haakjes"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Matrix 2×2 met dubbele verticale strepen"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Matrix 2×2 in ronde haakjes"
+
+msgid "2×3 Empty Matrix"
+msgstr "Lege matrix 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Beveiliging inschakelen"
+
+msgid "3×1 Empty Matrix"
+msgstr "Lege matrix 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Lege matrix 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Lege matrix 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Eenheidsmatrix 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Eenheidsmatrix 3×3 (ijl)"
+
+msgid "<< Less"
+msgstr "<< Minder"
+
+msgid "<< Remove"
+msgstr "<< Verwijderen"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "een diagram kan maximaal {MAX_ITEMS} items bevatten"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "de groepering van een tekenvlak kan niet worden opgeheven"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "een tekenvlak kan niet in een tekstvak"
+
+msgid "A file dialog is already open."
+msgstr "Er is al een bestandsdialoogvenster geopend."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Een gratis, open source-tekstverwerker die volledig van scratch in Rust is geschreven.\nOnderdeel van de Crafting Apps van het team van ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "een groep met Word-inkt kan nog niet worden opgeheven"
+
+msgid "A mail merge field"
+msgstr "Een samenvoegveld"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Een genummerde reeks (figuren, tabellen…)"
+
+msgid "A password is required to open this document."
+msgstr "Er is een wachtwoord vereist om dit document te openen."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Een inhoudsopgave"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Over WordCraft"
+
+msgid "Above Chart"
+msgstr "Boven grafiek"
+
+msgid "Above the item"
+msgstr "Boven het item"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Gevallen voor absolute waarde"
+
+msgid "Accent"
+msgstr "Accent"
+
+msgid "Accent Gradient"
+msgstr "Verloop"
+
+msgid "Accent with Reflection"
+msgstr "Verloop met weerspiegeling"
+
+msgid "Accent {n}"
+msgstr "Accent {n}"
+
+msgid "Accents"
+msgstr "Accenten"
+
+msgid "Accept"
+msgstr "Accepteren"
+
+msgid "Accept All Changes"
+msgstr "Alle wijzigingen accepteren"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Deze wijziging accepteren"
+
+msgid "Accessed on"
+msgstr "Geraadpleegd op"
+
+msgid "Accessibility Pane"
+msgstr "Toegankelijkheidspaneel"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Acute"
+msgstr "Acuut"
+
+msgid "Add >>"
+msgstr "Toevoegen >>"
+
+msgid "Add a language"
+msgstr "Een taal toevoegen"
+
+msgid "Add a language…"
+msgstr "Een taal toevoegen…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Een tabel toevoegen"
+
+msgid "Add at least one field."
+msgstr "Voeg minstens één veld toe."
+
+msgid "Add Chart Element"
+msgstr "Grafiekelement toevoegen"
+
+msgid "Add Condition"
+msgstr "Voorwaarde toevoegen"
+
+msgid "Add Field"
+msgstr "Veld toevoegen"
+
+msgid "Add Font…"
+msgstr "Lettertype toevoegen…"
+
+msgid "Add gradient stop"
+msgstr ""
+
+msgid "Add line numbering"
+msgstr "Regelnummering toevoegen"
+
+msgid "Add New Source…"
+msgstr "Nieuwe bron toevoegen…"
+
+msgid "Add Object to Selection"
+msgstr "Object toevoegen aan selectie"
+
+msgid "Add Pen"
+msgstr "Pen toevoegen"
+
+msgid "Add Row"
+msgstr "Rij toevoegen"
+
+msgid "Add Series"
+msgstr "Reeks toevoegen"
+
+msgid "Add Shape"
+msgstr "Vorm toevoegen"
+
+msgid "Add Space Before Paragraph"
+msgstr "Ruimte vóór alinea toevoegen"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Spatie toevoegen tussen Aziatische en Latijnse tekst"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Spatie toevoegen tussen Aziatische tekst en cijfers"
+
+msgid "Add tab stop at:"
+msgstr "Tabstop toevoegen op:"
+
+msgid "Add Text"
+msgstr "Tekst toevoegen"
+
+msgid "Add the chapter number"
+msgstr "Hoofdstuknummer toevoegen"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Aan document toevoegen"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Toevoegen aan sneltoegangslijst"
+
+msgid "Add to Style Gallery"
+msgstr "Toevoegen aan stijlgalerij"
+
+msgid "Add whether it is above or below"
+msgstr "Aangeven of het zich boven of onder bevindt"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Toevoegen/bewerken\nbibliografie"
+
+msgid "Add/Edit\nCitation"
+msgstr "Toevoegen/bewerken\ncitaat"
+
+msgid "Add\nNote"
+msgstr "Notitie\ntoevoegen"
+
+msgid "Add\nPen"
+msgstr "Pen\ntoevoegen"
+
+msgid "Add\nShape"
+msgstr "Vorm\ntoevoegen"
+
+msgid "Added 1 font"
+msgstr "1 lettertype toegevoegd"
+
+msgid "Added Fonts"
+msgstr "Toegevoegde lettertypen"
+
+msgid "Added {n} fonts"
+msgstr "{n} lettertypen toegevoegd"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Address Block"
+msgstr "Adresblok"
+
+msgid "Address labels"
+msgstr "Adreslabels"
+
+msgid "Address:"
+msgstr "Adres:"
+
+msgid "Address\nBlock"
+msgstr "Adres\nblok"
+
+msgid "Advanced Find"
+msgstr "Geavanceerd zoeken"
+
+msgid "Advanced Find…"
+msgstr "Geavanceerd zoeken…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "After:"
+msgstr "Na:"
+
+msgid "Agents"
+msgstr "Agents"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Agents die met WordCraft verbonden zijn, kunnen je via de Assistent berichten tonen. Staan ze gedempt, dan horen ze dat je liever niet gestoord wordt."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ah, Latijn. De moedertaal van alle deadlines."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ah, de redactiefase. Mijn favoriet. Heel besluitvaardig."
+
+msgid "Albanian"
+msgstr "Albanees"
+
+msgid "Align Bottom Center"
+msgstr "Uitlijnen onder midden"
+
+msgid "Align Bottom Left"
+msgstr "Uitlijnen onder links"
+
+msgid "Align Bottom Right"
+msgstr "Uitlijnen onder rechts"
+
+msgid "Align Center"
+msgstr "Uitlijnen midden"
+
+msgid "Align Center Left"
+msgstr "Uitlijnen midden links"
+
+msgid "Align Center Right"
+msgstr "Uitlijnen midden rechts"
+
+msgid "Align Top Center"
+msgstr "Uitlijnen boven midden"
+
+msgid "Align Top Left"
+msgstr "Uitlijnen boven links"
+
+msgid "Align Top Right"
+msgstr "Uitlijnen boven rechts"
+
+msgid "Aligned at:"
+msgstr "Uitlijnen op:"
+
+msgid "All - Linear"
+msgstr "Alle - lineair"
+
+msgid "All - Professional"
+msgstr "Alle - professioneel"
+
+msgid "All Borders"
+msgstr "Alle randen"
+
+msgid "All caps"
+msgstr "Alle hoofdletters"
+
+msgid "All Commands"
+msgstr "Alle opdrachten"
+
+msgid "All documents based on the Normal template?"
+msgstr "Alle documenten op basis van het sjabloon Standaard?"
+
+msgid "All Fonts"
+msgstr "Alle lettertypen"
+
+msgid "All Levels"
+msgstr "Alle niveaus"
+
+msgid "All Markup"
+msgstr "Alle markeringen"
+
+msgid "All pages in the range"
+msgstr "Alle pagina's in het bereik"
+
+msgid "All symbol sets"
+msgstr "Alle symboolsets"
+
+msgid "All system fonts are already available."
+msgstr "Alle systeemlettertypen zijn al beschikbaar."
+
+msgid "Allow hanging punctuation"
+msgstr "Hangende interpunctie toestaan"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Latijnse tekst midden in een woord laten afbreken"
+
+msgid "Allow line breaks"
+msgstr "Regeleindes toestaan"
+
+msgid "Allow row to break across pages"
+msgstr "Rij mag over pagina's worden verdeeld"
+
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+msgid "Alt Text"
+msgstr "Alt-tekst"
+
+msgid "Alt text"
+msgstr "Alt-tekst"
+
+msgid "Alt Text Pane"
+msgstr "Paneel alternatieve tekst"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Alt-\ntekst"
+
+msgid "an agent"
+msgstr "een agent"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Een geïnstalleerd taalpakket wordt na deze map gebruikt."
+
+msgid "And"
+msgstr "En"
+
+msgid "Angle Brackets"
+msgstr "Hoekige haakjes"
+
+msgid "Angle Brackets with Separator"
+msgstr "Hoekige haakjes met scheidingsteken"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Hoekige haakjes met twee scheidingstekens"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "De invoegcursor animeren (die beweegt en vervaagt)"
+
+msgid "Animation effects:"
+msgstr "Animatie-effecten:"
+
+msgid "Annotation Reference"
+msgstr "Aantekeningverwijzing"
+
+msgid "Annotation Subject"
+msgstr "Aantekeningonderwerp"
+
+msgid "Annotation Text"
+msgstr "Aantekeningstekst"
+
+msgid "Annoying"
+msgstr "Irritant"
+
+msgid "Another file"
+msgstr "Ander bestand"
+
+msgid "Any Character"
+msgstr "Willekeurig teken"
+
+msgid "Any Digit"
+msgstr "Willekeurig cijfer"
+
+msgid "Any field"
+msgstr "Elk veld"
+
+msgid "Any Letter"
+msgstr "Willekeurige letter"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Iedereen kan dit document openen. Versleutel het met een wachtwoord om het privé te houden."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Iedereen die het document opent, heeft dit wachtwoord nodig."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Toepassen tijdens het typen"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Aziatische regels voor regeleinde toepassen (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Opmaak toepassen op:"
+
+msgid "Apply Style"
+msgstr "Stijl toepassen"
+
+msgid "Apply Styles"
+msgstr "Stijlen toepassen"
+
+msgid "Arabic"
+msgstr "Arabisch"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Boog omlaag"
+
+msgid "Arch Up"
+msgstr "Boog omhoog"
+
+msgid "Argentina"
+msgstr "Argentinië"
+
+msgid "Armenian"
+msgstr "Armeens"
+
+msgid "Arrange\nAll"
+msgstr "Alles\nschikken"
+
+msgid "Article I."
+msgstr "Artikel I."
+
+msgid "Artistic Effects"
+msgstr "Artistieke effecten"
+
+msgid "As Recommended"
+msgstr "Zoals aanbevolen"
+
+msgid "As you type"
+msgstr "Tijdens het typen"
+
+msgid "ASAP"
+msgstr "ZO SNEL MOGELIJK"
+
+msgid "Asian text font:"
+msgstr "Lettertype Aziatische tekst:"
+
+msgid "Asian Typography"
+msgstr "Aziatische typografie"
+
+msgid "Assistant"
+msgstr "Assistent"
+
+msgid "Assistant Suggestions"
+msgstr "Suggesties van de Assistent"
+
+msgid "At least"
+msgstr "Minimaal"
+
+msgid "At least {n}"
+msgstr "Minstens {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Atmosfeer"
+
+msgid "Attach Template"
+msgstr "Sjabloon koppelen"
+
+msgid "Attach…"
+msgstr "Koppelen…"
+
+msgid "Australia"
+msgstr "Australië"
+
+msgid "Austria"
+msgstr "Oostenrijk"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "AutoCorrect"
+
+msgid "AutoCorrect Options"
+msgstr "AutoCorrect-opties"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Automatisch aanpassen"
+
+msgid "AutoFit behavior"
+msgstr "Automatisch aanpassen"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Kolom automatisch aanpassen door te dubbelklikken"
+
+msgid "AutoFit Contents"
+msgstr "Inhoud automatisch aanpassen"
+
+msgid "AutoFit to contents"
+msgstr "Aanpassen aan inhoud"
+
+msgid "AutoFit to window"
+msgstr "Aanpassen aan venster"
+
+msgid "AutoFit Window"
+msgstr "Venster automatisch aanpassen"
+
+msgid "AutoFormat As You Type"
+msgstr "AutoOpmaak tijdens het typen"
+
+msgid "Automatic ({language})"
+msgstr "Automatisch ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automatisch ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Automatische opsommingen"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automatisch volgt de taal van je systeem. Menu's en opdrachten veranderen; je documenten niet."
+
+msgid "Automatic numbered lists"
+msgstr "Automatische nummering"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automatische tabel 1 (3 niveaus)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automatische tabel 2 (2 niveaus)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Woorden in document automatisch afbreken"
+
+msgid "Automatically Update Document Styles"
+msgstr "Documentstijlen automatisch bijwerken"
+
+msgid "Automatically update document styles"
+msgstr "Documentstijlen automatisch bijwerken"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "AutoSave voor documenten die je in WordCraft hebt opgeslagen"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "AutoSave is mislukt: {error}. Sla het document op om automatisch opslaan weer in te schakelen."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "AutoSave is niet beschikbaar in de browser: die kan niet naar je bestanden schrijven. Bij Opslaan wordt een kopie gedownload."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "AutoSave behoudt alleen .docx-, .odt- en .rtf-bestanden; {name} kan niet alle opmaak behouden. Sla op als .docx om AutoSave in te schakelen."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "AutoSave slaat elke wijziging op in het bestand (vereist een opgeslagen document)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "AutoSave schrijft je wijzigingen kort nadat je stopt met typen naar het bestand."
+
+msgid "AutoText"
+msgstr "AutoTekst"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Ballonnen"
+
+msgid "Banded Columns"
+msgstr "Bandkolommen"
+
+msgid "Banded Rows"
+msgstr "Bandrijen"
+
+msgid "Base text:"
+msgstr "Basistekst:"
+
+msgid "Based on: {style}"
+msgstr "Op basis van: {style}"
+
+msgid "Baseline Dots"
+msgstr "Punten op de basislijn"
+
+msgid "Basic Cycle"
+msgstr "Basiscyclus"
+
+msgid "Basic List"
+msgstr "Basislijst"
+
+msgid "Basic Math"
+msgstr "Basiswiskunde"
+
+msgid "Basic Matrix"
+msgstr "Basismatrix"
+
+msgid "Basic Process"
+msgstr "Basisproces"
+
+msgid "Basic Pyramid"
+msgstr "Basispiramide"
+
+msgid "Basic Radial"
+msgstr "Basisradial"
+
+msgid "Basic Venn"
+msgstr "Basis-Venn"
+
+msgid "Bayes' rule"
+msgstr "Bayesregel"
+
+msgid "Before:"
+msgstr "Voor:"
+
+msgid "Beginning of Word"
+msgstr "Begin van woord"
+
+msgid "Behind Text"
+msgstr "Achter tekst"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belarusian"
+msgstr "Wit-Russisch"
+
+msgid "Belgium"
+msgstr "België"
+
+msgid "Below text"
+msgstr "Onder tekst"
+
+msgid "Below the item"
+msgstr "Onder het item"
+
+msgid "Between"
+msgstr "Tussen"
+
+msgid "Bibliography"
+msgstr "Bibliografie"
+
+msgid "Binomial Coefficient"
+msgstr "Binomiaalcoëfficiënt"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binomiaalcoëfficiënt (hoekig)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binomiaalcoëfficiënt met hoekige haakjes"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Binomiale uitbreiding van (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Leeg"
+
+msgid "Blank (Three Columns)"
+msgstr "Leeg (drie kolommen)"
+
+msgid "Blank document"
+msgstr "Leeg document"
+
+msgid "Blank Page"
+msgstr "Lege pagina"
+
+msgid "Block\nAuthors"
+msgstr "Auteurs\nblokkeren"
+
+msgid "Blue:"
+msgstr "Blauw:"
+
+msgid "Body Text"
+msgstr "Bodytekst"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Bodytekst in een korte alinea om de afstand te tonen."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Gewaagde keuze. Ctrl+Z staat klaar als je het nodig hebt."
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Boek"
+
+msgid "Book Title"
+msgstr "Boektitel"
+
+msgid "Book title"
+msgstr "Boektitel"
+
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+msgid "Bookmark name:"
+msgstr "Bladwijzernaam:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Randlijnen"
+
+msgid "Border Painter"
+msgstr "Randpenseel"
+
+msgid "Border\nPainter"
+msgstr "Rand\npenseel"
+
+msgid "Borders and Shading"
+msgstr "Randen en arcering"
+
+msgid "Borders and Shading…"
+msgstr "Randen en arcering…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnië en Herzegovina"
+
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+msgid "Both Sides"
+msgstr "Beide zijden"
+
+msgid "Bottom Border"
+msgstr "Onderrand"
+
+msgid "Bottom Left Cell"
+msgstr "Linkerondercel"
+
+msgid "Bottom Margin"
+msgstr "Ondermarge"
+
+msgid "Bottom of Page"
+msgstr "Onderaan de pagina"
+
+msgid "Bottom Right Cell"
+msgstr "Rechterondercel"
+
+msgid "Box"
+msgstr "Kader"
+
+msgid "Boxed Formula"
+msgstr "Formule in een kader"
+
+msgid "Boxed Formula (example)"
+msgstr "Formule in een kader (voorbeeld)"
+
+msgid "Boxed Formulas"
+msgstr "Formules in een kader"
+
+msgid "Braces"
+msgstr "Accolades"
+
+msgid "Braces with Separator"
+msgstr "Accolades met scheidingsteken"
+
+msgid "Bracket"
+msgstr "Haakje"
+
+msgid "Brackets"
+msgstr "Vierkante haakjes"
+
+msgid "Brackets with Separators"
+msgstr "Vierkante haakjes met scheidingstekens"
+
+msgid "Brazil"
+msgstr "Brazilië"
+
+msgid "Breaks"
+msgstr "Einden"
+
+msgid "Breve"
+msgstr "Brevis"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Bladeren in WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Inhoudsbesturingselement galerij bouwstenen"
+
+msgid "Built in"
+msgstr "Ingebouwd"
+
+msgid "Built-In"
+msgstr "Ingebouwd"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Ingebouwde stijl"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Ingebouwde stijlen kunnen niet worden verwijderd."
+
+msgid "Bulgarian"
+msgstr "Bulgaars"
+
+msgid "Bullet Library"
+msgstr "Opsommingstekensbibliotheek"
+
+msgid "Bullets"
+msgstr "Opsommingstekens"
+
+msgid "By author"
+msgstr "Op auteur"
+
+msgid "Cabo Verde"
+msgstr "Kaapverdië"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Can't be deleted"
+msgstr "Kan niet worden verwijderd"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Kun je een opdracht niet vinden? Druk op {key} en typ wat je wilt doen."
+
+msgid "can't split at the first row"
+msgstr "kan niet splitsen op de eerste rij"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canvas Member"
+msgstr "Canvasobject"
+
+msgid "Capitalize Each Word"
+msgstr "Eerste letter van elk woord als hoofdletter"
+
+msgid "Capitalize first letter of sentences"
+msgstr "De eerste letter van zinnen hoofdletter maken"
+
+msgid "Capitalize first letter of table cells"
+msgstr "De eerste letter van tabelcellen hoofdletter maken"
+
+msgid "Capitalize names of days"
+msgstr "Namen van dagen hoofdletter maken"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Begin een zin met hoofdletter"
+
+msgid "Caption Numbering"
+msgstr "Nummering van bijschriften"
+
+msgid "Caption text"
+msgstr "Bijschrifttekst"
+
+msgid "Caption:"
+msgstr "Bijschrift:"
+
+msgid "Captions"
+msgstr "Bijschriften"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Voorzichtig, nog verder terug en we maken de uitvinding van het papier ongedaan."
+
+msgid "Caret Character"
+msgstr "Caret-teken"
+
+msgid "Case changes"
+msgstr "Letterkast wijzigen"
+
+msgid "Cases (Three Conditions)"
+msgstr "Gevallen (drie voorwaarden)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Gevallen (twee voorwaarden)"
+
+msgid "Cases and Stacks"
+msgstr "Gevallen en stapelingen"
+
+msgid "Catalan"
+msgstr "Catalaans"
+
+msgid "Catalan (Valencian)"
+msgstr "Catalaans (Valenciaans)"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Categories:"
+msgstr "Categorieën:"
+
+msgid "Category {n}"
+msgstr "Categorie {n}"
+
+msgid "Ceiling"
+msgstr "Plafond"
+
+msgid "Cell"
+msgstr "Cel"
+
+msgid "Cell Margins"
+msgstr "Cellmarges"
+
+msgid "Cell\nMargins"
+msgstr "Cel\nmarges"
+
+msgid "Center Glow"
+msgstr ""
+
+msgid "Centered as Group"
+msgstr "Gecentreerd als groep"
+
+msgid "Change Chart Type"
+msgstr "Grafiektype wijzigen"
+
+msgid "Change Colors"
+msgstr "Kleuren wijzigen"
+
+msgid "Change in y over change in x"
+msgstr "Verandering in y gedeeld door verandering in x"
+
+msgid "Change Layout"
+msgstr "Lay-out wijzigen"
+
+msgid "Change List Level"
+msgstr "Lijstniveau wijzigen"
+
+msgid "Change Password…"
+msgstr "Wachtwoord wijzigen…"
+
+msgid "Change Picture"
+msgstr "Afbeelding wijzigen"
+
+msgid "Change Picture…"
+msgstr "Afbeelding wijzigen…"
+
+msgid "Change Shape"
+msgstr "Vorm wijzigen"
+
+msgid "Change Structure"
+msgstr "Structuur wijzigen"
+
+msgid "Change to Display"
+msgstr "Wijzigen naar weergegeven"
+
+msgid "Change to Inline"
+msgstr "Wijzigen naar inline"
+
+msgid "Change to Level 1"
+msgstr "Wijzig naar niveau 1"
+
+msgid "Change to Level 2"
+msgstr "Wijzig naar niveau 2"
+
+msgid "Change to Level 3"
+msgstr "Wijzig naar niveau 3"
+
+msgid "Change to Level 4"
+msgstr "Wijzig naar niveau 4"
+
+msgid "Change to Level 5"
+msgstr "Wijzig naar niveau 5"
+
+msgid "Change to Level 6"
+msgstr "Overschakelen naar niveau 6"
+
+msgid "Change to Level 7"
+msgstr "Overschakelen naar niveau 7"
+
+msgid "Change to Level 8"
+msgstr "Overschakelen naar niveau 8"
+
+msgid "Change to Level 9"
+msgstr "Overschakelen naar niveau 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Grafiektype\nwijzigen"
+
+msgid "Change\nColors"
+msgstr "Kleuren\nwijzigen"
+
+msgid "Changed lines:"
+msgstr "Gewijzigde regels:"
+
+msgid "Changes"
+msgstr "Wijzigingen"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Hoofdstuk 1"
+
+msgid "Chapter in a book"
+msgstr "Hoofdstuk in een boek"
+
+msgid "Chapters begin at:"
+msgstr "Hoofdstukken beginnen bij:"
+
+msgid "Character Border"
+msgstr "Tekenrand"
+
+msgid "Character code:"
+msgstr "Tekencode:"
+
+msgid "Character in Range"
+msgstr "Teken in bereik"
+
+msgid "Character level"
+msgstr "Tekenniveau"
+
+msgid "Character Position"
+msgstr "Tekenpositie"
+
+msgid "Character Scale"
+msgstr "Tekenschaal"
+
+msgid "Character Shading"
+msgstr "Tekenachtergrond"
+
+msgid "Character Spacing"
+msgstr "Tekenafstand"
+
+msgid "Character spacing"
+msgstr "Tekenafstand"
+
+msgid "Character style"
+msgstr "Tekenstijl"
+
+msgid "Characters (no spaces)"
+msgstr "Tekens (zonder spaties)"
+
+msgid "Characters (with spaces)"
+msgstr "Tekens (met spaties)"
+
+msgid "Characters per line:"
+msgstr "Tekens per regel:"
+
+msgid "Chart"
+msgstr "Grafiek"
+
+msgid "Chart Design"
+msgstr "Grafiekontwerp"
+
+msgid "Chart Layouts"
+msgstr "Grafieklay-outs"
+
+msgid "Chart Title"
+msgstr "Grafiektitel"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "grafieken en diagrammen kunnen nog niet worden verplaatst of van grootte veranderd"
+
+msgid "Check"
+msgstr "Omgekeerd dakje"
+
+msgid "Check Accessibility"
+msgstr "Toegankelijkheid controleren"
+
+msgid "Check Box Content Control"
+msgstr "Inhoudsbesturingselement selectievakje"
+
+msgid "Check Compatibility"
+msgstr "Compatibiliteit controleren"
+
+msgid "Check for Errors"
+msgstr "Controleren op fouten"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Spelling controleren tijdens het typen"
+
+msgid "Check spelling as you type"
+msgstr "Spelling controleren tijdens het typen"
+
+msgid "Check\nAccessibility"
+msgstr "Toegankelijkheid\ncontroleren"
+
+msgid "Checked styles are allowed:"
+msgstr "Aangevinkte stijlen zijn toegestaan:"
+
+msgid "Checked symbol"
+msgstr "Symbool voor aangevinkte status"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Pijl omlaag"
+
+msgid "Chevron Up"
+msgstr "Pijl omhoog"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "China"
+msgstr "China"
+
+msgid "Chinese (Simplified)"
+msgstr "Chinees (vereenvoudigd)"
+
+msgid "Chinese (Traditional)"
+msgstr "Chinees (traditioneel)"
+
+msgid "Choose a command"
+msgstr "Kies een opdracht"
+
+msgid "Choose a shortcut"
+msgstr "Kies een sneltoets"
+
+msgid "Choose List Item"
+msgstr "Lijstitem kiezen"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Kies het werkblad met de geadresseerden."
+
+msgid "Circle area from its radius"
+msgstr "Oppervlakte van een cirkel uit de straal"
+
+msgid "Circled Dot"
+msgstr "Omkringde punt"
+
+msgid "Circled Plus"
+msgstr "Omkringde plus"
+
+msgid "Circled Times"
+msgstr "Omkringd kruisteken"
+
+msgid "Citation Style"
+msgstr "Citaatstijl"
+
+msgid "Citations"
+msgstr "Citaten"
+
+msgid "Citations & Bibliography"
+msgstr "Citaten en bibliografie"
+
+msgid "Clear All Formatting"
+msgstr "Alle opmaak wissen"
+
+msgid "Clear Character Formatting"
+msgstr "Tekenopmaak wissen"
+
+msgid "Clear Character Style"
+msgstr "Tekenstijl wissen"
+
+msgid "Clear Formatting Level"
+msgstr "Opmaakniveau wissen"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Alineaopmaak wissen"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Klik op een rand tussen twee cellen om ze samen te voegen. Esc stopt."
+
+msgid "Click an item to paste it."
+msgstr "Klik op een item om het te plakken."
+
+msgid "Click level to modify:"
+msgstr "Klik op een niveau om het te wijzigen:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Klik op het lege tekstvak waarin de tekst verdergaat (Esc annuleert)"
+
+msgid "Click to switch back to inserting"
+msgstr "Klik om terug te keren naar invoegen"
+
+msgid "Clipboard Contents"
+msgstr "Klembordinhoud"
+
+msgid "Clipboard Items"
+msgstr "Klemborditems"
+
+msgid "Clipboard Pane"
+msgstr "Klembordvenster"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Vergelijking sluiten"
+
+msgid "Close Header and Footer"
+msgstr "Koptekst en voettekst sluiten"
+
+msgid "Close Outline View"
+msgstr "Overzichtsweergave sluiten"
+
+msgid "Close Outline\nView"
+msgstr "Overzichts-\nweergave sluiten"
+
+msgid "Clustered Bar"
+msgstr "Gegroepeerde balk"
+
+msgid "Clustered Column"
+msgstr "Gegroepeerde kolom"
+
+msgid "cm"
+msgstr ""
+
+msgid "Col #:"
+msgstr "Kol.:"
+
+msgid "Collapse Selection"
+msgstr "Selectie inklappen"
+
+msgid "Collate copies"
+msgstr "Exemplaren sorteren"
+
+msgid "Collect entries from:"
+msgstr "Vermeldingen ophalen uit:"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Colon Equal"
+msgstr "Dubbele punt gelijk"
+
+msgid "Color model:"
+msgstr "Kleurmodel:"
+
+msgid "Color only"
+msgstr "Alleen kleur"
+
+msgid "Color: {color}"
+msgstr "Kleur: {color}"
+
+msgid "Colorful"
+msgstr "Kleurrijk"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Column Break"
+msgstr "Kolomeinde"
+
+msgid "Column Selection"
+msgstr "Kolomselectie"
+
+msgid "Column {n}"
+msgstr "Kolom {n}"
+
+msgid "Column:"
+msgstr "Kolom:"
+
+msgid "Combine Documents"
+msgstr "Documenten samenvoegen"
+
+msgid "Combo Box Content Control"
+msgstr "Inhoudsbesturingselement combobox"
+
+msgid "Commands"
+msgstr "Opdrachten"
+
+msgid "Commas"
+msgstr "Komma's"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Opmerkingen naast elke pagina en bijgehouden wijzigingen in pdf's, afdrukken en afbeeldingen; een opmerkingenlijst aan het einde van webpagina's, Markdown en tekst."
+
+msgid "Comments Pane"
+msgstr "Opmerkingenpaneel"
+
+msgid "Common Accent Objects"
+msgstr "Veelgebruikte accentobjecten"
+
+msgid "Common Brackets"
+msgstr "Veelgebruikte haakjes"
+
+msgid "Common Fractions"
+msgstr "Veelgebruikte breuken"
+
+msgid "Common Functions"
+msgstr "Veelgebruikte functies"
+
+msgid "Common Large Operators"
+msgstr "Veelgebruikte grote operatoren"
+
+msgid "Common Operator Structures"
+msgstr "Veelgebruikte operatorstructuren"
+
+msgid "Common Operators"
+msgstr "Veelgebruikte operatoren"
+
+msgid "Common Radicals"
+msgstr "Veelgebruikte wortels"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Veelgebruikte subscripts en superscripts"
+
+msgid "Communication"
+msgstr "Communicatie"
+
+msgid "Community\nDiscord"
+msgstr "Discord-\ncommunity"
+
+msgid "Compact"
+msgstr "Compact"
+
+msgid "Compare Documents"
+msgstr "Documenten vergelijken"
+
+msgid "Compare to"
+msgstr "Vergelijken met"
+
+msgid "Compared: {changes} changes"
+msgstr "Vergeleken: {changes} wijzigingen"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Vergelijken met een ander bestand vereist de desktopapp."
+
+msgid "Comparison settings"
+msgstr "Vergelijkingsinstellingen"
+
+msgid "Compress Pictures"
+msgstr "Afbeeldingen comprimeren"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Interpunctie aan het begin van een regel samenpersen"
+
+msgid "Conference"
+msgstr "Conferentie"
+
+msgid "Conference paper"
+msgstr "Conferentiepaper"
+
+msgid "CONFIDENTIAL"
+msgstr "VERTROUWELIJK"
+
+msgid "Confirm password:"
+msgstr "Wachtwoord bevestigen:"
+
+msgid "Connect Shapes"
+msgstr "Vormen verbinden"
+
+msgid "Container Title"
+msgstr "Containertitel"
+
+msgid "Content Control at Selection"
+msgstr "Inhoudsbesturingselement bij selectie"
+
+msgid "Content Control Properties"
+msgstr "Eigenschappen van inhoudsbesturingselement"
+
+msgid "Contents can't be edited"
+msgstr "Inhoud kan niet worden bewerkt"
+
+msgid "Context"
+msgstr "Context"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr ""
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Doorlopend"
+
+msgid "Continuous numbering"
+msgstr "Doorlopende nummering"
+
+msgid "Contour Integral"
+msgstr "Contourintegraal"
+
+msgid "Contour Integral with Limits"
+msgstr "Contourintegraal met grenzen"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Contourintegraal met gestapelde grenzen"
+
+msgid "Contour Integrals"
+msgstr "Contourintegralen"
+
+msgid "Controls"
+msgstr "Besturingselementen"
+
+msgid "Conversions"
+msgstr "Conversies"
+
+msgid "Convert between built-up and linear form"
+msgstr "Schakelen tussen professioneel en lineair"
+
+msgid "Convert Notes"
+msgstr "Notities converteren"
+
+msgid "Convert Text to Table"
+msgstr "Tekst naar tabel converteren"
+
+msgid "Convert Text to Table…"
+msgstr "Tekst naar tabel converteren…"
+
+msgid "Convert to Shapes"
+msgstr "Omzetten naar vormen"
+
+msgid "Convert to Text"
+msgstr "Naar tekst converteren"
+
+msgid "Coproduct"
+msgstr "Coproduct"
+
+msgid "Coproduct with Limits"
+msgstr "Coproduct met grenzen"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Coproduct met ondergrens"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Coproduct met grenzen in subscript en superscript"
+
+msgid "Copy Formatting"
+msgstr "Opmaak kopiëren"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Kopie van de tekst die een bladwijzer markeert"
+
+msgid "Copy Styles"
+msgstr "Stijlen kopiëren"
+
+msgid "Copy to"
+msgstr "Kopiëren naar"
+
+msgid "Copyright Sign"
+msgstr "Auteursrechtsteken"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Onbedoeld gebruik van de cAPS LOCK-toets corrigeren"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Twee hoofdletters aan het begin corrigeren"
+
+msgid "Corrections"
+msgstr "Correcties"
+
+msgid "Cosecant Function"
+msgstr "Cosecansfunctie"
+
+msgid "Cosine 2x"
+msgstr "Cosinus 2x"
+
+msgid "Cosine Function"
+msgstr "Cosinusfunctie"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Cotangentfunctie"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Kan {name} niet downloaden: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Kan WordCraft niet de standaardapp maken: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Kan {path} niet openen: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Tellen per:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Woorden tellen in tekstvakken en notities"
+
+msgid "Courtesy Title"
+msgstr "Titel"
+
+msgid "Cover Page"
+msgstr "Titelpagina"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Een stijl maken"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Maak een interactieve inhoudsopgave van je document.\n\nZo houd je bij waar je bent en kun je je inhoud snel herordenen.\n\nGa om te beginnen naar het tabblad Start en pas Kop-stijlen toe op de koppen in je document."
+
+msgid "Create Graphic"
+msgstr "Illustratie maken"
+
+msgid "Create Link"
+msgstr "Link maken"
+
+msgid "Create New Style"
+msgstr "Nieuwe stijl maken"
+
+msgid "Create Source"
+msgstr "Bron maken"
+
+msgid "Croatian"
+msgstr "Kroatisch"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Kruisverwijzing"
+
+msgid "Cross-reference:"
+msgstr "Kruisverwijzing:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cube Root"
+msgstr "Derdemachtswortel"
+
+msgid "Current - Linear"
+msgstr "Huidige - lineair"
+
+msgid "Current - Professional"
+msgstr "Huidige - professioneel"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Huidige positie"
+
+msgid "Current record"
+msgstr "Huidig record"
+
+msgid "Current style: {style}"
+msgstr "Huidige stijl: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Gebogen verbindingslijn met pijl"
+
+msgid "Curved Connector"
+msgstr "Gebogen verbindingslijn"
+
+msgid "Custom dictionary"
+msgstr "Aangepast woordenboek"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Aangepaste marges…"
+
+msgid "Custom mark:"
+msgstr "Eigen markering:"
+
+msgid "Custom range"
+msgstr "Aangepast bereik"
+
+msgid "Custom size"
+msgstr "Aangepast formaat"
+
+msgid "Custom Table of Contents…"
+msgstr "Inhoudsopgave op maat…"
+
+msgid "Custom Watermark"
+msgstr "Aangepast watermerk"
+
+msgid "Custom Watermark…"
+msgstr "Aangepast watermerk…"
+
+msgid "Customize"
+msgstr "Aanpassen"
+
+msgid "Customize Keyboard"
+msgstr "Toetsenbord aanpassen"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Sneltoegangslijst aanpassen"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Sneltoegangslijst aanpassen…"
+
+msgid "Customize Ribbon"
+msgstr "Lint aanpassen"
+
+msgid "Customize the Ribbon…"
+msgstr "Het lint aanpassen…"
+
+msgid "Cycle"
+msgstr "Cyclus"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Czech"
+msgstr "Tsjechisch"
+
+msgid "Danish"
+msgstr "Deens"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Donkere modus"
+
+msgid "Dark page (white text on black)"
+msgstr "Donkere pagina (witte tekst op zwarte achtergrond)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr ""
+
+msgid "Dark with Shadow"
+msgstr "Donker met schaduw"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Darkroom"
+
+msgid "Data Labels"
+msgstr "Gegevenslabels"
+
+msgid "Date & Time"
+msgstr "Datum en tijd"
+
+msgid "Date formats:"
+msgstr "Datumnotaties:"
+
+msgid "Date Picker Content Control"
+msgstr "Inhoudsbesturingselement datumkiezer"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Decimal"
+msgstr "Decimaal"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Decoratieve objecten voegen alleen visuele aantrekking toe: schermlezers slaan ze over."
+
+msgid "Decorative Text"
+msgstr "Decoratieve tekst"
+
+msgid "Decorative Text Styles"
+msgstr "Stijlen voor decoratieve tekst"
+
+msgid "Decrease Indent"
+msgstr "Inspringen verkleinen"
+
+msgid "Deep"
+msgstr ""
+
+msgid "Default formatting"
+msgstr "Standaardopmaak"
+
+msgid "Default Paragraph Font"
+msgstr "Standaardalinealettertype"
+
+msgid "Default tab stops:"
+msgstr "Standaardtabstops:"
+
+msgid "Define New Bullet"
+msgstr "Nieuw opsommingsteken definiëren"
+
+msgid "Define New Multilevel List"
+msgstr "Nieuwe meerniveaulijst definiëren"
+
+msgid "Define New Multilevel List…"
+msgstr "Nieuwe meerniveaulijst definiëren…"
+
+msgid "Define New Number Format"
+msgstr "Nieuw nummerformaat definiëren"
+
+msgid "Deflate"
+msgstr "Samenknijpen"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Rond de invoegcursor in de vergelijking verwijderen"
+
+msgid "Delete Back in Equation"
+msgstr "Terug verwijderen in vergelijking"
+
+msgid "Delete Bookmark"
+msgstr "Bladwijzer verwijderen"
+
+msgid "Delete Cells"
+msgstr "Cellen verwijderen"
+
+msgid "Delete Clipboard Item"
+msgstr "Klemborditem verwijderen"
+
+msgid "Delete Columns"
+msgstr "Kolommen verwijderen"
+
+msgid "Delete Comment"
+msgstr "Opmerking verwijderen"
+
+msgid "Delete in Equation"
+msgstr "Verwijderen in vergelijking"
+
+msgid "Delete Label"
+msgstr "Label verwijderen"
+
+msgid "Delete Next Word"
+msgstr "Volgend woord verwijderen"
+
+msgid "Delete Previous Word"
+msgstr "Vorig woord verwijderen"
+
+msgid "Delete Rows"
+msgstr "Rijen verwijderen"
+
+msgid "Delete Selected Ink"
+msgstr "Geselecteerde inkt verwijderen"
+
+msgid "Delete Table"
+msgstr "Tabel verwijderen"
+
+msgid "Delete Table Style"
+msgstr "Tabelstijl verwijderen"
+
+msgid "Deletions:"
+msgstr "Verwijderingen:"
+
+msgid "Delivery address:"
+msgstr "Bezorgadres:"
+
+msgid "Delta Equal To"
+msgstr "Delta gelijk aan"
+
+msgid "Delta over arrow"
+msgstr "Delta boven pijl"
+
+msgid "Demote"
+msgstr "Verlagen"
+
+msgid "Demote to Body Text"
+msgstr "Naar hoofdtekst verplaatsen"
+
+msgid "Derivative as a limit"
+msgstr "Afgeleide als limiet"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Beschrijf wat dit object toont, voor mensen die het niet kunnen zien."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Beschrijf wat deze tabel toont, voor mensen die deze niet kunnen zien."
+
+msgid "Design"
+msgstr "Ontwerp"
+
+msgid "Design Mode"
+msgstr "Ontwerpmodus"
+
+msgid "Detach Template"
+msgstr "Sjabloon loskoppelen"
+
+msgid "Detect language automatically"
+msgstr "Taal automatisch detecteren"
+
+msgid "Developer"
+msgstr "Ontwikkelaar"
+
+msgid "development build"
+msgstr "ontwikkelbuild"
+
+msgid "Diagonal Dots"
+msgstr "Diagonale punten"
+
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Diagramontwerp"
+
+msgid "Diagram Styles"
+msgstr "Diagramstijlen"
+
+msgid "Dictate"
+msgstr "Dicteren"
+
+msgid "Dictionaries"
+msgstr "Woordenboeken"
+
+msgid "Dictionaries folder:"
+msgstr "Woordenboekenmap:"
+
+msgid "Dictionary files"
+msgstr "Woordenboekbestanden"
+
+msgid "Different First Page"
+msgstr "Eerste pagina anders"
+
+msgid "Different Odd & Even Pages"
+msgstr "Oneven en even pagina's anders"
+
+msgid "Differential"
+msgstr "Differentiaal"
+
+msgid "Differential theta"
+msgstr "Differentiaal theta"
+
+msgid "Differential x"
+msgstr "Differentiaal x"
+
+msgid "Differential y"
+msgstr "Differentiaal y"
+
+msgid "Differentials"
+msgstr "Differentialen"
+
+msgid "Direct formatting"
+msgstr "Directe opmaak"
+
+msgid "Directory"
+msgstr "Map"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord-community"
+
+msgid "Display for Review"
+msgstr "Weergave voor revisies"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Weergavetekst"
+
+msgid "Distance from text"
+msgstr "Afstand tot tekst"
+
+msgid "Distance from text:"
+msgstr "Afstand tot tekst:"
+
+msgid "Distribute Columns"
+msgstr "Kolommen gelijkmatig verdelen"
+
+msgid "Distribute letters"
+msgstr "Letters verdelen"
+
+msgid "Distribute Rows"
+msgstr "Rijen gelijkmatig verdelen"
+
+msgid "Distribute spacing"
+msgstr "Afstand verdelen"
+
+msgid "Distributed"
+msgstr "Uitgevuld"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Spelling en grammatica niet controleren"
+
+msgid "Do not check spelling or grammar"
+msgstr "Spelling of grammatica niet controleren"
+
+msgid "DO NOT COPY"
+msgstr "NIET KOPIËREN"
+
+msgid "Do Not Show in TOC"
+msgstr "Niet weergeven in inhoudsopgave"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Wil je de wijzigingen in {name} opslaan?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Einde document"
+
+msgid "Document Formatting"
+msgstr "Documentopmaak"
+
+msgid "Document Grid"
+msgstr "Documentraster"
+
+msgid "Document Information"
+msgstr "Documentinformatie"
+
+msgid "Document name"
+msgstr "Documentnaam"
+
+msgid "Document Property"
+msgstr "Documenteigenschap"
+
+msgid "Document Start"
+msgstr "Begin document"
+
+msgid "Document template:"
+msgstr "Documentsjabloon:"
+
+msgid "Document Text"
+msgstr "Documenttekst"
+
+msgid "Document1"
+msgstr "Document1"
+
+msgid "Document\nPreferences"
+msgstr "Document-\nvoorkeuren"
+
+msgid "Documents you open will show up here."
+msgstr "Documenten die je opent verschijnen hier."
+
+msgid "Does not contain"
+msgstr "Bevat niet"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Dominicaanse Republiek"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Geen ruimte tussen alinea’s van dezelfde stijl toevoegen"
+
+msgid "Don't capitalize after:"
+msgstr "Niet met hoofdletter beginnen na:"
+
+msgid "Don't hyphenate"
+msgstr "Geen afbreekstreepjes gebruiken"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Citaten en bibliografieën van Zotero, Mendeley of EndNote niet voorlezen"
+
+msgid "Don't show me this tip again"
+msgstr "Deze tip niet meer tonen"
+
+msgid "Dot dash"
+msgstr "Punt-streep"
+
+msgid "Dot-dash"
+msgstr "Stippelstreep"
+
+msgid "Dot-dot-dash"
+msgstr ""
+
+msgid "Double"
+msgstr "Dubbel"
+
+msgid "Double Bar"
+msgstr "Dubbele streep"
+
+msgid "Double Closing Quote"
+msgstr "Dubbele sluitende aanhalingstekens"
+
+msgid "Double Dot"
+msgstr "Dubbele punt"
+
+msgid "Double Integral"
+msgstr "Dubbele integraal"
+
+msgid "Double Integral with Limits"
+msgstr "Dubbele integraal met grenzen"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Dubbele integraal met gestapelde grenzen"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dubbele linkerpijl met tekst erboven"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dubbele linkerpijl met tekst eronder"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dubbele links-rechtspijl met tekst erboven"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dubbele links-rechtspijl met tekst eronder"
+
+msgid "Double Opening Quote"
+msgstr "Dubbele openende aanhalingstekens"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dubbele rechterpijl met tekst erboven"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dubbele rechterpijl met tekst eronder"
+
+msgid "Double Spacing"
+msgstr "Dubbele regelafstand"
+
+msgid "Double Square Brackets"
+msgstr "Dubbele vierkante haken"
+
+msgid "Double Strikethrough"
+msgstr "Dubbel doorhalen"
+
+msgid "Double strikethrough"
+msgstr "Dubbel doorhalen"
+
+msgid "Double summation"
+msgstr "Dubbele som"
+
+msgid "Double Underline"
+msgstr "Dubbel onderstrepen"
+
+msgid "Double Vertical Bars"
+msgstr "Dubbele verticale strepen"
+
+msgid "Doughnut"
+msgstr "Donut"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Downloaden staat uit. Klikken op ‘Een taal toevoegen…’ of ‘Installeren’ zet het aan: WordCraft downloadt dan taalpakketten en lettertypen van GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "CONCEPT"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Sleep een rechthoek om een tabel te tekenen, of trek een lijn over cellen om ze te splitsen. Esc stopt."
+
+msgid "Draw Ink"
+msgstr "Inkt tekenen"
+
+msgid "Draw Table"
+msgstr "Tabel tekenen"
+
+msgid "Draw\nTable"
+msgstr "Tabel\ntekenen"
+
+msgid "Drawing Canvas"
+msgstr "Tekencanvas"
+
+msgid "Drawing Tools"
+msgstr "Tekengereedschap"
+
+msgid "Drawing\nCanvas"
+msgstr "Teken\ncanvas"
+
+msgid "Drop Cap"
+msgstr "Verlaagd begin"
+
+msgid "Drop cap"
+msgstr "Verlaagd begin"
+
+msgid "Drop Cap Options…"
+msgstr "Opties voor verlaagd begin…"
+
+msgid "drop caps can't go in a table"
+msgstr "een initiaal kan niet in een tabel"
+
+msgid "Drop-Down List Content Control"
+msgstr "Inhoudsbesturingselement vervolgkeuzelijst"
+
+msgid "Dropped"
+msgstr "Verlaagd"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Verwijdert alle opmaak en plakt platte tekst."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Nederlands, Nederlands of nl"
+
+msgid "E-mail Messages"
+msgstr "E-mailberichten"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Opmerking bewerken"
+
+msgid "Edit Data"
+msgstr "Gegevens bewerken"
+
+msgid "Edit Document"
+msgstr "Document bewerken"
+
+msgid "Edit Equation"
+msgstr "Vergelijking bewerken"
+
+msgid "Edit Field Code"
+msgstr "Veldcode bewerken"
+
+msgid "Edit Field…"
+msgstr "Veld bewerken…"
+
+msgid "Edit Footer"
+msgstr "Voettekst bewerken"
+
+msgid "Edit Header"
+msgstr "Koptekst bewerken"
+
+msgid "Edit Individual Documents…"
+msgstr "Afzonderlijke documenten bewerken…"
+
+msgid "Edit Items"
+msgstr "Items bewerken"
+
+msgid "Edit Recipient List"
+msgstr "Ontvangerslijst bewerken"
+
+msgid "Edit Source"
+msgstr "Bron bewerken"
+
+msgid "Edit\nData"
+msgstr "Gegevens\nbewerken"
+
+msgid "Edit\nRecipient List"
+msgstr "Ontvangers\nlijst bewerken"
+
+msgid "Edited"
+msgstr "Bewerkt"
+
+msgid "Editing endnote"
+msgstr ""
+
+msgid "Editing footnote"
+msgstr ""
+
+msgid "Editing header/footer"
+msgstr "Koptekst/voettekst bewerken"
+
+msgid "Editing in this document is restricted."
+msgstr "Bewerken in dit document is beperkt."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Bewerken — werk rechtstreeks in het document"
+
+msgid "Edition"
+msgstr "Editie"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Egypt"
+msgstr "Egypte"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Hoekverbindingslijn met pijl"
+
+msgid "Elbow Connector"
+msgstr "Hoekverbindingslijn"
+
+msgid "Emphasis"
+msgstr "Nadruk"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Lege matrices"
+
+msgid "Enclose Characters"
+msgstr "Tekens omlijnen"
+
+msgid "Enclosure"
+msgstr "Omraming"
+
+msgid "Encrypt with Password"
+msgstr "Versleutelen met wachtwoord"
+
+msgid "Encrypt with Password…"
+msgstr "Versleutelen met wachtwoord…"
+
+msgid "End of document"
+msgstr "Einde van document"
+
+msgid "End of section"
+msgstr "Einde van sectie"
+
+msgid "End of Word"
+msgstr "Einde van woord"
+
+msgid "Endnote Reference"
+msgstr "Verwijzing naar eindnoot"
+
+msgid "Endnote Text"
+msgstr "Eindnoottekst"
+
+msgid "Endnotes"
+msgstr "Eindnoten"
+
+msgid "Endnotes to footnotes"
+msgstr "Eindnoten naar voetnoten"
+
+msgid "English (Australia)"
+msgstr ""
+
+msgid "English (Canada)"
+msgstr ""
+
+msgid "English (India)"
+msgstr ""
+
+msgid "English (Ireland)"
+msgstr ""
+
+msgid "English (New Zealand)"
+msgstr ""
+
+msgid "English (South Africa)"
+msgstr ""
+
+msgid "English (United Kingdom)"
+msgstr "Engels (Verenigd Koninkrijk)"
+
+msgid "English (United States)"
+msgstr "Engels (Verenigde Staten)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Engels, de talen van dit document en elk geïnstalleerd taalpakket. Taalpakketten voegen spellingwoordenboeken en woordafbreking toe."
+
+msgid "Engrave"
+msgstr "Graveer"
+
+msgid "Enlarge symbol"
+msgstr "Symbool vergroten"
+
+msgid "Enter a number."
+msgstr "Voer een getal in."
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "Opmaak voor nummer opgeven:"
+
+msgid "Enter in Equation"
+msgstr "Enter in vergelijking"
+
+msgid "Enter page number:"
+msgstr "Voer paginanummer in:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Item gemarkeerd."
+
+msgid "Envelope #10"
+msgstr "Envelop nr. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Envelopeadres"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Retouradres op envelop"
+
+msgid "Envelope size:"
+msgstr "Envelopformaat:"
+
+msgid "Envelopes"
+msgstr "Enveloppen"
+
+msgid "Equal by Definition"
+msgstr "Gelijk op basis van definitie"
+
+msgid "Equal column width"
+msgstr "Gelijke kolombreedte"
+
+msgid "Equal Equal"
+msgstr "Dubbel gelijkheidsteken"
+
+msgid "Equal to"
+msgstr "Gelijk aan"
+
+msgid "Equals:"
+msgstr "Is gelijk aan:"
+
+msgid "Equation"
+msgstr "Vergelijking"
+
+msgid "Equation Gallery"
+msgstr "Vergelijkingengalerij"
+
+msgid "Equation Info"
+msgstr "Vergelijkingsinformatie"
+
+msgid "Equation Number"
+msgstr "Vergelijkingsnummer"
+
+msgid "Equation Options"
+msgstr "Vergelijkingsopties"
+
+msgid "Equatorial Guinea"
+msgstr "Equatoriaal-Guinea"
+
+msgid "Erase Ink"
+msgstr "Inkt wissen"
+
+msgid "Errors ({n})"
+msgstr "Fouten ({n})"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estisch"
+
+msgid "Euler's identity"
+msgstr "Identiteit van Euler"
+
+msgid "Even Banded Columns"
+msgstr "Even gebandeerde kolommen"
+
+msgid "Even Banded Rows"
+msgstr "Even gebandeerde rijen"
+
+msgid "Even Page"
+msgstr "Even pagina"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Elke wijziging wordt vastgelegd als een bijgehouden wijziging."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Elke opdracht is beschikbaar voor scripts en AI-agents: voer `wordcraft-cli mcp` uit voor een MCP-server, of start de app met `--control <port>` voor het JSON-besturingskanaal."
+
+msgid "Every field needs a name."
+msgstr "Elk veld heeft een naam nodig."
+
+msgid "Everyone"
+msgstr "Iedereen"
+
+msgid "Exactly"
+msgstr "Precies"
+
+msgid "Exactly {n}"
+msgstr "Precies {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Uitzonderingen (optioneel)"
+
+msgid "Exceptions…"
+msgstr "Uitzonderingen…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Bestaand bestand of webpagina"
+
+msgid "Expand or Collapse Heading"
+msgstr "Kop uitvouwen of samenvouwen"
+
+msgid "Exponential"
+msgstr "Exponentiële functie"
+
+msgid "Exponential series"
+msgstr "Exponentiële reeks"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Een kopie exporteren om te delen (PDF, Word-document)"
+
+msgid "Export Page as PNG"
+msgstr "Pagina exporteren als PNG"
+
+msgid "Extend Selection"
+msgstr "Selectie uitbreiden"
+
+msgid "Extend Selection by Units"
+msgstr "Selectie uitbreiden per eenheid"
+
+msgid "Extra space"
+msgstr "Extra spatie"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Sneller: {command} is {key} op het toetsenbord."
+
+msgid "Field code:"
+msgstr "Veldcode:"
+
+msgid "Field Codes"
+msgstr "Veldcodes"
+
+msgid "Field codes:"
+msgstr "Veldcodes:"
+
+msgid "Field name"
+msgstr "Veldnaam"
+
+msgid "Field name:"
+msgstr "Veldnaam:"
+
+msgid "Field names must be different."
+msgstr "Veldnamen moeten verschillend zijn."
+
+msgid "Field names:"
+msgstr "Veldnamen:"
+
+msgid "Field:"
+msgstr "Veld:"
+
+msgid "Field…"
+msgstr "Veld…"
+
+msgid "Figure"
+msgstr "Figuur"
+
+msgid "File locations"
+msgstr ""
+
+msgid "File name:"
+msgstr "Bestandsnaam:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr ""
+
+msgid "Fill color:"
+msgstr "Vulkleur:"
+
+msgid "Filling in forms"
+msgstr "Formulieren invullen"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Filteren en sorteren"
+
+msgid "Filter Recipients"
+msgstr "Geadresseerden filteren"
+
+msgid "Find in list:"
+msgstr "Zoeken in lijst:"
+
+msgid "Find Next Editable Region"
+msgstr "Volgende bewerkbare regio zoeken"
+
+msgid "Find Previous"
+msgstr "Vorige zoeken"
+
+msgid "Find Recipient"
+msgstr "Ontvanger zoeken"
+
+msgid "Find What Expression"
+msgstr "Gezochte expressie"
+
+msgid "Find What Text"
+msgstr "Gezochte tekst"
+
+msgid "Find what:"
+msgstr "Zoeken naar:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "Printers zoeken…"
+
+msgid "Finish & Merge"
+msgstr "Voltooien en samenvoegen"
+
+msgid "Finish &\nMerge"
+msgstr "Voltooien en\nsamenvoegen"
+
+msgid "Finished"
+msgstr "Voltooid"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "Finnish"
+msgstr "Fins"
+
+msgid "First Column"
+msgstr "Eerste kolom"
+
+msgid "First line"
+msgstr "Eerste regel"
+
+msgid "First line:"
+msgstr "Eerste regel:"
+
+msgid "First Name"
+msgstr "Voornaam"
+
+msgid "First Record"
+msgstr "Eerste record"
+
+msgid "First row of data contains column headers"
+msgstr "Eerste gegevensrij bevat kolomkoppen"
+
+msgid "Fix Position on Page"
+msgstr "Positie op pagina vastzetten"
+
+msgid "Fixed Column Width"
+msgstr "Vaste kolombreedte"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Vloer"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Volgnummer met:"
+
+msgid "Font Color"
+msgstr "Tekstkleur"
+
+msgid "Font color"
+msgstr "Tekstkleur"
+
+msgid "Font color:"
+msgstr "Tekstkleur:"
+
+msgid "Font Dialog"
+msgstr "Lettertypedialoog"
+
+msgid "Font: {font}"
+msgstr "Lettertype: {font}"
+
+msgid "Font…"
+msgstr "Lettertype…"
+
+msgid "Footer"
+msgstr "Voettekst"
+
+msgid "Footnote and Endnote"
+msgstr "Voetnoot en eindnoot"
+
+msgid "Footnote Reference"
+msgstr "Verwijzing naar voetnoot"
+
+msgid "Footnote Text"
+msgstr "Voetnoottekst"
+
+msgid "Footnotes"
+msgstr "Voetnoten"
+
+msgid "Footnotes and endnotes"
+msgstr "Voetnoten en eindnoten"
+
+msgid "Footnotes to endnotes"
+msgstr "Voetnoten naar eindnoten"
+
+msgid "For which item:"
+msgstr "Voor welk item:"
+
+msgid "Format Page Numbers"
+msgstr "Paginanummers opmaken"
+
+msgid "Format Page Numbers…"
+msgstr "Paginanummers opmaken…"
+
+msgid "Format Painter"
+msgstr "Opmaakkwast"
+
+msgid "Format Shape"
+msgstr ""
+
+msgid "Format Shape Pane"
+msgstr "Format Shape Pane"
+
+msgid "Format Shape…"
+msgstr ""
+
+msgid "Formatted"
+msgstr "Opgemaakt"
+
+msgid "Formatted Text"
+msgstr "Opgemaakte tekst"
+
+msgid "Formatting"
+msgstr "Opmaak"
+
+msgid "Formatting at Selection"
+msgstr "Opmaak bij selectie"
+
+msgid "Formatting exceptions"
+msgstr "Uitzonderingen voor opmaak"
+
+msgid "Formatting marks"
+msgstr "Opmaakmarkeringen"
+
+msgid "Formatting saved for new documents:"
+msgstr "Opmaak opgeslagen voor nieuwe documenten:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Opmaak, hoofdlettergebruik, witruimte en tabellen worden vergeleken; de overige instellingen worden bewaard voor later."
+
+msgid "Formula"
+msgstr "Formule"
+
+msgid "Formula:"
+msgstr "Formule:"
+
+msgid "Forward"
+msgstr "Vooruit"
+
+msgid "Fraction"
+msgstr "Breuk"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Breuken (1/2) als breuktekens (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Frankrijk"
+
+msgid "French (France)"
+msgstr "Frans (Frankrijk)"
+
+msgid "From Bottom Left Corner"
+msgstr ""
+
+msgid "From Bottom Right Corner"
+msgstr ""
+
+msgid "From Center"
+msgstr ""
+
+msgid "From text:"
+msgstr "Uit tekst:"
+
+msgid "From Top Left Corner"
+msgstr ""
+
+msgid "From Top Right Corner"
+msgstr ""
+
+msgid "from Unicode (hex)"
+msgstr "uit Unicode (hex)"
+
+msgid "From {name}"
+msgstr "Van {name}"
+
+msgid "From:"
+msgstr "Van:"
+
+msgid "Full page of the same label"
+msgstr "Volledige pagina met hetzelfde label"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Full Screen View"
+
+msgid "Full\nScreen"
+msgstr "Volledig\nscherm"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Leuk weetje: een lege pagina is gewoon een concept dat het zelf nog niet weet."
+
+msgid "Function"
+msgstr "Functie"
+
+msgid "Galician"
+msgstr "Galicisch"
+
+msgid "Gallery"
+msgstr "Galerij"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "Georgisch"
+
+msgid "German (Germany)"
+msgstr "Duits (Duitsland)"
+
+msgid "Germany"
+msgstr "Duitsland"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Haalt de lijst met taalpakketten op en daarna het pakket van deze taal, als er een is."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Schijnselkleuren"
+
+msgid "Go Back"
+msgstr "Terug"
+
+msgid "Go To"
+msgstr "Ga naar"
+
+msgid "Go to"
+msgstr "Ga naar"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Ga naar (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Ga naar record"
+
+msgid "Go to what:"
+msgstr "Ga naar:"
+
+msgid "Go To…"
+msgstr "Ga naar…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Weg! Alsof het nooit geschreven is. Vooral omdat het nu ook nooit geschreven is."
+
+msgid "Good afternoon"
+msgstr "Goedemiddag"
+
+msgid "Good evening"
+msgstr "Goedenavond"
+
+msgid "Good morning"
+msgstr "Goedemorgen"
+
+msgid "GOST (name sort)"
+msgstr "GOST (op naam)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (op titel)"
+
+msgid "Grab bag"
+msgstr "Allerlei"
+
+msgid "Gradient fill"
+msgstr ""
+
+msgid "Gradient stops"
+msgstr ""
+
+msgid "Grammar built in"
+msgstr "Grammatica ingebouwd"
+
+msgid "Grave"
+msgstr "Accent grave"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Groter dan"
+
+msgid "Greater than or equal"
+msgstr "Groter dan of gelijk aan"
+
+msgid "Greek"
+msgstr "Grieks"
+
+msgid "Greek Letters"
+msgstr "Griekse letters"
+
+msgid "Green:"
+msgstr "Groen:"
+
+msgid "Greeting Line"
+msgstr "Begeleidingsregel"
+
+msgid "Greeting\nLine"
+msgstr "Begeleidings-\nregel"
+
+msgid "Grid Table 1 Light"
+msgstr "Rastertabel 1 licht"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Rastertabel 4 – blauw"
+
+msgid "Grid Table 4 – Green"
+msgstr "Rastertabel 4 – groen"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Rastertabel 4 – oranje"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Rastertabel 4 – paars"
+
+msgid "Gridlines"
+msgstr "Rasterlijnen"
+
+msgid "Grouping Character Above"
+msgstr "Groeperingsstreep erboven"
+
+msgid "Grouping Character Below"
+msgstr "Groeperingsstreep eronder"
+
+msgid "Grow Font 1 Point"
+msgstr "Lettertype 1 punt vergroten"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "H:"
+
+msgid "Hanging Indent"
+msgstr "Hangende inspringing"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Dakje"
+
+msgid "Header"
+msgstr "Koptekst"
+
+msgid "Header & Footer"
+msgstr "Koptekst en voettekst"
+
+msgid "Header Row"
+msgstr "Kopregel"
+
+msgid "Header row"
+msgstr "Koprij"
+
+msgid "Header/Footer Position"
+msgstr "Positie koptekst/voettekst"
+
+msgid "Headers and footers"
+msgstr "Kop- en voetteksten"
+
+msgid "Heading"
+msgstr "Kop"
+
+msgid "Heading 1"
+msgstr "Kop 1"
+
+msgid "Heading 2"
+msgstr "Kop 2"
+
+msgid "Heading 3"
+msgstr "Kop 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Kopstijlen (niveaus 1–{n})"
+
+msgid "Heading text"
+msgstr "Koptekst"
+
+msgid "Heading {n}"
+msgstr "Kop {n}"
+
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Hoi! Ik ben Nib, je schrijfassistent. Ik geef tips, sneltoetsen en af en toe een ongevraagde mening. Zal ik in de buurt blijven?"
+
+msgid "Hidden bookmarks"
+msgstr "Verborgen bladwijzers"
+
+msgid "Hide Codes"
+msgstr "Codes verbergen"
+
+msgid "Hide from style lists"
+msgstr "Verbergen in stijlenlijsten"
+
+msgid "Hide Ink"
+msgstr "Inkt verbergen"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Sneltoegangslijst verbergen"
+
+msgid "Hide White Space"
+msgstr "Witruimte verbergen"
+
+msgid "Hide\nInk"
+msgstr "Inkt\nverbergen"
+
+msgid "Hierarchy"
+msgstr "Hiërarchie"
+
+msgid "Highlight"
+msgstr "Markeren"
+
+msgid "Highlight Merge Fields"
+msgstr "Samenvoegvelden markeren"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Samenvoegvelden\nmarkeren"
+
+msgid "Highlighter"
+msgstr "Markeerstift"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Thuismap"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "Hongkong SAR"
+
+msgid "Horizontal Line"
+msgstr "Horizontale lijn"
+
+msgid "How many pages the whole document has"
+msgstr "Hoeveel pagina's het hele document heeft"
+
+msgid "How many pages this section has"
+msgstr "Hoeveel pagina's deze sectie heeft"
+
+msgid "How many words the document holds"
+msgstr "Hoeveel woorden het document bevat"
+
+msgid "HTML Format"
+msgstr "HTML-opmaak"
+
+msgid "Hue:"
+msgstr "Tint:"
+
+msgid "Hungarian"
+msgstr "Hongaars"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Hunspell .aff- en .dic-bestanden hier (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) worden vóór die van het systeem gebruikt."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hyperbolische cosecansfunctie"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hyperbolische cosinusfunctie"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hyperbolische cotangentfunctie"
+
+msgid "Hyperbolic Functions"
+msgstr "Hyperbolische functies"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hyperbolische secansfunctie"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hyperbolische sinusfunctie"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hyperbolische tangensfunctie"
+
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+msgid "Hyphenate at:"
+msgstr "Afbreken na:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Woorden in HOOFDLETTERS afbreken"
+
+msgid "Hyphenation Options…"
+msgstr "Afbreekopties…"
+
+msgid "Hyphenation zone:"
+msgstr "Afbreekzone:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Koppeltekens (--) als streepjes (—)"
+
+msgid "Hypotenuse"
+msgstr "Schuine zijde"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Ik beloof dat het is opgeslagen. Ik heb het gecontroleerd. Twee keer."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Ik zou zelf wel iets schrijven, maar ik ben een en al punt en geen druppel inkt."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "IJslands"
+
+msgid "Icon Color"
+msgstr "Pictogramkleur"
+
+msgid "Icons"
+msgstr "Pictogrammen"
+
+msgid "Identity Matrices"
+msgstr "Eenheidsmatrices"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Als…Dan…Anders"
+
+msgid "If…Then…Else…"
+msgstr "Als…Dan…Anders…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Leestekens negeren"
+
+msgid "Ignore web and file addresses"
+msgstr "Web- en bestandsadressen negeren"
+
+msgid "Ignore white-space characters"
+msgstr "Witruimtetekens negeren"
+
+msgid "Ignore words in capitals"
+msgstr "Woorden in hoofdletters negeren"
+
+msgid "Ignore words with numbers"
+msgstr "Woorden met cijfers negeren"
+
+msgid "Illustrations"
+msgstr "Illustraties"
+
+msgid "Immersive"
+msgstr "Meeslepend"
+
+msgid "Immersive Reader"
+msgstr "Meeslepende lezer"
+
+msgid "Immersive\nReader"
+msgstr "Meeslepende\nlezer"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Kies in Standaardapps WordCraft voor de documenttypen die je ermee wilt openen."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "In vergelijkingen vervangt het typen van een naam na een backslash deze door het bijbehorende symbool."
+
+msgid "In Front of Text"
+msgstr "Voor tekst"
+
+msgid "In Line with Text"
+msgstr "In lijn met tekst"
+
+msgid "In margin"
+msgstr "In marge"
+
+msgid "In the margin"
+msgstr "In de marge"
+
+msgid "Include label and number"
+msgstr ""
+
+msgid "Include level number from:"
+msgstr "Niveaunummer opnemen vanaf:"
+
+msgid "Include page numbers"
+msgstr "Paginanummers opnemen"
+
+msgid "Increase Indent"
+msgstr "Inspringen vergroten"
+
+msgid "Indent"
+msgstr "Inspringen"
+
+msgid "Indent from left:"
+msgstr "Inspringen vanaf links:"
+
+msgid "Indentation"
+msgstr "Inspringen"
+
+msgid "Indented"
+msgstr "Met inspringing"
+
+msgid "Indents"
+msgstr "Inspringen"
+
+msgid "Indents and Spacing"
+msgstr "Inspringen en afstand"
+
+msgid "Index and Tables"
+msgstr "Index en tabellen"
+
+msgid "Index Heading"
+msgstr "Indexkop"
+
+msgid "Index {n}"
+msgstr "Index {n}"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+msgid "Initial column width:"
+msgstr "Beginbreedte kolommen:"
+
+msgid "Initials:"
+msgstr "Initialen:"
+
+msgid "Ink"
+msgstr "Inkt"
+
+msgid "Ink Replay"
+msgstr "Inkt afspelen"
+
+msgid "Ink to Shape"
+msgstr "Inkt naar vorm"
+
+msgid "Ink to\nMath"
+msgstr "Inkt naar\nvergelijking"
+
+msgid "Ink to\nShape"
+msgstr "Inkt naar\nvorm"
+
+msgid "Ink\nReplay"
+msgstr "Inkt\nafspelen"
+
+msgid "Inline"
+msgstr "Inline"
+
+msgid "Input Format"
+msgstr "Invoerindeling"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Een nieuwe vergelijking invoegen (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Boven invoegen"
+
+msgid "Insert Below"
+msgstr "Onder invoegen"
+
+msgid "Insert Caption"
+msgstr "Bijschrift invoegen"
+
+msgid "Insert Caption…"
+msgstr "Bijschrift invoegen…"
+
+msgid "Insert Chart"
+msgstr "Grafiek invoegen"
+
+msgid "Insert Citation"
+msgstr "Citaat invoegen"
+
+msgid "Insert Columns to the Left"
+msgstr "Kolommen links invoegen"
+
+msgid "Insert Columns to the Right"
+msgstr "Kolommen rechts invoegen"
+
+msgid "Insert Date Field"
+msgstr "Datumveld invoegen"
+
+msgid "Insert Diagram"
+msgstr "Diagram invoegen"
+
+msgid "Insert Endnote"
+msgstr "Eindnoot invoegen"
+
+msgid "Insert Footnote"
+msgstr "Voetnoot invoegen"
+
+msgid "Insert Hyperlink"
+msgstr "Hyperlink invoegen"
+
+msgid "Insert Index"
+msgstr "Index invoegen"
+
+msgid "Insert Left"
+msgstr "Links invoegen"
+
+msgid "Insert Merge Field"
+msgstr "Samenvoegveld invoegen"
+
+msgid "Insert Merge\nField"
+msgstr "Samenvoegveld\ninvoegen"
+
+msgid "Insert New Equation"
+msgstr "Nieuwe vergelijking invoegen"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "De ene of andere tekst invoegen, afhankelijk van de waarde van een veld."
+
+msgid "Insert Page Field"
+msgstr "Paginaveld invoegen"
+
+msgid "Insert reference to:"
+msgstr "Verwijzing invoegen naar:"
+
+msgid "Insert Right"
+msgstr "Rechts invoegen"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Rij of kolom invoegen door te klikken"
+
+msgid "Insert Rows Above"
+msgstr "Rijen hierboven invoegen"
+
+msgid "Insert Rows Below"
+msgstr "Rijen hieronder invoegen"
+
+msgid "Insert Shapes"
+msgstr "Vormen invoegen"
+
+msgid "Insert SmartArt"
+msgstr "SmartArt invoegen"
+
+msgid "Insert Spike"
+msgstr "Verzamelbak invoegen"
+
+msgid "Insert Structure"
+msgstr "Structuur invoegen"
+
+msgid "Insert Symbol"
+msgstr "Symbool invoegen"
+
+msgid "Insert Table"
+msgstr "Tabel invoegen"
+
+msgid "Insert Table of Authorities"
+msgstr "Tabel met juridische bronnen invoegen"
+
+msgid "Insert Table of Figures"
+msgstr "Afbeeldingentabel invoegen"
+
+msgid "Insert Table…"
+msgstr "Tabel invoegen…"
+
+msgid "Insert Time Field"
+msgstr "Tijdveld invoegen"
+
+msgid "Insert\nAbove"
+msgstr "Boven\ningevoegen"
+
+msgid "Insert\nCaption"
+msgstr "Bijschrift\ningevoegen"
+
+msgid "Insert\nCitation"
+msgstr "Citaat\ningevoegen"
+
+msgid "Insert\nFootnote"
+msgstr "Voetnoot\ningevoegen"
+
+msgid "Insertions and Deletions"
+msgstr "Invoegingen en verwijderingen"
+
+msgid "Insertions:"
+msgstr "Invoegingen:"
+
+msgid "Inside Borders"
+msgstr "Binnenranden"
+
+msgid "Inside Horizontal Border"
+msgstr "Horizontale binnenrand"
+
+msgid "Inside Vertical Border"
+msgstr "Verticale binnenrand"
+
+msgid "Inside:"
+msgstr "Binnen:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Stijlen bij selectie controleren"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Spelling installeren ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Instelling"
+
+msgid "Integral"
+msgstr "Integraal"
+
+msgid "Integral of e^(−x²)"
+msgstr "Integraal van e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Integraal met grenzen"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integraal met gestapelde grenzen"
+
+msgid "Integrals"
+msgstr "Integralen"
+
+msgid "Intense Emphasis"
+msgstr "Intensieve nadruk"
+
+msgid "Intense Quote"
+msgstr "Intensief citaat"
+
+msgid "Intense Reference"
+msgstr "Intensieve verwijzing"
+
+msgid "Interface language:"
+msgstr "Interfacetaal:"
+
+msgid "Interface size:"
+msgstr "Interfacegrootte:"
+
+msgid "Interface theme:"
+msgstr "Interfacethema:"
+
+msgid "Interface\nTheme"
+msgstr "Interface\nthema"
+
+msgid "Internet addresses as links"
+msgstr "Internetadressen als koppelingen"
+
+msgid "Intersection with Limits"
+msgstr "Doorsnede met grenzen"
+
+msgid "Intersection with Lower Limit"
+msgstr "Doorsnede met ondergrens"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Doorsnede met grenzen in subscript en superscript"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Inverse cosecansfunctie"
+
+msgid "Inverse Cosine Function"
+msgstr "Inverse cosinusfunctie"
+
+msgid "Inverse Cotangent Function"
+msgstr "Inverse cotangentfunctie"
+
+msgid "Inverse Functions"
+msgstr "Omgekeerde functies"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Inverse hyperbolische cosecansfunctie"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Inverse hyperbolische cosinusfunctie"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Inverse hyperbolische cotangentfunctie"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Omgekeerde hyperbolische functies"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Inverse hyperbolische secansfunctie"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Inverse hyperbolische sinusfunctie"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Inverse hyperbolische tangensfunctie"
+
+msgid "Inverse Secant Function"
+msgstr "Inverse secansfunctie"
+
+msgid "Inverse Sine Function"
+msgstr "Inverse sinusfunctie"
+
+msgid "Inverse Tangent Function"
+msgstr "Inverse tangensfunctie"
+
+msgid "Ionosphere"
+msgstr "Ionosfeer"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Ierland"
+
+msgid "Irish"
+msgstr "Iers"
+
+msgid "Is blank"
+msgstr "Is leeg"
+
+msgid "Is not blank"
+msgstr "Is niet leeg"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (auteur-datum)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (numeriek)"
+
+msgid "Issue"
+msgstr "Nummer"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Zo te zien schrijf je een brief. Wil je er een envelop bij, of een briefsjabloon om mee te beginnen?"
+
+msgid "Italy"
+msgstr "Italië"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Het woordenboek kon niet worden gelezen: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Sluit je aan bij de ArtCraft-community op Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Volg ons op Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordanië"
+
+msgid "Journal"
+msgstr "Tijdschrift"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "Uitvullen van een weergegeven vergelijking"
+
+msgid "Justified"
+msgstr "Uitvullen"
+
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+msgid "Keep Lines Together"
+msgstr "Regels bij elkaar houden"
+
+msgid "Keep lines together"
+msgstr "Regels bij elkaar houden"
+
+msgid "Keep me around"
+msgstr "Blijf maar"
+
+msgid "Keep Text Only"
+msgstr "Alleen tekst behouden"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Bewaar het wachtwoord op een veilige plek: zonder het kan niemand, ook WordCraft niet, het document openen. Laat beide vakjes leeg om het wachtwoord te verwijderen."
+
+msgid "Keep with Next"
+msgstr "Bij volgende houden"
+
+msgid "Keep with next"
+msgstr "Bij volgende houden"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Behoudt de lettertypen en opmaak van de gekopieerde tekst."
+
+msgid "Kerning for fonts:"
+msgstr "Kerning voor lettertypen:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Sneltoetsen:"
+
+msgid "Keys for this command:"
+msgstr "Toetsen voor deze opdracht:"
+
+msgid "Kuwait"
+msgstr "Koeweit"
+
+msgid "Label changes with:"
+msgstr "Wijzigingen labelen met:"
+
+msgid "Label:"
+msgstr "Label:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Taalvoorkeuren…"
+
+msgid "Large\nOperator"
+msgstr "Grote\noperator"
+
+msgid "Largest Only"
+msgstr "Alleen grootste"
+
+msgid "Lasso Select"
+msgstr "Lassoselectie"
+
+msgid "Last Column"
+msgstr "Laatste kolom"
+
+msgid "Last Name"
+msgstr "Achternaam"
+
+msgid "Last Record"
+msgstr "Laatste record"
+
+msgid "Last, First; Last, First"
+msgstr "Achternaam, voornaam; Achternaam, voornaam"
+
+msgid "Latin text font:"
+msgstr "Lettertype voor Latijns tekst:"
+
+msgid "Latvian"
+msgstr "Lets"
+
+msgid "Layout Summary"
+msgstr "Lay-outoverzicht"
+
+msgid "Layouts"
+msgstr "Lay-outs"
+
+msgid "Leader"
+msgstr "Opvulteken"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Een ontvanger buiten de samenvoeging laten wanneer een veld deze waarde heeft."
+
+msgid "Leave Equation"
+msgstr "Vergelijking verlaten"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Datum en tijd van opmerkingen en revisies weglaten bij het opslaan"
+
+msgid "Leave the equation (Esc)"
+msgstr "Vergelijking verlaten (Esc)"
+
+msgid "leave the equation first"
+msgstr "verlaat eerst de vergelijking"
+
+msgid "Leave the label out of the caption"
+msgstr "Label niet opnemen in het bijschrift"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left Arrow with Text Above"
+msgstr "Linkerpijl met tekst erboven"
+
+msgid "Left Arrow with Text Below"
+msgstr "Linkerpijl met tekst eronder"
+
+msgid "Left Border"
+msgstr "Linkerrand"
+
+msgid "Left border"
+msgstr "Linkerrand"
+
+msgid "Left Bracket Twice"
+msgstr "Dubbele linkerhaak"
+
+msgid "Left indent"
+msgstr "Linkerinspringing"
+
+msgid "Left Margin"
+msgstr "Linkermarge"
+
+msgid "Left Only"
+msgstr "Alleen links"
+
+msgid "Left Right Arrow Above"
+msgstr "Links-rechtspijl erboven"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Links-rechtspijl met tekst erboven"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Links-rechtspijl met tekst eronder"
+
+msgid "Left Subscript-Superscript"
+msgstr "Links subscript en superscript"
+
+msgid "Left-to-right"
+msgstr "Links-naar-rechts"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Tekstrichting links naar rechts"
+
+msgid "Leftwards Arrow Above"
+msgstr "Linkerpijl erboven"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Linkerharpoen erboven"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Juridische nummeringsstijl"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Kleiner dan"
+
+msgid "Less than or equal"
+msgstr "Kleiner dan of gelijk aan"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Letterkoppen"
+
+msgid "Letter template"
+msgstr "Briefsjabloon"
+
+msgid "Letter-Like Symbols"
+msgstr "Letterachtige symbolen"
+
+msgid "Letters"
+msgstr "Brieven"
+
+msgid "Level 5"
+msgstr "Niveau 5"
+
+msgid "Level 6"
+msgstr "Niveau 6"
+
+msgid "Level 7"
+msgstr "Niveau 7"
+
+msgid "Level 8"
+msgstr "Niveau 8"
+
+msgid "Level 9"
+msgstr "Niveau 9"
+
+msgid "Level {n}"
+msgstr "Niveau {n}"
+
+msgid "Levels:"
+msgstr "Niveaus:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr ""
+
+msgid "Light with Outline"
+msgstr "Licht met omtrek"
+
+msgid "Limit"
+msgstr "Grens"
+
+msgid "Limit and"
+msgstr "Limiet en"
+
+msgid "Limit and\nLog"
+msgstr "Limiet en\nlog"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Limiet voor opeenvolgende koppeltekens:"
+
+msgid "Limit Example"
+msgstr "Grensvoorbeeld"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Opmaak beperken tot een selectie stijlen"
+
+msgid "Line and Page Breaks"
+msgstr "Regel- en pagina-einden"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Regel- en alineaafstand"
+
+msgid "Line between"
+msgstr "Lijn tussen"
+
+msgid "Line Break"
+msgstr "Regeleinde"
+
+msgid "Line breaking"
+msgstr "Regeleinde"
+
+msgid "Line End"
+msgstr "Einde van regel"
+
+msgid "Line Number"
+msgstr "Regelnummer"
+
+msgid "Line Numbering Options…"
+msgstr "Opties voor regelnummering…"
+
+msgid "Line Numbers"
+msgstr "Regelnummers"
+
+msgid "Line Spacing"
+msgstr "Regelafstand"
+
+msgid "Line Spacing Options…"
+msgstr "Regelafstandopties…"
+
+msgid "Line spacing:"
+msgstr "Regelafstand:"
+
+msgid "Line Start"
+msgstr "Begin van regel"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr ""
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr ""
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr ""
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr ""
+
+msgid "Linear Down"
+msgstr ""
+
+msgid "Linear Fraction"
+msgstr "Lineaire breuk"
+
+msgid "Linear Left"
+msgstr ""
+
+msgid "Linear Right"
+msgstr ""
+
+msgid "Linear Up"
+msgstr ""
+
+msgid "Lines and characters"
+msgstr "Regels en tekens"
+
+msgid "Lines only"
+msgstr "Alleen regels"
+
+msgid "Lines per page:"
+msgstr "Regels per pagina:"
+
+msgid "Lines to drop:"
+msgstr "Hoogte (in regels):"
+
+msgid "Link entries to their headings"
+msgstr "Items aan hun koppen koppelen"
+
+msgid "Link level to style:"
+msgstr "Niveau koppelen aan stijl:"
+
+msgid "Link to Previous"
+msgstr "Koppelen aan vorige"
+
+msgid "Link to:"
+msgstr "Koppeling naar:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Gekoppelde stijl (alinea en teken)"
+
+msgid "Links and References"
+msgstr "Koppelingen en verwijzingen"
+
+msgid "Link…"
+msgstr "Verwijzing…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Lijstdefinitie"
+
+msgid "List entries"
+msgstr "Lijstitems"
+
+msgid "List Paragraph"
+msgstr "Lijstalinea"
+
+msgid "List Table 3 – Blue"
+msgstr "Lijsttabel 3 – blauw"
+
+msgid "List Table 3 – Green"
+msgstr "Lijsttabel 3 – groen"
+
+msgid "List Table 3 – Orange"
+msgstr "Lijsttabel 3 – oranje"
+
+msgid "List Table 3 – Purple"
+msgstr "Lijsttabel 3 – paars"
+
+msgid "Lit from Bottom"
+msgstr ""
+
+msgid "Lit from Top"
+msgstr ""
+
+msgid "Lithuanian"
+msgstr "Litouws"
+
+msgid "Load System Installed Fonts…"
+msgstr "Systeemlettertypen laden…"
+
+msgid "Loaded {count} system fonts."
+msgstr "{count} systeemlettertypen geladen."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Toegang tot lokale lettertypen wordt niet ondersteund door je browser."
+
+msgid "Local font access was denied."
+msgstr "Toegang tot lokale lettertypen is geweigerd."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Locatie: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Hoogte-breedteverhouding vergrendelen"
+
+msgid "Lock Fields"
+msgstr "Velden vergrendelen"
+
+msgid "Log"
+msgstr "log"
+
+msgid "Logarithm"
+msgstr "Logaritme"
+
+msgid "Logarithm with Base"
+msgstr "Logaritme met grondtal"
+
+msgid "Logical AND"
+msgstr "Logische EN"
+
+msgid "Logical AND with Limits"
+msgstr "Logische EN met grenzen"
+
+msgid "Logical OR"
+msgstr "Logische OF"
+
+msgid "Logical OR with Limits"
+msgstr "Logische OF met grenzen"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: omdat de echte woorden nog op het terras zitten."
+
+msgid "Lum:"
+msgstr "Lum:"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Macao SAR"
+msgstr "Macau SAR"
+
+msgid "Macedonian"
+msgstr "Macedonisch"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Macro's"
+
+msgid "Made from the author and year when empty"
+msgstr "Wordt gemaakt uit auteur en jaar als dit leeg is"
+
+msgid "Magazine or newspaper article"
+msgstr "Artikel in een tijdschrift of krant"
+
+msgid "Mail Merge"
+msgstr "Afdrukken en samenvoegen"
+
+msgid "Mailings"
+msgstr "Mailings"
+
+msgid "Main entry:"
+msgstr "Hoofditem:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "WordCraft de standaardapp maken voor Word-documenten…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Maakt het lint, menu's en dialoogvensters groter of kleiner. Automatisch volgt de schaalinstelling van je beeldscherm; 100% is één schermpixel per punt. Documentzoom staat daar los van."
+
+msgid "Malaysia"
+msgstr "Maleisië"
+
+msgid "Manage Sources"
+msgstr "Bronnen beheren"
+
+msgid "Manage Styles"
+msgstr "Stijlen beheren"
+
+msgid "Manage Styles…"
+msgstr "Stijlen beheren…"
+
+msgid "Manual Hyphenation"
+msgstr "Handmatig afbreken"
+
+msgid "Manual hyphenation is complete."
+msgstr "Handmatig afbreken is voltooid."
+
+msgid "Manual Line Break"
+msgstr "Handmatige regeleinde"
+
+msgid "Manual Page Break"
+msgstr "Handmatige pagina-einde"
+
+msgid "Manual…"
+msgstr "Handmatig…"
+
+msgid "Many pages"
+msgstr "Veel pagina's"
+
+msgid "Mark"
+msgstr "Markeren"
+
+msgid "Mark All"
+msgstr "Alles markeren"
+
+msgid "Mark as decorative"
+msgstr "Markeren als decoratief"
+
+msgid "Mark Citation"
+msgstr "Citaat markeren"
+
+msgid "Mark Entry"
+msgstr "Item markeren"
+
+msgid "Mark Entry…"
+msgstr "Item markeren…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Grammaticafouten markeren tijdens het typen"
+
+msgid "Mark Index Entry"
+msgstr "Indexitem markeren"
+
+msgid "Mark selected text as:"
+msgstr "Geselecteerde tekst markeren als:"
+
+msgid "Mark\nCitation"
+msgstr "Citaat\nmarkeren"
+
+msgid "Mark\nEntry"
+msgstr "Item\nmarkeren"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Hoofdlettergevoelig"
+
+msgid "Match Fields"
+msgstr "Velden laten overeenkomen"
+
+msgid "Match prefix"
+msgstr "Voorvoegsel overeenkomen"
+
+msgid "Match suffix"
+msgstr "Achtervoegsel overeenkomen"
+
+msgid "Matches: {count}"
+msgstr "Treffers: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Wiskundige AutoCorrect"
+
+msgid "Matrices with Brackets"
+msgstr "Matrices met haakjes"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Maximum Example"
+msgstr "Maximumvoorbeeld"
+
+msgid "Measured By"
+msgstr "Gemeten door"
+
+msgid "Measurement units:"
+msgstr "Maateenheden:"
+
+msgid "Merge cells before split"
+msgstr "Cellen samenvoegen vóór splitsen"
+
+msgid "Merge Formatting"
+msgstr "Opmaak samenvoegen"
+
+msgid "Merge Record #"
+msgstr "Samenvoegrecord #"
+
+msgid "Mesosphere"
+msgstr "Mesosfeer"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Midline Dots"
+msgstr "Middellijnspunten"
+
+msgid "Minus Equal"
+msgstr "Min gelijk"
+
+msgid "Mirror indents"
+msgstr "Spiegelende inspringing"
+
+msgid "Mirror margins"
+msgstr "Marges spiegelen"
+
+msgid "Mirrored"
+msgstr "Gespiegeld"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team en de WordCraft-bijdragers."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr ""
+
+msgid "Moderate"
+msgstr "Gemiddeld"
+
+msgid "Modify Style"
+msgstr "Stijl wijzigen"
+
+msgid "Modify Table Style"
+msgstr "Tabelstijl wijzigen"
+
+msgid "Modify Table Style…"
+msgstr "Tabelstijl wijzigen…"
+
+msgid "Modify…"
+msgstr "Wijzigen…"
+
+msgid "Mon"
+msgstr "Ma"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "More >>"
+msgstr "Meer >>"
+
+msgid "More Colors…"
+msgstr "Meer kleuren…"
+
+msgid "More Columns…"
+msgstr "Meer kolommen…"
+
+msgid "More Commands…"
+msgstr "Meer opdrachten…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Meer papierformaten…"
+
+msgid "More Symbols…"
+msgstr "Meer symbolen…"
+
+msgid "More tabs"
+msgstr ""
+
+msgid "More templates →"
+msgstr "Meer sjablonen →"
+
+msgid "More Underlines…"
+msgstr ""
+
+msgid "Morocco"
+msgstr "Marokko"
+
+msgid "Move in Equation"
+msgstr "Verplaatsen in vergelijking"
+
+msgid "Move or Resize"
+msgstr "Verplaatsen of formaat wijzigen"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Alinea omlaag verplaatsen"
+
+msgid "Move Paragraph Up"
+msgstr "Alinea omhoog verplaatsen"
+
+msgid "Move Past Citation"
+msgstr "Voorbij citaat bewegen"
+
+msgid "Move Past\nCitation"
+msgstr "Voorbij\ncitaat bewegen"
+
+msgid "Move Selected Ink"
+msgstr "Geselecteerde inkt verplaatsen"
+
+msgid "Move Table by Dragging"
+msgstr "Tabel verplaatsen door te slepen"
+
+msgid "Move with Text"
+msgstr "Met tekst meenemen"
+
+msgid "Moved from"
+msgstr "Verplaatst van"
+
+msgid "Moved from:"
+msgstr "Verplaatst van:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Verplaatste objecten worden uitgelijnd op de randen en het midden van de pagina, de marges en andere objecten. Houd Alt ingedrukt om vrij te verplaatsen."
+
+msgid "Moved to"
+msgstr "Verplaatst naar"
+
+msgid "Moved to:"
+msgstr "Verplaatst naar:"
+
+msgid "Moves"
+msgstr "Verplaatsingen"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Multilevel List"
+msgstr "Lijst met meerdere niveaus"
+
+msgid "Multilevel List Library"
+msgstr "Bibliotheek met lijsten met meerdere niveaus"
+
+msgid "Multiple Pages"
+msgstr "Meerdere pagina's"
+
+msgid "Mute agent messages"
+msgstr "Agentberichten dempen"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Mijn lijst heeft"
+
+msgid "Name of the file this document is saved as"
+msgstr "Naam van het bestand waarin dit document is opgeslagen"
+
+msgid "Narrow"
+msgstr "Smal"
+
+msgid "Narrow  {size} all"
+msgstr "Smal  {size} rondom"
+
+msgid "Natural Logarithm"
+msgstr "Natuurlijke logaritme"
+
+msgid "Nature"
+msgstr "Natuur"
+
+msgid "Navigation Pane"
+msgstr "Navigatievenster"
+
+msgid "Negated Relations"
+msgstr "Ontkenende relaties"
+
+msgid "Netherlands"
+msgstr "Nederland"
+
+msgid "New blank documents are written in this language"
+msgstr "Nieuwe lege documenten worden in deze taal geschreven"
+
+msgid "New Comment"
+msgstr "Nieuwe opmerking"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Nieuwe opmerkingen en bijgehouden wijzigingen worden vastgelegd onder deze naam en deze initialen."
+
+msgid "New Documents Based on This Template"
+msgstr "Nieuwe documenten op basis van dit sjabloon"
+
+msgid "New documents based on this template"
+msgstr "Nieuwe documenten op basis van dit sjabloon"
+
+msgid "New documents will use this font."
+msgstr "Nieuwe documenten gebruiken dit lettertype."
+
+msgid "New documents will use this page setup."
+msgstr "Nieuwe documenten gebruiken deze pagina-instelling."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Nieuwe documenten gebruiken deze alinea-opmaak."
+
+msgid "New documents will use this style."
+msgstr "Nieuwe documenten gebruiken deze stijl."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Nieuwe documenten gebruiken de ingebouwde opmaak van WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Nieuwe documenten gebruiken de ingebouwde opmaak van WordCraft. Je opgeslagen standaardinstellingen kunnen niet worden hersteld. Opnieuw instellen?"
+
+msgid "New Drawing Canvas"
+msgstr "Nieuwe tekencanvas"
+
+msgid "New Entry"
+msgstr "Nieuw item"
+
+msgid "New Label"
+msgstr "Nieuw label"
+
+msgid "New Label…"
+msgstr "Nieuw label…"
+
+msgid "New Paragraph"
+msgstr "Nieuwe alinea"
+
+msgid "New shortcut:"
+msgstr "Nieuwe sneltoets:"
+
+msgid "New Tab"
+msgstr "Nieuw tabblad"
+
+msgid "New Table Style"
+msgstr "Nieuwe tabelstijl"
+
+msgid "New Table Style…"
+msgstr "Nieuwe tabelstijl…"
+
+msgid "New word"
+msgstr "Nieuw woord"
+
+msgid "New Zealand"
+msgstr "Nieuw-Zeeland"
+
+msgid "New\nComment"
+msgstr "Nieuwe\nopmerking"
+
+msgid "New\nWindow"
+msgstr "Nieuw\nvenster"
+
+msgid "Next Comment"
+msgstr "Volgende opmerking"
+
+msgid "Next Field"
+msgstr "Volgend veld"
+
+msgid "Next Footnote"
+msgstr "Volgende voetnoot"
+
+msgid "Next Record"
+msgstr "Volgend record"
+
+msgid "Next Section"
+msgstr "Volgende sectie"
+
+msgid "Next Sentence"
+msgstr "Volgende zin"
+
+msgid "Next sentence"
+msgstr "Volgende zin"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib zweeft boven het venster met tips en af en toe een opmerking."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, je assistent. Sleep om te verplaatsen; klik met rechts voor opties."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Geen problemen met toegankelijkheid gevonden."
+
+msgid "No Border"
+msgstr "Geen rand"
+
+msgid "No changes (read only)"
+msgstr "Geen wijzigingen (alleen lezen)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Er zijn geen gegevens over bijdragers opgenomen in deze build."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Er is geen document geopend. Maak eerst een document of open er een."
+
+msgid "no equation at the caret"
+msgstr "geen vergelijking bij de cursor"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Geen fouten gevonden: elk samenvoegveld staat in de ontvangerslijst."
+
+msgid "No Fill"
+msgstr "Geen vulling"
+
+msgid "No fill"
+msgstr ""
+
+msgid "No Glow"
+msgstr "Geen schijnsel"
+
+msgid "No Gradient"
+msgstr ""
+
+msgid "No grid"
+msgstr "Geen raster"
+
+msgid "No header row"
+msgstr "Geen koprij"
+
+msgid "No icons match your search."
+msgstr "Geen pictogrammen komen overeen met je zoekopdracht."
+
+msgid "No items to show."
+msgstr "Geen items om te tonen."
+
+msgid "No language matches your search."
+msgstr "Geen taal komt overeen met je zoekopdracht."
+
+msgid "No languages to show yet."
+msgstr "Er zijn nog geen talen om te tonen."
+
+msgid "No Markup"
+msgstr "Geen markeringen"
+
+msgid "No model credits were built into this copy."
+msgstr "Er zijn geen modelvermeldingen opgenomen in deze build."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Geen omtrek"
+
+msgid "No Paragraph Space"
+msgstr "Geen alineaafstand"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Geen printers gevonden. Configureer een systeemprinter of exporteer een PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Geen spiegeling"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Geen schaduw"
+
+msgid "No Soft Edges"
+msgstr "Geen zachte randen"
+
+msgid "No sources yet."
+msgstr "Nog geen bronnen."
+
+msgid "No Spacing"
+msgstr "Geen spatiëring"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Er is geen spellingwoordenboek voor {language} geïnstalleerd, dus de spelling wordt niet gecontroleerd. WordCraft zoekt het Hunspell-woordenboek {name} in de map WORDCRAFT_DICTIONARIES en op de gebruikelijke systeemlocaties."
+
+msgid "No templates match your search."
+msgstr "Er zijn geen sjablonen die overeenkomen met je zoekopdracht."
+
+msgid "No Transform"
+msgstr "Geen transformatie"
+
+msgid "No watermark"
+msgstr "Geen watermerk"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Nog geen woorden. Met Toevoegen aan woordenboek wordt een foutspeld woord hier geplaatst."
+
+msgid "No-Width Non Break"
+msgstr "Niet afbreken zonder breedte"
+
+msgid "No-Width Optional Break"
+msgstr "Optioneel afbreken zonder breedte"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Niet-afbreekbaar koppelteken"
+
+msgid "Normal  {size} all"
+msgstr "Normaal  {size} rondom"
+
+msgid "Normal Indent"
+msgstr "Standaard met inspringing"
+
+msgid "Normal probability density"
+msgstr "Normale verdelingsdichtheid"
+
+msgid "Normal speed"
+msgstr "Normale snelheid"
+
+msgid "Normal Style"
+msgstr "Normale stijl"
+
+msgid "Normal Table"
+msgstr "Standaardtabel"
+
+msgid "Normal Text"
+msgstr "Normale tekst"
+
+msgid "Normal Word Document"
+msgstr "Normaal Word-document"
+
+msgid "North"
+msgstr "Noord"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Noors (Bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Noors (Nynorsk)"
+
+msgid "Not"
+msgstr "Niet"
+
+msgid "Not available right now"
+msgstr "Nu niet beschikbaar"
+
+msgid "Not available yet"
+msgstr "Nog niet beschikbaar"
+
+msgid "not editing an equation"
+msgstr "u bewerkt geen vergelijking"
+
+msgid "Not equal to"
+msgstr "Niet gelijk aan"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Niet gekoppeld: klik op een tekstvak"
+
+msgid "Not now"
+msgstr "Niet nu"
+
+msgid "Not saved"
+msgstr "Niet opgeslagen"
+
+msgid "Not saved yet"
+msgstr "Nog niet opgeslagen"
+
+msgid "Not set"
+msgstr ""
+
+msgid "Not set: the system's usual places"
+msgstr "Niet ingesteld: de gebruikelijke systeemlocaties"
+
+msgid "Not used by any command"
+msgstr "Door geen enkele opdracht gebruikt"
+
+msgid "Not {name}"
+msgstr "Niet {name}"
+
+msgid "Nothing"
+msgstr "Niets"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Nog niets verzameld. Items die je kopieert of knipt verschijnen hier."
+
+msgid "nothing is selected"
+msgstr "er is niets geselecteerd"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Nu in gebruik door {command}"
+
+msgid "Nudge"
+msgstr "Duwen"
+
+msgid "Num Occurrences"
+msgstr "Aantal voorkomens"
+
+msgid "Number alignment:"
+msgstr "Nummeruitlijning:"
+
+msgid "Number format"
+msgstr "Getalnotatie"
+
+msgid "Number of columns:"
+msgstr "Aantal kolommen:"
+
+msgid "Number of rows:"
+msgstr "Aantal rijen:"
+
+msgid "Number of the page the field sits on"
+msgstr "Nummer van de pagina waarop het veld staat"
+
+msgid "Number of the section the field sits in"
+msgstr "Nummer van de sectie waarin het veld staat"
+
+msgid "Number only, without the label's words"
+msgstr "Alleen het nummer, zonder de woorden van het label"
+
+msgid "Number style for this level:"
+msgstr "Getalstijl voor dit niveau:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "De vergelijking nummeren; het nummer staat aan de rechtermarge (of typ # en het nummer)"
+
+msgid "Numbering"
+msgstr "Nummering"
+
+msgid "Numbering:"
+msgstr "Nummering:"
+
+msgid "Numbering…"
+msgstr "Nummering…"
+
+msgid "Numerals"
+msgstr "Cijfers"
+
+msgid "Numerals:"
+msgstr "Cijfers:"
+
+msgid "n×n Identity Matrix"
+msgstr "Eenheidsmatrix n×n"
+
+msgid "n×n Matrix"
+msgstr "Matrix n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Oneven gebandeerde kolommen"
+
+msgid "Odd Banded Rows"
+msgstr "Oneven gebandeerde rijen"
+
+msgid "Odd Page"
+msgstr "Oneven pagina"
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Office 2003 Default"
+msgstr "Standaard Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Verschuiving (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Verschuiving: onder"
+
+msgid "Offset: Bottom Left"
+msgstr "Verschuiving: linksonder"
+
+msgid "Offset: Bottom Right"
+msgstr "Verschuiving: rechtsonder"
+
+msgid "Offset: Center"
+msgstr "Verschuiving: midden"
+
+msgid "Offset: Left"
+msgstr "Verschuiving: links"
+
+msgid "Offset: Right"
+msgstr "Verschuiving: rechts"
+
+msgid "Offset: Top"
+msgstr "Verschuiving: boven"
+
+msgid "Offset: Top Left"
+msgstr "Verschuiving: linksboven"
+
+msgid "Offset: Top Right"
+msgstr "Verschuiving: rechtsboven"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr ""
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Aan: de invoercursor gleedt naar de nieuwe plaats wanneer je typt of de pijltoetsen gebruikt en het knipperen vervaagt. Uit: hij springt en knippert aan en uit."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Aan: WordCraft opent Bestand › Start met een leeg document, de sjablonen en je recente documenten. Uit: er wordt een leeg document geopend."
+
+msgid "One"
+msgstr "Eén"
+
+msgid "One half"
+msgstr "Eén halve"
+
+msgid "One label per recipient"
+msgstr "Eén label per ontvanger"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Eén regel per item. Enter voegt een item toe."
+
+msgid "One Page"
+msgstr "Eén pagina"
+
+msgid "One-sided"
+msgstr "Eenzijdig"
+
+msgid "Only allow this kind of editing:"
+msgstr "Alleen dit soort bewerkingen toestaan:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Er kunnen alleen opmerkingen worden toegevoegd, behalve in gebieden die als bewerkbaar zijn gemarkeerd."
+
+msgid "Only for the selected text"
+msgstr "Alleen voor de geselecteerde tekst"
+
+msgid "Only form fields can be filled in."
+msgstr "Alleen formuliervelden kunnen worden ingevuld."
+
+msgid "only in Outline view"
+msgstr "alleen in de weergave Overzicht"
+
+msgid "Only in this document"
+msgstr "Alleen in dit document"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Alleen de toegestane stijlen kunnen worden toegepast."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Alleen webkoppelingen (http, https) en e-mailkoppelingen (mailto) kunnen worden gevolgd"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Open eerst een document"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Een bestand openen met de eigen browser van WordCraft wanneer het systeembestandsdialoogvenster niet verschijnt."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument-tekst (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Afdrukvenster wordt geopend…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Opent voortaan .docx-, .doc-, .rtf- en .odt-bestanden en Word-sjablonen met WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Opent Instellingen › Standaardapps, waar je WordCraft kiest voor .docx en de andere documenttypen."
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "Operator Structures"
+msgstr "Operatorstructuren"
+
+msgid "Operators"
+msgstr "Operatoren"
+
+msgid "Optional Hyphen"
+msgstr "Optioneel afbreekstreepje"
+
+msgid "Or"
+msgstr "Of"
+
+msgid "Or save a copy in another format:"
+msgstr "Of sla een kopie op in een ander formaat:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Ordinalen (1st) als superscript"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Organizer…"
+msgstr "Organizer…"
+
+msgid "Original document"
+msgstr "Oorspronkelijk document"
+
+msgid "Original size"
+msgstr "Oorspronkelijke grootte"
+
+msgid "Other Large Operators"
+msgstr "Overige grote operatoren"
+
+msgid "Other styles and their TOC level:"
+msgstr "Overige stijlen en hun TOC-niveau:"
+
+msgid "Other:"
+msgstr "Anders:"
+
+msgid "Otherwise insert:"
+msgstr "Anders invoegen:"
+
+msgid "Outline Level"
+msgstr "Contourniveau"
+
+msgid "Outline level"
+msgstr "Outlineniveau"
+
+msgid "Outline levels"
+msgstr "Outlineniveaus"
+
+msgid "Outline State"
+msgstr "Outlinestatus"
+
+msgid "Outline Tools"
+msgstr "Outlinetools"
+
+msgid "Outlining"
+msgstr "Kopniveaus"
+
+msgid "Outside border"
+msgstr "Buitenrand"
+
+msgid "Outside Borders"
+msgstr "Buitenranden"
+
+msgid "Outside:"
+msgstr "Buiten:"
+
+msgid "Outward Brackets"
+msgstr "Naar buiten gerichte vierkante haken"
+
+msgid "Overbar"
+msgstr "Overstreep"
+
+msgid "Overbars and Underbars"
+msgstr "Overstrepen en onderstrepen"
+
+msgid "Overbrace"
+msgstr "Accolade erboven"
+
+msgid "Overtype"
+msgstr "Overschrijven"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Overschrijven (typen vervangt de tekens na de invoercursor)"
+
+msgid "Page Background"
+msgstr "Pagina-achtergrond"
+
+msgid "Page Border"
+msgstr "Paginarand"
+
+msgid "Page Borders"
+msgstr "Paginaranden"
+
+msgid "Page Break"
+msgstr "Pagina-einde"
+
+msgid "Page Break Before"
+msgstr "Pagina-einde voor"
+
+msgid "Page break before"
+msgstr "Pagina-einde voor"
+
+msgid "Page Breaks"
+msgstr "Pagina-einden"
+
+msgid "Page Color"
+msgstr "Pagina-kleur"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Paginaweergave"
+
+msgid "Page Down"
+msgstr "Pagina omlaag"
+
+msgid "Page image (*.png)"
+msgstr "Pagina-afbeelding (*.png)"
+
+msgid "Page Movement"
+msgstr "Paginabeweging"
+
+msgid "Page Number"
+msgstr "Paginanummer"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr ""
+
+msgid "Page number style"
+msgstr "Stijl paginanummer"
+
+msgid "Page numbering"
+msgstr ""
+
+msgid "Page numbers at the right margin"
+msgstr "Paginanummers bij de rechtermarge"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Pagina waarop een bladwijzerpassage valt"
+
+msgid "Page Setup"
+msgstr "Pagina-instelling"
+
+msgid "Page title"
+msgstr "Paginatitel"
+
+msgid "Page Up"
+msgstr "Pagina omhoog"
+
+msgid "Page Width"
+msgstr "Breedte van pagina"
+
+msgid "Page width"
+msgstr "Breedte van pagina"
+
+msgid "Page X of Y"
+msgstr "Pagina X van Y"
+
+msgid "Page {page}"
+msgstr "Pagina {page}"
+
+msgid "Page\nBorders"
+msgstr "Pagina-\nranden"
+
+msgid "Page\nColor"
+msgstr "Pagina-\nkleur"
+
+msgid "Page\nNumber"
+msgstr "Pagina-\nnummer"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Pagina's zoals 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Pagina's van bladwijzer:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Papierformaat:"
+
+msgid "Paragraph Character"
+msgstr "Alineateken"
+
+msgid "Paragraph Details"
+msgstr "Alinedetails"
+
+msgid "Paragraph Down"
+msgstr "Alinea omlaag"
+
+msgid "Paragraph Mark"
+msgstr "Alineamarkering"
+
+msgid "Paragraph marks"
+msgstr "Alineamarkeringen"
+
+msgid "Paragraph Settings"
+msgstr "Alinea-instellingen"
+
+msgid "Paragraph Spacing"
+msgstr "Alineaafstand"
+
+msgid "Paragraph style"
+msgstr "Alineastijl"
+
+msgid "Paragraph Up"
+msgstr "Alinea omhoog"
+
+msgid "Paragraphs"
+msgstr "Alinea's"
+
+msgid "Paragraph…"
+msgstr "Alinea…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Haakjes"
+
+msgid "Parentheses with Separator"
+msgstr "Haakjes met scheidingsteken"
+
+msgid "Partial Differential"
+msgstr "Partiële differentiaal"
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Paste (⌘V)"
+msgstr "Plakken (⌘V)"
+
+msgid "Paste All"
+msgstr "Alles plakken"
+
+msgid "Paste as:"
+msgstr "Plakken als:"
+
+msgid "Paste Clipboard Item"
+msgstr "Klemborditem plakken"
+
+msgid "Paste Formatting"
+msgstr "Opmaak plakken"
+
+msgid "Paste function:"
+msgstr "Functie plakken:"
+
+msgid "Paste Special…"
+msgstr "Plakken speciaal…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Plakken: alleen tekst behouden"
+
+msgid "Paste: Merge Formatting"
+msgstr "Plakken: opmaak samenvoegen"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Plakt de afbeelding van het klembord."
+
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF-document (*.pdf)"
+
+msgid "Pens"
+msgstr "Pennen"
+
+msgid "People"
+msgstr "Personen"
+
+msgid "Periodical"
+msgstr "Periodiek"
+
+msgid "Persian"
+msgstr "Perzisch"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Personal Templates"
+msgstr "Personal Templates"
+
+msgid "Personalize"
+msgstr "Personaliseren"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filipijnen"
+
+msgid "Phonetic Guide"
+msgstr "Fonetische hulp"
+
+msgid "pi"
+msgstr ""
+
+msgid "Pi Over 2"
+msgstr "Pi gedeeld door 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Kies een eigen groep (Nieuwe groep maakt er een)"
+
+msgid "Pick a field from the list"
+msgstr "Kies een veld uit de lijst"
+
+msgid "Picture"
+msgstr "Afbeelding"
+
+msgid "Picture Border"
+msgstr "Afbeeldingsrand"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Inhoudsbesturingselement afbeelding"
+
+msgid "Picture Format"
+msgstr "Afbeeldingsopmaak"
+
+msgid "Picture Styles"
+msgstr "Afbeeldingsstijlen"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Afbeeldingswatermerk"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "Pie"
+msgstr "Cirkeldiagram"
+
+msgid "Place in This Document"
+msgstr "Plaats in dit document"
+
+msgid "Placeholder text"
+msgstr "Plaatstekst"
+
+msgid "Plain Table 1"
+msgstr "Eenvoudige tabel 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Platte tekst (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Inhoudsbesturingselement platte tekst"
+
+msgid "Play/Pause"
+msgstr "Afspelen/pauzeren"
+
+msgid "Plus Equal"
+msgstr "Plus gelijk"
+
+msgid "Points and above"
+msgstr "punt en groter"
+
+msgid "Polish"
+msgstr "Pools"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugees (Brazilië)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugees (Portugal)"
+
+msgid "Possible spelling mistake"
+msgstr "Mogelijke spelfout"
+
+msgid "Postal Code"
+msgstr "Postcode"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Machtreeks van (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Voorkeursbreedte:"
+
+msgid "Preserve formatting during updates"
+msgstr "Opmaak behouden tijdens updates"
+
+msgid "Preset gradients"
+msgstr ""
+
+msgid "Press a key combination"
+msgstr "Druk op een toetsencombinatie"
+
+msgid "Preview Results"
+msgstr "Resultaten bekijken"
+
+msgid "Preview\nResults"
+msgstr "Resultaten\nbekijken"
+
+msgid "Previous 1 or More"
+msgstr "Vorige 1 of meer"
+
+msgid "Previous Comment"
+msgstr "Vorige opmerking"
+
+msgid "Previous Field"
+msgstr "Vorig veld"
+
+msgid "Previous Record"
+msgstr "Vorig record"
+
+msgid "Previous Section"
+msgstr "Vorige sectie"
+
+msgid "Previous Sentence"
+msgstr "Vorige zin"
+
+msgid "Previous sentence"
+msgstr "Vorige zin"
+
+msgid "Print Documents"
+msgstr "Documenten afdrukken"
+
+msgid "Print Documents…"
+msgstr "Documenten afdrukken…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Afdrukken mislukt: het afdrukproces is gestopt."
+
+msgid "Print failed: {error}"
+msgstr "Afdrukken mislukt: {error}"
+
+msgid "Print job submitted."
+msgstr "Afdruktaak verzonden."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr ""
+
+msgid "Print job submitted: {receipt}"
+msgstr "Afdruktaak verzonden: {receipt}"
+
+msgid "Print Layout"
+msgstr "Afdruklay-out"
+
+msgid "Print Markup"
+msgstr "Markeringen afdrukken"
+
+msgid "Print settings"
+msgstr "Afdrukinstellingen"
+
+msgid "Print the page color"
+msgstr "Paginakleur afdrukken"
+
+msgid "Print to PDF"
+msgstr "Afdrukken naar PDF"
+
+msgid "Print\nLayout"
+msgstr "Afdruk-\nlay-out"
+
+msgid "Printer default"
+msgstr "Standaardinstelling van de printer"
+
+msgid "Printer discovery failed."
+msgstr "Zoeken naar printers is mislukt."
+
+msgid "Privacy for this document"
+msgstr "Privacy voor dit document"
+
+msgid "Privacy Options"
+msgstr "Privacyopties"
+
+msgid "Privacy Settings"
+msgstr "Privacyinstellingen"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Product of A"
+msgstr "Product van A"
+
+msgid "Product with Limits"
+msgstr "Product met grenzen"
+
+msgid "Product with Lower Limit"
+msgstr "Product met ondergrens"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Product met grenzen in subscript en superscript"
+
+msgid "Products and Coproducts"
+msgstr "Producten en coproducten"
+
+msgid "Professional"
+msgstr "Professioneel"
+
+msgid "Promote"
+msgstr "Verhogen"
+
+msgid "Promote to Heading 1"
+msgstr "Naar Kop 1 verplaatsen"
+
+msgid "Proofing"
+msgstr "Taalcontrole"
+
+msgid "Proofing Issues"
+msgstr "Controleproblemen"
+
+msgid "Proofing language"
+msgstr "Controletaal"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Document beveiligen"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Uitgever"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Plaats de invoercursor eerst in een inhoudsbesturingselement."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "De standaardopdrachten weer op de sneltoegangslijst zetten?"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Quadratic Root"
+msgstr "Kwadratische wortel"
+
+msgid "Quick Access Toolbar"
+msgstr "Sneltoegangslijst"
+
+msgid "Quick Parts"
+msgstr "Sneldelen"
+
+msgid "Quick Tables"
+msgstr "Sneltabellen"
+
+msgid "Quote"
+msgstr "Citaat"
+
+msgid "Radical"
+msgstr "Wortel"
+
+msgid "Radical with Degree"
+msgstr "Wortel met graad"
+
+msgid "Radicals"
+msgstr "Wortels"
+
+msgid "Raised/lowered"
+msgstr "Verhoogd/verlaagd"
+
+msgid "Read Aloud"
+msgstr "Hardop lezen"
+
+msgid "Read Aloud Status"
+msgstr "Status van voorlezen"
+
+msgid "Read Mode"
+msgstr "Leesmodus"
+
+msgid "Read\nAloud"
+msgstr "Hardop\nlezen"
+
+msgid "Read\nMode"
+msgstr "Lees-\nmodus"
+
+msgid "Reading"
+msgstr "Lezen"
+
+msgid "Reading Column Width"
+msgstr "Kolombreedte in leesmodus"
+
+msgid "Reading Highlight"
+msgstr "Leesmarkering"
+
+msgid "Reading Line Spacing"
+msgstr "Regelafstand in leesmodus"
+
+msgid "Reading Mode"
+msgstr "Leesmodus"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Leessnelheid"
+
+msgid "Reading Text Size"
+msgstr "Tekstgrootte in leesmodus"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Leest de tekst met opmaak van het klembord en behoudt de opmaak."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Leest de webinhoud van het klembord en behoudt de opmaak."
+
+msgid "Recent documents to show:"
+msgstr "Aantal te tonen recente documenten:"
+
+msgid "Recently Used Fonts"
+msgstr "Recent gebruikte lettertypen"
+
+msgid "Recently used symbols:"
+msgstr "Onlangs gebruikte symbolen:"
+
+msgid "Recipient List"
+msgstr "Ontvangerslijst"
+
+msgid "Recipient lists"
+msgstr "Ontvangerslijsten"
+
+msgid "Recipients: {count}"
+msgstr "Ontvangers: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "De kleur van een eenkleurige afbeelding, zoals een pictogram, wijzigen"
+
+msgid "Recolor Selected Ink"
+msgstr "Kleur van de geselecteerde inkt wijzigen"
+
+msgid "Record Macro"
+msgstr "Macro opnemen"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Niet-opgeslagen documenten herstellen"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Rood:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Hangende inspringing verkleinen"
+
+msgid "Reference type:"
+msgstr "Verwijzingstype:"
+
+msgid "References"
+msgstr "Verwijzingen"
+
+msgid "Reflection"
+msgstr "Spiegeling"
+
+msgid "Refresh printers"
+msgstr "Printers vernieuwen"
+
+msgid "Region:"
+msgstr "Regio:"
+
+msgid "Registered"
+msgstr "Geregistreerd"
+
+msgid "Registered Sign"
+msgstr "Geregistreerd handelsmerksteken"
+
+msgid "Regular expressions"
+msgstr "Reguliere expressies"
+
+msgid "Reject"
+msgstr "Weigeren"
+
+msgid "Reject All Changes"
+msgstr "Alle wijzigingen weigeren"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Wijziging weigeren"
+
+msgid "Relationship"
+msgstr "Relatie"
+
+msgid "Relative to original picture size"
+msgstr "Ten opzichte van oorspronkelijke afbeeldingsgrootte"
+
+msgid "Remove Added Font"
+msgstr "Toegevoegd lettertype verwijderen"
+
+msgid "Remove condition"
+msgstr "Voorwaarde verwijderen"
+
+msgid "Remove Content Control"
+msgstr "Inhoudsbesturingselement verwijderen"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Alle eigen sneltoetsen verwijderen en de standaardtoetsen herstellen?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Alle eigen tabbladen en groepen verwijderen en alle tabbladen weer tonen?"
+
+msgid "Remove field"
+msgstr "Veld verwijderen"
+
+msgid "Remove Footer"
+msgstr "Voettekst verwijderen"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Verwijderen uit de sneltoegangslijst"
+
+msgid "Remove gradient stop"
+msgstr ""
+
+msgid "Remove Header"
+msgstr "Koptekst verwijderen"
+
+msgid "Remove Hyperlink"
+msgstr "Hyperlink verwijderen"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Mijn naam uit opmerkingen, revisies en bestandseigenschappen verwijderen bij het opslaan"
+
+msgid "Remove Password"
+msgstr "Wachtwoord verwijderen"
+
+msgid "Remove Pen"
+msgstr "Pen verwijderen"
+
+msgid "Remove recipient"
+msgstr "Ontvanger verwijderen"
+
+msgid "Remove row"
+msgstr "Rij verwijderen"
+
+msgid "Remove series"
+msgstr "Reeks verwijderen"
+
+msgid "Remove Space After Paragraph"
+msgstr "Ruimte na alinea verwijderen"
+
+msgid "Remove Table of Contents"
+msgstr "Inhoudsopgave verwijderen"
+
+msgid "Remove the control once edited"
+msgstr "Besturingselement verwijderen na bewerken"
+
+msgid "Remove the space before the punctuation"
+msgstr "Verwijder de spatie vóór de interpunctie"
+
+msgid "Remove Watermark"
+msgstr "Watermerk verwijderen"
+
+msgid "Rename Document"
+msgstr "Documentnaam wijzigen"
+
+msgid "Reopen"
+msgstr "Opnieuw openen"
+
+msgid "Repeat as header row on each page"
+msgstr "Telkens opnieuw als koprij op elke pagina"
+
+msgid "Repeat Header Rows"
+msgstr "Koprijen herhalen"
+
+msgid "Repeating Section Content Control"
+msgstr "Inhoudsbesturingselement herhalende sectie"
+
+msgid "Replace All"
+msgstr "Alles vervangen"
+
+msgid "Replace as you type"
+msgstr "Vervangen tijdens het typen"
+
+msgid "Replace Document Text"
+msgstr "Documenttekst vervangen"
+
+msgid "Replace text as you type"
+msgstr "Tekst vervangen tijdens het typen"
+
+msgid "Replace with:"
+msgstr "Vervangen door:"
+
+msgid "Replay"
+msgstr "Opnieuw afspelen"
+
+msgid "Research"
+msgstr "Onderzoek"
+
+msgid "Researcher"
+msgstr "Onderzoeker"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Onderzoeker heeft een onlinedienst nodig; WordCraft houdt je documenten offline."
+
+msgid "Reset All…"
+msgstr "Alles herstellen…"
+
+msgid "Reset Character Formatting"
+msgstr "Tekstopmaak herstellen"
+
+msgid "Reset Crop"
+msgstr "Bijsnijden herstellen"
+
+msgid "Reset Default Formatting"
+msgstr "Standaardopmaak opnieuw instellen"
+
+msgid "Reset Graphic"
+msgstr "Illustratie opnieuw instellen"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Alineaopmaak herstellen"
+
+msgid "Reset Picture"
+msgstr "Afbeelding opnieuw instellen"
+
+msgid "Reset tips"
+msgstr "Tips opnieuw instellen"
+
+msgid "Reset to Normal"
+msgstr "Herstellen naar Normaal"
+
+msgid "Reset\nGraphic"
+msgstr "Illustratie\nopnieuw instellen"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Tabel formaat wijzigen door te slepen"
+
+msgid "Resolve"
+msgstr "Oplossen"
+
+msgid "Resolved"
+msgstr "Opgelost"
+
+msgid "Restart at 1"
+msgstr "Beginnen bij 1"
+
+msgid "Restart Each Page"
+msgstr "Op elke pagina opnieuw beginnen"
+
+msgid "Restart Each Section"
+msgstr "Op elke sectie opnieuw beginnen"
+
+msgid "Restart list after:"
+msgstr "Lijst opnieuw starten na:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Bewerking beperken"
+
+msgid "Restrict\nEditing"
+msgstr "Bewerking\nbeperken"
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Return address labels"
+msgstr "Labels met retouradres"
+
+msgid "Return address:"
+msgstr "Retouradres:"
+
+msgid "Reviewing"
+msgstr "Controleren"
+
+msgid "Reviewing Pane"
+msgstr "Controlevenster"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Controleren — wijzigingen worden suggesties"
+
+msgid "Revised document"
+msgstr "Herzien document"
+
+msgid "Rewind"
+msgstr "Terugspoelen"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Terugspoelen. Zeg maar wanneer ik moet stoppen."
+
+msgid "Ribbon"
+msgstr "Lint"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Lint en sneltoegangslijst:"
+
+msgid "Ribbon tabs"
+msgstr "Linttabbladen"
+
+msgid "Rich Text Content Control"
+msgstr "Inhoudsbesturingselement opgemaakte tekst"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Rechts (verticaal)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Rechterpijl met tekst erboven"
+
+msgid "Right Arrow with Text Below"
+msgstr "Rechterpijl met tekst eronder"
+
+msgid "Right Border"
+msgstr "Rechterrand"
+
+msgid "Right border"
+msgstr "Rechterrand"
+
+msgid "Right Bracket Twice"
+msgstr "Dubbele rechterhaak"
+
+msgid "Right indent"
+msgstr "Rechterinspringing"
+
+msgid "Right Margin"
+msgstr "Rechter marge"
+
+msgid "Right Only"
+msgstr "Alleen rechts"
+
+msgid "Right-to-left"
+msgstr "Rechts-naar-links"
+
+msgid "Right-to-Left Section"
+msgstr "Rechts-naar-links-sectie"
+
+msgid "Right-to-Left Table"
+msgstr "Rechts-naar-links-tabel"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Tekstrichting rechts naar links"
+
+msgid "Rightwards Arrow Above"
+msgstr "Rechterpijl erboven"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Rechterharpoen erboven"
+
+msgid "Romanian"
+msgstr "Roemeens"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Wortels van ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Alle tekst 270° draaien"
+
+msgid "Rotate all text 90°"
+msgstr "Alle tekst 90° draaien"
+
+msgid "Rotate Left 90°"
+msgstr "90° linksom draaien"
+
+msgid "Rotate Right 90°"
+msgstr "90° rechtsom draaien"
+
+msgid "Rotate with shape"
+msgstr ""
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Rij"
+
+msgid "Row:"
+msgstr "Rij:"
+
+msgid "Rows & Columns"
+msgstr "Rijen en kolommen"
+
+msgid "Ruby text:"
+msgstr "Rubittekst:"
+
+msgid "Rules"
+msgstr "Regels"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Doorlopend"
+
+msgid "Russia"
+msgstr "Rusland"
+
+msgid "Résumé"
+msgstr "Cv"
+
+msgid "SAMPLE"
+msgstr "VOORBEELD"
+
+msgid "Sat:"
+msgstr "Verz:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Sla een kopie op in een ander formaat. Afdrukken verloopt via een PDF die je vanuit elke viewer kunt afdrukken."
+
+msgid "Save as Word Template…"
+msgstr ""
+
+msgid "Save documents"
+msgstr "Documenten opslaan"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Sla het document op om AutoSave in te schakelen"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Sla het document op om AutoSave in te schakelen (een bestand dat je alleen hebt geopend, wordt pas opnieuw geschreven als je het opslaat)"
+
+msgid "Save these pages as PDF…"
+msgstr "Deze pagina's opslaan als PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Opgeslagen. Weer opgeslagen. Nog steeds opgeslagen. Het is heel erg opgeslagen."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr ""
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Het opslaan van {name} is geannuleerd, dus het document is nog geopend en er is niets verloren."
+
+msgid "Sayings"
+msgstr "Kwinkslagen"
+
+msgid "Sayings:"
+msgstr "Kwinkslagen:"
+
+msgid "Scale Drawing"
+msgstr "Tekening schalen"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Spreiding"
+
+msgid "Script"
+msgstr "Index"
+
+msgid "Scroll ribbon left"
+msgstr "Lint naar links schuiven"
+
+msgid "Scroll ribbon right"
+msgstr "Lint naar rechts schuiven"
+
+msgid "Search Commands"
+msgstr "Opdrachten zoeken"
+
+msgid "Search commands and help"
+msgstr "Zoek opdrachten en help"
+
+msgid "Search document"
+msgstr "Document doorzoeken"
+
+msgid "Search for templates"
+msgstr "Zoeken naar sjablonen"
+
+msgid "Search icons"
+msgstr "Pictogrammen zoeken"
+
+msgid "Search Options"
+msgstr "Zoekopties"
+
+msgid "Search:"
+msgstr "Zoeken:"
+
+msgid "Secant Function"
+msgstr "Secansfunctie"
+
+msgid "Section 1.01"
+msgstr "Sectie 1.01"
+
+msgid "Section Break"
+msgstr "Sectie-einde"
+
+msgid "Section Breaks"
+msgstr "Sectie-einden"
+
+msgid "Section Character"
+msgstr "Sectieteken"
+
+msgid "Section direction:"
+msgstr "Sectierichting:"
+
+msgid "Section Mark"
+msgstr "Sectiemarkering"
+
+msgid "Section Properties"
+msgstr "Sectie-eigenschappen"
+
+msgid "Sections"
+msgstr "Secties"
+
+msgid "See"
+msgstr "Zie"
+
+msgid "select a chart first"
+msgstr "selecteer eerst een grafiek"
+
+msgid "select a connector first"
+msgstr "selecteer eerst een verbindingslijn"
+
+msgid "select a diagram first"
+msgstr "selecteer eerst een diagram"
+
+msgid "select a drawing canvas first"
+msgstr "selecteer eerst een tekenvlak"
+
+msgid "select a floating picture or shape first"
+msgstr "selecteer eerst een zwevende afbeelding of vorm"
+
+msgid "select a group first"
+msgstr "selecteer eerst een groep"
+
+msgid "select a picture first"
+msgstr "selecteer eerst een afbeelding"
+
+msgid "Select a picture first."
+msgstr "Selecteer eerst een afbeelding."
+
+msgid "select a picture or shape first"
+msgstr "selecteer eerst een afbeelding of vorm"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Selecteer een afbeelding, vorm, grafiek of tabel om deze te beschrijven."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Selecteer een printer"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "selecteer eerst een vorm"
+
+msgid "select a shape or decorative text first"
+msgstr "selecteer eerst een vorm of decoratieve tekst"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr ""
+
+msgid "select a SmartArt graphic first"
+msgstr "selecteer eerst een SmartArt-afbeelding"
+
+msgid "select a text box first"
+msgstr "selecteer eerst een tekstvak"
+
+msgid "select a text box linked to another first"
+msgstr "selecteer eerst een tekstvak dat aan een ander is gekoppeld"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Cel selecteren"
+
+msgid "Select Column"
+msgstr "Kolom selecteren"
+
+msgid "Select Heading and Content"
+msgstr "Kop en inhoud selecteren"
+
+msgid "Select Line"
+msgstr "Regel selecteren"
+
+msgid "Select Paragraph"
+msgstr "Alinea selecteren"
+
+msgid "Select Picture…"
+msgstr "Afbeelding selecteren…"
+
+msgid "Select Range"
+msgstr "Bereik selecteren"
+
+msgid "Select Recipients"
+msgstr "Ontvangers selecteren"
+
+msgid "select recipients first"
+msgstr "selecteer eerst ontvangers"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Selecteer eerst de ontvangers om uit hun velden te kiezen."
+
+msgid "Select recipients first to match their fields."
+msgstr "Selecteer eerst de ontvangers om hun velden te koppelen."
+
+msgid "Select Row"
+msgstr "Rij selecteren"
+
+msgid "Select Sentence"
+msgstr "Zin selecteren"
+
+msgid "Select Table"
+msgstr "Tabel selecteren"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Tabelcellen selecteren door te klikken"
+
+msgid "Select Text"
+msgstr "Tekst selecteren"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Tekst met vergelijkbare opmaak selecteren"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Selecteer de tekst en geef aan wie deze nog mag bewerken."
+
+msgid "select two or more cells to merge"
+msgstr "selecteer twee of meer cellen om samen te voegen"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "selecteer eerst twee of meer afbeeldingen of vormen (Shift+klik)"
+
+msgid "Select Word"
+msgstr "Woord selecteren"
+
+msgid "Select\nRecipients"
+msgstr "Ontvangers\nselecteren"
+
+msgid "Selected Fields"
+msgstr "Geselecteerde velden"
+
+msgid "Selected text"
+msgstr "Geselecteerde tekst"
+
+msgid "Selection Pane"
+msgstr "Selectievenster"
+
+msgid "Semitransparent"
+msgstr "Halfdoorzichtig"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Stuur het document rechtstreeks naar het systeemvenster voor afdrukken, of sla hieronder een kopie op in een ander formaat."
+
+msgid "Sentence"
+msgstr "Zin"
+
+msgid "Sentence case."
+msgstr "Zoals in een zin."
+
+msgid "Separate text at"
+msgstr "Tekst scheiden bij"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Scheidingsteken:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Reeksnaam:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Servisch (cyrillisch)"
+
+msgid "Serbian (Latin)"
+msgstr "Servisch (latijn)"
+
+msgid "Series name"
+msgstr "Reeksnaam"
+
+msgid "Series {n}"
+msgstr "Reeks {n}"
+
+msgid "Set As Default"
+msgstr "Instellen als standaard"
+
+msgid "Set as default"
+msgstr "Instellen als standaard"
+
+msgid "Set As Default (Font)"
+msgstr "Instellen als standaard (Lettertype)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Instellen als standaard (Pagina-instelling)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Instellen als standaard (Alinea)"
+
+msgid "Set as Default Language"
+msgstr "Instellen als standaardtaal"
+
+msgid "Set Caret"
+msgstr "Invoegteken plaatsen"
+
+msgid "Set Character Formatting"
+msgstr "Tekstopmaak instellen"
+
+msgid "Set Date"
+msgstr "Datum instellen"
+
+msgid "Set Equation"
+msgstr "Vergelijking instellen"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Nummeringswaarde instellen"
+
+msgid "Set Paragraph Formatting"
+msgstr "Alineaopmaak instellen"
+
+msgid "Set Proofing Language…"
+msgstr "Controleertaal instellen…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Instelling:"
+
+msgid "Shading"
+msgstr "Arcering"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Schaduw, schijnsel en zachte randen"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Vormopvulling"
+
+msgid "Shape Format"
+msgstr "Vormopmaak"
+
+msgid "Shape Outline"
+msgstr "Vormrand"
+
+msgid "Shape Styles"
+msgstr "Vormstijlen"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Verzendlabels"
+
+msgid "Shortcut key:"
+msgstr "Sneltoets:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Uitlijningshulplijnen weergeven bij het verplaatsen van afbeeldingen en vormen"
+
+msgid "Show all formatting marks"
+msgstr "Alle opmaaktekens tonen"
+
+msgid "Show All Levels"
+msgstr "Alle niveaus tonen"
+
+msgid "Show all revisions inline"
+msgstr "Alle revisies inline tonen"
+
+msgid "Show changes at:"
+msgstr "Wijzigingen tonen op niveau:"
+
+msgid "Show changes in:"
+msgstr "Wijzigingen tonen in:"
+
+msgid "Show Comments"
+msgstr "Opmerkingen tonen"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Documenten met omgekeerde kleuren tonen, zoals Weergave › Modus wisselen. Opslaan, afdrukken en pdf’s blijven ongewijzigd."
+
+msgid "Show every bibliography field"
+msgstr "Alle bibliografievelden tonen"
+
+msgid "Show First Line Only"
+msgstr "Alleen eerste regel tonen"
+
+msgid "Show in the Styles gallery"
+msgstr "Weergeven in de stijlengalerij"
+
+msgid "Show its list number"
+msgstr "Lijstnummer weergeven"
+
+msgid "Show its number relative to this field"
+msgstr "Nummer ten opzichte van dit veld weergeven"
+
+msgid "Show its number with all higher levels"
+msgstr "Nummer met alle hogere niveaus weergeven"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Sneltoetsen tonen (Alt of F10)"
+
+msgid "Show Level"
+msgstr "Niveau tonen"
+
+msgid "Show Level 1"
+msgstr "Niveau 1 tonen"
+
+msgid "Show Level 2"
+msgstr "Niveau 2 tonen"
+
+msgid "Show Level 3"
+msgstr "Niveau 3 tonen"
+
+msgid "Show Level 4"
+msgstr "Niveau 4 tonen"
+
+msgid "Show Level 5"
+msgstr "Niveau 5 tonen"
+
+msgid "Show Level 6"
+msgstr "Niveau 6 tonen"
+
+msgid "Show Level 7"
+msgstr "Niveau 7 tonen"
+
+msgid "Show Level 8"
+msgstr "Niveau 8 tonen"
+
+msgid "Show Level 9"
+msgstr "Niveau 9 tonen"
+
+msgid "Show Markup"
+msgstr "Markeringen tonen"
+
+msgid "Show Notes"
+msgstr "Notities tonen"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Alleen opmerkingen en opmaak in ballonnen tonen"
+
+msgid "Show only records that will be merged"
+msgstr "Alleen records tonen die worden samengevoegd"
+
+msgid "Show or Hide Style"
+msgstr "Stijl tonen of verbergen"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Sneltoegangslijst tonen"
+
+msgid "Show revisions in balloons"
+msgstr "Revisies in ballonnen tonen"
+
+msgid "Show Text Formatting"
+msgstr "Tekstopmaak tonen"
+
+msgid "Show the Assistant"
+msgstr "Assistent tonen"
+
+msgid "Show the community button in the title bar"
+msgstr "De communityknop in de titelbalk tonen"
+
+msgid "Show the equation in the line of text"
+msgstr "De vergelijking in de tekstregel tonen"
+
+msgid "Show the equation on a line of its own"
+msgstr "De vergelijking op een eigen regel tonen"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "De minibalk weergeven wanneer tekst is geselecteerd"
+
+msgid "Show the ribbon"
+msgstr ""
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Het startscherm tonen wanneer WordCraft start"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Toont de tips weer die je niet meer wilde zien."
+
+msgid "Show/Hide ¶"
+msgstr "Tonen/verbergen ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Tonen/verbergen ¶ ({key}) toont de spaties, tabs en einden die zich in je tekst verstoppen."
+
+msgid "Show\nComments"
+msgstr "Opmerkingen\ntonen"
+
+msgid "Showing the first {count} items."
+msgstr "De eerste {count} items worden weergegeven."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Geeft een boomstructuur: elk item onder het item waartoe het behoort."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Geeft items rond een centraal idee weer: het eerste item is het middelpunt."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Geeft items met gelijke waarde als blokken in rijen weer."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Geeft overlappende ideeën als overlappende cirkels weer."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Geeft delen van een geheel als kwadranten weer."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Geeft delen die op elkaar voortbouwen weer, het grootste onderaan."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Geeft stappen in volgorde van links naar rechts weer, met pijlen ertussen."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Geeft herhalende stappen rond een cirkel weer."
+
+msgid "Shrink Font 1 Point"
+msgstr "Lettertype 1 punt verkleinen"
+
+msgid "Shrink text"
+msgstr "Tekst verkleinen"
+
+msgid "Side to Side"
+msgstr "Naast elkaar"
+
+msgid "Side\nto Side"
+msgstr "Naast\nelkaar"
+
+msgid "Sides of a right triangle"
+msgstr "Zijden van een rechthoekige driehoek"
+
+msgid "Signature Line"
+msgstr "Ondertekeningslijn"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Sinus- en cosinusreeks van f(x)"
+
+msgid "Sine Function"
+msgstr "Sinusfunctie"
+
+msgid "Sine theta"
+msgstr "Sinus theta"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Enkelvoudig"
+
+msgid "Single Brackets"
+msgstr "Enkele haakjes"
+
+msgid "Single Closing Quote"
+msgstr "Enkelvoudig sluitend aanhalingsteken"
+
+msgid "Single label"
+msgstr "Eén label"
+
+msgid "Single Left Angle"
+msgstr "Enkele linkerhoek"
+
+msgid "Single Left Bar"
+msgstr "Enkele linkerstreep"
+
+msgid "Single Left Brace"
+msgstr "Enkele linkeraccolade"
+
+msgid "Single Left Bracket"
+msgstr "Enkele linkerhaak"
+
+msgid "Single Left Parenthesis"
+msgstr "Enkel linkerhaakje"
+
+msgid "Single Opening Quote"
+msgstr "Enkelvoudig openend aanhalingsteken"
+
+msgid "Single Right Brace"
+msgstr "Enkele rechteraccolade"
+
+msgid "Single Right Bracket"
+msgstr "Enkele rechterhaak"
+
+msgid "Single Right Parenthesis"
+msgstr "Enkel rechterhaakje"
+
+msgid "Single Spacing"
+msgstr "Enkelvoudige regelafstand"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Sitenaam"
+
+msgid "Size (pt):"
+msgstr "Grootte (pt):"
+
+msgid "Size and Crop…"
+msgstr "Grootte en bijsnijden…"
+
+msgid "Sketchbook"
+msgstr "Schetsboek"
+
+msgid "Skewed Fraction"
+msgstr "Schuine breuk"
+
+msgid "Skip citations & bibliography"
+msgstr "Citaten en bibliografie overslaan"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Citaten en bibliografie overslaan"
+
+msgid "Skip Record If"
+msgstr "Record overslaan als"
+
+msgid "Skip Record If…"
+msgstr "Record overslaan als…"
+
+msgid "Slant Down"
+msgstr "Schuin omlaag"
+
+msgid "Slant Up"
+msgstr "Schuin omhoog"
+
+msgid "Slovak"
+msgstr "Slowaaks"
+
+msgid "Slovenian"
+msgstr "Sloveens"
+
+msgid "Small caps"
+msgstr "Kleine hoofdletters"
+
+msgid "Small change"
+msgstr "Kleine verandering"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Gebogen aanhalingstekens in plaats van rechte"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt-ontwerp"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt-stijlen"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Vloeiend scrollen en zoomen, en menu's en knoppen die langzaam verschijnen. Uit toont alle wijzigingen tegelijk."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Zachte randen"
+
+msgid "Soft Glow"
+msgstr "Zachte gloed"
+
+msgid "Solid Accent"
+msgstr "Massief accent"
+
+msgid "Solid fill"
+msgstr ""
+
+msgid "Sometimes"
+msgstr "Soms"
+
+msgid "Sort by:"
+msgstr "Sorteren op:"
+
+msgid "Sort order:"
+msgstr "Sorteervolgorde:"
+
+msgid "Sort Recipients"
+msgstr "Geadresseerden sorteren"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Broncode: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Bronnenbeheer"
+
+msgid "Source type:"
+msgstr "Brontype:"
+
+msgid "Sources in this document:"
+msgstr "Bronnen in dit document:"
+
+msgid "South"
+msgstr "Zuid"
+
+msgid "South Africa"
+msgstr "Zuid-Afrika"
+
+msgid "Space"
+msgstr "Spatie"
+
+msgid "Space after"
+msgstr "Ruimte na"
+
+msgid "Space after: {pt} pt"
+msgstr "Ruimte na: {pt} pt"
+
+msgid "Space before"
+msgstr "Ruimte voor"
+
+msgid "Space before/after:"
+msgstr "Ruimte voor/na:"
+
+msgid "Space before: {pt} pt"
+msgstr "Ruimte voor: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Afstand (pt):"
+
+msgid "Spain"
+msgstr "Spanje"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Spaans (Mexico)"
+
+msgid "Spanish (Spain)"
+msgstr "Spaans (Spanje)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "IJle matrices"
+
+msgid "Special Characters"
+msgstr "Speciale tekens"
+
+msgid "Specify height:"
+msgstr "Hoogte opgeven:"
+
+msgid "Speech"
+msgstr "Spraak"
+
+msgid "Spelling & Grammar"
+msgstr "Spelling en grammatica"
+
+msgid "Spelling &\nGrammar"
+msgstr "Spelling en\ngrammatica"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Controletaal voor spelling en grammatica: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Spellingsuggesties"
+
+msgid "Spike"
+msgstr "Verzamelbak"
+
+msgid "Split Cells"
+msgstr "Cellen splitsen"
+
+msgid "Split Table"
+msgstr "Tabel splitsen"
+
+msgid "Spreadsheet Table"
+msgstr "Rekenbladtabel"
+
+msgid "Square Root"
+msgstr "Wortel"
+
+msgid "Square Root with Degree"
+msgstr "Wortel met graad"
+
+msgid "Square Union"
+msgstr "Vierkante vereniging"
+
+msgid "Stack Object"
+msgstr "Gestapeld object"
+
+msgid "Stack Object (Three)"
+msgstr "Gestapeld object (drie)"
+
+msgid "Stacked Bar"
+msgstr "Gestapeld staafdiagram"
+
+msgid "Stacked Column"
+msgstr "Gestapeld kolomdiagram"
+
+msgid "Stacked Fraction"
+msgstr "Gestapelde breuk"
+
+msgid "Stacked, no bar"
+msgstr "Gestapeld, zonder streep"
+
+msgid "Standard Colors"
+msgstr "Standaardkleuren"
+
+msgid "Start Enforcing Protection"
+msgstr "Beveiliging activeren"
+
+msgid "Start Mail Merge"
+msgstr "Afdrukken en samenvoegen starten"
+
+msgid "Start Mail\nMerge"
+msgstr "Afdrukken en\nsamenvoegen starten"
+
+msgid "Start-up"
+msgstr "Opstarten"
+
+msgid "State"
+msgstr "Provincie"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Ben je er nog? Ik hoor je denken."
+
+msgid "Stop Protection"
+msgstr "Beveiliging stoppen"
+
+msgid "Stop Reading"
+msgstr "Voorlezen stoppen"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Gestopt"
+
+msgid "Straight Arrow Connector"
+msgstr "Rechte verbindingslijn met pijl"
+
+msgid "Straight Connector"
+msgstr "Rechte verbindingslijn"
+
+msgid "Stroke {n} of {total}"
+msgstr "Streek {n} van {total}"
+
+msgid "Strong"
+msgstr "Sterk"
+
+msgid "Structure Actions"
+msgstr "Structuurbewerkingen"
+
+msgid "Structures"
+msgstr "Structuren"
+
+msgid "Studio cover"
+msgstr "Studiokaft"
+
+msgid "Studio handbook (sample)"
+msgstr "Studiohandboek (voorbeeld)"
+
+msgid "Style based on:"
+msgstr "Stijl op basis van:"
+
+msgid "Style Inspector"
+msgstr "Stijlcontrole"
+
+msgid "Style name:"
+msgstr "Stijlnaam:"
+
+msgid "Style Set"
+msgstr "Stijlset"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Stijl: {style}"
+
+msgid "Styles Pane"
+msgstr "Stijlenvenster"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stijlen:"
+
+msgid "Subentry:"
+msgstr "Subitem:"
+
+msgid "Submit print job"
+msgstr "Afdruktaak verzenden"
+
+msgid "Submitting print job…"
+msgstr "Afdruktaak wordt verzonden…"
+
+msgid "Subscript-Superscript"
+msgstr "Subscript en superscript"
+
+msgid "Subscripts and Superscripts"
+msgstr "Subscripts en superscripts"
+
+msgid "Subset:"
+msgstr "Deelverzameling:"
+
+msgid "Subtle Emphasis"
+msgstr "Subiele nadruk"
+
+msgid "Subtle Reference"
+msgstr "Subiele verwijzing"
+
+msgid "Suggested"
+msgstr "Voorgesteld"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Som"
+
+msgid "Sum of cosines"
+msgstr "Som van cosinussen"
+
+msgid "Sum or difference of sines"
+msgstr "Som of verschil van sinussen"
+
+msgid "Summation"
+msgstr "Som"
+
+msgid "Summation from 0 to n"
+msgstr "Som van 0 tot n"
+
+msgid "Summation over binomials"
+msgstr "Som over binomen"
+
+msgid "Summation with Limits"
+msgstr "Som met grenzen"
+
+msgid "Summation with Lower Limit"
+msgstr "Som met ondergrens"
+
+msgid "Summation with Subscript Limit"
+msgstr "Som met grens in subscript"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Som met grenzen in subscript en superscript"
+
+msgid "Summations"
+msgstr "Sommen"
+
+msgid "Suppress line numbers"
+msgstr "Regelnummers onderdrukken"
+
+msgid "Surface Integral"
+msgstr "Oppervlakte-integraal"
+
+msgid "Surface Integral with Limits"
+msgstr "Oppervlakte-integraal met grenzen"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Oppervlakte-integraal met gestapelde grenzen"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Voetnoten en eindnoten wisselen"
+
+msgid "Swedish"
+msgstr "Zweeds"
+
+msgid "Switch Modes"
+msgstr "Modi wisselen"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Modi\nwisselen"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+msgid "Synonyms"
+msgstr "Synoniemen"
+
+msgid "Syria"
+msgstr "Syrië"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Systeemwoordenboek"
+
+msgid "Tab Character"
+msgstr "Tabteken"
+
+msgid "Tab character"
+msgstr "Tabteken"
+
+msgid "Tab characters"
+msgstr "Tabtekens"
+
+msgid "Tab leader:"
+msgstr "Opvulteken van tabstop:"
+
+msgid "Tab stop position:"
+msgstr "Positie van tabstop:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Te wissen tabstops:"
+
+msgid "Table Column Width"
+msgstr "Kolombreedte van tabel"
+
+msgid "Table Design"
+msgstr "Tabelontwerp"
+
+msgid "Table direction:"
+msgstr "Tabelrichting:"
+
+msgid "Table Grid"
+msgstr "Tabelraster"
+
+msgid "Table Layout"
+msgstr "Tabellay-out"
+
+msgid "Table of Authorities"
+msgstr "Tabel met juridische bronnen"
+
+msgid "Table of Contents"
+msgstr "Inhoudsopgave"
+
+msgid "Table of Contents Options"
+msgstr "Inhoudsopgaveopties"
+
+msgid "Table of Contents Styles"
+msgstr "Inhoudsopgavestijlen"
+
+msgid "Table of Figures"
+msgstr "Afbeeldingenlijst"
+
+msgid "Table of\nContents"
+msgstr "Inhouds-\nopgave"
+
+msgid "Table Properties"
+msgstr "Tabeleigenschappen"
+
+msgid "Table Properties…"
+msgstr "Tabeleigenschappen…"
+
+msgid "Table Row Height"
+msgstr "Rijhoogte van tabel"
+
+msgid "Table size"
+msgstr "Tabelgrootte"
+
+msgid "Table Style Options"
+msgstr "Stijlopties voor tabel"
+
+msgid "Table Styles"
+msgstr "Tabelstijlen"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Tabstops…"
+
+msgid "Tabular List"
+msgstr "Tabellarische lijst"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Take the last match on the page"
+msgstr "Laatste overeenkomst op de pagina nemen"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Neem je tijd. De pagina loopt niet weg. Ik ook niet. Nooit."
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tangent formula"
+msgstr "Tangensformule"
+
+msgid "Tangent Function"
+msgstr "Tangensfunctie"
+
+msgid "TC entry fields"
+msgstr "TC-itemvelden"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Technologie"
+
+msgid "Templates and Add-ins"
+msgstr "Sjablonen en invoegitems"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr ""
+
+msgid "Text Box"
+msgstr "Tekstvak"
+
+msgid "Text boxes"
+msgstr "Tekstvakken"
+
+msgid "text boxes can't go inside a text box"
+msgstr "tekstvakken kunnen niet in een tekstvak staan"
+
+msgid "Text Direction"
+msgstr "Tekstrichting"
+
+msgid "Text Effects"
+msgstr "Teksteffecten"
+
+msgid "Text Effects and Typography"
+msgstr "Teksteffecten en typografie"
+
+msgid "Text Fill"
+msgstr "Tekstvulling"
+
+msgid "Text from File"
+msgstr "Tekst uit bestand"
+
+msgid "Text Highlight Color"
+msgstr "Tekstmarkeerkleur"
+
+msgid "Text indent at:"
+msgstr "Tekstinspringen op:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Tekst van de dichtstbijzijnde alinea met een bepaalde stijl (lopende kopteksten)"
+
+msgid "Text Outline"
+msgstr "Tekstomtrek"
+
+msgid "Text over Colon Equal"
+msgstr "Tekst boven dubbele punt-gelijk"
+
+msgid "Text over Equal"
+msgstr "Tekst boven gelijkheidsteken"
+
+msgid "Text Pane"
+msgstr "Tekstgebied"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Tekstgrootte"
+
+msgid "Text snaps to characters"
+msgstr "Tekst aan tekens koppelen"
+
+msgid "Text to display:"
+msgstr "Weer te geven tekst:"
+
+msgid "Text watermark"
+msgstr "Tekstwatermerk"
+
+msgid "Text Wrapping"
+msgstr "Tekstomloop"
+
+msgid "Text\nBox"
+msgstr "Tekst-\nvak"
+
+msgid "Text\nDirection"
+msgstr "Tekst-\nrichting"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Dat formaat bewaart niet alles, dus het document blijft open. Sla het op als Word-document (.docx) om verder te gaan."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Dat wachtwoord is onjuist. Controleer het (wachtwoorden zijn hoofdlettergevoelig) en probeer het opnieuw."
+
+msgid "The clipboard is empty."
+msgstr "Het klembord is leeg."
+
+msgid "the Clipboard pane is empty"
+msgstr "het deelvenster Klembord is leeg"
+
+msgid "the cursor isn't in a table"
+msgstr "de cursor staat niet in een tabel"
+
+msgid "The date it is today"
+msgstr "De datum van vandaag"
+
+msgid "The document has no bookmarks yet."
+msgstr "Het document bevat nog geen bladwijzers."
+
+msgid "the document is protected"
+msgstr "het document is beveiligd"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Het document is alleen-lezen, behalve de gedeelten die als bewerkbaar zijn gemarkeerd."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Het document wordt met een wachtwoord opgeslagen. Sla het op om het te beveiligen."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Het document dat je bewerkt behoudt de namen en datums; alleen in het opgeslagen bestand worden ze weeggelaten."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "De marges passen niet op een pagina van dit formaat; maak de marges eerst kleiner."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "De maat moet tussen {min} en {max} liggen."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "De nieuwe stijl neemt de opmaak van de huidige alinea over."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Het sjabloon Standaard kon niet worden gelezen, dus dit document gebruikt de ingebouwde opmaak van WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Het getal moet tussen 1 en {max} liggen."
+
+msgid "the paragraph is empty"
+msgstr "de alinea is leeg"
+
+msgid "the paragraph starts with a space"
+msgstr "de alinea begint met een spatie"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Het wachtwoord is optioneel; zonder wachtwoord kan iedereen de beveiliging opheffen."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Het wachtwoord is verwijderd. Sla het document op om de wijziging te behouden."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "De printer, dubbelzijdig afdrukken en pagina's per vel worden in dat dialoogvenster gekozen."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Het veld uit de ontvangerslijst dat elk deel van een adresblok en begroetingsregel vult."
+
+msgid "The spelling and grammar check is complete."
+msgstr "De spelling- en grammaticacontrole is voltooid."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "de verzamelbak is leeg"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Het systeemvenster voor bestanden is niet beschikbaar, dus toont WordCraft het eigen venster. Installeer een portaal voor bestandskiezer (zoals xdg-desktop-portal-gtk) of zenity om het systeemvenster te krijgen."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "De tekst bij de invoegpositie is gemarkeerd: Spelling of grammatica niet controleren."
+
+msgid "The time right now"
+msgstr "De huidige tijd"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Themakleuren"
+
+msgid "Theme Fonts"
+msgstr "Themalettertypen"
+
+msgid "Theme List"
+msgstr "Themalijst"
+
+msgid "Themes"
+msgstr "Thema's"
+
+msgid "Then by"
+msgstr "Vervolgens op"
+
+msgid "Then insert:"
+msgstr "Dan invoegen:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "er is geen inkt om af te spelen"
+
+msgid "there is nothing to undo"
+msgstr "er is niets om ongedaan te maken"
+
+msgid "there's no citation after the caret"
+msgstr "er staat geen citaat na de cursor"
+
+msgid "Thesaurus"
+msgstr "Thesaurus"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Deze tekens worden ook weergegeven als „¶ weergeven/verbergen” uit staat."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Deze samenvoegvelden staan niet in de ontvangerslijst:"
+
+msgid "These settings will be used for new documents."
+msgstr "Deze instellingen worden gebruikt voor nieuwe documenten."
+
+msgid "Thick"
+msgstr "Dik"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "deze grafiek is gemaakt in een ander programma: WordCraft toont hem, maar kan hem niet bewerken"
+
+msgid "this diagram can't be edited"
+msgstr "dit diagram kan niet worden bewerkt"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "dit diagram is in een ander programma gemaakt: WordCraft toont het, maar kan het niet bewerken"
+
+msgid "This document"
+msgstr "Dit document"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Alleen dit document?"
+
+msgid "This field has no options."
+msgstr "Dit veld heeft geen opties."
+
+msgid "This folder can't be read: {error}"
+msgstr "Kan deze map niet worden gelezen: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Dit lettertype bevat geen tekens om weer te geven."
+
+msgid "this item is already at the top level"
+msgstr "dit item staat al op het hoogste niveau"
+
+msgid "This page"
+msgstr "Deze pagina"
+
+msgid "This password type isn't supported."
+msgstr "Dit wachtwoordtype wordt niet ondersteund."
+
+msgid "This point forward"
+msgstr "Vanaf dit punt"
+
+msgid "This section"
+msgstr "Deze sectie"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "deze sessie heeft geen sjabloon Standaard (zonder interface of zonder voorkeuren)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "deze sessie heeft geen sjabloon Standaard (zonder interface of zonder voorkeuren): gebruik \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "deze SmartArt is gemaakt in een ander programma: WordCraft toont hem, maar kan hem niet bewerken"
+
+msgid "this text box is already linked: break the link first"
+msgstr "dit tekstvak is al gekoppeld: verbreek eerst de koppeling"
+
+msgid "Three"
+msgstr "Drie"
+
+msgid "Through"
+msgstr "Doorlopend"
+
+msgid "Tight"
+msgstr "Strak"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "Tip"
+
+msgid "Tips ({n})"
+msgstr "Tips ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Titel"
+
+msgid "Title Bar"
+msgstr "Titelbalk"
+
+msgid "Title from the document properties"
+msgstr "Titel uit documenteigenschappen"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Om Word-documenten standaard met WordCraft te openen: selecteer er een in Finder, kies Bestand › Info, selecteer WordCraft bij Open met en klik daarna op Alles wijzigen."
+
+msgid "To:"
+msgstr "Tot:"
+
+msgid "TOA Heading"
+msgstr "Kop van verwijzingslijst"
+
+msgid "TOC Heading"
+msgstr "Kop inhoudsopgave"
+
+msgid "TOC {n}"
+msgstr "Inhoudsopgave {n}"
+
+msgid "Today"
+msgstr "Vandaag"
+
+msgid "tOGGLE cASE"
+msgstr "cASE wISSELEN"
+
+msgid "Toggle Check Box"
+msgstr "Selectievakje wisselen"
+
+msgid "Toggle Field Codes"
+msgstr "Veldcodes omschakelen"
+
+msgid "Toggle Unicode Character"
+msgstr "Unicode-teken omschakelen"
+
+msgid "Top and Bottom"
+msgstr "Boven en onder"
+
+msgid "Top Border"
+msgstr "Bovenrand"
+
+msgid "Top Left Cell"
+msgstr "Linkerbovencel"
+
+msgid "Top Margin"
+msgstr "Bovenmarge"
+
+msgid "Top of Page"
+msgstr "Bovenkant van pagina"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Rechterbovencel"
+
+msgid "Total Row"
+msgstr "Totalenrij"
+
+msgid "Track Changes"
+msgstr "Wijzigingen bijhouden"
+
+msgid "Track Changes Options"
+msgstr "Opties voor wijzigingen bijhouden"
+
+msgid "Track Changes: On"
+msgstr "Wijzigingen bijhouden: aan"
+
+msgid "Track formatting"
+msgstr "Opmaak bijhouden"
+
+msgid "Track\nChanges"
+msgstr "Wijzigingen\nbijhouden"
+
+msgid "Track\nChanges ✓"
+msgstr "Wijzigingen\nbijhouden ✓"
+
+msgid "Tracked changes"
+msgstr "Bijgehouden wijzigingen"
+
+msgid "Trademark"
+msgstr "Handelsmerk"
+
+msgid "Trademark Sign"
+msgstr "Handelsmerksteken"
+
+msgid "Transparency:"
+msgstr "Transparantie:"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Triangle Down"
+msgstr "Driehoek omlaag"
+
+msgid "Triangle Up"
+msgstr "Driehoek omhoog"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometrische functies"
+
+msgid "Triple"
+msgstr "Drievoudig"
+
+msgid "Triple Dot"
+msgstr "Drie punten"
+
+msgid "Triple Integral"
+msgstr "Drievoudige integraal"
+
+msgid "Triple Integral with Limits"
+msgstr "Drievoudige integraal met grenzen"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Drievoudige integraal met gestapelde grenzen"
+
+msgid "Trust Center"
+msgstr "Vertrouwenscentrum"
+
+msgid "Tue"
+msgstr "Di"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turks"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Twee"
+
+msgid "Two-sided printing"
+msgstr "Dubbelzijdig afdrukken"
+
+msgid "Two-sided: long edge"
+msgstr "Dubbelzijdig: lange rand"
+
+msgid "Two-sided: short edge"
+msgstr "Dubbelzijdig: korte rand"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Typ +2 of -1 om vanaf de pagina waarop je je bevindt te navigeren."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Typ een opdracht, bijvoorbeeld „tabel invoegen”"
+
+msgid "Type a New List…"
+msgstr "Een nieuwe lijst invoeren…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Typ een grootte in een willekeurige eenheid, zoals 5 cm of 300 px. De andere kant past zich aan, zodat de verhoudingen van de afbeelding gelijk blijven."
+
+msgid "Type at least one recipient."
+msgstr "Voer minstens één ontvanger in."
+
+msgid "Type Character Code"
+msgstr "Tekencode typen"
+
+msgid "Type equations in LaTeX"
+msgstr "Vergelijkingen in LaTeX typen"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Vergelijkingen in het lineaire formaat typen (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Typen in vergelijking"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Normale tekst (geen wiskunde) in de vergelijking typen"
+
+msgid "Type Text"
+msgstr "Tekst invoeren"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Voer de categorijen aan de zijkant in en een kolom met waarden per reeks."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Typ de veldnaam en de schakelaars, bijvoorbeeld PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Voer het wachtwoord in om de beveiliging op te heffen."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Voer de ontvangers in of laad ze uit een bestand."
+
+msgid "Typing replaces selected text"
+msgstr "Typen vervangt de geselecteerde tekst"
+
+msgid "U.A.E."
+msgstr "Verenigde Arabische Emiraten"
+
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+msgid "Ukrainian"
+msgstr "Oekraïens"
+
+msgid "Unchecked symbol"
+msgstr "Symbool voor niet aangevinkt"
+
+msgid "Underbar"
+msgstr "Onderstreep"
+
+msgid "Underbrace"
+msgstr "Accolade eronder"
+
+msgid "Underline Color"
+msgstr "Underline Color"
+
+msgid "Underline color"
+msgstr "Onderstreekskleur"
+
+msgid "Underline Words Only"
+msgstr "Alleen woorden onderstrepen"
+
+msgid "Undo 1 Action"
+msgstr "1 actie ongedaan maken"
+
+msgid "Undo Actions"
+msgstr "Acties ongedaan maken"
+
+msgid "Undo History"
+msgstr "Geschiedenis van ongedaan maken"
+
+msgid "Undo {n} Actions"
+msgstr "{n} acties ongedaan maken"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Ongedaan maken, ongedaan maken, ongedaan maken… we reizen nu door de tijd."
+
+msgid "Unformatted Text"
+msgstr "Onopgemaakte tekst"
+
+msgid "Union of intersections"
+msgstr "Vereniging van doorsneden"
+
+msgid "Union with Limits"
+msgstr "Vereniging met grenzen"
+
+msgid "Union with Lower Limit"
+msgstr "Vereniging met ondergrens"
+
+msgid "Union with Plus"
+msgstr "Vereniging met plus"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Vereniging met grenzen in subscript en superscript"
+
+msgid "Unions and Intersections"
+msgstr "Verenigingen en doorsneden"
+
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+msgid "United States"
+msgstr "Verenigde Staten"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "onbekende stijl voor decoratieve tekst `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Velden loskoppelen"
+
+msgid "Unlink\nCitations"
+msgstr "Citaten\nontkoppelen"
+
+msgid "Unlock Fields"
+msgstr "Velden ontgrendelen"
+
+msgid "Up Diagonal Dots"
+msgstr "Oplopende diagonale punten"
+
+msgid "Up one level"
+msgstr "Eén niveau omhoog"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Veld bijwerken"
+
+msgid "Update fields before printing"
+msgstr "Velden bijwerken voor het afdrukken"
+
+msgid "Update Index"
+msgstr "Index bijwerken"
+
+msgid "Update Style to Match Selection"
+msgstr "Stijl bijwerken op selectie"
+
+msgid "Update Styles from Template"
+msgstr "Stijlen vanuit sjabloon bijwerken"
+
+msgid "Update Table"
+msgstr "Tabel bijwerken"
+
+msgid "Update Table of Figures"
+msgstr "Afbeeldingenlijst bijwerken"
+
+msgid "Update to Match"
+msgstr "Bijwerken om te laten overeenkomen"
+
+msgid "Update to Match Selection"
+msgstr "Bijwerken om te laten overeenkomen met selectie"
+
+msgid "URGENT"
+msgstr "DRINGEND"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Gebruik „a” voor een medeklinkergeluid"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Gebruik „an” voor een klinkergeluid"
+
+msgid "Use an Existing List…"
+msgstr "Een bestaande lijst gebruiken…"
+
+msgid "Use system setting"
+msgstr "Systeeminstelling gebruiken"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Volledig scherm van de browser gebruiken (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "De huidige stijlset en het huidige thema gebruiken voor alle nieuwe documenten?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Gebruik de Insert-toets om overtypen aan en uit te schakelen"
+
+msgid "Use this formatting as the default for:"
+msgstr "Deze opmaak als standaard gebruiken voor:"
+
+msgid "Use wildcards"
+msgstr "Wildcards gebruiken"
+
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+msgid "User name:"
+msgstr "Gebruikersnaam:"
+
+msgid "User templates:"
+msgstr ""
+
+msgid "Vector A"
+msgstr "Vector A"
+
+msgid "Vector AB"
+msgstr "Vector AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Versiegeschiedenis"
+
+msgid "Version {version} ({build})"
+msgstr "Versie {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Verticale uitlijning:"
+
+msgid "Vertical Bars"
+msgstr "Verticale strepen"
+
+msgid "Vertical Dots"
+msgstr "Verticale punten"
+
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+msgid "View Alt Text…"
+msgstr "Alternatieve tekst weergeven…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Rasterlijnen weergeven"
+
+msgid "View State"
+msgstr "Weergavestatus"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Weergave › Focus verbergt alles behalve je woorden. Ik wacht wel buiten."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Weergaven"
+
+msgid "Visual effects"
+msgstr "Visuele effecten"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Volume Integral"
+msgstr "Volume-integraal"
+
+msgid "Volume Integral with Limits"
+msgstr "Volume-integraal met grenzen"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Volume-integraal met gestapelde grenzen"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "Wachten tot het opslaan is voltooid…"
+
+msgid "Waiting for Zotero…"
+msgstr "Wachten op Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Warm verloop met omtrek"
+
+msgid "Warnings ({n})"
+msgstr "Waarschuwingen ({n})"
+
+msgid "Washout"
+msgstr "Vervaagd"
+
+msgid "Weather"
+msgstr "Weer"
+
+msgid "Web Layout"
+msgstr "Web-lay-out"
+
+msgid "Web page (*.html)"
+msgstr "Webpagina (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Web-\nlay-out"
+
+msgid "Wed"
+msgstr "Wo"
+
+msgid "Welsh"
+msgstr "Welsh"
+
+msgid "West"
+msgstr "West"
+
+msgid "When this document was first created"
+msgstr "Wanneer dit document voor het eerst is gemaakt"
+
+msgid "When this document was most recently printed"
+msgstr "Wanneer dit document voor het laatst is afgedrukt"
+
+msgid "When this document was most recently saved"
+msgstr "Wanneer dit document voor het laatst is opgeslagen"
+
+msgid "White Space"
+msgstr "Witruimte"
+
+msgid "White space"
+msgstr "Witruimte"
+
+msgid "Who the document properties name as author"
+msgstr "Auteur volgens documenteigenschappen"
+
+msgid "Whole document"
+msgstr "Hele document"
+
+msgid "Whole page"
+msgstr "Hele pagina"
+
+msgid "Whole Table"
+msgstr "Hele tabel"
+
+msgid "Whole words"
+msgstr "Hele woorden"
+
+msgid "Wide"
+msgstr "Breed"
+
+msgid "Widow/Orphan Control"
+msgstr "Weduwen- en wezencontrole"
+
+msgid "Widow/Orphan control"
+msgstr "Weduwen- en wezencontrole"
+
+msgid "Width and spacing"
+msgstr "Breedte en afstand"
+
+msgid "Wildcards (regex)"
+msgstr "Jokertekens (regex)"
+
+msgid "With:"
+msgstr "Met:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML-document (*.xml)"
+
+msgid "Word Count"
+msgstr "Woordentelling"
+
+msgid "Word document"
+msgstr "Word-document"
+
+msgid "Word document (*.docx)"
+msgstr "Word-document (*.docx)"
+
+msgid "Word Left"
+msgstr "Woord links"
+
+msgid "Word level"
+msgstr "Woordniveau"
+
+msgid "Word Right"
+msgstr "Woord rechts"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML-document (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt-stijlen"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft is nu de standaardapp voor Word-documenten."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Alleen woorden"
+
+msgid "Wrap Text"
+msgstr "Tekstterugloop"
+
+msgid "Wrap Text Sides"
+msgstr "Tekstzijden omvloeien"
+
+msgid "Wrap\nText"
+msgstr "Tekst-\nterugloop"
+
+msgid "Write & Insert Fields"
+msgstr "Velden schrijven en invoegen"
+
+msgid "Write a reply"
+msgstr "Een reactie schrijven"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Schrijversblok? Ik vind dat staren naar de cursor helpt. Die knippert al jaren naar me."
+
+msgid "x bar"
+msgstr "x met streep"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "Yields"
+msgstr "Levert op"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Je hebt al een tijdje niet opgeslagen en Automatisch opslaan staat uit. Nu opslaan?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Je bent een lijst begonnen. Druk twee keer op Enter om hem te beëindigen, of op Backspace aan het begin van een item om er weer gewone tekst van te maken."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Je document is nu het vaakst opgeslagen document uit de geschiedenis."
+
+msgid "Your languages"
+msgstr "Je talen"
+
+msgid "Your own dictionary"
+msgstr "Je eigen woordenboek"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Je systeem meldt geen animatie-instelling, dus animatie-effecten blijven aan."
+
+msgid "Your system has animation effects turned off."
+msgstr "In je systeem zijn animatie-effecten uitgeschakeld."
+
+msgid "Your system has animation effects turned on."
+msgstr "In je systeem zijn animatie-effecten ingeschakeld."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: geannuleerd"
+
+msgid "Zotero: done"
+msgstr "Zotero: gereed"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} niet leesbaar: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} overgeslagen (limiet {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} tabel"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} bijdragers · {commits} commits"
+
+msgid "{count} items highlighted"
+msgstr "{count} items gemarkeerd"
+
+msgid "{count} of {total} pages will print"
+msgstr "{count} van {total} pagina's worden afgedrukt"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "{count} van de {total} geadresseerden worden samengevoegd."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Instellingen voor {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} controleert de spelling en grammatica van het hele document."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} telt je woorden, tekens en alinea's."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} zoekt en vervangt tekst, opmaak en speciale tekens."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} herhaalt je laatste actie. Tien koppen opmaken is ineens één klik en negen tikken."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} begint een nieuwe regel zonder een nieuwe alinea te beginnen."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} begint een nieuwe pagina. Veel netter dan op Enter blijven drukken tot het gebeurt."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} maakt van de geselecteerde tekst een koppeling."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+klik om de koppeling te volgen"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (standaard)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (geen woordenboek)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} is nu de standaardtaal van het document."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: geen woordenboek gevonden"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft controleert in deze taal nog geen spelling of grammatica."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} en nog {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} inch"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} bestaat al. Kies nogmaals Opslaan om het te vervangen."
+
+msgid "{name} is protected with a password."
+msgstr "{name} is beveiligd met een wachtwoord."
+
+msgid "{name} options"
+msgstr "Opties voor {name}"
+
+msgid "{name} wasn't found."
+msgstr "{name} is niet gevonden."
+
+msgid "{n} entries marked."
+msgstr "{n} items gemarkeerd."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} regels"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected} van {words} woorden"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pixels"
+
+msgid "{words} words"
+msgstr "{words} woorden"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} woorden en het worden er steeds meer. Letterlijk. Ik tel mee."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} woorden! Ik zou confetti gooien, maar dan moet ik het ook opruimen."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} woorden. Dat zijn er {words} meer dan ik vandaag heb geschreven."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) is geen getal."
+
+msgid "✓ None"
+msgstr "✓ Geen"
+
+msgid "➕ New comment"
+msgstr "➕ Nieuwe opmerking"
+
+msgid "📂  Browse…"
+msgstr "📂  Bladeren…"

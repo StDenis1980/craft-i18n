@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n%10>=2 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Visi)"
+
+msgid "(no style)"
+msgstr "(be stiliaus)"
+
+msgid "(no suggestions)"
+msgstr "(pasiūlymų nėra)"
+
+msgid "(normal text)"
+msgstr "(įprastas tekstas)"
+
+msgid "(not matched)"
+msgstr "(neatitinka)"
+
+msgid "(picture or object)"
+msgstr "(paveikslėlis ar objektas)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 ar daugiau simbolių"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Formatavimo apribojimai"
+
+msgid "1.5 Line Spacing"
+msgstr "1,5 eilutės tarpai"
+
+msgid "1/4 Em Space"
+msgstr "1/4 ketvirtainio tarpas"
+
+msgid "1×2 Empty Matrix"
+msgstr "1×2 tuščia matrica"
+
+msgid "1×3 Empty Matrix"
+msgstr "1×3 tuščia matrica"
+
+msgid "2. Editing restrictions"
+msgstr "2. Redagavimo apribojimai"
+
+msgid "2×1 Empty Matrix"
+msgstr "2×1 tuščia matrica"
+
+msgid "2×2 Determinant"
+msgstr "2×2 determinantas"
+
+msgid "2×2 Empty Matrix"
+msgstr "2×2 tuščia matrica"
+
+msgid "2×2 Identity Matrix"
+msgstr "2×2 vienetinė matrica"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "2×2 vienetinė matrica (reta)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "2×2 matrica laužtiniuose skliaustuose"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "2×2 matrica dvigubuose brūkšniuose"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "2×2 matrica skliaustuose"
+
+msgid "2×3 Empty Matrix"
+msgstr "2×3 tuščia matrica"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Pradėti taikyti"
+
+msgid "3×1 Empty Matrix"
+msgstr "3×1 tuščia matrica"
+
+msgid "3×2 Empty Matrix"
+msgstr "3×2 tuščia matrica"
+
+msgid "3×3 Empty Matrix"
+msgstr "3×3 tuščia matrica"
+
+msgid "3×3 Identity Matrix"
+msgstr "3×3 vienetinė matrica"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "3×3 vienetinė matrica (reta)"
+
+msgid "<< Less"
+msgstr "<< Mažiau"
+
+msgid "<< Remove"
+msgstr "<< Šalinti"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "piešimo drobės negalima išgrupuoti"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "piešimo drobė negali būti teksto lauke"
+
+msgid "A file dialog is already open."
+msgstr "Failo dialogo langas jau atidarytas."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Nemokama atvirojo kodo teksto rengyklė, nuo nulio parašyta Rust kalba.\nDalis „ArtCraft“ komandos Crafting Apps."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "grupės su Word rašalu dar negalima išgrupuoti"
+
+msgid "A mail merge field"
+msgstr "Laiškų suliejimo laukas"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Numeruota seka (paveikslai, lentelės…)"
+
+msgid "A password is required to open this document."
+msgstr "Šiam dokumentui atidaryti reikia slaptažodžio."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Turinys"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Apie WordCraft"
+
+msgid "Above Chart"
+msgstr "Virš diagramos"
+
+msgid "Above the item"
+msgstr "Virš elemento"
+
+msgid "Above/below"
+msgstr "Virš / po"
+
+msgid "Absolute value cases"
+msgstr "Absoliučiosios reikšmės atvejai"
+
+msgid "Accent"
+msgstr "Paryškinimas"
+
+msgid "Accent Gradient"
+msgstr "Paryškinimo gradientas"
+
+msgid "Accent with Reflection"
+msgstr "Paryškinimas su atspindžiu"
+
+msgid "Accent {n}"
+msgstr "Paryškinimas {n}"
+
+msgid "Accents"
+msgstr "Diakritikai"
+
+msgid "Accept"
+msgstr "Priimti"
+
+msgid "Accept All Changes"
+msgstr "Priimti visus keitimus"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Priimti šį keitimą"
+
+msgid "Accessed on"
+msgstr "Žiūrėta"
+
+msgid "Accessibility Pane"
+msgstr "Pritaikymo neįgaliesiems sritis"
+
+msgid "Account"
+msgstr "Paskyra"
+
+msgid "Acute"
+msgstr "Ūmusis kirtis"
+
+msgid "Add >>"
+msgstr "Pridėti >>"
+
+msgid "Add a language"
+msgstr ""
+
+msgid "Add a language…"
+msgstr ""
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Pridėti lentelę"
+
+msgid "Add at least one field."
+msgstr "Pridėkite bent vieną lauką."
+
+msgid "Add Chart Element"
+msgstr "Pridėti diagramos elementą"
+
+msgid "Add Condition"
+msgstr "Pridėti sąlygą"
+
+msgid "Add Field"
+msgstr "Pridėti lauką"
+
+msgid "Add Font…"
+msgstr "Pridėti šriftą…"
+
+msgid "Add gradient stop"
+msgstr "Pridėti gradiento tašką"
+
+msgid "Add line numbering"
+msgstr "Pridėti eilučių numeravimą"
+
+msgid "Add New Source…"
+msgstr "Pridėti naują šaltinį…"
+
+msgid "Add Object to Selection"
+msgstr "Pridėti objektą prie žymėjimo"
+
+msgid "Add Pen"
+msgstr "Pridėti rašiklį"
+
+msgid "Add Row"
+msgstr "Pridėti eilutę"
+
+msgid "Add Series"
+msgstr "Pridėti seką"
+
+msgid "Add Shape"
+msgstr "Pridėti figūrą"
+
+msgid "Add Space Before Paragraph"
+msgstr "Pridėti tarpą prieš pastraipą"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Pridėti tarpą tarp Azijos ir lotyniško teksto"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Pridėti tarpą tarp Azijos teksto ir skaičių"
+
+msgid "Add tab stop at:"
+msgstr "Pridėti tabuliavimo žymę ties:"
+
+msgid "Add Text"
+msgstr "Pridėti tekstą"
+
+msgid "Add the chapter number"
+msgstr "Pridėti skyriaus numerį"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Įtraukti į dokumentą"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Įtraukti į sparčiosios prieigos įrankių juostą"
+
+msgid "Add to Style Gallery"
+msgstr "Įtraukti į stilių galeriją"
+
+msgid "Add whether it is above or below"
+msgstr "Nurodyti, ar tai virš ar po"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Pridėti / redaguoti\nbibliografiją"
+
+msgid "Add/Edit\nCitation"
+msgstr "Pridėti / redaguoti\ncitatą"
+
+msgid "Add\nNote"
+msgstr "Pridėti\npastabą"
+
+msgid "Add\nPen"
+msgstr "Pridėti\nrašiklį"
+
+msgid "Add\nShape"
+msgstr "Pridėti\nfigūrą"
+
+msgid "Added 1 font"
+msgstr "Pridėtas 1 šriftas"
+
+msgid "Added Fonts"
+msgstr "Pridėti šriftai"
+
+msgid "Added {n} fonts"
+msgstr "Pridėta šriftų: {n}"
+
+msgid "Address"
+msgstr "Adresas"
+
+msgid "Address Block"
+msgstr "Adreso blokas"
+
+msgid "Address labels"
+msgstr "Adresų etiketės"
+
+msgid "Address:"
+msgstr "Adresas:"
+
+msgid "Address\nBlock"
+msgstr "Adreso\nblokas"
+
+msgid "Advanced Find"
+msgstr "Išplėstinė paieška"
+
+msgid "Advanced Find…"
+msgstr "Išplėstinė paieška…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "After:"
+msgstr "Po:"
+
+msgid "Agents"
+msgstr "Agentai"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr ""
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr ""
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr ""
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Align Bottom Center"
+msgstr "Lygiuoti apačioje centre"
+
+msgid "Align Bottom Left"
+msgstr "Lygiuoti apačioje kairėje"
+
+msgid "Align Bottom Right"
+msgstr "Lygiuoti apačioje dešinėje"
+
+msgid "Align Center"
+msgstr "Lygiuoti centre"
+
+msgid "Align Center Left"
+msgstr "Lygiuoti per vidurį kairėje"
+
+msgid "Align Center Right"
+msgstr "Lygiuoti per vidurį dešinėje"
+
+msgid "Align Top Center"
+msgstr "Lygiuoti viršuje centre"
+
+msgid "Align Top Left"
+msgstr "Lygiuoti viršuje kairėje"
+
+msgid "Align Top Right"
+msgstr "Lygiuoti viršuje dešinėje"
+
+msgid "Aligned at:"
+msgstr "Lygiuota ties:"
+
+msgid "All - Linear"
+msgstr "Visos – linijinė"
+
+msgid "All - Professional"
+msgstr "Visos – profesionali"
+
+msgid "All Borders"
+msgstr "Visos kraštinės"
+
+msgid "All caps"
+msgstr "Visos didžiosios"
+
+msgid "All Commands"
+msgstr "Visos komandos"
+
+msgid "All documents based on the Normal template?"
+msgstr ""
+
+msgid "All Fonts"
+msgstr "Visi šriftai"
+
+msgid "All Levels"
+msgstr "Visi lygiai"
+
+msgid "All Markup"
+msgstr "Visi žymėjimai"
+
+msgid "All pages in the range"
+msgstr "Visi diapazono puslapiai"
+
+msgid "All symbol sets"
+msgstr "Visi simbolių rinkiniai"
+
+msgid "All system fonts are already available."
+msgstr "Visi sistemos šriftai jau prieinami."
+
+msgid "Allow hanging punctuation"
+msgstr "Leisti kabančią skyrybą"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Leisti laužyti lotynišką tekstą žodžio viduryje"
+
+msgid "Allow line breaks"
+msgstr "Leisti eilučių lūžius"
+
+msgid "Allow row to break across pages"
+msgstr "Leisti eilutei persikelti į kitą puslapį"
+
+msgid "Alphabetical"
+msgstr "Abėcėlės tvarka"
+
+msgid "Alt Text"
+msgstr "Alternatyvusis tekstas"
+
+msgid "Alt text"
+msgstr "Alternatyvusis tekstas"
+
+msgid "Alt Text Pane"
+msgstr "Alternatyviojo teksto sritis"
+
+msgid "Alt:"
+msgstr "Alt.:"
+
+msgid "Alt\nText"
+msgstr "Alternatyvusis\ntekstas"
+
+msgid "an agent"
+msgstr ""
+
+msgid "An installed Language pack is used after this folder."
+msgstr ""
+
+msgid "And"
+msgstr "Ir"
+
+msgid "Angle Brackets"
+msgstr "Kampiniai skliaustai"
+
+msgid "Angle Brackets with Separator"
+msgstr "Kampiniai skliaustai su skyrikliu"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Kampiniai skliaustai su dviem skyrikliais"
+
+msgid "Angola"
+msgstr ""
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animuoti žymeklį (slysta ir blunka)"
+
+msgid "Animation effects:"
+msgstr "Animacijos efektai:"
+
+msgid "Annotation Reference"
+msgstr "Pastabos nuoroda"
+
+msgid "Annotation Subject"
+msgstr "Pastabos tema"
+
+msgid "Annotation Text"
+msgstr "Pastabos tekstas"
+
+msgid "Annoying"
+msgstr ""
+
+msgid "Another file"
+msgstr "Kitas failas"
+
+msgid "Any Character"
+msgstr "Bet koks simbolis"
+
+msgid "Any Digit"
+msgstr "Bet koks skaitmuo"
+
+msgid "Any field"
+msgstr "Bet koks laukas"
+
+msgid "Any Letter"
+msgstr "Bet kokia raidė"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Šį dokumentą gali atidaryti bet kas. Kad jis liktų privatus, užšifruokite jį slaptažodžiu."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Kiekvienam, kuris atidarys dokumentą, reikės šio slaptažodžio."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Taikyti rašant"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Taikyti Azijos eilučių laužymo taisykles (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Taikyti formatavimą:"
+
+msgid "Apply Style"
+msgstr "Taikyti stilių"
+
+msgid "Apply Styles"
+msgstr "Taikyti stilius"
+
+msgid "Arabic"
+msgstr "Arabiški"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "Vakarietiški skaitmenys"
+
+msgid "Arch Down"
+msgstr "Arka žemyn"
+
+msgid "Arch Up"
+msgstr "Arka aukštyn"
+
+msgid "Argentina"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Arrange\nAll"
+msgstr "Išdėstyti\nvisus"
+
+msgid "Article I."
+msgstr "I straipsnis."
+
+msgid "Artistic Effects"
+msgstr "Meniniai efektai"
+
+msgid "As Recommended"
+msgstr "Kaip rekomenduojama"
+
+msgid "As you type"
+msgstr ""
+
+msgid "ASAP"
+msgstr "KUO SKUBIAU"
+
+msgid "Asian text font:"
+msgstr "Azijos teksto šriftas:"
+
+msgid "Asian Typography"
+msgstr "Azijos tipografija"
+
+msgid "Assistant"
+msgstr ""
+
+msgid "Assistant Suggestions"
+msgstr ""
+
+msgid "At least"
+msgstr "Mažiausiai"
+
+msgid "At least {n}"
+msgstr "Mažiausiai {n}"
+
+msgid "Atelier"
+msgstr "Ateljė"
+
+msgid "Atmosphere"
+msgstr "Atmosfera"
+
+msgid "Attach Template"
+msgstr "Prijungti šabloną"
+
+msgid "Attach…"
+msgstr "Prijungti…"
+
+msgid "Australia"
+msgstr ""
+
+msgid "Austria"
+msgstr ""
+
+msgid "Auto orientation"
+msgstr "Automatinis orientavimas"
+
+msgid "AutoCorrect"
+msgstr "Automatinis taisymas"
+
+msgid "AutoCorrect Options"
+msgstr "Automatinio taisymo parinktys"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Automatinis pritaikymas"
+
+msgid "AutoFit behavior"
+msgstr "Automatinio pritaikymo elgsena"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Automatiškai pritaikyti stulpelį dukart spustelėjus"
+
+msgid "AutoFit Contents"
+msgstr "Automatiškai pritaikyti pagal turinį"
+
+msgid "AutoFit to contents"
+msgstr "Automatiškai pritaikyti pagal turinį"
+
+msgid "AutoFit to window"
+msgstr "Automatiškai pritaikyti pagal langą"
+
+msgid "AutoFit Window"
+msgstr "Automatiškai pritaikyti pagal langą"
+
+msgid "AutoFormat As You Type"
+msgstr "Automatinis formatavimas rašant"
+
+msgid "Automatic ({language})"
+msgstr ""
+
+msgid "Automatic ({region})"
+msgstr ""
+
+msgid "Automatic bulleted lists"
+msgstr "Automatiniai ženklinti sąrašai"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr ""
+
+msgid "Automatic numbered lists"
+msgstr "Automatiniai numeruoti sąrašai"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automatinis turinys 1 (3 lygiai)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automatinis turinys 2 (2 lygiai)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "Automatiškai įtraukti žodžius į sąrašą (Pirmoji raidė)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "Automatiškai įtraukti žodžius į sąrašą (DVI DIdžiosios)"
+
+msgid "Automatically hyphenate document"
+msgstr "Automatiškai kelti žodžius dokumente"
+
+msgid "Automatically Update Document Styles"
+msgstr "Automatiškai atnaujinti dokumento stilius"
+
+msgid "Automatically update document styles"
+msgstr "Automatiškai atnaujinti dokumento stilius"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr ""
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Nepavyko automatiškai įrašyti: {error}. Įrašykite dokumentą, kad automatinis įrašymas vėl įsijungtų."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Automatinis įrašymas naršyklėje negalimas: ji negali rašyti į jūsų failus. Įrašymas atsisiunčia kopiją."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Automatinis įrašymas palaiko tik .docx, .odt ir .rtf failus; {name} negali išlaikyti viso formatavimo. Įrašykite kaip .docx, kad įjungtumėte automatinį įrašymą."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Automatinis įrašymas įrašo kiekvieną pakeitimą į failą (reikia įrašyto dokumento)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr ""
+
+msgid "AutoText"
+msgstr "Automatinis tekstas"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Debesėliai"
+
+msgid "Banded Columns"
+msgstr "Juostiniai stulpeliai"
+
+msgid "Banded Rows"
+msgstr "Juostinės eilutės"
+
+msgid "Base text:"
+msgstr "Pagrindinis tekstas:"
+
+msgid "Based on: {style}"
+msgstr "Pagal: {style}"
+
+msgid "Baseline Dots"
+msgstr "Taškai bazinėje linijoje"
+
+msgid "Basic Cycle"
+msgstr "Paprastas ciklas"
+
+msgid "Basic List"
+msgstr "Paprastas sąrašas"
+
+msgid "Basic Math"
+msgstr "Pagrindinė matematika"
+
+msgid "Basic Matrix"
+msgstr "Paprasta matrica"
+
+msgid "Basic Process"
+msgstr "Paprastas procesas"
+
+msgid "Basic Pyramid"
+msgstr "Paprasta piramidė"
+
+msgid "Basic Radial"
+msgstr "Paprasta radialinė"
+
+msgid "Basic Venn"
+msgstr "Paprasta Veno diagrama"
+
+msgid "Bayes' rule"
+msgstr "Bajeso taisyklė"
+
+msgid "Before:"
+msgstr "Prieš:"
+
+msgid "Beginning of Word"
+msgstr "Žodžio pradžia"
+
+msgid "Behind Text"
+msgstr "Už teksto"
+
+msgid "Belarus"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Belgium"
+msgstr ""
+
+msgid "Below text"
+msgstr "Po tekstu"
+
+msgid "Below the item"
+msgstr "Po elementu"
+
+msgid "Between"
+msgstr "Tarp"
+
+msgid "Bibliography"
+msgstr "Bibliografija"
+
+msgid "Binomial Coefficient"
+msgstr "Binominis koeficientas"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binominis koeficientas (kampinis)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binominis koeficientas su kampiniais skliaustais"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Binominis (x+a)ⁿ skleidinys"
+
+msgid "Blank"
+msgstr "Tuščias"
+
+msgid "Blank (Three Columns)"
+msgstr "Tuščias (trys stulpeliai)"
+
+msgid "Blank document"
+msgstr "Tuščias dokumentas"
+
+msgid "Blank Page"
+msgstr "Tuščias puslapis"
+
+msgid "Block\nAuthors"
+msgstr "Blokuoti\nautorius"
+
+msgid "Blue:"
+msgstr "Mėlyna:"
+
+msgid "Body Text"
+msgstr "Pagrindinis tekstas"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Pagrindinis tekstas trumpoje pastraipoje tarpams parodyti."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr ""
+
+msgid "Bolivia"
+msgstr ""
+
+msgid "Book"
+msgstr "Knyga"
+
+msgid "Book Title"
+msgstr "Knygos pavadinimas"
+
+msgid "Book title"
+msgstr "Knygos pavadinimas"
+
+msgid "Bookmark"
+msgstr "Žymelė"
+
+msgid "Bookmark name:"
+msgstr "Žymelės pavadinimas:"
+
+msgid "Bookmark text"
+msgstr "Žymelės tekstas"
+
+msgid "Bookmarks"
+msgstr "Žymelės"
+
+msgid "Border lines"
+msgstr "Kraštinių linijos"
+
+msgid "Border Painter"
+msgstr "Kraštinių teptukas"
+
+msgid "Border\nPainter"
+msgstr "Kraštinių\nteptukas"
+
+msgid "Borders and Shading"
+msgstr "Kraštinės ir šešėliavimas"
+
+msgid "Borders and Shading…"
+msgstr "Kraštinės ir šešėliavimas…"
+
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Both Sides"
+msgstr "Abi pusės"
+
+msgid "Bottom Border"
+msgstr "Apatinė kraštinė"
+
+msgid "Bottom Left Cell"
+msgstr "Apatinis kairysis langelis"
+
+msgid "Bottom Margin"
+msgstr "Apatinė paraštė"
+
+msgid "Bottom of Page"
+msgstr "Puslapio apačia"
+
+msgid "Bottom Right Cell"
+msgstr "Apatinis dešinysis langelis"
+
+msgid "Box"
+msgstr "Stačiakampis"
+
+msgid "Boxed Formula"
+msgstr "Formulė rėmelyje"
+
+msgid "Boxed Formula (example)"
+msgstr "Formulė rėmelyje (pavyzdys)"
+
+msgid "Boxed Formulas"
+msgstr "Formulės rėmeliuose"
+
+msgid "Braces"
+msgstr "Riestiniai skliaustai"
+
+msgid "Braces with Separator"
+msgstr "Riestiniai skliaustai su skyrikliu"
+
+msgid "Bracket"
+msgstr "Skliaustas"
+
+msgid "Brackets"
+msgstr "Laužtiniai skliaustai"
+
+msgid "Brackets with Separators"
+msgstr "Laužtiniai skliaustai su skyrikliais"
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Breaks"
+msgstr "Lūžiai"
+
+msgid "Breve"
+msgstr "Trumpumo ženklas"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "Šviesiau +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "Ryškumas, kontrastas ir aštrumas"
+
+msgid "Browse in WordCraft…"
+msgstr "Naršyti WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Statybinių blokų galerijos turinio valdiklis"
+
+msgid "Built in"
+msgstr ""
+
+msgid "Built-In"
+msgstr "Įtaisytieji"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Įtaisytasis stilius"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Įtaisytųjų stilių naikinti negalima."
+
+msgid "Bulgarian"
+msgstr ""
+
+msgid "Bullet Library"
+msgstr "Ženklelių biblioteka"
+
+msgid "Bullets"
+msgstr "Ženklinimas"
+
+msgid "By author"
+msgstr "Pagal autorių"
+
+msgid "Cabo Verde"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Kalendorius"
+
+msgid "Can't be deleted"
+msgstr "Negalima naikinti"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr ""
+
+msgid "can't split at the first row"
+msgstr "negalima skaidyti ties pirma eilute"
+
+msgid "Canada"
+msgstr ""
+
+msgid "Canvas Member"
+msgstr "Drobės narys"
+
+msgid "Capitalize Each Word"
+msgstr "Kiekvienas Žodis Didžiąja"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Sakinius pradėti didžiąja raide"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Lentelės langelius pradėti didžiąja raide"
+
+msgid "Capitalize names of days"
+msgstr "Dienų pavadinimus rašyti didžiąja raide"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Sakinio pirmą žodį rašyti didžiąja raide"
+
+msgid "Caption Numbering"
+msgstr "Antraščių numeravimas"
+
+msgid "Caption text"
+msgstr "Antraštės tekstas"
+
+msgid "Caption:"
+msgstr "Antraštė:"
+
+msgid "Captions"
+msgstr "Antraštės"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr ""
+
+msgid "Caret Character"
+msgstr "Stogelio simbolis"
+
+msgid "Case changes"
+msgstr "Raidžių dydžio keitimai"
+
+msgid "Cases (Three Conditions)"
+msgstr "Atvejai (trys sąlygos)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Atvejai (dvi sąlygos)"
+
+msgid "Cases and Stacks"
+msgstr "Atvejai ir rinkiniai"
+
+msgid "Catalan"
+msgstr ""
+
+msgid "Catalan (Valencian)"
+msgstr ""
+
+msgid "Categories"
+msgstr "Kategorijos"
+
+msgid "Categories:"
+msgstr "Kategorijos:"
+
+msgid "Category {n}"
+msgstr "Kategorija {n}"
+
+msgid "Ceiling"
+msgstr "Lubos"
+
+msgid "Cell"
+msgstr "Langelis"
+
+msgid "Cell Margins"
+msgstr "Langelio paraštės"
+
+msgid "Cell\nMargins"
+msgstr "Langelio\nparaštės"
+
+msgid "Center Glow"
+msgstr "Švytėjimas centre"
+
+msgid "Centered as Group"
+msgstr "Centruota kaip grupė"
+
+msgid "Change Chart Type"
+msgstr "Keisti diagramos tipą"
+
+msgid "Change Colors"
+msgstr "Keisti spalvas"
+
+msgid "Change in y over change in x"
+msgstr "y pokytis, padalytas iš x pokyčio"
+
+msgid "Change Layout"
+msgstr "Keisti maketą"
+
+msgid "Change List Level"
+msgstr "Keisti sąrašo lygį"
+
+msgid "Change Password…"
+msgstr "Keisti slaptažodį…"
+
+msgid "Change Picture"
+msgstr "Keisti paveikslėlį"
+
+msgid "Change Picture…"
+msgstr "Keisti paveikslėlį…"
+
+msgid "Change Shape"
+msgstr "Keisti figūrą"
+
+msgid "Change Structure"
+msgstr "Keisti struktūrą"
+
+msgid "Change to Display"
+msgstr "Keisti į rodomąją"
+
+msgid "Change to Inline"
+msgstr "Keisti į įterptinę"
+
+msgid "Change to Level 1"
+msgstr ""
+
+msgid "Change to Level 2"
+msgstr ""
+
+msgid "Change to Level 3"
+msgstr ""
+
+msgid "Change to Level 4"
+msgstr ""
+
+msgid "Change to Level 5"
+msgstr ""
+
+msgid "Change to Level 6"
+msgstr ""
+
+msgid "Change to Level 7"
+msgstr ""
+
+msgid "Change to Level 8"
+msgstr ""
+
+msgid "Change to Level 9"
+msgstr ""
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Keisti\ndiagramos tipą"
+
+msgid "Change\nColors"
+msgstr "Keisti\nspalvas"
+
+msgid "Changed lines:"
+msgstr "Pakeistos eilutės:"
+
+msgid "Changes"
+msgstr "Keitimai"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "1 skyrius"
+
+msgid "Chapter in a book"
+msgstr "Knygos skyrius"
+
+msgid "Chapters begin at:"
+msgstr "Skyriai prasideda nuo:"
+
+msgid "Character Border"
+msgstr "Simbolio kraštinė"
+
+msgid "Character code:"
+msgstr "Simbolio kodas:"
+
+msgid "Character in Range"
+msgstr "Simbolis diapazone"
+
+msgid "Character level"
+msgstr "Simbolių lygis"
+
+msgid "Character Position"
+msgstr "Simbolio padėtis"
+
+msgid "Character Scale"
+msgstr "Simbolių mastelis"
+
+msgid "Character Shading"
+msgstr "Simbolio šešėliavimas"
+
+msgid "Character Spacing"
+msgstr "Simbolių tarpai"
+
+msgid "Character spacing"
+msgstr "Tarpai tarp simbolių"
+
+msgid "Character style"
+msgstr "Simbolių stilius"
+
+msgid "Characters (no spaces)"
+msgstr "Simboliai (be tarpų)"
+
+msgid "Characters (with spaces)"
+msgstr "Simboliai (su tarpais)"
+
+msgid "Characters per line:"
+msgstr "Simbolių eilutėje:"
+
+msgid "Chart"
+msgstr "Diagrama"
+
+msgid "Chart Design"
+msgstr "Diagramos dizainas"
+
+msgid "Chart Layouts"
+msgstr "Diagramų maketai"
+
+msgid "Chart Title"
+msgstr "Diagramos pavadinimas"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "diagramų ir schemų dar negalima perkelti ar keisti jų dydžio"
+
+msgid "Check"
+msgstr "Varnelė"
+
+msgid "Check Accessibility"
+msgstr "Tikrinti pritaikymą neįgaliesiems"
+
+msgid "Check Box Content Control"
+msgstr "Žymės langelio turinio valdiklis"
+
+msgid "Check Compatibility"
+msgstr "Tikrinti suderinamumą"
+
+msgid "Check for Errors"
+msgstr "Tikrinti, ar nėra klaidų"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Tikrinti rašybą rašant"
+
+msgid "Check spelling as you type"
+msgstr ""
+
+msgid "Check\nAccessibility"
+msgstr "Tikrinti\npritaikymą neįgaliesiems"
+
+msgid "Checked styles are allowed:"
+msgstr "Leidžiami pažymėti stiliai:"
+
+msgid "Checked symbol"
+msgstr "Pažymėtas simbolis"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Kampelis žemyn"
+
+msgid "Chevron Up"
+msgstr "Kampelis aukštyn"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr ""
+
+msgid "China"
+msgstr ""
+
+msgid "Chinese (Simplified)"
+msgstr "Kinų (supaprastinta)"
+
+msgid "Chinese (Traditional)"
+msgstr "Kinų (tradicinė)"
+
+msgid "Choose a command"
+msgstr "Pasirinkite komandą"
+
+msgid "Choose a shortcut"
+msgstr "Pasirinkite spartųjį klavišą"
+
+msgid "Choose List Item"
+msgstr "Pasirinkite sąrašo elementą"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Pasirinkite lapą su gavėjais."
+
+msgid "Circle area from its radius"
+msgstr "Apskritimo plotas pagal spindulį"
+
+msgid "Circled Dot"
+msgstr "Taškas apskritime"
+
+msgid "Circled Plus"
+msgstr "Pliusas apskritime"
+
+msgid "Circled Times"
+msgstr "Daugyba apskritime"
+
+msgid "Citation Style"
+msgstr "Citavimo stilius"
+
+msgid "Citations"
+msgstr "Citatos"
+
+msgid "Citations & Bibliography"
+msgstr "Citatos ir bibliografija"
+
+msgid "Clear All Formatting"
+msgstr "Valyti visą formatavimą"
+
+msgid "Clear Character Formatting"
+msgstr "Valyti simbolių formatavimą"
+
+msgid "Clear Character Style"
+msgstr "Valyti simbolių stilių"
+
+msgid "Clear Formatting Level"
+msgstr "Valyti formatavimo lygį"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Valyti pastraipos formatavimą"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Spustelėkite kraštinę tarp dviejų langelių, kad juos suolietumėte. Esc – baigti."
+
+msgid "Click an item to paste it."
+msgstr "Spustelėkite elementą, kad jį įklijuotumėte."
+
+msgid "Click level to modify:"
+msgstr "Spustelėkite lygį, kurį norite modifikuoti:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Spustelėkite tuščią teksto lauką, kuriame tekstas turi tęstis (Esc – atšaukti)"
+
+msgid "Click to switch back to inserting"
+msgstr "Spustelėkite, kad vėl įterptumėte"
+
+msgid "Clipboard Contents"
+msgstr "Mainų srities turinys"
+
+msgid "Clipboard Items"
+msgstr "Mainų srities elementai"
+
+msgid "Clipboard Pane"
+msgstr "Mainų srities sritis"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Uždaryti lygtį"
+
+msgid "Close Header and Footer"
+msgstr "Uždaryti antraštę ir poraštę"
+
+msgid "Close Outline View"
+msgstr "Uždaryti struktūros rodinį"
+
+msgid "Close Outline\nView"
+msgstr "Uždaryti struktūros\nrodinį"
+
+msgid "Clustered Bar"
+msgstr "Grupuota juosta"
+
+msgid "Clustered Column"
+msgstr "Grupuotas stulpelis"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr ""
+
+msgid "Collapse Selection"
+msgstr "Sutraukti žymėjimą"
+
+msgid "Collate copies"
+msgstr "Gretinti kopijas"
+
+msgid "Collect entries from:"
+msgstr "Rinkti įrašus iš:"
+
+msgid "Colombia"
+msgstr ""
+
+msgid "Colon Equal"
+msgstr "Dvitaškis lygu"
+
+msgid "Color model:"
+msgstr "Spalvų modelis:"
+
+msgid "Color only"
+msgstr "Tik spalva"
+
+msgid "Color: {color}"
+msgstr "Spalva: {color}"
+
+msgid "Colorful"
+msgstr "Spalvinga"
+
+msgid "Column"
+msgstr "Stulpelinė"
+
+msgid "Column Break"
+msgstr "Stulpelio lūžis"
+
+msgid "Column Selection"
+msgstr "Stulpelio žymėjimas"
+
+msgid "Column {n}"
+msgstr "Stulpelis {n}"
+
+msgid "Column:"
+msgstr "Stulpelis:"
+
+msgid "Combine Documents"
+msgstr "Sujungti dokumentus"
+
+msgid "Combo Box Content Control"
+msgstr "Pasirinkimo lauko turinio valdiklis"
+
+msgid "Commands"
+msgstr "Komandos"
+
+msgid "Commas"
+msgstr "Kableliai"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Komentarai šalia kiekvieno puslapio ir sekami keitimai PDF, spaudiniuose ir paveikslėliuose; komentarų sąrašas tinklalapių, Markdown ir teksto pabaigoje."
+
+msgid "Comments Pane"
+msgstr "Komentarų sritis"
+
+msgid "Common Accent Objects"
+msgstr "Įprasti diakritiniai objektai"
+
+msgid "Common Brackets"
+msgstr "Įprasti skliaustai"
+
+msgid "Common Fractions"
+msgstr "Įprastos trupmenos"
+
+msgid "Common Functions"
+msgstr "Įprastos funkcijos"
+
+msgid "Common Large Operators"
+msgstr "Įprasti dideli operatoriai"
+
+msgid "Common Operator Structures"
+msgstr "Įprastos operatorių struktūros"
+
+msgid "Common Operators"
+msgstr "Įprasti operatoriai"
+
+msgid "Common Radicals"
+msgstr "Įprastos šaknys"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Įprasti apatiniai ir viršutiniai indeksai"
+
+msgid "Communication"
+msgstr "Komunikacija"
+
+msgid "Community\nDiscord"
+msgstr "Bendruomenė\nDiscord"
+
+msgid "Compact"
+msgstr "Kompaktiškas"
+
+msgid "Compare Documents"
+msgstr "Lyginti dokumentus"
+
+msgid "Compare to"
+msgstr "Lyginti su"
+
+msgid "Compared: {changes} changes"
+msgstr "Palyginta: pakeitimų {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Norint lyginti su kitu failu, reikia darbalaukio programos."
+
+msgid "Comparison settings"
+msgstr "Lyginimo parametrai"
+
+msgid "Compress Pictures"
+msgstr "Glaudinti paveikslėlius"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Glaudinti skyrybos ženklus eilutės pradžioje"
+
+msgid "Conference"
+msgstr "Konferencija"
+
+msgid "Conference paper"
+msgstr "Konferencijos pranešimas"
+
+msgid "CONFIDENTIAL"
+msgstr "KONFIDENCIALU"
+
+msgid "Confirm password:"
+msgstr "Patvirtinkite slaptažodį:"
+
+msgid "Connect Shapes"
+msgstr "Sujungti figūras"
+
+msgid "Container Title"
+msgstr "Talpyklės pavadinimas"
+
+msgid "Content Control at Selection"
+msgstr "Turinio valdiklis žymėjime"
+
+msgid "Content Control Properties"
+msgstr "Turinio valdiklio ypatybės"
+
+msgid "Contents can't be edited"
+msgstr "Turinio redaguoti negalima"
+
+msgid "Context"
+msgstr "Kontekstas"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "Pagal aplinkinį tekstą"
+
+msgid "Continue from previous section"
+msgstr "Tęsti nuo ankstesnės sekcijos"
+
+msgid "Continue without restoring"
+msgstr "Tęsti neatkuriant"
+
+msgid "Continuous"
+msgstr "Ištisinis"
+
+msgid "Continuous numbering"
+msgstr "Ištisinis numeravimas"
+
+msgid "Contour Integral"
+msgstr "Kontūrinis integralas"
+
+msgid "Contour Integral with Limits"
+msgstr "Kontūrinis integralas su rėžiais"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Kontūrinis integralas su sudėtiniais rėžiais"
+
+msgid "Contour Integrals"
+msgstr "Kontūriniai integralai"
+
+msgid "Controls"
+msgstr "Valdikliai"
+
+msgid "Conversions"
+msgstr ""
+
+msgid "Convert between built-up and linear form"
+msgstr "Konvertuoti tarp sudėtinės ir linijinės formos"
+
+msgid "Convert Notes"
+msgstr "Konvertuoti pastabas"
+
+msgid "Convert Text to Table"
+msgstr "Konvertuoti tekstą į lentelę"
+
+msgid "Convert Text to Table…"
+msgstr "Konvertuoti tekstą į lentelę…"
+
+msgid "Convert to Shapes"
+msgstr "Konvertuoti į figūras"
+
+msgid "Convert to Text"
+msgstr "Konvertuoti į tekstą"
+
+msgid "Coproduct"
+msgstr "Kosandauga"
+
+msgid "Coproduct with Limits"
+msgstr "Kosandauga su rėžiais"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Kosandauga su apatiniu rėžiu"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Kosandauga su apatinio ir viršutinio indekso rėžiais"
+
+msgid "Copy Formatting"
+msgstr "Kopijuoti formatavimą"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Žymele pažymėto teksto kopija"
+
+msgid "Copy Styles"
+msgstr "Kopijuoti stilius"
+
+msgid "Copy to"
+msgstr "Kopijuoti į"
+
+msgid "Copyright Sign"
+msgstr "Autorių teisių ženklas"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Taisyti atsitiktinį cAPS LOCK klavišo naudojimą"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Taisyti DVI PIrmąsias DIdžiąsias raides"
+
+msgid "Corrections"
+msgstr "Pataisos"
+
+msgid "Cosecant Function"
+msgstr "Kosekanto funkcija"
+
+msgid "Cosine 2x"
+msgstr "Kosinusas 2x"
+
+msgid "Cosine Function"
+msgstr "Kosinuso funkcija"
+
+msgid "Costa Rica"
+msgstr ""
+
+msgid "Cotangent Function"
+msgstr "Kotangento funkcija"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Nepavyko atsisiųsti {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Nepavyko nustatyti WordCraft kaip numatytosios: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Nepavyko atidaryti {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "Nepavyko įrašyti {name}, todėl jis tebėra atidarytas ir niekas neprarasta: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Skaičiuoti kas:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Skaičiuoti žodžius teksto laukuose ir išnašose"
+
+msgid "Courtesy Title"
+msgstr "Kreipinys"
+
+msgid "Cover Page"
+msgstr "Viršelio puslapis"
+
+msgid "Craft"
+msgstr "Amatas"
+
+msgid "Create a Style"
+msgstr "Kurti stilių"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Kurkite interaktyvią dokumento struktūrą.\n\nTai puikus būdas sekti, kur esate, ar greitai perkelti turinį.\n\nNorėdami pradėti, eikite į skirtuką Pradžia ir dokumento antraštėms pritaikykite antraščių stilius."
+
+msgid "Create Graphic"
+msgstr "Kurti grafiką"
+
+msgid "Create Link"
+msgstr "Kurti saitą"
+
+msgid "Create New Style"
+msgstr "Kurti naują stilių"
+
+msgid "Create Source"
+msgstr "Kurti šaltinį"
+
+msgid "Croatian"
+msgstr "Kroatų"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "Apkarpymas puslapyje veikia nepasuktiems paveikslėliams: pirmiausia nustatykite pasukimą į 0° arba naudokite apkarpymo laukus"
+
+msgid "Cross-reference"
+msgstr "Kryžminė nuoroda"
+
+msgid "Cross-reference:"
+msgstr "Kryžminė nuoroda:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr ""
+
+msgid "Cube Root"
+msgstr "Kubinė šaknis"
+
+msgid "Current - Linear"
+msgstr "Dabartinis – linijinis"
+
+msgid "Current - Professional"
+msgstr "Dabartinis – profesionalus"
+
+msgid "Current Document"
+msgstr "Dabartinis dokumentas"
+
+msgid "Current Position"
+msgstr "Dabartinė padėtis"
+
+msgid "Current record"
+msgstr "Dabartinis įrašas"
+
+msgid "Current style: {style}"
+msgstr "Dabartinis stilius: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Lenkta rodyklės jungtis"
+
+msgid "Curved Connector"
+msgstr "Lenkta jungtis"
+
+msgid "Custom dictionary"
+msgstr ""
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Pasirinktinės paraštės…"
+
+msgid "Custom mark:"
+msgstr "Pasirinktinė žymė:"
+
+msgid "Custom range"
+msgstr "Pasirinktinis diapazonas"
+
+msgid "Custom size"
+msgstr "Pasirinktinis dydis"
+
+msgid "Custom Table of Contents…"
+msgstr "Pasirinktinis turinys…"
+
+msgid "Custom Watermark"
+msgstr "Pasirinktinis vandenženklis"
+
+msgid "Custom Watermark…"
+msgstr "Pasirinktinis vandenženklis…"
+
+msgid "Customize"
+msgstr ""
+
+msgid "Customize Keyboard"
+msgstr "Tinkinti klaviatūrą"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Tinkinti sparčiosios prieigos įrankių juostą"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Tinkinti sparčiosios prieigos įrankių juostą…"
+
+msgid "Customize Ribbon"
+msgstr "Tinkinti juostelę"
+
+msgid "Customize the Ribbon…"
+msgstr "Tinkinti juostelę…"
+
+msgid "Cycle"
+msgstr "Ciklas"
+
+msgid "Cyprus"
+msgstr ""
+
+msgid "Czech"
+msgstr "Čekų"
+
+msgid "Danish"
+msgstr "Danų"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Tamsusis režimas"
+
+msgid "Dark page (white text on black)"
+msgstr ""
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Tamsūs variantai"
+
+msgid "Dark with Shadow"
+msgstr "Tamsus su šešėliu"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "Tamsiau −20%"
+
+msgid "Darkroom"
+msgstr "Tamsi kamera"
+
+msgid "Data Labels"
+msgstr "Duomenų žymos"
+
+msgid "Date & Time"
+msgstr "Data ir laikas"
+
+msgid "Date formats:"
+msgstr ""
+
+msgid "Date Picker Content Control"
+msgstr "Datos parinkiklio turinio valdiklis"
+
+msgid "Day"
+msgstr "Diena"
+
+msgid "Decimal"
+msgstr "Dešimtainis"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Dekoratyvūs objektai skirti tik vaizdui: ekrano skaitytuvai juos praleidžia."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "Mažinti įtrauką"
+
+msgid "Deep"
+msgstr "Gilus"
+
+msgid "Default formatting"
+msgstr ""
+
+msgid "Default Paragraph Font"
+msgstr "Numatytasis pastraipos šriftas"
+
+msgid "Default tab stops:"
+msgstr "Numatytosios tabuliavimo žymės:"
+
+msgid "Define New Bullet"
+msgstr "Apibrėžti naują ženklelį"
+
+msgid "Define New Multilevel List"
+msgstr "Apibrėžti naują daugiapakopį sąrašą"
+
+msgid "Define New Multilevel List…"
+msgstr "Apibrėžti naują daugiapakopį sąrašą…"
+
+msgid "Define New Number Format"
+msgstr "Apibrėžti naują numerio formatą"
+
+msgid "Deflate"
+msgstr "Subliūškinti"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Naikinti aplink žymeklį lygtyje"
+
+msgid "Delete Back in Equation"
+msgstr "Naikinti atgal lygtyje"
+
+msgid "Delete Bookmark"
+msgstr "Naikinti žymelę"
+
+msgid "Delete Cells"
+msgstr "Naikinti langelius"
+
+msgid "Delete Clipboard Item"
+msgstr "Naikinti mainų srities elementą"
+
+msgid "Delete Columns"
+msgstr "Naikinti stulpelius"
+
+msgid "Delete Comment"
+msgstr "Naikinti komentarą"
+
+msgid "Delete in Equation"
+msgstr "Naikinti lygtyje"
+
+msgid "Delete Label"
+msgstr "Naikinti etiketę"
+
+msgid "Delete Next Word"
+msgstr "Naikinti kitą žodį"
+
+msgid "Delete Previous Word"
+msgstr "Naikinti ankstesnį žodį"
+
+msgid "Delete Rows"
+msgstr "Naikinti eilutes"
+
+msgid "Delete Selected Ink"
+msgstr "Naikinti pažymėtą rašalą"
+
+msgid "Delete Table"
+msgstr "Naikinti lentelę"
+
+msgid "Delete Table Style"
+msgstr "Naikinti lentelės stilių"
+
+msgid "Deletions:"
+msgstr "Panaikinimai:"
+
+msgid "Delivery address:"
+msgstr "Pristatymo adresas:"
+
+msgid "Delta Equal To"
+msgstr "Delta lygu"
+
+msgid "Delta over arrow"
+msgstr "Delta virš rodyklės"
+
+msgid "Demote"
+msgstr "Pažeminti"
+
+msgid "Demote to Body Text"
+msgstr "Pažeminti iki pagrindinio teksto"
+
+msgid "Derivative as a limit"
+msgstr "Išvestinė kaip riba"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Aprašykite, ką rodo šis objektas, žmonėms, kurie jo nemato."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Aprašykite, ką rodo ši lentelė, žmonėms, kurie jos nemato."
+
+msgid "Design"
+msgstr "Dizainas"
+
+msgid "Design Mode"
+msgstr "Dizaino režimas"
+
+msgid "Detach Template"
+msgstr "Atjungti šabloną"
+
+msgid "Detect language automatically"
+msgstr "Automatiškai aptikti kalbą"
+
+msgid "Developer"
+msgstr "Kūrėjas"
+
+msgid "development build"
+msgstr "kūrimo versija"
+
+msgid "Diagonal Dots"
+msgstr "Įstrižainiai taškai"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "Diktuoti"
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionaries folder:"
+msgstr "Žodynų aplankas:"
+
+msgid "Dictionary files"
+msgstr ""
+
+msgid "Different First Page"
+msgstr "Kitoks pirmas puslapis"
+
+msgid "Different Odd & Even Pages"
+msgstr "Skirtingi lyginiai ir nelyginiai puslapiai"
+
+msgid "Differential"
+msgstr "Diferencialas"
+
+msgid "Differential theta"
+msgstr "Diferencialas teta"
+
+msgid "Differential x"
+msgstr "Diferencialas x"
+
+msgid "Differential y"
+msgstr "Diferencialas y"
+
+msgid "Differentials"
+msgstr "Diferencialai"
+
+msgid "Direct formatting"
+msgstr "Tiesioginis formatavimas"
+
+msgid "Directory"
+msgstr "Katalogas"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "Atmesti {name} atkūrimo kopiją?"
+
+msgid "Discard…"
+msgstr "Atmesti…"
+
+msgid "Discord community"
+msgstr "Discord bendruomenė"
+
+msgid "Display for Review"
+msgstr "Rodyti peržiūrai"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Rodomas tekstas"
+
+msgid "Distance from text"
+msgstr "Atstumas nuo teksto"
+
+msgid "Distance from text:"
+msgstr "Atstumas nuo teksto:"
+
+msgid "Distribute Columns"
+msgstr "Paskirstyti stulpelius"
+
+msgid "Distribute letters"
+msgstr "Paskirstyti raides"
+
+msgid "Distribute Rows"
+msgstr "Paskirstyti eilutes"
+
+msgid "Distribute spacing"
+msgstr "Paskirstyti tarpus"
+
+msgid "Distributed"
+msgstr "Paskirstytas"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Netikrinti rašybos ir gramatikos"
+
+msgid "Do not check spelling or grammar"
+msgstr "Netikrinti rašybos ir gramatikos"
+
+msgid "DO NOT COPY"
+msgstr "NEKOPIJUOTI"
+
+msgid "Do Not Show in TOC"
+msgstr "Nerodyti turinyje"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Ar norite įrašyti {name} pakeitimus?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Dokumento pabaiga"
+
+msgid "Document Formatting"
+msgstr "Dokumento formatavimas"
+
+msgid "Document Grid"
+msgstr "Dokumento tinklelis"
+
+msgid "Document Information"
+msgstr "Dokumento informacija"
+
+msgid "Document name"
+msgstr "Dokumento pavadinimas"
+
+msgid "Document Property"
+msgstr "Dokumento ypatybė"
+
+msgid "Document Start"
+msgstr "Dokumento pradžia"
+
+msgid "Document template:"
+msgstr "Dokumento šablonas:"
+
+msgid "Document Text"
+msgstr ""
+
+msgid "Document1"
+msgstr "Dokumentas1"
+
+msgid "Document\nPreferences"
+msgstr "Dokumento\nnuostatos"
+
+msgid "Documents you open will show up here."
+msgstr "Čia bus rodomi atidaryti dokumentai."
+
+msgid "Does not contain"
+msgstr "Nėra"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Nepridėti tarpo tarp to paties stiliaus pastraipų"
+
+msgid "Don't capitalize after:"
+msgstr "Nerašyti didžiosios raidės po:"
+
+msgid "Don't hyphenate"
+msgstr "Nekelti žodžių"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Neskaityti Zotero, Mendeley ar EndNote citatų ir bibliografijų"
+
+msgid "Don't show me this tip again"
+msgstr ""
+
+msgid "Dot dash"
+msgstr "Taškas brūkšnys"
+
+msgid "Dot-dash"
+msgstr "Taškas-brūkšnys"
+
+msgid "Dot-dot-dash"
+msgstr "Taškas-taškas-brūkšnys"
+
+msgid "Double"
+msgstr "Dvigubas"
+
+msgid "Double Bar"
+msgstr "Dvigubas brūkšnys"
+
+msgid "Double Closing Quote"
+msgstr "Dvigubos uždaromosios kabutės"
+
+msgid "Double Dot"
+msgstr "Dvigubas taškas"
+
+msgid "Double Integral"
+msgstr "Dvigubas integralas"
+
+msgid "Double Integral with Limits"
+msgstr "Dvigubas integralas su rėžiais"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Dvigubas integralas su sudėtiniais rėžiais"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dviguba rodyklė kairėn su tekstu viršuje"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dviguba rodyklė kairėn su tekstu apačioje"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dviguba rodyklė kairėn-dešinėn su tekstu viršuje"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dviguba rodyklė kairėn-dešinėn su tekstu apačioje"
+
+msgid "Double Opening Quote"
+msgstr "Dvigubos atidaromosios kabutės"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dviguba rodyklė dešinėn su tekstu viršuje"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dviguba rodyklė dešinėn su tekstu apačioje"
+
+msgid "Double Spacing"
+msgstr "Dvigubi tarpai"
+
+msgid "Double Square Brackets"
+msgstr "Dvigubi laužtiniai skliaustai"
+
+msgid "Double Strikethrough"
+msgstr "Dvigubas perbraukimas"
+
+msgid "Double strikethrough"
+msgstr "Dvigubas perbraukimas"
+
+msgid "Double summation"
+msgstr "Dviguba suma"
+
+msgid "Double Underline"
+msgstr "Dvigubas pabraukimas"
+
+msgid "Double Vertical Bars"
+msgstr "Dvigubi vertikalūs brūkšniai"
+
+msgid "Doughnut"
+msgstr "Žiedinė"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr ""
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "JUODRAŠTIS"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Vilkite stačiakampį, kad nubraižytumėte lentelę, arba liniją per langelius, kad juos skaidytumėte. Esc – baigti."
+
+msgid "Draw Ink"
+msgstr "Piešti rašalu"
+
+msgid "Draw Table"
+msgstr "Braižyti lentelę"
+
+msgid "Draw\nTable"
+msgstr "Braižyti\nlentelę"
+
+msgid "Drawing Canvas"
+msgstr "Piešimo drobė"
+
+msgid "Drawing Tools"
+msgstr "Piešimo įrankiai"
+
+msgid "Drawing\nCanvas"
+msgstr "Piešimo\ndrobė"
+
+msgid "Drop Cap"
+msgstr "Inicialas"
+
+msgid "Drop cap"
+msgstr "Inicialas"
+
+msgid "Drop Cap Options…"
+msgstr "Inicialo parinktys…"
+
+msgid "drop caps can't go in a table"
+msgstr "inicialo negalima dėti į lentelę"
+
+msgid "Drop-Down List Content Control"
+msgstr "Išplečiamojo sąrašo turinio valdiklis"
+
+msgid "Dropped"
+msgstr "Nuleistas"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Pašalina visą formatavimą ir įklijuoja grynąjį tekstą."
+
+msgid "Dutch, Nederlands or nl"
+msgstr ""
+
+msgid "E-mail Messages"
+msgstr "El. laiškai"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr ""
+
+msgid "Edit Comment"
+msgstr "Redaguoti komentarą"
+
+msgid "Edit Data"
+msgstr "Redaguoti duomenis"
+
+msgid "Edit Document"
+msgstr "Redaguoti dokumentą"
+
+msgid "Edit Equation"
+msgstr "Redaguoti lygtį"
+
+msgid "Edit Field Code"
+msgstr "Redaguoti lauko kodą"
+
+msgid "Edit Field…"
+msgstr "Redaguoti lauką…"
+
+msgid "Edit Footer"
+msgstr "Redaguoti poraštę"
+
+msgid "Edit Header"
+msgstr "Redaguoti antraštę"
+
+msgid "Edit Individual Documents…"
+msgstr "Redaguoti atskirus dokumentus…"
+
+msgid "Edit Items"
+msgstr "Redaguoti elementus"
+
+msgid "Edit Recipient List"
+msgstr "Redaguoti gavėjų sąrašą"
+
+msgid "Edit Source"
+msgstr "Redaguoti šaltinį"
+
+msgid "Edit\nData"
+msgstr "Redaguoti\nduomenis"
+
+msgid "Edit\nRecipient List"
+msgstr "Redaguoti\ngavėjų sąrašą"
+
+msgid "Edited"
+msgstr "Redaguota"
+
+msgid "Editing endnote"
+msgstr "Redaguojama dokumento išnaša"
+
+msgid "Editing footnote"
+msgstr "Redaguojama puslapio išnaša"
+
+msgid "Editing header/footer"
+msgstr "Redaguojama antraštė / poraštė"
+
+msgid "Editing in this document is restricted."
+msgstr "Šio dokumento redagavimas apribotas."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Redagavimas – redaguoti dokumentą tiesiogiai"
+
+msgid "Edition"
+msgstr "Leidimas"
+
+msgid "Editor"
+msgstr "Redaktorius"
+
+msgid "Egypt"
+msgstr ""
+
+msgid "El Salvador"
+msgstr ""
+
+msgid "Elbow Arrow Connector"
+msgstr "Laužta rodyklės jungtis"
+
+msgid "Elbow Connector"
+msgstr "Laužta jungtis"
+
+msgid "Emphasis"
+msgstr "Akcentas"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Tuščios matricos"
+
+msgid "Enclose Characters"
+msgstr "Apgaubti simbolius"
+
+msgid "Enclosure"
+msgstr "Apgaubas"
+
+msgid "Encrypt with Password"
+msgstr "Šifruoti slaptažodžiu"
+
+msgid "Encrypt with Password…"
+msgstr "Šifruoti slaptažodžiu…"
+
+msgid "End of document"
+msgstr "Dokumento pabaiga"
+
+msgid "End of section"
+msgstr "Sekcijos pabaiga"
+
+msgid "End of Word"
+msgstr "Žodžio pabaiga"
+
+msgid "Endnote Reference"
+msgstr "Dokumento išnašos nuoroda"
+
+msgid "Endnote Text"
+msgstr "Dokumento išnašos tekstas"
+
+msgid "Endnotes"
+msgstr "Dokumento išnašos"
+
+msgid "Endnotes to footnotes"
+msgstr "Dokumento išnašas į puslapio išnašas"
+
+msgid "English (Australia)"
+msgstr "Anglų (Australija)"
+
+msgid "English (Canada)"
+msgstr "Anglų (Kanada)"
+
+msgid "English (India)"
+msgstr "Anglų (Indija)"
+
+msgid "English (Ireland)"
+msgstr "Anglų (Airija)"
+
+msgid "English (New Zealand)"
+msgstr "Anglų (Naujoji Zelandija)"
+
+msgid "English (South Africa)"
+msgstr "Anglų (Pietų Afrika)"
+
+msgid "English (United Kingdom)"
+msgstr "Anglų (Jungtinė Karalystė)"
+
+msgid "English (United States)"
+msgstr "Anglų (Jungtinės Valstijos)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr ""
+
+msgid "Engrave"
+msgstr "Graviruoti"
+
+msgid "Enlarge symbol"
+msgstr "Didinti simbolį"
+
+msgid "Enter a number."
+msgstr "Įveskite skaičių."
+
+msgid "Enter bookmark name:"
+msgstr "Įveskite žymelės pavadinimą:"
+
+msgid "Enter formatting for number:"
+msgstr "Įveskite skaičiaus formatavimą:"
+
+msgid "Enter in Equation"
+msgstr "Enter lygtyje"
+
+msgid "Enter page number:"
+msgstr "Įveskite puslapio numerį:"
+
+msgid "Entire caption"
+msgstr "Visa antraštė"
+
+msgid "Entry marked."
+msgstr "Įrašas pažymėtas."
+
+msgid "Envelope #10"
+msgstr "Vokas Nr. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Voko adresas"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Voko grąžinimo adresas"
+
+msgid "Envelope size:"
+msgstr "Voko dydis:"
+
+msgid "Envelopes"
+msgstr "Vokai"
+
+msgid "Equal by Definition"
+msgstr "Lygu pagal apibrėžimą"
+
+msgid "Equal column width"
+msgstr ""
+
+msgid "Equal Equal"
+msgstr "Lygu lygu"
+
+msgid "Equal to"
+msgstr "Lygu"
+
+msgid "Equals:"
+msgstr "Lygu:"
+
+msgid "Equation"
+msgstr "Lygtis"
+
+msgid "Equation Gallery"
+msgstr "Lygčių galerija"
+
+msgid "Equation Info"
+msgstr "Lygties informacija"
+
+msgid "Equation Number"
+msgstr "Lygties numeris"
+
+msgid "Equation Options"
+msgstr "Lygties parinktys"
+
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgid "Erase Ink"
+msgstr "Trinti rašalą"
+
+msgid "Errors ({n})"
+msgstr "Klaidos ({n})"
+
+msgid "Esperanto"
+msgstr ""
+
+msgid "Estonian"
+msgstr "Estų"
+
+msgid "Euler's identity"
+msgstr "Oilerio tapatybė"
+
+msgid "Even Banded Columns"
+msgstr "Lyginiai juostiniai stulpeliai"
+
+msgid "Even Banded Rows"
+msgstr "Lyginės juostinės eilutės"
+
+msgid "Even Page"
+msgstr "Lyginis puslapis"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Kiekvienas keitimas įrašomas kaip sekamas keitimas."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr ""
+
+msgid "Every field needs a name."
+msgstr "Kiekvienam laukui reikia pavadinimo."
+
+msgid "Everyone"
+msgstr "Visi"
+
+msgid "Exactly"
+msgstr "Tiksliai"
+
+msgid "Exactly {n}"
+msgstr "Tiksliai {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Išimtys (neprivaloma)"
+
+msgid "Exceptions…"
+msgstr "Išimtys…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Esamas failas arba tinklalapis"
+
+msgid "Expand or Collapse Heading"
+msgstr "Išskleisti arba sutraukti antraštę"
+
+msgid "Exponential"
+msgstr "Eksponentinė"
+
+msgid "Exponential series"
+msgstr "Eksponentinė eilutė"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Eksportuoti kopiją bendrinti (PDF, Word dokumentas)"
+
+msgid "Export Page as PNG"
+msgstr ""
+
+msgid "Extend Selection"
+msgstr "Išplėsti žymėjimą"
+
+msgid "Extend Selection by Units"
+msgstr "Išplėsti žymėjimą vienetais"
+
+msgid "Extra space"
+msgstr "Papildomas tarpas"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr ""
+
+msgid "Field code:"
+msgstr ""
+
+msgid "Field Codes"
+msgstr "Laukų kodai"
+
+msgid "Field codes:"
+msgstr "Laukų kodai:"
+
+msgid "Field name"
+msgstr "Lauko pavadinimas"
+
+msgid "Field name:"
+msgstr ""
+
+msgid "Field names must be different."
+msgstr "Laukų pavadinimai turi skirtis."
+
+msgid "Field names:"
+msgstr ""
+
+msgid "Field:"
+msgstr "Laukas:"
+
+msgid "Field…"
+msgstr "Laukas…"
+
+msgid "Figure"
+msgstr "Paveikslas"
+
+msgid "File locations"
+msgstr ""
+
+msgid "File name:"
+msgstr "Failo pavadinimas:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr ""
+
+msgid "Fill color:"
+msgstr "Užpildo spalva:"
+
+msgid "Filling in forms"
+msgstr "Formų pildymas"
+
+msgid "Film"
+msgstr "Juosta"
+
+msgid "Filter and Sort"
+msgstr "Filtruoti ir rikiuoti"
+
+msgid "Filter Recipients"
+msgstr "Filtruoti gavėjus"
+
+msgid "Find in list:"
+msgstr "Rasti sąraše:"
+
+msgid "Find Next Editable Region"
+msgstr "Rasti kitą redaguojamą sritį"
+
+msgid "Find Previous"
+msgstr "Rasti ankstesnį"
+
+msgid "Find Recipient"
+msgstr "Rasti gavėją"
+
+msgid "Find What Expression"
+msgstr "Ieškomas reiškinys"
+
+msgid "Find What Text"
+msgstr "Ieškomas tekstas"
+
+msgid "Find what:"
+msgstr "Ko ieškoti:"
+
+msgid "Find “{text}” in the document"
+msgstr "Rasti „{text}“ dokumente"
+
+msgid "Finding printers…"
+msgstr "Ieškoma spausdintuvų…"
+
+msgid "Finish & Merge"
+msgstr "Baigti ir sulieti"
+
+msgid "Finish &\nMerge"
+msgstr "Baigti ir\nsulieti"
+
+msgid "Finished"
+msgstr "Baigta"
+
+msgid "Finland"
+msgstr ""
+
+msgid "Finnish"
+msgstr "Suomių"
+
+msgid "First Column"
+msgstr "Pirmas stulpelis"
+
+msgid "First line"
+msgstr "Pirmoji eilutė"
+
+msgid "First line:"
+msgstr "Pirmoji eilutė:"
+
+msgid "First Name"
+msgstr "Vardas"
+
+msgid "First Record"
+msgstr "Pirmas įrašas"
+
+msgid "First row of data contains column headers"
+msgstr "Pirmoje duomenų eilutėje yra stulpelių antraštės"
+
+msgid "Fix Position on Page"
+msgstr "Fiksuoti padėtį puslapyje"
+
+msgid "Fixed Column Width"
+msgstr "Fiksuotas stulpelio plotis"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Grindys"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Po numerio:"
+
+msgid "Font Color"
+msgstr "Šrifto spalva"
+
+msgid "Font color"
+msgstr "Šrifto spalva"
+
+msgid "Font color:"
+msgstr "Šrifto spalva:"
+
+msgid "Font Dialog"
+msgstr "Šrifto dialogas"
+
+msgid "Font: {font}"
+msgstr "Šriftas: {font}"
+
+msgid "Font…"
+msgstr "Šriftas…"
+
+msgid "Footer"
+msgstr "Poraštė"
+
+msgid "Footnote and Endnote"
+msgstr "Puslapio ir dokumento išnašos"
+
+msgid "Footnote Reference"
+msgstr "Puslapio išnašos nuoroda"
+
+msgid "Footnote Text"
+msgstr "Puslapio išnašos tekstas"
+
+msgid "Footnotes"
+msgstr "Puslapio išnašos"
+
+msgid "Footnotes and endnotes"
+msgstr "Puslapio ir dokumento išnašos"
+
+msgid "Footnotes to endnotes"
+msgstr "Puslapio išnašas į dokumento išnašas"
+
+msgid "For which item:"
+msgstr "Kuriam elementui:"
+
+msgid "Format Page Numbers"
+msgstr "Formatuoti puslapių numerius"
+
+msgid "Format Page Numbers…"
+msgstr "Formatuoti puslapių numerius…"
+
+msgid "Format Painter"
+msgstr "Formato teptukas"
+
+msgid "Format Shape"
+msgstr "Formatuoti figūrą"
+
+msgid "Format Shape Pane"
+msgstr "Figūros formatavimo sritis"
+
+msgid "Format Shape…"
+msgstr "Formatuoti figūrą…"
+
+msgid "Formatted"
+msgstr "Suformatuota"
+
+msgid "Formatted Text"
+msgstr "Suformatuotas tekstas"
+
+msgid "Formatting"
+msgstr "Formatavimas"
+
+msgid "Formatting at Selection"
+msgstr "Formatavimas žymėjime"
+
+msgid "Formatting exceptions"
+msgstr "Formatavimo išimtys"
+
+msgid "Formatting marks"
+msgstr ""
+
+msgid "Formatting saved for new documents:"
+msgstr ""
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Lyginami formatavimas, raidžių dydis, tarpai ir lentelės; kiti parametrai paliekami vėlesniam laikui."
+
+msgid "Formula"
+msgstr "Formulė"
+
+msgid "Formula:"
+msgstr "Formulė:"
+
+msgid "Forward"
+msgstr "Persiųsti"
+
+msgid "Fraction"
+msgstr "Trupmena"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Trupmenas (1/2) trupmenų simboliais (½)"
+
+msgid "Frames and effects"
+msgstr "Rėmeliai ir efektai"
+
+msgid "France"
+msgstr ""
+
+msgid "French (France)"
+msgstr "Prancūzų (Prancūzija)"
+
+msgid "From Bottom Left Corner"
+msgstr "Nuo apatinio kairiojo kampo"
+
+msgid "From Bottom Right Corner"
+msgstr "Nuo apatinio dešiniojo kampo"
+
+msgid "From Center"
+msgstr "Nuo centro"
+
+msgid "From text:"
+msgstr "Nuo teksto:"
+
+msgid "From Top Left Corner"
+msgstr "Nuo viršutinio kairiojo kampo"
+
+msgid "From Top Right Corner"
+msgstr "Nuo viršutinio dešiniojo kampo"
+
+msgid "from Unicode (hex)"
+msgstr "iš Unicode (šešioliktainis)"
+
+msgid "From {name}"
+msgstr ""
+
+msgid "From:"
+msgstr "Nuo:"
+
+msgid "Full page of the same label"
+msgstr "Visas puslapis tos pačios etiketės"
+
+msgid "Full Saturation 100%"
+msgstr "Visiškas sodrumas 100%"
+
+msgid "Full Screen View"
+msgstr "Viso ekrano rodinys"
+
+msgid "Full\nScreen"
+msgstr "Visas\nekranas"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr ""
+
+msgid "Function"
+msgstr "Funkcija"
+
+msgid "Galician"
+msgstr ""
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr ""
+
+msgid "German (Germany)"
+msgstr "Vokiečių (Vokietija)"
+
+msgid "Germany"
+msgstr ""
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr ""
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Švytėjimo spalvos"
+
+msgid "Go Back"
+msgstr "Grįžti"
+
+msgid "Go To"
+msgstr "Eiti į"
+
+msgid "Go to"
+msgstr "Eiti į"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Eiti į (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Eiti į įrašą"
+
+msgid "Go to what:"
+msgstr "Kur eiti:"
+
+msgid "Go To…"
+msgstr "Eiti į…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr ""
+
+msgid "Good afternoon"
+msgstr "Laba diena"
+
+msgid "Good evening"
+msgstr "Labas vakaras"
+
+msgid "Good morning"
+msgstr "Labas rytas"
+
+msgid "GOST (name sort)"
+msgstr "GOST (rikiuoti pagal vardą)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (rikiuoti pagal pavadinimą)"
+
+msgid "Grab bag"
+msgstr "Vardų rinkinys"
+
+msgid "Gradient fill"
+msgstr "Gradiento užpildas"
+
+msgid "Gradient stops"
+msgstr "Gradiento taškai"
+
+msgid "Grammar built in"
+msgstr ""
+
+msgid "Grave"
+msgstr "Kairinis kirtis"
+
+msgid "Gray 0%"
+msgstr "Pilka 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Daugiau nei"
+
+msgid "Greater than or equal"
+msgstr "Daugiau arba lygu"
+
+msgid "Greek"
+msgstr "Graikų"
+
+msgid "Greek Letters"
+msgstr "Graikų raidės"
+
+msgid "Green:"
+msgstr "Žalia:"
+
+msgid "Greeting Line"
+msgstr "Pasisveikinimo eilutė"
+
+msgid "Greeting\nLine"
+msgstr "Pasisveikinimo\neilutė"
+
+msgid "Grid Table 1 Light"
+msgstr "Tinklelio lentelė 1, šviesi"
+
+msgid "Grid Table 4 – Blue"
+msgstr ""
+
+msgid "Grid Table 4 – Green"
+msgstr ""
+
+msgid "Grid Table 4 – Orange"
+msgstr ""
+
+msgid "Grid Table 4 – Purple"
+msgstr ""
+
+msgid "Gridlines"
+msgstr "Tinklelio linijos"
+
+msgid "Grouping Character Above"
+msgstr "Grupavimo simbolis viršuje"
+
+msgid "Grouping Character Below"
+msgstr "Grupavimo simbolis apačioje"
+
+msgid "Grow Font 1 Point"
+msgstr "Didinti šriftą 1 tašku"
+
+msgid "Guatemala"
+msgstr ""
+
+msgid "H:"
+msgstr "A:"
+
+msgid "Hanging Indent"
+msgstr "Kabanti įtrauka"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Stogelis"
+
+msgid "Header"
+msgstr "Antraštė"
+
+msgid "Header & Footer"
+msgstr "Antraštė ir poraštė"
+
+msgid "Header Row"
+msgstr "Antraštės eilutė"
+
+msgid "Header row"
+msgstr "Antraštės eilutė"
+
+msgid "Header/Footer Position"
+msgstr "Antraštės / poraštės padėtis"
+
+msgid "Headers and footers"
+msgstr "Antraštės ir poraštės"
+
+msgid "Heading"
+msgstr "Antraštė"
+
+msgid "Heading 1"
+msgstr "Antraštė 1"
+
+msgid "Heading 2"
+msgstr "Antraštė 2"
+
+msgid "Heading 3"
+msgstr "Antraštė 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Antraščių stiliai (1–{n} lygiai)"
+
+msgid "Heading text"
+msgstr "Antraštės tekstas"
+
+msgid "Heading {n}"
+msgstr "Antraštė {n}"
+
+msgid "Hebrew"
+msgstr "Hebrajų"
+
+msgid "Hex:"
+msgstr "Šešioliktainis:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr ""
+
+msgid "Hidden bookmarks"
+msgstr "Paslėptos žymelės"
+
+msgid "Hide Codes"
+msgstr ""
+
+msgid "Hide from style lists"
+msgstr "Slėpti iš stilių sąrašų"
+
+msgid "Hide Ink"
+msgstr "Slėpti rašalą"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Slėpti sparčiosios prieigos įrankių juostą"
+
+msgid "Hide White Space"
+msgstr "Slėpti tuščią vietą"
+
+msgid "Hide\nInk"
+msgstr "Slėpti\nrašalą"
+
+msgid "Hierarchy"
+msgstr "Hierarchija"
+
+msgid "Highlight"
+msgstr "Paryškinti"
+
+msgid "Highlight Merge Fields"
+msgstr "Paryškinti suliejimo laukus"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Paryškinti\nsuliejimo laukus"
+
+msgid "Highlighter"
+msgstr "Žymiklis"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "Rytų arabiški skaitmenys"
+
+msgid "Home folder"
+msgstr "Namų aplankas"
+
+msgid "Honduras"
+msgstr ""
+
+msgid "Hong Kong SAR"
+msgstr ""
+
+msgid "Horizontal Line"
+msgstr "Horizontalioji linija"
+
+msgid "How many pages the whole document has"
+msgstr "Kiek puslapių turi visas dokumentas"
+
+msgid "How many pages this section has"
+msgstr "Kiek puslapių turi ši sekcija"
+
+msgid "How many words the document holds"
+msgstr "Kiek žodžių yra dokumente"
+
+msgid "HTML Format"
+msgstr "HTML formatas"
+
+msgid "Hue:"
+msgstr "Atspalvis:"
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr ""
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hiperbolinio kosekanto funkcija"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hiperbolinio kosinuso funkcija"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hiperbolinio kotangento funkcija"
+
+msgid "Hyperbolic Functions"
+msgstr "Hiperbolinės funkcijos"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hiperbolinio sekanto funkcija"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hiperbolinio sinuso funkcija"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hiperbolinio tangento funkcija"
+
+msgid "Hyperlink"
+msgstr "Saitas"
+
+msgid "Hyphenate at:"
+msgstr "Kelti ties:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Kelti DIDŽIOSIOMIS rašytus žodžius"
+
+msgid "Hyphenation Options…"
+msgstr "Žodžių kėlimo parinktys…"
+
+msgid "Hyphenation zone:"
+msgstr "Kėlimo zona:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Brūkšnelius (--) brūkšniais (—)"
+
+msgid "Hypotenuse"
+msgstr "Įžambinė"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr ""
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr ""
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Icon Color"
+msgstr "Piktogramos spalva"
+
+msgid "Icons"
+msgstr "Piktogramos"
+
+msgid "Identity Matrices"
+msgstr "Vienetinės matricos"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Jei…Tada…Kitaip"
+
+msgid "If…Then…Else…"
+msgstr "Jei…Tada…Kitaip…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Nepaisyti skyrybos ženklų"
+
+msgid "Ignore web and file addresses"
+msgstr ""
+
+msgid "Ignore white-space characters"
+msgstr "Nepaisyti tarpo simbolių"
+
+msgid "Ignore words in capitals"
+msgstr "Nepaisyti didžiosiomis raidėmis rašytų žodžių"
+
+msgid "Ignore words with numbers"
+msgstr ""
+
+msgid "Illustrations"
+msgstr "Iliustracijos"
+
+msgid "Immersive"
+msgstr "Įtraukiantis"
+
+msgid "Immersive Reader"
+msgstr "Įtraukianti skaityklė"
+
+msgid "Immersive\nReader"
+msgstr "Įtraukianti\nskaityklė"
+
+msgid "Imported 1 source"
+msgstr "Importuotas 1 šaltinis"
+
+msgid "Imported {n} sources"
+msgstr "Importuota šaltinių: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Numatytosiose programose pasirinkite WordCraft dokumentų tipams, kuriuos ji turi atidaryti."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Lygtyse po atvirkštinio brūkšnio įvedus pavadinimą jis pakeičiamas simboliu."
+
+msgid "In Front of Text"
+msgstr "Prieš tekstą"
+
+msgid "In Line with Text"
+msgstr "Teksto eilutėje"
+
+msgid "In margin"
+msgstr "Paraštėje"
+
+msgid "In the margin"
+msgstr "Paraštėje"
+
+msgid "Include label and number"
+msgstr "Įtraukti etiketę ir numerį"
+
+msgid "Include level number from:"
+msgstr "Įtraukti lygio numerį iš:"
+
+msgid "Include page numbers"
+msgstr "Įtraukti puslapių numerius"
+
+msgid "Increase Indent"
+msgstr "Didinti įtrauką"
+
+msgid "Indent"
+msgstr "Įtrauka"
+
+msgid "Indent from left:"
+msgstr "Įtrauka iš kairės:"
+
+msgid "Indentation"
+msgstr "Įtrauka"
+
+msgid "Indented"
+msgstr "Su įtrauka"
+
+msgid "Indents"
+msgstr "Įtraukos"
+
+msgid "Indents and Spacing"
+msgstr "Įtraukos ir tarpai"
+
+msgid "Index and Tables"
+msgstr "Rodyklė ir lentelės"
+
+msgid "Index Heading"
+msgstr "Rodyklės antraštė"
+
+msgid "Index {n}"
+msgstr "Rodyklė {n}"
+
+msgid "India"
+msgstr ""
+
+msgid "Indonesian"
+msgstr "Indoneziečių"
+
+msgid "Initial column width:"
+msgstr "Pradinis stulpelio plotis:"
+
+msgid "Initials:"
+msgstr ""
+
+msgid "Ink"
+msgstr "Rašalas"
+
+msgid "Ink Replay"
+msgstr "Rašalo pakartojimas"
+
+msgid "Ink to Shape"
+msgstr "Rašalas į figūrą"
+
+msgid "Ink to\nMath"
+msgstr "Rašalas į\nmatematiką"
+
+msgid "Ink to\nShape"
+msgstr "Rašalas į\nfigūrą"
+
+msgid "Ink\nReplay"
+msgstr "Rašalo\npakartojimas"
+
+msgid "Inline"
+msgstr "Įterptinė"
+
+msgid "Input Format"
+msgstr "Įvesties formatas"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Įterpti naują lygtį (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Įterpti virš"
+
+msgid "Insert Below"
+msgstr "Įterpti po"
+
+msgid "Insert Caption"
+msgstr "Įterpti antraštę"
+
+msgid "Insert Caption…"
+msgstr "Įterpti antraštę…"
+
+msgid "Insert Chart"
+msgstr "Įterpti diagramą"
+
+msgid "Insert Citation"
+msgstr "Įterpti citatą"
+
+msgid "Insert Columns to the Left"
+msgstr "Įterpti stulpelius kairėje"
+
+msgid "Insert Columns to the Right"
+msgstr "Įterpti stulpelius dešinėje"
+
+msgid "Insert Date Field"
+msgstr "Įterpti datos lauką"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "Įterpti dokumento išnašą"
+
+msgid "Insert Footnote"
+msgstr "Įterpti puslapio išnašą"
+
+msgid "Insert Hyperlink"
+msgstr "Įterpti saitą"
+
+msgid "Insert Index"
+msgstr "Įterpti rodyklę"
+
+msgid "Insert Left"
+msgstr "Įterpti kairėje"
+
+msgid "Insert Merge Field"
+msgstr "Įterpti suliejimo lauką"
+
+msgid "Insert Merge\nField"
+msgstr "Įterpti suliejimo\nlauką"
+
+msgid "Insert New Equation"
+msgstr "Įterpti naują lygtį"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Įterpti vieną ar kitą tekstą pagal lauko reikšmę."
+
+msgid "Insert Page Field"
+msgstr "Įterpti puslapio lauką"
+
+msgid "Insert reference to:"
+msgstr "Įterpti nuorodą į:"
+
+msgid "Insert Right"
+msgstr "Įterpti dešinėje"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Įterpti eilutę ar stulpelį spustelint"
+
+msgid "Insert Rows Above"
+msgstr "Įterpti eilutes virš"
+
+msgid "Insert Rows Below"
+msgstr "Įterpti eilutes po"
+
+msgid "Insert Shapes"
+msgstr ""
+
+msgid "Insert SmartArt"
+msgstr "Įterpti SmartArt"
+
+msgid "Insert Spike"
+msgstr "Įterpti sankaupą"
+
+msgid "Insert Structure"
+msgstr "Įterpti struktūrą"
+
+msgid "Insert Symbol"
+msgstr "Įterpti simbolį"
+
+msgid "Insert Table"
+msgstr "Įterpti lentelę"
+
+msgid "Insert Table of Authorities"
+msgstr "Įterpti šaltinių lentelę"
+
+msgid "Insert Table of Figures"
+msgstr "Įterpti paveikslų sąrašą"
+
+msgid "Insert Table…"
+msgstr "Įterpti lentelę…"
+
+msgid "Insert Time Field"
+msgstr "Įterpti laiko lauką"
+
+msgid "Insert\nAbove"
+msgstr "Įterpti\nvirš"
+
+msgid "Insert\nCaption"
+msgstr "Įterpti\nantraštę"
+
+msgid "Insert\nCitation"
+msgstr "Įterpti\ncitatą"
+
+msgid "Insert\nFootnote"
+msgstr "Įterpti\npuslapio išnašą"
+
+msgid "Insertions and Deletions"
+msgstr "Įterpimai ir panaikinimai"
+
+msgid "Insertions:"
+msgstr "Įterpimai:"
+
+msgid "Inside Borders"
+msgstr "Vidinės kraštinės"
+
+msgid "Inside Horizontal Border"
+msgstr "Vidinė horizontalioji kraštinė"
+
+msgid "Inside Vertical Border"
+msgstr "Vidinė vertikalioji kraštinė"
+
+msgid "Inside:"
+msgstr "Viduje:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Tikrinti stilius žymėjime"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Institucija"
+
+msgid "Integral"
+msgstr "Integralas"
+
+msgid "Integral of e^(−x²)"
+msgstr "e^(−x²) integralas"
+
+msgid "Integral with Limits"
+msgstr "Integralas su rėžiais"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integralas su sudėtiniais rėžiais"
+
+msgid "Integrals"
+msgstr "Integralai"
+
+msgid "Intense Emphasis"
+msgstr "Intensyvus akcentas"
+
+msgid "Intense Quote"
+msgstr "Intensyvi citata"
+
+msgid "Intense Reference"
+msgstr "Intensyvi nuoroda"
+
+msgid "Interface language:"
+msgstr "Sąsajos kalba:"
+
+msgid "Interface size:"
+msgstr ""
+
+msgid "Interface theme:"
+msgstr ""
+
+msgid "Interface\nTheme"
+msgstr "Sąsajos\ntema"
+
+msgid "Internet addresses as links"
+msgstr "Interneto adresus saitais"
+
+msgid "Intersection with Limits"
+msgstr "Sankirta su rėžiais"
+
+msgid "Intersection with Lower Limit"
+msgstr "Sankirta su apatiniu rėžiu"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Sankirta su apatinio ir viršutinio indekso rėžiais"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Atvirkštinio kosekanto funkcija"
+
+msgid "Inverse Cosine Function"
+msgstr "Atvirkštinio kosinuso funkcija"
+
+msgid "Inverse Cotangent Function"
+msgstr "Atvirkštinio kotangento funkcija"
+
+msgid "Inverse Functions"
+msgstr "Atvirkštinės funkcijos"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Atvirkštinio hiperbolinio kosekanto funkcija"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Atvirkštinio hiperbolinio kosinuso funkcija"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Atvirkštinio hiperbolinio kotangento funkcija"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Atvirkštinės hiperbolinės funkcijos"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Atvirkštinio hiperbolinio sekanto funkcija"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Atvirkštinio hiperbolinio sinuso funkcija"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Atvirkštinio hiperbolinio tangento funkcija"
+
+msgid "Inverse Secant Function"
+msgstr "Atvirkštinio sekanto funkcija"
+
+msgid "Inverse Sine Function"
+msgstr "Atvirkštinio sinuso funkcija"
+
+msgid "Inverse Tangent Function"
+msgstr "Atvirkštinio tangento funkcija"
+
+msgid "Ionosphere"
+msgstr "Jonosfera"
+
+msgid "Iraq"
+msgstr ""
+
+msgid "Ireland"
+msgstr ""
+
+msgid "Irish"
+msgstr ""
+
+msgid "Is blank"
+msgstr "Tuščias"
+
+msgid "Is not blank"
+msgstr "Netuščias"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (autorius–data)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (skaitinis)"
+
+msgid "Issue"
+msgstr "Numeris"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr ""
+
+msgid "Italy"
+msgstr ""
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr ""
+
+msgid "Jamaica"
+msgstr ""
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Prisijunkite prie ArtCraft bendruomenės Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Prisijunkite prie mūsų Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr ""
+
+msgid "Journal"
+msgstr "Žurnalas"
+
+msgid "Journal article"
+msgstr "Žurnalo straipsnis"
+
+msgid "Justification of a display equation"
+msgstr "Rodomos lygties lygiuotė"
+
+msgid "Justified"
+msgstr "Abipusė lygiuotė"
+
+msgid "Kazakhstan"
+msgstr ""
+
+msgid "Keep Lines Together"
+msgstr "Neskaidyti eilučių"
+
+msgid "Keep lines together"
+msgstr "Neskaidyti eilučių"
+
+msgid "Keep me around"
+msgstr ""
+
+msgid "Keep Text Only"
+msgstr "Palikti tik tekstą"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Laikykite slaptažodį saugioje vietoje: be jo niekas, net WordCraft, negalės atidaryti dokumento. Palikite abu laukus tuščius, kad pašalintumėte slaptažodį."
+
+msgid "Keep with Next"
+msgstr "Laikyti su kita"
+
+msgid "Keep with next"
+msgstr "Laikyti su kita"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Išlaiko nukopijuoto teksto šriftus ir formatavimą."
+
+msgid "Kerning for fonts:"
+msgstr "Šriftų retinimas:"
+
+msgid "Keyboard shortcuts:"
+msgstr ""
+
+msgid "Keys for this command:"
+msgstr "Šios komandos klavišai:"
+
+msgid "Kuwait"
+msgstr ""
+
+msgid "Label changes with:"
+msgstr "Etiketė keičiasi pagal:"
+
+msgid "Label:"
+msgstr "Etiketė:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Kalbos nuostatos…"
+
+msgid "Large\nOperator"
+msgstr "Didelis\noperatorius"
+
+msgid "Largest Only"
+msgstr "Tik didžiausias"
+
+msgid "Lasso Select"
+msgstr "Žymėti lasu"
+
+msgid "Last Column"
+msgstr "Paskutinis stulpelis"
+
+msgid "Last Name"
+msgstr "Pavardė"
+
+msgid "Last Record"
+msgstr "Paskutinis įrašas"
+
+msgid "Last, First; Last, First"
+msgstr "Pavardė, Vardas; Pavardė, Vardas"
+
+msgid "Latin text font:"
+msgstr "Lotyniško teksto šriftas:"
+
+msgid "Latvian"
+msgstr ""
+
+msgid "Layout Summary"
+msgstr ""
+
+msgid "Layouts"
+msgstr "Maketai"
+
+msgid "Leader"
+msgstr "Užpildas"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Praleisti gavėją suliejant, kai laukas turi šią reikšmę."
+
+msgid "Leave Equation"
+msgstr "Išeiti iš lygties"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Įrašant praleisti komentarų ir sekamų keitimų datą ir laiką"
+
+msgid "Leave the equation (Esc)"
+msgstr "Išeiti iš lygties (Esc)"
+
+msgid "leave the equation first"
+msgstr "pirmiausia išeikite iš lygties"
+
+msgid "Leave the label out of the caption"
+msgstr "Praleisti etiketę antraštėje"
+
+msgid "Lebanon"
+msgstr ""
+
+msgid "Left Arrow with Text Above"
+msgstr "Rodyklė kairėn su tekstu viršuje"
+
+msgid "Left Arrow with Text Below"
+msgstr "Rodyklė kairėn su tekstu apačioje"
+
+msgid "Left Border"
+msgstr "Kairioji kraštinė"
+
+msgid "Left border"
+msgstr "Kairioji kraštinė"
+
+msgid "Left Bracket Twice"
+msgstr "Du kairieji skliaustai"
+
+msgid "Left indent"
+msgstr "Kairioji įtrauka"
+
+msgid "Left Margin"
+msgstr "Kairioji paraštė"
+
+msgid "Left Only"
+msgstr "Tik kairėje"
+
+msgid "Left Right Arrow Above"
+msgstr "Rodyklė kairėn-dešinėn viršuje"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Rodyklė kairėn-dešinėn su tekstu viršuje"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Rodyklė kairėn-dešinėn su tekstu apačioje"
+
+msgid "Left Subscript-Superscript"
+msgstr "Kairysis apatinis ir viršutinis indeksas"
+
+msgid "Left-to-right"
+msgstr "Iš kairės į dešinę"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Teksto kryptis iš kairės į dešinę"
+
+msgid "Leftwards Arrow Above"
+msgstr "Rodyklė kairėn viršuje"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Harpūnas kairėn viršuje"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Teisinio stiliaus numeravimas"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Less Contrast −20%"
+msgstr "Mažesnis kontrastas −20%"
+
+msgid "Less than"
+msgstr "Mažiau nei"
+
+msgid "Less than or equal"
+msgstr "Mažiau arba lygu"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Laiškas"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Raidžių antraštės"
+
+msgid "Letter template"
+msgstr ""
+
+msgid "Letter-Like Symbols"
+msgstr "Į raides panašūs simboliai"
+
+msgid "Letters"
+msgstr "Raidės"
+
+msgid "Level 5"
+msgstr ""
+
+msgid "Level 6"
+msgstr ""
+
+msgid "Level 7"
+msgstr ""
+
+msgid "Level 8"
+msgstr ""
+
+msgid "Level 9"
+msgstr ""
+
+msgid "Level {n}"
+msgstr "Lygis {n}"
+
+msgid "Levels:"
+msgstr "Lygiai:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr ""
+
+msgid "Light Variations"
+msgstr "Šviesūs variantai"
+
+msgid "Light with Outline"
+msgstr "Šviesus su kontūru"
+
+msgid "Limit"
+msgstr "Riba"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Riba ir\nlogaritmas"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Riboti iš eilės einančius brūkšnelius iki:"
+
+msgid "Limit Example"
+msgstr "Ribos pavyzdys"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Riboti formatavimą pasirinktais stiliais"
+
+msgid "Line and Page Breaks"
+msgstr "Eilučių ir puslapių lūžiai"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Eilučių ir pastraipų tarpai"
+
+msgid "Line between"
+msgstr ""
+
+msgid "Line Break"
+msgstr "Eilutės lūžis"
+
+msgid "Line breaking"
+msgstr "Eilučių laužymas"
+
+msgid "Line End"
+msgstr "Eilutės pabaiga"
+
+msgid "Line Number"
+msgstr "Eilutės numeris"
+
+msgid "Line Numbering Options…"
+msgstr "Eilučių numeravimo parinktys…"
+
+msgid "Line Numbers"
+msgstr "Eilučių numeriai"
+
+msgid "Line Spacing"
+msgstr "Eilučių tarpai"
+
+msgid "Line Spacing Options…"
+msgstr "Eilučių tarpų parinktys…"
+
+msgid "Line spacing:"
+msgstr "Eilučių tarpai:"
+
+msgid "Line Start"
+msgstr "Eilutės pradžia"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Linijinis įstrižas – iš apačios kairės į viršų dešinėn"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Linijinis įstrižas – iš apačios dešinės į viršų kairėn"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Linijinis įstrižas – iš viršaus kairės į apačią dešinėn"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Linijinis įstrižas – iš viršaus dešinės į apačią kairėn"
+
+msgid "Linear Down"
+msgstr "Linijinis žemyn"
+
+msgid "Linear Fraction"
+msgstr "Linijinė trupmena"
+
+msgid "Linear Left"
+msgstr "Linijinis kairėn"
+
+msgid "Linear Right"
+msgstr "Linijinis dešinėn"
+
+msgid "Linear Up"
+msgstr "Linijinis aukštyn"
+
+msgid "Lines and characters"
+msgstr "Eilutės ir simboliai"
+
+msgid "Lines only"
+msgstr "Tik eilutės"
+
+msgid "Lines per page:"
+msgstr "Eilučių puslapyje:"
+
+msgid "Lines to drop:"
+msgstr "Nuleidžiamų eilučių:"
+
+msgid "Link entries to their headings"
+msgstr "Susieti įrašus su jų antraštėmis"
+
+msgid "Link level to style:"
+msgstr "Susieti lygį su stiliumi:"
+
+msgid "Link to Previous"
+msgstr "Susieti su ankstesne"
+
+msgid "Link to:"
+msgstr "Susieti su:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Susietas stilius (pastraipos ir simbolių)"
+
+msgid "Links and References"
+msgstr "Saitai ir nuorodos"
+
+msgid "Link…"
+msgstr "Saitas…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Sąrašo apibrėžimas"
+
+msgid "List entries"
+msgstr "Sąrašo įrašai"
+
+msgid "List Paragraph"
+msgstr "Sąrašo pastraipa"
+
+msgid "List Table 3 – Blue"
+msgstr ""
+
+msgid "List Table 3 – Green"
+msgstr ""
+
+msgid "List Table 3 – Orange"
+msgstr ""
+
+msgid "List Table 3 – Purple"
+msgstr ""
+
+msgid "Lit from Bottom"
+msgstr "Apšviesta iš apačios"
+
+msgid "Lit from Top"
+msgstr "Apšviesta iš viršaus"
+
+msgid "Lithuanian"
+msgstr ""
+
+msgid "Load System Installed Fonts…"
+msgstr "Įkelti sistemoje įdiegtus šriftus…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Įkelta sistemos šriftų: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Jūsų naršyklė nepalaiko vietinių šriftų prieigos."
+
+msgid "Local font access was denied."
+msgstr "Vietinių šriftų prieiga atmesta."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "Vietinis atkūrimas negalimas arba dar įkeliamas."
+
+msgid "Location: {path}"
+msgstr "Vieta: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Užrakinti kraštinių santykį"
+
+msgid "Lock Fields"
+msgstr "Užrakinti laukus"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Logaritmas"
+
+msgid "Logarithm with Base"
+msgstr "Logaritmas su pagrindu"
+
+msgid "Logical AND"
+msgstr "Loginis IR"
+
+msgid "Logical AND with Limits"
+msgstr "Loginis IR su rėžiais"
+
+msgid "Logical OR"
+msgstr "Loginis ARBA"
+
+msgid "Logical OR with Limits"
+msgstr "Loginis ARBA su rėžiais"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr ""
+
+msgid "Lum:"
+msgstr "Švies.:"
+
+msgid "Luxembourg"
+msgstr ""
+
+msgid "Macao SAR"
+msgstr ""
+
+msgid "Macedonian"
+msgstr ""
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Makrokomandos"
+
+msgid "Made from the author and year when empty"
+msgstr "Kai tuščia, sudaroma iš autoriaus ir metų"
+
+msgid "Magazine or newspaper article"
+msgstr "Žurnalo ar laikraščio straipsnis"
+
+msgid "Mail Merge"
+msgstr "Laiškų suliejimas"
+
+msgid "Mailings"
+msgstr "Siuntimai"
+
+msgid "Main entry:"
+msgstr "Pagrindinis įrašas:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Padaryti WordCraft numatytąja „Word“ dokumentų programa…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr ""
+
+msgid "Malaysia"
+msgstr ""
+
+msgid "Manage Sources"
+msgstr "Tvarkyti šaltinius"
+
+msgid "Manage Styles"
+msgstr "Tvarkyti stilius"
+
+msgid "Manage Styles…"
+msgstr "Tvarkyti stilius…"
+
+msgid "Manual Hyphenation"
+msgstr "Rankinis kėlimas"
+
+msgid "Manual hyphenation is complete."
+msgstr "Rankinis kėlimas baigtas."
+
+msgid "Manual Line Break"
+msgstr "Rankinis eilutės lūžis"
+
+msgid "Manual Page Break"
+msgstr "Rankinis puslapio lūžis"
+
+msgid "Manual…"
+msgstr "Rankiniu būdu…"
+
+msgid "Many pages"
+msgstr "Daug puslapių"
+
+msgid "Mark"
+msgstr "Žymėti"
+
+msgid "Mark All"
+msgstr "Žymėti visus"
+
+msgid "Mark as decorative"
+msgstr "Pažymėti kaip dekoratyvų"
+
+msgid "Mark Citation"
+msgstr "Žymėti citatą"
+
+msgid "Mark Entry"
+msgstr "Žymėti įrašą"
+
+msgid "Mark Entry…"
+msgstr "Žymėti įrašą…"
+
+msgid "Mark grammar errors as you type"
+msgstr ""
+
+msgid "Mark Index Entry"
+msgstr "Žymėti rodyklės įrašą"
+
+msgid "Mark selected text as:"
+msgstr "Žymėti pažymėtą tekstą kaip:"
+
+msgid "Mark\nCitation"
+msgstr "Žymėti\ncitatą"
+
+msgid "Mark\nEntry"
+msgstr "Žymėti\nįrašą"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Skirti didžiąsias ir mažąsias raides"
+
+msgid "Match Fields"
+msgstr "Susieti laukus"
+
+msgid "Match prefix"
+msgstr "Atitikti priešdėlį"
+
+msgid "Match suffix"
+msgstr "Atitikti priesagą"
+
+msgid "Matches: {count}"
+msgstr "Atitikmenų: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Matematinis automatinis taisymas"
+
+msgid "Matrices with Brackets"
+msgstr "Matricos su skliaustais"
+
+msgid "Matrix"
+msgstr "Matrica"
+
+msgid "Maximum Example"
+msgstr "Maksimumo pavyzdys"
+
+msgid "Measured By"
+msgstr "Matuojama pagal"
+
+msgid "Measurement units:"
+msgstr "Matavimo vienetai:"
+
+msgid "Merge cells before split"
+msgstr "Sujungti langelius prieš skaidant"
+
+msgid "Merge Formatting"
+msgstr "Sulieti formatavimą"
+
+msgid "Merge Record #"
+msgstr "Sujungimo įrašo nr."
+
+msgid "Mesosphere"
+msgstr "Mezosfera"
+
+msgid "Mexico"
+msgstr ""
+
+msgid "Midline Dots"
+msgstr "Vidurinės linijos taškai"
+
+msgid "Minus Equal"
+msgstr "Minus lygu"
+
+msgid "Mirror indents"
+msgstr "Veidrodinės įtraukos"
+
+msgid "Mirror margins"
+msgstr "Veidrodinės paraštės"
+
+msgid "Mirrored"
+msgstr "Veidrodinės"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Autorių teisės (c) 2026 ArtCraft Team ir WordCraft bendraautoriai."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Vidutinės"
+
+msgid "Modify Style"
+msgstr "Keisti stilių"
+
+msgid "Modify Table Style"
+msgstr "Keisti lentelės stilių"
+
+msgid "Modify Table Style…"
+msgstr "Keisti lentelės stilių…"
+
+msgid "Modify…"
+msgstr "Keisti…"
+
+msgid "Mon"
+msgstr "Pr"
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Montenegro"
+msgstr ""
+
+msgid "Month"
+msgstr "Mėnuo"
+
+msgid "More >>"
+msgstr "Daugiau >>"
+
+msgid "More Colors…"
+msgstr "Daugiau spalvų…"
+
+msgid "More Columns…"
+msgstr "Daugiau stulpelių…"
+
+msgid "More Commands…"
+msgstr "Daugiau komandų…"
+
+msgid "More Contrast +20%"
+msgstr "Didesnis kontrastas +20 %"
+
+msgid "More Gradients…"
+msgstr "Daugiau gradientų…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Daugiau popieriaus dydžių…"
+
+msgid "More Symbols…"
+msgstr "Daugiau simbolių…"
+
+msgid "More tabs"
+msgstr "Daugiau skirtukų"
+
+msgid "More templates →"
+msgstr "Daugiau šablonų →"
+
+msgid "More Underlines…"
+msgstr "Daugiau pabraukimų…"
+
+msgid "Morocco"
+msgstr ""
+
+msgid "Move in Equation"
+msgstr "Perkelti lygtyje"
+
+msgid "Move or Resize"
+msgstr "Perkelti arba keisti dydį"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Perkelti pastraipą žemyn"
+
+msgid "Move Paragraph Up"
+msgstr "Perkelti pastraipą aukštyn"
+
+msgid "Move Past Citation"
+msgstr "Pereiti už citatos"
+
+msgid "Move Past\nCitation"
+msgstr "Pereiti už\ncitatos"
+
+msgid "Move Selected Ink"
+msgstr "Perkelti pažymėtą rašalą"
+
+msgid "Move Table by Dragging"
+msgstr "Perkelti lentelę tempiant"
+
+msgid "Move with Text"
+msgstr "Perkelti su tekstu"
+
+msgid "Moved from"
+msgstr "Perkelta iš"
+
+msgid "Moved from:"
+msgstr "Perkelta iš:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr ""
+
+msgid "Moved to"
+msgstr "Perkelta į"
+
+msgid "Moved to:"
+msgstr "Perkelta į:"
+
+msgid "Moves"
+msgstr "Perkėlimai"
+
+msgid "Mozambique"
+msgstr ""
+
+msgid "Multilevel List"
+msgstr "Daugiapakopis sąrašas"
+
+msgid "Multilevel List Library"
+msgstr "Daugiapakopių sąrašų biblioteka"
+
+msgid "Multiple Pages"
+msgstr "Keli puslapiai"
+
+msgid "Mute agent messages"
+msgstr ""
+
+msgid "Muted 50%"
+msgstr "Prislopinta 50 %"
+
+msgid "My list has"
+msgstr "Mano sąraše yra"
+
+msgid "Name of the file this document is saved as"
+msgstr "Failo, kuriuo įrašytas šis dokumentas, vardas"
+
+msgid "Narrow"
+msgstr "Siauras"
+
+msgid "Narrow  {size} all"
+msgstr "Siauros  {size} visos"
+
+msgid "Natural Logarithm"
+msgstr "Natūrinis logaritmas"
+
+msgid "Nature"
+msgstr "Gamta"
+
+msgid "Navigation Pane"
+msgstr "Naršymo sritis"
+
+msgid "Negated Relations"
+msgstr "Neigiami sąryšiai"
+
+msgid "Netherlands"
+msgstr ""
+
+msgid "New blank documents are written in this language"
+msgstr ""
+
+msgid "New Comment"
+msgstr "Naujas komentaras"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr ""
+
+msgid "New Documents Based on This Template"
+msgstr ""
+
+msgid "New documents based on this template"
+msgstr ""
+
+msgid "New documents will use this font."
+msgstr ""
+
+msgid "New documents will use this page setup."
+msgstr ""
+
+msgid "New documents will use this paragraph formatting."
+msgstr ""
+
+msgid "New documents will use this style."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr ""
+
+msgid "New Drawing Canvas"
+msgstr "Nauja piešimo drobė"
+
+msgid "New Entry"
+msgstr "Naujas įrašas"
+
+msgid "New Label"
+msgstr "Nauja etiketė"
+
+msgid "New Label…"
+msgstr "Nauja etiketė…"
+
+msgid "New Paragraph"
+msgstr "Nauja pastraipa"
+
+msgid "New shortcut:"
+msgstr "Naujas spartusis klavišas:"
+
+msgid "New Tab"
+msgstr "Naujas skirtukas"
+
+msgid "New Table Style"
+msgstr "Naujas lentelės stilius"
+
+msgid "New Table Style…"
+msgstr "Naujas lentelės stilius…"
+
+msgid "New word"
+msgstr ""
+
+msgid "New Zealand"
+msgstr ""
+
+msgid "New\nComment"
+msgstr "Naujas\nkomentaras"
+
+msgid "New\nWindow"
+msgstr "Naujas\nlangas"
+
+msgid "Next Comment"
+msgstr "Kitas komentaras"
+
+msgid "Next Field"
+msgstr "Kitas laukas"
+
+msgid "Next Footnote"
+msgstr "Kita išnaša"
+
+msgid "Next Record"
+msgstr "Kitas įrašas"
+
+msgid "Next Section"
+msgstr "Kitas skyrius"
+
+msgid "Next Sentence"
+msgstr "Kitas sakinys"
+
+msgid "Next sentence"
+msgstr "Kitas sakinys"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr ""
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr ""
+
+msgid "Nicaragua"
+msgstr ""
+
+msgid "No accessibility issues found."
+msgstr "Pritaikymo neįgaliesiems problemų nerasta."
+
+msgid "No Border"
+msgstr "Be kraštinės"
+
+msgid "No changes (read only)"
+msgstr "Pakeitimų nėra (tik skaityti)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Šioje programos kopijoje nėra duomenų apie bendraautorius."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Joks dokumentas neatidarytas. Pirmiausia sukurkite arba atidarykite dokumentą."
+
+msgid "no equation at the caret"
+msgstr "ties žymekliu nėra lygties"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Klaidų nerasta: kiekvienas suliejimo laukas yra gavėjų sąraše."
+
+msgid "No Fill"
+msgstr "Be užpildo"
+
+msgid "No fill"
+msgstr "Be užpildo"
+
+msgid "No Glow"
+msgstr "Be švytėjimo"
+
+msgid "No Gradient"
+msgstr "Be gradiento"
+
+msgid "No grid"
+msgstr "Be tinklelio"
+
+msgid "No header row"
+msgstr "Be antraštės eilutės"
+
+msgid "No icons match your search."
+msgstr "Jūsų paieškos neatitinka jokios piktogramos."
+
+msgid "No items to show."
+msgstr "Nėra elementų, kuriuos būtų galima rodyti."
+
+msgid "No language matches your search."
+msgstr ""
+
+msgid "No languages to show yet."
+msgstr ""
+
+msgid "No Markup"
+msgstr "Be žymėjimo"
+
+msgid "No model credits were built into this copy."
+msgstr "Šioje programos kopijoje nėra naudotų modelių sąrašo."
+
+msgid "No new sources in that file"
+msgstr "Tame faile naujų šaltinių nėra"
+
+msgid "No Outline"
+msgstr "Be kontūro"
+
+msgid "No Paragraph Space"
+msgstr "Be tarpo tarp pastraipų"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Spausdintuvų nerasta. Sukonfigūruokite sistemos spausdintuvą arba eksportuokite PDF."
+
+msgid "No recovery copies."
+msgstr "Atkūrimo kopijų nėra."
+
+msgid "No Reflection"
+msgstr "Be atspindžio"
+
+msgid "No Scaling"
+msgstr "Be mastelio keitimo"
+
+msgid "No Shadow"
+msgstr "Be šešėlio"
+
+msgid "No Soft Edges"
+msgstr "Be švelnių kraštų"
+
+msgid "No sources yet."
+msgstr "Šaltinių dar nėra."
+
+msgid "No Spacing"
+msgstr "Be tarpų"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Kalbos „{language}“ rašybos žodynas neįdiegtas, todėl ji netikrinama. WordCraft ieško Hunspell žodyno {name} aplanke WORDCRAFT_DICTIONARIES ir įprastose sistemos vietose."
+
+msgid "No templates match your search."
+msgstr "Jūsų paieškos neatitinka joks šablonas."
+
+msgid "No Transform"
+msgstr "Be transformacijos"
+
+msgid "No watermark"
+msgstr ""
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr ""
+
+msgid "No-Width Non Break"
+msgstr "Nulinio pločio nelaužiamas"
+
+msgid "No-Width Optional Break"
+msgstr "Nulinio pločio pasirenkamas lūžis"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Nelaužiamas brūkšnelis"
+
+msgid "Normal  {size} all"
+msgstr "Įprastos  {size} visos"
+
+msgid "Normal Indent"
+msgstr "Įprastinė įtrauka"
+
+msgid "Normal probability density"
+msgstr "Normaliojo skirstinio tankis"
+
+msgid "Normal speed"
+msgstr "Įprastas greitis"
+
+msgid "Normal Style"
+msgstr "Įprastinis stilius"
+
+msgid "Normal Table"
+msgstr "Įprastinė lentelė"
+
+msgid "Normal Text"
+msgstr "Įprastas tekstas"
+
+msgid "Normal Word Document"
+msgstr "Įprastas „Word“ dokumentas"
+
+msgid "North"
+msgstr "Šiaurė"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norvegų (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+msgid "Not"
+msgstr "Ne"
+
+msgid "Not available right now"
+msgstr "Šiuo metu nepasiekiama"
+
+msgid "Not available yet"
+msgstr ""
+
+msgid "not editing an equation"
+msgstr "lygtis neredaguojama"
+
+msgid "Not equal to"
+msgstr "Nelygu"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Nesusieta: spustelėkite teksto lauką"
+
+msgid "Not now"
+msgstr "Ne dabar"
+
+msgid "Not saved"
+msgstr "Neįrašyta"
+
+msgid "Not saved yet"
+msgstr "Dar neįrašyta"
+
+msgid "Not set"
+msgstr ""
+
+msgid "Not set: the system's usual places"
+msgstr ""
+
+msgid "Not used by any command"
+msgstr "Nenaudoja jokia komanda"
+
+msgid "Not {name}"
+msgstr "Ne {name}"
+
+msgid "Nothing"
+msgstr "Nieko"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Kol kas nieko nesurinkta. Čia atsiras elementai, kuriuos nukopijuosite arba iškirpsite."
+
+msgid "nothing is selected"
+msgstr "niekas nepažymėta"
+
+msgid "Nothing of this type in the document."
+msgstr "Dokumente nėra nieko šio tipo."
+
+msgid "Now used by {command}"
+msgstr "Dabar naudoja {command}"
+
+msgid "Nudge"
+msgstr "Stumtelėti"
+
+msgid "Num Occurrences"
+msgstr "Pasikartojimų skaičius"
+
+msgid "Number alignment:"
+msgstr "Skaičių lygiuotė:"
+
+msgid "Number format"
+msgstr "Skaičių formatas"
+
+msgid "Number of columns:"
+msgstr "Stulpelių skaičius:"
+
+msgid "Number of rows:"
+msgstr "Eilučių skaičius:"
+
+msgid "Number of the page the field sits on"
+msgstr "Puslapio, kuriame yra laukas, numeris"
+
+msgid "Number of the section the field sits in"
+msgstr "Skyriaus, kuriame yra laukas, numeris"
+
+msgid "Number only, without the label's words"
+msgstr "Tik numeris, be etiketės žodžių"
+
+msgid "Number style for this level:"
+msgstr "Šio lygio numeravimo stilius:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Numeruoti lygtį; numeris yra prie dešinės paraštės (arba įveskite # ir numerį)"
+
+msgid "Numbering"
+msgstr "Numeravimas"
+
+msgid "Numbering:"
+msgstr "Numeravimas:"
+
+msgid "Numbering…"
+msgstr "Numeravimas…"
+
+msgid "Numerals"
+msgstr "Skaitmenys"
+
+msgid "Numerals:"
+msgstr ""
+
+msgid "n×n Identity Matrix"
+msgstr "n×n vienetinė matrica"
+
+msgid "n×n Matrix"
+msgstr "n×n matrica"
+
+msgid "Odd Banded Columns"
+msgstr "Nelyginiai juostiniai stulpeliai"
+
+msgid "Odd Banded Rows"
+msgstr "Nelyginės juostinės eilutės"
+
+msgid "Odd Page"
+msgstr "Nelyginis puslapis"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 numatytosios"
+
+msgid "Offset (pt):"
+msgstr "Poslinkis (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Poslinkis: apačioje"
+
+msgid "Offset: Bottom Left"
+msgstr "Poslinkis: apačioje kairėje"
+
+msgid "Offset: Bottom Right"
+msgstr "Poslinkis: apačioje dešinėje"
+
+msgid "Offset: Center"
+msgstr "Poslinkis: centre"
+
+msgid "Offset: Left"
+msgstr "Poslinkis: kairėje"
+
+msgid "Offset: Right"
+msgstr "Poslinkis: dešinėje"
+
+msgid "Offset: Top"
+msgstr "Poslinkis: viršuje"
+
+msgid "Offset: Top Left"
+msgstr "Poslinkis: viršuje kairėje"
+
+msgid "Offset: Top Right"
+msgstr "Poslinkis: viršuje dešinėje"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Senieji meniu klavišai: Alt, {keys}. Rašykite toliau arba paspauskite Esc, kad atšauktumėte."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr ""
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr ""
+
+msgid "One"
+msgstr "Vienas"
+
+msgid "One half"
+msgstr "Pusantro"
+
+msgid "One label per recipient"
+msgstr "Viena etiketė kiekvienam gavėjui"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Viena eilutė kiekvienam elementui. Enter prideda elementą."
+
+msgid "One Page"
+msgstr "Vienas puslapis"
+
+msgid "One-sided"
+msgstr "Vienpusis"
+
+msgid "Only allow this kind of editing:"
+msgstr "Leisti tik tokį redagavimą:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Galima pridėti tik komentarus, išskyrus redaguojamomis pažymėtas sritis."
+
+msgid "Only for the selected text"
+msgstr "Tik pažymėtam tekstui"
+
+msgid "Only form fields can be filled in."
+msgstr "Galima pildyti tik formos laukus."
+
+msgid "only in Outline view"
+msgstr "tik struktūros rodinyje"
+
+msgid "Only in this document"
+msgstr ""
+
+msgid "Only label and number"
+msgstr "Tik etiketė ir numeris"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Galima taikyti tik leidžiamus stilius."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Galima atidaryti tik žiniatinklio (http, https) ir el. pašto (mailto) saitus"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Pirmiausia atverkite dokumentą"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Atidaryti failą WordCraft naršykle, kai sistemos failų dialogo langas nepasirodo."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument tekstas (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Atidaromas spausdinimo dialogo langas…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr ""
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr ""
+
+msgid "Operator"
+msgstr "Operatorius"
+
+msgid "Operator Structures"
+msgstr "Operatorių struktūros"
+
+msgid "Operators"
+msgstr "Operatoriai"
+
+msgid "Optional Hyphen"
+msgstr "Pasirenkamas brūkšnelis"
+
+msgid "Or"
+msgstr "Arba"
+
+msgid "Or save a copy in another format:"
+msgstr "Arba įrašykite kopiją kitu formatu:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Kelintiniai (1st) kaip viršutinis indeksas"
+
+msgid "Organizer"
+msgstr "Tvarkytuvas"
+
+msgid "Organizer…"
+msgstr "Tvarkytuvas…"
+
+msgid "Original document"
+msgstr "Originalus dokumentas"
+
+msgid "Original size"
+msgstr "Originalus dydis"
+
+msgid "Other Large Operators"
+msgstr "Kiti dideli operatoriai"
+
+msgid "Other styles and their TOC level:"
+msgstr "Kiti stiliai ir jų turinio lygis:"
+
+msgid "Other:"
+msgstr "Kita:"
+
+msgid "Otherwise insert:"
+msgstr "Kitu atveju įterpti:"
+
+msgid "Outline Level"
+msgstr "Struktūros lygis"
+
+msgid "Outline level"
+msgstr "Struktūros lygis"
+
+msgid "Outline levels"
+msgstr "Struktūros lygiai"
+
+msgid "Outline State"
+msgstr "Struktūros būsena"
+
+msgid "Outline Tools"
+msgstr "Struktūros įrankiai"
+
+msgid "Outlining"
+msgstr "Struktūra"
+
+msgid "Outside border"
+msgstr "Išorinė kraštinė"
+
+msgid "Outside Borders"
+msgstr "Išorinės kraštinės"
+
+msgid "Outside:"
+msgstr "Išorėje:"
+
+msgid "Outward Brackets"
+msgstr "Į išorę nukreipti skliaustai"
+
+msgid "Overbar"
+msgstr "Brūkšnys viršuje"
+
+msgid "Overbars and Underbars"
+msgstr "Brūkšniai viršuje ir apačioje"
+
+msgid "Overbrace"
+msgstr "Riestinis skliaustas viršuje"
+
+msgid "Overtype"
+msgstr "Perrašymas"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr ""
+
+msgid "Page Background"
+msgstr "Puslapio fonas"
+
+msgid "Page Border"
+msgstr "Puslapio kraštinė"
+
+msgid "Page Borders"
+msgstr "Puslapio kraštinės"
+
+msgid "Page Break"
+msgstr "Puslapio lūžis"
+
+msgid "Page Break Before"
+msgstr "Puslapio lūžis prieš"
+
+msgid "Page break before"
+msgstr "Puslapio lūžis prieš"
+
+msgid "Page Breaks"
+msgstr "Puslapių lūžiai"
+
+msgid "Page Color"
+msgstr "Puslapio spalva"
+
+msgid "Page color"
+msgstr "Puslapio spalva"
+
+msgid "Page display"
+msgstr "Puslapių rodymas"
+
+msgid "Page Down"
+msgstr "Puslapis žemyn"
+
+msgid "Page image (*.png)"
+msgstr "Puslapio vaizdas (*.png)"
+
+msgid "Page Movement"
+msgstr "Judėjimas puslapiais"
+
+msgid "Page Number"
+msgstr "Puslapio numeris"
+
+msgid "Page number"
+msgstr "Puslapio numeris"
+
+msgid "Page Number Format"
+msgstr "Puslapių numerių formatas"
+
+msgid "Page number style"
+msgstr "Puslapių numerių stilius"
+
+msgid "Page numbering"
+msgstr "Puslapių numeravimas"
+
+msgid "Page numbers at the right margin"
+msgstr "Puslapių numeriai prie dešinės paraštės"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Puslapis, kuriame yra žymele pažymėta ištrauka"
+
+msgid "Page Setup"
+msgstr "Puslapio sąranka"
+
+msgid "Page title"
+msgstr "Puslapio pavadinimas"
+
+msgid "Page Up"
+msgstr "Puslapis aukštyn"
+
+msgid "Page Width"
+msgstr "Puslapio plotis"
+
+msgid "Page width"
+msgstr "Puslapio plotis"
+
+msgid "Page X of Y"
+msgstr "Puslapis X iš Y"
+
+msgid "Page {page}"
+msgstr "Puslapis {page}"
+
+msgid "Page\nBorders"
+msgstr "Puslapio\nkraštinės"
+
+msgid "Page\nColor"
+msgstr "Puslapio\nspalva"
+
+msgid "Page\nNumber"
+msgstr "Puslapio\nnumeris"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Puslapiai, pvz., 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Žymelės puslapiai:"
+
+msgid "Panama"
+msgstr ""
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Popieriaus dydis:"
+
+msgid "Paragraph Character"
+msgstr "Pastraipos simbolis"
+
+msgid "Paragraph Details"
+msgstr ""
+
+msgid "Paragraph Down"
+msgstr "Pastraipa žemyn"
+
+msgid "Paragraph Mark"
+msgstr "Pastraipos žymė"
+
+msgid "Paragraph marks"
+msgstr "Pastraipų žymės"
+
+msgid "Paragraph Settings"
+msgstr "Pastraipos parametrai"
+
+msgid "Paragraph Spacing"
+msgstr "Tarpai tarp pastraipų"
+
+msgid "Paragraph style"
+msgstr "Pastraipos stilius"
+
+msgid "Paragraph Up"
+msgstr "Pastraipa aukštyn"
+
+msgid "Paragraphs"
+msgstr "Pastraipos"
+
+msgid "Paragraph…"
+msgstr "Pastraipa…"
+
+msgid "Paraguay"
+msgstr ""
+
+msgid "Parentheses"
+msgstr "Lenktiniai skliaustai"
+
+msgid "Parentheses with Separator"
+msgstr "Lenktiniai skliaustai su skirtuku"
+
+msgid "Partial Differential"
+msgstr "Dalinė išvestinė"
+
+msgid "Password:"
+msgstr "Slaptažodis:"
+
+msgid "Paste (⌘V)"
+msgstr "Įklijuoti (⌘V)"
+
+msgid "Paste All"
+msgstr "Įklijuoti viską"
+
+msgid "Paste as:"
+msgstr "Įklijuoti kaip:"
+
+msgid "Paste Clipboard Item"
+msgstr "Įklijuoti iškarpinės elementą"
+
+msgid "Paste Formatting"
+msgstr "Įklijuoti formatavimą"
+
+msgid "Paste function:"
+msgstr "Įklijuoti funkciją:"
+
+msgid "Paste Special…"
+msgstr "Specialusis įklijavimas…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Įklijuoti: palikti tik tekstą"
+
+msgid "Paste: Merge Formatting"
+msgstr "Įklijuoti: sulieti formatavimą"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Įklijuoja iškarpinės paveikslėlį."
+
+msgid "Paused"
+msgstr "Pristabdyta"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF dokumentas (*.pdf)"
+
+msgid "Pens"
+msgstr "Rašikliai"
+
+msgid "People"
+msgstr "Žmonės"
+
+msgid "Periodical"
+msgstr "Periodinis leidinys"
+
+msgid "Persian"
+msgstr ""
+
+msgid "Personal"
+msgstr "Asmeniniai"
+
+msgid "Personal Templates"
+msgstr "Asmeniniai šablonai"
+
+msgid "Personalize"
+msgstr ""
+
+msgid "Peru"
+msgstr ""
+
+msgid "Philippines"
+msgstr ""
+
+msgid "Phonetic Guide"
+msgstr "Fonetinis vadovas"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi dalinta iš 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Pasirinkite pasirinktinę grupę (ją sukuria „Nauja grupė“)"
+
+msgid "Pick a field from the list"
+msgstr ""
+
+msgid "Picture"
+msgstr "Paveikslėlis"
+
+msgid "Picture Border"
+msgstr "Paveikslėlio kraštinė"
+
+msgid "Picture border"
+msgstr "Paveikslėlio kraštinė"
+
+msgid "Picture Content Control"
+msgstr "Paveikslėlio turinio valdiklis"
+
+msgid "Picture Format"
+msgstr "Paveikslėlio formatas"
+
+msgid "Picture Styles"
+msgstr "Paveikslėlių stiliai"
+
+msgid "Picture transparency"
+msgstr "Paveikslėlio skaidrumas"
+
+msgid "Picture watermark"
+msgstr ""
+
+msgid "Pictures"
+msgstr "Paveikslėliai"
+
+msgid "Pie"
+msgstr "Skritulinė"
+
+msgid "Place in This Document"
+msgstr "Vieta šiame dokumente"
+
+msgid "Placeholder text"
+msgstr "Vietos rezervavimo tekstas"
+
+msgid "Plain Table 1"
+msgstr "Paprasta lentelė 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Grynasis tekstas (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Grynojo teksto turinio valdiklis"
+
+msgid "Play/Pause"
+msgstr "Leisti / pristabdyti"
+
+msgid "Plus Equal"
+msgstr "Plius lygu"
+
+msgid "Points and above"
+msgstr "Taškų ir daugiau"
+
+msgid "Polish"
+msgstr "Lenkų"
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugalų (Brazilija)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugalų (Portugalija)"
+
+msgid "Possible spelling mistake"
+msgstr "Galima rašybos klaida"
+
+msgid "Postal Code"
+msgstr "Pašto kodas"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "(1+x)ⁿ laipsninė eilutė"
+
+msgid "Preferred width:"
+msgstr "Pageidaujamas plotis:"
+
+msgid "Preserve formatting during updates"
+msgstr ""
+
+msgid "Preset gradients"
+msgstr "Iš anksto nustatyti gradientai"
+
+msgid "Press a key combination"
+msgstr "Paspauskite klavišų derinį"
+
+msgid "Preview Results"
+msgstr "Peržiūrėti rezultatus"
+
+msgid "Preview\nResults"
+msgstr "Peržiūrėti\nrezultatus"
+
+msgid "Previous 1 or More"
+msgstr "Ankstesni 1 ar daugiau"
+
+msgid "Previous Comment"
+msgstr "Ankstesnis komentaras"
+
+msgid "Previous Field"
+msgstr "Ankstesnis laukas"
+
+msgid "Previous Record"
+msgstr "Ankstesnis įrašas"
+
+msgid "Previous Section"
+msgstr "Ankstesnis skyrius"
+
+msgid "Previous Sentence"
+msgstr "Ankstesnis sakinys"
+
+msgid "Previous sentence"
+msgstr "Ankstesnis sakinys"
+
+msgid "Print Documents"
+msgstr "Spausdinti dokumentus"
+
+msgid "Print Documents…"
+msgstr "Spausdinti dokumentus…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Spausdinti nepavyko: spausdinimo procesas sustojo."
+
+msgid "Print failed: {error}"
+msgstr "Spausdinti nepavyko: {error}"
+
+msgid "Print job submitted."
+msgstr "Spausdinimo užduotis išsiųsta."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Spausdinimo užduotis pateikta: į eilę įtraukta lapų: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Spausdinimo užduotis išsiųsta: {receipt}"
+
+msgid "Print Layout"
+msgstr "Spaudinio maketas"
+
+msgid "Print Markup"
+msgstr "Spausdinti žymėjimą"
+
+msgid "Print settings"
+msgstr "Spausdinimo parametrai"
+
+msgid "Print the page color"
+msgstr ""
+
+msgid "Print to PDF"
+msgstr ""
+
+msgid "Print\nLayout"
+msgstr "Spaudinio\nmaketas"
+
+msgid "Printer default"
+msgstr "Pagal spausdintuvą"
+
+msgid "Printer discovery failed."
+msgstr "Spausdintuvų aptikti nepavyko."
+
+msgid "Privacy for this document"
+msgstr "Šio dokumento privatumas"
+
+msgid "Privacy Options"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Process"
+msgstr "Procesas"
+
+msgid "Product"
+msgstr "Sandauga"
+
+msgid "Product of A"
+msgstr "A sandauga"
+
+msgid "Product with Limits"
+msgstr "Sandauga su rėžiais"
+
+msgid "Product with Lower Limit"
+msgstr "Sandauga su apatiniu rėžiu"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Sandauga su apatinio ir viršutinio indekso rėžiais"
+
+msgid "Products and Coproducts"
+msgstr "Sandaugos ir kosandaugos"
+
+msgid "Professional"
+msgstr "Profesionalus"
+
+msgid "Promote"
+msgstr "Paaukštinti"
+
+msgid "Promote to Heading 1"
+msgstr "Paaukštinti iki 1 antraštės"
+
+msgid "Proofing"
+msgstr "Tikrinimas"
+
+msgid "Proofing Issues"
+msgstr "Tikrinimo problemos"
+
+msgid "Proofing language"
+msgstr ""
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Apsaugoti dokumentą"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Leidėjas"
+
+msgid "Puerto Rico"
+msgstr ""
+
+msgid "Put the caret in a content control first."
+msgstr "Pirmiausia nustatykite žymeklį turinio valdiklyje."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Grąžinti numatytąsias komandas į sparčiosios prieigos įrankių juostą?"
+
+msgid "Qatar"
+msgstr ""
+
+msgid "Quadratic Root"
+msgstr "Kvadratinė šaknis"
+
+msgid "Quick Access Toolbar"
+msgstr "Sparčiosios prieigos įrankių juosta"
+
+msgid "Quick Parts"
+msgstr "Spartieji elementai"
+
+msgid "Quick Tables"
+msgstr "Sparčiosios lentelės"
+
+msgid "Quote"
+msgstr "Citata"
+
+msgid "Radical"
+msgstr "Šaknis"
+
+msgid "Radical with Degree"
+msgstr "Šaknis su laipsniu"
+
+msgid "Radicals"
+msgstr "Šaknys"
+
+msgid "Raised/lowered"
+msgstr "Pakeltas / nuleistas"
+
+msgid "Read Aloud"
+msgstr "Skaityti garsiai"
+
+msgid "Read Aloud Status"
+msgstr "Garsinio skaitymo būsena"
+
+msgid "Read Mode"
+msgstr "Skaitymo režimas"
+
+msgid "Read\nAloud"
+msgstr "Skaityti\ngarsiai"
+
+msgid "Read\nMode"
+msgstr "Skaitymo\nrežimas"
+
+msgid "Reading"
+msgstr "Skaitymas"
+
+msgid "Reading Column Width"
+msgstr "Skaitymo stulpelio plotis"
+
+msgid "Reading Highlight"
+msgstr "Skaitymo paryškinimas"
+
+msgid "Reading Line Spacing"
+msgstr "Skaitymo eilučių tarpai"
+
+msgid "Reading Mode"
+msgstr "Skaitymo režimas"
+
+msgid "Reading Page Color"
+msgstr "Skaitymo puslapio spalva"
+
+msgid "Reading Speed"
+msgstr "Skaitymo greitis"
+
+msgid "Reading Text Size"
+msgstr "Skaitymo teksto dydis"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Nuskaito iškarpinės raiškųjį tekstą ir išlaiko jo formatavimą."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Nuskaito iškarpinės žiniatinklio turinį ir išlaiko jo formatavimą."
+
+msgid "Recent documents to show:"
+msgstr ""
+
+msgid "Recently Used Fonts"
+msgstr "Neseniai naudoti šriftai"
+
+msgid "Recently used symbols:"
+msgstr "Neseniai naudoti simboliai:"
+
+msgid "Recipient List"
+msgstr "Gavėjų sąrašas"
+
+msgid "Recipient lists"
+msgstr "Gavėjų sąrašai"
+
+msgid "Recipients: {count}"
+msgstr "Gavėjų: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Perdažyti vienspalvį paveikslėlį, pvz., piktogramą"
+
+msgid "Recolor Selected Ink"
+msgstr "Perdažyti pažymėtą rašalą"
+
+msgid "Record Macro"
+msgstr "Įrašyti makrokomandą"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "Atkurti dokumentus"
+
+msgid "Recover Unsaved Documents"
+msgstr "Atkurti neįrašytus dokumentus"
+
+msgid "Recovery copy"
+msgstr "Atkūrimo kopija"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "Kol šis dokumentas turi slaptažodį, atkūrimas išjungtas."
+
+msgid "Red:"
+msgstr "Raudona:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Sumažinti kabančiąją įtrauką"
+
+msgid "Reference type:"
+msgstr "Nuorodos tipas:"
+
+msgid "References"
+msgstr "Nuorodos"
+
+msgid "Reflection"
+msgstr "Atspindys"
+
+msgid "Refresh printers"
+msgstr "Atnaujinti spausdintuvus"
+
+msgid "Region:"
+msgstr ""
+
+msgid "Registered"
+msgstr "Registruotas"
+
+msgid "Registered Sign"
+msgstr "Registruoto prekių ženklo simbolis"
+
+msgid "Regular expressions"
+msgstr "Reguliarieji reiškiniai"
+
+msgid "Reject"
+msgstr "Atmesti"
+
+msgid "Reject All Changes"
+msgstr "Atmesti visus keitimus"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Atmesti keitimą"
+
+msgid "Relationship"
+msgstr "Ryšys"
+
+msgid "Relative to original picture size"
+msgstr "Pagal pradinį paveikslėlio dydį"
+
+msgid "Remove Added Font"
+msgstr "Šalinti pridėtą šriftą"
+
+msgid "Remove condition"
+msgstr "Šalinti sąlygą"
+
+msgid "Remove Content Control"
+msgstr "Šalinti turinio valdiklį"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Šalinti visus pasirinktinius sparčiuosius klavišus ir atkurti integruotuosius?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Šalinti visus pasirinktinius skirtukus bei grupes ir vėl rodyti visus skirtukus?"
+
+msgid "Remove field"
+msgstr "Šalinti lauką"
+
+msgid "Remove Footer"
+msgstr "Šalinti poraštę"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Šalinti iš sparčiosios prieigos įrankių juostos"
+
+msgid "Remove gradient stop"
+msgstr "Šalinti gradiento stotelę"
+
+msgid "Remove Header"
+msgstr "Šalinti antraštę"
+
+msgid "Remove Hyperlink"
+msgstr "Šalinti saitą"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Įrašant šalinti mano vardą iš komentarų, keitimų ir failo ypatybių"
+
+msgid "Remove Password"
+msgstr "Šalinti slaptažodį"
+
+msgid "Remove Pen"
+msgstr "Šalinti rašiklį"
+
+msgid "Remove recipient"
+msgstr "Šalinti gavėją"
+
+msgid "Remove row"
+msgstr "Šalinti eilutę"
+
+msgid "Remove series"
+msgstr "Šalinti seką"
+
+msgid "Remove Space After Paragraph"
+msgstr "Šalinti tarpą po pastraipos"
+
+msgid "Remove Table of Contents"
+msgstr "Šalinti turinį"
+
+msgid "Remove the control once edited"
+msgstr "Šalinti valdiklį jį redagavus"
+
+msgid "Remove the space before the punctuation"
+msgstr "Šalinti tarpą prieš skyrybos ženklą"
+
+msgid "Remove Watermark"
+msgstr "Šalinti vandens ženklą"
+
+msgid "Rename Document"
+msgstr "Pervardyti dokumentą"
+
+msgid "Reopen"
+msgstr "Atidaryti iš naujo"
+
+msgid "Repeat as header row on each page"
+msgstr "Kartoti kaip antraštės eilutę kiekviename puslapyje"
+
+msgid "Repeat Header Rows"
+msgstr "Kartoti antraštės eilutes"
+
+msgid "Repeating Section Content Control"
+msgstr "Kartojamos sekcijos turinio valdiklis"
+
+msgid "Replace All"
+msgstr "Pakeisti visus"
+
+msgid "Replace as you type"
+msgstr "Pakeisti rašant"
+
+msgid "Replace Document Text"
+msgstr ""
+
+msgid "Replace text as you type"
+msgstr "Keisti tekstą rašant"
+
+msgid "Replace with:"
+msgstr "Pakeisti į:"
+
+msgid "Replay"
+msgstr "Pakartoti"
+
+msgid "Research"
+msgstr "Tyrimai"
+
+msgid "Researcher"
+msgstr "Tyrėjas"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr ""
+
+msgid "Reset All…"
+msgstr "Atkurti viską…"
+
+msgid "Reset Character Formatting"
+msgstr "Atkurti simbolių formatavimą"
+
+msgid "Reset Crop"
+msgstr "Atkurti apkarpymą"
+
+msgid "Reset Default Formatting"
+msgstr ""
+
+msgid "Reset Graphic"
+msgstr "Atkurti grafiką"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Atkurti pastraipos formatavimą"
+
+msgid "Reset Picture"
+msgstr "Atkurti paveikslėlį"
+
+msgid "Reset tips"
+msgstr ""
+
+msgid "Reset to Normal"
+msgstr "Atkurti į įprastinį"
+
+msgid "Reset\nGraphic"
+msgstr "Atkurti\ngrafiką"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Keisti lentelės dydį tempiant"
+
+msgid "Resolve"
+msgstr "Išspręsti"
+
+msgid "Resolved"
+msgstr "Išspręsta"
+
+msgid "Restart at 1"
+msgstr "Pradėti nuo 1"
+
+msgid "Restart Each Page"
+msgstr "Pradėti iš naujo kiekviename puslapyje"
+
+msgid "Restart Each Section"
+msgstr "Pradėti iš naujo kiekviename skyriuje"
+
+msgid "Restart list after:"
+msgstr "Pradėti sąrašą iš naujo po:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "Atkūrimas atidaro neįrašytą kopiją. Jūsų pradinis failas lieka nepakeistas."
+
+msgid "Restrict Editing"
+msgstr "Riboti redagavimą"
+
+msgid "Restrict\nEditing"
+msgstr "Riboti\nredagavimą"
+
+msgid "Results"
+msgstr "Rezultatai"
+
+msgid "Return address labels"
+msgstr "Atgalinio adreso etiketės"
+
+msgid "Return address:"
+msgstr "Atgalinis adresas:"
+
+msgid "Reviewing"
+msgstr "Peržiūra"
+
+msgid "Reviewing Pane"
+msgstr "Peržiūros sritis"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Peržiūra – taisymai tampa pasiūlymais"
+
+msgid "Revised document"
+msgstr "Pataisytas dokumentas"
+
+msgid "Rewind"
+msgstr "Atsukti"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr ""
+
+msgid "Ribbon"
+msgstr "Juostelė"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr ""
+
+msgid "Ribbon tabs"
+msgstr "Juostelės skirtukai"
+
+msgid "Rich Text Content Control"
+msgstr "Raiškiojo teksto turinio valdiklis"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Raiškiojo teksto formatas (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Raiškiojo teksto formatas (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Dešinėje (vertikaliai)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Rodyklė dešinėn su tekstu viršuje"
+
+msgid "Right Arrow with Text Below"
+msgstr "Rodyklė dešinėn su tekstu apačioje"
+
+msgid "Right Border"
+msgstr "Dešinioji kraštinė"
+
+msgid "Right border"
+msgstr "Dešinioji kraštinė"
+
+msgid "Right Bracket Twice"
+msgstr "Dvigubas dešinysis skliaustas"
+
+msgid "Right indent"
+msgstr "Dešinioji įtrauka"
+
+msgid "Right Margin"
+msgstr "Dešinioji paraštė"
+
+msgid "Right Only"
+msgstr "Tik dešinėje"
+
+msgid "Right-to-left"
+msgstr "Iš dešinės į kairę"
+
+msgid "Right-to-Left Section"
+msgstr "Iš dešinės į kairę skyrius"
+
+msgid "Right-to-Left Table"
+msgstr "Iš dešinės į kairę lentelė"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Teksto kryptis iš dešinės į kairę"
+
+msgid "Rightwards Arrow Above"
+msgstr "Rodyklė dešinėn viršuje"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Harpūnas dešinėn viršuje"
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Roots of ax²+bx+c"
+msgstr "ax²+bx+c šaknys"
+
+msgid "Rotate all text 270°"
+msgstr "Pasukti visą tekstą 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Pasukti visą tekstą 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Pasukti kairėn 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Pasukti dešinėn 90°"
+
+msgid "Rotate with shape"
+msgstr "Sukti kartu su figūra"
+
+msgid "Rounded"
+msgstr "Suapvalintas"
+
+msgid "Row"
+msgstr "Eilutė"
+
+msgid "Row:"
+msgstr "Eilutė:"
+
+msgid "Rows & Columns"
+msgstr "Eilutės ir stulpeliai"
+
+msgid "Ruby text:"
+msgstr "Rubi tekstas:"
+
+msgid "Rules"
+msgstr "Taisyklės"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Įterptinis"
+
+msgid "Russia"
+msgstr ""
+
+msgid "Résumé"
+msgstr "Gyvenimo aprašymas"
+
+msgid "SAMPLE"
+msgstr "PAVYZDYS"
+
+msgid "Sat:"
+msgstr "Sot.:"
+
+msgid "Saturation and recolor"
+msgstr "Sodrumas ir perdažymas"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Įrašykite kopiją kitu formatu. Spausdinama per PDF, kurį galite spausdinti bet kuria peržiūros programa."
+
+msgid "Save as Word Template…"
+msgstr "Įrašyti kaip „Word“ šabloną…"
+
+msgid "Save documents"
+msgstr "Įrašyti dokumentus"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Įrašykite dokumentą, kad įjungtumėte automatinį įrašymą"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Įrašykite dokumentą, kad įjungtumėte automatinį įrašymą (tik atidarytas failas neperrašomas, kol jo neįrašysite)"
+
+msgid "Save these pages as PDF…"
+msgstr "Įrašyti šiuos puslapius kaip PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr ""
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Įrašo .dotx šabloną jūsų šablonų aplanke. Jis rodomas skiltyje Failas › Naujas, dalyje Asmeniniai."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "{name} įrašymas atšauktas, todėl dokumentas tebėra atidarytas ir niekas neprarasta."
+
+msgid "Sayings"
+msgstr ""
+
+msgid "Sayings:"
+msgstr ""
+
+msgid "Scale Drawing"
+msgstr "Mastelio piešinys"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "Pritaikyti pagal popieriaus dydį"
+
+msgid "Scatter"
+msgstr "Taškinė"
+
+msgid "Script"
+msgstr "Scenarijus"
+
+msgid "Scroll ribbon left"
+msgstr "Slinkti juostelę kairėn"
+
+msgid "Scroll ribbon right"
+msgstr "Slinkti juostelę dešinėn"
+
+msgid "Search Commands"
+msgstr "Ieškoti komandų"
+
+msgid "Search commands and help"
+msgstr "Ieškoti komandų ir žinyno"
+
+msgid "Search document"
+msgstr "Ieškoti dokumente"
+
+msgid "Search for templates"
+msgstr "Ieškoti šablonų"
+
+msgid "Search icons"
+msgstr "Ieškoti piktogramų"
+
+msgid "Search Options"
+msgstr "Paieškos parinktys"
+
+msgid "Search:"
+msgstr ""
+
+msgid "Secant Function"
+msgstr "Sekanto funkcija"
+
+msgid "Section 1.01"
+msgstr "Skyrius 1.01"
+
+msgid "Section Break"
+msgstr "Skyriaus lūžis"
+
+msgid "Section Breaks"
+msgstr "Skyrių lūžiai"
+
+msgid "Section Character"
+msgstr "Skyriaus simbolis"
+
+msgid "Section direction:"
+msgstr "Skyriaus kryptis:"
+
+msgid "Section Mark"
+msgstr "Skyriaus žymė"
+
+msgid "Section Properties"
+msgstr "Skyriaus ypatybės"
+
+msgid "Sections"
+msgstr "Skyriai"
+
+msgid "See"
+msgstr "Žr."
+
+msgid "select a chart first"
+msgstr "pirmiausia pažymėkite diagramą"
+
+msgid "select a connector first"
+msgstr "pirmiausia pažymėkite jungtį"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "pirmiausia pažymėkite piešimo drobę"
+
+msgid "select a floating picture or shape first"
+msgstr "pirmiausia pažymėkite slankųjį paveikslėlį arba figūrą"
+
+msgid "select a group first"
+msgstr "pirmiausia pažymėkite grupę"
+
+msgid "select a picture first"
+msgstr "pirmiausia pažymėkite paveikslėlį"
+
+msgid "Select a picture first."
+msgstr ""
+
+msgid "select a picture or shape first"
+msgstr "pirmiausia pažymėkite paveikslėlį arba figūrą"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Pažymėkite paveikslėlį, figūrą, diagramą arba lentelę, kad ją aprašytumėte."
+
+msgid "Select a place in this document:"
+msgstr "Pasirinkite vietą šiame dokumente:"
+
+msgid "Select a printer"
+msgstr "Pasirinkite spausdintuvą"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "pirmiausia pažymėkite figūrą"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Pažymėkite figūrą, teksto lauką arba piešimo drobę, kad formatuotumėte jos užpildą."
+
+msgid "select a SmartArt graphic first"
+msgstr "pirmiausia pažymėkite SmartArt grafiką"
+
+msgid "select a text box first"
+msgstr "pirmiausia pažymėkite teksto lauką"
+
+msgid "select a text box linked to another first"
+msgstr "pirmiausia pažymėkite teksto lauką, susietą su kitu"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Pažymėti langelį"
+
+msgid "Select Column"
+msgstr "Pažymėti stulpelį"
+
+msgid "Select Heading and Content"
+msgstr "Pažymėti antraštę ir turinį"
+
+msgid "Select Line"
+msgstr "Pažymėti eilutę"
+
+msgid "Select Paragraph"
+msgstr "Pažymėti pastraipą"
+
+msgid "Select Picture…"
+msgstr ""
+
+msgid "Select Range"
+msgstr "Pažymėti diapazoną"
+
+msgid "Select Recipients"
+msgstr "Pasirinkti gavėjus"
+
+msgid "select recipients first"
+msgstr "pirmiausia pasirinkite gavėjus"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Pirmiausia pasirinkite gavėjus, kad galėtumėte rinktis iš jų laukų."
+
+msgid "Select recipients first to match their fields."
+msgstr "Pirmiausia pasirinkite gavėjus, kad susietumėte jų laukus."
+
+msgid "Select Row"
+msgstr "Pažymėti eilutę"
+
+msgid "Select Sentence"
+msgstr "Pažymėti sakinį"
+
+msgid "Select Table"
+msgstr "Pažymėti lentelę"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Žymėti lentelės langelius spustelėjant"
+
+msgid "Select Text"
+msgstr "Pažymėti tekstą"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Pažymėti panašiai formatuotą tekstą"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Pažymėkite tekstą, tada pažymėkite, kas dar gali jį redaguoti."
+
+msgid "select two or more cells to merge"
+msgstr "norėdami sujungti, pažymėkite du ar daugiau langelių"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "pirmiausia pažymėkite du ar daugiau paveikslėlių arba figūrų (Shift+spustelėjimas)"
+
+msgid "Select Word"
+msgstr "Pažymėti žodį"
+
+msgid "Select\nRecipients"
+msgstr "Pasirinkti\ngavėjus"
+
+msgid "Selected Fields"
+msgstr "Pasirinkti laukai"
+
+msgid "Selected text"
+msgstr "Pažymėtas tekstas"
+
+msgid "Selection Pane"
+msgstr "Žymėjimo sritis"
+
+msgid "Semitransparent"
+msgstr ""
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Siųskite dokumentą tiesiai į sistemos spausdinimo dialogo langą arba toliau įrašykite kopiją kitu formatu."
+
+msgid "Sentence"
+msgstr "Sakinys"
+
+msgid "Sentence case."
+msgstr "Kaip sakinyje."
+
+msgid "Separate text at"
+msgstr "Atskirti tekstą ties"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Skirtukas:"
+
+msgid "Sepia"
+msgstr "Sepija"
+
+msgid "Sequence name:"
+msgstr ""
+
+msgid "Serbian (Cyrillic)"
+msgstr "Serbų (kirilica)"
+
+msgid "Serbian (Latin)"
+msgstr "Serbų (lotynų rašmenys)"
+
+msgid "Series name"
+msgstr "Sekos pavadinimas"
+
+msgid "Series {n}"
+msgstr "Seka {n}"
+
+msgid "Set As Default"
+msgstr "Nustatyti kaip numatytąjį"
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Set As Default (Font)"
+msgstr ""
+
+msgid "Set As Default (Page Setup)"
+msgstr ""
+
+msgid "Set As Default (Paragraph)"
+msgstr ""
+
+msgid "Set as Default Language"
+msgstr ""
+
+msgid "Set Caret"
+msgstr "Nustatyti žymeklį"
+
+msgid "Set Character Formatting"
+msgstr "Nustatyti simbolių formatavimą"
+
+msgid "Set Date"
+msgstr "Nustatyti datą"
+
+msgid "Set Equation"
+msgstr "Nustatyti lygtį"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Nustatyti numeravimo reikšmę"
+
+msgid "Set Paragraph Formatting"
+msgstr "Nustatyti pastraipos formatavimą"
+
+msgid "Set Proofing Language…"
+msgstr "Nustatyti tikrinimo kalbą…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Parametras:"
+
+msgid "Shading"
+msgstr "Šešėliavimas"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Šešėlis, švytėjimas ir švelnūs kraštai"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Figūros užpildas"
+
+msgid "Shape Format"
+msgstr "Figūros formatas"
+
+msgid "Shape Outline"
+msgstr "Figūros kontūras"
+
+msgid "Shape Styles"
+msgstr "Figūrų stiliai"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Siuntų etiketės"
+
+msgid "Shortcut key:"
+msgstr "Spartusis klavišas:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Rodyti lygiavimo linijas perkeliant paveikslėlius ir figūras"
+
+msgid "Show all formatting marks"
+msgstr ""
+
+msgid "Show All Levels"
+msgstr "Rodyti visus lygius"
+
+msgid "Show all revisions inline"
+msgstr "Rodyti visus taisymus tekste"
+
+msgid "Show changes at:"
+msgstr "Rodyti keitimus ties:"
+
+msgid "Show changes in:"
+msgstr "Rodyti keitimus:"
+
+msgid "Show Comments"
+msgstr "Rodyti komentarus"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr ""
+
+msgid "Show every bibliography field"
+msgstr "Rodyti visus bibliografijos laukus"
+
+msgid "Show First Line Only"
+msgstr "Rodyti tik pirmą eilutę"
+
+msgid "Show in the Styles gallery"
+msgstr "Rodyti stilių galerijoje"
+
+msgid "Show its list number"
+msgstr "Rodyti jo sąrašo numerį"
+
+msgid "Show its number relative to this field"
+msgstr "Rodyti jo numerį šio lauko atžvilgiu"
+
+msgid "Show its number with all higher levels"
+msgstr "Rodyti jo numerį su visais aukštesniais lygiais"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr ""
+
+msgid "Show Level"
+msgstr "Rodyti lygį"
+
+msgid "Show Level 1"
+msgstr "Rodyti 1 lygį"
+
+msgid "Show Level 2"
+msgstr "Rodyti 2 lygį"
+
+msgid "Show Level 3"
+msgstr "Rodyti 3 lygį"
+
+msgid "Show Level 4"
+msgstr "Rodyti 4 lygį"
+
+msgid "Show Level 5"
+msgstr "Rodyti 5 lygį"
+
+msgid "Show Level 6"
+msgstr "Rodyti 6 lygį"
+
+msgid "Show Level 7"
+msgstr "Rodyti 7 lygį"
+
+msgid "Show Level 8"
+msgstr "Rodyti 8 lygį"
+
+msgid "Show Level 9"
+msgstr "Rodyti 9 lygį"
+
+msgid "Show Markup"
+msgstr "Rodyti žymėjimą"
+
+msgid "Show Notes"
+msgstr "Rodyti pastabas"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Debesėliuose rodyti tik komentarus ir formatavimą"
+
+msgid "Show only records that will be merged"
+msgstr "Rodyti tik įrašus, kurie bus sulieti"
+
+msgid "Show or Hide Style"
+msgstr "Rodyti arba slėpti stilių"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Rodyti sparčiosios prieigos įrankių juostą"
+
+msgid "Show revisions in balloons"
+msgstr "Rodyti taisymus debesėliuose"
+
+msgid "Show Text Formatting"
+msgstr "Rodyti teksto formatavimą"
+
+msgid "Show the Assistant"
+msgstr ""
+
+msgid "Show the community button in the title bar"
+msgstr "Rodyti bendruomenės mygtuką pavadinimo juostoje"
+
+msgid "Show the equation in the line of text"
+msgstr "Rodyti lygtį teksto eilutėje"
+
+msgid "Show the equation on a line of its own"
+msgstr "Rodyti lygtį atskiroje eilutėje"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr ""
+
+msgid "Show the ribbon"
+msgstr "Rodyti juostelę"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Rodyti pradžios ekraną paleidus WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr ""
+
+msgid "Show/Hide ¶"
+msgstr "Rodyti / slėpti ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show\nComments"
+msgstr "Rodyti\nkomentarus"
+
+msgid "Showing the first {count} items."
+msgstr "Rodomi pirmieji {count} elementai."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Rodo medį: kiekvienas elementas po elementu, kuriam jis priklauso."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Rodo elementus aplink centrinę idėją: pirmasis elementas yra centras."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Rodo vienodos svarbos elementus kaip blokus eilutėse."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Rodo persidengiančias idėjas kaip persidengiančius apskritimus."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Rodo visumos dalis kaip ketvirčius."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Rodo viena ant kitos statomas dalis, didžiausia apačioje."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Rodo žingsnius iš eilės, iš kairės į dešinę, su rodyklėmis tarp jų."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Rodo pasikartojančius žingsnius ratu."
+
+msgid "Shrink Font 1 Point"
+msgstr "Sumažinti šriftą 1 tašku"
+
+msgid "Shrink text"
+msgstr "Sutraukti tekstą"
+
+msgid "Side to Side"
+msgstr "Vienas šalia kito"
+
+msgid "Side\nto Side"
+msgstr "Vienas\nšalia kito"
+
+msgid "Sides of a right triangle"
+msgstr "Stačiojo trikampio kraštinės"
+
+msgid "Signature Line"
+msgstr "Parašo eilutė"
+
+msgid "Simple Frame"
+msgstr "Paprastas rėmelis"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "f(x) sinusų ir kosinusų eilutė"
+
+msgid "Sine Function"
+msgstr "Sinuso funkcija"
+
+msgid "Sine theta"
+msgstr "Sinusas teta"
+
+msgid "Singapore"
+msgstr ""
+
+msgid "Single"
+msgstr "Viengubas"
+
+msgid "Single Brackets"
+msgstr "Viengubi skliaustai"
+
+msgid "Single Closing Quote"
+msgstr "Viengubos uždaromosios kabutės"
+
+msgid "Single label"
+msgstr "Viena etiketė"
+
+msgid "Single Left Angle"
+msgstr "Viengubas kairysis kampinis skliaustas"
+
+msgid "Single Left Bar"
+msgstr "Viengubas kairysis brūkšnys"
+
+msgid "Single Left Brace"
+msgstr "Viengubas kairysis riestinis skliaustas"
+
+msgid "Single Left Bracket"
+msgstr "Viengubas kairysis laužtinis skliaustas"
+
+msgid "Single Left Parenthesis"
+msgstr "Viengubas kairysis lenktinis skliaustas"
+
+msgid "Single Opening Quote"
+msgstr "Viengubos atidaromosios kabutės"
+
+msgid "Single Right Brace"
+msgstr "Viengubas dešinysis riestinis skliaustas"
+
+msgid "Single Right Bracket"
+msgstr "Viengubas dešinysis laužtinis skliaustas"
+
+msgid "Single Right Parenthesis"
+msgstr "Viengubas dešinysis lenktinis skliaustas"
+
+msgid "Single Spacing"
+msgstr "Viengubi tarpai"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Svetainės pavadinimas"
+
+msgid "Size (pt):"
+msgstr "Dydis (pt):"
+
+msgid "Size and Crop…"
+msgstr "Dydis ir apkarpymas…"
+
+msgid "Sketchbook"
+msgstr "Eskizų sąsiuvinis"
+
+msgid "Skewed Fraction"
+msgstr "Įstrižoji trupmena"
+
+msgid "Skip citations & bibliography"
+msgstr "Praleisti citatas ir bibliografiją"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Praleisti citatas ir bibliografiją"
+
+msgid "Skip Record If"
+msgstr "Praleisti įrašą, jei"
+
+msgid "Skip Record If…"
+msgstr "Praleisti įrašą, jei…"
+
+msgid "Slant Down"
+msgstr "Nuolydis žemyn"
+
+msgid "Slant Up"
+msgstr "Nuolydis aukštyn"
+
+msgid "Slovak"
+msgstr ""
+
+msgid "Slovenian"
+msgstr ""
+
+msgid "Small caps"
+msgstr "Mažosios didžiosios"
+
+msgid "Small change"
+msgstr "Nedidelis pakeitimas"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Riestinės kabutės vietoj tiesių"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt dizainas"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt stiliai"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr ""
+
+msgid "Soft Edge"
+msgstr "Švelnus kraštas"
+
+msgid "Soft Edges"
+msgstr "Švelnūs kraštai"
+
+msgid "Soft Glow"
+msgstr "Švelnus švytėjimas"
+
+msgid "Solid Accent"
+msgstr "Vientisas akcentas"
+
+msgid "Solid fill"
+msgstr "Vientisas užpildas"
+
+msgid "Sometimes"
+msgstr ""
+
+msgid "Sort by:"
+msgstr "Rikiuoti pagal:"
+
+msgid "Sort order:"
+msgstr "Rikiavimo tvarka:"
+
+msgid "Sort Recipients"
+msgstr "Rikiuoti gavėjus"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Išeitinis kodas: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Šaltinių tvarkytuvas"
+
+msgid "Source type:"
+msgstr "Šaltinio tipas:"
+
+msgid "Sources in this document:"
+msgstr "Šaltiniai šiame dokumente:"
+
+msgid "South"
+msgstr "Pietūs"
+
+msgid "South Africa"
+msgstr ""
+
+msgid "Space"
+msgstr "Tarpas"
+
+msgid "Space after"
+msgstr "Tarpas po"
+
+msgid "Space after: {pt} pt"
+msgstr "Tarpas po: {pt} pt"
+
+msgid "Space before"
+msgstr "Tarpas prieš"
+
+msgid "Space before/after:"
+msgstr "Tarpas prieš / po:"
+
+msgid "Space before: {pt} pt"
+msgstr "Tarpas prieš: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Tarpai (pt):"
+
+msgid "Spain"
+msgstr ""
+
+msgid "Spanish (Latin America)"
+msgstr "Ispanų (Lotynų Amerika)"
+
+msgid "Spanish (Mexico)"
+msgstr "Ispanų (Meksika)"
+
+msgid "Spanish (Spain)"
+msgstr "Ispanų (Ispanija)"
+
+msgid "Spanish (Uruguay)"
+msgstr "Ispanų (Urugvajus)"
+
+msgid "Sparse Matrices"
+msgstr "Retosios matricos"
+
+msgid "Special Characters"
+msgstr "Specialieji simboliai"
+
+msgid "Specify height:"
+msgstr "Nurodyti aukštį:"
+
+msgid "Speech"
+msgstr "Kalba"
+
+msgid "Spelling & Grammar"
+msgstr "Rašyba ir gramatika"
+
+msgid "Spelling &\nGrammar"
+msgstr "Rašyba ir\ngramatika"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr ""
+
+msgid "Spelling Suggestions"
+msgstr "Rašybos pasiūlymai"
+
+msgid "Spike"
+msgstr "Smaigas"
+
+msgid "Split Cells"
+msgstr "Skaidyti langelius"
+
+msgid "Split Table"
+msgstr "Skaidyti lentelę"
+
+msgid "Spreadsheet Table"
+msgstr "Skaičiuoklės lentelė"
+
+msgid "Square Root"
+msgstr "Kvadratinė šaknis"
+
+msgid "Square Root with Degree"
+msgstr "Kvadratinė šaknis su laipsniu"
+
+msgid "Square Union"
+msgstr "Kvadratinė sąjunga"
+
+msgid "Stack Object"
+msgstr "Sudėtinis objektas"
+
+msgid "Stack Object (Three)"
+msgstr "Sudėtinis objektas (trys)"
+
+msgid "Stacked Bar"
+msgstr "Sudėtinė juosta"
+
+msgid "Stacked Column"
+msgstr "Sudėtinis stulpelis"
+
+msgid "Stacked Fraction"
+msgstr "Sudėtinė trupmena"
+
+msgid "Stacked, no bar"
+msgstr "Sudėtinė, be brūkšnio"
+
+msgid "Standard Colors"
+msgstr "Standartinės spalvos"
+
+msgid "Start Enforcing Protection"
+msgstr "Pradėti taikyti apsaugą"
+
+msgid "Start Mail Merge"
+msgstr "Pradėti laiškų suliejimą"
+
+msgid "Start Mail\nMerge"
+msgstr "Pradėti laiškų\nsuliejimą"
+
+msgid "Start-up"
+msgstr "Paleistis"
+
+msgid "State"
+msgstr "Būsena"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr ""
+
+msgid "Stop Protection"
+msgstr "Stabdyti apsaugą"
+
+msgid "Stop Reading"
+msgstr "Stabdyti skaitymą"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Sustabdyta"
+
+msgid "Straight Arrow Connector"
+msgstr "Tiesios rodyklės jungtis"
+
+msgid "Straight Connector"
+msgstr "Tiesi jungtis"
+
+msgid "Stroke {n} of {total}"
+msgstr "Brūkšnys {n} iš {total}"
+
+msgid "Strong"
+msgstr "Stiprus"
+
+msgid "Structure Actions"
+msgstr "Struktūros veiksmai"
+
+msgid "Structures"
+msgstr "Struktūros"
+
+msgid "Studio cover"
+msgstr "Studijos viršelis"
+
+msgid "Studio handbook (sample)"
+msgstr "Studijos vadovas (pavyzdys)"
+
+msgid "Style based on:"
+msgstr "Stilius pagrįstas:"
+
+msgid "Style Inspector"
+msgstr "Stilių tikrintuvas"
+
+msgid "Style name:"
+msgstr ""
+
+msgid "Style Set"
+msgstr "Stilių rinkinys"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Stilius: {style}"
+
+msgid "Styles Pane"
+msgstr "Stilių sritis"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stiliai:"
+
+msgid "Subentry:"
+msgstr "Papildomas įrašas:"
+
+msgid "Submit print job"
+msgstr "Pateikti spausdinimo užduotį"
+
+msgid "Submitting print job…"
+msgstr "Siunčiama spausdinimo užduotis…"
+
+msgid "Subscript-Superscript"
+msgstr "Apatinis ir viršutinis indeksas"
+
+msgid "Subscripts and Superscripts"
+msgstr "Apatiniai ir viršutiniai indeksai"
+
+msgid "Subset:"
+msgstr "Poaibis:"
+
+msgid "Subtle Emphasis"
+msgstr "Subtilus pabrėžimas"
+
+msgid "Subtle Reference"
+msgstr "Subtili nuoroda"
+
+msgid "Suggested"
+msgstr "Siūloma"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Suma"
+
+msgid "Sum of cosines"
+msgstr "Kosinusų suma"
+
+msgid "Sum or difference of sines"
+msgstr "Sinusų suma arba skirtumas"
+
+msgid "Summation"
+msgstr "Sumavimas"
+
+msgid "Summation from 0 to n"
+msgstr "Sumavimas nuo 0 iki n"
+
+msgid "Summation over binomials"
+msgstr "Sumavimas per binominius koeficientus"
+
+msgid "Summation with Limits"
+msgstr "Sumavimas su rėžiais"
+
+msgid "Summation with Lower Limit"
+msgstr "Sumavimas su apatiniu rėžiu"
+
+msgid "Summation with Subscript Limit"
+msgstr "Sumavimas su apatinio indekso rėžiu"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Sumavimas su apatinio ir viršutinio indekso rėžiais"
+
+msgid "Summations"
+msgstr "Sumos"
+
+msgid "Suppress line numbers"
+msgstr "Nerodyti eilučių numerių"
+
+msgid "Surface Integral"
+msgstr "Paviršinis integralas"
+
+msgid "Surface Integral with Limits"
+msgstr "Paviršinis integralas su rėžiais"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Paviršinis integralas su sudėtiniais rėžiais"
+
+msgid "Swahili"
+msgstr ""
+
+msgid "Swap footnotes and endnotes"
+msgstr "Sukeisti išnašas ir galines išnašas"
+
+msgid "Swedish"
+msgstr "Švedų"
+
+msgid "Switch Modes"
+msgstr "Perjungti režimus"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Perjungti\nrežimus"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr ""
+
+msgid "Synonyms"
+msgstr "Sinonimai"
+
+msgid "Syria"
+msgstr ""
+
+msgctxt "numerals"
+msgid "System"
+msgstr "Pagal sistemą"
+
+msgid "System dictionary"
+msgstr ""
+
+msgid "Tab Character"
+msgstr "Tabuliacijos simbolis"
+
+msgid "Tab character"
+msgstr "Tabuliacijos simbolis"
+
+msgid "Tab characters"
+msgstr ""
+
+msgid "Tab leader:"
+msgstr "Tabuliacijos užpildas:"
+
+msgid "Tab stop position:"
+msgstr "Tabuliavimo žymės padėtis:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Valytinos tabuliavimo žymės:"
+
+msgid "Table Column Width"
+msgstr "Lentelės stulpelio plotis"
+
+msgid "Table Design"
+msgstr "Lentelės dizainas"
+
+msgid "Table direction:"
+msgstr "Lentelės kryptis:"
+
+msgid "Table Grid"
+msgstr "Lentelės tinklelis"
+
+msgid "Table Layout"
+msgstr "Lentelės maketas"
+
+msgid "Table of Authorities"
+msgstr "Šaltinių rodyklė"
+
+msgid "Table of Contents"
+msgstr "Turinys"
+
+msgid "Table of Contents Options"
+msgstr "Turinio parinktys"
+
+msgid "Table of Contents Styles"
+msgstr "Turinio stiliai"
+
+msgid "Table of Figures"
+msgstr "Iliustracijų sąrašas"
+
+msgid "Table of\nContents"
+msgstr "Turi-\nnys"
+
+msgid "Table Properties"
+msgstr "Lentelės ypatybės"
+
+msgid "Table Properties…"
+msgstr "Lentelės ypatybės…"
+
+msgid "Table Row Height"
+msgstr "Lentelės eilutės aukštis"
+
+msgid "Table size"
+msgstr "Lentelės dydis"
+
+msgid "Table Style Options"
+msgstr "Lentelės stiliaus parinktys"
+
+msgid "Table Styles"
+msgstr "Lentelių stiliai"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Tabuliavimas…"
+
+msgid "Tabular List"
+msgstr "Lentelinis sąrašas"
+
+msgid "Tag"
+msgstr "Žyma"
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "Take the last match on the page"
+msgstr "Imti paskutinį atitikmenį puslapyje"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr ""
+
+msgid "Tamil"
+msgstr ""
+
+msgid "Tangent formula"
+msgstr "Tangento formulė"
+
+msgid "Tangent Function"
+msgstr "Tangento funkcija"
+
+msgid "TC entry fields"
+msgstr "TC įrašų laukai"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Technologijos"
+
+msgid "Templates and Add-ins"
+msgstr "Šablonai ir papildiniai"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Čia rodomi šablonai, kuriuos įrašote savo šablonų aplanke."
+
+msgid "Text Box"
+msgstr "Teksto laukas"
+
+msgid "Text boxes"
+msgstr "Teksto laukai"
+
+msgid "text boxes can't go inside a text box"
+msgstr "teksto laukai negali būti teksto lauko viduje"
+
+msgid "Text Direction"
+msgstr "Teksto kryptis"
+
+msgid "Text Effects"
+msgstr "Teksto efektai"
+
+msgid "Text Effects and Typography"
+msgstr "Teksto efektai ir tipografija"
+
+msgid "Text Fill"
+msgstr "Teksto užpildas"
+
+msgid "Text from File"
+msgstr "Tekstas iš failo"
+
+msgid "Text Highlight Color"
+msgstr "Teksto paryškinimo spalva"
+
+msgid "Text indent at:"
+msgstr "Teksto įtrauka ties:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Artimiausios pastraipos su nurodytu stiliumi tekstas (kintamosios antraštės)"
+
+msgid "Text Outline"
+msgstr "Teksto kontūras"
+
+msgid "Text over Colon Equal"
+msgstr "Tekstas virš dvitaškio lygu"
+
+msgid "Text over Equal"
+msgstr "Tekstas virš lygu"
+
+msgid "Text Pane"
+msgstr "Teksto sritis"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Teksto dydis"
+
+msgid "Text snaps to characters"
+msgstr "Tekstas lygiuojamas pagal simbolius"
+
+msgid "Text to display:"
+msgstr "Rodomas tekstas:"
+
+msgid "Text watermark"
+msgstr ""
+
+msgid "Text Wrapping"
+msgstr "Teksto laužymas"
+
+msgid "Text\nBox"
+msgstr "Teksto\nlaukas"
+
+msgid "Text\nDirection"
+msgstr "Teksto\nkryptis"
+
+msgid "Thai"
+msgstr ""
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Šis formatas visko neišsaugo, todėl dokumentas tebėra atidarytas. Norėdami tęsti, įrašykite jį kaip „Word“ dokumentą (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Slaptažodis neteisingas. Patikrinkite jį (slaptažodžiuose skiriamos didžiosios ir mažosios raidės) ir bandykite dar kartą."
+
+msgid "The clipboard is empty."
+msgstr "Iškarpinė tuščia."
+
+msgid "the Clipboard pane is empty"
+msgstr "iškarpinės sritis tuščia"
+
+msgid "the cursor isn't in a table"
+msgstr "žymeklis ne lentelėje"
+
+msgid "The date it is today"
+msgstr "Šiandienos data"
+
+msgid "The document has no bookmarks yet."
+msgstr "Dokumente dar nėra žymelių."
+
+msgid "the document is protected"
+msgstr "dokumentas apsaugotas"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Dokumentas tik skaitomas, išskyrus redaguojamomis pažymėtas sritis."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Dokumentas bus įrašytas su slaptažodžiu. Įrašykite jį, kad apsaugotumėte."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr ""
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr ""
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Matmuo turi būti nuo {min} iki {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Naujasis stilius perima dabartinės pastraipos formatavimą."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr ""
+
+msgid "The number must be a divisor of {max}."
+msgstr "Skaičius turi būti {max} daliklis."
+
+msgid "The number must be between 1 and {max}."
+msgstr "Skaičius turi būti nuo 1 iki {max}."
+
+msgid "the paragraph is empty"
+msgstr "pastraipa tuščia"
+
+msgid "the paragraph starts with a space"
+msgstr "pastraipa prasideda tarpu"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Slaptažodis neprivalomas; be jo apsaugą gali išjungti bet kas."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Slaptažodis pašalintas. Įrašykite dokumentą, kad pakeitimas išliktų."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Spausdintuvas, dvipusis spausdinimas ir puslapių skaičius lape pasirenkami tame dialogo lange."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Gavėjų sąrašo laukas, kuris užpildo kiekvieną adreso bloko ir pasisveikinimo eilutės dalį."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Rašybos ir gramatikos tikrinimas baigtas."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "Kalbos „{language}“ rašybos žodyno nepavyko nuskaityti, todėl ji netikrinama. Failas: {file}. Priežastis: {reason}"
+
+msgid "the Spike is empty"
+msgstr "smaigas tuščias"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Sistemos failų dialogo langas nepasiekiamas, todėl WordCraft rodo savo. Norėdami gauti sistemos dialogo langą, įdiekite failų parinkimo portalą (pvz., xdg-desktop-portal-gtk) arba zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr ""
+
+msgid "The time right now"
+msgstr "Dabartinis laikas"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Temos spalvos"
+
+msgid "Theme Fonts"
+msgstr "Temos šriftai"
+
+msgid "Theme List"
+msgstr "Temos sąrašas"
+
+msgid "Themes"
+msgstr "Temos"
+
+msgid "Then by"
+msgstr "Tada pagal"
+
+msgid "Then insert:"
+msgstr "Tada įterpti:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "nėra rašalo, kurį būtų galima pakartoti"
+
+msgid "there is nothing to undo"
+msgstr "nėra ko anuliuoti"
+
+msgid "there's no citation after the caret"
+msgstr "po žymekliu nėra citatos"
+
+msgid "Thesaurus"
+msgstr "Tezauras"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr ""
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Šių suliejimo laukų gavėjų sąraše nėra:"
+
+msgid "These settings will be used for new documents."
+msgstr "Šie parametrai bus naudojami naujiems dokumentams."
+
+msgid "Thick"
+msgstr "Storas"
+
+msgid "Thick Frame"
+msgstr "Storas rėmelis"
+
+msgid "Thin"
+msgstr "Plonas"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "To negalima anuliuoti. Jūsų pradinis failas lieka nepakeistas."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "ši diagrama sukurta kita programa: WordCraft ją rodo, bet negali redaguoti"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "Šis dokumentas"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr ""
+
+msgid "This field has no options."
+msgstr ""
+
+msgid "This folder can't be read: {error}"
+msgstr "Šio aplanko nepavyksta nuskaityti: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Šis šriftas neturi rodomų simbolių."
+
+msgid "this item is already at the top level"
+msgstr "šis elementas jau aukščiausiame lygyje"
+
+msgid "This page"
+msgstr "Šis puslapis"
+
+msgid "This password type isn't supported."
+msgstr "Šis slaptažodžio tipas nepalaikomas."
+
+msgid "This point forward"
+msgstr ""
+
+msgid "This section"
+msgstr "Šis skyrius"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr ""
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr ""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "šis SmartArt sukurtas kita programa: WordCraft jį rodo, bet negali redaguoti"
+
+msgid "this text box is already linked: break the link first"
+msgstr "šis teksto laukas jau susietas: pirmiausia nutraukite saitą"
+
+msgid "Three"
+msgstr "Trys"
+
+msgid "Through"
+msgstr "Kiaurai"
+
+msgid "Tight"
+msgstr "Glaudus"
+
+msgid "Tilde"
+msgstr "Tildė"
+
+msgid "Tip"
+msgstr ""
+
+msgid "Tips ({n})"
+msgstr "Patarimai ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Pavadinimas"
+
+msgid "Title Bar"
+msgstr "Pavadinimo juosta"
+
+msgid "Title from the document properties"
+msgstr "Pavadinimas iš dokumento ypatybių"
+
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr ""
+
+msgid "To:"
+msgstr "Kam:"
+
+msgid "TOA Heading"
+msgstr "Šaltinių rodyklės antraštė"
+
+msgid "TOC Heading"
+msgstr "Turinio antraštė"
+
+msgid "TOC {n}"
+msgstr "Turinys {n}"
+
+msgid "Today"
+msgstr "Šiandien"
+
+msgid "tOGGLE cASE"
+msgstr "kEISTI rAIDŽIŲ dYDĮ"
+
+msgid "Toggle Check Box"
+msgstr "Perjungti žymės langelį"
+
+msgid "Toggle Field Codes"
+msgstr "Perjungti laukų kodus"
+
+msgid "Toggle Unicode Character"
+msgstr "Perjungti Unikodo simbolį"
+
+msgid "Top and Bottom"
+msgstr "Viršuje ir apačioje"
+
+msgid "Top Border"
+msgstr "Viršutinė kraštinė"
+
+msgid "Top Left Cell"
+msgstr "Viršutinis kairysis langelis"
+
+msgid "Top Margin"
+msgstr "Viršutinė paraštė"
+
+msgid "Top of Page"
+msgstr "Puslapio viršus"
+
+msgid "Top of the Document"
+msgstr "Dokumento pradžia"
+
+msgid "Top Right Cell"
+msgstr "Viršutinis dešinysis langelis"
+
+msgid "Total Row"
+msgstr "Sumų eilutė"
+
+msgid "Track Changes"
+msgstr "Sekti keitimus"
+
+msgid "Track Changes Options"
+msgstr "Keitimų sekimo parinktys"
+
+msgid "Track Changes: On"
+msgstr "Keitimų sekimas: įjungtas"
+
+msgid "Track formatting"
+msgstr "Sekti formatavimą"
+
+msgid "Track\nChanges"
+msgstr "Sekti\nkeitimus"
+
+msgid "Track\nChanges ✓"
+msgstr "Sekti\nkeitimus ✓"
+
+msgid "Tracked changes"
+msgstr "Sekami keitimai"
+
+msgid "Trademark"
+msgstr "Prekių ženklas"
+
+msgid "Trademark Sign"
+msgstr "Prekių ženklo simbolis"
+
+msgid "Transparency:"
+msgstr ""
+
+msgid "Transport"
+msgstr "Transportas"
+
+msgid "Triangle Down"
+msgstr "Trikampis žemyn"
+
+msgid "Triangle Up"
+msgstr "Trikampis aukštyn"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometrinės funkcijos"
+
+msgid "Triple"
+msgstr "Trigubas"
+
+msgid "Triple Dot"
+msgstr "Trys taškai"
+
+msgid "Triple Integral"
+msgstr "Trigubas integralas"
+
+msgid "Triple Integral with Limits"
+msgstr "Trigubas integralas su rėžiais"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Trigubas integralas su sudėtiniais rėžiais"
+
+msgid "Trust Center"
+msgstr ""
+
+msgid "Tue"
+msgstr "An"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turkų"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Du"
+
+msgid "Two-sided printing"
+msgstr "Dvipusis spausdinimas"
+
+msgid "Two-sided: long edge"
+msgstr "Dvipusis: ilgasis kraštas"
+
+msgid "Two-sided: short edge"
+msgstr "Dvipusis: trumpasis kraštas"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Įveskite +2 arba -1, kad pereitumėte nuo dabartinio puslapio."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Įveskite komandą, pvz., „įterpti lentelę“"
+
+msgid "Type a New List…"
+msgstr "Įvesti naują sąrašą…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Įveskite puslapio numerį arba +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Įveskite dydį bet kokiais vienetais, pvz., 5 cm arba 300 px. Kita kraštinė prisitaiko, todėl paveikslėlio proporcijos išlieka."
+
+msgid "Type at least one recipient."
+msgstr "Įveskite bent vieną gavėją."
+
+msgid "Type Character Code"
+msgstr "Įvesti simbolio kodą"
+
+msgid "Type equations in LaTeX"
+msgstr "Rašyti lygtis LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Rašyti lygtis linijiniu formatu (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Rašyti lygtyje"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Rašyti įprastą (nematematinį) tekstą lygtyje"
+
+msgid "Type Text"
+msgstr "Rašyti tekstą"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Įveskite kategorijas kairėje ir po vertės stulpelį kiekvienai sekai."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr ""
+
+msgid "Type the password to stop the protection."
+msgstr "Įveskite slaptažodį, kad išjungtumėte apsaugą."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Įveskite gavėjus arba įkelkite juos iš failo."
+
+msgid "Typing replaces selected text"
+msgstr "Rašomas tekstas pakeičia pažymėtą tekstą"
+
+msgid "U.A.E."
+msgstr ""
+
+msgid "Ukraine"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr "Ukrainiečių"
+
+msgid "Unchecked symbol"
+msgstr "Nepažymėtas simbolis"
+
+msgid "Underbar"
+msgstr "Brūkšnys apačioje"
+
+msgid "Underbrace"
+msgstr "Riestinis skliaustas apačioje"
+
+msgid "Underline Color"
+msgstr "Pabraukimo spalva"
+
+msgid "Underline color"
+msgstr "Pabraukimo spalva"
+
+msgid "Underline Words Only"
+msgstr "Pabraukti tik žodžius"
+
+msgid "Undo 1 Action"
+msgstr "Anuliuoti 1 veiksmą"
+
+msgid "Undo Actions"
+msgstr "Anuliuoti veiksmus"
+
+msgid "Undo History"
+msgstr "Anuliavimo istorija"
+
+msgid "Undo {n} Actions"
+msgstr "Anuliuoti veiksmų: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr ""
+
+msgid "Unformatted Text"
+msgstr "Neformatuotas tekstas"
+
+msgid "Union of intersections"
+msgstr "Sankirtų sąjunga"
+
+msgid "Union with Limits"
+msgstr "Sąjunga su rėžiais"
+
+msgid "Union with Lower Limit"
+msgstr "Sąjunga su apatiniu rėžiu"
+
+msgid "Union with Plus"
+msgstr "Sąjunga su pliusu"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Sąjunga su apatinio ir viršutinio indekso rėžiais"
+
+msgid "Unions and Intersections"
+msgstr "Sąjungos ir sankirtos"
+
+msgid "United Kingdom"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "Atsieti laukus"
+
+msgid "Unlink\nCitations"
+msgstr "Atsieti\ncitatas"
+
+msgid "Unlock Fields"
+msgstr "Atrakinti laukus"
+
+msgid "Up Diagonal Dots"
+msgstr "Įstrižiniai taškai aukštyn"
+
+msgid "Up one level"
+msgstr "Lygiu aukštyn"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Naujinti lauką"
+
+msgid "Update fields before printing"
+msgstr ""
+
+msgid "Update Index"
+msgstr "Naujinti rodyklę"
+
+msgid "Update Style to Match Selection"
+msgstr "Naujinti stilių pagal pažymėtą sritį"
+
+msgid "Update Styles from Template"
+msgstr "Naujinti stilius iš šablono"
+
+msgid "Update Table"
+msgstr "Naujinti lentelę"
+
+msgid "Update Table of Figures"
+msgstr "Naujinti iliustracijų sąrašą"
+
+msgid "Update to Match"
+msgstr "Naujinti pagal"
+
+msgid "Update to Match Selection"
+msgstr "Naujinti pagal pažymėtą sritį"
+
+msgid "URGENT"
+msgstr "SKUBU"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr ""
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Vartoti „a“ prieš priebalsio garsą"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Vartoti „an“ prieš balsio garsą"
+
+msgid "Use an Existing List…"
+msgstr "Naudoti esamą sąrašą…"
+
+msgid "Use system setting"
+msgstr "Naudoti sistemos nuostatą"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Naudoti naršyklės viso ekrano režimą (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr ""
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr ""
+
+msgid "Use this formatting as the default for:"
+msgstr ""
+
+msgid "Use wildcards"
+msgstr "Naudoti pakaitos simbolius"
+
+msgid "User Name"
+msgstr ""
+
+msgid "User name:"
+msgstr "Vartotojo vardas:"
+
+msgid "User templates:"
+msgstr ""
+
+msgid "Vector A"
+msgstr "Vektorius A"
+
+msgid "Vector AB"
+msgstr "Vektorius AB"
+
+msgid "Venezuela"
+msgstr ""
+
+msgid "Version History"
+msgstr "Versijų istorija"
+
+msgid "Version {version} ({build})"
+msgstr "Versija {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Vertikali lygiuotė:"
+
+msgid "Vertical Bars"
+msgstr "Vertikalūs brūkšniai"
+
+msgid "Vertical Dots"
+msgstr "Vertikalūs taškai"
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View Alt Text…"
+msgstr "Peržiūrėti alternatyvųjį tekstą…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Rodyti tinklelio linijas"
+
+msgid "View State"
+msgstr "Rodinio būsena"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr ""
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Rodiniai"
+
+msgid "Visual effects"
+msgstr "Vaizdo efektai"
+
+msgid "Vivid 200%"
+msgstr "Ryškus 200 %"
+
+msgid "Volume"
+msgstr "Garsumas"
+
+msgid "Volume Integral"
+msgstr "Tūrinis integralas"
+
+msgid "Volume Integral with Limits"
+msgstr "Tūrinis integralas su rėžiais"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Tūrinis integralas su sudėtiniais rėžiais"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Prieš uždarydami palaukite, kol spausdinimo užduotis bus pateikta."
+
+msgid "Waiting for the save to finish…"
+msgstr "Laukiama, kol baigsis įrašymas…"
+
+msgid "Waiting for Zotero…"
+msgstr "Laukiama Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Šiltas gradientas su kontūru"
+
+msgid "Warnings ({n})"
+msgstr "Įspėjimai ({n})"
+
+msgid "Washout"
+msgstr "Išblukinta"
+
+msgid "Weather"
+msgstr "Orai"
+
+msgid "Web Layout"
+msgstr "Žiniatinklio maketas"
+
+msgid "Web page (*.html)"
+msgstr "Tinklalapis (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Žiniatinklio\nmaketas"
+
+msgid "Wed"
+msgstr "Tr"
+
+msgid "Welsh"
+msgstr ""
+
+msgid "West"
+msgstr "Vakarai"
+
+msgid "When this document was first created"
+msgstr "Kada šis dokumentas buvo sukurtas"
+
+msgid "When this document was most recently printed"
+msgstr "Kada šis dokumentas buvo paskutinį kartą išspausdintas"
+
+msgid "When this document was most recently saved"
+msgstr "Kada šis dokumentas buvo paskutinį kartą įrašytas"
+
+msgid "White Space"
+msgstr "Tuščia vieta"
+
+msgid "White space"
+msgstr "Tuščia vieta"
+
+msgid "Who the document properties name as author"
+msgstr "Kas dokumento ypatybėse nurodytas kaip autorius"
+
+msgid "Whole document"
+msgstr "Visas dokumentas"
+
+msgid "Whole page"
+msgstr "Visas puslapis"
+
+msgid "Whole Table"
+msgstr "Visa lentelė"
+
+msgid "Whole words"
+msgstr "Tik ištisi žodžiai"
+
+msgid "Wide"
+msgstr "Platus"
+
+msgid "Widow/Orphan Control"
+msgstr "Našlaičių eilučių valdymas"
+
+msgid "Widow/Orphan control"
+msgstr "Našlaičių eilučių valdymas"
+
+msgid "Width and spacing"
+msgstr ""
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "Su:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML dokumentas (*.xml)"
+
+msgid "Word Count"
+msgstr "Žodžių skaičius"
+
+msgid "Word document"
+msgstr "„Word“ dokumentas"
+
+msgid "Word document (*.docx)"
+msgstr "„Word“ dokumentas (*.docx)"
+
+msgid "Word Left"
+msgstr "Žodis kairėn"
+
+msgid "Word level"
+msgstr "Žodžio lygis"
+
+msgid "Word Right"
+msgstr "Žodis dešinėn"
+
+msgid "Word sources"
+msgstr "„Word“ šaltiniai"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML dokumentas (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt stiliai"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "Dabar WordCraft yra numatytoji „Word“ dokumentų programa."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Tik žodžiai"
+
+msgid "Wrap Text"
+msgstr "Laužyti tekstą"
+
+msgid "Wrap Text Sides"
+msgstr "Laužymo pusės"
+
+msgid "Wrap\nText"
+msgstr "Laužyti\ntekstą"
+
+msgid "Write & Insert Fields"
+msgstr "Rašyti ir įterpti laukus"
+
+msgid "Write a reply"
+msgstr "Rašyti atsakymą"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr ""
+
+msgid "x bar"
+msgstr "x su brūkšniu"
+
+msgid "Year"
+msgstr "Metai"
+
+msgid "Yields"
+msgstr "Duoda"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr ""
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr ""
+
+msgid "Your document is now the most saved document in history."
+msgstr ""
+
+msgid "Your languages"
+msgstr ""
+
+msgid "Your own dictionary"
+msgstr ""
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr ""
+
+msgid "Your system has animation effects turned off."
+msgstr "Jūsų sistemoje animacijos efektai išjungti."
+
+msgid "Your system has animation effects turned on."
+msgstr ""
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: atšaukta"
+
+msgid "Zotero: done"
+msgstr "Zotero: atlikta"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; nepavyko nuskaityti ({count}): {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; praleista {n} (riba {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Lentelė {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Bendraautorių: {contributors} · keitimų: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Paryškinta elementų: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Bus išspausdinta puslapių: {count} iš {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Bus sulieta gavėjų: {count} iš {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group}: parametrai"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "{key} turns the selected text into a link."
+msgstr ""
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+spustelėkite, kad atidarytumėte saitą"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr ""
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (žodyno nepavyko nuskaityti)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (nėra žodyno)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} dabar yra numatytoji dokumento kalba."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr ""
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr ""
+
+msgid "{language}: {file}"
+msgstr ""
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} ir dar {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} in"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} jau yra. Norėdami jį pakeisti, dar kartą pasirinkite „Įrašyti“."
+
+msgid "{name} is protected with a password."
+msgstr "{name} apsaugotas slaptažodžiu."
+
+msgid "{name} options"
+msgstr "{name}: parinktys"
+
+msgid "{name} wasn't found."
+msgstr "{name} nerastas."
+
+msgid "{n} entries marked."
+msgstr "Pažymėta įrašų: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Eilučių: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "{selected} iš {words} žodžių"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pikselių"
+
+msgid "{words} words"
+msgstr "Žodžių: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr ""
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr ""
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr ""
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}“ ({row}, {series}) nėra skaičius."
+
+msgid "✓ None"
+msgstr "✓ Nėra"
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

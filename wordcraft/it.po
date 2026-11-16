@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Tutti)"
+
+msgid "(no style)"
+msgstr "(nessuno stile)"
+
+msgid "(no suggestions)"
+msgstr "(nessun suggerimento)"
+
+msgid "(normal text)"
+msgstr "(testo normale)"
+
+msgid "(not matched)"
+msgstr "(non associato)"
+
+msgid "(picture or object)"
+msgstr "(immagine o oggetto)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr "*Grassetto* e _corsivo_ con formattazione reale"
+
+msgid "0 or More Characters"
+msgstr "0 o più caratteri"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Restrizioni di formattazione"
+
+msgid "1.5 Line Spacing"
+msgstr "Interlinea 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Spazio 1/4 em"
+
+msgid "1×2 Empty Matrix"
+msgstr "Matrice vuota 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Matrice vuota 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Restrizioni di modifica"
+
+msgid "2×1 Empty Matrix"
+msgstr "Matrice vuota 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Determinante 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Matrice vuota 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Matrice identità 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Matrice identità 2×2 (sparsa)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Matrice 2×2 tra parentesi quadre"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Matrice 2×2 tra doppie barre"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Matrice 2×2 tra parentesi tonde"
+
+msgid "2×3 Empty Matrix"
+msgstr "Matrice vuota 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Applica la protezione"
+
+msgid "3×1 Empty Matrix"
+msgstr "Matrice vuota 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Matrice vuota 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Matrice vuota 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Matrice identità 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Matrice identità 3×3 (sparsa)"
+
+msgid "<< Less"
+msgstr "<< Meno"
+
+msgid "<< Remove"
+msgstr "<< Rimuovi"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "un diagramma può contenere al massimo {MAX_ITEMS} elementi"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "un'area di disegno non può essere separata"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "un'area di disegno non può stare in una casella di testo"
+
+msgid "A file dialog is already open."
+msgstr "È già aperta una finestra di dialogo dei file."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Un elaboratore di testi gratuito e open source, scritto da zero in Rust.\nFa parte delle Crafting Apps del team ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "un gruppo con inchiostro di Word non può ancora essere separato"
+
+msgid "A mail merge field"
+msgstr "Un campo di stampa unione"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Una sequenza numerata (figure, tabelle…)"
+
+msgid "A password is required to open this document."
+msgstr "Per aprire questo documento è necessaria una password."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Un sommario"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz ÀàÈé"
+
+msgid "About WordCraft"
+msgstr "Informazioni su WordCraft"
+
+msgid "Above Chart"
+msgstr "Sopra il grafico"
+
+msgid "Above the item"
+msgstr "Sopra l'elemento"
+
+msgid "Above/below"
+msgstr "Sopra/sotto"
+
+msgid "Absolute value cases"
+msgstr "Casi del valore assoluto"
+
+msgid "Accent"
+msgstr "Accento"
+
+msgid "Accent Gradient"
+msgstr "Sfumatura colore"
+
+msgid "Accent with Reflection"
+msgstr "Colore con riflesso"
+
+msgid "Accent {n}"
+msgstr "Colore {n}"
+
+msgid "Accents"
+msgstr "Accenti"
+
+msgid "Accept"
+msgstr "Accetta"
+
+msgid "Accept All Changes"
+msgstr "Accetta tutte le modifiche"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Accetta questa modifica"
+
+msgid "Accessed on"
+msgstr "Consultato il"
+
+msgid "Accessibility Pane"
+msgstr "Riquadro Accessibilità"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Acute"
+msgstr "Accento acuto"
+
+msgid "Add >>"
+msgstr "Aggiungi >>"
+
+msgid "Add a language"
+msgstr "Aggiungi una lingua"
+
+msgid "Add a language…"
+msgstr "Aggiungi una lingua…"
+
+msgid "Add a period with double-space"
+msgstr "Aggiungi un punto con doppio spazio"
+
+msgid "Add a Table"
+msgstr "Aggiungi una tabella"
+
+msgid "Add at least one field."
+msgstr "Aggiungi almeno un campo."
+
+msgid "Add Chart Element"
+msgstr "Aggiungi elemento grafico"
+
+msgid "Add Condition"
+msgstr "Aggiungi condizione"
+
+msgid "Add Field"
+msgstr "Aggiungi campo"
+
+msgid "Add Font…"
+msgstr "Aggiungi carattere…"
+
+msgid "Add gradient stop"
+msgstr "Aggiungi punto di sfumatura"
+
+msgid "Add line numbering"
+msgstr "Aggiungi numerazione righe"
+
+msgid "Add New Source…"
+msgstr "Aggiungi nuova fonte…"
+
+msgid "Add Object to Selection"
+msgstr "Aggiungi oggetto alla selezione"
+
+msgid "Add Pen"
+msgstr "Aggiungi penna"
+
+msgid "Add Row"
+msgstr "Aggiungi riga"
+
+msgid "Add Series"
+msgstr "Aggiungi serie"
+
+msgid "Add Shape"
+msgstr "Aggiungi forma"
+
+msgid "Add Space Before Paragraph"
+msgstr "Aggiungi spazio prima del paragrafo"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Aggiungi spazio tra testo asiatico e latino"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Aggiungi spazio tra testo asiatico e numeri"
+
+msgid "Add tab stop at:"
+msgstr "Aggiungi tabulazione a:"
+
+msgid "Add Text"
+msgstr "Aggiungi testo"
+
+msgid "Add the chapter number"
+msgstr "Aggiungi il numero di capitolo"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Aggiungi al documento"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Aggiungi alla barra di accesso rapido"
+
+msgid "Add to Style Gallery"
+msgstr "Aggiungi alla raccolta stili"
+
+msgid "Add whether it is above or below"
+msgstr "Aggiungi se si trova più in alto o più in basso"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Aggiungi/modifica\nbibliografia"
+
+msgid "Add/Edit\nCitation"
+msgstr "Aggiungi/modifica\ncitazione"
+
+msgid "Add\nNote"
+msgstr "Aggiungi\nnota"
+
+msgid "Add\nPen"
+msgstr "Aggiungi\npenna"
+
+msgid "Add\nShape"
+msgstr "Aggiungi\nforma"
+
+msgid "Added 1 font"
+msgstr "1 tipo di carattere aggiunto"
+
+msgid "Added Fonts"
+msgstr "Caratteri aggiunti"
+
+msgid "Added {n} fonts"
+msgstr "{n} tipi di carattere aggiunti"
+
+msgid "Address"
+msgstr "Indirizzo"
+
+msgid "Address Block"
+msgstr "Blocco di indirizzi"
+
+msgid "Address labels"
+msgstr "Etichette per indirizzi"
+
+msgid "Address:"
+msgstr "Indirizzo:"
+
+msgid "Address\nBlock"
+msgstr "Blocco di\nindirizzi"
+
+msgid "Advanced Find"
+msgstr "Ricerca avanzata"
+
+msgid "Advanced Find…"
+msgstr "Ricerca avanzata…"
+
+msgid "Advanced Properties…"
+msgstr "Proprietà avanzate…"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "After:"
+msgstr "Dopo:"
+
+msgid "Agents"
+msgstr "Agenti"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Gli agenti collegati a WordCraft possono mostrarti messaggi tramite l'assistente. Se disattivati, viene comunicato loro che preferisci di no."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ah, il latino. La lingua ufficiale delle scadenze."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ah, la fase di revisione. La mia preferita. Molto decisa."
+
+msgid "Albanian"
+msgstr "Albanese"
+
+msgid "Align Bottom Center"
+msgstr "Allinea in basso al centro"
+
+msgid "Align Bottom Left"
+msgstr "Allinea in basso a sinistra"
+
+msgid "Align Bottom Right"
+msgstr "Allinea in basso a destra"
+
+msgid "Align Center"
+msgstr "Allinea al centro"
+
+msgid "Align Center Left"
+msgstr "Allinea al centro a sinistra"
+
+msgid "Align Center Right"
+msgstr "Allinea al centro a destra"
+
+msgid "Align Top Center"
+msgstr "Allinea in alto al centro"
+
+msgid "Align Top Left"
+msgstr "Allinea in alto a sinistra"
+
+msgid "Align Top Right"
+msgstr "Allinea in alto a destra"
+
+msgid "Aligned at:"
+msgstr "Allineato a:"
+
+msgid "All - Linear"
+msgstr "Tutto - Lineare"
+
+msgid "All - Professional"
+msgstr "Tutto - Professionale"
+
+msgid "All Borders"
+msgstr "Tutti i bordi"
+
+msgid "All caps"
+msgstr "Tutto maiuscolo"
+
+msgid "All Commands"
+msgstr "Tutti i comandi"
+
+msgid "All documents based on the Normal template?"
+msgstr "Tutti i documenti basati sul modello Normale?"
+
+msgid "All Fonts"
+msgstr "Tutti i caratteri"
+
+msgid "All Levels"
+msgstr "Tutti i livelli"
+
+msgid "All Markup"
+msgstr "Tutte le revisioni"
+
+msgid "All pages in the range"
+msgstr "Tutte le pagine dell'intervallo"
+
+msgid "All symbol sets"
+msgstr "Tutti i set di simboli"
+
+msgid "All system fonts are already available."
+msgstr "Tutti i caratteri di sistema sono già disponibili."
+
+msgid "Allow hanging punctuation"
+msgstr "Consenti punteggiatura sospesa"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Consenti di dividere il testo latino a metà parola"
+
+msgid "Allow line breaks"
+msgstr "Consenti ritorni a capo"
+
+msgid "Allow row to break across pages"
+msgstr "Consenti la divisione della riga tra le pagine"
+
+msgid "Alphabetical"
+msgstr "Alfabetico"
+
+msgid "Alt Text"
+msgstr "Testo alternativo"
+
+msgid "Alt text"
+msgstr "Testo alternativo"
+
+msgid "Alt Text Pane"
+msgstr "Riquadro Testo alternativo"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Testo\nalternativo"
+
+msgid "an agent"
+msgstr "un agente"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Un pacchetto lingua installato viene usato dopo questa cartella."
+
+msgid "And"
+msgstr "E"
+
+msgid "Angle Brackets"
+msgstr "Parentesi angolari"
+
+msgid "Angle Brackets with Separator"
+msgstr "Parentesi angolari con separatore"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Parentesi angolari con due separatori"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Anima il cursore (scorre e sfuma)"
+
+msgid "Animation effects:"
+msgstr "Effetti di animazione:"
+
+msgid "Annotation Reference"
+msgstr "Rimando commento"
+
+msgid "Annotation Subject"
+msgstr "Oggetto commento"
+
+msgid "Annotation Text"
+msgstr "Testo commento"
+
+msgid "Annoying"
+msgstr "Assillante"
+
+msgid "Another file"
+msgstr "Un altro file"
+
+msgid "Any Character"
+msgstr "Qualsiasi carattere"
+
+msgid "Any Digit"
+msgstr "Qualsiasi cifra"
+
+msgid "Any field"
+msgstr "Qualsiasi campo"
+
+msgid "Any Letter"
+msgstr "Qualsiasi lettera"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Chiunque può aprire questo documento. Crittografalo con una password per mantenerlo privato."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Chiunque apra il documento avrà bisogno di questa password."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Applica durante la digitazione"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Applica le regole asiatiche di interruzione di riga (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Applica formattazione a:"
+
+msgid "Apply Style"
+msgstr "Applica stile"
+
+msgid "Apply Styles"
+msgstr "Applica stili"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Arco in giù"
+
+msgid "Arch Up"
+msgstr "Arco in su"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenian"
+msgstr "Armeno"
+
+msgid "Arrange\nAll"
+msgstr "Disponi\ntutto"
+
+msgid "Article I."
+msgstr "Articolo I."
+
+msgid "Artistic Effects"
+msgstr "Effetti artistici"
+
+msgid "As Recommended"
+msgstr "Come consigliato"
+
+msgid "As you type"
+msgstr "Durante la digitazione"
+
+msgid "ASAP"
+msgstr "QUANTO PRIMA"
+
+msgid "Asian text font:"
+msgstr "Carattere testo asiatico:"
+
+msgid "Asian Typography"
+msgstr "Tipografia asiatica"
+
+msgid "Assistant"
+msgstr "Assistente"
+
+msgid "Assistant Suggestions"
+msgstr "Suggerimenti dell'assistente"
+
+msgid "At least"
+msgstr "Almeno"
+
+msgid "At least {n}"
+msgstr "Almeno {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Atmosfera"
+
+msgid "Attach Template"
+msgstr "Collega modello"
+
+msgid "Attach…"
+msgstr "Collega…"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Auto orientation"
+msgstr "Orientamento automatico"
+
+msgid "AutoCorrect"
+msgstr "Correzione automatica"
+
+msgid "AutoCorrect Options"
+msgstr "Opzioni di correzione automatica"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Adatta"
+
+msgid "AutoFit behavior"
+msgstr "Adattamento automatico"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Adatta la colonna con un doppio clic"
+
+msgid "AutoFit Contents"
+msgstr "Adatta al contenuto"
+
+msgid "AutoFit to contents"
+msgstr "Adatta al contenuto"
+
+msgid "AutoFit to window"
+msgstr "Adatta alla finestra"
+
+msgid "AutoFit Window"
+msgstr "Adatta alla finestra"
+
+msgid "AutoFormat As You Type"
+msgstr "Formattazione automatica durante la digitazione"
+
+msgid "Automatic ({language})"
+msgstr "Automatico ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automatico ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Elenchi puntati automatici"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automatico segue la lingua del sistema. Cambiano menu e comandi; i tuoi documenti no."
+
+msgid "Automatic numbered lists"
+msgstr "Elenchi numerati automatici"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Sommario automatico 1 (3 livelli)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Sommario automatico 2 (2 livelli)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "Aggiungi automaticamente le parole all'elenco (Prima lettera)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "Aggiungi automaticamente le parole all'elenco (DUe MAiuscole)"
+
+msgid "Automatically hyphenate document"
+msgstr "Sillabazione automatica del documento"
+
+msgid "Automatically Update Document Styles"
+msgstr "Aggiorna automaticamente gli stili del documento"
+
+msgid "Automatically update document styles"
+msgstr "Aggiorna automaticamente gli stili del documento"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Salva automaticamente i documenti che hai salvato in WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Salvataggio automatico non riuscito: {error}. Salva il documento per riattivare il salvataggio automatico."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Il salvataggio automatico non è disponibile nel browser: non può scrivere nei tuoi file. Salva scarica una copia."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Il salvataggio automatico supporta solo file .docx, .odt e .rtf; {name} non può conservare tutta la formattazione. Salva come .docx per attivare il salvataggio automatico."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Il salvataggio automatico salva ogni modifica nel file (richiede un documento salvato)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Il salvataggio automatico scrive le modifiche nel file poco dopo che smetti di digitare."
+
+msgid "AutoText"
+msgstr "Testo automatico"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10,12\" × 14,33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7,17\" × 10,12\""
+
+msgid "Balloons"
+msgstr "Fumetti"
+
+msgid "Banded Columns"
+msgstr "Colonne alternate"
+
+msgid "Banded Rows"
+msgstr "Righe alternate"
+
+msgid "Base text:"
+msgstr "Testo di base:"
+
+msgid "Based on: {style}"
+msgstr "Basato su: {style}"
+
+msgid "Baseline Dots"
+msgstr "Puntini sulla linea di base"
+
+msgid "Basic Cycle"
+msgstr "Ciclo di base"
+
+msgid "Basic List"
+msgstr "Elenco di base"
+
+msgid "Basic Math"
+msgstr "Matematica di base"
+
+msgid "Basic Matrix"
+msgstr "Matrice di base"
+
+msgid "Basic Process"
+msgstr "Processo di base"
+
+msgid "Basic Pyramid"
+msgstr "Piramide di base"
+
+msgid "Basic Radial"
+msgstr "Radiale di base"
+
+msgid "Basic Venn"
+msgstr "Venn di base"
+
+msgid "Bayes' rule"
+msgstr "Teorema di Bayes"
+
+msgid "Before:"
+msgstr "Prima:"
+
+msgid "Beginning of Word"
+msgstr "Inizio parola"
+
+msgid "Behind Text"
+msgstr "Dietro al testo"
+
+msgid "Belarus"
+msgstr "Bielorussia"
+
+msgid "Belarusian"
+msgstr "Bielorusso"
+
+msgid "Belgium"
+msgstr "Belgio"
+
+msgid "Below text"
+msgstr "Sotto il testo"
+
+msgid "Below the item"
+msgstr "Sotto l'elemento"
+
+msgid "Between"
+msgstr "Interno"
+
+msgid "Bibliography"
+msgstr "Bibliografia"
+
+msgid "Binomial Coefficient"
+msgstr "Coefficiente binomiale"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Coefficiente binomiale (angolare)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Coefficiente binomiale con parentesi angolari"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Sviluppo binomiale di (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Vuoto"
+
+msgid "Blank (Three Columns)"
+msgstr "Vuoto (tre colonne)"
+
+msgid "Blank document"
+msgstr "Documento vuoto"
+
+msgid "Blank Page"
+msgstr "Pagina vuota"
+
+msgid "Block\nAuthors"
+msgstr "Blocca\nautori"
+
+msgid "Blue:"
+msgstr "Blu:"
+
+msgid "Body Text"
+msgstr "Corpo del testo"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Testo del corpo in un breve paragrafo per mostrare la spaziatura."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Scelta audace. Ctrl+Z è lì, se serve."
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Libro"
+
+msgid "Book Title"
+msgstr "Titolo del libro"
+
+msgid "Book title"
+msgstr "Titolo del libro"
+
+msgid "Bookmark"
+msgstr "Segnalibro"
+
+msgid "Bookmark name:"
+msgstr "Nome segnalibro:"
+
+msgid "Bookmark text"
+msgstr "Testo del segnalibro"
+
+msgid "Bookmarks"
+msgstr "Segnalibri"
+
+msgid "Border lines"
+msgstr "Linee del bordo"
+
+msgid "Border Painter"
+msgstr "Copia bordi"
+
+msgid "Border\nPainter"
+msgstr "Copia\nbordi"
+
+msgid "Borders and Shading"
+msgstr "Bordi e sfondo"
+
+msgid "Borders and Shading…"
+msgstr "Bordi e sfondo…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia ed Erzegovina"
+
+msgid "Bosnian"
+msgstr "Bosniaco"
+
+msgid "Both Sides"
+msgstr "Entrambi i lati"
+
+msgid "Bottom Border"
+msgstr "Bordo inferiore"
+
+msgid "Bottom Left Cell"
+msgstr "Cella in basso a sinistra"
+
+msgid "Bottom Margin"
+msgstr "Margine inferiore"
+
+msgid "Bottom of Page"
+msgstr "Fondo pagina"
+
+msgid "Bottom Right Cell"
+msgstr "Cella in basso a destra"
+
+msgid "Box"
+msgstr "Riquadro"
+
+msgid "Boxed Formula"
+msgstr "Formula riquadrata"
+
+msgid "Boxed Formula (example)"
+msgstr "Formula riquadrata (esempio)"
+
+msgid "Boxed Formulas"
+msgstr "Formule riquadrate"
+
+msgid "Braces"
+msgstr "Parentesi graffe"
+
+msgid "Braces with Separator"
+msgstr "Parentesi graffe con separatore"
+
+msgid "Bracket"
+msgstr "Parentesi"
+
+msgid "Brackets"
+msgstr "Parentesi quadre"
+
+msgid "Brackets with Separators"
+msgstr "Parentesi con separatori"
+
+msgid "Brazil"
+msgstr "Brasile"
+
+msgid "Breaks"
+msgstr "Interruzioni"
+
+msgid "Breve"
+msgstr "Breve"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "Più luminoso +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "Luminosità, contrasto e nitidezza"
+
+msgid "Browse in WordCraft…"
+msgstr "Sfoglia in WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Controllo contenuto raccolta blocchi predefiniti"
+
+msgid "Built in"
+msgstr "Integrato"
+
+msgid "Built-In"
+msgstr "Predefinite"
+
+msgid "Built-in Heading styles"
+msgstr "Stili titolo predefiniti"
+
+msgid "Built-in style"
+msgstr "Stile predefinito"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Gli stili predefiniti non possono essere eliminati."
+
+msgid "Bulgarian"
+msgstr "Bulgaro"
+
+msgid "Bullet Library"
+msgstr "Raccolta elenchi puntati"
+
+msgid "Bullets"
+msgstr "Elenchi puntati"
+
+msgid "By author"
+msgstr "Per autore"
+
+msgid "Cabo Verde"
+msgstr "Capo Verde"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Can't be deleted"
+msgstr "Non può essere eliminato"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Non trovi un comando? Premi {key} e scrivi cosa vuoi fare."
+
+msgid "can't split at the first row"
+msgstr "impossibile dividere la tabella alla prima riga"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canvas Member"
+msgstr "Elemento dell'area di disegno"
+
+msgid "Capitalize Each Word"
+msgstr "Iniziali maiuscole"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Maiuscola all'inizio delle frasi"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Maiuscola all'inizio delle celle di tabella"
+
+msgid "Capitalize names of days"
+msgstr "Maiuscola nei nomi dei giorni"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Metti la maiuscola alla prima parola della frase"
+
+msgid "Caption Numbering"
+msgstr "Numerazione didascalie"
+
+msgid "Caption text"
+msgstr "Testo della didascalia"
+
+msgid "Caption:"
+msgstr "Didascalia:"
+
+msgid "Captions"
+msgstr "Didascalie"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Attenzione, ancora un po' e annulliamo l'invenzione della carta."
+
+msgid "Caret Character"
+msgstr "Accento circonflesso"
+
+msgid "Case changes"
+msgstr "Modifiche maiuscole/minuscole"
+
+msgid "Cases (Three Conditions)"
+msgstr "Casi (tre condizioni)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Casi (due condizioni)"
+
+msgid "Cases and Stacks"
+msgstr "Casi e pile"
+
+msgid "Catalan"
+msgstr "Catalano"
+
+msgid "Catalan (Valencian)"
+msgstr "Catalano (valenciano)"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Categories:"
+msgstr "Categorie:"
+
+msgid "Category {n}"
+msgstr "Categoria {n}"
+
+msgid "Ceiling"
+msgstr "Parte intera superiore"
+
+msgid "Cell"
+msgstr "Cella"
+
+msgid "Cell Margins"
+msgstr "Margini cella"
+
+msgid "Cell\nMargins"
+msgstr "Margini\ncella"
+
+msgid "Center Glow"
+msgstr "Bagliore centrale"
+
+msgid "Centered as Group"
+msgstr "Centrato come gruppo"
+
+msgid "Change Chart Type"
+msgstr "Cambia tipo di grafico"
+
+msgid "Change Colors"
+msgstr "Cambia colori"
+
+msgid "Change in y over change in x"
+msgstr "Variazione di y su variazione di x"
+
+msgid "Change Layout"
+msgstr "Cambia layout"
+
+msgid "Change List Level"
+msgstr "Cambia livello elenco"
+
+msgid "Change Password…"
+msgstr "Cambia password…"
+
+msgid "Change Picture"
+msgstr "Cambia immagine"
+
+msgid "Change Picture…"
+msgstr "Cambia immagine…"
+
+msgid "Change Shape"
+msgstr "Cambia forma"
+
+msgid "Change Structure"
+msgstr "Cambia struttura"
+
+msgid "Change to Display"
+msgstr "Passa a modalità blocco"
+
+msgid "Change to Inline"
+msgstr "Passa a modalità in linea"
+
+msgid "Change to Level 1"
+msgstr "Passa al livello 1"
+
+msgid "Change to Level 2"
+msgstr "Passa al livello 2"
+
+msgid "Change to Level 3"
+msgstr "Passa al livello 3"
+
+msgid "Change to Level 4"
+msgstr "Passa al livello 4"
+
+msgid "Change to Level 5"
+msgstr "Passa al livello 5"
+
+msgid "Change to Level 6"
+msgstr "Passa al livello 6"
+
+msgid "Change to Level 7"
+msgstr "Passa al livello 7"
+
+msgid "Change to Level 8"
+msgstr "Passa al livello 8"
+
+msgid "Change to Level 9"
+msgstr "Passa al livello 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Cambia tipo\ndi grafico"
+
+msgid "Change\nColors"
+msgstr "Cambia\ncolori"
+
+msgid "Changed lines:"
+msgstr "Righe modificate:"
+
+msgid "Changes"
+msgstr "Modifiche"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Capitolo 1"
+
+msgid "Chapter in a book"
+msgstr "Capitolo di libro"
+
+msgid "Chapters begin at:"
+msgstr "I capitoli iniziano con:"
+
+msgid "Character Border"
+msgstr "Bordo carattere"
+
+msgid "Character code:"
+msgstr "Codice carattere:"
+
+msgid "Character in Range"
+msgstr "Carattere nell'intervallo"
+
+msgid "Character level"
+msgstr "Livello carattere"
+
+msgid "Character Position"
+msgstr "Posizione carattere"
+
+msgid "Character Scale"
+msgstr "Scala carattere"
+
+msgid "Character Shading"
+msgstr "Sfondo carattere"
+
+msgid "Character Spacing"
+msgstr "Spaziatura caratteri"
+
+msgid "Character spacing"
+msgstr "Spaziatura caratteri"
+
+msgid "Character style"
+msgstr "Stile carattere"
+
+msgid "Characters (no spaces)"
+msgstr "Caratteri (spazi esclusi)"
+
+msgid "Characters (with spaces)"
+msgstr "Caratteri (spazi inclusi)"
+
+msgid "Characters per line:"
+msgstr "Caratteri per riga:"
+
+msgid "Chart"
+msgstr "Grafico"
+
+msgid "Chart Design"
+msgstr "Grafico Design"
+
+msgid "Chart Layouts"
+msgstr "Layout grafico"
+
+msgid "Chart Title"
+msgstr "Titolo del grafico"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "grafici e diagrammi non si possono ancora spostare né ridimensionare"
+
+msgid "Check"
+msgstr "Pipa"
+
+msgid "Check Accessibility"
+msgstr "Verifica accessibilità"
+
+msgid "Check Box Content Control"
+msgstr "Controllo contenuto casella di controllo"
+
+msgid "Check Compatibility"
+msgstr "Verifica compatibilità"
+
+msgid "Check for Errors"
+msgstr "Controlla errori"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Controlla ortografia durante la digitazione"
+
+msgid "Check spelling as you type"
+msgstr "Controlla ortografia durante la digitazione"
+
+msgid "Check\nAccessibility"
+msgstr "Verifica\naccessibilità"
+
+msgid "Checked styles are allowed:"
+msgstr "Gli stili selezionati sono consentiti:"
+
+msgid "Checked symbol"
+msgstr "Simbolo selezionato"
+
+msgid "Checking for updates…"
+msgstr "Verifica degli aggiornamenti in corso…"
+
+msgid "Chevron Down"
+msgstr "Gallone in giù"
+
+msgid "Chevron Up"
+msgstr "Gallone in su"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Cile"
+
+msgid "China"
+msgstr "Cina"
+
+msgid "Chinese (Simplified)"
+msgstr "Cinese (semplificato)"
+
+msgid "Chinese (Traditional)"
+msgstr "Cinese (tradizionale)"
+
+msgid "Choose a command"
+msgstr "Scegli un comando"
+
+msgid "Choose a shortcut"
+msgstr "Scegli una combinazione di tasti"
+
+msgid "Choose List Item"
+msgstr "Scegli elemento elenco"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Scegli il foglio che contiene i destinatari."
+
+msgid "Circle area from its radius"
+msgstr "Area del cerchio dal raggio"
+
+msgid "Circled Dot"
+msgstr "Punto cerchiato"
+
+msgid "Circled Plus"
+msgstr "Più cerchiato"
+
+msgid "Circled Times"
+msgstr "Per cerchiato"
+
+msgid "Citation Style"
+msgstr "Stile citazione"
+
+msgid "Citations"
+msgstr "Citazioni"
+
+msgid "Citations & Bibliography"
+msgstr "Citazioni e bibliografia"
+
+msgid "Clear All Formatting"
+msgstr "Cancella formattazione"
+
+msgid "Clear Character Formatting"
+msgstr "Cancella formattazione carattere"
+
+msgid "Clear Character Style"
+msgstr "Cancella stile carattere"
+
+msgid "Clear Formatting Level"
+msgstr "Cancella livello di formattazione"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Cancella formattazione paragrafo"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Fai clic sul bordo tra due celle per unirle. Esc per uscire."
+
+msgid "Click an item to paste it."
+msgstr "Fai clic su un elemento per incollarlo."
+
+msgid "Click level to modify:"
+msgstr "Fai clic sul livello da modificare:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Fai clic sulla casella di testo vuota in cui deve continuare il testo (Esc per annullare)"
+
+msgid "Click to switch back to inserting"
+msgstr "Fai clic per tornare all'inserimento"
+
+msgid "Clipboard Contents"
+msgstr "Contenuto degli Appunti"
+
+msgid "Clipboard Items"
+msgstr "Elementi degli Appunti"
+
+msgid "Clipboard Pane"
+msgstr "Riquadro Appunti"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Chiudi equazione"
+
+msgid "Close Header and Footer"
+msgstr "Chiudi intestazione e piè di pagina"
+
+msgid "Close Outline View"
+msgstr "Chiudi visualizzazione Struttura"
+
+msgid "Close Outline\nView"
+msgstr "Chiudi visualizzazione\nStruttura"
+
+msgid "Clustered Bar"
+msgstr "Barre raggruppate"
+
+msgid "Clustered Column"
+msgstr "Colonne raggruppate"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "N. col.:"
+
+msgid "Collapse Selection"
+msgstr "Comprimi selezione"
+
+msgid "Collate copies"
+msgstr "Fascicola copie"
+
+msgid "Collect entries from:"
+msgstr "Raccogli voci da:"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Colon Equal"
+msgstr "Due punti uguale"
+
+msgid "Color model:"
+msgstr "Modello colori:"
+
+msgid "Color only"
+msgstr "Solo colore"
+
+msgid "Color: {color}"
+msgstr "Colore: {color}"
+
+msgid "Colorful"
+msgstr "Colorato"
+
+msgid "Column"
+msgstr "Colonna"
+
+msgid "Column Break"
+msgstr "Interruzione di colonna"
+
+msgid "Column Selection"
+msgstr "Selezione colonna"
+
+msgid "Column {n}"
+msgstr "Colonna {n}"
+
+msgid "Column:"
+msgstr "Colonna:"
+
+msgid "Combine Documents"
+msgstr "Combina documenti"
+
+msgid "Combo Box Content Control"
+msgstr "Controllo contenuto casella combinata"
+
+msgid "Commands"
+msgstr "Comandi"
+
+msgid "Commas"
+msgstr "Virgole"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Commenti accanto a ogni pagina e revisioni in PDF, stampe e immagini; un elenco dei commenti alla fine di pagine web, Markdown e testo."
+
+msgid "Comments Pane"
+msgstr "Riquadro Commenti"
+
+msgid "Common Accent Objects"
+msgstr "Oggetti accento comuni"
+
+msgid "Common Brackets"
+msgstr "Parentesi comuni"
+
+msgid "Common Fractions"
+msgstr "Frazioni comuni"
+
+msgid "Common Functions"
+msgstr "Funzioni comuni"
+
+msgid "Common Large Operators"
+msgstr "Operatori grandi comuni"
+
+msgid "Common Operator Structures"
+msgstr "Strutture di operatori comuni"
+
+msgid "Common Operators"
+msgstr "Operatori comuni"
+
+msgid "Common Radicals"
+msgstr "Radicali comuni"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Pedici e apici comuni"
+
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgid "Community\nDiscord"
+msgstr "Community\nDiscord"
+
+msgid "Compact"
+msgstr "Compatto"
+
+msgid "Compare Documents"
+msgstr "Confronta documenti"
+
+msgid "Compare to"
+msgstr "Confronta con"
+
+msgid "Compared: {changes} changes"
+msgstr "Modifiche trovate: {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Il confronto con un altro file richiede l'app desktop."
+
+msgid "Comparison settings"
+msgstr "Impostazioni di confronto"
+
+msgid "Compress Pictures"
+msgstr "Comprimi immagini"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Comprimi la punteggiatura a inizio riga"
+
+msgid "Conference"
+msgstr "Conferenza"
+
+msgid "Conference paper"
+msgstr "Relazione a una conferenza"
+
+msgid "CONFIDENTIAL"
+msgstr "RISERVATO"
+
+msgid "Confirm password:"
+msgstr "Conferma password:"
+
+msgid "Connect Shapes"
+msgstr "Connetti forme"
+
+msgid "Container Title"
+msgstr "Titolo del contenitore"
+
+msgid "Content Control at Selection"
+msgstr "Controllo contenuto nella selezione"
+
+msgid "Content Control Properties"
+msgstr "Proprietà controllo contenuto"
+
+msgid "Contents can't be edited"
+msgstr "Il contenuto non può essere modificato"
+
+msgid "Context"
+msgstr "Contesto"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Continua dalla sezione precedente"
+
+msgid "Continue without restoring"
+msgstr "Continua senza ripristinare"
+
+msgid "Continuous"
+msgstr "Continua"
+
+msgid "Continuous numbering"
+msgstr "Numerazione continua"
+
+msgid "Contour Integral"
+msgstr "Integrale di contorno"
+
+msgid "Contour Integral with Limits"
+msgstr "Integrale di contorno con limiti"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Integrale di contorno con limiti sovrapposti"
+
+msgid "Contour Integrals"
+msgstr "Integrali di contorno"
+
+msgid "Controls"
+msgstr "Controlli"
+
+msgid "Conversions"
+msgstr "Conversioni"
+
+msgid "Convert between built-up and linear form"
+msgstr "Converti tra formato professionale e lineare"
+
+msgid "Convert Notes"
+msgstr "Converti note"
+
+msgid "Convert Text to Table"
+msgstr "Converti testo in tabella"
+
+msgid "Convert Text to Table…"
+msgstr "Converti testo in tabella…"
+
+msgid "Convert to Shapes"
+msgstr "Converti in forme"
+
+msgid "Convert to Text"
+msgstr "Converti in testo"
+
+msgid "Coproduct"
+msgstr "Coprodotto"
+
+msgid "Coproduct with Limits"
+msgstr "Coprodotto con limiti"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Coprodotto con limite inferiore"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Coprodotto con limiti a pedice e apice"
+
+msgid "Copy Formatting"
+msgstr "Copia formato"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Copia del testo indicato da un segnalibro"
+
+msgid "Copy Styles"
+msgstr "Copia stili"
+
+msgid "Copy to"
+msgstr "Copia in"
+
+msgid "Copyright Sign"
+msgstr "Simbolo di copyright"
+
+msgid "Corporate Author"
+msgstr "Autore aziendale"
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Correggi l'uso accidentale del tasto bLOC mAIUSC"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Correggi DUe MAiuscole INiziali"
+
+msgid "Corrections"
+msgstr "Correzioni"
+
+msgid "Cosecant Function"
+msgstr "Funzione cosecante"
+
+msgid "Cosine 2x"
+msgstr "Coseno di 2x"
+
+msgid "Cosine Function"
+msgstr "Funzione coseno"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Funzione cotangente"
+
+msgid "Could not check for updates:\n{error}"
+msgstr "Impossibile verificare gli aggiornamenti:\n{error}"
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Impossibile scaricare {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Impossibile rendere WordCraft l'app predefinita: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Impossibile aprire {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "Impossibile salvare {name}: il documento resta aperto e non è andato perso nulla: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Intervallo:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Conta le parole in caselle di testo e note"
+
+msgid "Courtesy Title"
+msgstr "Titolo di cortesia"
+
+msgid "Cover Page"
+msgstr "Frontespizio"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Crea uno stile"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Crea una struttura interattiva del documento.\n\nÈ un ottimo modo per sapere dove ti trovi o per spostare rapidamente il contenuto.\n\nPer iniziare, vai alla scheda Home e applica gli stili Titolo ai titoli del documento."
+
+msgid "Create Graphic"
+msgstr "Crea elemento grafico"
+
+msgid "Create Link"
+msgstr "Crea collegamento"
+
+msgid "Create New Style"
+msgstr "Crea nuovo stile"
+
+msgid "Create Source"
+msgstr "Crea fonte"
+
+msgid "Croatian"
+msgstr "Croato"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "Il ritaglio sulla pagina funziona solo con immagini non ruotate: imposta prima Rotazione a 0° oppure usa le caselle di ritaglio"
+
+msgid "Cross-reference"
+msgstr "Riferimento incrociato"
+
+msgid "Cross-reference:"
+msgstr "Riferimento incrociato:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cube Root"
+msgstr "Radice cubica"
+
+msgid "Current - Linear"
+msgstr "Corrente - Lineare"
+
+msgid "Current - Professional"
+msgstr "Corrente - Professionale"
+
+msgid "Current Document"
+msgstr "Documento corrente"
+
+msgid "Current Position"
+msgstr "Posizione corrente"
+
+msgid "Current record"
+msgstr "Record corrente"
+
+msgid "Current style: {style}"
+msgstr "Stile corrente: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Connettore curvo con freccia"
+
+msgid "Curved Connector"
+msgstr "Connettore curvo"
+
+msgid "Custom dictionary"
+msgstr "Dizionario personalizzato"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Margini personalizzati…"
+
+msgid "Custom mark:"
+msgstr "Simbolo personalizzato:"
+
+msgid "Custom range"
+msgstr "Intervallo personalizzato"
+
+msgid "Custom size"
+msgstr "Dimensioni personalizzate"
+
+msgid "Custom Table of Contents…"
+msgstr "Sommario personalizzato…"
+
+msgid "Custom Watermark"
+msgstr "Filigrana personalizzata"
+
+msgid "Custom Watermark…"
+msgstr "Filigrana personalizzata…"
+
+msgid "Customize"
+msgstr "Personalizza"
+
+msgid "Customize Keyboard"
+msgstr "Personalizza tastiera"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Personalizza barra di accesso rapido"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Personalizza barra di accesso rapido…"
+
+msgid "Customize Ribbon"
+msgstr "Personalizza barra multifunzione"
+
+msgid "Customize the Ribbon…"
+msgstr "Personalizza la barra multifunzione…"
+
+msgid "Cycle"
+msgstr "Ciclo"
+
+msgid "Cyprus"
+msgstr "Cipro"
+
+msgid "Czech"
+msgstr "Ceco"
+
+msgid "Danish"
+msgstr "Danese"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Modalità scura"
+
+msgid "Dark page (white text on black)"
+msgstr "Pagina scura (testo bianco su nero)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Varianti scure"
+
+msgid "Dark with Shadow"
+msgstr "Scuro con ombreggiatura"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "Più scuro −20%"
+
+msgid "Darkroom"
+msgstr "Camera oscura"
+
+msgid "Data Labels"
+msgstr "Etichette dati"
+
+msgid "Date & Time"
+msgstr "Data e ora"
+
+msgid "Date formats:"
+msgstr "Formati data:"
+
+msgid "Date Picker Content Control"
+msgstr "Controllo contenuto selezione data"
+
+msgid "Day"
+msgstr "Giorno"
+
+msgid "Decimal"
+msgstr "Decimale"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Gli oggetti decorativi aggiungono solo interesse visivo: i lettori di schermo li saltano."
+
+msgid "Decorative Text"
+msgstr "Testo decorativo"
+
+msgid "Decorative Text Styles"
+msgstr "Stili di testo decorativo"
+
+msgid "Decrease Indent"
+msgstr "Riduci rientro"
+
+msgid "Deep"
+msgstr "Profondo"
+
+msgid "Default formatting"
+msgstr "Formattazione predefinita"
+
+msgid "Default Paragraph Font"
+msgstr "Carattere predefinito del paragrafo"
+
+msgid "Default tab stops:"
+msgstr "Tabulazioni predefinite:"
+
+msgid "Define New Bullet"
+msgstr "Definisci nuovo punto elenco"
+
+msgid "Define New Multilevel List"
+msgstr "Definisci nuovo elenco a più livelli"
+
+msgid "Define New Multilevel List…"
+msgstr "Definisci nuovo elenco a più livelli…"
+
+msgid "Define New Number Format"
+msgstr "Definisci nuovo formato numero"
+
+msgid "Deflate"
+msgstr "Sgonfia"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Elimina intorno al cursore nell'equazione"
+
+msgid "Delete Back in Equation"
+msgstr "Elimina indietro nell'equazione"
+
+msgid "Delete Bookmark"
+msgstr "Elimina segnalibro"
+
+msgid "Delete Cells"
+msgstr "Elimina celle"
+
+msgid "Delete Clipboard Item"
+msgstr "Elimina elemento degli Appunti"
+
+msgid "Delete Columns"
+msgstr "Elimina colonne"
+
+msgid "Delete Comment"
+msgstr "Elimina commento"
+
+msgid "Delete in Equation"
+msgstr "Elimina nell'equazione"
+
+msgid "Delete Label"
+msgstr "Elimina etichetta"
+
+msgid "Delete Next Word"
+msgstr "Elimina parola successiva"
+
+msgid "Delete Previous Word"
+msgstr "Elimina parola precedente"
+
+msgid "Delete Rows"
+msgstr "Elimina righe"
+
+msgid "Delete Selected Ink"
+msgstr "Elimina input penna selezionato"
+
+msgid "Delete Table"
+msgstr "Elimina tabella"
+
+msgid "Delete Table Style"
+msgstr "Elimina stile tabella"
+
+msgid "Deletions:"
+msgstr "Eliminazioni:"
+
+msgid "Delivery address:"
+msgstr "Indirizzo di consegna:"
+
+msgid "Delta Equal To"
+msgstr "Delta uguale a"
+
+msgid "Delta over arrow"
+msgstr "Delta sopra la freccia"
+
+msgid "Demote"
+msgstr "Abbassa di livello"
+
+msgid "Demote to Body Text"
+msgstr "Abbassa a Corpo del testo"
+
+msgid "Derivative as a limit"
+msgstr "Derivata come limite"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Descrivi cosa mostra questo oggetto, per chi non può vederlo."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Descrivi cosa mostra questa tabella, per chi non può vederla."
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Design Mode"
+msgstr "Modalità progettazione"
+
+msgid "Detach Template"
+msgstr "Scollega modello"
+
+msgid "Detect language automatically"
+msgstr "Rileva automaticamente la lingua"
+
+msgid "Developer"
+msgstr "Sviluppo"
+
+msgid "development build"
+msgstr "build di sviluppo"
+
+msgid "Diagonal Dots"
+msgstr "Puntini diagonali"
+
+msgid "Diagram"
+msgstr "Diagramma"
+
+msgid "Diagram Design"
+msgstr "Progettazione diagramma"
+
+msgid "Diagram Styles"
+msgstr "Stili diagramma"
+
+msgid "Dictate"
+msgstr "Detta"
+
+msgid "Dictionaries"
+msgstr "Dizionari"
+
+msgid "Dictionaries folder:"
+msgstr "Cartella dei dizionari:"
+
+msgid "Dictionary files"
+msgstr "File dei dizionari"
+
+msgid "Different First Page"
+msgstr "Prima pagina diversa"
+
+msgid "Different Odd & Even Pages"
+msgstr "Pagine pari e dispari diverse"
+
+msgid "Differential"
+msgstr "Differenziale"
+
+msgid "Differential theta"
+msgstr "Differenziale di theta"
+
+msgid "Differential x"
+msgstr "Differenziale di x"
+
+msgid "Differential y"
+msgstr "Differenziale di y"
+
+msgid "Differentials"
+msgstr "Differenziali"
+
+msgid "Direct formatting"
+msgstr "Formattazione diretta"
+
+msgid "Directory"
+msgstr "Elenco"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "Eliminare la copia di recupero di {name}?"
+
+msgid "Discard…"
+msgstr "Scarta…"
+
+msgid "Discord community"
+msgstr "Community Discord"
+
+msgid "Display for Review"
+msgstr "Visualizza per revisione"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Testo visualizzato"
+
+msgid "Distance from text"
+msgstr "Distanza dal testo"
+
+msgid "Distance from text:"
+msgstr "Distanza dal testo:"
+
+msgid "Distribute Columns"
+msgstr "Distribuisci colonne"
+
+msgid "Distribute letters"
+msgstr "Distribuisci lettere"
+
+msgid "Distribute Rows"
+msgstr "Distribuisci righe"
+
+msgid "Distribute spacing"
+msgstr "Distribuisci spaziatura"
+
+msgid "Distributed"
+msgstr "Distribuito"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Non controllare ortografia e grammatica"
+
+msgid "Do not check spelling or grammar"
+msgstr "Non controllare ortografia e grammatica"
+
+msgid "DO NOT COPY"
+msgstr "NON COPIARE"
+
+msgid "Do Not Show in TOC"
+msgstr "Non mostrare nel sommario"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Vuoi salvare le modifiche a {name}?"
+
+msgid "Dock Left"
+msgstr "Aggancia a sinistra"
+
+msgid "Dock Right"
+msgstr "Aggancia a destra"
+
+msgid "Document End"
+msgstr "Fine documento"
+
+msgid "Document Formatting"
+msgstr "Formattazione documento"
+
+msgid "Document Grid"
+msgstr "Griglia del documento"
+
+msgid "Document Information"
+msgstr "Informazioni documento"
+
+msgid "Document name"
+msgstr "Nome del documento"
+
+msgid "Document Property"
+msgstr "Proprietà documento"
+
+msgid "Document Start"
+msgstr "Inizio documento"
+
+msgid "Document template:"
+msgstr "Modello documento:"
+
+msgid "Document Text"
+msgstr "Testo del documento"
+
+msgid "Document1"
+msgstr "Documento1"
+
+msgid "Document\nPreferences"
+msgstr "Preferenze\ndocumento"
+
+msgid "Documents you open will show up here."
+msgstr "I documenti che apri compariranno qui."
+
+msgid "Does not contain"
+msgstr "Non contiene"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Repubblica Dominicana"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Non aggiungere spazio tra paragrafi dello stesso stile"
+
+msgid "Don't capitalize after:"
+msgstr "Non usare la maiuscola dopo:"
+
+msgid "Don't hyphenate"
+msgstr "Non sillabare"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Non leggere citazioni e bibliografie di Zotero, Mendeley o EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Non mostrare più questo suggerimento"
+
+msgid "Dot dash"
+msgstr "Punto linea"
+
+msgid "Dot-dash"
+msgstr "Punto linea"
+
+msgid "Dot-dot-dash"
+msgstr "Punto punto linea"
+
+msgid "Double"
+msgstr "Doppio"
+
+msgid "Double Bar"
+msgstr "Doppia barra"
+
+msgid "Double Closing Quote"
+msgstr "Virgolette doppie di chiusura"
+
+msgid "Double Dot"
+msgstr "Due punti sopra"
+
+msgid "Double Integral"
+msgstr "Integrale doppio"
+
+msgid "Double Integral with Limits"
+msgstr "Integrale doppio con limiti"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Integrale doppio con limiti sovrapposti"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Doppia freccia a sinistra con testo sopra"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Doppia freccia a sinistra con testo sotto"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Doppia freccia sinistra-destra con testo sopra"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Doppia freccia sinistra-destra con testo sotto"
+
+msgid "Double Opening Quote"
+msgstr "Virgolette doppie di apertura"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Doppia freccia a destra con testo sopra"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Doppia freccia a destra con testo sotto"
+
+msgid "Double Spacing"
+msgstr "Interlinea doppia"
+
+msgid "Double Square Brackets"
+msgstr "Doppie parentesi quadre"
+
+msgid "Double Strikethrough"
+msgstr "Barrato doppio"
+
+msgid "Double strikethrough"
+msgstr "Barrato doppio"
+
+msgid "Double summation"
+msgstr "Sommatoria doppia"
+
+msgid "Double Underline"
+msgstr "Sottolineato doppio"
+
+msgid "Double Vertical Bars"
+msgstr "Doppie barre verticali"
+
+msgid "Doughnut"
+msgstr "Anello"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr "Scarica prende il dizionario dalla raccolta di LibreOffice e lo salva nella cartella dei dizionari. Ognuno mantiene la propria licenza (GPL, LGPL o MPL) e resta un file separato che WordCraft si limita a leggere."
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Il download è disattivato. Facendo clic su «Aggiungi una lingua…» o «Installa» si attiva: WordCraft scarica allora pacchetti lingua e font da GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr "{language}: download del dizionario in corso…"
+
+msgid "Downloading…"
+msgstr "Download in corso…"
+
+msgid "DRAFT"
+msgstr "BOZZA"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Trascina un rettangolo per disegnare una tabella, o una linea sulle celle per dividerle. Esc per uscire."
+
+msgid "Draw Ink"
+msgstr "Disegna a penna"
+
+msgid "Draw Table"
+msgstr "Disegna tabella"
+
+msgid "Draw\nTable"
+msgstr "Disegna\ntabella"
+
+msgid "Drawing Canvas"
+msgstr "Area di disegno"
+
+msgid "Drawing Tools"
+msgstr "Strumenti di disegno"
+
+msgid "Drawing\nCanvas"
+msgstr "Area di\ndisegno"
+
+msgid "Drop Cap"
+msgstr "Capolettera"
+
+msgid "Drop cap"
+msgstr "Capolettera"
+
+msgid "Drop Cap Options…"
+msgstr "Opzioni capolettera…"
+
+msgid "drop caps can't go in a table"
+msgstr "un capolettera non può stare in una tabella"
+
+msgid "Drop-Down List Content Control"
+msgstr "Controllo contenuto elenco a discesa"
+
+msgid "Dropped"
+msgstr "Nel testo"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Rimuove tutta la formattazione e incolla testo normale."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Olandese, Nederlands o nl"
+
+msgid "E-mail Messages"
+msgstr "Messaggi di posta elettronica"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Modifica commento"
+
+msgid "Edit Data"
+msgstr "Modifica dati"
+
+msgid "Edit Document"
+msgstr "Modifica documento"
+
+msgid "Edit Equation"
+msgstr "Modifica equazione"
+
+msgid "Edit Field Code"
+msgstr "Modifica codice di campo"
+
+msgid "Edit Field…"
+msgstr "Modifica campo…"
+
+msgid "Edit Footer"
+msgstr "Modifica piè di pagina"
+
+msgid "Edit Header"
+msgstr "Modifica intestazione"
+
+msgid "Edit Individual Documents…"
+msgstr "Modifica singoli documenti…"
+
+msgid "Edit Items"
+msgstr "Modifica elementi"
+
+msgid "Edit Recipient List"
+msgstr "Modifica elenco destinatari"
+
+msgid "Edit Source"
+msgstr "Modifica fonte"
+
+msgid "Edit\nData"
+msgstr "Modifica\ndati"
+
+msgid "Edit\nRecipient List"
+msgstr "Modifica elenco\ndestinatari"
+
+msgid "Edited"
+msgstr "Modificato"
+
+msgid "Editing endnote"
+msgstr "Modifica nota di chiusura"
+
+msgid "Editing footnote"
+msgstr "Modifica nota a piè di pagina"
+
+msgid "Editing header/footer"
+msgstr "Modifica intestazione/piè di pagina"
+
+msgid "Editing in this document is restricted."
+msgstr "La modifica di questo documento è limitata."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Modifica — modifica direttamente il documento"
+
+msgid "Edition"
+msgstr "Edizione"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Egypt"
+msgstr "Egitto"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Connettore a gomito con freccia"
+
+msgid "Elbow Connector"
+msgstr "Connettore a gomito"
+
+msgid "Emphasis"
+msgstr "Enfasi"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Matrici vuote"
+
+msgid "Enclose Characters"
+msgstr "Racchiudi caratteri"
+
+msgid "Enclosure"
+msgstr "Contorno"
+
+msgid "Encrypt with Password"
+msgstr "Crittografa con password"
+
+msgid "Encrypt with Password…"
+msgstr "Crittografa con password…"
+
+msgid "End of document"
+msgstr "Fine del documento"
+
+msgid "End of section"
+msgstr "Fine della sezione"
+
+msgid "End of Word"
+msgstr "Fine parola"
+
+msgid "Endnote Reference"
+msgstr "Rimando nota di chiusura"
+
+msgid "Endnote Text"
+msgstr "Testo nota di chiusura"
+
+msgid "Endnotes"
+msgstr "Note di chiusura"
+
+msgid "Endnotes to footnotes"
+msgstr "Note di chiusura in note a piè di pagina"
+
+msgid "English (Australia)"
+msgstr "Inglese (Australia)"
+
+msgid "English (Canada)"
+msgstr "Inglese (Canada)"
+
+msgid "English (India)"
+msgstr "Inglese (India)"
+
+msgid "English (Ireland)"
+msgstr "Inglese (Irlanda)"
+
+msgid "English (New Zealand)"
+msgstr "Inglese (Nuova Zelanda)"
+
+msgid "English (South Africa)"
+msgstr "Inglese (Sudafrica)"
+
+msgid "English (United Kingdom)"
+msgstr "Inglese (Regno Unito)"
+
+msgid "English (United States)"
+msgstr "Inglese (Stati Uniti)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Inglese, le lingue di questo documento e ogni pacchetto lingua installato. I pacchetti lingua aggiungono dizionari ortografici e sillabazione."
+
+msgid "Engrave"
+msgstr "Incisione"
+
+msgid "Enlarge symbol"
+msgstr "Ingrandisci simbolo"
+
+msgid "Enter a number."
+msgstr "Immetti un numero."
+
+msgid "Enter bookmark name:"
+msgstr "Inserisci il nome del segnalibro:"
+
+msgid "Enter formatting for number:"
+msgstr "Formato del numero:"
+
+msgid "Enter in Equation"
+msgstr "Invio nell'equazione"
+
+msgid "Enter page number:"
+msgstr "Immetti il numero di pagina:"
+
+msgid "Entire caption"
+msgstr "Intera didascalia"
+
+msgid "Entry marked."
+msgstr "Voce segnata."
+
+msgid "Envelope #10"
+msgstr "Busta n. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "Busta n. 10   4,12\" × 9,50\""
+
+msgid "Envelope Address"
+msgstr "Indirizzo busta"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "Busta DL   4,33\" × 8,66\""
+
+msgid "Envelope Return"
+msgstr "Mittente busta"
+
+msgid "Envelope size:"
+msgstr "Dimensioni busta:"
+
+msgid "Envelopes"
+msgstr "Buste"
+
+msgid "Equal by Definition"
+msgstr "Uguale per definizione"
+
+msgid "Equal column width"
+msgstr "Colonne di uguale larghezza"
+
+msgid "Equal Equal"
+msgstr "Uguale uguale"
+
+msgid "Equal to"
+msgstr "Uguale a"
+
+msgid "Equals:"
+msgstr "Uguale a:"
+
+msgid "Equation"
+msgstr "Equazione"
+
+msgid "Equation Gallery"
+msgstr "Raccolta equazioni"
+
+msgid "Equation Info"
+msgstr "Informazioni equazione"
+
+msgid "Equation Number"
+msgstr "Numero equazione"
+
+msgid "Equation Options"
+msgstr "Opzioni equazione"
+
+msgid "Equatorial Guinea"
+msgstr "Guinea Equatoriale"
+
+msgid "Erase Ink"
+msgstr "Cancella input penna"
+
+msgid "Errors ({n})"
+msgstr "Errori ({n})"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estone"
+
+msgid "Euler's identity"
+msgstr "Identità di Eulero"
+
+msgid "Even Banded Columns"
+msgstr "Colonne alternate pari"
+
+msgid "Even Banded Rows"
+msgstr "Righe alternate pari"
+
+msgid "Even Page"
+msgstr "Pagina pari"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Ogni modifica viene registrata come revisione."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Ogni comando è disponibile per script e agenti IA: esegui `wordcraft-cli mcp` per un server MCP, o avvia l'app con `--control <port>` per il canale di controllo JSON."
+
+msgid "Every field needs a name."
+msgstr "Ogni campo deve avere un nome."
+
+msgid "Everyone"
+msgstr "Tutti"
+
+msgid "Exactly"
+msgstr "Esatta"
+
+msgid "Exactly {n}"
+msgstr "Esatta {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Eccezioni (facoltativo)"
+
+msgid "Exceptions…"
+msgstr "Eccezioni…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7,25\" × 10,50\""
+
+msgid "Existing File or Web Page"
+msgstr "File o pagina Web esistente"
+
+msgid "Expand or Collapse Heading"
+msgstr "Espandi o comprimi titolo"
+
+msgid "Exponential"
+msgstr "Esponenziale"
+
+msgid "Exponential series"
+msgstr "Serie esponenziale"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Esporta una copia da condividere (PDF, documento Word)"
+
+msgid "Export Page as PNG"
+msgstr "Esporta pagina come PNG"
+
+msgid "Extend Selection"
+msgstr "Estendi selezione"
+
+msgid "Extend Selection by Units"
+msgstr "Estendi selezione per unità"
+
+msgid "Extra space"
+msgstr "Spazio in più"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Più veloce: {command} è {key} sulla tastiera."
+
+msgid "Field code:"
+msgstr "Codice di campo:"
+
+msgid "Field Codes"
+msgstr "Codici di campo"
+
+msgid "Field codes:"
+msgstr "Codici di campo:"
+
+msgid "Field name"
+msgstr "Nome campo"
+
+msgid "Field name:"
+msgstr "Nome campo:"
+
+msgid "Field names must be different."
+msgstr "I nomi dei campi devono essere diversi."
+
+msgid "Field names:"
+msgstr "Nomi campo:"
+
+msgid "Field:"
+msgstr "Campo:"
+
+msgid "Field…"
+msgstr "Campo…"
+
+msgid "Figure"
+msgstr "Figura"
+
+msgid "File locations"
+msgstr "Percorsi dei file"
+
+msgid "File name:"
+msgstr "Nome file:"
+
+msgid "File type"
+msgstr "Tipo di file"
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "File › Nuovo elenca qui i modelli .dotx e .dotm in Personali; Salva come modello di Word parte da qui."
+
+msgid "Fill color:"
+msgstr "Colore riempimento:"
+
+msgid "Filling in forms"
+msgstr "Compilazione moduli"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Filtra e ordina"
+
+msgid "Filter Recipients"
+msgstr "Filtra destinatari"
+
+msgid "Find in list:"
+msgstr "Trova nell'elenco:"
+
+msgid "Find Next Editable Region"
+msgstr "Trova area modificabile successiva"
+
+msgid "Find Previous"
+msgstr "Trova precedente"
+
+msgid "Find Recipient"
+msgstr "Trova destinatario"
+
+msgid "Find What Expression"
+msgstr "Espressione da trovare"
+
+msgid "Find What Text"
+msgstr "Testo da trovare"
+
+msgid "Find what:"
+msgstr "Trova:"
+
+msgid "Find “{text}” in the document"
+msgstr "Trova “{text}” nel documento"
+
+msgid "Finding printers…"
+msgstr "Ricerca stampanti in corso…"
+
+msgid "Finish & Merge"
+msgstr "Finalizza e unisci"
+
+msgid "Finish &\nMerge"
+msgstr "Finalizza e\nunisci"
+
+msgid "Finished"
+msgstr "Completato"
+
+msgid "Finland"
+msgstr "Finlandia"
+
+msgid "Finnish"
+msgstr "Finlandese"
+
+msgid "First Column"
+msgstr "Prima colonna"
+
+msgid "First line"
+msgstr "Prima riga"
+
+msgid "First line:"
+msgstr "Prima riga:"
+
+msgid "First Name"
+msgstr "Nome"
+
+msgid "First Record"
+msgstr "Primo record"
+
+msgid "First row of data contains column headers"
+msgstr "La prima riga di dati contiene le intestazioni di colonna"
+
+msgid "Fix Position on Page"
+msgstr "Blocca posizione nella pagina"
+
+msgid "Fixed Column Width"
+msgstr "Larghezza colonna fissa"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr "Sgancia"
+
+msgid "Floor"
+msgstr "Parte intera inferiore"
+
+msgid "Folder path"
+msgstr "Percorso della cartella"
+
+msgid "Follow number with:"
+msgstr "Dopo il numero:"
+
+msgid "Font Color"
+msgstr "Colore carattere"
+
+msgid "Font color"
+msgstr "Colore carattere"
+
+msgid "Font color:"
+msgstr "Colore carattere:"
+
+msgid "Font Dialog"
+msgstr "Finestra di dialogo Carattere"
+
+msgid "Font: {font}"
+msgstr "Carattere: {font}"
+
+msgid "Font…"
+msgstr "Carattere…"
+
+msgid "Footer"
+msgstr "Piè di pagina"
+
+msgid "Footnote and Endnote"
+msgstr "Nota a piè di pagina e nota di chiusura"
+
+msgid "Footnote Reference"
+msgstr "Rimando nota a piè di pagina"
+
+msgid "Footnote Text"
+msgstr "Testo nota a piè di pagina"
+
+msgid "Footnotes"
+msgstr "Note a piè di pagina"
+
+msgid "Footnotes and endnotes"
+msgstr "Note a piè di pagina e note di chiusura"
+
+msgid "Footnotes to endnotes"
+msgstr "Note a piè di pagina in note di chiusura"
+
+msgid "For which item:"
+msgstr "Per quale elemento:"
+
+msgid "Format Page Numbers"
+msgstr "Formato numeri di pagina"
+
+msgid "Format Page Numbers…"
+msgstr "Formato numeri di pagina…"
+
+msgid "Format Painter"
+msgstr "Copia formato"
+
+msgid "Format Shape"
+msgstr "Formato forma"
+
+msgid "Format Shape Pane"
+msgstr "Riquadro Formato forma"
+
+msgid "Format Shape…"
+msgstr "Formato forma…"
+
+msgid "Formatted"
+msgstr "Formattato"
+
+msgid "Formatted Text"
+msgstr "Testo formattato"
+
+msgid "Formatting"
+msgstr "Formattazione"
+
+msgid "Formatting at Selection"
+msgstr "Formattazione nella selezione"
+
+msgid "Formatting exceptions"
+msgstr "Eccezioni di formattazione"
+
+msgid "Formatting marks"
+msgstr "Segni di formattazione"
+
+msgid "Formatting saved for new documents:"
+msgstr "Formattazione salvata per i nuovi documenti:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Vengono confrontati formattazione, maiuscole/minuscole, spazi vuoti e tabelle; le altre impostazioni restano per un secondo momento."
+
+msgid "Formula"
+msgstr "Formula"
+
+msgid "Formula:"
+msgstr "Formula:"
+
+msgid "Forward"
+msgstr "Avanti"
+
+msgid "Fraction"
+msgstr "Frazione"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Frazioni (1/2) con caratteri frazione (½)"
+
+msgid "Frames and effects"
+msgstr "Cornici ed effetti"
+
+msgid "France"
+msgstr "Francia"
+
+msgid "French (France)"
+msgstr "Francese (Francia)"
+
+msgid "From Bottom Left Corner"
+msgstr "Dall'angolo in basso a sinistra"
+
+msgid "From Bottom Right Corner"
+msgstr "Dall'angolo in basso a destra"
+
+msgid "From Center"
+msgstr "Dal centro"
+
+msgid "From text:"
+msgstr "Distanza dal testo:"
+
+msgid "From Top Left Corner"
+msgstr "Dall'angolo in alto a sinistra"
+
+msgid "From Top Right Corner"
+msgstr "Dall'angolo in alto a destra"
+
+msgid "from Unicode (hex)"
+msgstr "da Unicode (esad.)"
+
+msgid "From {name}"
+msgstr "Da {name}"
+
+msgid "From:"
+msgstr "Da:"
+
+msgid "Full page of the same label"
+msgstr "Pagina intera con la stessa etichetta"
+
+msgid "Full Saturation 100%"
+msgstr "Saturazione piena 100%"
+
+msgid "Full Screen View"
+msgstr "Visualizzazione a schermo intero"
+
+msgid "Full\nScreen"
+msgstr "Schermo\nintero"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Curiosità: una pagina bianca è solo una bozza a cui nessuno l'ha ancora detto."
+
+msgid "Function"
+msgstr "Funzione"
+
+msgid "Galician"
+msgstr "Galiziano"
+
+msgid "Gallery"
+msgstr "Galleria"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "Georgiano"
+
+msgid "German (Germany)"
+msgstr "Tedesco (Germania)"
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Recupera l'elenco dei pacchetti lingua, poi il pacchetto di questa lingua se esiste."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Colori bagliore"
+
+msgid "Go Back"
+msgstr "Torna indietro"
+
+msgid "Go To"
+msgstr "Vai a"
+
+msgid "Go to"
+msgstr "Vai a"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Vai a (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Vai al record"
+
+msgid "Go to what:"
+msgstr "Vai a:"
+
+msgid "Go To…"
+msgstr "Vai a…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Sparito! Come se non fosse mai stato scritto. Soprattutto perché ora, in effetti, non lo è mai stato."
+
+msgid "Good afternoon"
+msgstr "Buon pomeriggio"
+
+msgid "Good evening"
+msgstr "Buonasera"
+
+msgid "Good morning"
+msgstr "Buongiorno"
+
+msgid "GOST (name sort)"
+msgstr "GOST (ordinamento per nome)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (ordinamento per titolo)"
+
+msgid "Grab bag"
+msgstr "Dati aggiuntivi"
+
+msgid "Gradient fill"
+msgstr "Riempimento sfumato"
+
+msgid "Gradient stops"
+msgstr "Punti di sfumatura"
+
+msgid "Grammar built in"
+msgstr "Grammatica integrata"
+
+msgid "Grave"
+msgstr "Accento grave"
+
+msgid "Gray 0%"
+msgstr "Grigio 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Maggiore di"
+
+msgid "Greater than or equal"
+msgstr "Maggiore o uguale a"
+
+msgid "Greek"
+msgstr "Greco"
+
+msgid "Greek Letters"
+msgstr "Lettere greche"
+
+msgid "Green:"
+msgstr "Verde:"
+
+msgid "Greeting Line"
+msgstr "Formula di apertura"
+
+msgid "Greeting\nLine"
+msgstr "Formula di\napertura"
+
+msgid "Grid Table 1 Light"
+msgstr "Tabella griglia 1 chiara"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Tabella griglia 4 – Blu"
+
+msgid "Grid Table 4 – Green"
+msgstr "Tabella griglia 4 – Verde"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Tabella griglia 4 – Arancione"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Tabella griglia 4 – Viola"
+
+msgid "Gridlines"
+msgstr "Griglia"
+
+msgid "Grouping Character Above"
+msgstr "Carattere di raggruppamento sopra"
+
+msgid "Grouping Character Below"
+msgstr "Carattere di raggruppamento sotto"
+
+msgid "Grow Font 1 Point"
+msgstr "Aumenta carattere di 1 punto"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "A:"
+
+msgid "Hanging Indent"
+msgstr "Rientro sporgente"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Cappello"
+
+msgid "Header"
+msgstr "Intestazione"
+
+msgid "Header & Footer"
+msgstr "Intestazione e piè di pagina"
+
+msgid "Header Row"
+msgstr "Riga di intestazione"
+
+msgid "Header row"
+msgstr "Riga di intestazione"
+
+msgid "Header/Footer Position"
+msgstr "Posizione intestazione e piè di pagina"
+
+msgid "Headers and footers"
+msgstr "Intestazioni e piè di pagina"
+
+msgid "Heading"
+msgstr "Titolo"
+
+msgid "Heading 1"
+msgstr "Titolo 1"
+
+msgid "Heading 2"
+msgstr "Titolo 2"
+
+msgid "Heading 3"
+msgstr "Titolo 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Stili titolo (livelli 1–{n})"
+
+msgid "Heading text"
+msgstr "Testo del titolo"
+
+msgid "Heading {n}"
+msgstr "Titolo {n}"
+
+msgid "Hebrew"
+msgstr "Ebraico"
+
+msgid "Hex:"
+msgstr "Esad.:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Ciao! Sono Nib, il tuo assistente di scrittura. Offro consigli, scorciatoie e, ogni tanto, un'opinione non richiesta. Resto nei paraggi?"
+
+msgid "Hidden bookmarks"
+msgstr "Segnalibri nascosti"
+
+msgid "Hide Codes"
+msgstr "Nascondi codici"
+
+msgid "Hide from style lists"
+msgstr "Nascondi dagli elenchi di stili"
+
+msgid "Hide Ink"
+msgstr "Nascondi input penna"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Nascondi barra di accesso rapido"
+
+msgid "Hide White Space"
+msgstr "Nascondi spazi vuoti"
+
+msgid "Hide\nInk"
+msgstr "Nascondi\ninput penna"
+
+msgid "Hierarchy"
+msgstr "Gerarchia"
+
+msgid "Highlight"
+msgstr "Evidenziazione"
+
+msgid "Highlight Merge Fields"
+msgstr "Evidenzia campi unione"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Evidenzia\ncampi unione"
+
+msgid "Highlighter"
+msgstr "Evidenziatore"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Cartella home"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "RAS di Hong Kong"
+
+msgid "Horizontal Line"
+msgstr "Linea orizzontale"
+
+msgid "How many pages the whole document has"
+msgstr "Numero di pagine dell'intero documento"
+
+msgid "How many pages this section has"
+msgstr "Numero di pagine di questa sezione"
+
+msgid "How many words the document holds"
+msgstr "Numero di parole del documento"
+
+msgid "HTML Format"
+msgstr "Formato HTML"
+
+msgid "Hue:"
+msgstr "Tonalità:"
+
+msgid "Hungarian"
+msgstr "Ungherese"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "I file Hunspell .aff e .dic in questa cartella (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) hanno la precedenza su quelli di sistema."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Funzione cosecante iperbolica"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Funzione coseno iperbolico"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Funzione cotangente iperbolica"
+
+msgid "Hyperbolic Functions"
+msgstr "Funzioni iperboliche"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Funzione secante iperbolica"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Funzione seno iperbolico"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Funzione tangente iperbolica"
+
+msgid "Hyperlink"
+msgstr "Collegamento ipertestuale"
+
+msgid "Hyphenate at:"
+msgstr "Sillaba in:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Sillaba parole in MAIUSCOLO"
+
+msgid "Hyphenation Options…"
+msgstr "Opzioni sillabazione…"
+
+msgid "Hyphenation zone:"
+msgstr "Area di sillabazione:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Trattini (--) con lineette (—)"
+
+msgid "Hypotenuse"
+msgstr "Ipotenusa"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Giuro che è salvato. Ho controllato. Due volte."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Scriverei qualcosa anch'io, ma sono tanto pennino e poco inchiostro."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "Islandese"
+
+msgid "Icon Color"
+msgstr "Colore icona"
+
+msgid "Icons"
+msgstr "Icone"
+
+msgid "Identity Matrices"
+msgstr "Matrici identità"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Se…Allora…Altrimenti"
+
+msgid "If…Then…Else…"
+msgstr "Se…Allora…Altrimenti…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Ignora segni di punteggiatura"
+
+msgid "Ignore web and file addresses"
+msgstr "Ignora indirizzi web e di file"
+
+msgid "Ignore white-space characters"
+msgstr "Ignora spazi vuoti"
+
+msgid "Ignore words in capitals"
+msgstr "Ignora parole in MAIUSCOLO"
+
+msgid "Ignore words with numbers"
+msgstr "Ignora parole che contengono numeri"
+
+msgid "Illustrations"
+msgstr "Illustrazioni"
+
+msgid "Immersive"
+msgstr "Immersiva"
+
+msgid "Immersive Reader"
+msgstr "Strumento di lettura immersiva"
+
+msgid "Immersive\nReader"
+msgstr "Strumento di\nlettura immersiva"
+
+msgid "Imported 1 source"
+msgstr "Importata 1 fonte"
+
+msgid "Imported {n} sources"
+msgstr "Fonti importate: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "In App predefinite, scegli WordCraft per i tipi di documento che deve aprire."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Nelle equazioni, un nome digitato dopo una barra rovesciata viene sostituito dal suo simbolo."
+
+msgid "In Front of Text"
+msgstr "Davanti al testo"
+
+msgid "In Line with Text"
+msgstr "In linea con il testo"
+
+msgid "In margin"
+msgstr "Nel margine"
+
+msgid "In the margin"
+msgstr "A margine"
+
+msgid "Include label and number"
+msgstr "Includi etichetta e numero"
+
+msgid "Include level number from:"
+msgstr "Includi numero di livello da:"
+
+msgid "Include page numbers"
+msgstr "Includi numeri di pagina"
+
+msgid "Increase Indent"
+msgstr "Aumenta rientro"
+
+msgid "Indent"
+msgstr "Rientro"
+
+msgid "Indent from left:"
+msgstr "Rientro da sinistra:"
+
+msgid "Indentation"
+msgstr "Rientri"
+
+msgid "Indented"
+msgstr "Rientrato"
+
+msgid "Indents"
+msgstr "Rientri"
+
+msgid "Indents and Spacing"
+msgstr "Rientri e spaziatura"
+
+msgid "Index and Tables"
+msgstr "Indici e tabelle"
+
+msgid "Index Heading"
+msgstr "Intestazione indice"
+
+msgid "Index {n}"
+msgstr "Indice {n}"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesian"
+msgstr "Indonesiano"
+
+msgid "Initial column width:"
+msgstr "Larghezza colonna iniziale:"
+
+msgid "Initials:"
+msgstr "Iniziali:"
+
+msgid "Ink"
+msgstr "Input penna"
+
+msgid "Ink Replay"
+msgstr "Riproduci input penna"
+
+msgid "Ink to Shape"
+msgstr "Input penna in forma"
+
+msgid "Ink to\nMath"
+msgstr "Input penna\nin formula"
+
+msgid "Ink to\nShape"
+msgstr "Input penna\nin forma"
+
+msgid "Ink\nReplay"
+msgstr "Riproduci\ninput penna"
+
+msgid "Inline"
+msgstr "In linea"
+
+msgid "Input Format"
+msgstr "Formato di input"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Inserisci una nuova equazione (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Inserisci sopra"
+
+msgid "Insert Below"
+msgstr "Inserisci sotto"
+
+msgid "Insert Caption"
+msgstr "Inserisci didascalia"
+
+msgid "Insert Caption…"
+msgstr "Inserisci didascalia…"
+
+msgid "Insert Chart"
+msgstr "Inserisci grafico"
+
+msgid "Insert Citation"
+msgstr "Inserisci citazione"
+
+msgid "Insert Columns to the Left"
+msgstr "Inserisci colonne a sinistra"
+
+msgid "Insert Columns to the Right"
+msgstr "Inserisci colonne a destra"
+
+msgid "Insert Date Field"
+msgstr "Inserisci campo data"
+
+msgid "Insert Diagram"
+msgstr "Inserisci diagramma"
+
+msgid "Insert Endnote"
+msgstr "Inserisci nota di chiusura"
+
+msgid "Insert Footnote"
+msgstr "Inserisci nota a piè di pagina"
+
+msgid "Insert Hyperlink"
+msgstr "Inserisci collegamento"
+
+msgid "Insert Index"
+msgstr "Inserisci indice"
+
+msgid "Insert Left"
+msgstr "Inserisci a sinistra"
+
+msgid "Insert Merge Field"
+msgstr "Inserisci campo unione"
+
+msgid "Insert Merge\nField"
+msgstr "Inserisci\ncampo unione"
+
+msgid "Insert New Equation"
+msgstr "Inserisci nuova equazione"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Inserisci un testo o un altro, in base al valore di un campo."
+
+msgid "Insert Page Field"
+msgstr "Inserisci campo pagina"
+
+msgid "Insert reference to:"
+msgstr "Inserisci riferimento a:"
+
+msgid "Insert Right"
+msgstr "Inserisci a destra"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Inserisci riga o colonna con un clic"
+
+msgid "Insert Rows Above"
+msgstr "Inserisci righe sopra"
+
+msgid "Insert Rows Below"
+msgstr "Inserisci righe sotto"
+
+msgid "Insert Shapes"
+msgstr "Inserisci forme"
+
+msgid "Insert SmartArt"
+msgstr "Inserisci SmartArt"
+
+msgid "Insert Spike"
+msgstr "Inserisci raccoglitore"
+
+msgid "Insert Structure"
+msgstr "Inserisci struttura"
+
+msgid "Insert Symbol"
+msgstr "Inserisci simbolo"
+
+msgid "Insert Table"
+msgstr "Inserisci tabella"
+
+msgid "Insert Table of Authorities"
+msgstr "Inserisci indice delle fonti"
+
+msgid "Insert Table of Figures"
+msgstr "Inserisci indice delle figure"
+
+msgid "Insert Table…"
+msgstr "Inserisci tabella…"
+
+msgid "Insert Time Field"
+msgstr "Inserisci campo ora"
+
+msgid "Insert\nAbove"
+msgstr "Inserisci\nsopra"
+
+msgid "Insert\nCaption"
+msgstr "Inserisci\ndidascalia"
+
+msgid "Insert\nCitation"
+msgstr "Inserisci\ncitazione"
+
+msgid "Insert\nFootnote"
+msgstr "Inserisci nota\na piè di pagina"
+
+msgid "Insertions and Deletions"
+msgstr "Inserimenti ed eliminazioni"
+
+msgid "Insertions:"
+msgstr "Inserimenti:"
+
+msgid "Inside Borders"
+msgstr "Bordi interni"
+
+msgid "Inside Horizontal Border"
+msgstr "Bordo orizzontale interno"
+
+msgid "Inside Vertical Border"
+msgstr "Bordo verticale interno"
+
+msgid "Inside:"
+msgstr "Interno:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Ispeziona stili nella selezione"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Installa ortografia ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Istituzione"
+
+msgid "Integral"
+msgstr "Integrale"
+
+msgid "Integral of e^(−x²)"
+msgstr "Integrale di e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Integrale con limiti"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integrale con limiti sovrapposti"
+
+msgid "Integrals"
+msgstr "Integrali"
+
+msgid "Intense Emphasis"
+msgstr "Enfasi intensa"
+
+msgid "Intense Quote"
+msgstr "Citazione intensa"
+
+msgid "Intense Reference"
+msgstr "Riferimento intenso"
+
+msgid "Interface language:"
+msgstr "Lingua dell'interfaccia:"
+
+msgid "Interface size:"
+msgstr "Dimensioni interfaccia:"
+
+msgid "Interface theme:"
+msgstr "Tema dell'interfaccia:"
+
+msgid "Interface\nTheme"
+msgstr "Tema\ninterfaccia"
+
+msgid "Internet addresses as links"
+msgstr "Indirizzi Internet con collegamenti"
+
+msgid "Intersection with Limits"
+msgstr "Intersezione con limiti"
+
+msgid "Intersection with Lower Limit"
+msgstr "Intersezione con limite inferiore"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Intersezione con limiti a pedice e apice"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Funzione cosecante inversa"
+
+msgid "Inverse Cosine Function"
+msgstr "Funzione coseno inverso"
+
+msgid "Inverse Cotangent Function"
+msgstr "Funzione cotangente inversa"
+
+msgid "Inverse Functions"
+msgstr "Funzioni inverse"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Funzione cosecante iperbolica inversa"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Funzione coseno iperbolico inverso"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Funzione cotangente iperbolica inversa"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Funzioni iperboliche inverse"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Funzione secante iperbolica inversa"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Funzione seno iperbolico inverso"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Funzione tangente iperbolica inversa"
+
+msgid "Inverse Secant Function"
+msgstr "Funzione secante inversa"
+
+msgid "Inverse Sine Function"
+msgstr "Funzione seno inverso"
+
+msgid "Inverse Tangent Function"
+msgstr "Funzione tangente inversa"
+
+msgid "Ionosphere"
+msgstr "Ionosfera"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Irish"
+msgstr "Irlandese"
+
+msgid "Is blank"
+msgstr "È vuoto"
+
+msgid "Is not blank"
+msgstr "Non è vuoto"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (autore-data)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (numerico)"
+
+msgid "Issue"
+msgstr "Fascicolo"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Sembra che tu stia scrivendo una lettera. Vuoi una busta, o un modello di lettera da cui partire?"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Non è stato possibile leggere il suo dizionario: {reason}"
+
+msgid "Jamaica"
+msgstr "Giamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Unisciti alla community di ArtCraft su Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Unisciti a noi su Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Giordania"
+
+msgid "Journal"
+msgstr "Rivista scientifica"
+
+msgid "Journal article"
+msgstr "Articolo di rivista"
+
+msgid "Justification of a display equation"
+msgstr "Allineamento di un'equazione su riga propria"
+
+msgid "Justified"
+msgstr "Giustificato"
+
+msgid "Kazakhstan"
+msgstr "Kazakistan"
+
+msgid "Keep Lines Together"
+msgstr "Mantieni righe insieme"
+
+msgid "Keep lines together"
+msgstr "Mantieni righe insieme"
+
+msgid "Keep me around"
+msgstr "Resta nei paraggi"
+
+msgid "Keep Text Only"
+msgstr "Mantieni solo testo"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Conserva la password in un luogo sicuro: senza di essa nessuno, nemmeno WordCraft, può aprire il documento. Lascia vuote entrambe le caselle per rimuovere la password."
+
+msgid "Keep with Next"
+msgstr "Mantieni con il successivo"
+
+msgid "Keep with next"
+msgstr "Mantieni con il successivo"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Mantiene i caratteri e la formattazione del testo copiato."
+
+msgid "Kerning for fonts:"
+msgstr "Crenatura per i caratteri:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Scelte rapide da tastiera:"
+
+msgid "Keys for this command:"
+msgstr "Tasti per questo comando:"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Label changes with:"
+msgstr "Etichetta le modifiche con:"
+
+msgid "Label:"
+msgstr "Etichetta:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Preferenze lingua…"
+
+msgid "Large\nOperator"
+msgstr "Operatore\ngrande"
+
+msgid "Largest Only"
+msgstr "Solo il lato più ampio"
+
+msgid "Lasso Select"
+msgstr "Selezione con lazo"
+
+msgid "Last Column"
+msgstr "Ultima colonna"
+
+msgid "Last Name"
+msgstr "Cognome"
+
+msgid "Last Record"
+msgstr "Ultimo record"
+
+msgid "Last, First; Last, First"
+msgstr "Cognome, Nome; Cognome, Nome"
+
+msgid "Latin text font:"
+msgstr "Carattere testo latino:"
+
+msgid "Latvian"
+msgstr "Lettone"
+
+msgid "Layout Summary"
+msgstr "Riepilogo layout"
+
+msgid "Layouts"
+msgstr "Layout"
+
+msgid "Leader"
+msgstr "Carattere di riempimento"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Escludi un destinatario dall'unione quando un campo ha questo valore."
+
+msgid "Leave Equation"
+msgstr "Esci dall'equazione"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Ometti data e ora di commenti e revisioni al salvataggio"
+
+msgid "Leave the equation (Esc)"
+msgstr "Esci dall'equazione (Esc)"
+
+msgid "leave the equation first"
+msgstr "esci prima dall'equazione"
+
+msgid "Leave the label out of the caption"
+msgstr "Escludi l'etichetta dalla didascalia"
+
+msgid "Lebanon"
+msgstr "Libano"
+
+msgid "Left Arrow with Text Above"
+msgstr "Freccia a sinistra con testo sopra"
+
+msgid "Left Arrow with Text Below"
+msgstr "Freccia a sinistra con testo sotto"
+
+msgid "Left Border"
+msgstr "Bordo sinistro"
+
+msgid "Left border"
+msgstr "Bordo sinistro"
+
+msgid "Left Bracket Twice"
+msgstr "Parentesi quadra sinistra due volte"
+
+msgid "Left indent"
+msgstr "Rientro sinistro"
+
+msgid "Left Margin"
+msgstr "Margine sinistro"
+
+msgid "Left Only"
+msgstr "Solo a sinistra"
+
+msgid "Left Right Arrow Above"
+msgstr "Freccia sinistra-destra sopra"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Freccia sinistra-destra con testo sopra"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Freccia sinistra-destra con testo sotto"
+
+msgid "Left Subscript-Superscript"
+msgstr "Pedice e apice a sinistra"
+
+msgid "Left-to-right"
+msgstr "Da sinistra a destra"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Direzione del testo da sinistra a destra"
+
+msgid "Leftwards Arrow Above"
+msgstr "Freccia verso sinistra sopra"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Arpione verso sinistra sopra"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8,50\" × 14,00\""
+
+msgid "Legal style numbering"
+msgstr "Numerazione stile legale"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Less Contrast −20%"
+msgstr "Meno contrasto −20%"
+
+msgid "Less than"
+msgstr "Minore di"
+
+msgid "Less than or equal"
+msgstr "Minore o uguale a"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Lettera"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8,50\" × 11,00\""
+
+msgid "Letter headings"
+msgstr "Intestazioni per lettera"
+
+msgid "Letter template"
+msgstr "Modello di lettera"
+
+msgid "Letter-Like Symbols"
+msgstr "Simboli simili a lettere"
+
+msgid "Letters"
+msgstr "Lettere"
+
+msgid "Level 5"
+msgstr "Livello 5"
+
+msgid "Level 6"
+msgstr "Livello 6"
+
+msgid "Level 7"
+msgstr "Livello 7"
+
+msgid "Level 8"
+msgstr "Livello 8"
+
+msgid "Level 9"
+msgstr "Livello 9"
+
+msgid "Level {n}"
+msgstr "Livello {n}"
+
+msgid "Levels:"
+msgstr "Livelli:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr "Varianti chiare"
+
+msgid "Light with Outline"
+msgstr "Chiaro con contorno"
+
+msgid "Limit"
+msgstr "Limite"
+
+msgid "Limit and"
+msgstr "Limite e"
+
+msgid "Limit and\nLog"
+msgstr "Limite e\nlogaritmo"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Limita trattini consecutivi a:"
+
+msgid "Limit Example"
+msgstr "Esempio di limite"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Limita la formattazione a una selezione di stili"
+
+msgid "Line and Page Breaks"
+msgstr "Interruzioni di riga e di pagina"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Interlinea e spaziatura paragrafo"
+
+msgid "Line between"
+msgstr "Linea tra le colonne"
+
+msgid "Line Break"
+msgstr "Interruzione di riga"
+
+msgid "Line breaking"
+msgstr "Divisione delle righe"
+
+msgid "Line End"
+msgstr "Fine riga"
+
+msgid "Line Number"
+msgstr "Numero di riga"
+
+msgid "Line Numbering Options…"
+msgstr "Opzioni numeri di riga…"
+
+msgid "Line Numbers"
+msgstr "Numeri di riga"
+
+msgid "Line Spacing"
+msgstr "Interlinea"
+
+msgid "Line Spacing Options…"
+msgstr "Opzioni interlinea…"
+
+msgid "Line spacing:"
+msgstr "Interlinea:"
+
+msgid "Line Start"
+msgstr "Inizio riga"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Lineare diagonale - da in basso a sinistra a in alto a destra"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Lineare diagonale - da in basso a destra a in alto a sinistra"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Lineare diagonale - da in alto a sinistra a in basso a destra"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Lineare diagonale - da in alto a destra a in basso a sinistra"
+
+msgid "Linear Down"
+msgstr "Lineare verso il basso"
+
+msgid "Linear Fraction"
+msgstr "Frazione lineare"
+
+msgid "Linear Left"
+msgstr "Lineare verso sinistra"
+
+msgid "Linear Right"
+msgstr "Lineare verso destra"
+
+msgid "Linear Up"
+msgstr "Lineare verso l'alto"
+
+msgid "Lines and characters"
+msgstr "Righe e caratteri"
+
+msgid "Lines only"
+msgstr "Solo righe"
+
+msgid "Lines per page:"
+msgstr "Righe per pagina:"
+
+msgid "Lines to drop:"
+msgstr "Altezza in righe:"
+
+msgid "Link entries to their headings"
+msgstr "Collega le voci ai rispettivi titoli"
+
+msgid "Link level to style:"
+msgstr "Collega livello allo stile:"
+
+msgid "Link to Previous"
+msgstr "Collega al precedente"
+
+msgid "Link to:"
+msgstr "Collega a:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Stile collegato (paragrafo e carattere)"
+
+msgid "Links and References"
+msgstr "Collegamenti e riferimenti"
+
+msgid "Link…"
+msgstr "Collegamento…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Definizione elenco"
+
+msgid "List entries"
+msgstr "Voci elenco"
+
+msgid "List Paragraph"
+msgstr "Paragrafo elenco"
+
+msgid "List Table 3 – Blue"
+msgstr "Tabella elenco 3 – Blu"
+
+msgid "List Table 3 – Green"
+msgstr "Tabella elenco 3 – Verde"
+
+msgid "List Table 3 – Orange"
+msgstr "Tabella elenco 3 – Arancione"
+
+msgid "List Table 3 – Purple"
+msgstr "Tabella elenco 3 – Viola"
+
+msgid "Lit from Bottom"
+msgstr "Illuminato dal basso"
+
+msgid "Lit from Top"
+msgstr "Illuminato dall'alto"
+
+msgid "Lithuanian"
+msgstr "Lituano"
+
+msgid "Load System Installed Fonts…"
+msgstr "Carica caratteri di sistema installati…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Caricati {count} caratteri di sistema."
+
+msgid "Local font access is not supported by your browser."
+msgstr "L'accesso ai caratteri locali non è supportato dal browser."
+
+msgid "Local font access was denied."
+msgstr "L'accesso ai caratteri locali è stato negato."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "Il recupero locale non è disponibile o è ancora in caricamento."
+
+msgid "Location: {path}"
+msgstr "Percorso: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Blocca proporzioni"
+
+msgid "Lock Fields"
+msgstr "Blocca campi"
+
+msgid "Log"
+msgstr "Logaritmo"
+
+msgid "Logarithm"
+msgstr "Logaritmo"
+
+msgid "Logarithm with Base"
+msgstr "Logaritmo con base"
+
+msgid "Logical AND"
+msgstr "AND logico"
+
+msgid "Logical AND with Limits"
+msgstr "AND logico con limiti"
+
+msgid "Logical OR"
+msgstr "OR logico"
+
+msgid "Logical OR with Limits"
+msgstr "OR logico con limiti"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: perché le parole vere sono ancora al bar."
+
+msgid "Lum:"
+msgstr "Lum.:"
+
+msgid "Luxembourg"
+msgstr "Lussemburgo"
+
+msgid "Macao SAR"
+msgstr "RAS di Macao"
+
+msgid "Macedonian"
+msgstr "Macedone"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Macro"
+
+msgid "Made from the author and year when empty"
+msgstr "Se vuoto, viene composto da autore e anno"
+
+msgid "Magazine or newspaper article"
+msgstr "Articolo di rivista o giornale"
+
+msgid "Mail Merge"
+msgstr "Stampa unione"
+
+msgid "Mailings"
+msgstr "Lettere"
+
+msgid "Main entry:"
+msgstr "Voce principale:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Rendi WordCraft l'app predefinita per i documenti Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Ingrandisce o riduce la barra multifunzione, i menu e le finestre di dialogo. Auto segue il ridimensionamento dello schermo del sistema; 100% è un pixel dello schermo per punto. Lo zoom del documento è separato."
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Manage Sources"
+msgstr "Gestisci fonti"
+
+msgid "Manage Styles"
+msgstr "Gestisci stili"
+
+msgid "Manage Styles…"
+msgstr "Gestisci stili…"
+
+msgid "Manual Hyphenation"
+msgstr "Sillabazione manuale"
+
+msgid "Manual hyphenation is complete."
+msgstr "Sillabazione manuale completata."
+
+msgid "Manual Line Break"
+msgstr "Interruzione di riga manuale"
+
+msgid "Manual Page Break"
+msgstr "Interruzione di pagina manuale"
+
+msgid "Manual…"
+msgstr "Manuale…"
+
+msgid "Many pages"
+msgstr "Più pagine"
+
+msgid "Mark"
+msgstr "Segna"
+
+msgid "Mark All"
+msgstr "Segna tutto"
+
+msgid "Mark as decorative"
+msgstr "Contrassegna come decorativo"
+
+msgid "Mark Citation"
+msgstr "Segna citazione"
+
+msgid "Mark Entry"
+msgstr "Segna voce"
+
+msgid "Mark Entry…"
+msgstr "Segna voce…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Segna gli errori grammaticali durante la digitazione"
+
+msgid "Mark Index Entry"
+msgstr "Segna voce di indice"
+
+msgid "Mark selected text as:"
+msgstr "Contrassegna il testo selezionato come:"
+
+msgid "Mark\nCitation"
+msgstr "Segna\ncitazione"
+
+msgid "Mark\nEntry"
+msgstr "Segna\nvoce"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Maiuscole/minuscole"
+
+msgid "Match Fields"
+msgstr "Corrispondenza campi"
+
+msgid "Match prefix"
+msgstr "Confronta prefisso"
+
+msgid "Match suffix"
+msgstr "Confronta suffisso"
+
+msgid "Matches: {count}"
+msgstr "Corrispondenze: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Correzione automatica formule"
+
+msgid "Matrices with Brackets"
+msgstr "Matrici tra parentesi"
+
+msgid "Matrix"
+msgstr "Matrice"
+
+msgid "Maximum Example"
+msgstr "Esempio di massimo"
+
+msgid "Measured By"
+msgstr "Misurato da"
+
+msgid "Measurement units:"
+msgstr "Unità di misura:"
+
+msgid "Merge cells before split"
+msgstr "Unisci le celle prima di dividere"
+
+msgid "Merge Formatting"
+msgstr "Unisci formattazione"
+
+msgid "Merge Record #"
+msgstr "Record n."
+
+msgid "Mesosphere"
+msgstr "Mesosfera"
+
+msgid "Mexico"
+msgstr "Messico"
+
+msgid "Midline Dots"
+msgstr "Puntini centrati"
+
+msgid "Minus Equal"
+msgstr "Meno uguale"
+
+msgid "Mirror indents"
+msgstr "Rientri speculari"
+
+msgid "Mirror margins"
+msgstr "Margini speculari"
+
+msgid "Mirrored"
+msgstr "Speculari"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team e i collaboratori di WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Moderato"
+
+msgid "Modify Style"
+msgstr "Modifica stile"
+
+msgid "Modify Table Style"
+msgstr "Modifica stile tabella"
+
+msgid "Modify Table Style…"
+msgstr "Modifica stile tabella…"
+
+msgid "Modify…"
+msgstr "Modifica…"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Mese"
+
+msgid "More >>"
+msgstr "Altro >>"
+
+msgid "More Colors…"
+msgstr "Altri colori…"
+
+msgid "More Columns…"
+msgstr "Altre colonne…"
+
+msgid "More Commands…"
+msgstr "Altri comandi…"
+
+msgid "More Contrast +20%"
+msgstr "Più contrasto +20%"
+
+msgid "More Gradients…"
+msgstr "Altre sfumature…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Altre dimensioni carta…"
+
+msgid "More Symbols…"
+msgstr "Altri simboli…"
+
+msgid "More tabs"
+msgstr "Altre schede"
+
+msgid "More templates →"
+msgstr "Altri modelli →"
+
+msgid "More Underlines…"
+msgstr "Altre sottolineature…"
+
+msgid "Morocco"
+msgstr "Marocco"
+
+msgid "Move in Equation"
+msgstr "Spostati nell'equazione"
+
+msgid "Move or Resize"
+msgstr "Sposta o ridimensiona"
+
+msgid "Move Pane: {title}"
+msgstr "Sposta riquadro: {title}"
+
+msgid "Move Paragraph Down"
+msgstr "Sposta paragrafo giù"
+
+msgid "Move Paragraph Up"
+msgstr "Sposta paragrafo su"
+
+msgid "Move Past Citation"
+msgstr "Sposta dopo la citazione"
+
+msgid "Move Past\nCitation"
+msgstr "Sposta dopo\nla citazione"
+
+msgid "Move Selected Ink"
+msgstr "Sposta input penna selezionato"
+
+msgid "Move Table by Dragging"
+msgstr "Sposta la tabella trascinando"
+
+msgid "Move with Text"
+msgstr "Sposta con il testo"
+
+msgid "Moved from"
+msgstr "Spostato da"
+
+msgid "Moved from:"
+msgstr "Spostato da:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Gli oggetti spostati si agganciano ai bordi e al centro della pagina, ai margini e agli altri oggetti. Tieni premuto Alt per spostarli liberamente."
+
+msgid "Moved to"
+msgstr "Spostato in"
+
+msgid "Moved to:"
+msgstr "Spostato in:"
+
+msgid "Moves"
+msgstr "Spostamenti"
+
+msgid "Mozambique"
+msgstr "Mozambico"
+
+msgid "Multilevel List"
+msgstr "Elenco a più livelli"
+
+msgid "Multilevel List Library"
+msgstr "Raccolta elenchi a più livelli"
+
+msgid "Multiple Pages"
+msgstr "Più pagine"
+
+msgid "Mute agent messages"
+msgstr "Disattiva i messaggi degli agenti"
+
+msgid "Muted 50%"
+msgstr "Attenuato 50%"
+
+msgid "My list has"
+msgstr "L’elenco ha"
+
+msgid "Name of the file this document is saved as"
+msgstr "Nome del file con cui è salvato il documento"
+
+msgid "Narrow"
+msgstr "Stretta"
+
+msgid "Narrow  {size} all"
+msgstr "Stretto  {size} ovunque"
+
+msgid "Natural Logarithm"
+msgstr "Logaritmo naturale"
+
+msgid "Nature"
+msgstr "Natura"
+
+msgid "Navigation Pane"
+msgstr "Riquadro di spostamento"
+
+msgid "Negated Relations"
+msgstr "Relazioni negate"
+
+msgid "Netherlands"
+msgstr "Paesi Bassi"
+
+msgid "New blank documents are written in this language"
+msgstr "I nuovi documenti vuoti sono scritti in questa lingua"
+
+msgid "New Comment"
+msgstr "Nuovo commento"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "I nuovi commenti e le revisioni vengono registrati con questo nome e queste iniziali."
+
+msgid "New Documents Based on This Template"
+msgstr "Nuovi documenti basati su questo modello"
+
+msgid "New documents based on this template"
+msgstr "Nuovi documenti basati su questo modello"
+
+msgid "New documents will use this font."
+msgstr "I nuovi documenti useranno questo carattere."
+
+msgid "New documents will use this page setup."
+msgstr "I nuovi documenti useranno questa impostazione di pagina."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "I nuovi documenti useranno questa formattazione del paragrafo."
+
+msgid "New documents will use this style."
+msgstr "I nuovi documenti useranno questo stile."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "I nuovi documenti useranno la formattazione integrata di WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "I nuovi documenti useranno la formattazione integrata di WordCraft. Le impostazioni predefinite salvate non potranno essere recuperate. Reimpostare?"
+
+msgid "New Drawing Canvas"
+msgstr "Nuova area di disegno"
+
+msgid "New Entry"
+msgstr "Nuova voce"
+
+msgid "New Label"
+msgstr "Nuova etichetta"
+
+msgid "New Label…"
+msgstr "Nuova etichetta…"
+
+msgid "New Paragraph"
+msgstr "Nuovo paragrafo"
+
+msgid "New shortcut:"
+msgstr "Nuova scelta rapida:"
+
+msgid "New Tab"
+msgstr "Nuova scheda"
+
+msgid "New Table Style"
+msgstr "Nuovo stile tabella"
+
+msgid "New Table Style…"
+msgstr "Nuovo stile tabella…"
+
+msgid "New word"
+msgstr "Nuova parola"
+
+msgid "New Zealand"
+msgstr "Nuova Zelanda"
+
+msgid "New\nComment"
+msgstr "Nuovo\ncommento"
+
+msgid "New\nWindow"
+msgstr "Nuova\nfinestra"
+
+msgid "Next Comment"
+msgstr "Commento successivo"
+
+msgid "Next Field"
+msgstr "Campo successivo"
+
+msgid "Next Footnote"
+msgstr "Nota successiva"
+
+msgid "Next Record"
+msgstr "Record successivo"
+
+msgid "Next Section"
+msgstr "Sezione successiva"
+
+msgid "Next Sentence"
+msgstr "Frase successiva"
+
+msgid "Next sentence"
+msgstr "Frase successiva"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib fluttua sopra la finestra con suggerimenti e qualche commento occasionale."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, il tuo assistente. Trascina per spostarlo; clic destro per le opzioni."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Nessun problema di accessibilità trovato."
+
+msgid "No Border"
+msgstr "Nessun bordo"
+
+msgid "No changes (read only)"
+msgstr "Nessuna modifica (sola lettura)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Questa copia non include dati sui collaboratori."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Nessun documento aperto. Crea o apri prima un documento."
+
+msgid "no equation at the caret"
+msgstr "nessuna equazione al cursore"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Nessun errore trovato: tutti i campi unione sono nell'elenco destinatari."
+
+msgid "No Fill"
+msgstr "Nessun riempimento"
+
+msgid "No fill"
+msgstr "Nessun riempimento"
+
+msgid "No Glow"
+msgstr "Nessun bagliore"
+
+msgid "No Gradient"
+msgstr "Nessuna sfumatura"
+
+msgid "No grid"
+msgstr "Nessuna griglia"
+
+msgid "No header row"
+msgstr "Nessuna riga di intestazione"
+
+msgid "No icons match your search."
+msgstr "Nessuna icona corrisponde alla ricerca."
+
+msgid "No items to show."
+msgstr "Nessun elemento da mostrare."
+
+msgid "No language matches your search."
+msgstr "Nessuna lingua corrisponde alla ricerca."
+
+msgid "No languages to show yet."
+msgstr "Nessuna lingua da mostrare per ora."
+
+msgid "No Markup"
+msgstr "Nessuna revisione"
+
+msgid "No model credits were built into this copy."
+msgstr "Questa copia non include i crediti dei modelli."
+
+msgid "No new sources in that file"
+msgstr "Nessuna nuova fonte in quel file"
+
+msgid "No Outline"
+msgstr "Nessun contorno"
+
+msgid "No Paragraph Space"
+msgstr "Nessuno spazio tra paragrafi"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Nessuna stampante trovata. Configura una stampante di sistema oppure esporta un PDF."
+
+msgid "No recovery copies."
+msgstr "Nessuna copia di recupero."
+
+msgid "No Reflection"
+msgstr "Nessun riflesso"
+
+msgid "No Scaling"
+msgstr "Nessun ridimensionamento"
+
+msgid "No Shadow"
+msgstr "Nessuna ombreggiatura"
+
+msgid "No Soft Edges"
+msgstr "Nessun bordo sfumato"
+
+msgid "No sources yet."
+msgstr "Ancora nessuna fonte."
+
+msgid "No Spacing"
+msgstr "Nessuna spaziatura"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Non è installato alcun dizionario ortografico per {language}, quindi non viene controllata. WordCraft cerca il dizionario Hunspell {name} nella cartella WORDCRAFT_DICTIONARIES e nelle posizioni di sistema abituali."
+
+msgid "No templates match your search."
+msgstr "Nessun modello corrisponde alla ricerca."
+
+msgid "No Transform"
+msgstr "Nessuna trasformazione"
+
+msgid "No watermark"
+msgstr "Nessuna filigrana"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Ancora nessuna parola. Usa Aggiungi al dizionario su una parola errata per inserirla qui."
+
+msgid "No-Width Non Break"
+msgstr "Unione senza larghezza"
+
+msgid "No-Width Optional Break"
+msgstr "Interruzione facoltativa senza larghezza"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Trattino unificatore"
+
+msgid "Normal  {size} all"
+msgstr "Normale  {size} ovunque"
+
+msgid "Normal Indent"
+msgstr "Rientro normale"
+
+msgid "Normal probability density"
+msgstr "Densità di probabilità normale"
+
+msgid "Normal speed"
+msgstr "Velocità normale"
+
+msgid "Normal Style"
+msgstr "Stile normale"
+
+msgid "Normal Table"
+msgstr "Tabella normale"
+
+msgid "Normal Text"
+msgstr "Testo normale"
+
+msgid "Normal Word Document"
+msgstr "Documento Word normale"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norvegese (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Norvegese (nynorsk)"
+
+msgid "Not"
+msgstr "Non"
+
+msgid "Not available right now"
+msgstr "Non disponibile al momento"
+
+msgid "Not available yet"
+msgstr "Non ancora disponibile"
+
+msgid "not editing an equation"
+msgstr "nessuna equazione in modifica"
+
+msgid "Not equal to"
+msgstr "Diverso da"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Non collegata: fai clic su una casella di testo"
+
+msgid "Not now"
+msgstr "Non ora"
+
+msgid "Not saved"
+msgstr "Non salvato"
+
+msgid "Not saved yet"
+msgstr "Non ancora salvato"
+
+msgid "Not set"
+msgstr "Non impostato"
+
+msgid "Not set: the system's usual places"
+msgstr "Non impostata: i percorsi abituali del sistema"
+
+msgid "Not used by any command"
+msgstr "Non usata da alcun comando"
+
+msgid "Not {name}"
+msgstr "Non {name}"
+
+msgid "Nothing"
+msgstr "Niente"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Ancora niente. Ciò che copi o tagli comparirà qui."
+
+msgid "nothing is selected"
+msgstr "nessuna selezione"
+
+msgid "Nothing of this type in the document."
+msgstr "Nel documento non c'è nulla di questo tipo."
+
+msgid "Now used by {command}"
+msgstr "Ora usata da {command}"
+
+msgid "Nudge"
+msgstr "Sposta leggermente"
+
+msgid "Num Occurrences"
+msgstr "Numero di occorrenze"
+
+msgid "Number alignment:"
+msgstr "Allineamento numero:"
+
+msgid "Number format"
+msgstr "Formato numero"
+
+msgid "Number of columns:"
+msgstr "Numero di colonne:"
+
+msgid "Number of rows:"
+msgstr "Numero di righe:"
+
+msgid "Number of the page the field sits on"
+msgstr "Numero della pagina in cui si trova il campo"
+
+msgid "Number of the section the field sits in"
+msgstr "Numero della sezione in cui si trova il campo"
+
+msgid "Number only, without the label's words"
+msgstr "Solo il numero, senza le parole dell'etichetta"
+
+msgid "Number style for this level:"
+msgstr "Stile numero per questo livello:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Numera l'equazione; il numero va al margine destro (oppure digita # e poi il numero)"
+
+msgid "Numbering"
+msgstr "Numerazione"
+
+msgid "Numbering:"
+msgstr "Numerazione:"
+
+msgid "Numbering…"
+msgstr "Numerazione…"
+
+msgid "Numerals"
+msgstr "Cifre"
+
+msgid "Numerals:"
+msgstr "Cifre:"
+
+msgid "n×n Identity Matrix"
+msgstr "Matrice identità n×n"
+
+msgid "n×n Matrix"
+msgstr "Matrice n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Colonne alternate dispari"
+
+msgid "Odd Banded Rows"
+msgstr "Righe alternate dispari"
+
+msgid "Odd Page"
+msgstr "Pagina dispari"
+
+msgid "Office"
+msgstr "Ufficio"
+
+msgid "Office 2003 Default"
+msgstr "Predefinito di Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Scostamento (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Offset: in basso"
+
+msgid "Offset: Bottom Left"
+msgstr "Offset: in basso a sinistra"
+
+msgid "Offset: Bottom Right"
+msgstr "Offset: in basso a destra"
+
+msgid "Offset: Center"
+msgstr "Offset: al centro"
+
+msgid "Offset: Left"
+msgstr "Offset: a sinistra"
+
+msgid "Offset: Right"
+msgstr "Offset: a destra"
+
+msgid "Offset: Top"
+msgstr "Offset: in alto"
+
+msgid "Offset: Top Left"
+msgstr "Offset: in alto a sinistra"
+
+msgid "Offset: Top Right"
+msgstr "Offset: in alto a destra"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Vecchi tasti dei menu: Alt, {keys}. Continua a digitare o premi Esc per annullare."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Attivato: il cursore scorre nella nuova posizione quando scrivi o usi i tasti freccia, e il lampeggio sfuma. Disattivato: salta e lampeggia acceso e spento."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Attivo: WordCraft si apre su File › Home, con un documento vuoto, i modelli e i documenti recenti. Disattivo: apre un documento vuoto."
+
+msgid "One"
+msgstr "Una"
+
+msgid "One half"
+msgstr "Un mezzo"
+
+msgid "One label per recipient"
+msgstr "Un'etichetta per destinatario"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Una riga per elemento. Invio aggiunge un elemento."
+
+msgid "One Page"
+msgstr "Una pagina"
+
+msgid "One-sided"
+msgstr "Solo fronte"
+
+msgid "Only allow this kind of editing:"
+msgstr "Consenti solo questo tipo di modifica:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Si possono aggiungere solo commenti, tranne nelle aree contrassegnate come modificabili."
+
+msgid "Only for the selected text"
+msgstr "Solo per il testo selezionato"
+
+msgid "Only form fields can be filled in."
+msgstr "Si possono compilare solo i campi modulo."
+
+msgid "only in Outline view"
+msgstr "solo nella visualizzazione Struttura"
+
+msgid "Only in this document"
+msgstr "Solo in questo documento"
+
+msgid "Only label and number"
+msgstr "Solo etichetta e numero"
+
+msgid "Only text properties can be changed."
+msgstr "Si possono modificare solo le proprietà di tipo testo."
+
+msgid "Only the allowed styles can be applied."
+msgstr "Si possono applicare solo gli stili consentiti."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Si possono seguire solo collegamenti web (http, https) e di posta elettronica (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Aprire prima un documento"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Apri un file con il browser di WordCraft quando la finestra di dialogo dei file del sistema non compare."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Testo OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Apertura della finestra di stampa…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "D'ora in poi i file .docx, .doc, .rtf e .odt e i modelli di Word si aprono con WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Apre Impostazioni › App predefinite, dove scegli WordCraft per .docx e gli altri tipi di documento."
+
+msgid "Operator"
+msgstr "Operatore"
+
+msgid "Operator Structures"
+msgstr "Strutture di operatori"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Optional Hyphen"
+msgstr "Trattino facoltativo"
+
+msgid "Or"
+msgstr "O"
+
+msgid "Or save a copy in another format:"
+msgstr "Oppure salva una copia in un altro formato:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Ordinali (1st) in apice"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Organizer…"
+msgstr "Organizer…"
+
+msgid "Original document"
+msgstr "Documento originale"
+
+msgid "Original size"
+msgstr "Dimensioni originali"
+
+msgid "Other Large Operators"
+msgstr "Altri operatori grandi"
+
+msgid "Other styles and their TOC level:"
+msgstr "Altri stili e il loro livello nel sommario:"
+
+msgid "Other:"
+msgstr "Altro:"
+
+msgid "Otherwise insert:"
+msgstr "Altrimenti inserisci:"
+
+msgid "Outline Level"
+msgstr "Livello struttura"
+
+msgid "Outline level"
+msgstr "Livello struttura"
+
+msgid "Outline levels"
+msgstr "Livelli struttura"
+
+msgid "Outline State"
+msgstr "Stato struttura"
+
+msgid "Outline Tools"
+msgstr "Strumenti struttura"
+
+msgid "Outlining"
+msgstr "Struttura"
+
+msgid "Outside border"
+msgstr "Bordo esterno"
+
+msgid "Outside Borders"
+msgstr "Bordi esterni"
+
+msgid "Outside:"
+msgstr "Esterno:"
+
+msgid "Outward Brackets"
+msgstr "Parentesi rivolte all'esterno"
+
+msgid "Overbar"
+msgstr "Barra sopra"
+
+msgid "Overbars and Underbars"
+msgstr "Barre sopra e sotto"
+
+msgid "Overbrace"
+msgstr "Graffa sopra"
+
+msgid "Overtype"
+msgstr "Sovrascrittura"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Sovrascrittura (il testo digitato sostituisce i caratteri dopo il cursore)"
+
+msgid "Page Background"
+msgstr "Sfondo pagina"
+
+msgid "Page Border"
+msgstr "Bordo pagina"
+
+msgid "Page Borders"
+msgstr "Bordi pagina"
+
+msgid "Page Break"
+msgstr "Interruzione di pagina"
+
+msgid "Page Break Before"
+msgstr "Interruzione di pagina prima"
+
+msgid "Page break before"
+msgstr "Interruzione di pagina prima"
+
+msgid "Page Breaks"
+msgstr "Interruzioni di pagina"
+
+msgid "Page Color"
+msgstr "Colore pagina"
+
+msgid "Page color"
+msgstr "Colore pagina"
+
+msgid "Page display"
+msgstr "Visualizzazione pagina"
+
+msgid "Page Down"
+msgstr "Pagina giù"
+
+msgid "Page image (*.png)"
+msgstr "Immagine della pagina (*.png)"
+
+msgid "Page Movement"
+msgstr "Spostamento pagina"
+
+msgid "Page Number"
+msgstr "Numero di pagina"
+
+msgid "Page number"
+msgstr "Numero di pagina"
+
+msgid "Page Number Format"
+msgstr "Formato numero di pagina"
+
+msgid "Page number style"
+msgstr "Stile numero di pagina"
+
+msgid "Page numbering"
+msgstr "Numerazione pagine"
+
+msgid "Page numbers at the right margin"
+msgstr "Numeri di pagina al margine destro"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Pagina in cui cade un passaggio con segnalibro"
+
+msgid "Page Setup"
+msgstr "Imposta pagina"
+
+msgid "Page title"
+msgstr "Titolo della pagina"
+
+msgid "Page Up"
+msgstr "Pagina su"
+
+msgid "Page Width"
+msgstr "Larghezza pagina"
+
+msgid "Page width"
+msgstr "Larghezza pagina"
+
+msgid "Page X of Y"
+msgstr "Pagina X di Y"
+
+msgid "Page {page}"
+msgstr "Pagina {page}"
+
+msgid "Page\nBorders"
+msgstr "Bordi\npagina"
+
+msgid "Page\nColor"
+msgstr "Colore\npagina"
+
+msgid "Page\nNumber"
+msgstr "Numero di\npagina"
+
+msgid "Pages in the range"
+msgstr "Pagine dell'intervallo"
+
+msgid "Pages like 1-3, 5"
+msgstr "Pagine, ad es. 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Pagine del segnalibro:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr "Opzioni riquadro"
+
+msgid "Paper size:"
+msgstr "Dimensioni carta:"
+
+msgid "Paragraph Character"
+msgstr "Simbolo di paragrafo"
+
+msgid "Paragraph Details"
+msgstr "Dettagli paragrafo"
+
+msgid "Paragraph Down"
+msgstr "Paragrafo giù"
+
+msgid "Paragraph Mark"
+msgstr "Segno di paragrafo"
+
+msgid "Paragraph marks"
+msgstr "Segni di paragrafo"
+
+msgid "Paragraph Settings"
+msgstr "Impostazioni paragrafo"
+
+msgid "Paragraph Spacing"
+msgstr "Spaziatura paragrafo"
+
+msgid "Paragraph style"
+msgstr "Stile paragrafo"
+
+msgid "Paragraph Up"
+msgstr "Paragrafo su"
+
+msgid "Paragraphs"
+msgstr "Paragrafi"
+
+msgid "Paragraph…"
+msgstr "Paragrafo…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Parentesi tonde"
+
+msgid "Parentheses with Separator"
+msgstr "Parentesi tonde con separatore"
+
+msgid "Partial Differential"
+msgstr "Differenziale parziale"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Paste (⌘V)"
+msgstr "Incolla (⌘V)"
+
+msgid "Paste All"
+msgstr "Incolla tutto"
+
+msgid "Paste as:"
+msgstr "Incolla come:"
+
+msgid "Paste Clipboard Item"
+msgstr "Incolla elemento degli Appunti"
+
+msgid "Paste Formatting"
+msgstr "Incolla formattazione"
+
+msgid "Paste function:"
+msgstr "Incolla funzione:"
+
+msgid "Paste Special…"
+msgstr "Incolla speciale…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Incolla: mantieni solo testo"
+
+msgid "Paste: Merge Formatting"
+msgstr "Incolla: unisci formattazione"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Incolla l'immagine degli appunti."
+
+msgid "Paused"
+msgstr "In pausa"
+
+msgid "PDF document (*.pdf)"
+msgstr "Documento PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Penne"
+
+msgid "People"
+msgstr "Persone"
+
+msgid "Periodical"
+msgstr "Periodico"
+
+msgid "Persian"
+msgstr "Persiano"
+
+msgid "Personal"
+msgstr "Personali"
+
+msgid "Personal Templates"
+msgstr "Modelli personali"
+
+msgid "Personalize"
+msgstr "Personalizza"
+
+msgid "Peru"
+msgstr "Perù"
+
+msgid "Philippines"
+msgstr "Filippine"
+
+msgid "Phonetic Guide"
+msgstr "Guida fonetica"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi su 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Scegli un gruppo personalizzato (Nuovo gruppo ne crea uno)"
+
+msgid "Pick a field from the list"
+msgstr "Scegli un campo dall'elenco"
+
+msgid "Picture"
+msgstr "Immagine"
+
+msgid "Picture Border"
+msgstr "Bordo immagine"
+
+msgid "Picture border"
+msgstr "Bordo immagine"
+
+msgid "Picture Content Control"
+msgstr "Controllo contenuto immagine"
+
+msgid "Picture Format"
+msgstr "Formato immagine"
+
+msgid "Picture Styles"
+msgstr "Stili immagine"
+
+msgid "Picture transparency"
+msgstr "Trasparenza immagine"
+
+msgid "Picture watermark"
+msgstr "Filigrana immagine"
+
+msgid "Pictures"
+msgstr "Immagini"
+
+msgid "Pie"
+msgstr "Torta"
+
+msgid "Place in This Document"
+msgstr "Posizione nel documento"
+
+msgid "Placeholder text"
+msgstr "Testo segnaposto"
+
+msgid "Plain Table 1"
+msgstr "Tabella semplice 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Testo normale (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Controllo contenuto testo normale"
+
+msgid "Play/Pause"
+msgstr "Riproduci/pausa"
+
+msgid "Plus Equal"
+msgstr "Più uguale"
+
+msgid "Points and above"
+msgstr "punti e oltre"
+
+msgid "Polish"
+msgstr "Polacco"
+
+msgid "Portugal"
+msgstr "Portogallo"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portoghese (Brasile)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portoghese (Portogallo)"
+
+msgid "Possible spelling mistake"
+msgstr "Possibile errore di ortografia"
+
+msgid "Postal Code"
+msgstr "CAP"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Serie di potenze di (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Larghezza preferita:"
+
+msgid "Preserve formatting during updates"
+msgstr "Mantieni la formattazione negli aggiornamenti"
+
+msgid "Preset gradients"
+msgstr "Sfumature predefinite"
+
+msgid "Press a key combination"
+msgstr "Premi una combinazione di tasti"
+
+msgid "Preview Results"
+msgstr "Anteprima risultati"
+
+msgid "Preview\nResults"
+msgstr "Anteprima\nrisultati"
+
+msgid "Previous 1 or More"
+msgstr "Precedente 1 o più volte"
+
+msgid "Previous Comment"
+msgstr "Commento precedente"
+
+msgid "Previous Field"
+msgstr "Campo precedente"
+
+msgid "Previous Record"
+msgstr "Record precedente"
+
+msgid "Previous Section"
+msgstr "Sezione precedente"
+
+msgid "Previous Sentence"
+msgstr "Frase precedente"
+
+msgid "Previous sentence"
+msgstr "Frase precedente"
+
+msgid "Print Documents"
+msgstr "Stampa documenti"
+
+msgid "Print Documents…"
+msgstr "Stampa documenti…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Stampa non riuscita: il processo di stampa si è interrotto."
+
+msgid "Print failed: {error}"
+msgstr "Stampa non riuscita: {error}"
+
+msgid "Print job submitted."
+msgstr "Lavoro di stampa inviato."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Lavoro di stampa inviato: {count} foglio/i messo/i in coda"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Lavoro di stampa inviato: {receipt}"
+
+msgid "Print Layout"
+msgstr "Layout di stampa"
+
+msgid "Print Markup"
+msgstr "Stampa revisioni"
+
+msgid "Print settings"
+msgstr "Impostazioni di stampa"
+
+msgid "Print the page color"
+msgstr "Stampa il colore della pagina"
+
+msgid "Print to PDF"
+msgstr "Stampa in PDF"
+
+msgid "Print\nLayout"
+msgstr "Layout\ndi stampa"
+
+msgid "Printer default"
+msgstr "Predefinito della stampante"
+
+msgid "Printer discovery failed."
+msgstr "Ricerca stampanti non riuscita."
+
+msgid "Privacy for this document"
+msgstr "Privacy di questo documento"
+
+msgid "Privacy Options"
+msgstr "Opzioni di privacy"
+
+msgid "Privacy Settings"
+msgstr "Impostazioni di privacy"
+
+msgid "Process"
+msgstr "Processo"
+
+msgid "Product"
+msgstr "Produttoria"
+
+msgid "Product of A"
+msgstr "Produttoria di A"
+
+msgid "Product with Limits"
+msgstr "Produttoria con limiti"
+
+msgid "Product with Lower Limit"
+msgstr "Produttoria con limite inferiore"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Produttoria con limiti a pedice e apice"
+
+msgid "Products and Coproducts"
+msgstr "Produttorie e coprodotti"
+
+msgid "Professional"
+msgstr "Professionale"
+
+msgid "Promote"
+msgstr "Alza di livello"
+
+msgid "Promote to Heading 1"
+msgstr "Alza a Titolo 1"
+
+msgid "Proofing"
+msgstr "Strumenti di correzione"
+
+msgid "Proofing Issues"
+msgstr "Problemi di correzione"
+
+msgid "Proofing language"
+msgstr "Lingua di correzione"
+
+msgid "Property names are 1–{max} characters."
+msgstr "I nomi delle proprietà devono avere da 1 a {max} caratteri."
+
+msgid "Property values are at most {max} bytes."
+msgstr "I valori delle proprietà possono occupare al massimo {max} byte."
+
+msgid "Protect Document"
+msgstr "Proteggi documento"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Editore"
+
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Posiziona prima il cursore in un controllo contenuto."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Ripristinare i comandi predefiniti sulla barra di accesso rapido?"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Quadratic Root"
+msgstr "Radice dell'equazione di secondo grado"
+
+msgid "Quick Access Toolbar"
+msgstr "Barra di accesso rapido"
+
+msgid "Quick Parts"
+msgstr "Parti rapide"
+
+msgid "Quick Tables"
+msgstr "Tabelle rapide"
+
+msgid "Quote"
+msgstr "Citazione"
+
+msgid "Radical"
+msgstr "Radicale"
+
+msgid "Radical with Degree"
+msgstr "Radicale con indice"
+
+msgid "Radicals"
+msgstr "Radicali"
+
+msgid "Raised/lowered"
+msgstr "Alzato/abbassato"
+
+msgid "Read Aloud"
+msgstr "Leggi ad alta voce"
+
+msgid "Read Aloud Status"
+msgstr "Stato lettura ad alta voce"
+
+msgid "Read Mode"
+msgstr "Modalità di lettura"
+
+msgid "Read\nAloud"
+msgstr "Leggi ad\nalta voce"
+
+msgid "Read\nMode"
+msgstr "Modalità\nlettura"
+
+msgid "Reading"
+msgstr "Lettura"
+
+msgid "Reading Column Width"
+msgstr "Larghezza colonna di lettura"
+
+msgid "Reading Highlight"
+msgstr "Evidenziazione lettura"
+
+msgid "Reading Line Spacing"
+msgstr "Interlinea di lettura"
+
+msgid "Reading Mode"
+msgstr "Modalità di lettura"
+
+msgid "Reading Page Color"
+msgstr "Colore pagina di lettura"
+
+msgid "Reading Speed"
+msgstr "Velocità di lettura"
+
+msgid "Reading Text Size"
+msgstr "Dimensione testo di lettura"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Legge il testo RTF degli appunti e ne mantiene la formattazione."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Legge il contenuto web degli appunti e ne mantiene la formattazione."
+
+msgid "Recent documents to show:"
+msgstr "Documenti recenti da mostrare:"
+
+msgid "Recently Used Fonts"
+msgstr "Caratteri usati di recente"
+
+msgid "Recently used symbols:"
+msgstr "Simboli usati di recente:"
+
+msgid "Recipient List"
+msgstr "Elenco destinatari"
+
+msgid "Recipient lists"
+msgstr "Elenchi destinatari"
+
+msgid "Recipients: {count}"
+msgstr "Destinatari: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Ricolora un'immagine a un solo colore, ad esempio un'icona"
+
+msgid "Recolor Selected Ink"
+msgstr "Ricolora input penna selezionato"
+
+msgid "Record Macro"
+msgstr "Registra macro"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "Recupera documenti"
+
+msgid "Recover Unsaved Documents"
+msgstr "Recupera documenti non salvati"
+
+msgid "Recovery copy"
+msgstr "Copia di recupero"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "Il recupero è disattivato finché il documento ha una password."
+
+msgid "Red:"
+msgstr "Rosso:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Riduci rientro sporgente"
+
+msgid "Reference type:"
+msgstr "Tipo di riferimento:"
+
+msgid "References"
+msgstr "Riferimenti"
+
+msgid "Reflection"
+msgstr "Riflesso"
+
+msgid "Refresh printers"
+msgstr "Aggiorna stampanti"
+
+msgid "Region:"
+msgstr "Area geografica:"
+
+msgid "Registered"
+msgstr "Marchio registrato"
+
+msgid "Registered Sign"
+msgstr "Simbolo di marchio registrato"
+
+msgid "Regular expressions"
+msgstr "Espressioni regolari"
+
+msgid "Reject"
+msgstr "Rifiuta"
+
+msgid "Reject All Changes"
+msgstr "Rifiuta tutte le modifiche"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Rifiuta modifica"
+
+msgid "Relationship"
+msgstr "Relazione"
+
+msgid "Relative to original picture size"
+msgstr "Rispetto alle dimensioni originali dell'immagine"
+
+msgid "Remove Added Font"
+msgstr "Rimuovi carattere aggiunto"
+
+msgid "Remove condition"
+msgstr "Rimuovi condizione"
+
+msgid "Remove Content Control"
+msgstr "Rimuovi controllo contenuto"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Rimuovere tutte le scelte rapide personalizzate e ripristinare i tasti predefiniti?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Rimuovere tutte le schede e i gruppi personalizzati e mostrare di nuovo tutte le schede?"
+
+msgid "Remove field"
+msgstr "Rimuovi campo"
+
+msgid "Remove Footer"
+msgstr "Rimuovi piè di pagina"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Rimuovi dalla barra di accesso rapido"
+
+msgid "Remove gradient stop"
+msgstr "Rimuovi punto di sfumatura"
+
+msgid "Remove Header"
+msgstr "Rimuovi intestazione"
+
+msgid "Remove Hyperlink"
+msgstr "Rimuovi collegamento"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Rimuovi il mio nome da commenti, modifiche e proprietà del file al salvataggio"
+
+msgid "Remove Password"
+msgstr "Rimuovi password"
+
+msgid "Remove Pen"
+msgstr "Rimuovi penna"
+
+msgid "Remove recipient"
+msgstr "Rimuovi destinatario"
+
+msgid "Remove row"
+msgstr "Rimuovi riga"
+
+msgid "Remove series"
+msgstr "Rimuovi serie"
+
+msgid "Remove Space After Paragraph"
+msgstr "Rimuovi spazio dopo il paragrafo"
+
+msgid "Remove Table of Contents"
+msgstr "Rimuovi sommario"
+
+msgid "Remove the control once edited"
+msgstr "Rimuovi il controllo dopo la modifica"
+
+msgid "Remove the space before the punctuation"
+msgstr "Rimuovi lo spazio prima della punteggiatura"
+
+msgid "Remove Watermark"
+msgstr "Rimuovi filigrana"
+
+msgid "Rename Document"
+msgstr "Rinomina documento"
+
+msgid "Reopen"
+msgstr "Riapri"
+
+msgid "Repeat as header row on each page"
+msgstr "Ripeti come riga di intestazione in ogni pagina"
+
+msgid "Repeat Header Rows"
+msgstr "Ripeti righe di intestazione"
+
+msgid "Repeating Section Content Control"
+msgstr "Controllo contenuto sezione ripetuta"
+
+msgid "Replace All"
+msgstr "Sostituisci tutto"
+
+msgid "Replace as you type"
+msgstr "Sostituisci durante la digitazione"
+
+msgid "Replace Document Text"
+msgstr "Sostituisci testo del documento"
+
+msgid "Replace text as you type"
+msgstr "Sostituisci testo durante la digitazione"
+
+msgid "Replace with:"
+msgstr "Sostituisci con:"
+
+msgid "Replay"
+msgstr "Riproduci"
+
+msgid "Research"
+msgstr "Ricerca"
+
+msgid "Researcher"
+msgstr "Ricercatore"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Ricercatore richiede un servizio online; WordCraft mantiene i tuoi documenti offline."
+
+msgid "Reset All…"
+msgstr "Reimposta tutto…"
+
+msgid "Reset Character Formatting"
+msgstr "Reimposta formattazione carattere"
+
+msgid "Reset Crop"
+msgstr "Reimposta ritaglio"
+
+msgid "Reset Default Formatting"
+msgstr "Reimposta formattazione predefinita"
+
+msgid "Reset Graphic"
+msgstr "Reimposta elemento grafico"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Reimposta formattazione paragrafo"
+
+msgid "Reset Picture"
+msgstr "Reimposta immagine"
+
+msgid "Reset tips"
+msgstr "Reimposta suggerimenti"
+
+msgid "Reset to Normal"
+msgstr "Ripristina Normale"
+
+msgid "Reset\nGraphic"
+msgstr "Reimposta\nelemento grafico"
+
+msgid "Resize Pane"
+msgstr "Ridimensiona riquadro"
+
+msgid "Resize Table by Dragging"
+msgstr "Ridimensiona la tabella trascinando"
+
+msgid "Resolve"
+msgstr "Risolvi"
+
+msgid "Resolved"
+msgstr "Risolto"
+
+msgid "Restart at 1"
+msgstr "Ricomincia da 1"
+
+msgid "Restart Each Page"
+msgstr "Ricomincia a ogni pagina"
+
+msgid "Restart Each Section"
+msgstr "Ricomincia a ogni sezione"
+
+msgid "Restart list after:"
+msgstr "Riavvia elenco dopo:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "Ripristina apre una copia non salvata. Il file originale resta invariato."
+
+msgid "Restrict Editing"
+msgstr "Limita modifica"
+
+msgid "Restrict\nEditing"
+msgstr "Limita\nmodifica"
+
+msgid "Results"
+msgstr "Risultati"
+
+msgid "Return address labels"
+msgstr "Etichette mittente"
+
+msgid "Return address:"
+msgstr "Indirizzo mittente:"
+
+msgid "Reviewing"
+msgstr "Revisione"
+
+msgid "Reviewing Pane"
+msgstr "Riquadro delle revisioni"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Revisione: le modifiche diventano suggerimenti"
+
+msgid "Revised document"
+msgstr "Documento revisionato"
+
+msgid "Rewind"
+msgstr "Riavvolgi"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Riavvolgo. Dimmi quando fermarmi."
+
+msgid "Ribbon"
+msgstr "Barra multifunzione"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Barra multifunzione e barra di accesso rapido:"
+
+msgid "Ribbon tabs"
+msgstr "Schede della barra multifunzione"
+
+msgid "Rich Text Content Control"
+msgstr "Controllo contenuto RTF"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Formato RTF (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Formato Rich Text (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Destra (verticale)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Freccia a destra con testo sopra"
+
+msgid "Right Arrow with Text Below"
+msgstr "Freccia a destra con testo sotto"
+
+msgid "Right Border"
+msgstr "Bordo destro"
+
+msgid "Right border"
+msgstr "Bordo destro"
+
+msgid "Right Bracket Twice"
+msgstr "Parentesi quadra destra due volte"
+
+msgid "Right indent"
+msgstr "Rientro destro"
+
+msgid "Right Margin"
+msgstr "Margine destro"
+
+msgid "Right Only"
+msgstr "Solo a destra"
+
+msgid "Right-to-left"
+msgstr "Da destra a sinistra"
+
+msgid "Right-to-Left Section"
+msgstr "Sezione da destra a sinistra"
+
+msgid "Right-to-Left Table"
+msgstr "Tabella da destra a sinistra"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Direzione del testo da destra a sinistra"
+
+msgid "Rightwards Arrow Above"
+msgstr "Freccia verso destra sopra"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Arpione verso destra sopra"
+
+msgid "Romanian"
+msgstr "Rumeno"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Radici di ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Ruota tutto il testo di 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Ruota tutto il testo di 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Ruota a sinistra di 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Ruota a destra di 90°"
+
+msgid "Rotate with shape"
+msgstr "Ruota con la forma"
+
+msgid "Rounded"
+msgstr "Angoli arrotondati"
+
+msgid "Row"
+msgstr "Riga"
+
+msgid "Row:"
+msgstr "Riga:"
+
+msgid "Rows & Columns"
+msgstr "Righe e colonne"
+
+msgid "Ruby text:"
+msgstr "Testo ruby:"
+
+msgid "Rules"
+msgstr "Regole"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Continuo"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Résumé"
+msgstr "Curriculum"
+
+msgid "SAMPLE"
+msgstr "ESEMPIO"
+
+msgid "Sat:"
+msgstr "Sat.:"
+
+msgid "Saturation and recolor"
+msgstr "Saturazione e ricolorazione"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Salva una copia in un altro formato. La stampa passa attraverso un PDF che puoi stampare da qualsiasi visualizzatore."
+
+msgid "Save as Word Template…"
+msgstr "Salva come modello di Word…"
+
+msgid "Save documents"
+msgstr "Salvataggio documenti"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Salva il documento per attivare il salvataggio automatico"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Salva il documento per attivare il salvataggio automatico (un file solo aperto non viene riscritto finché non lo salvi)"
+
+msgid "Save these pages as PDF…"
+msgstr "Salva queste pagine come PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Salvato. Salvato di nuovo. Ancora salvato. È salvatissimo."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Salva un modello .dotx nella cartella dei modelli. Compare in File › Nuovo, in Personali."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Il salvataggio di {name} è stato annullato: il documento è ancora aperto e non è andato perso nulla."
+
+msgid "Sayings"
+msgstr "Battute"
+
+msgid "Sayings:"
+msgstr "Battute:"
+
+msgid "Scale Drawing"
+msgstr "Ridimensiona disegno"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "Adatta al formato carta"
+
+msgid "Scatter"
+msgstr "Dispersione"
+
+msgid "Script"
+msgstr "Indice"
+
+msgid "Scroll ribbon left"
+msgstr "Scorri la barra multifunzione a sinistra"
+
+msgid "Scroll ribbon right"
+msgstr "Scorri la barra multifunzione a destra"
+
+msgid "Search Commands"
+msgstr "Cerca comandi"
+
+msgid "Search commands and help"
+msgstr "Cerca comandi e guida"
+
+msgid "Search document"
+msgstr "Cerca nel documento"
+
+msgid "Search for templates"
+msgstr "Cerca modelli"
+
+msgid "Search icons"
+msgstr "Cerca icone"
+
+msgid "Search Options"
+msgstr "Opzioni di ricerca"
+
+msgid "Search:"
+msgstr "Cerca:"
+
+msgid "Secant Function"
+msgstr "Funzione secante"
+
+msgid "Section 1.01"
+msgstr "Sezione 1.01"
+
+msgid "Section Break"
+msgstr "Interruzione di sezione"
+
+msgid "Section Breaks"
+msgstr "Interruzioni di sezione"
+
+msgid "Section Character"
+msgstr "Simbolo di sezione"
+
+msgid "Section direction:"
+msgstr "Direzione sezione:"
+
+msgid "Section Mark"
+msgstr "Segno di sezione"
+
+msgid "Section Properties"
+msgstr "Proprietà sezione"
+
+msgid "Sections"
+msgstr "Sezioni"
+
+msgid "See"
+msgstr "Vedi"
+
+msgid "select a chart first"
+msgstr "seleziona prima un grafico"
+
+msgid "select a connector first"
+msgstr "seleziona prima un connettore"
+
+msgid "select a diagram first"
+msgstr "seleziona prima un diagramma"
+
+msgid "select a drawing canvas first"
+msgstr "seleziona prima un'area di disegno"
+
+msgid "select a floating picture or shape first"
+msgstr "seleziona prima un'immagine o una forma mobile"
+
+msgid "select a group first"
+msgstr "seleziona prima un gruppo"
+
+msgid "select a picture first"
+msgstr "seleziona prima un'immagine"
+
+msgid "Select a picture first."
+msgstr "Seleziona prima un'immagine."
+
+msgid "select a picture or shape first"
+msgstr "seleziona prima un'immagine o una forma"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Seleziona un'immagine, una forma, un grafico o una tabella da descrivere."
+
+msgid "Select a place in this document:"
+msgstr "Seleziona una posizione in questo documento:"
+
+msgid "Select a printer"
+msgstr "Seleziona una stampante"
+
+msgid "Select a property to change."
+msgstr "Seleziona una proprietà da modificare."
+
+msgid "select a shape first"
+msgstr "seleziona prima una forma"
+
+msgid "select a shape or decorative text first"
+msgstr "seleziona prima una forma o del testo decorativo"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Seleziona una forma, una casella di testo o un'area di disegno per formattarne il riempimento."
+
+msgid "select a SmartArt graphic first"
+msgstr "seleziona prima un elemento grafico SmartArt"
+
+msgid "select a text box first"
+msgstr "seleziona prima una casella di testo"
+
+msgid "select a text box linked to another first"
+msgstr "seleziona prima una casella di testo collegata a un'altra"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Seleziona cella"
+
+msgid "Select Column"
+msgstr "Seleziona colonna"
+
+msgid "Select Heading and Content"
+msgstr "Seleziona titolo e contenuto"
+
+msgid "Select Line"
+msgstr "Seleziona riga"
+
+msgid "Select Paragraph"
+msgstr "Seleziona paragrafo"
+
+msgid "Select Picture…"
+msgstr "Seleziona immagine…"
+
+msgid "Select Range"
+msgstr "Seleziona intervallo"
+
+msgid "Select Recipients"
+msgstr "Seleziona destinatari"
+
+msgid "select recipients first"
+msgstr "seleziona prima i destinatari"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Seleziona prima i destinatari per scegliere tra i loro campi."
+
+msgid "Select recipients first to match their fields."
+msgstr "Seleziona prima i destinatari per associarne i campi."
+
+msgid "Select Row"
+msgstr "Seleziona riga"
+
+msgid "Select Sentence"
+msgstr "Seleziona frase"
+
+msgid "Select Table"
+msgstr "Seleziona tabella"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Seleziona celle della tabella con un clic"
+
+msgid "Select Text"
+msgstr "Seleziona testo"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Seleziona testo con formattazione simile"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Seleziona il testo, poi spunta chi può ancora modificarlo."
+
+msgid "select two or more cells to merge"
+msgstr "seleziona due o più celle da unire"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "seleziona due o più immagini o forme (Maiusc+clic)"
+
+msgid "Select Word"
+msgstr "Seleziona parola"
+
+msgid "Select\nRecipients"
+msgstr "Seleziona\ndestinatari"
+
+msgid "Selected Fields"
+msgstr "Campi selezionati"
+
+msgid "Selected text"
+msgstr "Testo selezionato"
+
+msgid "Selection Pane"
+msgstr "Riquadro di selezione"
+
+msgid "Semitransparent"
+msgstr "Semitrasparente"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Invia il documento direttamente alla finestra di dialogo di stampa del sistema, oppure salva una copia in un altro formato qui sotto."
+
+msgid "Sentence"
+msgstr "Frase"
+
+msgid "Sentence case."
+msgstr "Iniziale maiuscola."
+
+msgid "Separate text at"
+msgstr "Separa il testo in corrispondenza di"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Separatore:"
+
+msgid "Sepia"
+msgstr "Seppia"
+
+msgid "Sequence name:"
+msgstr "Nome sequenza:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Serbo (cirillico)"
+
+msgid "Serbian (Latin)"
+msgstr "Serbo (latino)"
+
+msgid "Series name"
+msgstr "Nome serie"
+
+msgid "Series {n}"
+msgstr "Serie {n}"
+
+msgid "Set As Default"
+msgstr "Imposta come predefinito"
+
+msgid "Set as default"
+msgstr "Imposta come predefinita"
+
+msgid "Set As Default (Font)"
+msgstr "Imposta come predefinito (Carattere)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Imposta come predefinito (Imposta pagina)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Imposta come predefinito (Paragrafo)"
+
+msgid "Set as Default Language"
+msgstr "Imposta come lingua predefinita"
+
+msgid "Set Caret"
+msgstr "Imposta cursore"
+
+msgid "Set Character Formatting"
+msgstr "Imposta formattazione carattere"
+
+msgid "Set Date"
+msgstr "Imposta data"
+
+msgid "Set Equation"
+msgstr "Imposta equazione"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr "Imposta rientro sinistro e della prima riga con Tab e Backspace"
+
+msgid "Set Numbering Value"
+msgstr "Imposta valore numerazione"
+
+msgid "Set Paragraph Formatting"
+msgstr "Imposta formattazione paragrafo"
+
+msgid "Set Proofing Language…"
+msgstr "Imposta lingua di correzione…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Impostazione:"
+
+msgid "Shading"
+msgstr "Sfondo"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Ombreggiatura, bagliore e bordi sfumati"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Riempimento forma"
+
+msgid "Shape Format"
+msgstr "Formato forma"
+
+msgid "Shape Outline"
+msgstr "Contorno forma"
+
+msgid "Shape Styles"
+msgstr "Stili forma"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Maiusc+Tab"
+
+msgid "Shipping labels"
+msgstr "Etichette di spedizione"
+
+msgid "Shortcut key:"
+msgstr "Tasto di scelta rapida:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Mostra le guide di allineamento durante lo spostamento di immagini e forme"
+
+msgid "Show all formatting marks"
+msgstr "Mostra tutti i segni di formattazione"
+
+msgid "Show All Levels"
+msgstr "Mostra tutti i livelli"
+
+msgid "Show all revisions inline"
+msgstr "Mostra tutte le revisioni nel testo"
+
+msgid "Show changes at:"
+msgstr "Mostra modifiche a livello di:"
+
+msgid "Show changes in:"
+msgstr "Mostra modifiche in:"
+
+msgid "Show Comments"
+msgstr "Mostra commenti"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Mostra i documenti con i colori invertiti, come in Visualizza › Cambia modalità. Salvataggio, stampa e PDF non cambiano."
+
+msgid "Show every bibliography field"
+msgstr "Mostra tutti i campi della bibliografia"
+
+msgid "Show First Line Only"
+msgstr "Mostra solo la prima riga"
+
+msgid "Show in the Styles gallery"
+msgstr "Mostra nella raccolta Stili"
+
+msgid "Show its list number"
+msgstr "Mostra il suo numero di elenco"
+
+msgid "Show its number relative to this field"
+msgstr "Mostra il suo numero rispetto a questo campo"
+
+msgid "Show its number with all higher levels"
+msgstr "Mostra il suo numero con tutti i livelli superiori"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Mostra i suggerimenti tasti (Alt o F10)"
+
+msgid "Show Level"
+msgstr "Mostra livello"
+
+msgid "Show Level 1"
+msgstr "Mostra livello 1"
+
+msgid "Show Level 2"
+msgstr "Mostra livello 2"
+
+msgid "Show Level 3"
+msgstr "Mostra livello 3"
+
+msgid "Show Level 4"
+msgstr "Mostra livello 4"
+
+msgid "Show Level 5"
+msgstr "Mostra livello 5"
+
+msgid "Show Level 6"
+msgstr "Mostra livello 6"
+
+msgid "Show Level 7"
+msgstr "Mostra livello 7"
+
+msgid "Show Level 8"
+msgstr "Mostra livello 8"
+
+msgid "Show Level 9"
+msgstr "Mostra livello 9"
+
+msgid "Show Markup"
+msgstr "Mostra revisioni"
+
+msgid "Show Notes"
+msgstr "Mostra note"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Mostra solo commenti e formattazione nei fumetti"
+
+msgid "Show only records that will be merged"
+msgstr "Mostra solo i record che verranno uniti"
+
+msgid "Show or Hide Style"
+msgstr "Mostra o nascondi stile"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Mostra barra di accesso rapido"
+
+msgid "Show revisions in balloons"
+msgstr "Mostra revisioni nei fumetti"
+
+msgid "Show Text Formatting"
+msgstr "Mostra formattazione testo"
+
+msgid "Show the Assistant"
+msgstr "Mostra l'assistente"
+
+msgid "Show the community button in the title bar"
+msgstr "Mostra il pulsante della community nella barra del titolo"
+
+msgid "Show the equation in the line of text"
+msgstr "Mostra l'equazione nella riga di testo"
+
+msgid "Show the equation on a line of its own"
+msgstr "Mostra l'equazione su una riga propria"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Mostra la barra di formattazione rapida quando selezioni il testo"
+
+msgid "Show the ribbon"
+msgstr "Mostra la barra multifunzione"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Mostra la schermata iniziale all'avvio di WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Mostra di nuovo i suggerimenti che hai chiesto di non vedere."
+
+msgid "Show/Hide ¶"
+msgstr "Mostra tutto"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Mostra tutto ({key}) rivela gli spazi, le tabulazioni e le interruzioni nascosti nel testo."
+
+msgid "Show\nComments"
+msgstr "Mostra\ncommenti"
+
+msgid "Showing the first {count} items."
+msgstr "Sono mostrati i primi {count} elementi."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Mostra un albero: ogni elemento sta sotto quello a cui appartiene."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Mostra elementi attorno a un'idea centrale: il primo elemento è il centro."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Mostra elementi di pari importanza come blocchi disposti in righe."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Mostra idee che si sovrappongono come cerchi sovrapposti."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Mostra le parti di un insieme come quadranti."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Mostra parti che poggiano l'una sull'altra, la più grande in basso."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Mostra i passaggi in ordine, da sinistra a destra, con frecce tra uno e l'altro."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Mostra passaggi che si ripetono, disposti in cerchio."
+
+msgid "Shrink Font 1 Point"
+msgstr "Riduci carattere di 1 punto"
+
+msgid "Shrink text"
+msgstr "Riduci testo"
+
+msgid "Side to Side"
+msgstr "Pagine affiancate"
+
+msgid "Side\nto Side"
+msgstr "Pagine\naffiancate"
+
+msgid "Sides of a right triangle"
+msgstr "Lati di un triangolo rettangolo"
+
+msgid "Signature Line"
+msgstr "Riga per la firma"
+
+msgid "Simple Frame"
+msgstr "Cornice semplice"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Serie di seni e coseni di f(x)"
+
+msgid "Sine Function"
+msgstr "Funzione seno"
+
+msgid "Sine theta"
+msgstr "Seno di theta"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Singola"
+
+msgid "Single Brackets"
+msgstr "Parentesi singole"
+
+msgid "Single Closing Quote"
+msgstr "Virgoletta singola di chiusura"
+
+msgid "Single label"
+msgstr "Etichetta singola"
+
+msgid "Single Left Angle"
+msgstr "Parentesi angolare sinistra singola"
+
+msgid "Single Left Bar"
+msgstr "Barra sinistra singola"
+
+msgid "Single Left Brace"
+msgstr "Parentesi graffa sinistra singola"
+
+msgid "Single Left Bracket"
+msgstr "Parentesi quadra sinistra singola"
+
+msgid "Single Left Parenthesis"
+msgstr "Parentesi tonda sinistra singola"
+
+msgid "Single Opening Quote"
+msgstr "Virgoletta singola di apertura"
+
+msgid "Single Right Brace"
+msgstr "Parentesi graffa destra singola"
+
+msgid "Single Right Bracket"
+msgstr "Parentesi quadra destra singola"
+
+msgid "Single Right Parenthesis"
+msgstr "Parentesi tonda destra singola"
+
+msgid "Single Spacing"
+msgstr "Interlinea singola"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Nome del sito"
+
+msgid "Size (pt):"
+msgstr "Dimensione (pt):"
+
+msgid "Size and Crop…"
+msgstr "Dimensioni e ritaglio…"
+
+msgid "Sketchbook"
+msgstr "Album da disegno"
+
+msgid "Skewed Fraction"
+msgstr "Frazione obliqua"
+
+msgid "Skip citations & bibliography"
+msgstr "Salta citazioni e bibliografia"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Salta citazioni e bibliografia"
+
+msgid "Skip Record If"
+msgstr "Ignora record se"
+
+msgid "Skip Record If…"
+msgstr "Ignora record se…"
+
+msgid "Slant Down"
+msgstr "Inclinato in giù"
+
+msgid "Slant Up"
+msgstr "Inclinato in su"
+
+msgid "Slovak"
+msgstr "Slovacco"
+
+msgid "Slovenian"
+msgstr "Sloveno"
+
+msgid "Small caps"
+msgstr "Maiuscoletto"
+
+msgid "Small change"
+msgstr "Piccola variazione"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Virgolette tipografiche al posto di quelle dritte"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt Design"
+
+msgid "SmartArt Styles"
+msgstr "Stili SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Scorrimento e zoom fluidi, e menu e pulsanti che compaiono in dissolvenza. Disattivato mostra ogni modifica subito."
+
+msgid "Soft Edge"
+msgstr "Bordi sfumati"
+
+msgid "Soft Edges"
+msgstr "Bordi sfumati"
+
+msgid "Soft Glow"
+msgstr "Bagliore tenue"
+
+msgid "Solid Accent"
+msgstr "Colore pieno"
+
+msgid "Solid fill"
+msgstr "Riempimento a tinta unita"
+
+msgid "Sometimes"
+msgstr "A volte"
+
+msgid "Sort by:"
+msgstr "Ordina per:"
+
+msgid "Sort order:"
+msgstr "Ordinamento:"
+
+msgid "Sort Recipients"
+msgstr "Ordina destinatari"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Codice sorgente: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Gestione fonti"
+
+msgid "Source type:"
+msgstr "Tipo di fonte:"
+
+msgid "Sources in this document:"
+msgstr "Fonti in questo documento:"
+
+msgid "South"
+msgstr "Sud"
+
+msgid "South Africa"
+msgstr "Sudafrica"
+
+msgid "Space"
+msgstr "Spazio"
+
+msgid "Space after"
+msgstr "Spazio dopo"
+
+msgid "Space after: {pt} pt"
+msgstr "Spazio dopo: {pt} pt"
+
+msgid "Space before"
+msgstr "Spazio prima"
+
+msgid "Space before/after:"
+msgstr "Spazio prima/dopo:"
+
+msgid "Space before: {pt} pt"
+msgstr "Spazio prima: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Spaziatura (pt):"
+
+msgid "Spain"
+msgstr "Spagna"
+
+msgid "Spanish (Latin America)"
+msgstr "Spagnolo (America Latina)"
+
+msgid "Spanish (Mexico)"
+msgstr "Spagnolo (Messico)"
+
+msgid "Spanish (Spain)"
+msgstr "Spagnolo (Spagna)"
+
+msgid "Spanish (Uruguay)"
+msgstr "Spagnolo (Uruguay)"
+
+msgid "Sparse Matrices"
+msgstr "Matrici sparse"
+
+msgid "Special Characters"
+msgstr "Caratteri speciali"
+
+msgid "Specify height:"
+msgstr "Specifica altezza:"
+
+msgid "Speech"
+msgstr "Voce"
+
+msgid "Spelling & Grammar"
+msgstr "Ortografia e grammatica"
+
+msgid "Spelling &\nGrammar"
+msgstr "Ortografia e\ngrammatica"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Lingua del controllo ortografico e grammaticale: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Suggerimenti ortografici"
+
+msgid "Spike"
+msgstr "Raccoglitore"
+
+msgid "Split Cells"
+msgstr "Dividi celle"
+
+msgid "Split Table"
+msgstr "Dividi tabella"
+
+msgid "Spreadsheet Table"
+msgstr "Tabella di foglio di calcolo"
+
+msgid "Square Root"
+msgstr "Radice quadrata"
+
+msgid "Square Root with Degree"
+msgstr "Radice con indice"
+
+msgid "Square Union"
+msgstr "Unione quadrata"
+
+msgid "Stack Object"
+msgstr "Oggetto pila"
+
+msgid "Stack Object (Three)"
+msgstr "Oggetto pila (tre)"
+
+msgid "Stacked Bar"
+msgstr "Barre in pila"
+
+msgid "Stacked Column"
+msgstr "Colonne in pila"
+
+msgid "Stacked Fraction"
+msgstr "Frazione in colonna"
+
+msgid "Stacked, no bar"
+msgstr "In colonna, senza linea"
+
+msgid "Standard Colors"
+msgstr "Colori standard"
+
+msgid "Start Enforcing Protection"
+msgstr "Applica protezione"
+
+msgid "Start Mail Merge"
+msgstr "Inizia stampa unione"
+
+msgid "Start Mail\nMerge"
+msgstr "Inizia stampa\nunione"
+
+msgid "Start-up"
+msgstr "Avvio"
+
+msgid "State"
+msgstr "Stato/Provincia"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Ci sei ancora? Ti sento pensare."
+
+msgid "Stop Protection"
+msgstr "Interrompi protezione"
+
+msgid "Stop Reading"
+msgstr "Interrompi lettura"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Interrotto"
+
+msgid "Straight Arrow Connector"
+msgstr "Connettore diritto con freccia"
+
+msgid "Straight Connector"
+msgstr "Connettore diritto"
+
+msgid "Stroke {n} of {total}"
+msgstr "Tratto {n} di {total}"
+
+msgid "Strong"
+msgstr "Grassetto"
+
+msgid "Structure Actions"
+msgstr "Azioni struttura"
+
+msgid "Structures"
+msgstr "Strutture"
+
+msgid "Studio cover"
+msgstr "Copertina Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Manuale Studio (esempio)"
+
+msgid "Style based on:"
+msgstr "Stile basato su:"
+
+msgid "Style Inspector"
+msgstr "Ispettore stili"
+
+msgid "Style name:"
+msgstr "Nome stile:"
+
+msgid "Style Set"
+msgstr "Set di stili"
+
+msgid "Style: APA"
+msgstr "Stile: APA"
+
+msgid "Style: {style}"
+msgstr "Stile: {style}"
+
+msgid "Styles Pane"
+msgstr "Riquadro Stili"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stili:"
+
+msgid "Subentry:"
+msgstr "Voce secondaria:"
+
+msgid "Submit print job"
+msgstr "Invia lavoro di stampa"
+
+msgid "Submitting print job…"
+msgstr "Invio del lavoro di stampa in corso…"
+
+msgid "Subscript-Superscript"
+msgstr "Pedice-apice"
+
+msgid "Subscripts and Superscripts"
+msgstr "Pedici e apici"
+
+msgid "Subset:"
+msgstr "Sottoinsieme:"
+
+msgid "Subtle Emphasis"
+msgstr "Enfasi delicata"
+
+msgid "Subtle Reference"
+msgstr "Riferimento delicato"
+
+msgid "Suggested"
+msgstr "Suggerimenti"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Somma"
+
+msgid "Sum of cosines"
+msgstr "Somma di coseni"
+
+msgid "Sum or difference of sines"
+msgstr "Somma o differenza di seni"
+
+msgid "Summation"
+msgstr "Sommatoria"
+
+msgid "Summation from 0 to n"
+msgstr "Sommatoria da 0 a n"
+
+msgid "Summation over binomials"
+msgstr "Sommatoria di binomiali"
+
+msgid "Summation with Limits"
+msgstr "Sommatoria con limiti"
+
+msgid "Summation with Lower Limit"
+msgstr "Sommatoria con limite inferiore"
+
+msgid "Summation with Subscript Limit"
+msgstr "Sommatoria con limite a pedice"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Sommatoria con limiti a pedice e apice"
+
+msgid "Summations"
+msgstr "Sommatorie"
+
+msgid "Suppress line numbers"
+msgstr "Non numerare le righe"
+
+msgid "Surface Integral"
+msgstr "Integrale di superficie"
+
+msgid "Surface Integral with Limits"
+msgstr "Integrale di superficie con limiti"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Integrale di superficie con limiti sovrapposti"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Scambia note a piè di pagina e note di chiusura"
+
+msgid "Swedish"
+msgstr "Svedese"
+
+msgid "Switch Modes"
+msgstr "Cambia modalità"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Cambia\nmodalità"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Svizzera"
+
+msgid "Synonyms"
+msgstr "Sinonimi"
+
+msgid "Syria"
+msgstr "Siria"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Dizionario di sistema"
+
+msgid "Tab Character"
+msgstr "Carattere di tabulazione"
+
+msgid "Tab character"
+msgstr "Carattere di tabulazione"
+
+msgid "Tab characters"
+msgstr "Caratteri di tabulazione"
+
+msgid "Tab leader:"
+msgstr "Carattere di riempimento:"
+
+msgid "Tab stop position:"
+msgstr "Posizione tabulazione:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Tabulazioni da cancellare:"
+
+msgid "Table Column Width"
+msgstr "Larghezza colonna tabella"
+
+msgid "Table Design"
+msgstr "Tabella Design"
+
+msgid "Table direction:"
+msgstr "Direzione tabella:"
+
+msgid "Table Grid"
+msgstr "Griglia tabella"
+
+msgid "Table Layout"
+msgstr "Tabella Layout"
+
+msgid "Table of Authorities"
+msgstr "Indice delle fonti"
+
+msgid "Table of Contents"
+msgstr "Sommario"
+
+msgid "Table of Contents Options"
+msgstr "Opzioni sommario"
+
+msgid "Table of Contents Styles"
+msgstr "Stili sommario"
+
+msgid "Table of Figures"
+msgstr "Indice delle figure"
+
+msgid "Table of\nContents"
+msgstr "Sommario"
+
+msgid "Table Properties"
+msgstr "Proprietà tabella"
+
+msgid "Table Properties…"
+msgstr "Proprietà tabella…"
+
+msgid "Table Row Height"
+msgstr "Altezza riga tabella"
+
+msgid "Table size"
+msgstr "Dimensioni tabella"
+
+msgid "Table Style Options"
+msgstr "Opzioni stile tabella"
+
+msgid "Table Styles"
+msgstr "Stili tabella"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11,00\" × 17,00\""
+
+msgid "Tabs…"
+msgstr "Tabulazioni…"
+
+msgid "Tabular List"
+msgstr "Elenco tabulare"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Take the last match on the page"
+msgstr "Prendi l'ultima corrispondenza della pagina"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Prenditi il tuo tempo. La pagina non scappa. E nemmeno io. Mai."
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Tangent formula"
+msgstr "Formula della tangente"
+
+msgid "Tangent Function"
+msgstr "Funzione tangente"
+
+msgid "TC entry fields"
+msgstr "Campi voce TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Tecnologia"
+
+msgid "Templates and Add-ins"
+msgstr "Modelli e componenti aggiuntivi"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "I modelli che salvi nella cartella dei modelli compaiono qui."
+
+msgid "Text Box"
+msgstr "Casella di testo"
+
+msgid "Text boxes"
+msgstr "Caselle di testo"
+
+msgid "text boxes can't go inside a text box"
+msgstr "le caselle di testo non possono stare in una casella di testo"
+
+msgid "Text Direction"
+msgstr "Direzione testo"
+
+msgid "Text Effects"
+msgstr "Effetti di testo"
+
+msgid "Text Effects and Typography"
+msgstr "Effetti di testo e tipografia"
+
+msgid "Text Fill"
+msgstr "Riempimento testo"
+
+msgid "Text from File"
+msgstr "Testo da file"
+
+msgid "Text Highlight Color"
+msgstr "Colore evidenziazione testo"
+
+msgid "Text indent at:"
+msgstr "Rientro testo a:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Testo del paragrafo più vicino con uno stile specificato (intestazioni correnti)"
+
+msgid "Text Outline"
+msgstr "Contorno testo"
+
+msgid "Text over Colon Equal"
+msgstr "Testo sopra due punti uguale"
+
+msgid "Text over Equal"
+msgstr "Testo sopra uguale"
+
+msgid "Text Pane"
+msgstr "Riquadro di testo"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr "Solo proprietà di tipo testo: i tipi numero, data e sì/no di Word non sono disponibili."
+
+msgid "Text Size"
+msgstr "Dimensioni testo"
+
+msgid "Text size"
+msgstr "Dimensioni testo"
+
+msgid "Text snaps to characters"
+msgstr "Testo allineato ai caratteri"
+
+msgid "Text to display:"
+msgstr "Testo da visualizzare:"
+
+msgid "Text watermark"
+msgstr "Filigrana di testo"
+
+msgid "Text Wrapping"
+msgstr "Disposizione testo"
+
+msgid "Text\nBox"
+msgstr "Casella di\ntesto"
+
+msgid "Text\nDirection"
+msgstr "Direzione\ntesto"
+
+msgid "Thai"
+msgstr "Thailandese"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Quel formato non conserva tutto, quindi il documento resta aperto. Salvalo come documento Word (.docx) per continuare."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "La password non è corretta. Controllala (le password distinguono tra maiuscole e minuscole) e riprova."
+
+msgid "The clipboard is empty."
+msgstr "Gli Appunti sono vuoti."
+
+msgid "the Clipboard pane is empty"
+msgstr "il riquadro Appunti è vuoto"
+
+msgid "the cursor isn't in a table"
+msgstr "il cursore non è in una tabella"
+
+msgid "The date it is today"
+msgstr "La data di oggi"
+
+msgid "The document has no bookmarks yet."
+msgstr "Il documento non ha ancora segnalibri."
+
+msgid "the document is protected"
+msgstr "il documento è protetto"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Il documento è di sola lettura, tranne le aree contrassegnate come modificabili."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Il documento verrà salvato con una password. Salvalo per proteggerlo."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Il documento che stai modificando conserva nomi e date; solo il file salvato li omette."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "I margini non entrano in una pagina di queste dimensioni; riduci prima i margini."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "La misura deve essere compresa tra {min} e {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Il nuovo stile assume la formattazione del paragrafo corrente."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Impossibile leggere il modello Normale, quindi questo documento usa la formattazione integrata di WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr "Il numero deve essere un divisore di {max}."
+
+msgid "The number must be between 1 and {max}."
+msgstr "Il numero deve essere compreso tra 1 e {max}."
+
+msgid "the paragraph is empty"
+msgstr "il paragrafo è vuoto"
+
+msgid "the paragraph starts with a space"
+msgstr "il paragrafo inizia con uno spazio"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "La password è facoltativa; senza, chiunque può interrompere la protezione."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "La password è stata rimossa. Salva il documento per mantenere la modifica."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "La stampante, la stampa fronte/retro e le pagine per foglio si scelgono in quella finestra di dialogo."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Il campo dell'elenco destinatari che compila ogni parte del blocco di indirizzi e della formula di apertura."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Il controllo ortografico e grammaticale è terminato."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "Impossibile leggere il dizionario ortografico per {language}, quindi la lingua non viene controllata. File: {file}. Motivo: {reason}"
+
+msgid "the Spike is empty"
+msgstr "il raccoglitore è vuoto"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "La finestra di dialogo dei file del sistema non è disponibile, quindi WordCraft mostra la sua. Per avere quella del sistema, installa un portale di selezione dei file (come xdg-desktop-portal-gtk) o zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Il testo nel punto di inserimento è contrassegnato: Non controllare ortografia e grammatica."
+
+msgid "The time right now"
+msgstr "L'ora attuale"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr "{language}: impossibile scaricare il dizionario: {error}"
+
+msgid "The {language} dictionary is installed."
+msgstr "{language}: dizionario installato."
+
+msgid "Theme Colors"
+msgstr "Colori tema"
+
+msgid "Theme Fonts"
+msgstr "Caratteri tema"
+
+msgid "Theme List"
+msgstr "Elenco temi"
+
+msgid "Themes"
+msgstr "Temi"
+
+msgid "Then by"
+msgstr "Poi per"
+
+msgid "Then insert:"
+msgstr "Allora inserisci:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "non c’è input penna da riprodurre"
+
+msgid "there is nothing to undo"
+msgstr "non c'è niente da annullare"
+
+msgid "there's no citation after the caret"
+msgstr "non c’è nessuna citazione dopo il cursore"
+
+msgid "Thesaurus"
+msgstr "Sinonimi"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Questi segni vengono mostrati anche quando Mostra tutto è disattivato."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Questi campi unione non sono nell'elenco destinatari:"
+
+msgid "These settings will be used for new documents."
+msgstr "Queste impostazioni verranno usate per i nuovi documenti."
+
+msgid "Thick"
+msgstr "Spessa"
+
+msgid "Thick Frame"
+msgstr "Cornice spessa"
+
+msgid "Thin"
+msgstr "Sottile"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "L'operazione non può essere annullata. Il file originale resta invariato."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "questo grafico è stato creato in un altro programma: WordCraft lo mostra ma non può modificarlo"
+
+msgid "this diagram can't be edited"
+msgstr "questo diagramma non può essere modificato"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "questo diagramma è stato creato in un altro programma: WordCraft lo mostra ma non può modificarlo"
+
+msgid "This document"
+msgstr "Questo documento"
+
+msgid "This document has no custom properties."
+msgstr "Questo documento non ha proprietà personalizzate."
+
+msgid "This document only?"
+msgstr "Solo questo documento?"
+
+msgid "This field has no options."
+msgstr "Questo campo non ha opzioni."
+
+msgid "This folder can't be read: {error}"
+msgstr "Impossibile leggere questa cartella: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Questo carattere non ha caratteri da mostrare."
+
+msgid "this item is already at the top level"
+msgstr "questo elemento è già al livello superiore"
+
+msgid "This page"
+msgstr "Questa pagina"
+
+msgid "This password type isn't supported."
+msgstr "Questo tipo di password non è supportato."
+
+msgid "This point forward"
+msgstr "Da questo punto in poi"
+
+msgid "This section"
+msgstr "Questa sezione"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "questa sessione non ha un modello Normale (senza interfaccia o senza preferenze)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "questa sessione non ha un modello Normale (senza interfaccia o senza preferenze): usa \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "questo SmartArt è stato creato in un altro programma: WordCraft lo mostra ma non può modificarlo"
+
+msgid "this text box is already linked: break the link first"
+msgstr "questa casella di testo è già collegata: interrompi prima il collegamento"
+
+msgid "Three"
+msgstr "Tre"
+
+msgid "Through"
+msgstr "Passante"
+
+msgid "Tight"
+msgstr "Ravvicinato"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "Suggerimento"
+
+msgid "Tips ({n})"
+msgstr "Suggerimenti ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Esempio"
+
+msgid "Title Bar"
+msgstr "Barra del titolo"
+
+msgid "Title from the document properties"
+msgstr "Titolo dalle proprietà del documento"
+
+msgid "Title:"
+msgstr "Titolo:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Per aprire i documenti Word con WordCraft per impostazione predefinita: selezionane uno nel Finder, scegli Archivio › Ottieni informazioni, scegli WordCraft in «Apri con», quindi fai clic su «Modifica tutto»."
+
+msgid "To:"
+msgstr "A:"
+
+msgid "TOA Heading"
+msgstr "Titolo indice delle fonti"
+
+msgid "TOC Heading"
+msgstr "Titolo sommario"
+
+msgid "TOC {n}"
+msgstr "Sommario {n}"
+
+msgid "Today"
+msgstr "Oggi"
+
+msgid "tOGGLE cASE"
+msgstr "iNVERTI mAIUSCOLE"
+
+msgid "Toggle Check Box"
+msgstr "Attiva/disattiva casella di controllo"
+
+msgid "Toggle Field Codes"
+msgstr "Attiva/disattiva codici di campo"
+
+msgid "Toggle Unicode Character"
+msgstr "Attiva/disattiva carattere Unicode"
+
+msgid "Top and Bottom"
+msgstr "Sopra e sotto"
+
+msgid "Top Border"
+msgstr "Bordo superiore"
+
+msgid "Top Left Cell"
+msgstr "Cella in alto a sinistra"
+
+msgid "Top Margin"
+msgstr "Margine superiore"
+
+msgid "Top of Page"
+msgstr "Inizio pagina"
+
+msgid "Top of the Document"
+msgstr "Inizio del documento"
+
+msgid "Top Right Cell"
+msgstr "Cella in alto a destra"
+
+msgid "Total Row"
+msgstr "Riga totale"
+
+msgid "Track Changes"
+msgstr "Revisioni"
+
+msgid "Track Changes Options"
+msgstr "Opzioni revisioni"
+
+msgid "Track Changes: On"
+msgstr "Revisioni: attive"
+
+msgid "Track formatting"
+msgstr "Tieni traccia della formattazione"
+
+msgid "Track\nChanges"
+msgstr "Revisioni"
+
+msgid "Track\nChanges ✓"
+msgstr "Revisioni ✓"
+
+msgid "Tracked changes"
+msgstr "Revisioni"
+
+msgid "Trademark"
+msgstr "Marchio"
+
+msgid "Trademark Sign"
+msgstr "Simbolo di marchio"
+
+msgid "Transparency:"
+msgstr "Trasparenza:"
+
+msgid "Transport"
+msgstr "Trasporti"
+
+msgid "Triangle Down"
+msgstr "Triangolo in giù"
+
+msgid "Triangle Up"
+msgstr "Triangolo in su"
+
+msgid "Trigonometric Functions"
+msgstr "Funzioni trigonometriche"
+
+msgid "Triple"
+msgstr "Triplo"
+
+msgid "Triple Dot"
+msgstr "Tre punti sopra"
+
+msgid "Triple Integral"
+msgstr "Integrale triplo"
+
+msgid "Triple Integral with Limits"
+msgstr "Integrale triplo con limiti"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Integrale triplo con limiti sovrapposti"
+
+msgid "Trust Center"
+msgstr "Centro protezione"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Due"
+
+msgid "Two-sided printing"
+msgstr "Stampa fronte-retro"
+
+msgid "Two-sided: long edge"
+msgstr "Fronte-retro: lato lungo"
+
+msgid "Two-sided: short edge"
+msgstr "Fronte-retro: lato corto"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Digita +2 o -1 per spostarti dalla pagina corrente."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Digita un comando, ad es. \"inserisci tabella\""
+
+msgid "Type a New List…"
+msgstr "Digita un nuovo elenco…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Digita un numero di pagina, oppure +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Scrivi una dimensione in qualsiasi unità, ad esempio 5 cm o 300 px. L'altro lato si adegua, così l'immagine mantiene le proporzioni."
+
+msgid "Type at least one recipient."
+msgstr "Digita almeno un destinatario."
+
+msgid "Type Character Code"
+msgstr "Digita codice carattere"
+
+msgid "Type equations in LaTeX"
+msgstr "Scrivi le equazioni in LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Scrivi le equazioni in formato lineare (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Digita nell'equazione"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Scrivi testo normale (non matematico) nell'equazione"
+
+msgid "Type Text"
+msgstr "Digita testo"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Digita le categorie nella colonna laterale e una colonna di valori per ogni serie."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Digita il nome del campo e le sue opzioni, ad esempio PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Digita la password per interrompere la protezione."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Digita i destinatari o caricali da un file."
+
+msgid "Typing replaces selected text"
+msgstr "Il testo digitato sostituisce la selezione"
+
+msgid "U.A.E."
+msgstr "Emirati Arabi Uniti"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "Ukrainian"
+msgstr "Ucraino"
+
+msgid "Unchecked symbol"
+msgstr "Simbolo non selezionato"
+
+msgid "Underbar"
+msgstr "Barra sotto"
+
+msgid "Underbrace"
+msgstr "Graffa sotto"
+
+msgid "Underline Color"
+msgstr "Colore sottolineatura"
+
+msgid "Underline color"
+msgstr "Colore sottolineatura"
+
+msgid "Underline Words Only"
+msgstr "Sottolinea solo le parole"
+
+msgid "Undo 1 Action"
+msgstr "Annulla 1 azione"
+
+msgid "Undo Actions"
+msgstr "Annulla azioni"
+
+msgid "Undo History"
+msgstr "Cronologia annullamenti"
+
+msgid "Undo {n} Actions"
+msgstr "Annulla {n} azioni"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Annulla, annulla, annulla… ora stiamo viaggiando nel tempo."
+
+msgid "Unformatted Text"
+msgstr "Testo non formattato"
+
+msgid "Union of intersections"
+msgstr "Unione di intersezioni"
+
+msgid "Union with Limits"
+msgstr "Unione con limiti"
+
+msgid "Union with Lower Limit"
+msgstr "Unione con limite inferiore"
+
+msgid "Union with Plus"
+msgstr "Unione con più"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Unione con limiti a pedice e apice"
+
+msgid "Unions and Intersections"
+msgstr "Unioni e intersezioni"
+
+msgid "United Kingdom"
+msgstr "Regno Unito"
+
+msgid "United States"
+msgstr "Stati Uniti"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "stile di testo decorativo sconosciuto `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Scollega campi"
+
+msgid "Unlink\nCitations"
+msgstr "Scollega\ncitazioni"
+
+msgid "Unlock Fields"
+msgstr "Sblocca campi"
+
+msgid "Up Diagonal Dots"
+msgstr "Puntini diagonali ascendenti"
+
+msgid "Up one level"
+msgstr "Livello superiore"
+
+msgid "Update check is not supported in the web browser."
+msgstr "La verifica degli aggiornamenti non è disponibile nel browser."
+
+msgid "Update Field"
+msgstr "Aggiorna campo"
+
+msgid "Update fields before printing"
+msgstr "Aggiorna i campi prima della stampa"
+
+msgid "Update Index"
+msgstr "Aggiorna indice"
+
+msgid "Update Style to Match Selection"
+msgstr "Aggiorna lo stile in base alla selezione"
+
+msgid "Update Styles from Template"
+msgstr "Aggiorna stili dal modello"
+
+msgid "Update Table"
+msgstr "Aggiorna sommario"
+
+msgid "Update Table of Figures"
+msgstr "Aggiorna indice delle figure"
+
+msgid "Update to Match"
+msgstr "Aggiorna per corrispondere"
+
+msgid "Update to Match Selection"
+msgstr "Aggiorna in base alla selezione"
+
+msgid "URGENT"
+msgstr "URGENTE"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Usa \"a\" davanti a un suono consonantico"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Usa \"an\" davanti a un suono vocalico"
+
+msgid "Use an Existing List…"
+msgstr "Usa un elenco esistente…"
+
+msgid "Use system setting"
+msgstr "Usa impostazione di sistema"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Usa lo schermo intero del browser (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Usare il set di stili e il tema correnti per tutti i nuovi documenti?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Usa il tasto Ins per attivare e disattivare la sovrascrittura"
+
+msgid "Use this formatting as the default for:"
+msgstr "Usa questa formattazione come predefinita per:"
+
+msgid "Use wildcards"
+msgstr "Usa caratteri jolly"
+
+msgid "User Name"
+msgstr "Nome utente"
+
+msgid "User name:"
+msgstr "Nome utente:"
+
+msgid "User templates:"
+msgstr "Modelli utente:"
+
+msgid "Vector A"
+msgstr "Vettore A"
+
+msgid "Vector AB"
+msgstr "Vettore AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Cronologia versioni"
+
+msgid "Version {version} ({build})"
+msgstr "Versione {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Allineamento verticale:"
+
+msgid "Vertical Bars"
+msgstr "Barre verticali"
+
+msgid "Vertical Dots"
+msgstr "Puntini verticali"
+
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+msgid "View Alt Text…"
+msgstr "Visualizza testo alternativo…"
+
+msgid "View and edit the document's custom properties."
+msgstr "Visualizza e modifica le proprietà personalizzate del documento."
+
+msgid "View Gridlines"
+msgstr "Visualizza griglia"
+
+msgid "View State"
+msgstr "Stato visualizzazione"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Visualizza › Concentrazione nasconde tutto tranne le tue parole. Ti aspetto fuori."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Visualizzazioni"
+
+msgid "Visual effects"
+msgstr "Effetti visivi"
+
+msgid "Vivid 200%"
+msgstr "Vivace 200%"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Volume Integral"
+msgstr "Integrale di volume"
+
+msgid "Volume Integral with Limits"
+msgstr "Integrale di volume con limiti"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Integrale di volume con limiti sovrapposti"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Attendi che l'invio del lavoro di stampa sia terminato prima di chiudere."
+
+msgid "Waiting for the save to finish…"
+msgstr "In attesa del termine del salvataggio…"
+
+msgid "Waiting for Zotero…"
+msgstr "In attesa di Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Sfumatura calda con contorno"
+
+msgid "Warnings ({n})"
+msgstr "Avvisi ({n})"
+
+msgid "Washout"
+msgstr "Sbiadito"
+
+msgid "Weather"
+msgstr "Meteo"
+
+msgid "Web Layout"
+msgstr "Layout Web"
+
+msgid "Web page (*.html)"
+msgstr "Pagina Web (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Layout\nWeb"
+
+msgid "Wed"
+msgstr "Mer"
+
+msgid "Welsh"
+msgstr "Gallese"
+
+msgid "West"
+msgstr "Ovest"
+
+msgid "When this document was first created"
+msgstr "Quando il documento è stato creato"
+
+msgid "When this document was most recently printed"
+msgstr "Quando il documento è stato stampato l'ultima volta"
+
+msgid "When this document was most recently saved"
+msgstr "Quando il documento è stato salvato l'ultima volta"
+
+msgid "White Space"
+msgstr "Spazio vuoto"
+
+msgid "White space"
+msgstr "Spazi vuoti"
+
+msgid "Who the document properties name as author"
+msgstr "L'autore indicato nelle proprietà del documento"
+
+msgid "Whole document"
+msgstr "Tutto il documento"
+
+msgid "Whole page"
+msgstr "Pagina intera"
+
+msgid "Whole Table"
+msgstr "Intera tabella"
+
+msgid "Whole words"
+msgstr "Parole intere"
+
+msgid "Wide"
+msgstr "Largo"
+
+msgid "Widow/Orphan Control"
+msgstr "Controllo righe isolate"
+
+msgid "Widow/Orphan control"
+msgstr "Controllo righe isolate"
+
+msgid "Width and spacing"
+msgstr "Larghezza e spaziatura"
+
+msgid "Wildcards (regex)"
+msgstr "Caratteri jolly (regex)"
+
+msgid "With:"
+msgstr "Con:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Documento Word 2003 XML (*.xml)"
+
+msgid "Word Count"
+msgstr "Conteggio parole"
+
+msgid "Word document"
+msgstr "Documento Word"
+
+msgid "Word document (*.docx)"
+msgstr "Documento Word (*.docx)"
+
+msgid "Word Left"
+msgstr "Parola a sinistra"
+
+msgid "Word level"
+msgstr "Livello parola"
+
+msgid "Word Right"
+msgstr "Parola a destra"
+
+msgid "Word sources"
+msgstr "Fonti di Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Documento Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Stili WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft è ora l'app predefinita per i documenti Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr "WordCraft {version} è la versione più recente disponibile."
+
+msgid "Words only"
+msgstr "Solo parole"
+
+msgid "Wrap Text"
+msgstr "Disponi testo"
+
+msgid "Wrap Text Sides"
+msgstr "Lati disposizione testo"
+
+msgid "Wrap\nText"
+msgstr "Disponi\ntesto"
+
+msgid "Write & Insert Fields"
+msgstr "Composizione e inserimento campi"
+
+msgid "Write a reply"
+msgstr "Scrivi una risposta"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Blocco dello scrittore? A me aiuta fissare il cursore. Mi fa l'occhiolino da anni."
+
+msgid "x bar"
+msgstr "x segnato"
+
+msgid "Year"
+msgstr "Anno"
+
+msgid "Yields"
+msgstr "Produce"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Non salvi da un po' e il salvataggio automatico è disattivato. Salvare ora?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Hai iniziato un elenco. Premi Invio due volte per terminarlo, o Backspace all'inizio di una voce per trasformarla di nuovo in testo."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Il tuo documento è ora il documento più salvato della storia."
+
+msgid "Your languages"
+msgstr "Lingue"
+
+msgid "Your own dictionary"
+msgstr "Dizionario personale"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Il sistema non indica un'impostazione per le animazioni, quindi gli effetti di animazione restano attivi."
+
+msgid "Your system has animation effects turned off."
+msgstr "Nel sistema gli effetti di animazione sono disattivati."
+
+msgid "Your system has animation effects turned on."
+msgstr "Nel sistema gli effetti di animazione sono attivati."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: annullato"
+
+msgid "Zotero: done"
+msgstr "Zotero: completato"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} non leggibili: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} saltati (limite {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Tabella {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Collaboratori: {contributors} · commit: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Elementi evidenziati: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Pagine da stampare: {count} di {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Destinatari da unire: {count} su {total}."
+
+msgid "{field}, record {n}"
+msgstr "{field}, record {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Impostazioni {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} controlla l'ortografia e la grammatica dell'intero documento."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} conta parole, caratteri e paragrafi."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} trova e sostituisce testo, formattazione e caratteri speciali."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} ripete l'ultima azione. Formattare dieci titoli diventa all'improvviso un clic e nove tasti."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} inizia una nuova riga senza iniziare un nuovo paragrafo."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} inizia una nuova pagina. Molto più ordinato che premere Invio finché non succede."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} trasforma il testo selezionato in un collegamento."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+clic per seguire il collegamento"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (predefinita)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (dizionario illeggibile)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (nessun dizionario)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} è ora la lingua predefinita del documento."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: nessun dizionario trovato"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft non controlla ancora ortografia e grammatica in questa lingua."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (illeggibile: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} e altri {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} pollici"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} esiste già. Scegli di nuovo Salva per sostituirlo."
+
+msgid "{name} is protected with a password."
+msgstr "{name} è protetto da password."
+
+msgid "{name} options"
+msgstr "Opzioni di {name}"
+
+msgid "{name} wasn't found."
+msgstr "{name} non è stato trovato."
+
+msgid "{n} entries marked."
+msgstr "Voci segnate: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Righe: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "Parole: {words}; selezionate: {selected}"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pixel"
+
+msgid "{words} words"
+msgstr "Parole: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} parole e si continua. Letteralmente. Sto contando."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} parole! Lancerei coriandoli, ma poi toccherebbe a me raccoglierli."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} parole. Sono {words} più di quante ne abbia scritte io oggi."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "“{text}” ({row}, {series}) non è un numero."
+
+msgid "✓ None"
+msgstr "✓ Nessuno"
+
+msgid "➕ New comment"
+msgstr "➕ Nuovo commento"
+
+msgid "📂  Browse…"
+msgstr "📂  Sfoglia…"

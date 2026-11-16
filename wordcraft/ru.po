@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Все)"
+
+msgid "(no style)"
+msgstr "(нет стиля)"
+
+msgid "(no suggestions)"
+msgstr "(нет вариантов)"
+
+msgid "(normal text)"
+msgstr "(обычный текст)"
+
+msgid "(not matched)"
+msgstr "(не сопоставлено)"
+
+msgid "(picture or object)"
+msgstr "(рисунок или объект)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 или более знаков"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Ограничения форматирования"
+
+msgid "1.5 Line Spacing"
+msgstr "Полуторный интервал"
+
+msgid "1/4 Em Space"
+msgstr "Узкий пробел"
+
+msgid "1×2 Empty Matrix"
+msgstr "Пустая матрица 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Пустая матрица 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Ограничения редактирования"
+
+msgid "2×1 Empty Matrix"
+msgstr "Пустая матрица 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Определитель 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Пустая матрица 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Единичная матрица 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Единичная матрица 2×2 (разреженная)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Матрица 2×2 в квадратных скобках"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Матрица 2×2 в двойных вертикальных чертах"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Матрица 2×2 в круглых скобках"
+
+msgid "2×3 Empty Matrix"
+msgstr "Пустая матрица 2×3"
+
+msgid "3-D"
+msgstr "Объёмная"
+
+msgid "3. Start enforcement"
+msgstr "3. Включение защиты"
+
+msgid "3×1 Empty Matrix"
+msgstr "Пустая матрица 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Пустая матрица 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Пустая матрица 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Единичная матрица 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Единичная матрица 3×3 (разреженная)"
+
+msgid "<< Less"
+msgstr "<< Меньше"
+
+msgid "<< Remove"
+msgstr "<< Удалить"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "схема может содержать не более {MAX_ITEMS} элементов"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "полотно для рисования нельзя разгруппировать"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "полотно для рисования нельзя поместить в текстовое поле"
+
+msgid "A file dialog is already open."
+msgstr "Окно выбора файла уже открыто."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Бесплатный текстовый процессор с открытым исходным кодом, написанный с нуля на Rust.\nВходит в Crafting Apps от команды ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "группу с рукописным вводом Word пока нельзя разгруппировать"
+
+msgid "A mail merge field"
+msgstr "Поле слияния"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Нумерованная последовательность (рисунки, таблицы…)"
+
+msgid "A password is required to open this document."
+msgstr "Для открытия этого документа нужен пароль."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Оглавление"
+
+msgid "A xor B"
+msgstr "A исключающее ИЛИ B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "АаБбВвГг"
+
+msgid "AaBbYyZz"
+msgstr "АаБбЮюЯя"
+
+msgid "About WordCraft"
+msgstr "О WordCraft"
+
+msgid "Above Chart"
+msgstr "Над диаграммой"
+
+msgid "Above the item"
+msgstr "Над объектом"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Уравнение со случаями"
+
+msgid "Accent"
+msgstr "Диакритические\nзнаки"
+
+msgid "Accent Gradient"
+msgstr "Градиент акцента"
+
+msgid "Accent with Reflection"
+msgstr "Акцент с отражением"
+
+msgid "Accent {n}"
+msgstr "Акцент {n}"
+
+msgid "Accents"
+msgstr "Диакритические знаки"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Accept All Changes"
+msgstr "Принять все изменения"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Принять это изменение"
+
+msgid "Accessed on"
+msgstr "Дата обращения"
+
+msgid "Accessibility Pane"
+msgstr "Область специальных возможностей"
+
+msgid "Account"
+msgstr "Учётная запись"
+
+msgid "Acute"
+msgstr "Ударение"
+
+msgid "Add >>"
+msgstr "Добавить >>"
+
+msgid "Add a language"
+msgstr "Добавить язык"
+
+msgid "Add a language…"
+msgstr "Добавить язык…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Добавить таблицу"
+
+msgid "Add at least one field."
+msgstr "Добавьте хотя бы одно поле."
+
+msgid "Add Chart Element"
+msgstr "Добавить элемент диаграммы"
+
+msgid "Add Condition"
+msgstr "Добавить условие"
+
+msgid "Add Field"
+msgstr "Добавить поле"
+
+msgid "Add Font…"
+msgstr "Добавить шрифт…"
+
+msgid "Add gradient stop"
+msgstr "Добавить точку градиента"
+
+msgid "Add line numbering"
+msgstr "Добавить нумерацию строк"
+
+msgid "Add New Source…"
+msgstr "Добавить новый источник…"
+
+msgid "Add Object to Selection"
+msgstr "Добавить объект к выделению"
+
+msgid "Add Pen"
+msgstr "Добавить перо"
+
+msgid "Add Row"
+msgstr "Добавить строку"
+
+msgid "Add Series"
+msgstr "Добавить ряд"
+
+msgid "Add Shape"
+msgstr "Добавить фигуру"
+
+msgid "Add Space Before Paragraph"
+msgstr "Добавить интервал перед абзацем"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Добавлять пробел между азиатским и латинским текстом"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Добавлять пробел между азиатским текстом и числами"
+
+msgid "Add tab stop at:"
+msgstr "Добавить позицию табуляции:"
+
+msgid "Add Text"
+msgstr "Добавить текст"
+
+msgid "Add the chapter number"
+msgstr "Добавить номер главы"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Добавить в документ"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Добавить на панель быстрого доступа"
+
+msgid "Add to Style Gallery"
+msgstr "Добавить в коллекцию стилей"
+
+msgid "Add whether it is above or below"
+msgstr "Добавлять, выше он или ниже"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Добавить/изменить\nсписок литературы"
+
+msgid "Add/Edit\nCitation"
+msgstr "Добавить/изменить\nссылку"
+
+msgid "Add\nNote"
+msgstr "Добавить\nзаметку"
+
+msgid "Add\nPen"
+msgstr "Добавить\nперо"
+
+msgid "Add\nShape"
+msgstr "Добавить\nфигуру"
+
+msgid "Added 1 font"
+msgstr "Добавлен 1 шрифт"
+
+msgid "Added Fonts"
+msgstr "Добавленные шрифты"
+
+msgid "Added {n} fonts"
+msgstr "Добавлено шрифтов: {n}"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address Block"
+msgstr "Блок адреса"
+
+msgid "Address labels"
+msgstr "Адресные наклейки"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "Address\nBlock"
+msgstr "Блок\nадреса"
+
+msgid "Advanced Find"
+msgstr "Расширенный поиск"
+
+msgid "Advanced Find…"
+msgstr "Расширенный поиск…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "Африкаанс"
+
+msgid "After:"
+msgstr "После:"
+
+msgid "Agents"
+msgstr "Агенты"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Агенты, подключённые к WordCraft, могут показывать вам сообщения через помощника. Если сообщения отключены, агенты узнают, что вы не хотите их получать."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "А, латынь. Мёртвый язык — родной язык дедлайнов."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "А, этап правки. Мой любимый. Очень решительный."
+
+msgid "Albanian"
+msgstr "Албанский"
+
+msgid "Align Bottom Center"
+msgstr "По нижнему краю, по центру"
+
+msgid "Align Bottom Left"
+msgstr "По нижнему левому краю"
+
+msgid "Align Bottom Right"
+msgstr "По нижнему правому краю"
+
+msgid "Align Center"
+msgstr "По центру"
+
+msgid "Align Center Left"
+msgstr "По центру, по левому краю"
+
+msgid "Align Center Right"
+msgstr "По центру, по правому краю"
+
+msgid "Align Top Center"
+msgstr "По верхнему краю, по центру"
+
+msgid "Align Top Left"
+msgstr "По верхнему левому краю"
+
+msgid "Align Top Right"
+msgstr "По верхнему правому краю"
+
+msgid "Aligned at:"
+msgstr "Выравнивание на:"
+
+msgid "All - Linear"
+msgstr "Все — линейный вид"
+
+msgid "All - Professional"
+msgstr "Все — профессиональный вид"
+
+msgid "All Borders"
+msgstr "Все границы"
+
+msgid "All caps"
+msgstr "Все прописные"
+
+msgid "All Commands"
+msgstr "Все команды"
+
+msgid "All documents based on the Normal template?"
+msgstr "Всех документов на основе шаблона «Обычный»?"
+
+msgid "All Fonts"
+msgstr "Все шрифты"
+
+msgid "All Levels"
+msgstr "Все уровни"
+
+msgid "All Markup"
+msgstr "Все исправления"
+
+msgid "All pages in the range"
+msgstr "Все страницы диапазона"
+
+msgid "All symbol sets"
+msgstr "Все наборы символов"
+
+msgid "All system fonts are already available."
+msgstr "Все системные шрифты уже доступны."
+
+msgid "Allow hanging punctuation"
+msgstr "Разрешить висячую пунктуацию"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Разрешить перенос латинского текста посреди слова"
+
+msgid "Allow line breaks"
+msgstr "Разрешить разрывы строк"
+
+msgid "Allow row to break across pages"
+msgstr "Разрешить перенос строки на следующую страницу"
+
+msgid "Alphabetical"
+msgstr "По алфавиту"
+
+msgid "Alt Text"
+msgstr "Замещающий текст"
+
+msgid "Alt text"
+msgstr "Замещающий текст"
+
+msgid "Alt Text Pane"
+msgstr "Область замещающего текста"
+
+msgid "Alt:"
+msgstr "Замещающий текст:"
+
+msgid "Alt\nText"
+msgstr "Замещающий\nтекст"
+
+msgid "an agent"
+msgstr "агент"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Установленный языковой пакет используется после этой папки."
+
+msgid "And"
+msgstr "И"
+
+msgid "Angle Brackets"
+msgstr "Угловые скобки"
+
+msgid "Angle Brackets with Separator"
+msgstr "Угловые скобки с разделителем"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Угловые скобки с двумя разделителями"
+
+msgid "Angola"
+msgstr "Ангола"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Анимировать курсор (плавно перемещается и угасает)"
+
+msgid "Animation effects:"
+msgstr "Эффекты анимации:"
+
+msgid "Annotation Reference"
+msgstr "Знак примечания"
+
+msgid "Annotation Subject"
+msgstr "Тема примечания"
+
+msgid "Annotation Text"
+msgstr "Текст примечания"
+
+msgid "Annoying"
+msgstr "Назойливо"
+
+msgid "Another file"
+msgstr "Другой файл"
+
+msgid "Any Character"
+msgstr "Любой знак"
+
+msgid "Any Digit"
+msgstr "Любая цифра"
+
+msgid "Any field"
+msgstr "Любое поле"
+
+msgid "Any Letter"
+msgstr "Любая буква"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Этот документ может открыть любой. Зашифруйте его паролем, чтобы защитить."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Для открытия документа понадобится этот пароль."
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Применять при вводе"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Применять азиатские правила переноса строк (кинсоку)"
+
+msgid "Apply formatting to:"
+msgstr "Применить форматирование к:"
+
+msgid "Apply Style"
+msgstr "Применить стиль"
+
+msgid "Apply Styles"
+msgstr "Применить стили"
+
+msgid "Arabic"
+msgstr "Арабские"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Арка вниз"
+
+msgid "Arch Up"
+msgstr "Арка вверх"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Armenian"
+msgstr "Армянский"
+
+msgid "Arrange\nAll"
+msgstr "Упорядочить\nвсе"
+
+msgid "Article I."
+msgstr "Статья I."
+
+msgid "Artistic Effects"
+msgstr "Художественные эффекты"
+
+msgid "As Recommended"
+msgstr "По рекомендации"
+
+msgid "As you type"
+msgstr "По мере ввода"
+
+msgid "ASAP"
+msgstr "КАК МОЖНО СКОРЕЕ"
+
+msgid "Asian text font:"
+msgstr "Шрифт азиатского текста:"
+
+msgid "Asian Typography"
+msgstr "Азиатская типографика"
+
+msgid "Assistant"
+msgstr "Помощник"
+
+msgid "Assistant Suggestions"
+msgstr "Подсказки помощника"
+
+msgid "At least"
+msgstr "Минимум"
+
+msgid "At least {n}"
+msgstr "Минимум {n}"
+
+msgid "Atelier"
+msgstr "Ателье"
+
+msgid "Atmosphere"
+msgstr "Атмосфера"
+
+msgid "Attach Template"
+msgstr "Присоединить шаблон"
+
+msgid "Attach…"
+msgstr "Присоединить…"
+
+msgid "Australia"
+msgstr "Австралия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Автозамена"
+
+msgid "AutoCorrect Options"
+msgstr "Параметры автозамены"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Автоподбор"
+
+msgid "AutoFit behavior"
+msgstr "Автоподбор ширины столбцов"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Автоподбор ширины столбца двойным щелчком"
+
+msgid "AutoFit Contents"
+msgstr "Автоподбор по содержимому"
+
+msgid "AutoFit to contents"
+msgstr "Автоподбор по содержимому"
+
+msgid "AutoFit to window"
+msgstr "Автоподбор по ширине окна"
+
+msgid "AutoFit Window"
+msgstr "Автоподбор по ширине окна"
+
+msgid "AutoFormat As You Type"
+msgstr "Автоформат при вводе"
+
+msgid "Automatic ({language})"
+msgstr "Автоматически ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Автоматически ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Автоматические маркированные списки"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "«Автоматически» — язык системы. Меняются меню и команды, документы остаются прежними."
+
+msgid "Automatic numbered lists"
+msgstr "Автоматические нумерованные списки"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Автоматическое оглавление 1 (3 уровня)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Автоматическое оглавление 2 (2 уровня)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Автоматически расставлять переносы в документе"
+
+msgid "Automatically Update Document Styles"
+msgstr "Автоматически обновлять стили документа"
+
+msgid "Automatically update document styles"
+msgstr "Автоматически обновлять стили документа"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Автосохранение документов, уже сохранённых в WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Ошибка автосохранения: {error}. Сохраните документ, чтобы снова включить автосохранение."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "В браузере автосохранение недоступно: оно не может записывать ваши файлы. «Сохранить» скачивает копию."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Автосохранение работает только с файлами .docx, .odt и .rtf; {name} не сохраняет всё форматирование. Сохраните файл как .docx, чтобы включить автосохранение."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Автосохранение записывает каждое изменение в файл (документ должен быть уже сохранён)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Автосохранение записывает изменения в файл вскоре после того, как вы перестанете печатать."
+
+msgid "AutoText"
+msgstr "Автотекст"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Выноски"
+
+msgid "Banded Columns"
+msgstr "Чередующиеся столбцы"
+
+msgid "Banded Rows"
+msgstr "Чередующиеся строки"
+
+msgid "Base text:"
+msgstr "Основной текст:"
+
+msgid "Based on: {style}"
+msgstr "Основан на: {style}"
+
+msgid "Baseline Dots"
+msgstr "Многоточие по базовой линии"
+
+msgid "Basic Cycle"
+msgstr "Простой цикл"
+
+msgid "Basic List"
+msgstr "Простой список"
+
+msgid "Basic Math"
+msgstr "Основные математические"
+
+msgid "Basic Matrix"
+msgstr "Простая матрица"
+
+msgid "Basic Process"
+msgstr "Простой процесс"
+
+msgid "Basic Pyramid"
+msgstr "Простая пирамида"
+
+msgid "Basic Radial"
+msgstr "Простая радиальная схема"
+
+msgid "Basic Venn"
+msgstr "Простая диаграмма Венна"
+
+msgid "Bayes' rule"
+msgstr "Формула Байеса"
+
+msgid "Before:"
+msgstr "Перед:"
+
+msgid "Beginning of Word"
+msgstr "Начало слова"
+
+msgid "Behind Text"
+msgstr "За текстом"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Belarusian"
+msgstr "Белорусский"
+
+msgid "Belgium"
+msgstr "Бельгия"
+
+msgid "Below text"
+msgstr "Под текстом"
+
+msgid "Below the item"
+msgstr "Под объектом"
+
+msgid "Between"
+msgstr "Между абзацами"
+
+msgid "Bibliography"
+msgstr "Список литературы"
+
+msgid "Binomial Coefficient"
+msgstr "Биномиальный коэффициент"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Биномиальный коэффициент (угловые скобки)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Биномиальный коэффициент в угловых скобках"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Бином Ньютона для (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Пустой"
+
+msgid "Blank (Three Columns)"
+msgstr "Пустой (три столбца)"
+
+msgid "Blank document"
+msgstr "Новый документ"
+
+msgid "Blank Page"
+msgstr "Пустая страница"
+
+msgid "Block\nAuthors"
+msgstr "Блокировать\nавторов"
+
+msgid "Blue:"
+msgstr "Синий:"
+
+msgid "Body Text"
+msgstr "Основной текст"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Основной текст в коротком абзаце, чтобы показать интервалы."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Смелый выбор. Ctrl+Z рядом, если что."
+
+msgid "Bolivia"
+msgstr "Боливия"
+
+msgid "Book"
+msgstr "Книга"
+
+msgid "Book Title"
+msgstr "Название книги"
+
+msgid "Book title"
+msgstr "Название книги"
+
+msgid "Bookmark"
+msgstr "Закладка"
+
+msgid "Bookmark name:"
+msgstr "Имя закладки:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Линии границ"
+
+msgid "Border Painter"
+msgstr "Кисть границ"
+
+msgid "Border\nPainter"
+msgstr "Кисть\nграниц"
+
+msgid "Borders and Shading"
+msgstr "Границы и заливка"
+
+msgid "Borders and Shading…"
+msgstr "Границы и заливка…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+msgid "Bosnian"
+msgstr "Боснийский"
+
+msgid "Both Sides"
+msgstr "С обеих сторон"
+
+msgid "Bottom Border"
+msgstr "Нижняя граница"
+
+msgid "Bottom Left Cell"
+msgstr "Левая нижняя ячейка"
+
+msgid "Bottom Margin"
+msgstr "Нижнее поле"
+
+msgid "Bottom of Page"
+msgstr "Внизу страницы"
+
+msgid "Bottom Right Cell"
+msgstr "Правая нижняя ячейка"
+
+msgid "Box"
+msgstr "Рамка"
+
+msgid "Boxed Formula"
+msgstr "Формула в рамке"
+
+msgid "Boxed Formula (example)"
+msgstr "Формула в рамке (пример)"
+
+msgid "Boxed Formulas"
+msgstr "Формулы в рамке"
+
+msgid "Braces"
+msgstr "Фигурные скобки"
+
+msgid "Braces with Separator"
+msgstr "Фигурные скобки с разделителем"
+
+msgid "Bracket"
+msgstr "Скобка"
+
+msgid "Brackets"
+msgstr "Квадратные скобки"
+
+msgid "Brackets with Separators"
+msgstr "Скобки с разделителями"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "Breaks"
+msgstr "Разрывы"
+
+msgid "Breve"
+msgstr "Бреве"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Обзор в WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Элемент управления содержимым: коллекция стандартных блоков"
+
+msgid "Built in"
+msgstr "Встроенный"
+
+msgid "Built-In"
+msgstr "Встроенные"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Встроенный стиль"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Встроенные стили нельзя удалить."
+
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+msgid "Bullet Library"
+msgstr "Библиотека маркеров"
+
+msgid "Bullets"
+msgstr "Маркеры"
+
+msgid "By author"
+msgstr "По автору"
+
+msgid "Cabo Verde"
+msgstr "Кабо-Верде"
+
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Can't be deleted"
+msgstr "Нельзя удалять"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Не можете найти команду? Нажмите {key} и напишите, что хотите сделать."
+
+msgid "can't split at the first row"
+msgstr "нельзя разделить таблицу по первой строке"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Canvas Member"
+msgstr "Элемент полотна"
+
+msgid "Capitalize Each Word"
+msgstr "Каждое Слово С Прописной"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Делать первые буквы предложений прописными"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Делать первые буквы ячеек таблиц прописными"
+
+msgid "Capitalize names of days"
+msgstr "Названия дней с прописной буквы"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Начните предложение с прописной буквы"
+
+msgid "Caption Numbering"
+msgstr "Нумерация названий"
+
+msgid "Caption text"
+msgstr "Текст названия"
+
+msgid "Caption:"
+msgstr "Название:"
+
+msgid "Captions"
+msgstr "Подписи"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Осторожно, ещё чуть назад — и мы отменим изобретение бумаги."
+
+msgid "Caret Character"
+msgstr "Знак вставки (^)"
+
+msgid "Case changes"
+msgstr "Изменения регистра"
+
+msgid "Cases (Three Conditions)"
+msgstr "Система (три условия)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Система (два условия)"
+
+msgid "Cases and Stacks"
+msgstr "Системы и столбцы"
+
+msgid "Catalan"
+msgstr "Каталанский"
+
+msgid "Catalan (Valencian)"
+msgstr "Каталанский (валенсийский)"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Categories:"
+msgstr "Категории:"
+
+msgid "Category {n}"
+msgstr "Категория {n}"
+
+msgid "Ceiling"
+msgstr "Округление вверх"
+
+msgid "Cell"
+msgstr "Ячейка"
+
+msgid "Cell Margins"
+msgstr "Поля ячеек"
+
+msgid "Cell\nMargins"
+msgstr "Поля\nячеек"
+
+msgid "Center Glow"
+msgstr "Свечение из центра"
+
+msgid "Centered as Group"
+msgstr "По центру как группа"
+
+msgid "Change Chart Type"
+msgstr "Изменить тип диаграммы"
+
+msgid "Change Colors"
+msgstr "Изменить цвета"
+
+msgid "Change in y over change in x"
+msgstr "Приращение y к приращению x"
+
+msgid "Change Layout"
+msgstr "Изменить макет"
+
+msgid "Change List Level"
+msgstr "Изменить уровень списка"
+
+msgid "Change Password…"
+msgstr "Изменить пароль…"
+
+msgid "Change Picture"
+msgstr "Заменить рисунок"
+
+msgid "Change Picture…"
+msgstr "Заменить рисунок…"
+
+msgid "Change Shape"
+msgstr "Изменить фигуру"
+
+msgid "Change Structure"
+msgstr "Изменить структуру"
+
+msgid "Change to Display"
+msgstr "Показать на отдельной строке"
+
+msgid "Change to Inline"
+msgstr "Показать в строке"
+
+msgid "Change to Level 1"
+msgstr "Перейти на уровень 1"
+
+msgid "Change to Level 2"
+msgstr "Перейти на уровень 2"
+
+msgid "Change to Level 3"
+msgstr "Перейти на уровень 3"
+
+msgid "Change to Level 4"
+msgstr "Перейти на уровень 4"
+
+msgid "Change to Level 5"
+msgstr "Перейти на уровень 5"
+
+msgid "Change to Level 6"
+msgstr "Перейти на уровень 6"
+
+msgid "Change to Level 7"
+msgstr "Перейти на уровень 7"
+
+msgid "Change to Level 8"
+msgstr "Перейти на уровень 8"
+
+msgid "Change to Level 9"
+msgstr "Перейти на уровень 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Изменить\nтип диаграммы"
+
+msgid "Change\nColors"
+msgstr "Изменить\nцвета"
+
+msgid "Changed lines:"
+msgstr "Изменённые строки:"
+
+msgid "Changes"
+msgstr "Изменения"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Глава 1"
+
+msgid "Chapter in a book"
+msgstr "Глава книги"
+
+msgid "Chapters begin at:"
+msgstr "Главы начинаются с:"
+
+msgid "Character Border"
+msgstr "Граница знаков"
+
+msgid "Character code:"
+msgstr "Код знака:"
+
+msgid "Character in Range"
+msgstr "Знак из диапазона"
+
+msgid "Character level"
+msgstr "На уровне символов"
+
+msgid "Character Position"
+msgstr "Смещение знаков"
+
+msgid "Character Scale"
+msgstr "Масштаб знаков"
+
+msgid "Character Shading"
+msgstr "Заливка знаков"
+
+msgid "Character Spacing"
+msgstr "Межзнаковый интервал"
+
+msgid "Character spacing"
+msgstr "Межзнаковый интервал"
+
+msgid "Character style"
+msgstr "Стиль знаков"
+
+msgid "Characters (no spaces)"
+msgstr "Знаков (без пробелов)"
+
+msgid "Characters (with spaces)"
+msgstr "Знаков (с пробелами)"
+
+msgid "Characters per line:"
+msgstr "Символов в строке:"
+
+msgid "Chart"
+msgstr "Диаграмма"
+
+msgid "Chart Design"
+msgstr "Конструктор диаграмм"
+
+msgid "Chart Layouts"
+msgstr "Макеты диаграмм"
+
+msgid "Chart Title"
+msgstr "Название диаграммы"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "диаграммы и схемы пока нельзя перемещать или менять их размер"
+
+msgid "Check"
+msgstr "Галка"
+
+msgid "Check Accessibility"
+msgstr "Проверить доступность"
+
+msgid "Check Box Content Control"
+msgstr "Элемент управления содержимым: флажок"
+
+msgid "Check Compatibility"
+msgstr "Проверить совместимость"
+
+msgid "Check for Errors"
+msgstr "Проверить на ошибки"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Проверять орфографию при вводе"
+
+msgid "Check spelling as you type"
+msgstr "Проверять орфографию при вводе"
+
+msgid "Check\nAccessibility"
+msgstr "Проверить\nдоступность"
+
+msgid "Checked styles are allowed:"
+msgstr "Разрешённые стили (отмечены):"
+
+msgid "Checked symbol"
+msgstr "Символ установленного флажка"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Шеврон вниз"
+
+msgid "Chevron Up"
+msgstr "Шеврон вверх"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "Чили"
+
+msgid "China"
+msgstr "Китай"
+
+msgid "Chinese (Simplified)"
+msgstr "Китайский (упрощённый)"
+
+msgid "Chinese (Traditional)"
+msgstr "Китайский (традиционный)"
+
+msgid "Choose a command"
+msgstr "Выберите команду"
+
+msgid "Choose a shortcut"
+msgstr "Выберите сочетание клавиш"
+
+msgid "Choose List Item"
+msgstr "Выбрать элемент списка"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Выберите лист с получателями."
+
+msgid "Circle area from its radius"
+msgstr "Площадь круга по радиусу"
+
+msgid "Circled Dot"
+msgstr "Точка в круге"
+
+msgid "Circled Plus"
+msgstr "Плюс в круге"
+
+msgid "Circled Times"
+msgstr "Умножение в круге"
+
+msgid "Citation Style"
+msgstr "Стиль ссылок"
+
+msgid "Citations"
+msgstr "Ссылки на источники"
+
+msgid "Citations & Bibliography"
+msgstr "Ссылки и список литературы"
+
+msgid "Clear All Formatting"
+msgstr "Очистить всё форматирование"
+
+msgid "Clear Character Formatting"
+msgstr "Очистить форматирование знаков"
+
+msgid "Clear Character Style"
+msgstr "Очистить стиль знаков"
+
+msgid "Clear Formatting Level"
+msgstr "Очистить уровень форматирования"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Очистить форматирование абзаца"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Щёлкните границу между двумя ячейками, чтобы объединить их. Esc — завершить."
+
+msgid "Click an item to paste it."
+msgstr "Щёлкните элемент, чтобы вставить его."
+
+msgid "Click level to modify:"
+msgstr "Выберите уровень для изменения:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Щёлкните пустую надпись, в которой должен продолжиться текст (Esc — отмена)"
+
+msgid "Click to switch back to inserting"
+msgstr "Нажмите, чтобы вернуться к вставке"
+
+msgid "Clipboard Contents"
+msgstr "Содержимое буфера обмена"
+
+msgid "Clipboard Items"
+msgstr "Элементы буфера обмена"
+
+msgid "Clipboard Pane"
+msgstr "Область буфера обмена"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Закрыть уравнение"
+
+msgid "Close Header and Footer"
+msgstr "Закрыть колонтитулы"
+
+msgid "Close Outline View"
+msgstr "Закрыть режим структуры"
+
+msgid "Close Outline\nView"
+msgstr "Закрыть режим\nструктуры"
+
+msgid "Clustered Bar"
+msgstr "Линейчатая с группировкой"
+
+msgid "Clustered Column"
+msgstr "Гистограмма с группировкой"
+
+msgid "cm"
+msgstr "см"
+
+msgid "Col #:"
+msgstr "Колонка №:"
+
+msgid "Collapse Selection"
+msgstr "Свернуть выделение"
+
+msgid "Collate copies"
+msgstr "Разобрать по копиям"
+
+msgid "Collect entries from:"
+msgstr "Собирать записи из:"
+
+msgid "Colombia"
+msgstr "Колумбия"
+
+msgid "Colon Equal"
+msgstr "Двоеточие-равно"
+
+msgid "Color model:"
+msgstr "Цветовая модель:"
+
+msgid "Color only"
+msgstr "Только цвет"
+
+msgid "Color: {color}"
+msgstr "Цвет: {color}"
+
+msgid "Colorful"
+msgstr "Разноцветный"
+
+msgid "Column"
+msgstr "Столбец"
+
+msgid "Column Break"
+msgstr "Разрыв колонки"
+
+msgid "Column Selection"
+msgstr "Выделить столбец"
+
+msgid "Column {n}"
+msgstr "Столбец {n}"
+
+msgid "Column:"
+msgstr "Столбец:"
+
+msgid "Combine Documents"
+msgstr "Объединение документов"
+
+msgid "Combo Box Content Control"
+msgstr "Элемент управления содержимым: поле со списком"
+
+msgid "Commands"
+msgstr "Команды"
+
+msgid "Commas"
+msgstr "Запятые"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Примечания рядом с каждой страницей и отслеживаемые изменения в PDF, при печати и в изображениях; список примечаний в конце веб-страниц, Markdown и текста."
+
+msgid "Comments Pane"
+msgstr "Область комментариев"
+
+msgid "Common Accent Objects"
+msgstr "Часто используемые объекты с диакритикой"
+
+msgid "Common Brackets"
+msgstr "Часто используемые скобки"
+
+msgid "Common Fractions"
+msgstr "Часто используемые дроби"
+
+msgid "Common Functions"
+msgstr "Часто используемые функции"
+
+msgid "Common Large Operators"
+msgstr "Часто используемые крупные операторы"
+
+msgid "Common Operator Structures"
+msgstr "Часто используемые структуры операторов"
+
+msgid "Common Operators"
+msgstr "Часто используемые операторы"
+
+msgid "Common Radicals"
+msgstr "Часто используемые радикалы"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Часто используемые индексы"
+
+msgid "Communication"
+msgstr "Связь"
+
+msgid "Community\nDiscord"
+msgstr "Сообщество\nDiscord"
+
+msgid "Compact"
+msgstr "Компактный"
+
+msgid "Compare Documents"
+msgstr "Сравнение документов"
+
+msgid "Compare to"
+msgstr "Значение"
+
+msgid "Compared: {changes} changes"
+msgstr "Сравнение завершено: изменений — {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Для сравнения с другим файлом нужно настольное приложение."
+
+msgid "Comparison settings"
+msgstr "Параметры сравнения"
+
+msgid "Compress Pictures"
+msgstr "Сжать рисунки"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Сжимать пунктуацию в начале строки"
+
+msgid "Conference"
+msgstr "Конференция"
+
+msgid "Conference paper"
+msgstr "Доклад на конференции"
+
+msgid "CONFIDENTIAL"
+msgstr "КОНФИДЕНЦИАЛЬНО"
+
+msgid "Confirm password:"
+msgstr "Подтвердите пароль:"
+
+msgid "Connect Shapes"
+msgstr "Соединить фигуры"
+
+msgid "Container Title"
+msgstr "Название контейнера"
+
+msgid "Content Control at Selection"
+msgstr "Элемент управления содержимым в выделении"
+
+msgid "Content Control Properties"
+msgstr "Свойства элемента управления содержимым"
+
+msgid "Contents can't be edited"
+msgstr "Содержимое нельзя изменять"
+
+msgid "Context"
+msgstr "Контекст"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Продолжить из предыдущего раздела"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Непрерывный"
+
+msgid "Continuous numbering"
+msgstr "Сквозная нумерация"
+
+msgid "Contour Integral"
+msgstr "Контурный интеграл"
+
+msgid "Contour Integral with Limits"
+msgstr "Контурный интеграл с пределами"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Контурный интеграл с пределами сверху и снизу"
+
+msgid "Contour Integrals"
+msgstr "Контурные интегралы"
+
+msgid "Controls"
+msgstr "Элементы управления"
+
+msgid "Conversions"
+msgstr "Преобразования"
+
+msgid "Convert between built-up and linear form"
+msgstr "Переключить между профессиональным и линейным видом"
+
+msgid "Convert Notes"
+msgstr "Преобразовать сноски"
+
+msgid "Convert Text to Table"
+msgstr "Преобразовать текст в таблицу"
+
+msgid "Convert Text to Table…"
+msgstr "Преобразовать текст в таблицу…"
+
+msgid "Convert to Shapes"
+msgstr "Преобразовать в фигуры"
+
+msgid "Convert to Text"
+msgstr "Преобразовать в текст"
+
+msgid "Coproduct"
+msgstr "Копроизведение"
+
+msgid "Coproduct with Limits"
+msgstr "Копроизведение с пределами"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Копроизведение с нижним пределом"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Копроизведение с пределами в индексах"
+
+msgid "Copy Formatting"
+msgstr "Копировать форматирование"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Копия текста закладки"
+
+msgid "Copy Styles"
+msgstr "Копировать стили"
+
+msgid "Copy to"
+msgstr "Копировать в"
+
+msgid "Copyright Sign"
+msgstr "Знак авторского права"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Устранять последствия случайного нажатия cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Исправлять ДВе ПРописные буквы в начале слова"
+
+msgid "Corrections"
+msgstr "Коррекция"
+
+msgid "Cosecant Function"
+msgstr "Косеканс"
+
+msgid "Cosine 2x"
+msgstr "Косинус 2x"
+
+msgid "Cosine Function"
+msgstr "Косинус"
+
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+msgid "Cotangent Function"
+msgstr "Котангенс"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Не удалось загрузить {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Не удалось сделать WordCraft приложением по умолчанию: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Не удалось открыть {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Шаг:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Учитывать текстовые поля и сноски"
+
+msgid "Courtesy Title"
+msgstr "Обращение"
+
+msgid "Cover Page"
+msgstr "Титульная страница"
+
+msgid "Craft"
+msgstr "Ремесло"
+
+msgid "Create a Style"
+msgstr "Создать стиль"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Создайте интерактивную структуру документа.\n\nС ней легко понять, где вы находитесь, и быстро переставлять части текста.\n\nЧтобы начать, откройте вкладку «Главная» и примените к заголовкам документа стили заголовков."
+
+msgid "Create Graphic"
+msgstr "Создать графический элемент"
+
+msgid "Create Link"
+msgstr "Создать связь"
+
+msgid "Create New Style"
+msgstr "Создать новый стиль"
+
+msgid "Create Source"
+msgstr "Создать источник"
+
+msgid "Croatian"
+msgstr "Хорватский"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Перекрёстная ссылка"
+
+msgid "Cross-reference:"
+msgstr "Перекрёстная ссылка:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Куба"
+
+msgid "Cube Root"
+msgstr "Кубический корень"
+
+msgid "Current - Linear"
+msgstr "Текущее — линейный вид"
+
+msgid "Current - Professional"
+msgstr "Текущее — профессиональный вид"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Текущая позиция"
+
+msgid "Current record"
+msgstr "Текущая запись"
+
+msgid "Current style: {style}"
+msgstr "Текущий стиль: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Кривая линия со стрелкой"
+
+msgid "Curved Connector"
+msgstr "Кривая соединительная линия"
+
+msgid "Custom dictionary"
+msgstr "Пользовательский словарь"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Настраиваемые поля…"
+
+msgid "Custom mark:"
+msgstr "Особый знак:"
+
+msgid "Custom range"
+msgstr "Свой диапазон"
+
+msgid "Custom size"
+msgstr "Другой размер"
+
+msgid "Custom Table of Contents…"
+msgstr "Настраиваемое оглавление…"
+
+msgid "Custom Watermark"
+msgstr "Настраиваемая подложка"
+
+msgid "Custom Watermark…"
+msgstr "Настраиваемая подложка…"
+
+msgid "Customize"
+msgstr "Настроить"
+
+msgid "Customize Keyboard"
+msgstr "Настройка клавиатуры"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Настроить панель быстрого доступа"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Настроить панель быстрого доступа…"
+
+msgid "Customize Ribbon"
+msgstr "Настройка ленты"
+
+msgid "Customize the Ribbon…"
+msgstr "Настроить ленту…"
+
+msgid "Cycle"
+msgstr "Цикл"
+
+msgid "Cyprus"
+msgstr "Кипр"
+
+msgid "Czech"
+msgstr "Чешский"
+
+msgid "Danish"
+msgstr "Датский"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Тёмный режим"
+
+msgid "Dark page (white text on black)"
+msgstr "Тёмная страница (белый текст на чёрном)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Тёмные варианты"
+
+msgid "Dark with Shadow"
+msgstr "Тёмный с тенью"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Фотолаборатория"
+
+msgid "Data Labels"
+msgstr "Подписи данных"
+
+msgid "Date & Time"
+msgstr "Дата и время"
+
+msgid "Date formats:"
+msgstr "Форматы даты:"
+
+msgid "Date Picker Content Control"
+msgstr "Элемент управления содержимым: выбор даты"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Decimal"
+msgstr "По разделителю"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Декоративные объекты лишь украшают документ: программы чтения с экрана их пропускают."
+
+msgid "Decorative Text"
+msgstr "Декоративный текст"
+
+msgid "Decorative Text Styles"
+msgstr "Стили декоративного текста"
+
+msgid "Decrease Indent"
+msgstr "Уменьшить отступ"
+
+msgid "Deep"
+msgstr "Глубокий"
+
+msgid "Default formatting"
+msgstr "Форматирование по умолчанию"
+
+msgid "Default Paragraph Font"
+msgstr "Шрифт абзаца по умолчанию"
+
+msgid "Default tab stops:"
+msgstr "Табуляция по умолчанию:"
+
+msgid "Define New Bullet"
+msgstr "Определить новый маркер"
+
+msgid "Define New Multilevel List"
+msgstr "Определение нового многоуровневого списка"
+
+msgid "Define New Multilevel List…"
+msgstr "Определить новый многоуровневый список…"
+
+msgid "Define New Number Format"
+msgstr "Определить новый формат номера"
+
+msgid "Deflate"
+msgstr "Сжатие"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Удалить вокруг курсора в уравнении"
+
+msgid "Delete Back in Equation"
+msgstr "Удалить назад в уравнении"
+
+msgid "Delete Bookmark"
+msgstr "Удалить закладку"
+
+msgid "Delete Cells"
+msgstr "Удалить ячейки"
+
+msgid "Delete Clipboard Item"
+msgstr "Удалить элемент буфера обмена"
+
+msgid "Delete Columns"
+msgstr "Удалить столбцы"
+
+msgid "Delete Comment"
+msgstr "Удалить комментарий"
+
+msgid "Delete in Equation"
+msgstr "Удалить в уравнении"
+
+msgid "Delete Label"
+msgstr "Удалить подпись"
+
+msgid "Delete Next Word"
+msgstr "Удалить следующее слово"
+
+msgid "Delete Previous Word"
+msgstr "Удалить предыдущее слово"
+
+msgid "Delete Rows"
+msgstr "Удалить строки"
+
+msgid "Delete Selected Ink"
+msgstr "Удалить выделенные штрихи"
+
+msgid "Delete Table"
+msgstr "Удалить таблицу"
+
+msgid "Delete Table Style"
+msgstr "Удалить стиль таблицы"
+
+msgid "Deletions:"
+msgstr "Удаления:"
+
+msgid "Delivery address:"
+msgstr "Адрес получателя:"
+
+msgid "Delta Equal To"
+msgstr "Дельта равна"
+
+msgid "Delta over arrow"
+msgstr "Дельта над стрелкой"
+
+msgid "Demote"
+msgstr "Понизить уровень"
+
+msgid "Demote to Body Text"
+msgstr "Понизить до обычного текста"
+
+msgid "Derivative as a limit"
+msgstr "Производная как предел"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Опишите, что показывает этот объект, для людей, которые его не видят."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Опишите, что показывает эта таблица, для людей, которые её не видят."
+
+msgid "Design"
+msgstr "Дизайн"
+
+msgid "Design Mode"
+msgstr "Режим конструктора"
+
+msgid "Detach Template"
+msgstr "Отсоединить шаблон"
+
+msgid "Detect language automatically"
+msgstr "Определять язык автоматически"
+
+msgid "Developer"
+msgstr "Разработчик"
+
+msgid "development build"
+msgstr "сборка для разработки"
+
+msgid "Diagonal Dots"
+msgstr "Диагональное многоточие"
+
+msgid "Diagram"
+msgstr "Схема"
+
+msgid "Diagram Design"
+msgstr "Оформление схемы"
+
+msgid "Diagram Styles"
+msgstr "Стили схемы"
+
+msgid "Dictate"
+msgstr "Диктовка"
+
+msgid "Dictionaries"
+msgstr "Словари"
+
+msgid "Dictionaries folder:"
+msgstr "Папка словарей:"
+
+msgid "Dictionary files"
+msgstr "Файлы словарей"
+
+msgid "Different First Page"
+msgstr "Особая первая страница"
+
+msgid "Different Odd & Even Pages"
+msgstr "Разные для чётных и нечётных страниц"
+
+msgid "Differential"
+msgstr "Дифференциал"
+
+msgid "Differential theta"
+msgstr "Дифференциал тета"
+
+msgid "Differential x"
+msgstr "Дифференциал x"
+
+msgid "Differential y"
+msgstr "Дифференциал y"
+
+msgid "Differentials"
+msgstr "Дифференциалы"
+
+msgid "Direct formatting"
+msgstr "Прямое форматирование"
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Сообщество в Discord"
+
+msgid "Display for Review"
+msgstr "Отображение исправлений"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Отображаемый текст"
+
+msgid "Distance from text"
+msgstr "Расстояние от текста"
+
+msgid "Distance from text:"
+msgstr "Расстояние от текста:"
+
+msgid "Distribute Columns"
+msgstr "Выровнять ширину столбцов"
+
+msgid "Distribute letters"
+msgstr "Распределить буквы"
+
+msgid "Distribute Rows"
+msgstr "Выровнять высоту строк"
+
+msgid "Distribute spacing"
+msgstr "Распределить интервал"
+
+msgid "Distributed"
+msgstr "Распределённое"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Не проверять орфографию и грамматику"
+
+msgid "Do not check spelling or grammar"
+msgstr "Не проверять орфографию и грамматику"
+
+msgid "DO NOT COPY"
+msgstr "НЕ КОПИРОВАТЬ"
+
+msgid "Do Not Show in TOC"
+msgstr "Не показывать в оглавлении"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Сохранить изменения в {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Конец документа"
+
+msgid "Document Formatting"
+msgstr "Форматирование документа"
+
+msgid "Document Grid"
+msgstr "Сетка документа"
+
+msgid "Document Information"
+msgstr "Сведения о документе"
+
+msgid "Document name"
+msgstr "Имя документа"
+
+msgid "Document Property"
+msgstr "Свойство документа"
+
+msgid "Document Start"
+msgstr "Начало документа"
+
+msgid "Document template:"
+msgstr "Шаблон документа:"
+
+msgid "Document Text"
+msgstr "Текст документа"
+
+msgid "Document1"
+msgstr "Документ1"
+
+msgid "Document\nPreferences"
+msgstr "Параметры\nдокумента"
+
+msgid "Documents you open will show up here."
+msgstr "Здесь появятся документы, которые вы открываете."
+
+msgid "Does not contain"
+msgstr "Не содержит"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Не добавлять интервал между абзацами одного стиля"
+
+msgid "Don't capitalize after:"
+msgstr "Не делать прописной после:"
+
+msgid "Don't hyphenate"
+msgstr "Без переносов"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Не читать ссылки и списки литературы Zotero, Mendeley и EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Больше не показывать этот совет"
+
+msgid "Dot dash"
+msgstr "Штрихпунктир"
+
+msgid "Dot-dash"
+msgstr "Штрихпунктирный"
+
+msgid "Dot-dot-dash"
+msgstr "Штрихпунктирный с двумя точками"
+
+msgid "Double"
+msgstr "Двойной"
+
+msgid "Double Bar"
+msgstr "Двойная черта"
+
+msgid "Double Closing Quote"
+msgstr "Закрывающая двойная кавычка"
+
+msgid "Double Dot"
+msgstr "Две точки"
+
+msgid "Double Integral"
+msgstr "Двойной интеграл"
+
+msgid "Double Integral with Limits"
+msgstr "Двойной интеграл с пределами"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Двойной интеграл с пределами сверху и снизу"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Двойная стрелка влево с текстом сверху"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Двойная стрелка влево с текстом снизу"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Двойная двусторонняя стрелка с текстом сверху"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Двойная двусторонняя стрелка с текстом снизу"
+
+msgid "Double Opening Quote"
+msgstr "Открывающая двойная кавычка"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Двойная стрелка вправо с текстом сверху"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Двойная стрелка вправо с текстом снизу"
+
+msgid "Double Spacing"
+msgstr "Двойной интервал"
+
+msgid "Double Square Brackets"
+msgstr "Двойные квадратные скобки"
+
+msgid "Double Strikethrough"
+msgstr "Двойное зачёркивание"
+
+msgid "Double strikethrough"
+msgstr "Двойное зачёркивание"
+
+msgid "Double summation"
+msgstr "Двойная сумма"
+
+msgid "Double Underline"
+msgstr "Двойное подчёркивание"
+
+msgid "Double Vertical Bars"
+msgstr "Двойные вертикальные черты"
+
+msgid "Doughnut"
+msgstr "Кольцевая"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Загрузка отключена. Щелчок по «Добавить язык…» или «Установить» включает её: тогда WordCraft скачивает языковые пакеты и шрифты с GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "ЧЕРНОВИК"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Нарисуйте прямоугольник, чтобы создать таблицу, или линию поперёк ячеек, чтобы разделить их. Esc — завершить."
+
+msgid "Draw Ink"
+msgstr "Рисовать от руки"
+
+msgid "Draw Table"
+msgstr "Нарисовать таблицу"
+
+msgid "Draw\nTable"
+msgstr "Нарисовать\nтаблицу"
+
+msgid "Drawing Canvas"
+msgstr "Полотно для рисования"
+
+msgid "Drawing Tools"
+msgstr "Инструменты рисования"
+
+msgid "Drawing\nCanvas"
+msgstr "Полотно\nдля рисования"
+
+msgid "Drop Cap"
+msgstr "Буквица"
+
+msgid "Drop cap"
+msgstr "Буквица"
+
+msgid "Drop Cap Options…"
+msgstr "Параметры буквицы…"
+
+msgid "drop caps can't go in a table"
+msgstr "буквицу нельзя поместить в таблицу"
+
+msgid "Drop-Down List Content Control"
+msgstr "Элемент управления содержимым: раскрывающийся список"
+
+msgid "Dropped"
+msgstr "В тексте"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Убирает всё форматирование и вставляет обычный текст."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Нидерландский, Nederlands или nl"
+
+msgid "E-mail Messages"
+msgstr "Сообщения электронной почты"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Эквадор"
+
+msgid "Edit Comment"
+msgstr "Изменить комментарий"
+
+msgid "Edit Data"
+msgstr "Изменить данные"
+
+msgid "Edit Document"
+msgstr "Редактировать документ"
+
+msgid "Edit Equation"
+msgstr "Изменить уравнение"
+
+msgid "Edit Field Code"
+msgstr "Изменить код поля"
+
+msgid "Edit Field…"
+msgstr "Изменить поле…"
+
+msgid "Edit Footer"
+msgstr "Изменить нижний колонтитул"
+
+msgid "Edit Header"
+msgstr "Изменить верхний колонтитул"
+
+msgid "Edit Individual Documents…"
+msgstr "Изменить отдельные документы…"
+
+msgid "Edit Items"
+msgstr "Изменить элементы"
+
+msgid "Edit Recipient List"
+msgstr "Изменить список получателей"
+
+msgid "Edit Source"
+msgstr "Изменить источник"
+
+msgid "Edit\nData"
+msgstr "Изменить\nданные"
+
+msgid "Edit\nRecipient List"
+msgstr "Изменить список\nполучателей"
+
+msgid "Edited"
+msgstr "Изменено"
+
+msgid "Editing endnote"
+msgstr "Редактирование концевой сноски"
+
+msgid "Editing footnote"
+msgstr "Редактирование сноски"
+
+msgid "Editing header/footer"
+msgstr "Редактирование колонтитула"
+
+msgid "Editing in this document is restricted."
+msgstr "Редактирование этого документа ограничено."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Редактирование — правка документа напрямую"
+
+msgid "Edition"
+msgstr "Издание"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "Egypt"
+msgstr "Египет"
+
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+msgid "Elbow Arrow Connector"
+msgstr "Уголковая линия со стрелкой"
+
+msgid "Elbow Connector"
+msgstr "Уголковая соединительная линия"
+
+msgid "Emphasis"
+msgstr "Выделение"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Пустые матрицы"
+
+msgid "Enclose Characters"
+msgstr "Обрамление символов"
+
+msgid "Enclosure"
+msgstr "Обрамление"
+
+msgid "Encrypt with Password"
+msgstr "Зашифровать паролем"
+
+msgid "Encrypt with Password…"
+msgstr "Зашифровать паролем…"
+
+msgid "End of document"
+msgstr "Конец документа"
+
+msgid "End of section"
+msgstr "Конец раздела"
+
+msgid "End of Word"
+msgstr "Конец слова"
+
+msgid "Endnote Reference"
+msgstr "Знак концевой сноски"
+
+msgid "Endnote Text"
+msgstr "Текст концевой сноски"
+
+msgid "Endnotes"
+msgstr "Концевые сноски"
+
+msgid "Endnotes to footnotes"
+msgstr "Концевые сноски в сноски"
+
+msgid "English (Australia)"
+msgstr "Английский (Австралия)"
+
+msgid "English (Canada)"
+msgstr "Английский (Канада)"
+
+msgid "English (India)"
+msgstr "Английский (Индия)"
+
+msgid "English (Ireland)"
+msgstr "Английский (Ирландия)"
+
+msgid "English (New Zealand)"
+msgstr "Английский (Новая Зеландия)"
+
+msgid "English (South Africa)"
+msgstr "Английский (Южная Африка)"
+
+msgid "English (United Kingdom)"
+msgstr "Английский (Великобритания)"
+
+msgid "English (United States)"
+msgstr "Английский (США)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Английский, языки этого документа и каждый установленный языковой пакет. Языковые пакеты добавляют орфографические словари и переносы."
+
+msgid "Engrave"
+msgstr "Утопленный"
+
+msgid "Enlarge symbol"
+msgstr "Увеличить символ"
+
+msgid "Enter a number."
+msgstr "Введите число."
+
+msgid "Enter bookmark name:"
+msgstr "Введите имя закладки:"
+
+msgid "Enter formatting for number:"
+msgstr "Формат номера:"
+
+msgid "Enter in Equation"
+msgstr "Новая строка в уравнении"
+
+msgid "Enter page number:"
+msgstr "Введите номер страницы:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Запись помечена."
+
+msgid "Envelope #10"
+msgstr "Конверт №10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Адрес на конверте"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Обратный адрес"
+
+msgid "Envelope size:"
+msgstr "Размер конверта:"
+
+msgid "Envelopes"
+msgstr "Конверты"
+
+msgid "Equal by Definition"
+msgstr "Равно по определению"
+
+msgid "Equal column width"
+msgstr "Колонки одинаковой ширины"
+
+msgid "Equal Equal"
+msgstr "Равно-равно"
+
+msgid "Equal to"
+msgstr "Равно"
+
+msgid "Equals:"
+msgstr "Равно:"
+
+msgid "Equation"
+msgstr "Уравнение"
+
+msgid "Equation Gallery"
+msgstr "Коллекция уравнений"
+
+msgid "Equation Info"
+msgstr "Сведения об уравнении"
+
+msgid "Equation Number"
+msgstr "Номер уравнения"
+
+msgid "Equation Options"
+msgstr "Параметры уравнений"
+
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+msgid "Erase Ink"
+msgstr "Стереть рукописный ввод"
+
+msgid "Errors ({n})"
+msgstr "Ошибки ({n})"
+
+msgid "Esperanto"
+msgstr "Эсперанто"
+
+msgid "Estonian"
+msgstr "Эстонский"
+
+msgid "Euler's identity"
+msgstr "Тождество Эйлера"
+
+msgid "Even Banded Columns"
+msgstr "Чётные чередующиеся столбцы"
+
+msgid "Even Banded Rows"
+msgstr "Чётные чередующиеся строки"
+
+msgid "Even Page"
+msgstr "Чётная страница"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Каждое изменение записывается как исправление."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Любая команда доступна скриптам и ИИ-агентам: запустите `wordcraft-cli mcp`, чтобы получить MCP-сервер, или запустите приложение с `--control <port>`, чтобы открыть управляющий канал JSON."
+
+msgid "Every field needs a name."
+msgstr "У каждого поля должно быть имя."
+
+msgid "Everyone"
+msgstr "Все"
+
+msgid "Exactly"
+msgstr "Точно"
+
+msgid "Exactly {n}"
+msgstr "Точно {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Исключения (необязательно)"
+
+msgid "Exceptions…"
+msgstr "Исключения…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Файл или веб-страница"
+
+msgid "Expand or Collapse Heading"
+msgstr "Развернуть или свернуть заголовок"
+
+msgid "Exponential"
+msgstr "Экспонента"
+
+msgid "Exponential series"
+msgstr "Ряд для экспоненты"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Экспортировать копию, чтобы поделиться (PDF, документ Word)"
+
+msgid "Export Page as PNG"
+msgstr "Экспортировать страницу в PNG"
+
+msgid "Extend Selection"
+msgstr "Расширить выделение"
+
+msgid "Extend Selection by Units"
+msgstr "Расширить выделение по единицам"
+
+msgid "Extra space"
+msgstr "Лишний пробел"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Быстрее: {command} — это {key} на клавиатуре."
+
+msgid "Field code:"
+msgstr "Код поля:"
+
+msgid "Field Codes"
+msgstr "Коды полей"
+
+msgid "Field codes:"
+msgstr "Коды полей:"
+
+msgid "Field name"
+msgstr "Имя поля"
+
+msgid "Field name:"
+msgstr "Имя поля:"
+
+msgid "Field names must be different."
+msgstr "Имена полей не должны повторяться."
+
+msgid "Field names:"
+msgstr "Имена полей:"
+
+msgid "Field:"
+msgstr "Поле:"
+
+msgid "Field…"
+msgstr "Поле…"
+
+msgid "Figure"
+msgstr "Рисунок"
+
+msgid "File locations"
+msgstr "Расположение файлов"
+
+msgid "File name:"
+msgstr "Имя файла:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Файл › Создать показывает отсюда шаблоны .dotx и .dotm в группе «Личные»; «Сохранить как шаблон Word» начинает здесь."
+
+msgid "Fill color:"
+msgstr "Цвет заливки:"
+
+msgid "Filling in forms"
+msgstr "Заполнение форм"
+
+msgid "Film"
+msgstr "Фильм"
+
+msgid "Filter and Sort"
+msgstr "Фильтр и сортировка"
+
+msgid "Filter Recipients"
+msgstr "Фильтр получателей"
+
+msgid "Find in list:"
+msgstr "Найти в списке:"
+
+msgid "Find Next Editable Region"
+msgstr "Найти следующую область для редактирования"
+
+msgid "Find Previous"
+msgstr "Найти предыдущее"
+
+msgid "Find Recipient"
+msgstr "Найти получателя"
+
+msgid "Find What Expression"
+msgstr "Найденное выражение"
+
+msgid "Find What Text"
+msgstr "Текст для поиска"
+
+msgid "Find what:"
+msgstr "Найти:"
+
+msgid "Find “{text}” in the document"
+msgstr "Найти «{text}» в документе"
+
+msgid "Finding printers…"
+msgstr "Поиск принтеров…"
+
+msgid "Finish & Merge"
+msgstr "Завершить и объединить"
+
+msgid "Finish &\nMerge"
+msgstr "Завершить\nи объединить"
+
+msgid "Finished"
+msgstr "Завершено"
+
+msgid "Finland"
+msgstr "Финляндия"
+
+msgid "Finnish"
+msgstr "Финский"
+
+msgid "First Column"
+msgstr "Первый столбец"
+
+msgid "First line"
+msgstr "Первая строка"
+
+msgid "First line:"
+msgstr "Первая строка:"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "First Record"
+msgstr "Первая запись"
+
+msgid "First row of data contains column headers"
+msgstr "Первая строка данных содержит заголовки столбцов"
+
+msgid "Fix Position on Page"
+msgstr "Зафиксировать положение на странице"
+
+msgid "Fixed Column Width"
+msgstr "Фиксированная ширина столбцов"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Округление вниз"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Символ после номера:"
+
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+msgid "Font color:"
+msgstr "Цвет шрифта:"
+
+msgid "Font Dialog"
+msgstr "Окно «Шрифт»"
+
+msgid "Font: {font}"
+msgstr "Шрифт: {font}"
+
+msgid "Font…"
+msgstr "Шрифт…"
+
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+msgid "Footnote and Endnote"
+msgstr "Обычные и концевые сноски"
+
+msgid "Footnote Reference"
+msgstr "Знак сноски"
+
+msgid "Footnote Text"
+msgstr "Текст сноски"
+
+msgid "Footnotes"
+msgstr "Сноски"
+
+msgid "Footnotes and endnotes"
+msgstr "Сноски и концевые сноски"
+
+msgid "Footnotes to endnotes"
+msgstr "Сноски в концевые сноски"
+
+msgid "For which item:"
+msgstr "Для какого элемента:"
+
+msgid "Format Page Numbers"
+msgstr "Формат номеров страниц"
+
+msgid "Format Page Numbers…"
+msgstr "Формат номеров страниц…"
+
+msgid "Format Painter"
+msgstr "Формат по образцу"
+
+msgid "Format Shape"
+msgstr "Формат фигуры"
+
+msgid "Format Shape Pane"
+msgstr "Область «Формат фигуры»"
+
+msgid "Format Shape…"
+msgstr "Формат фигуры…"
+
+msgid "Formatted"
+msgstr "Отформатировано"
+
+msgid "Formatted Text"
+msgstr "Форматированный текст"
+
+msgid "Formatting"
+msgstr "Форматирование"
+
+msgid "Formatting at Selection"
+msgstr "Форматирование выделенного фрагмента"
+
+msgid "Formatting exceptions"
+msgstr "Исключения форматирования"
+
+msgid "Formatting marks"
+msgstr "Знаки форматирования"
+
+msgid "Formatting saved for new documents:"
+msgstr "Форматирование, сохранённое для новых документов:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Сравниваются форматирование, регистр, пробелы и таблицы; остальные параметры сохраняются на будущее."
+
+msgid "Formula"
+msgstr "Формула"
+
+msgid "Formula:"
+msgstr "Формула:"
+
+msgid "Forward"
+msgstr "Вперёд"
+
+msgid "Fraction"
+msgstr "Дробь"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Дроби (1/2) как символы дробей (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Франция"
+
+msgid "French (France)"
+msgstr "Французский (Франция)"
+
+msgid "From Bottom Left Corner"
+msgstr "Из угла слева снизу"
+
+msgid "From Bottom Right Corner"
+msgstr "Из угла справа снизу"
+
+msgid "From Center"
+msgstr "Из центра"
+
+msgid "From text:"
+msgstr "От текста:"
+
+msgid "From Top Left Corner"
+msgstr "Из угла слева сверху"
+
+msgid "From Top Right Corner"
+msgstr "Из угла справа сверху"
+
+msgid "from Unicode (hex)"
+msgstr "Юникод (шестн.)"
+
+msgid "From {name}"
+msgstr "От: {name}"
+
+msgid "From:"
+msgstr "С:"
+
+msgid "Full page of the same label"
+msgstr "Целая страница одинаковых наклеек"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Полноэкранный режим"
+
+msgid "Full\nScreen"
+msgstr "Во весь\nэкран"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Забавный факт: чистая страница — это просто черновик, которому ещё не рассказали, о чём он."
+
+msgid "Function"
+msgstr "Функция"
+
+msgid "Galician"
+msgstr "Галисийский"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "Грузинский"
+
+msgid "German (Germany)"
+msgstr "Немецкий (Германия)"
+
+msgid "Germany"
+msgstr "Германия"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Получает список языковых пакетов, затем пакет этого языка, если он есть."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Цвета свечения"
+
+msgid "Go Back"
+msgstr "Вернуться"
+
+msgid "Go To"
+msgstr "Перейти"
+
+msgid "Go to"
+msgstr "Перейти"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Перейти (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Перейти к записи"
+
+msgid "Go to what:"
+msgstr "Перейти к:"
+
+msgid "Go To…"
+msgstr "Перейти…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Исчезло! Как будто и не писалось. В основном потому, что теперь и правда не писалось."
+
+msgid "Good afternoon"
+msgstr "Добрый день"
+
+msgid "Good evening"
+msgstr "Добрый вечер"
+
+msgid "Good morning"
+msgstr "Доброе утро"
+
+msgid "GOST (name sort)"
+msgstr "ГОСТ (сортировка по автору)"
+
+msgid "GOST (title sort)"
+msgstr "ГОСТ (сортировка по названию)"
+
+msgid "Grab bag"
+msgstr "Разное"
+
+msgid "Gradient fill"
+msgstr "Градиентная заливка"
+
+msgid "Gradient stops"
+msgstr "Точки градиента"
+
+msgid "Grammar built in"
+msgstr "Грамматика встроена"
+
+msgid "Grave"
+msgstr "Обратное ударение"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Больше"
+
+msgid "Greater than or equal"
+msgstr "Больше или равно"
+
+msgid "Greek"
+msgstr "Греческий"
+
+msgid "Greek Letters"
+msgstr "Греческие буквы"
+
+msgid "Green:"
+msgstr "Зеленый:"
+
+msgid "Greeting Line"
+msgstr "Строка приветствия"
+
+msgid "Greeting\nLine"
+msgstr "Строка\nприветствия"
+
+msgid "Grid Table 1 Light"
+msgstr "Таблица-сетка 1, светлая"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Таблица-сетка 4 — синяя"
+
+msgid "Grid Table 4 – Green"
+msgstr "Таблица-сетка 4 — зелёная"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Таблица-сетка 4 — оранжевая"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Таблица-сетка 4 — фиолетовая"
+
+msgid "Gridlines"
+msgstr "Сетка"
+
+msgid "Grouping Character Above"
+msgstr "Группирующий знак сверху"
+
+msgid "Grouping Character Below"
+msgstr "Группирующий знак снизу"
+
+msgid "Grow Font 1 Point"
+msgstr "Увеличить шрифт на 1 пт"
+
+msgid "Guatemala"
+msgstr "Гватемала"
+
+msgid "H:"
+msgstr "В:"
+
+msgid "Hanging Indent"
+msgstr "Выступ"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr "Крышка"
+
+msgid "Header"
+msgstr "Верхний колонтитул"
+
+msgid "Header & Footer"
+msgstr "Колонтитулы"
+
+msgid "Header Row"
+msgstr "Строка заголовка"
+
+msgid "Header row"
+msgstr "Строка заголовка"
+
+msgid "Header/Footer Position"
+msgstr "Положение колонтитулов"
+
+msgid "Headers and footers"
+msgstr "Колонтитулы"
+
+msgid "Heading"
+msgstr "Заголовок"
+
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Стили заголовков (уровни 1–{n})"
+
+msgid "Heading text"
+msgstr "Текст заголовка"
+
+msgid "Heading {n}"
+msgstr "Заголовок {n}"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Привет! Я Nib, ваш помощник по письму. Я даю советы, подсказываю сочетания клавиш и иногда высказываю непрошеное мнение. Мне остаться?"
+
+msgid "Hidden bookmarks"
+msgstr "Скрытые закладки"
+
+msgid "Hide Codes"
+msgstr "Скрыть коды"
+
+msgid "Hide from style lists"
+msgstr "Скрывать в списках стилей"
+
+msgid "Hide Ink"
+msgstr "Скрыть рукописный ввод"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Скрыть панель быстрого доступа"
+
+msgid "Hide White Space"
+msgstr "Скрыть пустое место между страницами"
+
+msgid "Hide\nInk"
+msgstr "Скрыть"
+
+msgid "Hierarchy"
+msgstr "Иерархия"
+
+msgid "Highlight"
+msgstr "Выделение цветом"
+
+msgid "Highlight Merge Fields"
+msgstr "Выделить поля слияния"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Выделить\nполя слияния"
+
+msgid "Highlighter"
+msgstr "Маркер"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Домашняя папка"
+
+msgid "Honduras"
+msgstr "Гондурас"
+
+msgid "Hong Kong SAR"
+msgstr "САР Гонконг"
+
+msgid "Horizontal Line"
+msgstr "Горизонтальная линия"
+
+msgid "How many pages the whole document has"
+msgstr "Сколько страниц во всём документе"
+
+msgid "How many pages this section has"
+msgstr "Сколько страниц в этом разделе"
+
+msgid "How many words the document holds"
+msgstr "Сколько слов в документе"
+
+msgid "HTML Format"
+msgstr "Формат HTML"
+
+msgid "Hue:"
+msgstr "Оттенок:"
+
+msgid "Hungarian"
+msgstr "Венгерский"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Файлы Hunspell .aff и .dic из этой папки (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) используются раньше системных."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Гиперболический косеканс"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Гиперболический косинус"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Гиперболический котангенс"
+
+msgid "Hyperbolic Functions"
+msgstr "Гиперболические функции"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Гиперболический секанс"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Гиперболический синус"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Гиперболический тангенс"
+
+msgid "Hyperlink"
+msgstr "Гиперссылка"
+
+msgid "Hyphenate at:"
+msgstr "Переносить по:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Переносить слова из ПРОПИСНЫХ букв"
+
+msgid "Hyphenation Options…"
+msgstr "Параметры расстановки переносов…"
+
+msgid "Hyphenation zone:"
+msgstr "Зона переноса слов:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Дефисы (--) как тире (—)"
+
+msgid "Hypotenuse"
+msgstr "Гипотенуза"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Честное слово, сохранено. Я проверил. Дважды."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Я бы и сам что-нибудь написал, но я перо без чернил. Сплошной нажим, ноль результата."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "Исландский"
+
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+msgid "Icons"
+msgstr "Значки"
+
+msgid "Identity Matrices"
+msgstr "Единичные матрицы"
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "Если…То…Иначе"
+
+msgid "If…Then…Else…"
+msgstr "Если…То…Иначе…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Не учитывать знаки препинания"
+
+msgid "Ignore web and file addresses"
+msgstr "Пропускать веб-адреса и пути к файлам"
+
+msgid "Ignore white-space characters"
+msgstr "Не учитывать пробелы"
+
+msgid "Ignore words in capitals"
+msgstr "Пропускать слова из прописных букв"
+
+msgid "Ignore words with numbers"
+msgstr "Пропускать слова с цифрами"
+
+msgid "Illustrations"
+msgstr "Иллюстрации"
+
+msgid "Immersive"
+msgstr "Иммерсивный режим"
+
+msgid "Immersive Reader"
+msgstr "Иммерсивное чтение"
+
+msgid "Immersive\nReader"
+msgstr "Иммерсивное\nчтение"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "В разделе «Приложения по умолчанию» выберите WordCraft для нужных типов документов."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "В формулах имя после обратной косой черты заменяется символом."
+
+msgid "In Front of Text"
+msgstr "Перед текстом"
+
+msgid "In Line with Text"
+msgstr "В тексте"
+
+msgid "In margin"
+msgstr "На поле"
+
+msgid "In the margin"
+msgstr "На полях"
+
+msgid "Include label and number"
+msgstr "Включить подпись и номер"
+
+msgid "Include level number from:"
+msgstr "Включить номер уровня:"
+
+msgid "Include page numbers"
+msgstr "Включить номера страниц"
+
+msgid "Increase Indent"
+msgstr "Увеличить отступ"
+
+msgid "Indent"
+msgstr "Отступ"
+
+msgid "Indent from left:"
+msgstr "Отступ слева:"
+
+msgid "Indentation"
+msgstr "Отступы"
+
+msgid "Indented"
+msgstr "Со ступенчатым отступом"
+
+msgid "Indents"
+msgstr "Отступы"
+
+msgid "Indents and Spacing"
+msgstr "Отступы и интервалы"
+
+msgid "Index and Tables"
+msgstr "Указатели и таблицы"
+
+msgid "Index Heading"
+msgstr "Заголовок указателя"
+
+msgid "Index {n}"
+msgstr "Указатель {n}"
+
+msgid "India"
+msgstr "Индия"
+
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+msgid "Initial column width:"
+msgstr "Исходная ширина столбцов:"
+
+msgid "Initials:"
+msgstr "Инициалы:"
+
+msgid "Ink"
+msgstr "Рукописный ввод"
+
+msgid "Ink Replay"
+msgstr "Воспроизведение рукописного ввода"
+
+msgid "Ink to Shape"
+msgstr "Рукописный ввод в фигуры"
+
+msgid "Ink to\nMath"
+msgstr "Рукопись\nв формулу"
+
+msgid "Ink to\nShape"
+msgstr "Рукопись\nв фигуру"
+
+msgid "Ink\nReplay"
+msgstr "Воспроизвести\nрукопись"
+
+msgid "Inline"
+msgstr "В строке"
+
+msgid "Input Format"
+msgstr "Формат ввода"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Вставить новое уравнение (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Вставить сверху"
+
+msgid "Insert Below"
+msgstr "Вставить снизу"
+
+msgid "Insert Caption"
+msgstr "Вставить подпись"
+
+msgid "Insert Caption…"
+msgstr "Вставить подпись…"
+
+msgid "Insert Chart"
+msgstr "Вставка диаграммы"
+
+msgid "Insert Citation"
+msgstr "Вставить ссылку на источник"
+
+msgid "Insert Columns to the Left"
+msgstr "Вставить столбцы слева"
+
+msgid "Insert Columns to the Right"
+msgstr "Вставить столбцы справа"
+
+msgid "Insert Date Field"
+msgstr "Вставить поле даты"
+
+msgid "Insert Diagram"
+msgstr "Вставить схему"
+
+msgid "Insert Endnote"
+msgstr "Вставить концевую сноску"
+
+msgid "Insert Footnote"
+msgstr "Вставить сноску"
+
+msgid "Insert Hyperlink"
+msgstr "Вставить гиперссылку"
+
+msgid "Insert Index"
+msgstr "Вставить указатель"
+
+msgid "Insert Left"
+msgstr "Вставить слева"
+
+msgid "Insert Merge Field"
+msgstr "Вставить поле слияния"
+
+msgid "Insert Merge\nField"
+msgstr "Вставить поле\nслияния"
+
+msgid "Insert New Equation"
+msgstr "Вставить новое уравнение"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Вставить один или другой текст в зависимости от значения поля."
+
+msgid "Insert Page Field"
+msgstr "Вставить поле номера страницы"
+
+msgid "Insert reference to:"
+msgstr "Вставить ссылку на:"
+
+msgid "Insert Right"
+msgstr "Вставить справа"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Вставить строку или столбец щелчком"
+
+msgid "Insert Rows Above"
+msgstr "Вставить строки сверху"
+
+msgid "Insert Rows Below"
+msgstr "Вставить строки снизу"
+
+msgid "Insert Shapes"
+msgstr "Вставка фигур"
+
+msgid "Insert SmartArt"
+msgstr "Вставка SmartArt"
+
+msgid "Insert Spike"
+msgstr "Вставить из копилки"
+
+msgid "Insert Structure"
+msgstr "Вставить структуру"
+
+msgid "Insert Symbol"
+msgstr "Вставить символ"
+
+msgid "Insert Table"
+msgstr "Вставить таблицу"
+
+msgid "Insert Table of Authorities"
+msgstr "Вставить таблицу ссылок"
+
+msgid "Insert Table of Figures"
+msgstr "Вставить список иллюстраций"
+
+msgid "Insert Table…"
+msgstr "Вставить таблицу…"
+
+msgid "Insert Time Field"
+msgstr "Вставить поле времени"
+
+msgid "Insert\nAbove"
+msgstr "Вставить\nсверху"
+
+msgid "Insert\nCaption"
+msgstr "Вставить\nподпись"
+
+msgid "Insert\nCitation"
+msgstr "Вставить\nссылку"
+
+msgid "Insert\nFootnote"
+msgstr "Вставить\nсноску"
+
+msgid "Insertions and Deletions"
+msgstr "Вставки и удаления"
+
+msgid "Insertions:"
+msgstr "Вставки:"
+
+msgid "Inside Borders"
+msgstr "Внутренние границы"
+
+msgid "Inside Horizontal Border"
+msgstr "Внутренняя горизонтальная граница"
+
+msgid "Inside Vertical Border"
+msgstr "Внутренняя вертикальная граница"
+
+msgid "Inside:"
+msgstr "Внутри:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Стили выделенного фрагмента"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Установить орфографию ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Учреждение"
+
+msgid "Integral"
+msgstr "Интеграл"
+
+msgid "Integral of e^(−x²)"
+msgstr "Интеграл от e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Интеграл с пределами"
+
+msgid "Integral with Stacked Limits"
+msgstr "Интеграл с пределами сверху и снизу"
+
+msgid "Integrals"
+msgstr "Интегралы"
+
+msgid "Intense Emphasis"
+msgstr "Сильное выделение"
+
+msgid "Intense Quote"
+msgstr "Выделенная цитата"
+
+msgid "Intense Reference"
+msgstr "Сильная ссылка"
+
+msgid "Interface language:"
+msgstr "Язык интерфейса:"
+
+msgid "Interface size:"
+msgstr "Размер интерфейса:"
+
+msgid "Interface theme:"
+msgstr "Тема интерфейса:"
+
+msgid "Interface\nTheme"
+msgstr "Тема\nинтерфейса"
+
+msgid "Internet addresses as links"
+msgstr "Адреса в Интернете как ссылки"
+
+msgid "Intersection with Limits"
+msgstr "Пересечение с пределами"
+
+msgid "Intersection with Lower Limit"
+msgstr "Пересечение с нижним пределом"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Пересечение с пределами в индексах"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Арккосеканс"
+
+msgid "Inverse Cosine Function"
+msgstr "Арккосинус"
+
+msgid "Inverse Cotangent Function"
+msgstr "Арккотангенс"
+
+msgid "Inverse Functions"
+msgstr "Обратные функции"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Обратный гиперболический косеканс"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Обратный гиперболический косинус"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Обратный гиперболический котангенс"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Обратные гиперболические функции"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Обратный гиперболический секанс"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Обратный гиперболический синус"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Обратный гиперболический тангенс"
+
+msgid "Inverse Secant Function"
+msgstr "Арксеканс"
+
+msgid "Inverse Sine Function"
+msgstr "Арксинус"
+
+msgid "Inverse Tangent Function"
+msgstr "Арктангенс"
+
+msgid "Ionosphere"
+msgstr "Ионосфера"
+
+msgid "Iraq"
+msgstr "Ирак"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "Irish"
+msgstr "Ирландский"
+
+msgid "Is blank"
+msgstr "Пусто"
+
+msgid "Is not blank"
+msgstr "Не пусто"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (автор, дата)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (числовой)"
+
+msgid "Issue"
+msgstr "Выпуск"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Похоже, вы пишете письмо. Подготовить для него конверт или начать с шаблона письма?"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Не удалось прочитать его словарь: {reason}"
+
+msgid "Jamaica"
+msgstr "Ямайка"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Присоединяйтесь к сообществу ArtCraft в Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Присоединяйтесь к нам в Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Иордания"
+
+msgid "Journal"
+msgstr "Журнал"
+
+msgid "Journal article"
+msgstr "Статья в журнале"
+
+msgid "Justification of a display equation"
+msgstr "Выравнивание отдельного уравнения"
+
+msgid "Justified"
+msgstr "По ширине"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Keep Lines Together"
+msgstr "Не разрывать абзац"
+
+msgid "Keep lines together"
+msgstr "Не разрывать абзац"
+
+msgid "Keep me around"
+msgstr "Оставайся"
+
+msgid "Keep Text Only"
+msgstr "Вставить без форматирования"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Храните пароль в надёжном месте: без него никто, включая WordCraft, не сможет открыть документ. Оставьте оба поля пустыми, чтобы убрать пароль."
+
+msgid "Keep with Next"
+msgstr "Не отрывать от следующего"
+
+msgid "Keep with next"
+msgstr "Не отрывать от следующего"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Сохраняет шрифты и форматирование скопированного текста."
+
+msgid "Kerning for fonts:"
+msgstr "Кернинг шрифтов:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Сочетания клавиш:"
+
+msgid "Keys for this command:"
+msgstr "Клавиши для этой команды:"
+
+msgid "Kuwait"
+msgstr "Кувейт"
+
+msgid "Label changes with:"
+msgstr "Подписывать изменения:"
+
+msgid "Label:"
+msgstr "Подпись:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Языковые параметры…"
+
+msgid "Large\nOperator"
+msgstr "Крупный\nоператор"
+
+msgid "Largest Only"
+msgstr "Только по большей стороне"
+
+msgid "Lasso Select"
+msgstr "Лассо"
+
+msgid "Last Column"
+msgstr "Последний столбец"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Last Record"
+msgstr "Последняя запись"
+
+msgid "Last, First; Last, First"
+msgstr "Фамилия, Имя; Фамилия, Имя"
+
+msgid "Latin text font:"
+msgstr "Шрифт латинского текста:"
+
+msgid "Latvian"
+msgstr "Латышский"
+
+msgid "Layout Summary"
+msgstr "Сводка по макету"
+
+msgid "Layouts"
+msgstr "Макеты"
+
+msgid "Leader"
+msgstr "Заполнитель"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Не включать получателя в слияние, если поле имеет это значение."
+
+msgid "Leave Equation"
+msgstr "Выйти из уравнения"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Не сохранять дату и время примечаний и отслеживаемых изменений"
+
+msgid "Leave the equation (Esc)"
+msgstr "Выйти из уравнения (Esc)"
+
+msgid "leave the equation first"
+msgstr "сначала выйдите из уравнения"
+
+msgid "Leave the label out of the caption"
+msgstr "Не включать подпись в название"
+
+msgid "Lebanon"
+msgstr "Ливан"
+
+msgid "Left Arrow with Text Above"
+msgstr "Стрелка влево с текстом сверху"
+
+msgid "Left Arrow with Text Below"
+msgstr "Стрелка влево с текстом снизу"
+
+msgid "Left Border"
+msgstr "Левая граница"
+
+msgid "Left border"
+msgstr "Левая граница"
+
+msgid "Left Bracket Twice"
+msgstr "Две левые квадратные скобки"
+
+msgid "Left indent"
+msgstr "Отступ слева"
+
+msgid "Left Margin"
+msgstr "Левое поле"
+
+msgid "Left Only"
+msgstr "Только слева"
+
+msgid "Left Right Arrow Above"
+msgstr "Двусторонняя стрелка сверху"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Двусторонняя стрелка с текстом сверху"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Двусторонняя стрелка с текстом снизу"
+
+msgid "Left Subscript-Superscript"
+msgstr "Левые нижний и верхний индексы"
+
+msgid "Left-to-right"
+msgstr "Слева направо"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Направление текста слева направо"
+
+msgid "Leftwards Arrow Above"
+msgstr "Стрелка влево сверху"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Гарпун влево сверху"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Нумерация в юридическом стиле"
+
+msgid "Legend"
+msgstr "Легенда"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Меньше"
+
+msgid "Less than or equal"
+msgstr "Меньше или равно"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Заголовки с буквами"
+
+msgid "Letter template"
+msgstr "Шаблон письма"
+
+msgid "Letter-Like Symbols"
+msgstr "Буквоподобные символы"
+
+msgid "Letters"
+msgstr "Письма"
+
+msgid "Level 5"
+msgstr "Уровень 5"
+
+msgid "Level 6"
+msgstr "Уровень 6"
+
+msgid "Level 7"
+msgstr "Уровень 7"
+
+msgid "Level 8"
+msgstr "Уровень 8"
+
+msgid "Level 9"
+msgstr "Уровень 9"
+
+msgid "Level {n}"
+msgstr "Уровень {n}"
+
+msgid "Levels:"
+msgstr "Уровни:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+msgid "Light Variations"
+msgstr "Светлые варианты"
+
+msgid "Light with Outline"
+msgstr "Светлый с контуром"
+
+msgid "Limit"
+msgstr "Предел"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Предел\nи логарифм"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Максимум последовательных переносов:"
+
+msgid "Limit Example"
+msgstr "Пример предела"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Ограничить форматирование выбранными стилями"
+
+msgid "Line and Page Breaks"
+msgstr "Разрывы строк и страниц"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Интервал между строками и абзацами"
+
+msgid "Line between"
+msgstr "Разделитель"
+
+msgid "Line Break"
+msgstr "Разрыв строки"
+
+msgid "Line breaking"
+msgstr "Перенос строк"
+
+msgid "Line End"
+msgstr "Конец строки"
+
+msgid "Line Number"
+msgstr "Номер строки"
+
+msgid "Line Numbering Options…"
+msgstr "Параметры нумерации строк…"
+
+msgid "Line Numbers"
+msgstr "Номера строк"
+
+msgid "Line Spacing"
+msgstr "Межстрочный интервал"
+
+msgid "Line Spacing Options…"
+msgstr "Параметры межстрочного интервала…"
+
+msgid "Line spacing:"
+msgstr "Межстрочный интервал:"
+
+msgid "Line Start"
+msgstr "Начало строки"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Линейный по диагонали — слева снизу → справа сверху"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Линейный по диагонали — справа снизу → слева сверху"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Линейный по диагонали — слева сверху → справа снизу"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Линейный по диагонали — справа сверху → слева снизу"
+
+msgid "Linear Down"
+msgstr "Линейный вниз"
+
+msgid "Linear Fraction"
+msgstr "Линейная дробь"
+
+msgid "Linear Left"
+msgstr "Линейный влево"
+
+msgid "Linear Right"
+msgstr "Линейный вправо"
+
+msgid "Linear Up"
+msgstr "Линейный вверх"
+
+msgid "Lines and characters"
+msgstr "Строки и символы"
+
+msgid "Lines only"
+msgstr "Только строки"
+
+msgid "Lines per page:"
+msgstr "Строк на странице:"
+
+msgid "Lines to drop:"
+msgstr "Высота в строках:"
+
+msgid "Link entries to their headings"
+msgstr "Связать записи с заголовками"
+
+msgid "Link level to style:"
+msgstr "Связать уровень со стилем:"
+
+msgid "Link to Previous"
+msgstr "Как в предыдущем"
+
+msgid "Link to:"
+msgstr "Связать с:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Связанный стиль (абзаца и знаков)"
+
+msgid "Links and References"
+msgstr "Ссылки"
+
+msgid "Link…"
+msgstr "Ссылка…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Определение списка"
+
+msgid "List entries"
+msgstr "Элементы списка"
+
+msgid "List Paragraph"
+msgstr "Абзац списка"
+
+msgid "List Table 3 – Blue"
+msgstr "Таблица-список 3 — синяя"
+
+msgid "List Table 3 – Green"
+msgstr "Таблица-список 3 — зелёная"
+
+msgid "List Table 3 – Orange"
+msgstr "Таблица-список 3 — оранжевая"
+
+msgid "List Table 3 – Purple"
+msgstr "Таблица-список 3 — фиолетовая"
+
+msgid "Lit from Bottom"
+msgstr "Освещение снизу"
+
+msgid "Lit from Top"
+msgstr "Освещение сверху"
+
+msgid "Lithuanian"
+msgstr "Литовский"
+
+msgid "Load System Installed Fonts…"
+msgstr "Загрузить установленные системные шрифты…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Загружено системных шрифтов: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Ваш браузер не поддерживает доступ к локальным шрифтам."
+
+msgid "Local font access was denied."
+msgstr "Доступ к локальным шрифтам отклонен."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Расположение: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Сохранять пропорции"
+
+msgid "Lock Fields"
+msgstr "Заблокировать поля"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Логарифм"
+
+msgid "Logarithm with Base"
+msgstr "Логарифм по основанию"
+
+msgid "Logical AND"
+msgstr "Логическое И"
+
+msgid "Logical AND with Limits"
+msgstr "Логическое И с пределами"
+
+msgid "Logical OR"
+msgstr "Логическое ИЛИ"
+
+msgid "Logical OR with Limits"
+msgstr "Логическое ИЛИ с пределами"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: потому что настоящие слова ещё сидят в кафе."
+
+msgid "Lum:"
+msgstr "Яркость:"
+
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+msgid "Macao SAR"
+msgstr "САР Макао"
+
+msgid "Macedonian"
+msgstr "Македонский"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Макросы"
+
+msgid "Made from the author and year when empty"
+msgstr "Если пусто, составляется из автора и года"
+
+msgid "Magazine or newspaper article"
+msgstr "Статья в журнале или газете"
+
+msgid "Mail Merge"
+msgstr "Слияние"
+
+msgid "Mailings"
+msgstr "Рассылки"
+
+msgid "Main entry:"
+msgstr "Основная запись:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Сделать WordCraft приложением по умолчанию для документов Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Увеличивает или уменьшает ленту, меню и диалоговые окна. «Авто» следует системному масштабированию экрана; 100% — один пиксель экрана на точку. Масштаб документа настраивается отдельно."
+
+msgid "Malaysia"
+msgstr "Малайзия"
+
+msgid "Manage Sources"
+msgstr "Управление источниками"
+
+msgid "Manage Styles"
+msgstr "Управление стилями"
+
+msgid "Manage Styles…"
+msgstr "Управление стилями…"
+
+msgid "Manual Hyphenation"
+msgstr "Расстановка переносов вручную"
+
+msgid "Manual hyphenation is complete."
+msgstr "Расстановка переносов вручную завершена."
+
+msgid "Manual Line Break"
+msgstr "Разрыв строки"
+
+msgid "Manual Page Break"
+msgstr "Разрыв страницы"
+
+msgid "Manual…"
+msgstr "Вручную…"
+
+msgid "Many pages"
+msgstr "Много страниц"
+
+msgid "Mark"
+msgstr "Пометить"
+
+msgid "Mark All"
+msgstr "Пометить все"
+
+msgid "Mark as decorative"
+msgstr "Пометить как декоративный"
+
+msgid "Mark Citation"
+msgstr "Пометить ссылку"
+
+msgid "Mark Entry"
+msgstr "Пометить элемент"
+
+msgid "Mark Entry…"
+msgstr "Пометить запись…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Отмечать грамматические ошибки при вводе"
+
+msgid "Mark Index Entry"
+msgstr "Пометка элемента указателя"
+
+msgid "Mark selected text as:"
+msgstr "Пометить выделенный текст как:"
+
+msgid "Mark\nCitation"
+msgstr "Пометить\nссылку"
+
+msgid "Mark\nEntry"
+msgstr "Пометить\nэлемент"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "С учётом регистра"
+
+msgid "Match Fields"
+msgstr "Сопоставить поля"
+
+msgid "Match prefix"
+msgstr "Начало слова"
+
+msgid "Match suffix"
+msgstr "Конец слова"
+
+msgid "Matches: {count}"
+msgstr "Совпадений: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Автозамена математическими символами"
+
+msgid "Matrices with Brackets"
+msgstr "Матрицы со скобками"
+
+msgid "Matrix"
+msgstr "Матрица"
+
+msgid "Maximum Example"
+msgstr "Пример максимума"
+
+msgid "Measured By"
+msgstr "Единица измерения"
+
+msgid "Measurement units:"
+msgstr "Единицы измерения:"
+
+msgid "Merge cells before split"
+msgstr "Объединить ячейки перед разбиением"
+
+msgid "Merge Formatting"
+msgstr "Объединить форматирование"
+
+msgid "Merge Record #"
+msgstr "Номер записи слияния"
+
+msgid "Mesosphere"
+msgstr "Мезосфера"
+
+msgid "Mexico"
+msgstr "Мексика"
+
+msgid "Midline Dots"
+msgstr "Многоточие по средней линии"
+
+msgid "Minus Equal"
+msgstr "Минус-равно"
+
+msgid "Mirror indents"
+msgstr "Зеркальные отступы"
+
+msgid "Mirror margins"
+msgstr "Зеркальные поля"
+
+msgid "Mirrored"
+msgstr "Зеркальные"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team и участники проекта WordCraft."
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr "мм"
+
+msgid "Moderate"
+msgstr "Средние"
+
+msgid "Modify Style"
+msgstr "Изменить стиль"
+
+msgid "Modify Table Style"
+msgstr "Изменить стиль таблицы"
+
+msgid "Modify Table Style…"
+msgstr "Изменить стиль таблицы…"
+
+msgid "Modify…"
+msgstr "Изменить…"
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Monaco"
+msgstr "Монако"
+
+msgid "Montenegro"
+msgstr "Черногория"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "More >>"
+msgstr "Больше >>"
+
+msgid "More Colors…"
+msgstr "Другие цвета…"
+
+msgid "More Columns…"
+msgstr "Другие колонки…"
+
+msgid "More Commands…"
+msgstr "Другие команды…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "Другие градиенты…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Другие размеры бумаги…"
+
+msgid "More Symbols…"
+msgstr "Другие символы…"
+
+msgid "More tabs"
+msgstr "Другие вкладки"
+
+msgid "More templates →"
+msgstr "Другие шаблоны →"
+
+msgid "More Underlines…"
+msgstr "Другие подчёркивания…"
+
+msgid "Morocco"
+msgstr "Марокко"
+
+msgid "Move in Equation"
+msgstr "Перемещение в уравнении"
+
+msgid "Move or Resize"
+msgstr "Переместить или изменить размер"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Переместить абзац вниз"
+
+msgid "Move Paragraph Up"
+msgstr "Переместить абзац вверх"
+
+msgid "Move Past Citation"
+msgstr "Перейти к концу ссылки"
+
+msgid "Move Past\nCitation"
+msgstr "Перейти к концу\nссылки"
+
+msgid "Move Selected Ink"
+msgstr "Переместить выделенные штрихи"
+
+msgid "Move Table by Dragging"
+msgstr "Переместить таблицу перетаскиванием"
+
+msgid "Move with Text"
+msgstr "Перемещать вместе с текстом"
+
+msgid "Moved from"
+msgstr "Перемещено из"
+
+msgid "Moved from:"
+msgstr "Перемещено из:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Перемещаемые объекты притягиваются к краям и центру страницы, к полям и к другим объектам. Удерживайте Alt, чтобы перемещать свободно."
+
+msgid "Moved to"
+msgstr "Перемещено в"
+
+msgid "Moved to:"
+msgstr "Перемещено в:"
+
+msgid "Moves"
+msgstr "Перемещения"
+
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+msgid "Multilevel List"
+msgstr "Многоуровневый список"
+
+msgid "Multilevel List Library"
+msgstr "Библиотека многоуровневых списков"
+
+msgid "Multiple Pages"
+msgstr "Несколько страниц"
+
+msgid "Mute agent messages"
+msgstr "Отключить сообщения агентов"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Мой список содержит"
+
+msgid "Name of the file this document is saved as"
+msgstr "Имя файла, под которым сохранён документ"
+
+msgid "Narrow"
+msgstr "Узкая"
+
+msgid "Narrow  {size} all"
+msgstr "Узкие  {size} со всех сторон"
+
+msgid "Natural Logarithm"
+msgstr "Натуральный логарифм"
+
+msgid "Nature"
+msgstr "Природа"
+
+msgid "Navigation Pane"
+msgstr "Область навигации"
+
+msgid "Negated Relations"
+msgstr "Отрицания отношений"
+
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+msgid "New blank documents are written in this language"
+msgstr "Новые пустые документы пишутся на этом языке"
+
+msgid "New Comment"
+msgstr "Новый комментарий"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Новые примечания и исправления записываются под этим именем и инициалами."
+
+msgid "New Documents Based on This Template"
+msgstr "В новых документах на основе этого шаблона"
+
+msgid "New documents based on this template"
+msgstr "В новых документах на основе этого шаблона"
+
+msgid "New documents will use this font."
+msgstr "Новые документы будут использовать этот шрифт."
+
+msgid "New documents will use this page setup."
+msgstr "Новые документы будут использовать эти параметры страницы."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Новые документы будут использовать это форматирование абзаца."
+
+msgid "New documents will use this style."
+msgstr "Новые документы будут использовать этот стиль."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Новые документы будут использовать встроенное форматирование WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Новые документы будут использовать встроенное форматирование WordCraft. Сохранённые параметры по умолчанию нельзя будет восстановить. Сбросить?"
+
+msgid "New Drawing Canvas"
+msgstr "Новое полотно для рисования"
+
+msgid "New Entry"
+msgstr "Новая запись"
+
+msgid "New Label"
+msgstr "Новая подпись"
+
+msgid "New Label…"
+msgstr "Новая подпись…"
+
+msgid "New Paragraph"
+msgstr "Новый абзац"
+
+msgid "New shortcut:"
+msgstr "Новое сочетание клавиш:"
+
+msgid "New Tab"
+msgstr "Создать вкладку"
+
+msgid "New Table Style"
+msgstr "Новый стиль таблицы"
+
+msgid "New Table Style…"
+msgstr "Новый стиль таблицы…"
+
+msgid "New word"
+msgstr "Новое слово"
+
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+msgid "New\nComment"
+msgstr "Новый\nкомментарий"
+
+msgid "New\nWindow"
+msgstr "Новое\nокно"
+
+msgid "Next Comment"
+msgstr "Следующий комментарий"
+
+msgid "Next Field"
+msgstr "Следующее поле"
+
+msgid "Next Footnote"
+msgstr "Следующая сноска"
+
+msgid "Next Record"
+msgstr "Следующая запись"
+
+msgid "Next Section"
+msgstr "Следующий раздел"
+
+msgid "Next Sentence"
+msgstr "Следующее предложение"
+
+msgid "Next sentence"
+msgstr "Следующее предложение"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Ниб парит над окном с советами и редкими замечаниями."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Ниб, ваш помощник. Перетащите, чтобы переместить; щёлкните правой кнопкой для настроек."
+
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+msgid "No accessibility issues found."
+msgstr "Проблем со специальными возможностями не найдено."
+
+msgid "No Border"
+msgstr "Без границы"
+
+msgid "No changes (read only)"
+msgstr "Без изменений (только чтение)"
+
+msgid "No contributor data was built into this copy."
+msgstr "В эту сборку не включены данные об участниках."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Нет открытого документа. Сначала создайте или откройте документ."
+
+msgid "no equation at the caret"
+msgstr "у курсора нет уравнения"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Ошибок не найдено: все поля слияния есть в списке получателей."
+
+msgid "No Fill"
+msgstr "Нет заливки"
+
+msgid "No fill"
+msgstr "Нет заливки"
+
+msgid "No Glow"
+msgstr "Без свечения"
+
+msgid "No Gradient"
+msgstr "Без градиента"
+
+msgid "No grid"
+msgstr "Без сетки"
+
+msgid "No header row"
+msgstr "Без строки заголовка"
+
+msgid "No icons match your search."
+msgstr "Нет значков, соответствующих поиску."
+
+msgid "No items to show."
+msgstr "Нет элементов для показа."
+
+msgid "No language matches your search."
+msgstr "Ни один язык не соответствует запросу."
+
+msgid "No languages to show yet."
+msgstr "Пока нет языков для показа."
+
+msgid "No Markup"
+msgstr "Без исправлений"
+
+msgid "No model credits were built into this copy."
+msgstr "В эту сборку не включены сведения о моделях."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Нет контура"
+
+msgid "No Paragraph Space"
+msgstr "Без интервала между абзацами"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Принтеры не найдены. Настройте системный принтер или экспортируйте PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Без отражения"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Без тени"
+
+msgid "No Soft Edges"
+msgstr "Без сглаживания"
+
+msgid "No sources yet."
+msgstr "Источников пока нет."
+
+msgid "No Spacing"
+msgstr "Без интервала"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Орфографический словарь для языка «{language}» не установлен, поэтому текст не проверяется. WordCraft ищет словарь Hunspell {name} в папке WORDCRAFT_DICTIONARIES и в обычных системных расположениях."
+
+msgid "No templates match your search."
+msgstr "Нет шаблонов, подходящих под запрос."
+
+msgid "No Transform"
+msgstr "Без трансформации"
+
+msgid "No watermark"
+msgstr "Без подложки"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Слов пока нет. Команда «Добавить в словарь» для слова с ошибкой помещает его сюда."
+
+msgid "No-Width Non Break"
+msgstr "Неразрывный знак нулевой ширины"
+
+msgid "No-Width Optional Break"
+msgstr "Необязательный разрыв нулевой ширины"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Неразрывный дефис"
+
+msgid "Normal  {size} all"
+msgstr "Обычные  {size} со всех сторон"
+
+msgid "Normal Indent"
+msgstr "Обычный отступ"
+
+msgid "Normal probability density"
+msgstr "Плотность нормального распределения"
+
+msgid "Normal speed"
+msgstr "Обычная скорость"
+
+msgid "Normal Style"
+msgstr "Обычный стиль"
+
+msgid "Normal Table"
+msgstr "Обычная таблица"
+
+msgid "Normal Text"
+msgstr "Обычный текст"
+
+msgid "Normal Word Document"
+msgstr "Обычный документ Word"
+
+msgid "North"
+msgstr "Север"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Норвежский (букмол)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Норвежский (нюнорск)"
+
+msgid "Not"
+msgstr "Не"
+
+msgid "Not available right now"
+msgstr "Сейчас недоступно"
+
+msgid "Not available yet"
+msgstr "Пока недоступен"
+
+msgid "not editing an equation"
+msgstr "уравнение не редактируется"
+
+msgid "Not equal to"
+msgstr "Не равно"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Не связано: щёлкните надпись"
+
+msgid "Not now"
+msgstr "Не сейчас"
+
+msgid "Not saved"
+msgstr "Не сохранено"
+
+msgid "Not saved yet"
+msgstr "Ещё не сохранено"
+
+msgid "Not set"
+msgstr "Не задано"
+
+msgid "Not set: the system's usual places"
+msgstr "Не задана: стандартные расположения в системе"
+
+msgid "Not used by any command"
+msgstr "Не используется ни одной командой"
+
+msgid "Not {name}"
+msgstr "Не {name}"
+
+msgid "Nothing"
+msgstr "Ничего"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Пока пусто. Здесь появятся элементы, которые вы копируете или вырезаете."
+
+msgid "nothing is selected"
+msgstr "ничего не выделено"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Сейчас используется: {command}"
+
+msgid "Nudge"
+msgstr "Сдвинуть"
+
+msgid "Num Occurrences"
+msgstr "Число вхождений"
+
+msgid "Number alignment:"
+msgstr "Выравнивание номера:"
+
+msgid "Number format"
+msgstr "Формат номера"
+
+msgid "Number of columns:"
+msgstr "Число столбцов:"
+
+msgid "Number of rows:"
+msgstr "Число строк:"
+
+msgid "Number of the page the field sits on"
+msgstr "Номер страницы, на которой стоит поле"
+
+msgid "Number of the section the field sits in"
+msgstr "Номер раздела, в котором стоит поле"
+
+msgid "Number only, without the label's words"
+msgstr "Только номер, без слов метки"
+
+msgid "Number style for this level:"
+msgstr "Вид нумерации для этого уровня:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Пронумеровать уравнение; номер стоит у правого поля (или введите # и номер)"
+
+msgid "Numbering"
+msgstr "Нумерация"
+
+msgid "Numbering:"
+msgstr "Нумерация:"
+
+msgid "Numbering…"
+msgstr "Нумерация…"
+
+msgid "Numerals"
+msgstr "Цифры"
+
+msgid "Numerals:"
+msgstr "Цифры:"
+
+msgid "n×n Identity Matrix"
+msgstr "Единичная матрица n×n"
+
+msgid "n×n Matrix"
+msgstr "Матрица n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Нечётные чередующиеся столбцы"
+
+msgid "Odd Banded Rows"
+msgstr "Нечётные чередующиеся строки"
+
+msgid "Odd Page"
+msgstr "Нечётная страница"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Office 2003 Default"
+msgstr "Стандартный Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Смещение (пт):"
+
+msgid "Offset: Bottom"
+msgstr "Смещение: вниз"
+
+msgid "Offset: Bottom Left"
+msgstr "Смещение: вниз влево"
+
+msgid "Offset: Bottom Right"
+msgstr "Смещение: вниз вправо"
+
+msgid "Offset: Center"
+msgstr "Смещение: по центру"
+
+msgid "Offset: Left"
+msgstr "Смещение: влево"
+
+msgid "Offset: Right"
+msgstr "Смещение: вправо"
+
+msgid "Offset: Top"
+msgstr "Смещение: вверх"
+
+msgid "Offset: Top Left"
+msgstr "Смещение: вверх влево"
+
+msgid "Offset: Top Right"
+msgstr "Смещение: вверх вправо"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Старые клавиши меню: Alt, {keys}. Продолжайте ввод или нажмите Esc для отмены."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Вкл.: при вводе текста и нажатии клавиш со стрелками курсор плавно перемещается на новое место, а его мигание плавно угасает. Выкл.: курсор перескакивает и резко мигает."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Вкл.: WordCraft открывается на странице Файл › Главная с пустым документом, шаблонами и недавними документами. Выкл.: открывается пустой документ."
+
+msgid "One"
+msgstr "Одна"
+
+msgid "One half"
+msgstr "Одна вторая"
+
+msgid "One label per recipient"
+msgstr "Одна наклейка на получателя"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Одна строка на элемент. Enter добавляет элемент."
+
+msgid "One Page"
+msgstr "Одна страница"
+
+msgid "One-sided"
+msgstr "Односторонняя"
+
+msgid "Only allow this kind of editing:"
+msgstr "Разрешить только такой способ редактирования:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Можно только добавлять примечания, кроме областей, помеченных как редактируемые."
+
+msgid "Only for the selected text"
+msgstr "Только для выделенного текста"
+
+msgid "Only form fields can be filled in."
+msgstr "Можно заполнять только поля форм."
+
+msgid "only in Outline view"
+msgstr "только в режиме структуры"
+
+msgid "Only in this document"
+msgstr "Только в этом документе"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Можно применять только разрешённые стили."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Переходить можно только по веб-ссылкам (http, https) и ссылкам на электронную почту (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Сначала откройте документ"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Открыть файл во встроенном обозревателе WordCraft, если системное диалоговое окно выбора файлов не появляется."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Текст OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Открытие окна печати…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Отныне файлы .docx, .doc, .rtf и .odt и шаблоны Word будут открываться в WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Открывает «Параметры» › «Приложения по умолчанию», где можно выбрать WordCraft для .docx и других типов документов."
+
+msgid "Operator"
+msgstr "Оператор"
+
+msgid "Operator Structures"
+msgstr "Структуры операторов"
+
+msgid "Operators"
+msgstr "Операторы"
+
+msgid "Optional Hyphen"
+msgstr "Мягкий перенос"
+
+msgid "Or"
+msgstr "Или"
+
+msgid "Or save a copy in another format:"
+msgstr "Или сохраните копию в другом формате:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Порядковые числительные (1st) как надстрочные"
+
+msgid "Organizer"
+msgstr "Организатор"
+
+msgid "Organizer…"
+msgstr "Организатор…"
+
+msgid "Original document"
+msgstr "Исходный документ"
+
+msgid "Original size"
+msgstr "Исходный размер"
+
+msgid "Other Large Operators"
+msgstr "Другие крупные операторы"
+
+msgid "Other styles and their TOC level:"
+msgstr "Другие стили и их уровень в оглавлении:"
+
+msgid "Other:"
+msgstr "Другой:"
+
+msgid "Otherwise insert:"
+msgstr "Иначе вставить:"
+
+msgid "Outline Level"
+msgstr "Уровень структуры"
+
+msgid "Outline level"
+msgstr "Уровень структуры"
+
+msgid "Outline levels"
+msgstr "Уровни структуры"
+
+msgid "Outline State"
+msgstr "Состояние структуры"
+
+msgid "Outline Tools"
+msgstr "Работа со структурой"
+
+msgid "Outlining"
+msgstr "Структура"
+
+msgid "Outside border"
+msgstr "Внешняя граница"
+
+msgid "Outside Borders"
+msgstr "Внешние границы"
+
+msgid "Outside:"
+msgstr "Снаружи:"
+
+msgid "Outward Brackets"
+msgstr "Внешние квадратные скобки"
+
+msgid "Overbar"
+msgstr "Черта сверху"
+
+msgid "Overbars and Underbars"
+msgstr "Черта сверху и снизу"
+
+msgid "Overbrace"
+msgstr "Фигурная скобка сверху"
+
+msgid "Overtype"
+msgstr "Замена"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Замена (вводимый текст заменяет символы после курсора)"
+
+msgid "Page Background"
+msgstr "Фон страницы"
+
+msgid "Page Border"
+msgstr "Граница страницы"
+
+msgid "Page Borders"
+msgstr "Границы страниц"
+
+msgid "Page Break"
+msgstr "Разрыв страницы"
+
+msgid "Page Break Before"
+msgstr "С новой страницы"
+
+msgid "Page break before"
+msgstr "С новой страницы"
+
+msgid "Page Breaks"
+msgstr "Разрывы страниц"
+
+msgid "Page Color"
+msgstr "Цвет страницы"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Отображение страницы"
+
+msgid "Page Down"
+msgstr "Страница вниз"
+
+msgid "Page image (*.png)"
+msgstr "Изображение страницы (*.png)"
+
+msgid "Page Movement"
+msgstr "Перелистывание страниц"
+
+msgid "Page Number"
+msgstr "Номер страницы"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Формат номеров страниц"
+
+msgid "Page number style"
+msgstr "Стиль номеров страниц"
+
+msgid "Page numbering"
+msgstr "Нумерация страниц"
+
+msgid "Page numbers at the right margin"
+msgstr "Номера страниц по правому краю"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Страница, на которой находится закладка"
+
+msgid "Page Setup"
+msgstr "Параметры страницы"
+
+msgid "Page title"
+msgstr "Название страницы"
+
+msgid "Page Up"
+msgstr "Страница вверх"
+
+msgid "Page Width"
+msgstr "По ширине страницы"
+
+msgid "Page width"
+msgstr "По ширине страницы"
+
+msgid "Page X of Y"
+msgstr "Страница X из Y"
+
+msgid "Page {page}"
+msgstr "Страница {page}"
+
+msgid "Page\nBorders"
+msgstr "Границы\nстраниц"
+
+msgid "Page\nColor"
+msgstr "Цвет\nстраницы"
+
+msgid "Page\nNumber"
+msgstr "Номер\nстраницы"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Страницы, например 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Страницы закладки:"
+
+msgid "Panama"
+msgstr "Панама"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Размер бумаги:"
+
+msgid "Paragraph Character"
+msgstr "Знак абзаца"
+
+msgid "Paragraph Details"
+msgstr "Сведения об абзаце"
+
+msgid "Paragraph Down"
+msgstr "На абзац вниз"
+
+msgid "Paragraph Mark"
+msgstr "Знак абзаца"
+
+msgid "Paragraph marks"
+msgstr "Знаки абзаца"
+
+msgid "Paragraph Settings"
+msgstr "Параметры абзаца"
+
+msgid "Paragraph Spacing"
+msgstr "Интервал между абзацами"
+
+msgid "Paragraph style"
+msgstr "Стиль абзаца"
+
+msgid "Paragraph Up"
+msgstr "На абзац вверх"
+
+msgid "Paragraphs"
+msgstr "Абзацы"
+
+msgid "Paragraph…"
+msgstr "Абзац…"
+
+msgid "Paraguay"
+msgstr "Парагвай"
+
+msgid "Parentheses"
+msgstr "Круглые скобки"
+
+msgid "Parentheses with Separator"
+msgstr "Круглые скобки с разделителем"
+
+msgid "Partial Differential"
+msgstr "Частный дифференциал"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Paste (⌘V)"
+msgstr "Вставить (⌘V)"
+
+msgid "Paste All"
+msgstr "Вставить всё"
+
+msgid "Paste as:"
+msgstr "Вставить как:"
+
+msgid "Paste Clipboard Item"
+msgstr "Вставить элемент буфера обмена"
+
+msgid "Paste Formatting"
+msgstr "Вставить форматирование"
+
+msgid "Paste function:"
+msgstr "Вставить функцию:"
+
+msgid "Paste Special…"
+msgstr "Специальная вставка…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Вставить без форматирования"
+
+msgid "Paste: Merge Formatting"
+msgstr "Вставить: объединить форматирование"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Вставляет рисунок из буфера обмена."
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "PDF document (*.pdf)"
+msgstr "Документ PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Перья"
+
+msgid "People"
+msgstr "Люди"
+
+msgid "Periodical"
+msgstr "Периодическое издание"
+
+msgid "Persian"
+msgstr "Персидский"
+
+msgid "Personal"
+msgstr "Личные"
+
+msgid "Personal Templates"
+msgstr "Личные шаблоны"
+
+msgid "Personalize"
+msgstr "Персонализация"
+
+msgid "Peru"
+msgstr "Перу"
+
+msgid "Philippines"
+msgstr "Филиппины"
+
+msgid "Phonetic Guide"
+msgstr "Фонетическое руководство"
+
+msgid "pi"
+msgstr "пик"
+
+msgid "Pi Over 2"
+msgstr "Пи на 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Выберите настраиваемую группу (её создаёт «Создать группу»)"
+
+msgid "Pick a field from the list"
+msgstr "Выберите поле в списке"
+
+msgid "Picture"
+msgstr "Рисунок"
+
+msgid "Picture Border"
+msgstr "Граница рисунка"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Элемент управления содержимым: рисунок"
+
+msgid "Picture Format"
+msgstr "Формат рисунка"
+
+msgid "Picture Styles"
+msgstr "Стили рисунков"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Подложка-рисунок"
+
+msgid "Pictures"
+msgstr "Рисунки"
+
+msgid "Pie"
+msgstr "Круговая"
+
+msgid "Place in This Document"
+msgstr "Место в документе"
+
+msgid "Placeholder text"
+msgstr "Текст-заполнитель"
+
+msgid "Plain Table 1"
+msgstr "Простая таблица 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Обычный текст (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Элемент управления содержимым: обычный текст"
+
+msgid "Play/Pause"
+msgstr "Воспроизведение/пауза"
+
+msgid "Plus Equal"
+msgstr "Плюс-равно"
+
+msgid "Points and above"
+msgstr "пт и более"
+
+msgid "Polish"
+msgstr "Польский"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Portuguese (Brazil)"
+msgstr "Португальский (Бразилия)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Португальский (Португалия)"
+
+msgid "Possible spelling mistake"
+msgstr "Возможная орфографическая ошибка"
+
+msgid "Postal Code"
+msgstr "Почтовый индекс"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Степенной ряд (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Желаемая ширина:"
+
+msgid "Preserve formatting during updates"
+msgstr "Сохранять формат при обновлении"
+
+msgid "Preset gradients"
+msgstr "Готовые градиенты"
+
+msgid "Press a key combination"
+msgstr "Нажмите сочетание клавиш"
+
+msgid "Preview Results"
+msgstr "Просмотр результатов"
+
+msgid "Preview\nResults"
+msgstr "Просмотр\nрезультатов"
+
+msgid "Previous 1 or More"
+msgstr "Предыдущий знак 1 или более раз"
+
+msgid "Previous Comment"
+msgstr "Предыдущий комментарий"
+
+msgid "Previous Field"
+msgstr "Предыдущее поле"
+
+msgid "Previous Record"
+msgstr "Предыдущая запись"
+
+msgid "Previous Section"
+msgstr "Предыдущий раздел"
+
+msgid "Previous Sentence"
+msgstr "Предыдущее предложение"
+
+msgid "Previous sentence"
+msgstr "Предыдущее предложение"
+
+msgid "Print Documents"
+msgstr "Печать документов"
+
+msgid "Print Documents…"
+msgstr "Печать документов…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Печать не удалась: процесс печати остановлен."
+
+msgid "Print failed: {error}"
+msgstr "Ошибка печати: {error}"
+
+msgid "Print job submitted."
+msgstr "Задание на печать отправлено."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Задание печати отправлено: в очередь передано листов: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Задание на печать отправлено: {receipt}"
+
+msgid "Print Layout"
+msgstr "Разметка страницы"
+
+msgid "Print Markup"
+msgstr "Печатать исправления и примечания"
+
+msgid "Print settings"
+msgstr "Параметры печати"
+
+msgid "Print the page color"
+msgstr "Печатать цвет страницы"
+
+msgid "Print to PDF"
+msgstr "Печать в PDF"
+
+msgid "Print\nLayout"
+msgstr "Разметка\nстраницы"
+
+msgid "Printer default"
+msgstr "По умолчанию принтера"
+
+msgid "Printer discovery failed."
+msgstr "Не удалось найти принтеры."
+
+msgid "Privacy for this document"
+msgstr "Конфиденциальность этого документа"
+
+msgid "Privacy Options"
+msgstr "Параметры конфиденциальности"
+
+msgid "Privacy Settings"
+msgstr "Текущие параметры конфиденциальности"
+
+msgid "Process"
+msgstr "Процесс"
+
+msgid "Product"
+msgstr "Произведение"
+
+msgid "Product of A"
+msgstr "Произведение A"
+
+msgid "Product with Limits"
+msgstr "Произведение с пределами"
+
+msgid "Product with Lower Limit"
+msgstr "Произведение с нижним пределом"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Произведение с пределами в индексах"
+
+msgid "Products and Coproducts"
+msgstr "Произведения и копроизведения"
+
+msgid "Professional"
+msgstr "Профессиональный"
+
+msgid "Promote"
+msgstr "Повысить уровень"
+
+msgid "Promote to Heading 1"
+msgstr "Повысить до заголовка 1"
+
+msgid "Proofing"
+msgstr "Правописание"
+
+msgid "Proofing Issues"
+msgstr "Замечания по правописанию"
+
+msgid "Proofing language"
+msgstr "Язык проверки правописания"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Защитить документ"
+
+msgid "pt"
+msgstr "пт"
+
+msgid "Publisher"
+msgstr "Издатель"
+
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+msgid "Put the caret in a content control first."
+msgstr "Сначала поместите курсор в элемент управления содержимым."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Вернуть команды по умолчанию на панель быстрого доступа?"
+
+msgid "Qatar"
+msgstr "Катар"
+
+msgid "Quadratic Root"
+msgstr "Корень квадратного уравнения"
+
+msgid "Quick Access Toolbar"
+msgstr "Панель быстрого доступа"
+
+msgid "Quick Parts"
+msgstr "Готовые блоки"
+
+msgid "Quick Tables"
+msgstr "Готовые таблицы"
+
+msgid "Quote"
+msgstr "Цитата"
+
+msgid "Radical"
+msgstr "Радикал"
+
+msgid "Radical with Degree"
+msgstr "Радикал со степенью"
+
+msgid "Radicals"
+msgstr "Радикалы"
+
+msgid "Raised/lowered"
+msgstr "Смещение вверх/вниз"
+
+msgid "Read Aloud"
+msgstr "Прочитать вслух"
+
+msgid "Read Aloud Status"
+msgstr "Состояние чтения вслух"
+
+msgid "Read Mode"
+msgstr "Режим чтения"
+
+msgid "Read\nAloud"
+msgstr "Прочитать\nвслух"
+
+msgid "Read\nMode"
+msgstr "Режим\nчтения"
+
+msgid "Reading"
+msgstr "Чтение"
+
+msgid "Reading Column Width"
+msgstr "Ширина столбца в режиме чтения"
+
+msgid "Reading Highlight"
+msgstr "Выделить совпадения"
+
+msgid "Reading Line Spacing"
+msgstr "Межстрочный интервал в режиме чтения"
+
+msgid "Reading Mode"
+msgstr "Режим чтения"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Скорость чтения"
+
+msgid "Reading Text Size"
+msgstr "Размер текста в режиме чтения"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Берёт RTF-текст из буфера обмена и сохраняет его форматирование."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Берёт веб-содержимое из буфера обмена и сохраняет его форматирование."
+
+msgid "Recent documents to show:"
+msgstr "Число недавних документов:"
+
+msgid "Recently Used Fonts"
+msgstr "Недавно использованные шрифты"
+
+msgid "Recently used symbols:"
+msgstr "Недавно использованные символы:"
+
+msgid "Recipient List"
+msgstr "Список получателей"
+
+msgid "Recipient lists"
+msgstr "Списки получателей"
+
+msgid "Recipients: {count}"
+msgstr "Получателей: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Перекрасить одноцветный рисунок, например значок"
+
+msgid "Recolor Selected Ink"
+msgstr "Перекрасить выделенные штрихи"
+
+msgid "Record Macro"
+msgstr "Записать макрос"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Восстановить несохранённые документы"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Красный:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Уменьшить выступ"
+
+msgid "Reference type:"
+msgstr "Тип ссылки:"
+
+msgid "References"
+msgstr "Ссылки"
+
+msgid "Reflection"
+msgstr "Отражение"
+
+msgid "Refresh printers"
+msgstr "Обновить принтеры"
+
+msgid "Region:"
+msgstr "Регион:"
+
+msgid "Registered"
+msgstr "Зарегистрированный товарный знак"
+
+msgid "Registered Sign"
+msgstr "Знак зарегистрированного товарного знака"
+
+msgid "Regular expressions"
+msgstr "Регулярные выражения"
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Reject All Changes"
+msgstr "Отклонить все изменения"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Отклонить изменение"
+
+msgid "Relationship"
+msgstr "Связь"
+
+msgid "Relative to original picture size"
+msgstr "Относительно исходного размера рисунка"
+
+msgid "Remove Added Font"
+msgstr "Удалить добавленный шрифт"
+
+msgid "Remove condition"
+msgstr "Удалить условие"
+
+msgid "Remove Content Control"
+msgstr "Удалить элемент управления содержимым"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Удалить все пользовательские сочетания клавиш и восстановить встроенные?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Удалить все настраиваемые вкладки и группы и снова показать все вкладки?"
+
+msgid "Remove field"
+msgstr "Удалить поле"
+
+msgid "Remove Footer"
+msgstr "Удалить нижний колонтитул"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Удалить с панели быстрого доступа"
+
+msgid "Remove gradient stop"
+msgstr "Удалить точку градиента"
+
+msgid "Remove Header"
+msgstr "Удалить верхний колонтитул"
+
+msgid "Remove Hyperlink"
+msgstr "Удалить гиперссылку"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Удалять моё имя из примечаний, изменений и свойств файла при сохранении"
+
+msgid "Remove Password"
+msgstr "Убрать пароль"
+
+msgid "Remove Pen"
+msgstr "Удалить перо"
+
+msgid "Remove recipient"
+msgstr "Удалить получателя"
+
+msgid "Remove row"
+msgstr "Удалить строку"
+
+msgid "Remove series"
+msgstr "Удалить ряд"
+
+msgid "Remove Space After Paragraph"
+msgstr "Удалить интервал после абзаца"
+
+msgid "Remove Table of Contents"
+msgstr "Удалить оглавление"
+
+msgid "Remove the control once edited"
+msgstr "Удалить элемент управления после редактирования"
+
+msgid "Remove the space before the punctuation"
+msgstr "Удалить пробел перед знаком препинания"
+
+msgid "Remove Watermark"
+msgstr "Удалить подложку"
+
+msgid "Rename Document"
+msgstr "Переименовать документ"
+
+msgid "Reopen"
+msgstr "Открыть снова"
+
+msgid "Repeat as header row on each page"
+msgstr "Повторять как заголовок на каждой странице"
+
+msgid "Repeat Header Rows"
+msgstr "Повторять строки заголовка"
+
+msgid "Repeating Section Content Control"
+msgstr "Элемент управления содержимым: повторяющийся раздел"
+
+msgid "Replace All"
+msgstr "Заменить все"
+
+msgid "Replace as you type"
+msgstr "Заменять при вводе"
+
+msgid "Replace Document Text"
+msgstr "Заменить текст документа"
+
+msgid "Replace text as you type"
+msgstr "Заменять текст при вводе"
+
+msgid "Replace with:"
+msgstr "Заменить на:"
+
+msgid "Replay"
+msgstr "Воспроизвести"
+
+msgid "Research"
+msgstr "Исследование"
+
+msgid "Researcher"
+msgstr "Исследователь"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Исследователю нужен онлайн-сервис, а WordCraft работает с документами без подключения к интернету."
+
+msgid "Reset All…"
+msgstr "Сбросить все…"
+
+msgid "Reset Character Formatting"
+msgstr "Сбросить форматирование символов"
+
+msgid "Reset Crop"
+msgstr "Сбросить обрезку"
+
+msgid "Reset Default Formatting"
+msgstr "Сброс форматирования по умолчанию"
+
+msgid "Reset Graphic"
+msgstr "Сбросить графический элемент"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Сбросить форматирование абзаца"
+
+msgid "Reset Picture"
+msgstr "Сбросить рисунок"
+
+msgid "Reset tips"
+msgstr "Сбросить советы"
+
+msgid "Reset to Normal"
+msgstr "Вернуть «Обычный»"
+
+msgid "Reset\nGraphic"
+msgstr "Сбросить\nграфику"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Изменение размера таблицы перетаскиванием"
+
+msgid "Resolve"
+msgstr "Отметить решённым"
+
+msgid "Resolved"
+msgstr "Решён"
+
+msgid "Restart at 1"
+msgstr "Начать с 1"
+
+msgid "Restart Each Page"
+msgstr "На каждой странице заново"
+
+msgid "Restart Each Section"
+msgstr "В каждом разделе заново"
+
+msgid "Restart list after:"
+msgstr "Начать список заново после:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Ограничить редактирование"
+
+msgid "Restrict\nEditing"
+msgstr "Ограничить\nредактирование"
+
+msgid "Results"
+msgstr "Результаты"
+
+msgid "Return address labels"
+msgstr "Наклейки с обратным адресом"
+
+msgid "Return address:"
+msgstr "Обратный адрес:"
+
+msgid "Reviewing"
+msgstr "Рецензирование"
+
+msgid "Reviewing Pane"
+msgstr "Область рецензирования"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Рецензирование — правки становятся предложениями"
+
+msgid "Revised document"
+msgstr "Изменённый документ"
+
+msgid "Rewind"
+msgstr "Назад"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Перематываю. Скажите, когда остановиться."
+
+msgid "Ribbon"
+msgstr "Лента"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Лента и панель быстрого доступа:"
+
+msgid "Ribbon tabs"
+msgstr "Вкладки ленты"
+
+msgid "Rich Text Content Control"
+msgstr "Элемент управления содержимым: форматированный текст"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Документ RTF (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Текст в формате RTF"
+
+msgid "Right (vertical)"
+msgstr "Справа (вертикально)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Стрелка вправо с текстом сверху"
+
+msgid "Right Arrow with Text Below"
+msgstr "Стрелка вправо с текстом снизу"
+
+msgid "Right Border"
+msgstr "Правая граница"
+
+msgid "Right border"
+msgstr "Правая граница"
+
+msgid "Right Bracket Twice"
+msgstr "Две правые квадратные скобки"
+
+msgid "Right indent"
+msgstr "Отступ справа"
+
+msgid "Right Margin"
+msgstr "Правое поле"
+
+msgid "Right Only"
+msgstr "Только справа"
+
+msgid "Right-to-left"
+msgstr "Справа налево"
+
+msgid "Right-to-Left Section"
+msgstr "Раздел справа налево"
+
+msgid "Right-to-Left Table"
+msgstr "Таблица справа налево"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Направление текста справа налево"
+
+msgid "Rightwards Arrow Above"
+msgstr "Стрелка вправо сверху"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Гарпун вправо сверху"
+
+msgid "Romanian"
+msgstr "Румынский"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Корни ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Повернуть весь текст на 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Повернуть весь текст на 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Повернуть влево на 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Повернуть вправо на 90°"
+
+msgid "Rotate with shape"
+msgstr "Вращать вместе с фигурой"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Строка"
+
+msgid "Row:"
+msgstr "Строка:"
+
+msgid "Rows & Columns"
+msgstr "Строки и столбцы"
+
+msgid "Ruby text:"
+msgstr "Текст фуригана:"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "В подбор"
+
+msgid "Russia"
+msgstr "Россия"
+
+msgid "Résumé"
+msgstr "Резюме"
+
+msgid "SAMPLE"
+msgstr "ОБРАЗЕЦ"
+
+msgid "Sat:"
+msgstr "Насыщенность:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Сохраните копию в другом формате. Печать идёт через PDF, который можно распечатать из любой программы просмотра."
+
+msgid "Save as Word Template…"
+msgstr "Сохранить как шаблон Word…"
+
+msgid "Save documents"
+msgstr "Сохранение документов"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Сохраните документ, чтобы включить автосохранение"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Сохраните документ, чтобы включить автосохранение (открытый файл не перезаписывается, пока вы его не сохраните)"
+
+msgid "Save these pages as PDF…"
+msgstr "Сохранить эти страницы как PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Сохранено. Снова сохранено. Всё ещё сохранено. Очень сохранено."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Сохраняет шаблон .dotx в папку шаблонов. Он появится в разделе Файл › Создать, в группе «Личные»."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Сохранение {name} отменено. Документ по-прежнему открыт, ничего не потеряно."
+
+msgid "Sayings"
+msgstr "Реплики"
+
+msgid "Sayings:"
+msgstr "Реплики:"
+
+msgid "Scale Drawing"
+msgstr "Масштабировать рисунок"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Точечная"
+
+msgid "Script"
+msgstr "Индекс"
+
+msgid "Scroll ribbon left"
+msgstr "Прокрутить ленту влево"
+
+msgid "Scroll ribbon right"
+msgstr "Прокрутить ленту вправо"
+
+msgid "Search Commands"
+msgstr "Поиск команд"
+
+msgid "Search commands and help"
+msgstr "Поиск команд и справки"
+
+msgid "Search document"
+msgstr "Поиск в документе"
+
+msgid "Search for templates"
+msgstr "Поиск шаблонов"
+
+msgid "Search icons"
+msgstr "Поиск значков"
+
+msgid "Search Options"
+msgstr "Параметры поиска"
+
+msgid "Search:"
+msgstr "Поиск:"
+
+msgid "Secant Function"
+msgstr "Секанс"
+
+msgid "Section 1.01"
+msgstr "Раздел 1.01"
+
+msgid "Section Break"
+msgstr "Разрыв раздела"
+
+msgid "Section Breaks"
+msgstr "Разрывы разделов"
+
+msgid "Section Character"
+msgstr "Знак раздела"
+
+msgid "Section direction:"
+msgstr "Направление раздела:"
+
+msgid "Section Mark"
+msgstr "Знак параграфа"
+
+msgid "Section Properties"
+msgstr "Свойства раздела"
+
+msgid "Sections"
+msgstr "Разделы"
+
+msgid "See"
+msgstr "См."
+
+msgid "select a chart first"
+msgstr "сначала выделите диаграмму"
+
+msgid "select a connector first"
+msgstr "сначала выделите соединительную линию"
+
+msgid "select a diagram first"
+msgstr "сначала выберите схему"
+
+msgid "select a drawing canvas first"
+msgstr "сначала выделите полотно для рисования"
+
+msgid "select a floating picture or shape first"
+msgstr "сначала выделите плавающий рисунок или фигуру"
+
+msgid "select a group first"
+msgstr "сначала выделите группу"
+
+msgid "select a picture first"
+msgstr "сначала выделите рисунок"
+
+msgid "Select a picture first."
+msgstr "Сначала выберите рисунок."
+
+msgid "select a picture or shape first"
+msgstr "сначала выделите рисунок или фигуру"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Выберите рисунок, фигуру, диаграмму или таблицу, чтобы описать её."
+
+msgid "Select a place in this document:"
+msgstr "Выберите место в документе:"
+
+msgid "Select a printer"
+msgstr "Выберите принтер"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "сначала выделите фигуру"
+
+msgid "select a shape or decorative text first"
+msgstr "сначала выберите фигуру или декоративный текст"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Выберите фигуру, надпись или полотно, чтобы настроить заливку."
+
+msgid "select a SmartArt graphic first"
+msgstr "сначала выделите рисунок SmartArt"
+
+msgid "select a text box first"
+msgstr "сначала выделите текстовое поле"
+
+msgid "select a text box linked to another first"
+msgstr "сначала выделите текстовое поле, связанное с другим"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Выделить ячейку"
+
+msgid "Select Column"
+msgstr "Выделить столбец таблицы"
+
+msgid "Select Heading and Content"
+msgstr "Выделить заголовок и содержимое"
+
+msgid "Select Line"
+msgstr "Выделить строку текста"
+
+msgid "Select Paragraph"
+msgstr "Выделить абзац"
+
+msgid "Select Picture…"
+msgstr "Выбрать рисунок…"
+
+msgid "Select Range"
+msgstr "Выделить диапазон"
+
+msgid "Select Recipients"
+msgstr "Выбрать получателей"
+
+msgid "select recipients first"
+msgstr "сначала выберите получателей"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Сначала выберите получателей, чтобы выбирать из их полей."
+
+msgid "Select recipients first to match their fields."
+msgstr "Сначала выберите получателей, чтобы сопоставить их поля."
+
+msgid "Select Row"
+msgstr "Выделить строку таблицы"
+
+msgid "Select Sentence"
+msgstr "Выделить предложение"
+
+msgid "Select Table"
+msgstr "Выделить таблицу"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Выделить ячейки таблицы щелчком"
+
+msgid "Select Text"
+msgstr "Выделить текст"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Выделить текст с похожим форматированием"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Выделите текст и отметьте, кто может его редактировать."
+
+msgid "select two or more cells to merge"
+msgstr "выделите две или более ячеек для объединения"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "выделите два или больше рисунков или фигур (Shift+щелчок)"
+
+msgid "Select Word"
+msgstr "Выделить слово"
+
+msgid "Select\nRecipients"
+msgstr "Выбрать\nполучателей"
+
+msgid "Selected Fields"
+msgstr "Выделенные поля"
+
+msgid "Selected text"
+msgstr "К выделенному тексту"
+
+msgid "Selection Pane"
+msgstr "Область выделения"
+
+msgid "Semitransparent"
+msgstr "Полупрозрачный"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Отправьте документ прямо в системное окно печати или сохраните копию в другом формате ниже."
+
+msgid "Sentence"
+msgstr "Предложение"
+
+msgid "Sentence case."
+msgstr "Как в предложениях."
+
+msgid "Separate text at"
+msgstr "Разделитель"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Разделитель:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Имя последовательности:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Сербский (кириллица)"
+
+msgid "Serbian (Latin)"
+msgstr "Сербский (латиница)"
+
+msgid "Series name"
+msgstr "Имя ряда"
+
+msgid "Series {n}"
+msgstr "Ряд {n}"
+
+msgid "Set As Default"
+msgstr "Использовать по умолчанию"
+
+msgid "Set as default"
+msgstr "Сделать языком по умолчанию"
+
+msgid "Set As Default (Font)"
+msgstr "Использовать по умолчанию (Шрифт)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Использовать по умолчанию (Параметры страницы)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Использовать по умолчанию (Абзац)"
+
+msgid "Set as Default Language"
+msgstr "Сделать языком по умолчанию"
+
+msgid "Set Caret"
+msgstr "Установить курсор"
+
+msgid "Set Character Formatting"
+msgstr "Задать формат знаков"
+
+msgid "Set Date"
+msgstr "Задать дату"
+
+msgid "Set Equation"
+msgstr "Задать уравнение"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Задать значение нумерации"
+
+msgid "Set Paragraph Formatting"
+msgstr "Задать формат абзаца"
+
+msgid "Set Proofing Language…"
+msgstr "Выбрать язык проверки правописания…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Тип:"
+
+msgid "Shading"
+msgstr "Заливка"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Тень, свечение и сглаживание"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Заливка фигуры"
+
+msgid "Shape Format"
+msgstr "Формат фигуры"
+
+msgid "Shape Outline"
+msgstr "Контур фигуры"
+
+msgid "Shape Styles"
+msgstr "Стили фигур"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Транспортные наклейки"
+
+msgid "Shortcut key:"
+msgstr "Сочетание клавиш:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Показывать направляющие выравнивания при перемещении рисунков и фигур"
+
+msgid "Show all formatting marks"
+msgstr "Показывать все знаки форматирования"
+
+msgid "Show All Levels"
+msgstr "Показать все уровни"
+
+msgid "Show all revisions inline"
+msgstr "Показывать все изменения в тексте"
+
+msgid "Show changes at:"
+msgstr "Показывать изменения:"
+
+msgid "Show changes in:"
+msgstr "Показывать изменения в:"
+
+msgid "Show Comments"
+msgstr "Показать комментарии"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Показывать документы с инвертированными цветами, как «Вид › Сменить режим». Сохранение, печать и PDF не меняются."
+
+msgid "Show every bibliography field"
+msgstr "Показать все поля библиографии"
+
+msgid "Show First Line Only"
+msgstr "Показывать только первую строку"
+
+msgid "Show in the Styles gallery"
+msgstr "Показывать в коллекции стилей"
+
+msgid "Show its list number"
+msgstr "Показывать его номер в списке"
+
+msgid "Show its number relative to this field"
+msgstr "Показывать его номер относительно этого поля"
+
+msgid "Show its number with all higher levels"
+msgstr "Показывать его номер со всеми верхними уровнями"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Показывать подсказки клавиш (Alt или F10)"
+
+msgid "Show Level"
+msgstr "Показать уровень"
+
+msgid "Show Level 1"
+msgstr "Показать уровень 1"
+
+msgid "Show Level 2"
+msgstr "Показать уровень 2"
+
+msgid "Show Level 3"
+msgstr "Показать уровень 3"
+
+msgid "Show Level 4"
+msgstr "Показать уровень 4"
+
+msgid "Show Level 5"
+msgstr "Показать уровень 5"
+
+msgid "Show Level 6"
+msgstr "Показать уровень 6"
+
+msgid "Show Level 7"
+msgstr "Показать уровень 7"
+
+msgid "Show Level 8"
+msgstr "Показать уровень 8"
+
+msgid "Show Level 9"
+msgstr "Показать уровень 9"
+
+msgid "Show Markup"
+msgstr "Показать исправления"
+
+msgid "Show Notes"
+msgstr "Показать сноски"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Показывать в выносках только комментарии и форматирование"
+
+msgid "Show only records that will be merged"
+msgstr "Показывать только записи для слияния"
+
+msgid "Show or Hide Style"
+msgstr "Показать или скрыть стиль"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Показать панель быстрого доступа"
+
+msgid "Show revisions in balloons"
+msgstr "Показывать изменения в выносках"
+
+msgid "Show Text Formatting"
+msgstr "Показывать форматирование текста"
+
+msgid "Show the Assistant"
+msgstr "Показывать помощника"
+
+msgid "Show the community button in the title bar"
+msgstr "Показывать кнопку сообщества в заголовке окна"
+
+msgid "Show the equation in the line of text"
+msgstr "Показать уравнение в строке текста"
+
+msgid "Show the equation on a line of its own"
+msgstr "Показать уравнение на отдельной строке"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Показывать мини-панель при выделении текста"
+
+msgid "Show the ribbon"
+msgstr "Показать ленту"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Показывать начальный экран при запуске WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Снова показывать советы, которые вы скрыли."
+
+msgid "Show/Hide ¶"
+msgstr "Показать/скрыть ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Показать/скрыть ¶ ({key}) показывает пробелы, табуляции и разрывы, которые прячутся в тексте."
+
+msgid "Show\nComments"
+msgstr "Показать\nкомментарии"
+
+msgid "Showing the first {count} items."
+msgstr "Показаны первые элементы: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Показывает дерево: каждый элемент находится под тем, к которому относится."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Показывает элементы вокруг центральной идеи: первый элемент в центре."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Показывает равнозначные элементы блоками в строках."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Показывает пересекающиеся идеи в виде пересекающихся кругов."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Показывает части целого в виде четвертей."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Показывает части, опирающиеся друг на друга; самая крупная внизу."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Показывает шаги по порядку слева направо со стрелками между ними."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Показывает повторяющиеся шаги по кругу."
+
+msgid "Shrink Font 1 Point"
+msgstr "Уменьшить шрифт на 1 пт"
+
+msgid "Shrink text"
+msgstr "Уменьшить текст"
+
+msgid "Side to Side"
+msgstr "Рядом"
+
+msgid "Side\nto Side"
+msgstr "Рядом"
+
+msgid "Sides of a right triangle"
+msgstr "Стороны прямоугольного треугольника"
+
+msgid "Signature Line"
+msgstr "Строка подписи"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Ряд Фурье для f(x)"
+
+msgid "Sine Function"
+msgstr "Синус"
+
+msgid "Sine theta"
+msgstr "Синус тета"
+
+msgid "Singapore"
+msgstr "Сингапур"
+
+msgid "Single"
+msgstr "Одинарный"
+
+msgid "Single Brackets"
+msgstr "Одиночные скобки"
+
+msgid "Single Closing Quote"
+msgstr "Закрывающая одинарная кавычка"
+
+msgid "Single label"
+msgstr "Одна наклейка"
+
+msgid "Single Left Angle"
+msgstr "Одиночная левая угловая скобка"
+
+msgid "Single Left Bar"
+msgstr "Одиночная левая черта"
+
+msgid "Single Left Brace"
+msgstr "Одиночная левая фигурная скобка"
+
+msgid "Single Left Bracket"
+msgstr "Одиночная левая квадратная скобка"
+
+msgid "Single Left Parenthesis"
+msgstr "Одиночная левая круглая скобка"
+
+msgid "Single Opening Quote"
+msgstr "Открывающая одинарная кавычка"
+
+msgid "Single Right Brace"
+msgstr "Одиночная правая фигурная скобка"
+
+msgid "Single Right Bracket"
+msgstr "Одиночная правая квадратная скобка"
+
+msgid "Single Right Parenthesis"
+msgstr "Одиночная правая круглая скобка"
+
+msgid "Single Spacing"
+msgstr "Одинарный интервал"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "Название сайта"
+
+msgid "Size (pt):"
+msgstr "Размер (пт):"
+
+msgid "Size and Crop…"
+msgstr "Размер и обрезка…"
+
+msgid "Sketchbook"
+msgstr "Скетчбук"
+
+msgid "Skewed Fraction"
+msgstr "Наклонная дробь"
+
+msgid "Skip citations & bibliography"
+msgstr "Пропускать ссылки и список литературы"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Пропускать ссылки и список литературы"
+
+msgid "Skip Record If"
+msgstr "Пропустить запись, если"
+
+msgid "Skip Record If…"
+msgstr "Пропустить запись, если…"
+
+msgid "Slant Down"
+msgstr "Наклон вниз"
+
+msgid "Slant Up"
+msgstr "Наклон вверх"
+
+msgid "Slovak"
+msgstr "Словацкий"
+
+msgid "Slovenian"
+msgstr "Словенский"
+
+msgid "Small caps"
+msgstr "Малые прописные"
+
+msgid "Small change"
+msgstr "Малое приращение"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "«Умные» кавычки вместо прямых"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "Конструктор SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "Стили SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Плавная прокрутка и масштабирование, а также плавное появление меню и кнопок. Если выбрано «Выключено», все изменения отображаются сразу."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Сглаживание"
+
+msgid "Soft Glow"
+msgstr "Мягкое свечение"
+
+msgid "Solid Accent"
+msgstr "Сплошной акцент"
+
+msgid "Solid fill"
+msgstr "Сплошная заливка"
+
+msgid "Sometimes"
+msgstr "Иногда"
+
+msgid "Sort by:"
+msgstr "Сортировать по:"
+
+msgid "Sort order:"
+msgstr "Порядок сортировки:"
+
+msgid "Sort Recipients"
+msgstr "Сортировка получателей"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Исходный код: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Диспетчер источников"
+
+msgid "Source type:"
+msgstr "Тип источника:"
+
+msgid "Sources in this document:"
+msgstr "Источники в этом документе:"
+
+msgid "South"
+msgstr "Юг"
+
+msgid "South Africa"
+msgstr "Южная Африка"
+
+msgid "Space"
+msgstr "Пробел"
+
+msgid "Space after"
+msgstr "Интервал после"
+
+msgid "Space after: {pt} pt"
+msgstr "Интервал после: {pt} пт"
+
+msgid "Space before"
+msgstr "Интервал перед"
+
+msgid "Space before/after:"
+msgstr "Интервал перед/после:"
+
+msgid "Space before: {pt} pt"
+msgstr "Интервал перед: {pt} пт"
+
+msgid "Spacing (pt):"
+msgstr "Интервал (пт):"
+
+msgid "Spain"
+msgstr "Испания"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Испанский (Мексика)"
+
+msgid "Spanish (Spain)"
+msgstr "Испанский (Испания)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Разреженные матрицы"
+
+msgid "Special Characters"
+msgstr "Специальные знаки"
+
+msgid "Specify height:"
+msgstr "Высота:"
+
+msgid "Speech"
+msgstr "Речь"
+
+msgid "Spelling & Grammar"
+msgstr "Орфография и грамматика"
+
+msgid "Spelling &\nGrammar"
+msgstr "Орфография\nи грамматика"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Язык проверки орфографии и грамматики: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Варианты написания"
+
+msgid "Spike"
+msgstr "Копилка"
+
+msgid "Split Cells"
+msgstr "Разделить ячейки"
+
+msgid "Split Table"
+msgstr "Разделить таблицу"
+
+msgid "Spreadsheet Table"
+msgstr "Электронная таблица"
+
+msgid "Square Root"
+msgstr "Квадратный корень"
+
+msgid "Square Root with Degree"
+msgstr "Квадратный корень со степенью"
+
+msgid "Square Union"
+msgstr "Квадратное объединение"
+
+msgid "Stack Object"
+msgstr "Стопка"
+
+msgid "Stack Object (Three)"
+msgstr "Стопка (три элемента)"
+
+msgid "Stacked Bar"
+msgstr "Линейчатая с накоплением"
+
+msgid "Stacked Column"
+msgstr "Гистограмма с накоплением"
+
+msgid "Stacked Fraction"
+msgstr "Вертикальная дробь"
+
+msgid "Stacked, no bar"
+msgstr "Друг над другом, без черты"
+
+msgid "Standard Colors"
+msgstr "Стандартные цвета"
+
+msgid "Start Enforcing Protection"
+msgstr "Включить защиту"
+
+msgid "Start Mail Merge"
+msgstr "Начать слияние"
+
+msgid "Start Mail\nMerge"
+msgstr "Начать\nслияние"
+
+msgid "Start-up"
+msgstr "Запуск"
+
+msgid "State"
+msgstr "Регион"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Вы ещё здесь? Я слышу, как вы думаете."
+
+msgid "Stop Protection"
+msgstr "Отключить защиту"
+
+msgid "Stop Reading"
+msgstr "Остановить чтение"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Остановлено"
+
+msgid "Straight Arrow Connector"
+msgstr "Прямая соединительная линия со стрелкой"
+
+msgid "Straight Connector"
+msgstr "Прямая соединительная линия"
+
+msgid "Stroke {n} of {total}"
+msgstr "Штрих {n} из {total}"
+
+msgid "Strong"
+msgstr "Строгий"
+
+msgid "Structure Actions"
+msgstr "Действия со структурой"
+
+msgid "Structures"
+msgstr "Структуры"
+
+msgid "Studio cover"
+msgstr "Обложка Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Справочник Studio (пример)"
+
+msgid "Style based on:"
+msgstr "Основан на стиле:"
+
+msgid "Style Inspector"
+msgstr "Инспектор стилей"
+
+msgid "Style name:"
+msgstr "Имя стиля:"
+
+msgid "Style Set"
+msgstr "Набор стилей"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Стиль: {style}"
+
+msgid "Styles Pane"
+msgstr "Область стилей"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Стили:"
+
+msgid "Subentry:"
+msgstr "Подзапись:"
+
+msgid "Submit print job"
+msgstr "Отправить задание на печать"
+
+msgid "Submitting print job…"
+msgstr "Отправка задания на печать…"
+
+msgid "Subscript-Superscript"
+msgstr "Нижний и верхний индексы"
+
+msgid "Subscripts and Superscripts"
+msgstr "Нижние и верхние индексы"
+
+msgid "Subset:"
+msgstr "Набор:"
+
+msgid "Subtle Emphasis"
+msgstr "Слабое выделение"
+
+msgid "Subtle Reference"
+msgstr "Слабая ссылка"
+
+msgid "Suggested"
+msgstr "Предлагаемые"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Итог"
+
+msgid "Sum of cosines"
+msgstr "Сумма косинусов"
+
+msgid "Sum or difference of sines"
+msgstr "Сумма или разность синусов"
+
+msgid "Summation"
+msgstr "Сумма"
+
+msgid "Summation from 0 to n"
+msgstr "Сумма от 0 до n"
+
+msgid "Summation over binomials"
+msgstr "Сумма биномиальных коэффициентов"
+
+msgid "Summation with Limits"
+msgstr "Сумма с пределами"
+
+msgid "Summation with Lower Limit"
+msgstr "Сумма с нижним пределом"
+
+msgid "Summation with Subscript Limit"
+msgstr "Сумма с пределом в индексе"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Сумма с пределами в индексах"
+
+msgid "Summations"
+msgstr "Суммы"
+
+msgid "Suppress line numbers"
+msgstr "Без нумерации строк"
+
+msgid "Surface Integral"
+msgstr "Поверхностный интеграл"
+
+msgid "Surface Integral with Limits"
+msgstr "Поверхностный интеграл с пределами"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Поверхностный интеграл с пределами сверху и снизу"
+
+msgid "Swahili"
+msgstr "Суахили"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Поменять сноски и концевые сноски"
+
+msgid "Swedish"
+msgstr "Шведский"
+
+msgid "Switch Modes"
+msgstr "Сменить режим"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Сменить\nрежим"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Швейцария"
+
+msgid "Synonyms"
+msgstr "Синонимы"
+
+msgid "Syria"
+msgstr "Сирия"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Системный словарь"
+
+msgid "Tab Character"
+msgstr "Знак табуляции"
+
+msgid "Tab character"
+msgstr "Знак табуляции"
+
+msgid "Tab characters"
+msgstr "Знаки табуляции"
+
+msgid "Tab leader:"
+msgstr "Заполнитель табуляции:"
+
+msgid "Tab stop position:"
+msgstr "Позиция табуляции:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Удаляемые позиции табуляции:"
+
+msgid "Table Column Width"
+msgstr "Ширина столбца таблицы"
+
+msgid "Table Design"
+msgstr "Дизайн таблицы"
+
+msgid "Table direction:"
+msgstr "Направление таблицы:"
+
+msgid "Table Grid"
+msgstr "Сетка таблицы"
+
+msgid "Table Layout"
+msgstr "Макет таблицы"
+
+msgid "Table of Authorities"
+msgstr "Таблица ссылок"
+
+msgid "Table of Contents"
+msgstr "Оглавление"
+
+msgid "Table of Contents Options"
+msgstr "Параметры оглавления"
+
+msgid "Table of Contents Styles"
+msgstr "Стили оглавления"
+
+msgid "Table of Figures"
+msgstr "Список иллюстраций"
+
+msgid "Table of\nContents"
+msgstr "Оглавление"
+
+msgid "Table Properties"
+msgstr "Свойства таблицы"
+
+msgid "Table Properties…"
+msgstr "Свойства таблицы…"
+
+msgid "Table Row Height"
+msgstr "Высота строки таблицы"
+
+msgid "Table size"
+msgstr "Размер таблицы"
+
+msgid "Table Style Options"
+msgstr "Параметры стилей таблиц"
+
+msgid "Table Styles"
+msgstr "Стили таблиц"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Табуляция…"
+
+msgid "Tabular List"
+msgstr "Табличный список"
+
+msgid "Tag"
+msgstr "Тег"
+
+msgid "Taiwan"
+msgstr "Тайвань"
+
+msgid "Take the last match on the page"
+msgstr "Брать последнее совпадение на странице"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Не торопитесь. Страница никуда не денется. Как и я. Никогда."
+
+msgid "Tamil"
+msgstr "Тамильский"
+
+msgid "Tangent formula"
+msgstr "Формула тангенса"
+
+msgid "Tangent Function"
+msgstr "Тангенс"
+
+msgid "TC entry fields"
+msgstr "Поля записей TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Технологии"
+
+msgid "Templates and Add-ins"
+msgstr "Шаблоны и надстройки"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Здесь появляются шаблоны, сохранённые в папку шаблонов."
+
+msgid "Text Box"
+msgstr "Текстовое поле"
+
+msgid "Text boxes"
+msgstr "Надписи"
+
+msgid "text boxes can't go inside a text box"
+msgstr "надпись нельзя поместить внутрь надписи"
+
+msgid "Text Direction"
+msgstr "Направление текста"
+
+msgid "Text Effects"
+msgstr "Текстовые эффекты"
+
+msgid "Text Effects and Typography"
+msgstr "Текстовые эффекты и типографика"
+
+msgid "Text Fill"
+msgstr "Заливка текста"
+
+msgid "Text from File"
+msgstr "Текст из файла"
+
+msgid "Text Highlight Color"
+msgstr "Цвет выделения текста"
+
+msgid "Text indent at:"
+msgstr "Отступ текста:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Текст ближайшего абзаца с заданным стилем (живые колонтитулы)"
+
+msgid "Text Outline"
+msgstr "Контур текста"
+
+msgid "Text over Colon Equal"
+msgstr "Текст над двоеточием-равно"
+
+msgid "Text over Equal"
+msgstr "Текст над знаком равенства"
+
+msgid "Text Pane"
+msgstr "Область текста"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Размер текста"
+
+msgid "Text snaps to characters"
+msgstr "Текст привязывается к символам"
+
+msgid "Text to display:"
+msgstr "Отображаемый текст:"
+
+msgid "Text watermark"
+msgstr "Текстовая подложка"
+
+msgid "Text Wrapping"
+msgstr "Обтекание текстом"
+
+msgid "Text\nBox"
+msgstr "Текстовое\nполе"
+
+msgid "Text\nDirection"
+msgstr "Направление\nтекста"
+
+msgid "Thai"
+msgstr "Тайский"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Этот формат сохраняет не всё, поэтому документ остаётся открытым. Чтобы продолжить, сохраните его как документ Word (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Неверный пароль. Проверьте его (регистр букв важен) и попробуйте снова."
+
+msgid "The clipboard is empty."
+msgstr "Буфер обмена пуст."
+
+msgid "the Clipboard pane is empty"
+msgstr "область «Буфер обмена» пуста"
+
+msgid "the cursor isn't in a table"
+msgstr "курсор не в таблице"
+
+msgid "The date it is today"
+msgstr "Сегодняшняя дата"
+
+msgid "The document has no bookmarks yet."
+msgstr "В документе пока нет закладок."
+
+msgid "the document is protected"
+msgstr "документ защищён"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Документ доступен только для чтения, кроме областей, помеченных как редактируемые."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Документ будет сохранён с паролем. Сохраните его, чтобы защитить."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Редактируемый документ сохраняет имена и даты; их не будет только в сохранённом файле."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Поля не помещаются на странице такого размера; сначала уменьшите поля."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Размер должен быть от {min} до {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Новый стиль получит форматирование текущего абзаца."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Не удалось прочитать шаблон «Обычный», поэтому в этом документе используется встроенное форматирование WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Число должно быть от 1 до {max}."
+
+msgid "the paragraph is empty"
+msgstr "абзац пуст"
+
+msgid "the paragraph starts with a space"
+msgstr "абзац начинается с пробела"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Пароль необязателен; без него любой может отключить защиту."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Пароль убран. Сохраните документ, чтобы изменение осталось."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Принтер, двусторонняя печать и число страниц на листе выбираются в этом диалоге."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Поле списка получателей, которое заполняет каждую часть блока адреса и строки приветствия."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Проверка правописания завершена."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "копилка пуста"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Системное диалоговое окно выбора файлов недоступно, поэтому WordCraft показывает собственное. Чтобы пользоваться системным, установите портал выбора файлов (например, xdg-desktop-portal-gtk) или zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Текст в точке вставки помечен: Не проверять орфографию и грамматику."
+
+msgid "The time right now"
+msgstr "Текущее время"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Цвета темы"
+
+msgid "Theme Fonts"
+msgstr "Шрифты темы"
+
+msgid "Theme List"
+msgstr "Список тем"
+
+msgid "Themes"
+msgstr "Темы"
+
+msgid "Then by"
+msgstr "Затем по"
+
+msgid "Then insert:"
+msgstr "Тогда вставить:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "нет рукописного ввода для воспроизведения"
+
+msgid "there is nothing to undo"
+msgstr "нечего отменять"
+
+msgid "there's no citation after the caret"
+msgstr "после курсора нет ссылки на источник"
+
+msgid "Thesaurus"
+msgstr "Тезаурус"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Эти знаки видны, даже когда «Показать все знаки» выключено."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Этих полей слияния нет в списке получателей:"
+
+msgid "These settings will be used for new documents."
+msgstr "Эти параметры будут использоваться для новых документов."
+
+msgid "Thick"
+msgstr "Толстый"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "эта диаграмма создана в другой программе: WordCraft показывает её, но не может изменить"
+
+msgid "this diagram can't be edited"
+msgstr "эту схему нельзя редактировать"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "эта схема создана в другой программе: WordCraft показывает её, но не может редактировать"
+
+msgid "This document"
+msgstr "Этот документ"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Только этого документа?"
+
+msgid "This field has no options."
+msgstr "У этого поля нет параметров."
+
+msgid "This folder can't be read: {error}"
+msgstr "Не удаётся прочитать папку: {error}"
+
+msgid "This font has no characters to show."
+msgstr "В этом шрифте нет знаков для показа."
+
+msgid "this item is already at the top level"
+msgstr "этот элемент уже на верхнем уровне"
+
+msgid "This page"
+msgstr "Эта страница"
+
+msgid "This password type isn't supported."
+msgstr "Этот тип пароля не поддерживается."
+
+msgid "This point forward"
+msgstr "До конца документа"
+
+msgid "This section"
+msgstr "К этому разделу"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек): используйте \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "этот SmartArt создан в другой программе: WordCraft показывает его, но не может изменить"
+
+msgid "this text box is already linked: break the link first"
+msgstr "это текстовое поле уже связано: сначала разорвите связь"
+
+msgid "Three"
+msgstr "Три"
+
+msgid "Through"
+msgstr "Сквозное"
+
+msgid "Tight"
+msgstr "Плотный"
+
+msgid "Tilde"
+msgstr "Тильда"
+
+msgid "Tip"
+msgstr "Совет"
+
+msgid "Tips ({n})"
+msgstr "Советы ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Пример"
+
+msgid "Title Bar"
+msgstr "Строка заголовка"
+
+msgid "Title from the document properties"
+msgstr "Название из свойств документа"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Чтобы открывать документы Word в WordCraft по умолчанию: выберите документ в Finder, выберите «Файл» › «Свойства», укажите WordCraft в разделе «Открывать в программе» и нажмите «Изменить все»."
+
+msgid "To:"
+msgstr "По:"
+
+msgid "TOA Heading"
+msgstr "Заголовок таблицы ссылок"
+
+msgid "TOC Heading"
+msgstr "Заголовок оглавления"
+
+msgid "TOC {n}"
+msgstr "Оглавление {n}"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "tOGGLE cASE"
+msgstr "иЗМЕНИТЬ рЕГИСТР"
+
+msgid "Toggle Check Box"
+msgstr "Переключить флажок"
+
+msgid "Toggle Field Codes"
+msgstr "Коды/значения полей"
+
+msgid "Toggle Unicode Character"
+msgstr "Преобразовать знак Юникода"
+
+msgid "Top and Bottom"
+msgstr "Сверху и снизу"
+
+msgid "Top Border"
+msgstr "Верхняя граница"
+
+msgid "Top Left Cell"
+msgstr "Левая верхняя ячейка"
+
+msgid "Top Margin"
+msgstr "Верхнее поле"
+
+msgid "Top of Page"
+msgstr "Вверху страницы"
+
+msgid "Top of the Document"
+msgstr "Начало документа"
+
+msgid "Top Right Cell"
+msgstr "Правая верхняя ячейка"
+
+msgid "Total Row"
+msgstr "Строка итогов"
+
+msgid "Track Changes"
+msgstr "Отслеживать изменения"
+
+msgid "Track Changes Options"
+msgstr "Параметры отслеживания изменений"
+
+msgid "Track Changes: On"
+msgstr "Отслеживание изменений: вкл."
+
+msgid "Track formatting"
+msgstr "Отслеживать форматирование"
+
+msgid "Track\nChanges"
+msgstr "Отслеживать\nизменения"
+
+msgid "Track\nChanges ✓"
+msgstr "Отслеживать\nизменения ✓"
+
+msgid "Tracked changes"
+msgstr "Исправления"
+
+msgid "Trademark"
+msgstr "Товарный знак"
+
+msgid "Trademark Sign"
+msgstr "Знак товарного знака"
+
+msgid "Transparency:"
+msgstr "Прозрачность:"
+
+msgid "Transport"
+msgstr "Транспорт"
+
+msgid "Triangle Down"
+msgstr "Треугольник вниз"
+
+msgid "Triangle Up"
+msgstr "Треугольник вверх"
+
+msgid "Trigonometric Functions"
+msgstr "Тригонометрические функции"
+
+msgid "Triple"
+msgstr "Тройная"
+
+msgid "Triple Dot"
+msgstr "Три точки"
+
+msgid "Triple Integral"
+msgstr "Тройной интеграл"
+
+msgid "Triple Integral with Limits"
+msgstr "Тройной интеграл с пределами"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Тройной интеграл с пределами сверху и снизу"
+
+msgid "Trust Center"
+msgstr "Центр управления безопасностью"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "Турецкий"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Две"
+
+msgid "Two-sided printing"
+msgstr "Двусторонняя печать"
+
+msgid "Two-sided: long edge"
+msgstr "Двусторонняя: длинный край"
+
+msgid "Two-sided: short edge"
+msgstr "Двусторонняя: короткий край"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Введите +2 или -1, чтобы перейти на столько страниц от текущей."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Введите команду, например «вставить таблицу»"
+
+msgid "Type a New List…"
+msgstr "Ввести новый список…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Введите номер страницы или +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Введите размер в любых единицах, например 5 cm или 300 px. Другая сторона изменится вместе с ней, и рисунок сохранит пропорции."
+
+msgid "Type at least one recipient."
+msgstr "Введите хотя бы одного получателя."
+
+msgid "Type Character Code"
+msgstr "Ввести код символа"
+
+msgid "Type equations in LaTeX"
+msgstr "Вводить уравнения в LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Вводить уравнения в линейном формате (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Ввод в уравнение"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Вводить в уравнении обычный (не математический) текст"
+
+msgid "Type Text"
+msgstr "Ввести текст"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Введите категории по вертикали и столбец значений для каждого ряда."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Введите имя поля и его ключи, например PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Введите пароль, чтобы отключить защиту."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Введите получателей или загрузите их из файла."
+
+msgid "Typing replaces selected text"
+msgstr "Ввод заменяет выделенный текст"
+
+msgid "U.A.E."
+msgstr "ОАЭ"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "Ukrainian"
+msgstr "Украинский"
+
+msgid "Unchecked symbol"
+msgstr "Символ снятого флажка"
+
+msgid "Underbar"
+msgstr "Черта снизу"
+
+msgid "Underbrace"
+msgstr "Фигурная скобка снизу"
+
+msgid "Underline Color"
+msgstr "Цвет подчёркивания"
+
+msgid "Underline color"
+msgstr "Цвет подчёркивания"
+
+msgid "Underline Words Only"
+msgstr "Подчёркивать только слова"
+
+msgid "Undo 1 Action"
+msgstr "Отменить действие"
+
+msgid "Undo Actions"
+msgstr "Отменить действия"
+
+msgid "Undo History"
+msgstr "Журнал отмены"
+
+msgid "Undo {n} Actions"
+msgstr "Отменить действий: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Отменить, отменить, отменить… мы уже путешествуем во времени."
+
+msgid "Unformatted Text"
+msgstr "Неформатированный текст"
+
+msgid "Union of intersections"
+msgstr "Объединение пересечений"
+
+msgid "Union with Limits"
+msgstr "Объединение с пределами"
+
+msgid "Union with Lower Limit"
+msgstr "Объединение с нижним пределом"
+
+msgid "Union with Plus"
+msgstr "Объединение с плюсом"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Объединение с пределами в индексах"
+
+msgid "Unions and Intersections"
+msgstr "Объединения и пересечения"
+
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+msgid "United States"
+msgstr "Соединённые Штаты"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "неизвестный стиль декоративного текста `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Разорвать связь с полями"
+
+msgid "Unlink\nCitations"
+msgstr "Отвязать\nссылки"
+
+msgid "Unlock Fields"
+msgstr "Разблокировать поля"
+
+msgid "Up Diagonal Dots"
+msgstr "Диагональное многоточие вверх"
+
+msgid "Up one level"
+msgstr "На уровень вверх"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Обновить поле"
+
+msgid "Update fields before printing"
+msgstr "Обновлять поля перед печатью"
+
+msgid "Update Index"
+msgstr "Обновить указатель"
+
+msgid "Update Style to Match Selection"
+msgstr "Обновить стиль по выделенному фрагменту"
+
+msgid "Update Styles from Template"
+msgstr "Обновить стили из шаблона"
+
+msgid "Update Table"
+msgstr "Обновить таблицу"
+
+msgid "Update Table of Figures"
+msgstr "Обновить список иллюстраций"
+
+msgid "Update to Match"
+msgstr "Обновить по образцу"
+
+msgid "Update to Match Selection"
+msgstr "Обновить по выделенному фрагменту"
+
+msgid "URGENT"
+msgstr "СРОЧНО!"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Уругвай"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Перед согласным звуком используйте \"a\""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Перед гласным звуком используйте \"an\""
+
+msgid "Use an Existing List…"
+msgstr "Использовать существующий список…"
+
+msgid "Use system setting"
+msgstr "Как в системе"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Используйте полноэкранный режим браузера (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Использовать текущий набор стилей и тему для всех новых документов?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Клавиша Insert включает и выключает режим замены"
+
+msgid "Use this formatting as the default for:"
+msgstr "Использовать это форматирование по умолчанию для:"
+
+msgid "Use wildcards"
+msgstr "Подстановочные знаки"
+
+msgid "User Name"
+msgstr "Имя пользователя"
+
+msgid "User name:"
+msgstr "Имя пользователя:"
+
+msgid "User templates:"
+msgstr "Шаблоны пользователя:"
+
+msgid "Vector A"
+msgstr "Вектор A"
+
+msgid "Vector AB"
+msgstr "Вектор AB"
+
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+msgid "Version History"
+msgstr "Журнал версий"
+
+msgid "Version {version} ({build})"
+msgstr "Версия {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Вертикальное выравнивание:"
+
+msgid "Vertical Bars"
+msgstr "Вертикальные черты"
+
+msgid "Vertical Dots"
+msgstr "Вертикальное многоточие"
+
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+msgid "View Alt Text…"
+msgstr "Показать замещающий текст…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Показать сетку"
+
+msgid "View State"
+msgstr "Состояние вида"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Вид › Фокус скрывает всё, кроме ваших слов. Я подожду снаружи."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Режимы просмотра"
+
+msgid "Visual effects"
+msgstr "Визуальные эффекты"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Том"
+
+msgid "Volume Integral"
+msgstr "Объёмный интеграл"
+
+msgid "Volume Integral with Limits"
+msgstr "Объёмный интеграл с пределами"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Объёмный интеграл с пределами сверху и снизу"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Дождитесь окончания отправки задания на печать, прежде чем закрывать."
+
+msgid "Waiting for the save to finish…"
+msgstr "Ожидание завершения сохранения…"
+
+msgid "Waiting for Zotero…"
+msgstr "Ожидание Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Тёплый градиент с контуром"
+
+msgid "Warnings ({n})"
+msgstr "Предупреждения ({n})"
+
+msgid "Washout"
+msgstr "Выцветший"
+
+msgid "Weather"
+msgstr "Погода"
+
+msgid "Web Layout"
+msgstr "Веб-документ"
+
+msgid "Web page (*.html)"
+msgstr "Веб-страница (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Веб-\nдокумент"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Welsh"
+msgstr "Валлийский"
+
+msgid "West"
+msgstr "Запад"
+
+msgid "When this document was first created"
+msgstr "Когда документ был создан"
+
+msgid "When this document was most recently printed"
+msgstr "Когда документ последний раз печатался"
+
+msgid "When this document was most recently saved"
+msgstr "Когда документ последний раз сохранялся"
+
+msgid "White Space"
+msgstr "Пробельный знак"
+
+msgid "White space"
+msgstr "Пробелы"
+
+msgid "Who the document properties name as author"
+msgstr "Автор, указанный в свойствах документа"
+
+msgid "Whole document"
+msgstr "Ко всему документу"
+
+msgid "Whole page"
+msgstr "Страница целиком"
+
+msgid "Whole Table"
+msgstr "Вся таблица"
+
+msgid "Whole words"
+msgstr "Слово целиком"
+
+msgid "Wide"
+msgstr "Широкие"
+
+msgid "Widow/Orphan Control"
+msgstr "Запрет висячих строк"
+
+msgid "Widow/Orphan control"
+msgstr "Запрет висячих строк"
+
+msgid "Width and spacing"
+msgstr "Ширина и промежуток"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "На:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Документ Word 2003 XML (*.xml)"
+
+msgid "Word Count"
+msgstr "Число слов"
+
+msgid "Word document"
+msgstr "Документ Word"
+
+msgid "Word document (*.docx)"
+msgstr "Документ Word (*.docx)"
+
+msgid "Word Left"
+msgstr "На слово влево"
+
+msgid "Word level"
+msgstr "На уровне слов"
+
+msgid "Word Right"
+msgstr "На слово вправо"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Документ Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Стили WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft теперь приложение по умолчанию для документов Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Только слова"
+
+msgid "Wrap Text"
+msgstr "Обтекание текстом"
+
+msgid "Wrap Text Sides"
+msgstr "Стороны обтекания"
+
+msgid "Wrap\nText"
+msgstr "Обтекание\nтекстом"
+
+msgid "Write & Insert Fields"
+msgstr "Составление документа и вставка полей"
+
+msgid "Write a reply"
+msgstr "Написать ответ"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Творческий кризис? Мне помогает смотреть на курсор. Он мигает мне уже много лет."
+
+msgid "x bar"
+msgstr "x с чертой"
+
+msgid "Year"
+msgstr "Год"
+
+msgid "Yields"
+msgstr "Выход"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Вы давно не сохранялись, а автосохранение выключено. Сохранить сейчас?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Вы начали список. Нажмите Enter дважды, чтобы его завершить, или Backspace в начале пункта, чтобы снова сделать его обычным текстом."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Ваш документ теперь самый сохранённый документ в истории."
+
+msgid "Your languages"
+msgstr "Ваши языки"
+
+msgid "Your own dictionary"
+msgstr "Ваш собственный словарь"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Система не сообщает о настройке анимации, поэтому эффекты анимации остаются включёнными."
+
+msgid "Your system has animation effects turned off."
+msgstr "В системе эффекты анимации выключены."
+
+msgid "Your system has animation effects turned on."
+msgstr "В системе эффекты анимации включены."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: отменено"
+
+msgid "Zotero: done"
+msgstr "Zotero: готово"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; не удалось прочитать ({count}): {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; пропущено: {n} (лимит {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Таблица {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Участников: {contributors} · коммитов: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Выделено совпадений: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Будет напечатано страниц: {count} из {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Получателей для слияния: {count} из {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Параметры: {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} проверяет орфографию и грамматику во всём документе."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} считает слова, знаки и абзацы."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} находит и заменяет текст, форматирование и специальные знаки."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} повторяет последнее действие. Оформить десять заголовков — теперь один щелчок и девять нажатий."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} начинает новую строку, не начиная новый абзац."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} начинает новую страницу. Гораздо аккуратнее, чем жать Enter, пока она не появится."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} превращает выделенный текст в ссылку."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+щелчок — перейти по ссылке"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (по умолчанию)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (нет словаря)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} теперь язык документа по умолчанию."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: словарь не найден"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft пока не проверяет орфографию и грамматику на этом языке."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} и ещё {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} дюйма"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} мм"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} уже существует. Чтобы заменить его, снова выберите «Сохранить»."
+
+msgid "{name} is protected with a password."
+msgstr "{name} защищён паролем."
+
+msgid "{name} options"
+msgstr "{name}: параметры"
+
+msgid "{name} wasn't found."
+msgstr "{name} не найден."
+
+msgid "{n} entries marked."
+msgstr "Помечено записей: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Множитель {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} пт"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "Слов: {selected} из {words}"
+
+msgid "{size} pt"
+msgstr "{size} пт"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} мм"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} пикс."
+
+msgid "{words} words"
+msgstr "Слов: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "Слов: {words}, и счёт идёт. Буквально. Я считаю."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "Слов: {words}! Я бы осыпал вас конфетти, но потом самому убирать."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "Слов: {words}. Это на {words} больше, чем я написал сегодня."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "«{text}» ({row}, {series}) — не число."
+
+msgid "✓ None"
+msgstr "✓ Нет"
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

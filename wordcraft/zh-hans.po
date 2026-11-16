@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: zh-hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=(0);\n"
+
+msgid "(All)"
+msgstr "(全部)"
+
+msgid "(no style)"
+msgstr "（无样式）"
+
+msgid "(no suggestions)"
+msgstr "（无建议）"
+
+msgid "(normal text)"
+msgstr "(普通文本)"
+
+msgid "(not matched)"
+msgstr "（未匹配）"
+
+msgid "(picture or object)"
+msgstr "（图片或对象）"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 个或多个字符"
+
+msgid "1. Formatting restrictions"
+msgstr "1. 格式限制"
+
+msgid "1.5 Line Spacing"
+msgstr "1.5 倍行距"
+
+msgid "1/4 Em Space"
+msgstr "1/4 全角空格"
+
+msgid "1×2 Empty Matrix"
+msgstr ""
+
+msgid "1×3 Empty Matrix"
+msgstr ""
+
+msgid "2. Editing restrictions"
+msgstr "2. 编辑限制"
+
+msgid "2×1 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Determinant"
+msgstr ""
+
+msgid "2×2 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "2×2 Matrix in Brackets"
+msgstr ""
+
+msgid "2×2 Matrix in Double Bars"
+msgstr ""
+
+msgid "2×2 Matrix in Parentheses"
+msgstr ""
+
+msgid "2×3 Empty Matrix"
+msgstr ""
+
+msgid "3-D"
+msgstr "三维"
+
+msgid "3. Start enforcement"
+msgstr "3. 启动保护"
+
+msgid "3×1 Empty Matrix"
+msgstr ""
+
+msgid "3×2 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "<< Less"
+msgstr "<< 更少"
+
+msgid "<< Remove"
+msgstr "<< 删除"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "一个图示最多包含 {MAX_ITEMS} 个项目"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "绘图画布无法取消组合"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "绘图画布不能放在文本框内"
+
+msgid "A file dialog is already open."
+msgstr "已有一个文件对话框处于打开状态。"
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "一款用 Rust 从零编写的免费开源文字处理软件。\n属于 ArtCraft 团队的 Crafting Apps 系列。"
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "包含 Word 墨迹的组暂时无法取消组合"
+
+msgid "A mail merge field"
+msgstr "邮件合并域"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "编号序列（图、表…）"
+
+msgid "A password is required to open this document."
+msgstr "打开此文档需要密码。"
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "目录"
+
+msgid "A xor B"
+msgstr ""
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr ""
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz 中文"
+
+msgid "About WordCraft"
+msgstr "关于 WordCraft"
+
+msgid "Above Chart"
+msgstr "图表上方"
+
+msgid "Above the item"
+msgstr "项目上方"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr ""
+
+msgid "Accent"
+msgstr "重音符号"
+
+msgid "Accent Gradient"
+msgstr "强调渐变"
+
+msgid "Accent with Reflection"
+msgstr "强调带映像"
+
+msgid "Accent {n}"
+msgstr "着色 {n}"
+
+msgid "Accents"
+msgstr ""
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Accept All Changes"
+msgstr "接受所有修订"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "接受此修订"
+
+msgid "Accessed on"
+msgstr "访问日期"
+
+msgid "Accessibility Pane"
+msgstr "辅助功能窗格"
+
+msgid "Account"
+msgstr "账户"
+
+msgid "Acute"
+msgstr ""
+
+msgid "Add >>"
+msgstr "添加 >>"
+
+msgid "Add a language"
+msgstr "添加语言"
+
+msgid "Add a language…"
+msgstr "添加语言…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "添加表格"
+
+msgid "Add at least one field."
+msgstr "请至少添加一个域。"
+
+msgid "Add Chart Element"
+msgstr "添加图表元素"
+
+msgid "Add Condition"
+msgstr "添加条件"
+
+msgid "Add Field"
+msgstr "添加域"
+
+msgid "Add Font…"
+msgstr "添加字体…"
+
+msgid "Add gradient stop"
+msgstr "添加渐变光圈"
+
+msgid "Add line numbering"
+msgstr "添加行号"
+
+msgid "Add New Source…"
+msgstr "添加新源…"
+
+msgid "Add Object to Selection"
+msgstr "将对象添加到所选内容"
+
+msgid "Add Pen"
+msgstr "添加笔"
+
+msgid "Add Row"
+msgstr "添加行"
+
+msgid "Add Series"
+msgstr "添加系列"
+
+msgid "Add Shape"
+msgstr "添加形状"
+
+msgid "Add Space Before Paragraph"
+msgstr "在段前添加间距"
+
+msgid "Add space between Asian and Latin text"
+msgstr "在亚洲文字与西文之间添加间距"
+
+msgid "Add space between Asian text and numbers"
+msgstr "在亚洲文字与数字之间添加间距"
+
+msgid "Add tab stop at:"
+msgstr "制表位添加位置："
+
+msgid "Add Text"
+msgstr "添加文字"
+
+msgid "Add the chapter number"
+msgstr "添加章节编号"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "添加到文档"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "添加到快速访问工具栏"
+
+msgid "Add to Style Gallery"
+msgstr "添加到样式库"
+
+msgid "Add whether it is above or below"
+msgstr "注明位于上方还是下方"
+
+msgid "Add/Edit\nBibliography"
+msgstr "添加/编辑\n参考文献"
+
+msgid "Add/Edit\nCitation"
+msgstr "添加/编辑\n引文"
+
+msgid "Add\nNote"
+msgstr "添加\n笔记"
+
+msgid "Add\nPen"
+msgstr "添加笔"
+
+msgid "Add\nShape"
+msgstr "添加\n形状"
+
+msgid "Added 1 font"
+msgstr "已添加 1 个字体"
+
+msgid "Added Fonts"
+msgstr "已添加的字体"
+
+msgid "Added {n} fonts"
+msgstr "已添加 {n} 个字体"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address Block"
+msgstr "地址块"
+
+msgid "Address labels"
+msgstr "地址标签"
+
+msgid "Address:"
+msgstr "地址："
+
+msgid "Address\nBlock"
+msgstr "地址块"
+
+msgid "Advanced Find"
+msgstr "高级查找"
+
+msgid "Advanced Find…"
+msgstr "高级查找…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "南非荷兰语"
+
+msgid "After:"
+msgstr "段后："
+
+msgid "Agents"
+msgstr "智能体"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "连接到 WordCraft 的代理可以通过助手向你显示消息。静音后，代理会得知你不想接收。"
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "啊，拉丁文。交稿前最流行的语言。"
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "啊，修改阶段。我的最爱。真果断。"
+
+msgid "Albanian"
+msgstr "阿尔巴尼亚语"
+
+msgid "Align Bottom Center"
+msgstr "靠下居中对齐"
+
+msgid "Align Bottom Left"
+msgstr "靠下左对齐"
+
+msgid "Align Bottom Right"
+msgstr "靠下右对齐"
+
+msgid "Align Center"
+msgstr "水平居中"
+
+msgid "Align Center Left"
+msgstr "中部左对齐"
+
+msgid "Align Center Right"
+msgstr "中部右对齐"
+
+msgid "Align Top Center"
+msgstr "靠上居中对齐"
+
+msgid "Align Top Left"
+msgstr "靠上左对齐"
+
+msgid "Align Top Right"
+msgstr "靠上右对齐"
+
+msgid "Aligned at:"
+msgstr "对齐位置："
+
+msgid "All - Linear"
+msgstr ""
+
+msgid "All - Professional"
+msgstr ""
+
+msgid "All Borders"
+msgstr "所有框线"
+
+msgid "All caps"
+msgstr "全部大写"
+
+msgid "All Commands"
+msgstr "所有命令"
+
+msgid "All documents based on the Normal template?"
+msgstr "基于“正常”模板的所有文档？"
+
+msgid "All Fonts"
+msgstr "所有字体"
+
+msgid "All Levels"
+msgstr "所有级别"
+
+msgid "All Markup"
+msgstr "所有标记"
+
+msgid "All pages in the range"
+msgstr "范围内的所有页面"
+
+msgid "All symbol sets"
+msgstr "所有符号集"
+
+msgid "All system fonts are already available."
+msgstr "所有系统字体已可用。"
+
+msgid "Allow hanging punctuation"
+msgstr "允许标点溢出边界"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "允许西文在单词中间换行"
+
+msgid "Allow line breaks"
+msgstr "允许换行"
+
+msgid "Allow row to break across pages"
+msgstr "允许跨页断行"
+
+msgid "Alphabetical"
+msgstr "按字母顺序"
+
+msgid "Alt Text"
+msgstr "替代文字"
+
+msgid "Alt text"
+msgstr "替代文字"
+
+msgid "Alt Text Pane"
+msgstr "替代文字窗格"
+
+msgid "Alt:"
+msgstr "替代文字："
+
+msgid "Alt\nText"
+msgstr "替代\n文字"
+
+msgid "an agent"
+msgstr "智能体"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "已安装的语言包在此文件夹之后使用。"
+
+msgid "And"
+msgstr "与"
+
+msgid "Angle Brackets"
+msgstr ""
+
+msgid "Angle Brackets with Separator"
+msgstr ""
+
+msgid "Angle Brackets with Two Separators"
+msgstr ""
+
+msgid "Angola"
+msgstr "安哥拉"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "为光标添加动画（平滑移动并淡入淡出）"
+
+msgid "Animation effects:"
+msgstr "动画效果："
+
+msgid "Annotation Reference"
+msgstr ""
+
+msgid "Annotation Subject"
+msgstr ""
+
+msgid "Annotation Text"
+msgstr ""
+
+msgid "Annoying"
+msgstr "烦人"
+
+msgid "Another file"
+msgstr "其他文件"
+
+msgid "Any Character"
+msgstr "任意字符"
+
+msgid "Any Digit"
+msgstr "任意数字"
+
+msgid "Any field"
+msgstr "任意字段"
+
+msgid "Any Letter"
+msgstr "任意字母"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "任何人都可以打开此文档。用密码加密可保护其隐私。"
+
+msgid "Anyone who opens the document will need this password."
+msgstr "打开文档的任何人都需要此密码。"
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "键入时应用"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "应用亚洲文字的断行规则（禁则）"
+
+msgid "Apply formatting to:"
+msgstr "将格式应用于："
+
+msgid "Apply Style"
+msgstr "应用样式"
+
+msgid "Apply Styles"
+msgstr "选择并应用样式"
+
+msgid "Arabic"
+msgstr "阿拉伯"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "下弯弧"
+
+msgid "Arch Up"
+msgstr "上弯弧"
+
+msgid "Argentina"
+msgstr "阿根廷"
+
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+msgid "Arrange\nAll"
+msgstr "全部重排"
+
+msgid "Article I."
+msgstr "第 I 条"
+
+msgid "Artistic Effects"
+msgstr "艺术效果"
+
+msgid "As Recommended"
+msgstr "按推荐"
+
+msgid "As you type"
+msgstr "键入时"
+
+msgid "ASAP"
+msgstr ""
+
+msgid "Asian text font:"
+msgstr "亚洲文字字体："
+
+msgid "Asian Typography"
+msgstr "亚洲版式"
+
+msgid "Assistant"
+msgstr "助手"
+
+msgid "Assistant Suggestions"
+msgstr "助手建议"
+
+msgid "At least"
+msgstr "最小值"
+
+msgid "At least {n}"
+msgstr "最小值 {n}"
+
+msgid "Atelier"
+msgstr "画室"
+
+msgid "Atmosphere"
+msgstr "大气"
+
+msgid "Attach Template"
+msgstr "附加模板"
+
+msgid "Attach…"
+msgstr "附加…"
+
+msgid "Australia"
+msgstr "澳大利亚"
+
+msgid "Austria"
+msgstr "奥地利"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "自动更正"
+
+msgid "AutoCorrect Options"
+msgstr "自动更正选项"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "自动调整"
+
+msgid "AutoFit behavior"
+msgstr "自动调整操作"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "双击自动调整列宽"
+
+msgid "AutoFit Contents"
+msgstr "根据内容自动调整"
+
+msgid "AutoFit to contents"
+msgstr "根据内容调整表格"
+
+msgid "AutoFit to window"
+msgstr "根据窗口调整表格"
+
+msgid "AutoFit Window"
+msgstr "根据窗口自动调整"
+
+msgid "AutoFormat As You Type"
+msgstr "键入时自动套用格式"
+
+msgid "Automatic ({language})"
+msgstr "自动（{language}）"
+
+msgid "Automatic ({region})"
+msgstr "自动（{region}）"
+
+msgid "Automatic bulleted lists"
+msgstr "自动项目符号列表"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "“自动”跟随系统语言。菜单和命令会改变，文档内容不会改变。"
+
+msgid "Automatic numbered lists"
+msgstr "自动编号列表"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "自动目录 1（3 级）"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "自动目录 2（2 级）"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "自动断字"
+
+msgid "Automatically Update Document Styles"
+msgstr "自动更新文档样式"
+
+msgid "Automatically update document styles"
+msgstr "自动更新文档样式"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "自动保存在 WordCraft 中保存过的文档"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "自动保存失败：{error}。重新保存文档后将恢复自动保存。"
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "浏览器中无法使用自动保存：它不能写入你的文件。保存会下载一份副本。"
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "自动保存仅适用于 .docx、.odt 和 .rtf 文件；{name} 无法保留全部格式。另存为 .docx 即可开启自动保存。"
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "自动保存会把每次更改写入文件（文档需已保存）"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "停止键入片刻后，自动保存会将更改写入文件。"
+
+msgid "AutoText"
+msgstr "自动图文集"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "批注框"
+
+msgid "Banded Columns"
+msgstr "镶边列"
+
+msgid "Banded Rows"
+msgstr "镶边行"
+
+msgid "Base text:"
+msgstr "基准文字："
+
+msgid "Based on: {style}"
+msgstr "基于：{style}"
+
+msgid "Baseline Dots"
+msgstr ""
+
+msgid "Basic Cycle"
+msgstr "基本循环"
+
+msgid "Basic List"
+msgstr "基本列表"
+
+msgid "Basic Math"
+msgstr ""
+
+msgid "Basic Matrix"
+msgstr "基本矩阵"
+
+msgid "Basic Process"
+msgstr "基本流程"
+
+msgid "Basic Pyramid"
+msgstr "基本棱锥图"
+
+msgid "Basic Radial"
+msgstr "基本射线图"
+
+msgid "Basic Venn"
+msgstr "基本维恩图"
+
+msgid "Bayes' rule"
+msgstr ""
+
+msgid "Before:"
+msgstr "段前："
+
+msgid "Beginning of Word"
+msgstr "单词开头"
+
+msgid "Behind Text"
+msgstr "衬于文字下方"
+
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+msgid "Belarusian"
+msgstr "白俄罗斯语"
+
+msgid "Belgium"
+msgstr "比利时"
+
+msgid "Below text"
+msgstr "文字下方"
+
+msgid "Below the item"
+msgstr "项目下方"
+
+msgid "Between"
+msgstr "段落之间"
+
+msgid "Bibliography"
+msgstr "参考文献"
+
+msgid "Binomial Coefficient"
+msgstr ""
+
+msgid "Binomial Coefficient (angle)"
+msgstr ""
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr ""
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr ""
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Blank (Three Columns)"
+msgstr "空白（三栏）"
+
+msgid "Blank document"
+msgstr "空白文档"
+
+msgid "Blank Page"
+msgstr "空白页"
+
+msgid "Block\nAuthors"
+msgstr "阻止作者"
+
+msgid "Blue:"
+msgstr "蓝色:"
+
+msgid "Body Text"
+msgstr "正文文本"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr ""
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "大胆的选择。需要的话，Ctrl+Z 就在旁边。"
+
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+msgid "Book"
+msgstr "书籍"
+
+msgid "Book Title"
+msgstr ""
+
+msgid "Book title"
+msgstr "书名"
+
+msgid "Bookmark"
+msgstr "书签"
+
+msgid "Bookmark name:"
+msgstr "书签名："
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "边框线"
+
+msgid "Border Painter"
+msgstr "边框刷"
+
+msgid "Border\nPainter"
+msgstr "边框刷"
+
+msgid "Borders and Shading"
+msgstr "边框和底纹"
+
+msgid "Borders and Shading…"
+msgstr "边框和底纹…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那"
+
+msgid "Bosnian"
+msgstr "波斯尼亚语"
+
+msgid "Both Sides"
+msgstr "两侧"
+
+msgid "Bottom Border"
+msgstr "下框线"
+
+msgid "Bottom Left Cell"
+msgstr "左下单元格"
+
+msgid "Bottom Margin"
+msgstr "下边距"
+
+msgid "Bottom of Page"
+msgstr "页面底端"
+
+msgid "Bottom Right Cell"
+msgstr "右下单元格"
+
+msgid "Box"
+msgstr "方框"
+
+msgid "Boxed Formula"
+msgstr ""
+
+msgid "Boxed Formula (example)"
+msgstr ""
+
+msgid "Boxed Formulas"
+msgstr ""
+
+msgid "Braces"
+msgstr ""
+
+msgid "Braces with Separator"
+msgstr ""
+
+msgid "Bracket"
+msgstr "括号"
+
+msgid "Brackets"
+msgstr ""
+
+msgid "Brackets with Separators"
+msgstr ""
+
+msgid "Brazil"
+msgstr "巴西"
+
+msgid "Breaks"
+msgstr "分隔符"
+
+msgid "Breve"
+msgstr ""
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "在 WordCraft 中浏览…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "构建基块库内容控件"
+
+msgid "Built in"
+msgstr "内置"
+
+msgid "Built-In"
+msgstr "内置"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "内置样式"
+
+msgid "Built-in styles can't be deleted."
+msgstr "内置样式不能删除。"
+
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+msgid "Bullet Library"
+msgstr "项目符号库"
+
+msgid "Bullets"
+msgstr "项目符号"
+
+msgid "By author"
+msgstr "按作者"
+
+msgid "Cabo Verde"
+msgstr "佛得角"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Can't be deleted"
+msgstr "无法删除"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "找不到命令？按 {key}，然后输入你想做的事。"
+
+msgid "can't split at the first row"
+msgstr "无法在第一行处拆分表格"
+
+msgid "Canada"
+msgstr "加拿大"
+
+msgid "Canvas Member"
+msgstr "画布成员"
+
+msgid "Capitalize Each Word"
+msgstr "每个单词首字母大写"
+
+msgid "Capitalize first letter of sentences"
+msgstr "句首字母大写"
+
+msgid "Capitalize first letter of table cells"
+msgstr "表格单元格首字母大写"
+
+msgid "Capitalize names of days"
+msgstr "星期名称首字母大写"
+
+msgid "Capitalize the first word of a sentence"
+msgstr ""
+
+msgid "Caption Numbering"
+msgstr "题注编号"
+
+msgid "Caption text"
+msgstr "题注文字"
+
+msgid "Caption:"
+msgstr "题注："
+
+msgid "Captions"
+msgstr "题注"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "小心，再往回退，就要把造纸术也撤消了。"
+
+msgid "Caret Character"
+msgstr "脱字号"
+
+msgid "Case changes"
+msgstr "大小写更改"
+
+msgid "Cases (Three Conditions)"
+msgstr ""
+
+msgid "Cases (Two Conditions)"
+msgstr ""
+
+msgid "Cases and Stacks"
+msgstr ""
+
+msgid "Catalan"
+msgstr "加泰罗尼亚语"
+
+msgid "Catalan (Valencian)"
+msgstr "加泰罗尼亚语（巴伦西亚语）"
+
+msgid "Categories"
+msgstr "类别"
+
+msgid "Categories:"
+msgstr "类别："
+
+msgid "Category {n}"
+msgstr "类别 {n}"
+
+msgid "Ceiling"
+msgstr ""
+
+msgid "Cell"
+msgstr "单元格"
+
+msgid "Cell Margins"
+msgstr "单元格边距"
+
+msgid "Cell\nMargins"
+msgstr "单元格边距"
+
+msgid "Center Glow"
+msgstr "中心光晕"
+
+msgid "Centered as Group"
+msgstr ""
+
+msgid "Change Chart Type"
+msgstr "更改图表类型"
+
+msgid "Change Colors"
+msgstr "更改颜色"
+
+msgid "Change in y over change in x"
+msgstr ""
+
+msgid "Change Layout"
+msgstr "更改布局"
+
+msgid "Change List Level"
+msgstr "更改列表级别"
+
+msgid "Change Password…"
+msgstr "更改密码…"
+
+msgid "Change Picture"
+msgstr "更改图片"
+
+msgid "Change Picture…"
+msgstr "更改图片…"
+
+msgid "Change Shape"
+msgstr "更改形状"
+
+msgid "Change Structure"
+msgstr "更改结构"
+
+msgid "Change to Display"
+msgstr "更改为显示公式"
+
+msgid "Change to Inline"
+msgstr "更改为行内公式"
+
+msgid "Change to Level 1"
+msgstr ""
+
+msgid "Change to Level 2"
+msgstr ""
+
+msgid "Change to Level 3"
+msgstr ""
+
+msgid "Change to Level 4"
+msgstr ""
+
+msgid "Change to Level 5"
+msgstr ""
+
+msgid "Change to Level 6"
+msgstr ""
+
+msgid "Change to Level 7"
+msgstr ""
+
+msgid "Change to Level 8"
+msgstr ""
+
+msgid "Change to Level 9"
+msgstr ""
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "更改\n图表类型"
+
+msgid "Change\nColors"
+msgstr "更改\n颜色"
+
+msgid "Changed lines:"
+msgstr "修订行："
+
+msgid "Changes"
+msgstr "修订"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "第 1 章"
+
+msgid "Chapter in a book"
+msgstr "书籍章节"
+
+msgid "Chapters begin at:"
+msgstr "章节起始于："
+
+msgid "Character Border"
+msgstr "字符边框"
+
+msgid "Character code:"
+msgstr "字符代码："
+
+msgid "Character in Range"
+msgstr "范围内的字符"
+
+msgid "Character level"
+msgstr "字符级"
+
+msgid "Character Position"
+msgstr "字符位置"
+
+msgid "Character Scale"
+msgstr "字符缩放"
+
+msgid "Character Shading"
+msgstr "字符底纹"
+
+msgid "Character Spacing"
+msgstr "字符间距"
+
+msgid "Character spacing"
+msgstr "字符间距"
+
+msgid "Character style"
+msgstr "字符样式"
+
+msgid "Characters (no spaces)"
+msgstr "字符数（不计空格）"
+
+msgid "Characters (with spaces)"
+msgstr "字符数（计空格）"
+
+msgid "Characters per line:"
+msgstr "每行字数："
+
+msgid "Chart"
+msgstr "图表"
+
+msgid "Chart Design"
+msgstr "图表设计"
+
+msgid "Chart Layouts"
+msgstr "图表布局"
+
+msgid "Chart Title"
+msgstr "图表标题"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "图表和图示暂时无法移动或调整大小"
+
+msgid "Check"
+msgstr ""
+
+msgid "Check Accessibility"
+msgstr "检查辅助功能"
+
+msgid "Check Box Content Control"
+msgstr "复选框内容控件"
+
+msgid "Check Compatibility"
+msgstr "检查兼容性"
+
+msgid "Check for Errors"
+msgstr "检查错误"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "键入时检查拼写"
+
+msgid "Check spelling as you type"
+msgstr "键入时检查拼写"
+
+msgid "Check\nAccessibility"
+msgstr "检查辅助功能"
+
+msgid "Checked styles are allowed:"
+msgstr "选中的样式允许使用:"
+
+msgid "Checked symbol"
+msgstr "选中符号"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "下V形"
+
+msgid "Chevron Up"
+msgstr "上V形"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "智利"
+
+msgid "China"
+msgstr "中国"
+
+msgid "Chinese (Simplified)"
+msgstr "中文（简体）"
+
+msgid "Chinese (Traditional)"
+msgstr "中文（繁体）"
+
+msgid "Choose a command"
+msgstr "选择命令"
+
+msgid "Choose a shortcut"
+msgstr "选择快捷键"
+
+msgid "Choose List Item"
+msgstr "选择列表项"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "选择包含收件人的工作表。"
+
+msgid "Circle area from its radius"
+msgstr ""
+
+msgid "Circled Dot"
+msgstr ""
+
+msgid "Circled Plus"
+msgstr ""
+
+msgid "Circled Times"
+msgstr ""
+
+msgid "Citation Style"
+msgstr "引文样式"
+
+msgid "Citations"
+msgstr "引文"
+
+msgid "Citations & Bibliography"
+msgstr "引文与参考文献"
+
+msgid "Clear All Formatting"
+msgstr "清除所有格式"
+
+msgid "Clear Character Formatting"
+msgstr "清除字符格式"
+
+msgid "Clear Character Style"
+msgstr "清除字符样式"
+
+msgid "Clear Formatting Level"
+msgstr "清除格式级别"
+
+msgid "Clear Paragraph Formatting"
+msgstr "清除段落格式"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "单击两个单元格之间的边框以合并它们。按 Esc 结束。"
+
+msgid "Click an item to paste it."
+msgstr "单击项目即可粘贴。"
+
+msgid "Click level to modify:"
+msgstr "单击要修改的级别："
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "单击要接续文字的空文本框（按 Esc 取消）"
+
+msgid "Click to switch back to inserting"
+msgstr "单击以切换回插入模式"
+
+msgid "Clipboard Contents"
+msgstr "剪贴板内容"
+
+msgid "Clipboard Items"
+msgstr "剪贴板项目"
+
+msgid "Clipboard Pane"
+msgstr "剪贴板窗格"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "关闭公式"
+
+msgid "Close Header and Footer"
+msgstr "关闭页眉和页脚"
+
+msgid "Close Outline View"
+msgstr "关闭大纲视图"
+
+msgid "Close Outline\nView"
+msgstr "关闭\n大纲视图"
+
+msgid "Clustered Bar"
+msgstr "簇状条形图"
+
+msgid "Clustered Column"
+msgstr "簇状柱形图"
+
+msgid "cm"
+msgstr "厘米"
+
+msgid "Col #:"
+msgstr "栏号："
+
+msgid "Collapse Selection"
+msgstr "折叠选定内容"
+
+msgid "Collate copies"
+msgstr "逐份打印"
+
+msgid "Collect entries from:"
+msgstr "条目来源："
+
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+msgid "Colon Equal"
+msgstr ""
+
+msgid "Color model:"
+msgstr "颜色模式:"
+
+msgid "Color only"
+msgstr "仅颜色"
+
+msgid "Color: {color}"
+msgstr "颜色：{color}"
+
+msgid "Colorful"
+msgstr "彩色"
+
+msgid "Column"
+msgstr "栏"
+
+msgid "Column Break"
+msgstr "分栏符"
+
+msgid "Column Selection"
+msgstr "矩形选择"
+
+msgid "Column {n}"
+msgstr "列 {n}"
+
+msgid "Column:"
+msgstr "列："
+
+msgid "Combine Documents"
+msgstr "合并文档"
+
+msgid "Combo Box Content Control"
+msgstr "组合框内容控件"
+
+msgid "Commands"
+msgstr "命令"
+
+msgid "Commas"
+msgstr "逗号"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "在 PDF、打印和图像中于每页旁显示批注和修订；在网页、Markdown 和文本末尾附上批注列表。"
+
+msgid "Comments Pane"
+msgstr "批注窗格"
+
+msgid "Common Accent Objects"
+msgstr ""
+
+msgid "Common Brackets"
+msgstr ""
+
+msgid "Common Fractions"
+msgstr ""
+
+msgid "Common Functions"
+msgstr ""
+
+msgid "Common Large Operators"
+msgstr ""
+
+msgid "Common Operator Structures"
+msgstr ""
+
+msgid "Common Operators"
+msgstr ""
+
+msgid "Common Radicals"
+msgstr ""
+
+msgid "Common Subscripts and Superscripts"
+msgstr ""
+
+msgid "Communication"
+msgstr "通信"
+
+msgid "Community\nDiscord"
+msgstr "社区\nDiscord"
+
+msgid "Compact"
+msgstr "紧凑"
+
+msgid "Compare Documents"
+msgstr "比较文档"
+
+msgid "Compare to"
+msgstr "比较值"
+
+msgid "Compared: {changes} changes"
+msgstr "已比较: {changes} 处更改"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "与其他文件比较需要桌面版应用。"
+
+msgid "Comparison settings"
+msgstr "比较设置"
+
+msgid "Compress Pictures"
+msgstr "压缩图片"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "压缩行首标点"
+
+msgid "Conference"
+msgstr "会议"
+
+msgid "Conference paper"
+msgstr "会议论文"
+
+msgid "CONFIDENTIAL"
+msgstr ""
+
+msgid "Confirm password:"
+msgstr "确认密码："
+
+msgid "Connect Shapes"
+msgstr "连接形状"
+
+msgid "Container Title"
+msgstr "载体标题"
+
+msgid "Content Control at Selection"
+msgstr "所选位置的内容控件"
+
+msgid "Content Control Properties"
+msgstr "内容控件属性"
+
+msgid "Contents can't be edited"
+msgstr "无法编辑内容"
+
+msgid "Context"
+msgstr "上下文"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "续前节"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "连续"
+
+msgid "Continuous numbering"
+msgstr "连续编号"
+
+msgid "Contour Integral"
+msgstr ""
+
+msgid "Contour Integral with Limits"
+msgstr ""
+
+msgid "Contour Integral with Stacked Limits"
+msgstr ""
+
+msgid "Contour Integrals"
+msgstr ""
+
+msgid "Controls"
+msgstr "控件"
+
+msgid "Conversions"
+msgstr "转换"
+
+msgid "Convert between built-up and linear form"
+msgstr ""
+
+msgid "Convert Notes"
+msgstr "转换注释"
+
+msgid "Convert Text to Table"
+msgstr "文本转换成表格"
+
+msgid "Convert Text to Table…"
+msgstr "文本转换成表格…"
+
+msgid "Convert to Shapes"
+msgstr "转换为形状"
+
+msgid "Convert to Text"
+msgstr "转换为文本"
+
+msgid "Coproduct"
+msgstr ""
+
+msgid "Coproduct with Limits"
+msgstr ""
+
+msgid "Coproduct with Lower Limit"
+msgstr ""
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Copy Formatting"
+msgstr "复制格式"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "书签的文本"
+
+msgid "Copy Styles"
+msgstr "复制样式"
+
+msgid "Copy to"
+msgstr "复制到"
+
+msgid "Copyright Sign"
+msgstr "版权符号"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "更正误按 Caps Lock 键造成的大小写错误"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "更正前两个字母连续大写"
+
+msgid "Corrections"
+msgstr "更正"
+
+msgid "Cosecant Function"
+msgstr ""
+
+msgid "Cosine 2x"
+msgstr ""
+
+msgid "Cosine Function"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+msgid "Cotangent Function"
+msgstr ""
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "无法下载 {name}：{error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "无法将 WordCraft 设为默认应用：{error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "无法打开 {path}：{error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "行号间隔："
+
+msgid "Count words in text boxes and notes"
+msgstr "统计文本框、脚注和尾注中的字数"
+
+msgid "Courtesy Title"
+msgstr "称谓"
+
+msgid "Cover Page"
+msgstr "封面"
+
+msgid "Craft"
+msgstr "工艺"
+
+msgid "Create a Style"
+msgstr "创建样式"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "为文档创建交互式大纲。\n\n用它可以随时知道自己在文档中的位置，或快速移动内容。\n\n要开始使用，请转到“开始”选项卡，为文档中的标题应用标题样式。"
+
+msgid "Create Graphic"
+msgstr "创建图形"
+
+msgid "Create Link"
+msgstr "创建链接"
+
+msgid "Create New Style"
+msgstr "创建新样式"
+
+msgid "Create Source"
+msgstr "创建源"
+
+msgid "Croatian"
+msgstr "克罗地亚语"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "交叉引用"
+
+msgid "Cross-reference:"
+msgstr "交叉引用："
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "古巴"
+
+msgid "Cube Root"
+msgstr ""
+
+msgid "Current - Linear"
+msgstr ""
+
+msgid "Current - Professional"
+msgstr ""
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "当前位置"
+
+msgid "Current record"
+msgstr "当前记录"
+
+msgid "Current style: {style}"
+msgstr "当前样式：{style}"
+
+msgid "Curved Arrow Connector"
+msgstr "曲线箭头连接符"
+
+msgid "Curved Connector"
+msgstr "曲线连接符"
+
+msgid "Custom dictionary"
+msgstr "自定义词典"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "自定义页边距…"
+
+msgid "Custom mark:"
+msgstr "自定义标记："
+
+msgid "Custom range"
+msgstr "自定义范围"
+
+msgid "Custom size"
+msgstr "自定义大小"
+
+msgid "Custom Table of Contents…"
+msgstr "自定义目录…"
+
+msgid "Custom Watermark"
+msgstr "自定义水印"
+
+msgid "Custom Watermark…"
+msgstr "自定义水印…"
+
+msgid "Customize"
+msgstr "自定义"
+
+msgid "Customize Keyboard"
+msgstr "自定义键盘"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "自定义快速访问工具栏"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "自定义快速访问工具栏…"
+
+msgid "Customize Ribbon"
+msgstr "自定义功能区"
+
+msgid "Customize the Ribbon…"
+msgstr "自定义功能区…"
+
+msgid "Cycle"
+msgstr "循环"
+
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+msgid "Czech"
+msgstr "捷克语"
+
+msgid "Danish"
+msgstr "丹麦语"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "深色模式"
+
+msgid "Dark page (white text on black)"
+msgstr "深色页面（黑底白字）"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "深色变体"
+
+msgid "Dark with Shadow"
+msgstr "深色带阴影"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "暗房"
+
+msgid "Data Labels"
+msgstr "数据标签"
+
+msgid "Date & Time"
+msgstr "日期和时间"
+
+msgid "Date formats:"
+msgstr "日期格式："
+
+msgid "Date Picker Content Control"
+msgstr "日期选取器内容控件"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Decimal"
+msgstr "小数点对齐"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "装饰性对象仅增添视觉效果：屏幕阅读器会跳过它们。"
+
+msgid "Decorative Text"
+msgstr "装饰文字"
+
+msgid "Decorative Text Styles"
+msgstr "装饰文字样式"
+
+msgid "Decrease Indent"
+msgstr "减少缩进量"
+
+msgid "Deep"
+msgstr "深沉"
+
+msgid "Default formatting"
+msgstr "默认格式"
+
+msgid "Default Paragraph Font"
+msgstr ""
+
+msgid "Default tab stops:"
+msgstr "默认制表位："
+
+msgid "Define New Bullet"
+msgstr "定义新项目符号"
+
+msgid "Define New Multilevel List"
+msgstr "定义新的多级列表"
+
+msgid "Define New Multilevel List…"
+msgstr "定义新的多级列表…"
+
+msgid "Define New Number Format"
+msgstr "定义新编号格式"
+
+msgid "Deflate"
+msgstr "收缩"
+
+msgid "Delete Around Caret in Equation"
+msgstr "在公式中删除光标周围内容"
+
+msgid "Delete Back in Equation"
+msgstr "在公式中向前删除"
+
+msgid "Delete Bookmark"
+msgstr "删除书签"
+
+msgid "Delete Cells"
+msgstr "删除单元格"
+
+msgid "Delete Clipboard Item"
+msgstr "删除剪贴板项目"
+
+msgid "Delete Columns"
+msgstr "删除列"
+
+msgid "Delete Comment"
+msgstr "删除批注"
+
+msgid "Delete in Equation"
+msgstr "在公式中删除"
+
+msgid "Delete Label"
+msgstr "删除标签"
+
+msgid "Delete Next Word"
+msgstr "删除后一个单词"
+
+msgid "Delete Previous Word"
+msgstr "删除前一个单词"
+
+msgid "Delete Rows"
+msgstr "删除行"
+
+msgid "Delete Selected Ink"
+msgstr "删除所选墨迹"
+
+msgid "Delete Table"
+msgstr "删除表格"
+
+msgid "Delete Table Style"
+msgstr "删除表格样式"
+
+msgid "Deletions:"
+msgstr "删除内容："
+
+msgid "Delivery address:"
+msgstr "收信人地址："
+
+msgid "Delta Equal To"
+msgstr ""
+
+msgid "Delta over arrow"
+msgstr ""
+
+msgid "Demote"
+msgstr "降级"
+
+msgid "Demote to Body Text"
+msgstr "降级为正文文本"
+
+msgid "Derivative as a limit"
+msgstr ""
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "请为看不见的人描述此对象显示的内容。"
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "请为看不见的人描述此表格显示的内容。"
+
+msgid "Design"
+msgstr "设计"
+
+msgid "Design Mode"
+msgstr "设计模式"
+
+msgid "Detach Template"
+msgstr "分离模板"
+
+msgid "Detect language automatically"
+msgstr "自动检测语言"
+
+msgid "Developer"
+msgstr "开发工具"
+
+msgid "development build"
+msgstr "开发版本"
+
+msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr "图示"
+
+msgid "Diagram Design"
+msgstr "图示设计"
+
+msgid "Diagram Styles"
+msgstr "图示样式"
+
+msgid "Dictate"
+msgstr "听写"
+
+msgid "Dictionaries"
+msgstr "词典"
+
+msgid "Dictionaries folder:"
+msgstr "词典文件夹："
+
+msgid "Dictionary files"
+msgstr "词典文件"
+
+msgid "Different First Page"
+msgstr "首页不同"
+
+msgid "Different Odd & Even Pages"
+msgstr "奇偶页不同"
+
+msgid "Differential"
+msgstr ""
+
+msgid "Differential theta"
+msgstr ""
+
+msgid "Differential x"
+msgstr ""
+
+msgid "Differential y"
+msgstr ""
+
+msgid "Differentials"
+msgstr ""
+
+msgid "Direct formatting"
+msgstr "直接格式"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord 社区"
+
+msgid "Display for Review"
+msgstr "显示以供审阅"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "显示文本"
+
+msgid "Distance from text"
+msgstr "距正文"
+
+msgid "Distance from text:"
+msgstr "距正文："
+
+msgid "Distribute Columns"
+msgstr "平均分布各列"
+
+msgid "Distribute letters"
+msgstr "字母均匀分布"
+
+msgid "Distribute Rows"
+msgstr "平均分布各行"
+
+msgid "Distribute spacing"
+msgstr "间距均匀分布"
+
+msgid "Distributed"
+msgstr "分散对齐"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "不检查拼写和语法"
+
+msgid "Do not check spelling or grammar"
+msgstr "不检查拼写或语法"
+
+msgid "DO NOT COPY"
+msgstr ""
+
+msgid "Do Not Show in TOC"
+msgstr "不在目录中显示"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "是否保存对 {name} 的更改？"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "文档结尾"
+
+msgid "Document Formatting"
+msgstr "文档格式"
+
+msgid "Document Grid"
+msgstr "文档网格"
+
+msgid "Document Information"
+msgstr "文档信息"
+
+msgid "Document name"
+msgstr "文档名称"
+
+msgid "Document Property"
+msgstr "文档属性"
+
+msgid "Document Start"
+msgstr "文档开头"
+
+msgid "Document template:"
+msgstr "文档模板："
+
+msgid "Document Text"
+msgstr "文档文本"
+
+msgid "Document1"
+msgstr "文档1"
+
+msgid "Document\nPreferences"
+msgstr "文档\n首选项"
+
+msgid "Documents you open will show up here."
+msgstr "打开过的文档会显示在这里。"
+
+msgid "Does not contain"
+msgstr "不包含"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "多米尼加共和国"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "相同样式的段落间不添加间距"
+
+msgid "Don't capitalize after:"
+msgstr "不在以下内容后大写:"
+
+msgid "Don't hyphenate"
+msgstr "不断字"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "不朗读 Zotero、Mendeley 或 EndNote 的引文和参考文献"
+
+msgid "Don't show me this tip again"
+msgstr "不再显示此提示"
+
+msgid "Dot dash"
+msgstr "点划线"
+
+msgid "Dot-dash"
+msgstr "点划线"
+
+msgid "Dot-dot-dash"
+msgstr "双点划线"
+
+msgid "Double"
+msgstr "双线"
+
+msgid "Double Bar"
+msgstr ""
+
+msgid "Double Closing Quote"
+msgstr "右双引号"
+
+msgid "Double Dot"
+msgstr ""
+
+msgid "Double Integral"
+msgstr ""
+
+msgid "Double Integral with Limits"
+msgstr ""
+
+msgid "Double Integral with Stacked Limits"
+msgstr ""
+
+msgid "Double Left Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Arrow with Text Below"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Opening Quote"
+msgstr "左双引号"
+
+msgid "Double Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Spacing"
+msgstr "双倍行距"
+
+msgid "Double Square Brackets"
+msgstr ""
+
+msgid "Double Strikethrough"
+msgstr "双删除线"
+
+msgid "Double strikethrough"
+msgstr "双删除线"
+
+msgid "Double summation"
+msgstr ""
+
+msgid "Double Underline"
+msgstr "双下划线"
+
+msgid "Double Vertical Bars"
+msgstr ""
+
+msgid "Doughnut"
+msgstr "圆环图"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "下载已关闭。点击“添加语言…”或“安装”会将其打开，之后 WordCraft 会从 GitHub 下载语言包和字体。"
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr ""
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "拖出矩形以绘制表格，或拖出穿过单元格的线条以拆分单元格。按 Esc 结束。"
+
+msgid "Draw Ink"
+msgstr "绘制墨迹"
+
+msgid "Draw Table"
+msgstr "绘制表格"
+
+msgid "Draw\nTable"
+msgstr "绘制\n表格"
+
+msgid "Drawing Canvas"
+msgstr "绘图画布"
+
+msgid "Drawing Tools"
+msgstr "绘图工具"
+
+msgid "Drawing\nCanvas"
+msgstr "绘图画布"
+
+msgid "Drop Cap"
+msgstr "首字下沉"
+
+msgid "Drop cap"
+msgstr "首字下沉"
+
+msgid "Drop Cap Options…"
+msgstr "首字下沉选项…"
+
+msgid "drop caps can't go in a table"
+msgstr "首字下沉不能放在表格中"
+
+msgid "Drop-Down List Content Control"
+msgstr "下拉列表内容控件"
+
+msgid "Dropped"
+msgstr "下沉"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "去除所有格式，粘贴纯文本。"
+
+msgid "Dutch, Nederlands or nl"
+msgstr "荷兰语、Nederlands 或 nl"
+
+msgid "E-mail Messages"
+msgstr "电子邮件"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+msgid "Edit Comment"
+msgstr "编辑批注"
+
+msgid "Edit Data"
+msgstr "编辑数据"
+
+msgid "Edit Document"
+msgstr "编辑文档"
+
+msgid "Edit Equation"
+msgstr "编辑公式"
+
+msgid "Edit Field Code"
+msgstr "编辑域代码"
+
+msgid "Edit Field…"
+msgstr "编辑域…"
+
+msgid "Edit Footer"
+msgstr "编辑页脚"
+
+msgid "Edit Header"
+msgstr "编辑页眉"
+
+msgid "Edit Individual Documents…"
+msgstr "编辑单个文档…"
+
+msgid "Edit Items"
+msgstr "编辑项目"
+
+msgid "Edit Recipient List"
+msgstr "编辑收件人列表"
+
+msgid "Edit Source"
+msgstr "编辑源"
+
+msgid "Edit\nData"
+msgstr "编辑\n数据"
+
+msgid "Edit\nRecipient List"
+msgstr "编辑收件人列表"
+
+msgid "Edited"
+msgstr "已编辑"
+
+msgid "Editing endnote"
+msgstr "正在编辑尾注"
+
+msgid "Editing footnote"
+msgstr "正在编辑脚注"
+
+msgid "Editing header/footer"
+msgstr "正在编辑页眉/页脚"
+
+msgid "Editing in this document is restricted."
+msgstr "此文档的编辑受到限制。"
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "编辑 — 直接编辑文档"
+
+msgid "Edition"
+msgstr "版次"
+
+msgid "Editor"
+msgstr "编辑器"
+
+msgid "Egypt"
+msgstr "埃及"
+
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+msgid "Elbow Arrow Connector"
+msgstr "肘形箭头连接符"
+
+msgid "Elbow Connector"
+msgstr "肘形连接符"
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr ""
+
+msgid "Enclose Characters"
+msgstr "带圈字符"
+
+msgid "Enclosure"
+msgstr "圈号"
+
+msgid "Encrypt with Password"
+msgstr "用密码进行加密"
+
+msgid "Encrypt with Password…"
+msgstr "用密码进行加密…"
+
+msgid "End of document"
+msgstr "文档结尾"
+
+msgid "End of section"
+msgstr "节的结尾"
+
+msgid "End of Word"
+msgstr "单词结尾"
+
+msgid "Endnote Reference"
+msgstr ""
+
+msgid "Endnote Text"
+msgstr ""
+
+msgid "Endnotes"
+msgstr "尾注"
+
+msgid "Endnotes to footnotes"
+msgstr "尾注转换为脚注"
+
+msgid "English (Australia)"
+msgstr "英语（澳大利亚）"
+
+msgid "English (Canada)"
+msgstr "英语（加拿大）"
+
+msgid "English (India)"
+msgstr "英语（印度）"
+
+msgid "English (Ireland)"
+msgstr "英语（爱尔兰）"
+
+msgid "English (New Zealand)"
+msgstr "英语（新西兰）"
+
+msgid "English (South Africa)"
+msgstr "英语（南非）"
+
+msgid "English (United Kingdom)"
+msgstr "英语（英国）"
+
+msgid "English (United States)"
+msgstr "英语（美国）"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "英语、此文档的语言，以及每个已安装的语言包。语言包会添加拼写词典和断字规则。"
+
+msgid "Engrave"
+msgstr "阴文"
+
+msgid "Enlarge symbol"
+msgstr "增大圈号"
+
+msgid "Enter a number."
+msgstr "请输入数字。"
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "输入编号的格式："
+
+msgid "Enter in Equation"
+msgstr "在公式中按 Enter"
+
+msgid "Enter page number:"
+msgstr "输入页码："
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "已标记条目。"
+
+msgid "Envelope #10"
+msgstr "10 号信封"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr ""
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr ""
+
+msgid "Envelope size:"
+msgstr "信封尺寸："
+
+msgid "Envelopes"
+msgstr "信封"
+
+msgid "Equal by Definition"
+msgstr ""
+
+msgid "Equal column width"
+msgstr "栏宽相等"
+
+msgid "Equal Equal"
+msgstr ""
+
+msgid "Equal to"
+msgstr "等于"
+
+msgid "Equals:"
+msgstr "等于："
+
+msgid "Equation"
+msgstr "公式"
+
+msgid "Equation Gallery"
+msgstr "公式库"
+
+msgid "Equation Info"
+msgstr "公式信息"
+
+msgid "Equation Number"
+msgstr "公式编号"
+
+msgid "Equation Options"
+msgstr "公式选项"
+
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+msgid "Erase Ink"
+msgstr "擦除墨迹"
+
+msgid "Errors ({n})"
+msgstr "错误 ({n})"
+
+msgid "Esperanto"
+msgstr "世界语"
+
+msgid "Estonian"
+msgstr "爱沙尼亚语"
+
+msgid "Euler's identity"
+msgstr ""
+
+msgid "Even Banded Columns"
+msgstr "偶数镶边列"
+
+msgid "Even Banded Rows"
+msgstr "偶数镶边行"
+
+msgid "Even Page"
+msgstr "偶数页"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "每处更改都会作为修订记录。"
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "每个命令都可供脚本和 AI 智能体使用：运行 `wordcraft-cli mcp` 启动 MCP 服务器，或使用 `--control <port>` 启动应用以打开 JSON 控制通道。"
+
+msgid "Every field needs a name."
+msgstr "每个域都需要名称。"
+
+msgid "Everyone"
+msgstr "每个人"
+
+msgid "Exactly"
+msgstr "固定值"
+
+msgid "Exactly {n}"
+msgstr "固定值 {n}"
+
+msgid "Exceptions (optional)"
+msgstr "例外项(可选)"
+
+msgid "Exceptions…"
+msgstr "例外项…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "现有文件或网页"
+
+msgid "Expand or Collapse Heading"
+msgstr "展开或折叠标题"
+
+msgid "Exponential"
+msgstr ""
+
+msgid "Exponential series"
+msgstr ""
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "导出副本以共享（PDF、Word 文档）"
+
+msgid "Export Page as PNG"
+msgstr "将页面导出为 PNG"
+
+msgid "Extend Selection"
+msgstr "扩展选定范围"
+
+msgid "Extend Selection by Units"
+msgstr "按单位扩展选定范围"
+
+msgid "Extra space"
+msgstr ""
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "更快的方法：{command} 的键盘快捷键是 {key}。"
+
+msgid "Field code:"
+msgstr "域代码："
+
+msgid "Field Codes"
+msgstr "域代码"
+
+msgid "Field codes:"
+msgstr "域代码："
+
+msgid "Field name"
+msgstr "域名称"
+
+msgid "Field name:"
+msgstr "域名："
+
+msgid "Field names must be different."
+msgstr "域名称不能重复。"
+
+msgid "Field names:"
+msgstr "域名列表："
+
+msgid "Field:"
+msgstr "域："
+
+msgid "Field…"
+msgstr "域…"
+
+msgid "Figure"
+msgstr "图"
+
+msgid "File locations"
+msgstr "文件位置"
+
+msgid "File name:"
+msgstr "文件名:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "“文件 › 新建”在“个人”下列出此处的 .dotx 和 .dotm 模板；“另存为 Word 模板”从这里开始。"
+
+msgid "Fill color:"
+msgstr "填充颜色："
+
+msgid "Filling in forms"
+msgstr "填写窗体"
+
+msgid "Film"
+msgstr "电影"
+
+msgid "Filter and Sort"
+msgstr "筛选和排序"
+
+msgid "Filter Recipients"
+msgstr "筛选收件人"
+
+msgid "Find in list:"
+msgstr "在列表中查找："
+
+msgid "Find Next Editable Region"
+msgstr "查找下一个可编辑区域"
+
+msgid "Find Previous"
+msgstr "查找上一处"
+
+msgid "Find Recipient"
+msgstr "查找收件人"
+
+msgid "Find What Expression"
+msgstr "查找到的表达式"
+
+msgid "Find What Text"
+msgstr "查找到的文本"
+
+msgid "Find what:"
+msgstr "查找内容："
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "正在查找打印机…"
+
+msgid "Finish & Merge"
+msgstr "完成并合并"
+
+msgid "Finish &\nMerge"
+msgstr "完成并合并"
+
+msgid "Finished"
+msgstr "已完成"
+
+msgid "Finland"
+msgstr "芬兰"
+
+msgid "Finnish"
+msgstr "芬兰语"
+
+msgid "First Column"
+msgstr "第一列"
+
+msgid "First line"
+msgstr "首行"
+
+msgid "First line:"
+msgstr "首行："
+
+msgid "First Name"
+msgstr "名"
+
+msgid "First Record"
+msgstr "第一条记录"
+
+msgid "First row of data contains column headers"
+msgstr "数据首行包含列标题"
+
+msgid "Fix Position on Page"
+msgstr "在页面上的位置固定"
+
+msgid "Fixed Column Width"
+msgstr "固定列宽"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr ""
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "编号之后："
+
+msgid "Font Color"
+msgstr "字体颜色"
+
+msgid "Font color"
+msgstr "字体颜色"
+
+msgid "Font color:"
+msgstr "字体颜色："
+
+msgid "Font Dialog"
+msgstr "字体对话框"
+
+msgid "Font: {font}"
+msgstr "字体：{font}"
+
+msgid "Font…"
+msgstr "字体…"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid "Footnote and Endnote"
+msgstr "脚注和尾注"
+
+msgid "Footnote Reference"
+msgstr ""
+
+msgid "Footnote Text"
+msgstr ""
+
+msgid "Footnotes"
+msgstr "脚注"
+
+msgid "Footnotes and endnotes"
+msgstr "脚注和尾注"
+
+msgid "Footnotes to endnotes"
+msgstr "脚注转换为尾注"
+
+msgid "For which item:"
+msgstr ""
+
+msgid "Format Page Numbers"
+msgstr "设置页码格式"
+
+msgid "Format Page Numbers…"
+msgstr "设置页码格式…"
+
+msgid "Format Painter"
+msgstr "格式刷"
+
+msgid "Format Shape"
+msgstr "设置形状格式"
+
+msgid "Format Shape Pane"
+msgstr "设置形状格式窗格"
+
+msgid "Format Shape…"
+msgstr "设置形状格式…"
+
+msgid "Formatted"
+msgstr "已设置格式"
+
+msgid "Formatted Text"
+msgstr "带格式文本"
+
+msgid "Formatting"
+msgstr "格式"
+
+msgid "Formatting at Selection"
+msgstr "选定内容的格式"
+
+msgid "Formatting exceptions"
+msgstr "格式例外"
+
+msgid "Formatting marks"
+msgstr "格式标记"
+
+msgid "Formatting saved for new documents:"
+msgstr "为新文档保存的格式："
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "会比较格式、大小写、空白和表格；其他设置留待以后支持。"
+
+msgid "Formula"
+msgstr "公式"
+
+msgid "Formula:"
+msgstr "公式："
+
+msgid "Forward"
+msgstr "前进"
+
+msgid "Fraction"
+msgstr "分数"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "分数 (1/2) 替换为分数字符 (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "法国"
+
+msgid "French (France)"
+msgstr "法语（法国）"
+
+msgid "From Bottom Left Corner"
+msgstr "从左下角"
+
+msgid "From Bottom Right Corner"
+msgstr "从右下角"
+
+msgid "From Center"
+msgstr "从中心"
+
+msgid "From text:"
+msgstr "距正文："
+
+msgid "From Top Left Corner"
+msgstr "从左上角"
+
+msgid "From Top Right Corner"
+msgstr "从右上角"
+
+msgid "from Unicode (hex)"
+msgstr "来自 Unicode（十六进制）"
+
+msgid "From {name}"
+msgstr "来自 {name}"
+
+msgid "From:"
+msgstr "从："
+
+msgid "Full page of the same label"
+msgstr "同一标签的整页"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "全屏视图"
+
+msgid "Full\nScreen"
+msgstr "全屏"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "冷知识：空白页只是一份还没被告知内容的草稿。"
+
+msgid "Function"
+msgstr "函数"
+
+msgid "Galician"
+msgstr "加利西亚语"
+
+msgid "Gallery"
+msgstr "画廊"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "格鲁吉亚语"
+
+msgid "German (Germany)"
+msgstr "德语（德国）"
+
+msgid "Germany"
+msgstr "德国"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "获取语言包列表，然后获取此语言的语言包（如果有）。"
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "发光颜色"
+
+msgid "Go Back"
+msgstr "返回上次编辑位置"
+
+msgid "Go To"
+msgstr "定位"
+
+msgid "Go to"
+msgstr "转到"
+
+msgid "Go To (⌘⌥G)"
+msgstr "定位 (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "转到记录"
+
+msgid "Go to what:"
+msgstr "定位目标："
+
+msgid "Go To…"
+msgstr "定位…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "没了！就像从没写过一样。主要是因为现在确实没写过了。"
+
+msgid "Good afternoon"
+msgstr "下午好"
+
+msgid "Good evening"
+msgstr "晚上好"
+
+msgid "Good morning"
+msgstr "早上好"
+
+msgid "GOST (name sort)"
+msgstr ""
+
+msgid "GOST (title sort)"
+msgstr ""
+
+msgid "Grab bag"
+msgstr "随机展示"
+
+msgid "Gradient fill"
+msgstr "渐变填充"
+
+msgid "Gradient stops"
+msgstr "渐变光圈"
+
+msgid "Grammar built in"
+msgstr "已内置语法检查"
+
+msgid "Grave"
+msgstr ""
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "大于"
+
+msgid "Greater than or equal"
+msgstr "大于或等于"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Greek Letters"
+msgstr ""
+
+msgid "Green:"
+msgstr "绿色:"
+
+msgid "Greeting Line"
+msgstr "问候语"
+
+msgid "Greeting\nLine"
+msgstr "问候语"
+
+msgid "Grid Table 1 Light"
+msgstr ""
+
+msgid "Grid Table 4 – Blue"
+msgstr ""
+
+msgid "Grid Table 4 – Green"
+msgstr ""
+
+msgid "Grid Table 4 – Orange"
+msgstr ""
+
+msgid "Grid Table 4 – Purple"
+msgstr ""
+
+msgid "Gridlines"
+msgstr "网格线"
+
+msgid "Grouping Character Above"
+msgstr ""
+
+msgid "Grouping Character Below"
+msgstr ""
+
+msgid "Grow Font 1 Point"
+msgstr "字号增大 1 磅"
+
+msgid "Guatemala"
+msgstr "危地马拉"
+
+msgid "H:"
+msgstr "高："
+
+msgid "Hanging Indent"
+msgstr "悬挂缩进"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr ""
+
+msgid "Header"
+msgstr "页眉"
+
+msgid "Header & Footer"
+msgstr "页眉和页脚"
+
+msgid "Header Row"
+msgstr "标题行"
+
+msgid "Header row"
+msgstr "有标题行"
+
+msgid "Header/Footer Position"
+msgstr "页眉/页脚位置"
+
+msgid "Headers and footers"
+msgstr "页眉和页脚"
+
+msgid "Heading"
+msgstr ""
+
+msgid "Heading 1"
+msgstr "标题 1"
+
+msgid "Heading 2"
+msgstr "标题 2"
+
+msgid "Heading 3"
+msgstr "标题 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "标题样式（级别 1–{n}）"
+
+msgid "Heading text"
+msgstr ""
+
+msgid "Heading {n}"
+msgstr "标题 {n}"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid "Hex:"
+msgstr "十六进制:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "你好！我是 Nib，你的写作助手。我会提供提示、快捷键，偶尔还有你没问过的意见。要我留下来吗？"
+
+msgid "Hidden bookmarks"
+msgstr "隐藏书签"
+
+msgid "Hide Codes"
+msgstr "隐藏代码"
+
+msgid "Hide from style lists"
+msgstr "在样式列表中隐藏"
+
+msgid "Hide Ink"
+msgstr "隐藏墨迹"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "隐藏快速访问工具栏"
+
+msgid "Hide White Space"
+msgstr "隐藏空白"
+
+msgid "Hide\nInk"
+msgstr "隐藏\n墨迹"
+
+msgid "Hierarchy"
+msgstr "层次结构"
+
+msgid "Highlight"
+msgstr "突出显示"
+
+msgid "Highlight Merge Fields"
+msgstr "突出显示合并域"
+
+msgid "Highlight\nMerge Fields"
+msgstr "突出显示合并域"
+
+msgid "Highlighter"
+msgstr "荧光笔"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "主文件夹"
+
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+msgid "Hong Kong SAR"
+msgstr "中国香港特别行政区"
+
+msgid "Horizontal Line"
+msgstr "横线"
+
+msgid "How many pages the whole document has"
+msgstr "文档的页数"
+
+msgid "How many pages this section has"
+msgstr "本节的页数"
+
+msgid "How many words the document holds"
+msgstr "文档的字数"
+
+msgid "HTML Format"
+msgstr "HTML 格式"
+
+msgid "Hue:"
+msgstr "色调:"
+
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "此文件夹中的 Hunspell .aff 和 .dic 文件 (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) 优先于系统中的文件。"
+
+msgid "Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Hyperbolic Functions"
+msgstr ""
+
+msgid "Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Hyperlink"
+msgstr ""
+
+msgid "Hyphenate at:"
+msgstr "断字位置："
+
+msgid "Hyphenate words in CAPS"
+msgstr "大写单词断字"
+
+msgid "Hyphenation Options…"
+msgstr "断字选项…"
+
+msgid "Hyphenation zone:"
+msgstr "断字区："
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "连字符 (--) 替换为破折号 (—)"
+
+msgid "Hypotenuse"
+msgstr ""
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "我保证已经保存了。我检查过了。两次。"
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "我也想自己写点什么，可惜我是支没墨水的笔。"
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "冰岛语"
+
+msgid "Icon Color"
+msgstr "图标颜色"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "Identity Matrices"
+msgstr ""
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "如果…则…否则"
+
+msgid "If…Then…Else…"
+msgstr "如果…则…否则…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "忽略标点符号"
+
+msgid "Ignore web and file addresses"
+msgstr "忽略网址和文件路径"
+
+msgid "Ignore white-space characters"
+msgstr "忽略空白字符"
+
+msgid "Ignore words in capitals"
+msgstr "忽略全部大写的单词"
+
+msgid "Ignore words with numbers"
+msgstr "忽略包含数字的单词"
+
+msgid "Illustrations"
+msgstr "插图"
+
+msgid "Immersive"
+msgstr "沉浸式"
+
+msgid "Immersive Reader"
+msgstr "沉浸式阅读器"
+
+msgid "Immersive\nReader"
+msgstr "沉浸式阅读器"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "请在“默认应用”中，为希望由 WordCraft 打开的文档类型选择 WordCraft。"
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "在公式中，在反斜杠后键入名称会将其替换为相应符号。"
+
+msgid "In Front of Text"
+msgstr "浮于文字上方"
+
+msgid "In Line with Text"
+msgstr "与文字同行"
+
+msgid "In margin"
+msgstr "悬挂"
+
+msgid "In the margin"
+msgstr "在页边"
+
+msgid "Include label and number"
+msgstr "包含标签和编号"
+
+msgid "Include level number from:"
+msgstr "包含的级别编号来自："
+
+msgid "Include page numbers"
+msgstr "包含页码"
+
+msgid "Increase Indent"
+msgstr "增加缩进量"
+
+msgid "Indent"
+msgstr "缩进"
+
+msgid "Indent from left:"
+msgstr "左缩进："
+
+msgid "Indentation"
+msgstr "缩进"
+
+msgid "Indented"
+msgstr "缩进式"
+
+msgid "Indents"
+msgstr "缩进"
+
+msgid "Indents and Spacing"
+msgstr "缩进和间距"
+
+msgid "Index and Tables"
+msgstr "索引和目录"
+
+msgid "Index Heading"
+msgstr ""
+
+msgid "Index {n}"
+msgstr ""
+
+msgid "India"
+msgstr "印度"
+
+msgid "Indonesian"
+msgstr "印度尼西亚语"
+
+msgid "Initial column width:"
+msgstr "初始列宽："
+
+msgid "Initials:"
+msgstr "缩写："
+
+msgid "Ink"
+msgstr "墨迹"
+
+msgid "Ink Replay"
+msgstr "墨迹重播"
+
+msgid "Ink to Shape"
+msgstr "墨迹转形状"
+
+msgid "Ink to\nMath"
+msgstr "墨迹转公式"
+
+msgid "Ink to\nShape"
+msgstr "墨迹转形状"
+
+msgid "Ink\nReplay"
+msgstr "墨迹重播"
+
+msgid "Inline"
+msgstr "行内"
+
+msgid "Input Format"
+msgstr "输入格式"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "插入新公式 (Alt+=)"
+
+msgid "Insert Above"
+msgstr "在上方插入"
+
+msgid "Insert Below"
+msgstr "在下方插入"
+
+msgid "Insert Caption"
+msgstr "插入题注"
+
+msgid "Insert Caption…"
+msgstr "插入题注…"
+
+msgid "Insert Chart"
+msgstr "插入图表"
+
+msgid "Insert Citation"
+msgstr "插入引文"
+
+msgid "Insert Columns to the Left"
+msgstr "在左侧插入列"
+
+msgid "Insert Columns to the Right"
+msgstr "在右侧插入列"
+
+msgid "Insert Date Field"
+msgstr "插入日期域"
+
+msgid "Insert Diagram"
+msgstr "插入图示"
+
+msgid "Insert Endnote"
+msgstr "插入尾注"
+
+msgid "Insert Footnote"
+msgstr "插入脚注"
+
+msgid "Insert Hyperlink"
+msgstr "插入超链接"
+
+msgid "Insert Index"
+msgstr "插入索引"
+
+msgid "Insert Left"
+msgstr "在左侧插入"
+
+msgid "Insert Merge Field"
+msgstr "插入合并域"
+
+msgid "Insert Merge\nField"
+msgstr "插入合并域"
+
+msgid "Insert New Equation"
+msgstr "插入新公式"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "根据域的值插入不同的文本。"
+
+msgid "Insert Page Field"
+msgstr "插入页码域"
+
+msgid "Insert reference to:"
+msgstr ""
+
+msgid "Insert Right"
+msgstr "在右侧插入"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "单击插入行或列"
+
+msgid "Insert Rows Above"
+msgstr "在上方插入行"
+
+msgid "Insert Rows Below"
+msgstr "在下方插入行"
+
+msgid "Insert Shapes"
+msgstr "插入形状"
+
+msgid "Insert SmartArt"
+msgstr "插入 SmartArt"
+
+msgid "Insert Spike"
+msgstr "插入图文场"
+
+msgid "Insert Structure"
+msgstr "插入结构"
+
+msgid "Insert Symbol"
+msgstr "插入符号"
+
+msgid "Insert Table"
+msgstr "插入表格"
+
+msgid "Insert Table of Authorities"
+msgstr "插入引文目录"
+
+msgid "Insert Table of Figures"
+msgstr "插入表目录"
+
+msgid "Insert Table…"
+msgstr "插入表格…"
+
+msgid "Insert Time Field"
+msgstr "插入时间域"
+
+msgid "Insert\nAbove"
+msgstr "在上方插入"
+
+msgid "Insert\nCaption"
+msgstr "插入题注"
+
+msgid "Insert\nCitation"
+msgstr "插入引文"
+
+msgid "Insert\nFootnote"
+msgstr "插入脚注"
+
+msgid "Insertions and Deletions"
+msgstr "插入和删除"
+
+msgid "Insertions:"
+msgstr "插入内容："
+
+msgid "Inside Borders"
+msgstr "内部框线"
+
+msgid "Inside Horizontal Border"
+msgstr "内部横框线"
+
+msgid "Inside Vertical Border"
+msgstr "内部竖框线"
+
+msgid "Inside:"
+msgstr "内侧："
+
+msgid "Inspect Styles at Selection"
+msgstr "检查所选内容的样式"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "安装拼写检查（{size}）"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "机构"
+
+msgid "Integral"
+msgstr "积分"
+
+msgid "Integral of e^(−x²)"
+msgstr ""
+
+msgid "Integral with Limits"
+msgstr ""
+
+msgid "Integral with Stacked Limits"
+msgstr ""
+
+msgid "Integrals"
+msgstr ""
+
+msgid "Intense Emphasis"
+msgstr ""
+
+msgid "Intense Quote"
+msgstr ""
+
+msgid "Intense Reference"
+msgstr ""
+
+msgid "Interface language:"
+msgstr "界面语言："
+
+msgid "Interface size:"
+msgstr "界面大小："
+
+msgid "Interface theme:"
+msgstr "界面主题："
+
+msgid "Interface\nTheme"
+msgstr "界面主题"
+
+msgid "Internet addresses as links"
+msgstr "Internet 地址替换为链接"
+
+msgid "Intersection with Limits"
+msgstr ""
+
+msgid "Intersection with Lower Limit"
+msgstr ""
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr ""
+
+msgid "Inverse Cosine Function"
+msgstr ""
+
+msgid "Inverse Cotangent Function"
+msgstr ""
+
+msgid "Inverse Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Inverse Secant Function"
+msgstr ""
+
+msgid "Inverse Sine Function"
+msgstr ""
+
+msgid "Inverse Tangent Function"
+msgstr ""
+
+msgid "Ionosphere"
+msgstr "电离层"
+
+msgid "Iraq"
+msgstr "伊拉克"
+
+msgid "Ireland"
+msgstr "爱尔兰"
+
+msgid "Irish"
+msgstr "爱尔兰语"
+
+msgid "Is blank"
+msgstr "为空"
+
+msgid "Is not blank"
+msgstr "不为空"
+
+msgid "ISO 690 (author-date)"
+msgstr ""
+
+msgid "ISO 690 (numerical)"
+msgstr ""
+
+msgid "Issue"
+msgstr "期号"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "看起来你在写信。要为它准备一个信封，还是从信函模板开始？"
+
+msgid "Italy"
+msgstr "意大利"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "无法读取其词典：{reason}"
+
+msgid "Jamaica"
+msgstr "牙买加"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "加入 Discord 上的 ArtCraft 社区"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "在 Discord 上加入我们：discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "约旦"
+
+msgid "Journal"
+msgstr "期刊"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr ""
+
+msgid "Justified"
+msgstr "两端对齐"
+
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+msgid "Keep Lines Together"
+msgstr "段中不分页"
+
+msgid "Keep lines together"
+msgstr "段中不分页"
+
+msgid "Keep me around"
+msgstr "留下来吧"
+
+msgid "Keep Text Only"
+msgstr "只保留文本"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "请妥善保管密码：没有密码，任何人（包括 WordCraft）都无法打开文档。两个框都留空可删除密码。"
+
+msgid "Keep with Next"
+msgstr "与下段同页"
+
+msgid "Keep with next"
+msgstr "与下段同页"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "保留所复制文本的字体和格式。"
+
+msgid "Kerning for fonts:"
+msgstr "为字体调整字间距："
+
+msgid "Keyboard shortcuts:"
+msgstr "键盘快捷方式："
+
+msgid "Keys for this command:"
+msgstr "此命令的按键："
+
+msgid "Kuwait"
+msgstr "科威特"
+
+msgid "Label changes with:"
+msgstr "修订者标记:"
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "语言首选项…"
+
+msgid "Large\nOperator"
+msgstr "大型\n运算符"
+
+msgid "Largest Only"
+msgstr "仅较宽一侧"
+
+msgid "Lasso Select"
+msgstr "套索选择"
+
+msgid "Last Column"
+msgstr "最后一列"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Last Record"
+msgstr "最后一条记录"
+
+msgid "Last, First; Last, First"
+msgstr "姓, 名; 姓, 名"
+
+msgid "Latin text font:"
+msgstr "拉丁文字字体："
+
+msgid "Latvian"
+msgstr "拉脱维亚语"
+
+msgid "Layout Summary"
+msgstr "布局摘要"
+
+msgid "Layouts"
+msgstr "布局"
+
+msgid "Leader"
+msgstr "前导符"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "当某个域为此值时，在合并中跳过该收件人。"
+
+msgid "Leave Equation"
+msgstr "退出公式"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "保存时不包含批注和修订的日期与时间"
+
+msgid "Leave the equation (Esc)"
+msgstr "退出公式 (Esc)"
+
+msgid "leave the equation first"
+msgstr "请先退出公式"
+
+msgid "Leave the label out of the caption"
+msgstr "题注中不含标签"
+
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+msgid "Left Arrow with Text Above"
+msgstr ""
+
+msgid "Left Arrow with Text Below"
+msgstr ""
+
+msgid "Left Border"
+msgstr "左框线"
+
+msgid "Left border"
+msgstr "左框线"
+
+msgid "Left Bracket Twice"
+msgstr ""
+
+msgid "Left indent"
+msgstr "左缩进"
+
+msgid "Left Margin"
+msgstr "左边距"
+
+msgid "Left Only"
+msgstr "仅左侧"
+
+msgid "Left Right Arrow Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Left Subscript-Superscript"
+msgstr ""
+
+msgid "Left-to-right"
+msgstr "从左向右"
+
+msgid "Left-to-Right Text Direction"
+msgstr "从左向右文字方向"
+
+msgid "Leftwards Arrow Above"
+msgstr ""
+
+msgid "Leftwards Harpoon Above"
+msgstr ""
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "正规形式编号"
+
+msgid "Legend"
+msgstr "图例"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "小于"
+
+msgid "Less than or equal"
+msgstr "小于或等于"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "字母标题"
+
+msgid "Letter template"
+msgstr "信函模板"
+
+msgid "Letter-Like Symbols"
+msgstr ""
+
+msgid "Letters"
+msgstr "信函"
+
+msgid "Level 5"
+msgstr ""
+
+msgid "Level 6"
+msgstr ""
+
+msgid "Level 7"
+msgstr ""
+
+msgid "Level 8"
+msgstr ""
+
+msgid "Level 9"
+msgstr ""
+
+msgid "Level {n}"
+msgstr "{n} 级"
+
+msgid "Levels:"
+msgstr "级别："
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+msgid "Light Variations"
+msgstr "浅色变体"
+
+msgid "Light with Outline"
+msgstr "浅色带轮廓"
+
+msgid "Limit"
+msgstr ""
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "极限和\n对数"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "连续断字数限制："
+
+msgid "Limit Example"
+msgstr ""
+
+msgid "Limit formatting to a selection of styles"
+msgstr "将格式限制为所选样式"
+
+msgid "Line and Page Breaks"
+msgstr "换行和分页"
+
+msgid "Line and Paragraph Spacing"
+msgstr "行和段落间距"
+
+msgid "Line between"
+msgstr "分隔线"
+
+msgid "Line Break"
+msgstr "换行符"
+
+msgid "Line breaking"
+msgstr "断行"
+
+msgid "Line End"
+msgstr "行尾"
+
+msgid "Line Number"
+msgstr ""
+
+msgid "Line Numbering Options…"
+msgstr "行号选项…"
+
+msgid "Line Numbers"
+msgstr "行号"
+
+msgid "Line Spacing"
+msgstr "行距"
+
+msgid "Line Spacing Options…"
+msgstr "行距选项…"
+
+msgid "Line spacing:"
+msgstr "行距："
+
+msgid "Line Start"
+msgstr "行首"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "线性对角 - 左下到右上"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "线性对角 - 右下到左上"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "线性对角 - 左上到右下"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "线性对角 - 右上到左下"
+
+msgid "Linear Down"
+msgstr "线性 向下"
+
+msgid "Linear Fraction"
+msgstr ""
+
+msgid "Linear Left"
+msgstr "线性 向左"
+
+msgid "Linear Right"
+msgstr "线性 向右"
+
+msgid "Linear Up"
+msgstr "线性 向上"
+
+msgid "Lines and characters"
+msgstr "行和字符"
+
+msgid "Lines only"
+msgstr "仅行"
+
+msgid "Lines per page:"
+msgstr "每页行数："
+
+msgid "Lines to drop:"
+msgstr "下沉行数："
+
+msgid "Link entries to their headings"
+msgstr "将条目链接到标题"
+
+msgid "Link level to style:"
+msgstr "将级别链接到样式："
+
+msgid "Link to Previous"
+msgstr "链接到前一节"
+
+msgid "Link to:"
+msgstr "链接到:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "链接样式（段落和字符）"
+
+msgid "Links and References"
+msgstr "链接和引用"
+
+msgid "Link…"
+msgstr "链接…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "列表定义"
+
+msgid "List entries"
+msgstr "列表项"
+
+msgid "List Paragraph"
+msgstr ""
+
+msgid "List Table 3 – Blue"
+msgstr ""
+
+msgid "List Table 3 – Green"
+msgstr ""
+
+msgid "List Table 3 – Orange"
+msgstr ""
+
+msgid "List Table 3 – Purple"
+msgstr ""
+
+msgid "Lit from Bottom"
+msgstr "底部照亮"
+
+msgid "Lit from Top"
+msgstr "顶部照亮"
+
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+msgid "Load System Installed Fonts…"
+msgstr "加载系统已安装字体…"
+
+msgid "Loaded {count} system fonts."
+msgstr "已加载 {count} 个系统字体。"
+
+msgid "Local font access is not supported by your browser."
+msgstr "您的浏览器不支持访问本地字体。"
+
+msgid "Local font access was denied."
+msgstr "本地字体访问被拒绝。"
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "位置：{path}"
+
+msgid "Lock aspect ratio"
+msgstr "锁定纵横比"
+
+msgid "Lock Fields"
+msgstr "锁定域"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr ""
+
+msgid "Logarithm with Base"
+msgstr ""
+
+msgid "Logical AND"
+msgstr ""
+
+msgid "Logical AND with Limits"
+msgstr ""
+
+msgid "Logical OR"
+msgstr ""
+
+msgid "Logical OR with Limits"
+msgstr ""
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum：因为真正的文字还在路上。"
+
+msgid "Lum:"
+msgstr "亮度:"
+
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+msgid "Macao SAR"
+msgstr "中国澳门特别行政区"
+
+msgid "Macedonian"
+msgstr "马其顿语"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "宏"
+
+msgid "Made from the author and year when empty"
+msgstr "留空时由作者和年份生成"
+
+msgid "Magazine or newspaper article"
+msgstr "杂志或报纸文章"
+
+msgid "Mail Merge"
+msgstr "邮件合并"
+
+msgid "Mailings"
+msgstr "邮件"
+
+msgid "Main entry:"
+msgstr "主索引项："
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "将 WordCraft 设为 Word 文档的默认应用…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "放大或缩小功能区、菜单和对话框。“自动”跟随系统的显示缩放；100% 为每点一个屏幕像素。文档缩放单独设置。"
+
+msgid "Malaysia"
+msgstr "马来西亚"
+
+msgid "Manage Sources"
+msgstr "管理源"
+
+msgid "Manage Styles"
+msgstr "管理样式"
+
+msgid "Manage Styles…"
+msgstr "管理样式…"
+
+msgid "Manual Hyphenation"
+msgstr "手动断字"
+
+msgid "Manual hyphenation is complete."
+msgstr "手动断字已完成。"
+
+msgid "Manual Line Break"
+msgstr "手动换行符"
+
+msgid "Manual Page Break"
+msgstr "手动分页符"
+
+msgid "Manual…"
+msgstr "手动…"
+
+msgid "Many pages"
+msgstr "多页"
+
+msgid "Mark"
+msgstr "标记"
+
+msgid "Mark All"
+msgstr "全部标记"
+
+msgid "Mark as decorative"
+msgstr "标记为装饰性"
+
+msgid "Mark Citation"
+msgstr "标记引文"
+
+msgid "Mark Entry"
+msgstr "标记条目"
+
+msgid "Mark Entry…"
+msgstr "标记条目…"
+
+msgid "Mark grammar errors as you type"
+msgstr "键入时标记语法错误"
+
+msgid "Mark Index Entry"
+msgstr "标记索引项"
+
+msgid "Mark selected text as:"
+msgstr "将所选文字标记为："
+
+msgid "Mark\nCitation"
+msgstr "标记引文"
+
+msgid "Mark\nEntry"
+msgstr "标记条目"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "区分大小写"
+
+msgid "Match Fields"
+msgstr "匹配域"
+
+msgid "Match prefix"
+msgstr "匹配前缀"
+
+msgid "Match suffix"
+msgstr "匹配后缀"
+
+msgid "Matches: {count}"
+msgstr "匹配项：{count}"
+
+msgid "Math AutoCorrect"
+msgstr "数学符号自动更正"
+
+msgid "Matrices with Brackets"
+msgstr ""
+
+msgid "Matrix"
+msgstr "矩阵"
+
+msgid "Maximum Example"
+msgstr ""
+
+msgid "Measured By"
+msgstr ""
+
+msgid "Measurement units:"
+msgstr "度量单位："
+
+msgid "Merge cells before split"
+msgstr "拆分前合并单元格"
+
+msgid "Merge Formatting"
+msgstr "合并格式"
+
+msgid "Merge Record #"
+msgstr "合并记录编号"
+
+msgid "Mesosphere"
+msgstr "中间层"
+
+msgid "Mexico"
+msgstr "墨西哥"
+
+msgid "Midline Dots"
+msgstr ""
+
+msgid "Minus Equal"
+msgstr ""
+
+msgid "Mirror indents"
+msgstr "对称缩进"
+
+msgid "Mirror margins"
+msgstr "对称页边距"
+
+msgid "Mirrored"
+msgstr "对称"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0。版权所有 (c) 2026 ArtCraft 团队及 WordCraft 贡献者。"
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr "毫米"
+
+msgid "Moderate"
+msgstr "适中"
+
+msgid "Modify Style"
+msgstr "修改样式"
+
+msgid "Modify Table Style"
+msgstr "修改表格样式"
+
+msgid "Modify Table Style…"
+msgstr "修改表格样式…"
+
+msgid "Modify…"
+msgstr "修改…"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Monaco"
+msgstr "摩纳哥"
+
+msgid "Montenegro"
+msgstr "黑山"
+
+msgid "Month"
+msgstr "月"
+
+msgid "More >>"
+msgstr "更多 >>"
+
+msgid "More Colors…"
+msgstr "其他颜色…"
+
+msgid "More Columns…"
+msgstr "更多栏…"
+
+msgid "More Commands…"
+msgstr "其他命令…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "其他渐变…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "其他纸张大小…"
+
+msgid "More Symbols…"
+msgstr "其他符号…"
+
+msgid "More tabs"
+msgstr "更多选项卡"
+
+msgid "More templates →"
+msgstr "更多模板 →"
+
+msgid "More Underlines…"
+msgstr "其他下划线…"
+
+msgid "Morocco"
+msgstr "摩洛哥"
+
+msgid "Move in Equation"
+msgstr "在公式中移动"
+
+msgid "Move or Resize"
+msgstr "移动或调整大小"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "下移段落"
+
+msgid "Move Paragraph Up"
+msgstr "上移段落"
+
+msgid "Move Past Citation"
+msgstr "移到引文之后"
+
+msgid "Move Past\nCitation"
+msgstr "移到\n引文之后"
+
+msgid "Move Selected Ink"
+msgstr "移动所选墨迹"
+
+msgid "Move Table by Dragging"
+msgstr "拖动移动表格"
+
+msgid "Move with Text"
+msgstr "随文字移动"
+
+msgid "Moved from"
+msgstr "移动自"
+
+msgid "Moved from:"
+msgstr "移动自:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "移动的对象会吸附到页面的边缘和中心、页边距以及其他对象。按住 Alt 可自由移动。"
+
+msgid "Moved to"
+msgstr "移动到"
+
+msgid "Moved to:"
+msgstr "移动到:"
+
+msgid "Moves"
+msgstr "移动"
+
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+msgid "Multilevel List"
+msgstr "多级列表"
+
+msgid "Multilevel List Library"
+msgstr "多级列表库"
+
+msgid "Multiple Pages"
+msgstr "多页"
+
+msgid "Mute agent messages"
+msgstr "静音代理消息"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "列表包含"
+
+msgid "Name of the file this document is saved as"
+msgstr "文档的文件名"
+
+msgid "Narrow"
+msgstr "窄"
+
+msgid "Narrow  {size} all"
+msgstr "窄  四周 {size}"
+
+msgid "Natural Logarithm"
+msgstr ""
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Navigation Pane"
+msgstr "导航窗格"
+
+msgid "Negated Relations"
+msgstr ""
+
+msgid "Netherlands"
+msgstr "荷兰"
+
+msgid "New blank documents are written in this language"
+msgstr "新的空白文档将使用此语言书写"
+
+msgid "New Comment"
+msgstr "新建批注"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "新批注和修订将以此名称和缩写记录。"
+
+msgid "New Documents Based on This Template"
+msgstr "基于此模板的新文档"
+
+msgid "New documents based on this template"
+msgstr "基于此模板的新文档"
+
+msgid "New documents will use this font."
+msgstr "新文档将使用此字体。"
+
+msgid "New documents will use this page setup."
+msgstr "新文档将使用此页面设置。"
+
+msgid "New documents will use this paragraph formatting."
+msgstr "新文档将使用此段落格式。"
+
+msgid "New documents will use this style."
+msgstr "新文档将使用此样式。"
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "新文档将使用 WordCraft 的内置格式。"
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "新文档将使用 WordCraft 的内置格式。已保存的默认设置无法恢复。是否重置？"
+
+msgid "New Drawing Canvas"
+msgstr "新建绘图画布"
+
+msgid "New Entry"
+msgstr "新建条目"
+
+msgid "New Label"
+msgstr "新建标签"
+
+msgid "New Label…"
+msgstr "新建标签…"
+
+msgid "New Paragraph"
+msgstr "新段落"
+
+msgid "New shortcut:"
+msgstr "新快捷键："
+
+msgid "New Tab"
+msgstr "新建选项卡"
+
+msgid "New Table Style"
+msgstr "新建表格样式"
+
+msgid "New Table Style…"
+msgstr "新建表格样式…"
+
+msgid "New word"
+msgstr "新单词"
+
+msgid "New Zealand"
+msgstr "新西兰"
+
+msgid "New\nComment"
+msgstr "新建批注"
+
+msgid "New\nWindow"
+msgstr "新建窗口"
+
+msgid "Next Comment"
+msgstr "下一条批注"
+
+msgid "Next Field"
+msgstr "下一个域"
+
+msgid "Next Footnote"
+msgstr "下一条脚注"
+
+msgid "Next Record"
+msgstr "下一记录"
+
+msgid "Next Section"
+msgstr "下一节"
+
+msgid "Next Sentence"
+msgstr "下一句"
+
+msgid "Next sentence"
+msgstr "下一句"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib 悬浮在窗口上方，提供提示，偶尔也发表点意见。"
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "你的助手 Nib。拖动可移动；右键单击打开选项。"
+
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+msgid "No accessibility issues found."
+msgstr "未发现辅助功能问题。"
+
+msgid "No Border"
+msgstr "无框线"
+
+msgid "No changes (read only)"
+msgstr "不允许任何更改(只读)"
+
+msgid "No contributor data was built into this copy."
+msgstr "此版本未内置贡献者数据。"
+
+msgid "No document is open. Create a document or open one first."
+msgstr "没有打开的文档。请先新建或打开一个文档。"
+
+msgid "no equation at the caret"
+msgstr "光标处没有公式"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "未发现错误：所有合并域都在收件人列表中。"
+
+msgid "No Fill"
+msgstr "无填充"
+
+msgid "No fill"
+msgstr "无填充"
+
+msgid "No Glow"
+msgstr "无发光"
+
+msgid "No Gradient"
+msgstr "无渐变"
+
+msgid "No grid"
+msgstr "无网格"
+
+msgid "No header row"
+msgstr "无标题行"
+
+msgid "No icons match your search."
+msgstr "没有与搜索匹配的图标。"
+
+msgid "No items to show."
+msgstr ""
+
+msgid "No language matches your search."
+msgstr "没有与搜索匹配的语言。"
+
+msgid "No languages to show yet."
+msgstr "暂无可显示的语言。"
+
+msgid "No Markup"
+msgstr "无标记"
+
+msgid "No model credits were built into this copy."
+msgstr "此版本未内置模型致谢信息。"
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "无轮廓"
+
+msgid "No Paragraph Space"
+msgstr "无段落间距"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "未找到打印机。请在系统中配置打印机或导出 PDF。"
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "无映像"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "无阴影"
+
+msgid "No Soft Edges"
+msgstr "无柔化边缘"
+
+msgid "No sources yet."
+msgstr "尚无源。"
+
+msgid "No Spacing"
+msgstr ""
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "未安装{language}的拼写词典，因此不会检查该语言。WordCraft 会在 WORDCRAFT_DICTIONARIES 文件夹和常见的系统位置查找 Hunspell 词典 {name}。"
+
+msgid "No templates match your search."
+msgstr "没有与搜索匹配的模板。"
+
+msgid "No Transform"
+msgstr "无转换"
+
+msgid "No watermark"
+msgstr "无水印"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "还没有单词。对拼写错误的单词选择“添加到词典”会将其放在这里。"
+
+msgid "No-Width Non Break"
+msgstr "无宽非分隔符"
+
+msgid "No-Width Optional Break"
+msgstr "无宽可选分隔符"
+
+msgid "Nonbreaking Hyphen"
+msgstr "不间断连字符"
+
+msgid "Normal  {size} all"
+msgstr "常规  四周 {size}"
+
+msgid "Normal Indent"
+msgstr ""
+
+msgid "Normal probability density"
+msgstr ""
+
+msgid "Normal speed"
+msgstr "正常速度"
+
+msgid "Normal Style"
+msgstr "正文样式"
+
+msgid "Normal Table"
+msgstr ""
+
+msgid "Normal Text"
+msgstr "普通文本"
+
+msgid "Normal Word Document"
+msgstr "普通文档"
+
+msgid "North"
+msgstr "北区"
+
+msgid "Norwegian (Bokmål)"
+msgstr "挪威语（书面挪威语）"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "挪威语（新挪威语）"
+
+msgid "Not"
+msgstr "非"
+
+msgid "Not available right now"
+msgstr "当前不可用"
+
+msgid "Not available yet"
+msgstr "暂不可用"
+
+msgid "not editing an equation"
+msgstr "未在编辑公式"
+
+msgid "Not equal to"
+msgstr "不等于"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "未链接：请单击文本框"
+
+msgid "Not now"
+msgstr "以后再说"
+
+msgid "Not saved"
+msgstr "未保存"
+
+msgid "Not saved yet"
+msgstr "尚未保存"
+
+msgid "Not set"
+msgstr "未设置"
+
+msgid "Not set: the system's usual places"
+msgstr "未设置：系统的常用位置"
+
+msgid "Not used by any command"
+msgstr "未被任何命令使用"
+
+msgid "Not {name}"
+msgstr "非{name}"
+
+msgid "Nothing"
+msgstr "无"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "尚无内容。复制或剪切的项目会显示在这里。"
+
+msgid "nothing is selected"
+msgstr "未选择任何内容"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "当前由 {command} 使用"
+
+msgid "Nudge"
+msgstr "微移"
+
+msgid "Num Occurrences"
+msgstr "出现次数"
+
+msgid "Number alignment:"
+msgstr "编号对齐方式："
+
+msgid "Number format"
+msgstr "编号格式"
+
+msgid "Number of columns:"
+msgstr "列数："
+
+msgid "Number of rows:"
+msgstr "行数："
+
+msgid "Number of the page the field sits on"
+msgstr "当前页码"
+
+msgid "Number of the section the field sits in"
+msgstr "当前节号"
+
+msgid "Number only, without the label's words"
+msgstr "只要编号，不要标签中的文字"
+
+msgid "Number style for this level:"
+msgstr "此级别的编号样式："
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr ""
+
+msgid "Numbering"
+msgstr "编号"
+
+msgid "Numbering:"
+msgstr "编号："
+
+msgid "Numbering…"
+msgstr "编号…"
+
+msgid "Numerals"
+msgstr "数字"
+
+msgid "Numerals:"
+msgstr "数字："
+
+msgid "n×n Identity Matrix"
+msgstr ""
+
+msgid "n×n Matrix"
+msgstr ""
+
+msgid "Odd Banded Columns"
+msgstr "奇数镶边列"
+
+msgid "Odd Banded Rows"
+msgstr "奇数镶边行"
+
+msgid "Odd Page"
+msgstr "奇数页"
+
+msgid "Office"
+msgstr "办公"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 默认设置"
+
+msgid "Offset (pt):"
+msgstr "偏移量（磅）："
+
+msgid "Offset: Bottom"
+msgstr "偏移：下"
+
+msgid "Offset: Bottom Left"
+msgstr "偏移：左下"
+
+msgid "Offset: Bottom Right"
+msgstr "偏移：右下"
+
+msgid "Offset: Center"
+msgstr "偏移：居中"
+
+msgid "Offset: Left"
+msgstr "偏移：左"
+
+msgid "Offset: Right"
+msgstr "偏移：右"
+
+msgid "Offset: Top"
+msgstr "偏移：上"
+
+msgid "Offset: Top Left"
+msgstr "偏移：左上"
+
+msgid "Offset: Top Right"
+msgstr "偏移：右上"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "旧菜单键: Alt, {keys}。继续输入，或按 Esc 取消。"
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "开启：输入或使用方向键时，光标平滑移动到新位置，闪烁时淡入淡出。关闭：光标直接跳转，闪烁时直接显示和隐藏。"
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "开：WordCraft 打开时显示“文件 › 开始”，其中有空白文档、模板和最近使用的文档。关：直接打开空白文档。"
+
+msgid "One"
+msgstr "一栏"
+
+msgid "One half"
+msgstr ""
+
+msgid "One label per recipient"
+msgstr "每位收件人一个标签"
+
+msgid "One line per item. Enter adds an item."
+msgstr "每个项目一行。按 Enter 添加项目。"
+
+msgid "One Page"
+msgstr "单页"
+
+msgid "One-sided"
+msgstr "单面"
+
+msgid "Only allow this kind of editing:"
+msgstr "仅允许此类编辑:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "只能添加批注，标记为可编辑的区域除外。"
+
+msgid "Only for the selected text"
+msgstr "仅针对所选文字"
+
+msgid "Only form fields can be filled in."
+msgstr "只能填写窗体域。"
+
+msgid "only in Outline view"
+msgstr "仅在大纲视图中可用"
+
+msgid "Only in this document"
+msgstr "仅在此文档中"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "只能应用允许的样式。"
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "只能打开网页（http、https）和电子邮件（mailto）链接"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "请先打开文档"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "当系统文件对话框没有出现时，使用 WordCraft 自带的浏览器打开文件。"
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument 文本 (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "正在打开打印对话框…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "今后用 WordCraft 打开 .docx、.doc、.rtf、.odt 文件和 Word 模板。"
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "打开“设置 › 默认应用”，在其中为 .docx 及其他文档类型选择 WordCraft。"
+
+msgid "Operator"
+msgstr "运算符"
+
+msgid "Operator Structures"
+msgstr ""
+
+msgid "Operators"
+msgstr ""
+
+msgid "Optional Hyphen"
+msgstr "可选连字符"
+
+msgid "Or"
+msgstr "或"
+
+msgid "Or save a copy in another format:"
+msgstr "或以其他格式保存副本："
+
+msgid "Ordinals (1st) as superscript"
+msgstr "序数 (1st) 替换为上标"
+
+msgid "Organizer"
+msgstr "管理器"
+
+msgid "Organizer…"
+msgstr "管理器…"
+
+msgid "Original document"
+msgstr "原文档"
+
+msgid "Original size"
+msgstr "原始大小"
+
+msgid "Other Large Operators"
+msgstr ""
+
+msgid "Other styles and their TOC level:"
+msgstr "其他样式及其目录级别："
+
+msgid "Other:"
+msgstr "其他字符："
+
+msgid "Otherwise insert:"
+msgstr "否则插入："
+
+msgid "Outline Level"
+msgstr "大纲级别"
+
+msgid "Outline level"
+msgstr "大纲级别"
+
+msgid "Outline levels"
+msgstr "大纲级别"
+
+msgid "Outline State"
+msgstr "大纲状态"
+
+msgid "Outline Tools"
+msgstr "大纲工具"
+
+msgid "Outlining"
+msgstr "大纲显示"
+
+msgid "Outside border"
+msgstr "外侧框线"
+
+msgid "Outside Borders"
+msgstr "外侧框线"
+
+msgid "Outside:"
+msgstr "外侧："
+
+msgid "Outward Brackets"
+msgstr ""
+
+msgid "Overbar"
+msgstr ""
+
+msgid "Overbars and Underbars"
+msgstr ""
+
+msgid "Overbrace"
+msgstr ""
+
+msgid "Overtype"
+msgstr "改写"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "改写（键入的内容替换插入点后的字符）"
+
+msgid "Page Background"
+msgstr "页面背景"
+
+msgid "Page Border"
+msgstr "页面边框线"
+
+msgid "Page Borders"
+msgstr "页面边框"
+
+msgid "Page Break"
+msgstr "分页符"
+
+msgid "Page Break Before"
+msgstr "段前分页"
+
+msgid "Page break before"
+msgstr "段前分页"
+
+msgid "Page Breaks"
+msgstr "分页符"
+
+msgid "Page Color"
+msgstr "页面颜色"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "页面显示"
+
+msgid "Page Down"
+msgstr "下一屏"
+
+msgid "Page image (*.png)"
+msgstr "页面图像 (*.png)"
+
+msgid "Page Movement"
+msgstr "翻页方式"
+
+msgid "Page Number"
+msgstr "页码"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "页码格式"
+
+msgid "Page number style"
+msgstr "页码样式"
+
+msgid "Page numbering"
+msgstr "页码编号"
+
+msgid "Page numbers at the right margin"
+msgstr "页码靠右边距"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "书签所在的页码"
+
+msgid "Page Setup"
+msgstr "页面设置"
+
+msgid "Page title"
+msgstr "页面标题"
+
+msgid "Page Up"
+msgstr "上一屏"
+
+msgid "Page Width"
+msgstr "页宽"
+
+msgid "Page width"
+msgstr "页宽"
+
+msgid "Page X of Y"
+msgstr "第 X 页，共 Y 页"
+
+msgid "Page {page}"
+msgstr "第 {page} 页"
+
+msgid "Page\nBorders"
+msgstr "页面边框"
+
+msgid "Page\nColor"
+msgstr "页面颜色"
+
+msgid "Page\nNumber"
+msgstr "页码"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "页码,如 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "书签所在页："
+
+msgid "Panama"
+msgstr "巴拿马"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "纸张大小："
+
+msgid "Paragraph Character"
+msgstr "段落符号"
+
+msgid "Paragraph Details"
+msgstr "段落详细信息"
+
+msgid "Paragraph Down"
+msgstr "下移一段"
+
+msgid "Paragraph Mark"
+msgstr "段落标记"
+
+msgid "Paragraph marks"
+msgstr "段落标记"
+
+msgid "Paragraph Settings"
+msgstr "段落设置"
+
+msgid "Paragraph Spacing"
+msgstr "段落间距"
+
+msgid "Paragraph style"
+msgstr "段落样式"
+
+msgid "Paragraph Up"
+msgstr "上移一段"
+
+msgid "Paragraphs"
+msgstr "段落数"
+
+msgid "Paragraph…"
+msgstr "段落…"
+
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+msgid "Parentheses"
+msgstr ""
+
+msgid "Parentheses with Separator"
+msgstr ""
+
+msgid "Partial Differential"
+msgstr ""
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Paste (⌘V)"
+msgstr "粘贴 (⌘V)"
+
+msgid "Paste All"
+msgstr "全部粘贴"
+
+msgid "Paste as:"
+msgstr "粘贴为："
+
+msgid "Paste Clipboard Item"
+msgstr "粘贴剪贴板项目"
+
+msgid "Paste Formatting"
+msgstr "粘贴格式"
+
+msgid "Paste function:"
+msgstr "粘贴函数："
+
+msgid "Paste Special…"
+msgstr "选择性粘贴…"
+
+msgid "Paste: Keep Text Only"
+msgstr "粘贴：只保留文本"
+
+msgid "Paste: Merge Formatting"
+msgstr "粘贴：合并格式"
+
+msgid "Pastes the clipboard's picture."
+msgstr "粘贴剪贴板中的图片。"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF 文档 (*.pdf)"
+
+msgid "Pens"
+msgstr "笔"
+
+msgid "People"
+msgstr "人物"
+
+msgid "Periodical"
+msgstr "期刊名"
+
+msgid "Persian"
+msgstr "波斯语"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid "Personal Templates"
+msgstr "个人模板"
+
+msgid "Personalize"
+msgstr "个性化"
+
+msgid "Peru"
+msgstr "秘鲁"
+
+msgid "Philippines"
+msgstr "菲律宾"
+
+msgid "Phonetic Guide"
+msgstr "拼音指南"
+
+msgid "pi"
+msgstr "派卡"
+
+msgid "Pi Over 2"
+msgstr ""
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "请选择一个自定义组（可用“新建组”创建）"
+
+msgid "Pick a field from the list"
+msgstr "请选择域"
+
+msgid "Picture"
+msgstr "图片"
+
+msgid "Picture Border"
+msgstr "图片边框"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "图片内容控件"
+
+msgid "Picture Format"
+msgstr "图片格式"
+
+msgid "Picture Styles"
+msgstr "图片样式"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "图片水印"
+
+msgid "Pictures"
+msgstr "图片"
+
+msgid "Pie"
+msgstr "饼图"
+
+msgid "Place in This Document"
+msgstr "本文档中的位置"
+
+msgid "Placeholder text"
+msgstr "占位符文本"
+
+msgid "Plain Table 1"
+msgstr ""
+
+msgid "Plain text (*.txt)"
+msgstr "纯文本 (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "纯文本内容控件"
+
+msgid "Play/Pause"
+msgstr "播放/暂停"
+
+msgid "Plus Equal"
+msgstr ""
+
+msgid "Points and above"
+msgstr "磅或更大"
+
+msgid "Polish"
+msgstr "波兰语"
+
+msgid "Portugal"
+msgstr "葡萄牙"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙语（巴西）"
+
+msgid "Portuguese (Portugal)"
+msgstr "葡萄牙语（葡萄牙）"
+
+msgid "Possible spelling mistake"
+msgstr "可能的拼写错误"
+
+msgid "Postal Code"
+msgstr "邮政编码"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr ""
+
+msgid "Preferred width:"
+msgstr "首选宽度："
+
+msgid "Preserve formatting during updates"
+msgstr "更新时保留格式"
+
+msgid "Preset gradients"
+msgstr "预设渐变"
+
+msgid "Press a key combination"
+msgstr "请按组合键"
+
+msgid "Preview Results"
+msgstr "预览结果"
+
+msgid "Preview\nResults"
+msgstr "预览结果"
+
+msgid "Previous 1 or More"
+msgstr "前一项 1 次或多次"
+
+msgid "Previous Comment"
+msgstr "上一条批注"
+
+msgid "Previous Field"
+msgstr "上一个域"
+
+msgid "Previous Record"
+msgstr "上一记录"
+
+msgid "Previous Section"
+msgstr "上一节"
+
+msgid "Previous Sentence"
+msgstr "上一句"
+
+msgid "Previous sentence"
+msgstr "上一句"
+
+msgid "Print Documents"
+msgstr "打印文档"
+
+msgid "Print Documents…"
+msgstr "打印文档…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "打印失败：打印工作线程已停止。"
+
+msgid "Print failed: {error}"
+msgstr "打印失败：{error}"
+
+msgid "Print job submitted."
+msgstr "打印作业已提交。"
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "打印作业已发送：已将 {count} 张纸送入后台处理"
+
+msgid "Print job submitted: {receipt}"
+msgstr "打印作业已提交：{receipt}"
+
+msgid "Print Layout"
+msgstr "页面视图"
+
+msgid "Print Markup"
+msgstr "打印标记"
+
+msgid "Print settings"
+msgstr "打印设置"
+
+msgid "Print the page color"
+msgstr "打印页面颜色"
+
+msgid "Print to PDF"
+msgstr "打印到 PDF"
+
+msgid "Print\nLayout"
+msgstr "页面视图"
+
+msgid "Printer default"
+msgstr "打印机默认值"
+
+msgid "Printer discovery failed."
+msgstr "查找打印机失败。"
+
+msgid "Privacy for this document"
+msgstr "此文档的隐私"
+
+msgid "Privacy Options"
+msgstr "隐私选项"
+
+msgid "Privacy Settings"
+msgstr "当前隐私设置"
+
+msgid "Process"
+msgstr "流程"
+
+msgid "Product"
+msgstr ""
+
+msgid "Product of A"
+msgstr ""
+
+msgid "Product with Limits"
+msgstr ""
+
+msgid "Product with Lower Limit"
+msgstr ""
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Products and Coproducts"
+msgstr ""
+
+msgid "Professional"
+msgstr "二维格式"
+
+msgid "Promote"
+msgstr "升级"
+
+msgid "Promote to Heading 1"
+msgstr "提升至标题 1"
+
+msgid "Proofing"
+msgstr "校对"
+
+msgid "Proofing Issues"
+msgstr "校对问题"
+
+msgid "Proofing language"
+msgstr "校对语言"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "保护文档"
+
+msgid "pt"
+msgstr "磅"
+
+msgid "Publisher"
+msgstr "出版商"
+
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+msgid "Put the caret in a content control first."
+msgstr "请先将光标放在内容控件中。"
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "恢复快速访问工具栏的默认命令？"
+
+msgid "Qatar"
+msgstr "卡塔尔"
+
+msgid "Quadratic Root"
+msgstr ""
+
+msgid "Quick Access Toolbar"
+msgstr "快速访问工具栏"
+
+msgid "Quick Parts"
+msgstr "文档部件"
+
+msgid "Quick Tables"
+msgstr "快速表格"
+
+msgid "Quote"
+msgstr ""
+
+msgid "Radical"
+msgstr "根式"
+
+msgid "Radical with Degree"
+msgstr ""
+
+msgid "Radicals"
+msgstr ""
+
+msgid "Raised/lowered"
+msgstr "提升/降低"
+
+msgid "Read Aloud"
+msgstr "朗读"
+
+msgid "Read Aloud Status"
+msgstr "朗读状态"
+
+msgid "Read Mode"
+msgstr "阅读视图"
+
+msgid "Read\nAloud"
+msgstr "朗读"
+
+msgid "Read\nMode"
+msgstr "阅读视图"
+
+msgid "Reading"
+msgstr "阅读"
+
+msgid "Reading Column Width"
+msgstr "阅读栏宽"
+
+msgid "Reading Highlight"
+msgstr "突出显示查找结果"
+
+msgid "Reading Line Spacing"
+msgstr "阅读行距"
+
+msgid "Reading Mode"
+msgstr "阅读模式"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "朗读速度"
+
+msgid "Reading Text Size"
+msgstr "阅读字号"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "读取剪贴板中的 RTF 内容并保留其格式。"
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "读取剪贴板中的网页内容并保留其格式。"
+
+msgid "Recent documents to show:"
+msgstr "显示的最近文档数："
+
+msgid "Recently Used Fonts"
+msgstr "最近使用的字体"
+
+msgid "Recently used symbols:"
+msgstr "近期使用过的符号："
+
+msgid "Recipient List"
+msgstr "收件人列表"
+
+msgid "Recipient lists"
+msgstr "收件人列表"
+
+msgid "Recipients: {count}"
+msgstr "收件人：{count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "为图标等单色图片重新着色"
+
+msgid "Recolor Selected Ink"
+msgstr "更改所选墨迹颜色"
+
+msgid "Record Macro"
+msgstr "录制宏"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "恢复未保存的文档"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "红色:"
+
+msgid "Reduce Hanging Indent"
+msgstr "减少悬挂缩进"
+
+msgid "Reference type:"
+msgstr ""
+
+msgid "References"
+msgstr "引用"
+
+msgid "Reflection"
+msgstr "映像"
+
+msgid "Refresh printers"
+msgstr "刷新打印机"
+
+msgid "Region:"
+msgstr "区域："
+
+msgid "Registered"
+msgstr "注册商标"
+
+msgid "Registered Sign"
+msgstr "注册商标符号"
+
+msgid "Regular expressions"
+msgstr "正则表达式"
+
+msgid "Reject"
+msgstr "拒绝"
+
+msgid "Reject All Changes"
+msgstr "拒绝所有修订"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "拒绝修订"
+
+msgid "Relationship"
+msgstr "关系"
+
+msgid "Relative to original picture size"
+msgstr "相对于原始图片大小"
+
+msgid "Remove Added Font"
+msgstr "删除已添加的字体"
+
+msgid "Remove condition"
+msgstr "删除条件"
+
+msgid "Remove Content Control"
+msgstr "删除内容控件"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "删除所有自定义快捷键并恢复内置按键？"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "删除所有自定义选项卡和组，并重新显示所有选项卡？"
+
+msgid "Remove field"
+msgstr "删除域"
+
+msgid "Remove Footer"
+msgstr "删除页脚"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "从快速访问工具栏删除"
+
+msgid "Remove gradient stop"
+msgstr "删除渐变光圈"
+
+msgid "Remove Header"
+msgstr "删除页眉"
+
+msgid "Remove Hyperlink"
+msgstr "取消超链接"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "保存时从批注、修订和文件属性中删除我的姓名"
+
+msgid "Remove Password"
+msgstr "删除密码"
+
+msgid "Remove Pen"
+msgstr "删除笔"
+
+msgid "Remove recipient"
+msgstr "删除收件人"
+
+msgid "Remove row"
+msgstr "删除行"
+
+msgid "Remove series"
+msgstr "删除系列"
+
+msgid "Remove Space After Paragraph"
+msgstr "删除段后间距"
+
+msgid "Remove Table of Contents"
+msgstr "删除目录"
+
+msgid "Remove the control once edited"
+msgstr "编辑后删除控件"
+
+msgid "Remove the space before the punctuation"
+msgstr ""
+
+msgid "Remove Watermark"
+msgstr "删除水印"
+
+msgid "Rename Document"
+msgstr "重命名文档"
+
+msgid "Reopen"
+msgstr "重新打开"
+
+msgid "Repeat as header row on each page"
+msgstr "在各页重复作为标题行"
+
+msgid "Repeat Header Rows"
+msgstr "重复标题行"
+
+msgid "Repeating Section Content Control"
+msgstr "重复节内容控件"
+
+msgid "Replace All"
+msgstr "全部替换"
+
+msgid "Replace as you type"
+msgstr "键入时自动替换"
+
+msgid "Replace Document Text"
+msgstr "替换文档文本"
+
+msgid "Replace text as you type"
+msgstr "键入时自动替换文本"
+
+msgid "Replace with:"
+msgstr "替换为："
+
+msgid "Replay"
+msgstr "重播"
+
+msgid "Research"
+msgstr "研究"
+
+msgid "Researcher"
+msgstr "研究工具"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "研究工具需要在线服务；WordCraft 会将你的文档保留在本地。"
+
+msgid "Reset All…"
+msgstr "全部重置…"
+
+msgid "Reset Character Formatting"
+msgstr "重置字符格式"
+
+msgid "Reset Crop"
+msgstr "重设裁剪"
+
+msgid "Reset Default Formatting"
+msgstr "重置默认格式"
+
+msgid "Reset Graphic"
+msgstr "重设图形"
+
+msgid "Reset Paragraph Formatting"
+msgstr "重置段落格式"
+
+msgid "Reset Picture"
+msgstr "重设图片"
+
+msgid "Reset tips"
+msgstr "重置提示"
+
+msgid "Reset to Normal"
+msgstr "重置为正文"
+
+msgid "Reset\nGraphic"
+msgstr "重设\n图形"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "拖动调整表格大小"
+
+msgid "Resolve"
+msgstr "解决"
+
+msgid "Resolved"
+msgstr "已解决"
+
+msgid "Restart at 1"
+msgstr "从 1 重新开始"
+
+msgid "Restart Each Page"
+msgstr "每页重新编号"
+
+msgid "Restart Each Section"
+msgstr "每节重新编号"
+
+msgid "Restart list after:"
+msgstr "重新开始列表的级别："
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "限制编辑"
+
+msgid "Restrict\nEditing"
+msgstr "限制编辑"
+
+msgid "Results"
+msgstr "结果"
+
+msgid "Return address labels"
+msgstr "回信地址标签"
+
+msgid "Return address:"
+msgstr "寄信人地址："
+
+msgid "Reviewing"
+msgstr "审阅"
+
+msgid "Reviewing Pane"
+msgstr "审阅窗格"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "审阅 — 编辑内容将成为修订建议"
+
+msgid "Revised document"
+msgstr "修订的文档"
+
+msgid "Rewind"
+msgstr "倒回"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "正在倒带。要停的时候告诉我。"
+
+msgid "Ribbon"
+msgstr "功能区"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "功能区和快速访问工具栏："
+
+msgid "Ribbon tabs"
+msgstr "功能区选项卡"
+
+msgid "Rich Text Content Control"
+msgstr "格式文本内容控件"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "RTF 格式 (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "RTF 格式"
+
+msgid "Right (vertical)"
+msgstr "右对齐（竖排）"
+
+msgid "Right Arrow with Text Above"
+msgstr ""
+
+msgid "Right Arrow with Text Below"
+msgstr ""
+
+msgid "Right Border"
+msgstr "右框线"
+
+msgid "Right border"
+msgstr "右框线"
+
+msgid "Right Bracket Twice"
+msgstr ""
+
+msgid "Right indent"
+msgstr "右缩进"
+
+msgid "Right Margin"
+msgstr "右边距"
+
+msgid "Right Only"
+msgstr "仅右侧"
+
+msgid "Right-to-left"
+msgstr "从右向左"
+
+msgid "Right-to-Left Section"
+msgstr "从右向左节"
+
+msgid "Right-to-Left Table"
+msgstr "从右向左表格"
+
+msgid "Right-to-Left Text Direction"
+msgstr "从右向左文字方向"
+
+msgid "Rightwards Arrow Above"
+msgstr ""
+
+msgid "Rightwards Harpoon Above"
+msgstr ""
+
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+msgid "Roots of ax²+bx+c"
+msgstr ""
+
+msgid "Rotate all text 270°"
+msgstr "将所有文字旋转 270°"
+
+msgid "Rotate all text 90°"
+msgstr "将所有文字旋转 90°"
+
+msgid "Rotate Left 90°"
+msgstr "向左旋转 90°"
+
+msgid "Rotate Right 90°"
+msgstr "向右旋转 90°"
+
+msgid "Rotate with shape"
+msgstr "与形状一起旋转"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "行"
+
+msgid "Row:"
+msgstr "行："
+
+msgid "Rows & Columns"
+msgstr "行和列"
+
+msgid "Ruby text:"
+msgstr "拼音文字："
+
+msgid "Rules"
+msgstr "规则"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "接排式"
+
+msgid "Russia"
+msgstr "俄罗斯"
+
+msgid "Résumé"
+msgstr "简历"
+
+msgid "SAMPLE"
+msgstr ""
+
+msgid "Sat:"
+msgstr "饱和度:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "以其他格式保存副本。打印时先生成 PDF，可在任意查看器中打印。"
+
+msgid "Save as Word Template…"
+msgstr "另存为 Word 模板…"
+
+msgid "Save documents"
+msgstr "保存文档"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "保存文档后即可开启自动保存"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "保存文档后即可开启自动保存（仅打开过的文件在你保存之前不会被改写）"
+
+msgid "Save these pages as PDF…"
+msgstr "将这些页面另存为 PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "已保存。又保存了。仍然已保存。保存得不能再保存了。"
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "将 .dotx 模板保存到你的模板文件夹。它会显示在“文件 › 新建”的“个人”下。"
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "已取消保存 {name}，文档仍处于打开状态，没有丢失任何内容。"
+
+msgid "Sayings"
+msgstr "俏皮话"
+
+msgid "Sayings:"
+msgstr "俏皮话："
+
+msgid "Scale Drawing"
+msgstr "缩放绘图"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "散点图"
+
+msgid "Script"
+msgstr "上下标"
+
+msgid "Scroll ribbon left"
+msgstr "向左滚动功能区"
+
+msgid "Scroll ribbon right"
+msgstr "向右滚动功能区"
+
+msgid "Search Commands"
+msgstr "搜索命令"
+
+msgid "Search commands and help"
+msgstr "搜索命令和帮助"
+
+msgid "Search document"
+msgstr "搜索文档"
+
+msgid "Search for templates"
+msgstr "搜索模板"
+
+msgid "Search icons"
+msgstr "搜索图标"
+
+msgid "Search Options"
+msgstr "搜索选项"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Secant Function"
+msgstr ""
+
+msgid "Section 1.01"
+msgstr "第 1.01 节"
+
+msgid "Section Break"
+msgstr "分节符"
+
+msgid "Section Breaks"
+msgstr "分节符"
+
+msgid "Section Character"
+msgstr "章节号"
+
+msgid "Section direction:"
+msgstr "节方向："
+
+msgid "Section Mark"
+msgstr "章节符号"
+
+msgid "Section Properties"
+msgstr "节属性"
+
+msgid "Sections"
+msgstr "节数"
+
+msgid "See"
+msgstr "参见"
+
+msgid "select a chart first"
+msgstr "请先选择图表"
+
+msgid "select a connector first"
+msgstr "请先选择连接符"
+
+msgid "select a diagram first"
+msgstr "请先选择一个图示"
+
+msgid "select a drawing canvas first"
+msgstr "请先选择绘图画布"
+
+msgid "select a floating picture or shape first"
+msgstr "请先选择浮动的图片或形状"
+
+msgid "select a group first"
+msgstr "请先选择组合"
+
+msgid "select a picture first"
+msgstr "请先选择图片"
+
+msgid "Select a picture first."
+msgstr "请先选择图片。"
+
+msgid "select a picture or shape first"
+msgstr "请先选择图片或形状"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "选择图片、形状、图表或表格以添加描述。"
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "选择打印机"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "请先选择形状"
+
+msgid "select a shape or decorative text first"
+msgstr "请先选择一个形状或装饰文字"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "请选择一个形状、文本框或绘图画布来设置其填充格式。"
+
+msgid "select a SmartArt graphic first"
+msgstr "请先选择 SmartArt 图形"
+
+msgid "select a text box first"
+msgstr "请先选择文本框"
+
+msgid "select a text box linked to another first"
+msgstr "请先选择已链接到另一个文本框的文本框"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "选择单元格"
+
+msgid "Select Column"
+msgstr "选择列"
+
+msgid "Select Heading and Content"
+msgstr "选择标题及其内容"
+
+msgid "Select Line"
+msgstr "选择行"
+
+msgid "Select Paragraph"
+msgstr "选择段落"
+
+msgid "Select Picture…"
+msgstr "选择图片…"
+
+msgid "Select Range"
+msgstr "选择范围"
+
+msgid "Select Recipients"
+msgstr "选择收件人"
+
+msgid "select recipients first"
+msgstr "请先选择收件人"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "请先选择收件人，才能从其域中选择。"
+
+msgid "Select recipients first to match their fields."
+msgstr "请先选择收件人，才能匹配其域。"
+
+msgid "Select Row"
+msgstr "选择行"
+
+msgid "Select Sentence"
+msgstr "选择句子"
+
+msgid "Select Table"
+msgstr "选择表格"
+
+msgid "Select Table Cells by Clicking"
+msgstr "单击选择表格单元格"
+
+msgid "Select Text"
+msgstr "选择文本"
+
+msgid "Select Text with Similar Formatting"
+msgstr "选择格式相似的文本"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "选择文本，然后勾选仍可编辑它的人。"
+
+msgid "select two or more cells to merge"
+msgstr "请选择两个或更多单元格进行合并"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "请先选择两个或更多图片或形状 (Shift+单击)"
+
+msgid "Select Word"
+msgstr "选择单词"
+
+msgid "Select\nRecipients"
+msgstr "选择收件人"
+
+msgid "Selected Fields"
+msgstr "所选域"
+
+msgid "Selected text"
+msgstr "所选文字"
+
+msgid "Selection Pane"
+msgstr "选择窗格"
+
+msgid "Semitransparent"
+msgstr "半透明"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "将文档直接发送到系统打印对话框，或在下方以其他格式保存副本。"
+
+msgid "Sentence"
+msgstr "句"
+
+msgid "Sentence case."
+msgstr "句首字母大写。"
+
+msgid "Separate text at"
+msgstr "文字分隔位置"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "分隔符："
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "序列名称："
+
+msgid "Serbian (Cyrillic)"
+msgstr "塞尔维亚语（西里尔文）"
+
+msgid "Serbian (Latin)"
+msgstr "塞尔维亚语（拉丁文）"
+
+msgid "Series name"
+msgstr "系列名称"
+
+msgid "Series {n}"
+msgstr "系列 {n}"
+
+msgid "Set As Default"
+msgstr "设为默认值"
+
+msgid "Set as default"
+msgstr "设为默认"
+
+msgid "Set As Default (Font)"
+msgstr "设为默认值（字体）"
+
+msgid "Set As Default (Page Setup)"
+msgstr "设为默认值（页面设置）"
+
+msgid "Set As Default (Paragraph)"
+msgstr "设为默认值（段落）"
+
+msgid "Set as Default Language"
+msgstr "设为默认语言"
+
+msgid "Set Caret"
+msgstr "设置光标"
+
+msgid "Set Character Formatting"
+msgstr "设置字符格式"
+
+msgid "Set Date"
+msgstr "设置日期"
+
+msgid "Set Equation"
+msgstr "设置公式"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "设置编号值"
+
+msgid "Set Paragraph Formatting"
+msgstr "设置段落格式"
+
+msgid "Set Proofing Language…"
+msgstr "设置校对语言…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "设置："
+
+msgid "Shading"
+msgstr "底纹"
+
+msgid "Shadow, glow and soft edges"
+msgstr "阴影、发光和柔化边缘"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "形状填充"
+
+msgid "Shape Format"
+msgstr "形状格式"
+
+msgid "Shape Outline"
+msgstr "形状轮廓"
+
+msgid "Shape Styles"
+msgstr "形状样式"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "运输标签"
+
+msgid "Shortcut key:"
+msgstr "快捷键："
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "移动图片和形状时显示对齐参考线"
+
+msgid "Show all formatting marks"
+msgstr "显示所有格式标记"
+
+msgid "Show All Levels"
+msgstr "显示所有级别"
+
+msgid "Show all revisions inline"
+msgstr "以嵌入方式显示所有修订"
+
+msgid "Show changes at:"
+msgstr "显示修订的级别:"
+
+msgid "Show changes in:"
+msgstr "修订的显示位置:"
+
+msgid "Show Comments"
+msgstr "显示批注"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "像“视图 › 切换模式”一样以反转的颜色显示文档。保存、打印和 PDF 不受影响。"
+
+msgid "Show every bibliography field"
+msgstr "显示所有书目字段"
+
+msgid "Show First Line Only"
+msgstr "仅显示首行"
+
+msgid "Show in the Styles gallery"
+msgstr "在样式库中显示"
+
+msgid "Show its list number"
+msgstr "显示其列表编号"
+
+msgid "Show its number relative to this field"
+msgstr "显示相对于此域的编号"
+
+msgid "Show its number with all higher levels"
+msgstr "显示含所有上级层次的编号"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "显示快捷键提示（Alt 或 F10）"
+
+msgid "Show Level"
+msgstr "显示级别"
+
+msgid "Show Level 1"
+msgstr "显示 1 级"
+
+msgid "Show Level 2"
+msgstr "显示 2 级"
+
+msgid "Show Level 3"
+msgstr "显示 3 级"
+
+msgid "Show Level 4"
+msgstr "显示 4 级"
+
+msgid "Show Level 5"
+msgstr "显示 5 级"
+
+msgid "Show Level 6"
+msgstr "显示 6 级"
+
+msgid "Show Level 7"
+msgstr "显示 7 级"
+
+msgid "Show Level 8"
+msgstr "显示 8 级"
+
+msgid "Show Level 9"
+msgstr "显示 9 级"
+
+msgid "Show Markup"
+msgstr "显示标记"
+
+msgid "Show Notes"
+msgstr "显示备注"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "仅在批注框中显示批注和格式"
+
+msgid "Show only records that will be merged"
+msgstr "仅显示将要合并的记录"
+
+msgid "Show or Hide Style"
+msgstr "显示或隐藏样式"
+
+msgid "Show Quick Access Toolbar"
+msgstr "显示快速访问工具栏"
+
+msgid "Show revisions in balloons"
+msgstr "在批注框中显示修订"
+
+msgid "Show Text Formatting"
+msgstr "显示文本格式"
+
+msgid "Show the Assistant"
+msgstr "显示助手"
+
+msgid "Show the community button in the title bar"
+msgstr "在标题栏中显示社区按钮"
+
+msgid "Show the equation in the line of text"
+msgstr ""
+
+msgid "Show the equation on a line of its own"
+msgstr ""
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "选择文本时显示浮动工具栏"
+
+msgid "Show the ribbon"
+msgstr "显示功能区"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "启动 WordCraft 时显示开始屏幕"
+
+msgid "Show the tips you asked not to see again."
+msgstr "重新显示你要求不再显示的提示。"
+
+msgid "Show/Hide ¶"
+msgstr "显示/隐藏 ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "显示/隐藏 ¶ ({key}) 会显示藏在文字中的空格、制表符和分隔符。"
+
+msgid "Show\nComments"
+msgstr "显示批注"
+
+msgid "Showing the first {count} items."
+msgstr "仅显示前 {count} 项。"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "显示树形结构：每个项目位于其所属项目的下方。"
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "围绕中心思想显示项目：第一个项目位于中心。"
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "将同等重要的项目显示为成行排列的方块。"
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "将相互重叠的观点显示为重叠的圆。"
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "将整体的各部分显示为象限。"
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "显示层层递进的部分，最大的在底部。"
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "按从左到右的顺序显示步骤，步骤之间用箭头连接。"
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "沿圆周显示重复的步骤。"
+
+msgid "Shrink Font 1 Point"
+msgstr "字号减小 1 磅"
+
+msgid "Shrink text"
+msgstr "缩小文字"
+
+msgid "Side to Side"
+msgstr "并排"
+
+msgid "Side\nto Side"
+msgstr "并排"
+
+msgid "Sides of a right triangle"
+msgstr ""
+
+msgid "Signature Line"
+msgstr "签名行"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr ""
+
+msgid "Sine Function"
+msgstr ""
+
+msgid "Sine theta"
+msgstr ""
+
+msgid "Singapore"
+msgstr "新加坡"
+
+msgid "Single"
+msgstr "单线"
+
+msgid "Single Brackets"
+msgstr ""
+
+msgid "Single Closing Quote"
+msgstr "右单引号"
+
+msgid "Single label"
+msgstr "单个标签"
+
+msgid "Single Left Angle"
+msgstr ""
+
+msgid "Single Left Bar"
+msgstr ""
+
+msgid "Single Left Brace"
+msgstr ""
+
+msgid "Single Left Bracket"
+msgstr ""
+
+msgid "Single Left Parenthesis"
+msgstr ""
+
+msgid "Single Opening Quote"
+msgstr "左单引号"
+
+msgid "Single Right Brace"
+msgstr ""
+
+msgid "Single Right Bracket"
+msgstr ""
+
+msgid "Single Right Parenthesis"
+msgstr ""
+
+msgid "Single Spacing"
+msgstr "单倍行距"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "网站名称"
+
+msgid "Size (pt):"
+msgstr "字号（磅）："
+
+msgid "Size and Crop…"
+msgstr "大小和裁剪…"
+
+msgid "Sketchbook"
+msgstr "速写本"
+
+msgid "Skewed Fraction"
+msgstr ""
+
+msgid "Skip citations & bibliography"
+msgstr "跳过引文和参考文献"
+
+msgid "Skip Citations and Bibliography"
+msgstr "跳过引文和参考文献"
+
+msgid "Skip Record If"
+msgstr "跳过记录条件"
+
+msgid "Skip Record If…"
+msgstr "跳过记录条件…"
+
+msgid "Slant Down"
+msgstr "下斜"
+
+msgid "Slant Up"
+msgstr "上斜"
+
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+msgid "Slovenian"
+msgstr "斯洛文尼亚语"
+
+msgid "Small caps"
+msgstr "小型大写字母"
+
+msgid "Small change"
+msgstr ""
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "以弯引号替换直引号"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt 设计"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt 样式"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "平滑滚动和缩放，以及菜单和按钮的淡入效果。选择“关”后，所有更改会立即显示。"
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "柔化边缘"
+
+msgid "Soft Glow"
+msgstr "柔和发光"
+
+msgid "Solid Accent"
+msgstr "纯色强调"
+
+msgid "Solid fill"
+msgstr "纯色填充"
+
+msgid "Sometimes"
+msgstr "有时"
+
+msgid "Sort by:"
+msgstr "排序依据："
+
+msgid "Sort order:"
+msgstr "排序方式："
+
+msgid "Sort Recipients"
+msgstr "排序收件人"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "源代码：github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "源管理器"
+
+msgid "Source type:"
+msgstr "源类型："
+
+msgid "Sources in this document:"
+msgstr "本文档中的源："
+
+msgid "South"
+msgstr "南区"
+
+msgid "South Africa"
+msgstr "南非"
+
+msgid "Space"
+msgstr "空格"
+
+msgid "Space after"
+msgstr "段后间距"
+
+msgid "Space after: {pt} pt"
+msgstr "段后间距：{pt} 磅"
+
+msgid "Space before"
+msgstr "段前间距"
+
+msgid "Space before/after:"
+msgstr "段前/段后间距："
+
+msgid "Space before: {pt} pt"
+msgstr "段前间距：{pt} 磅"
+
+msgid "Spacing (pt):"
+msgstr "间距（磅）："
+
+msgid "Spain"
+msgstr "西班牙"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "西班牙语（墨西哥）"
+
+msgid "Spanish (Spain)"
+msgstr "西班牙语（西班牙）"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr ""
+
+msgid "Special Characters"
+msgstr "特殊字符"
+
+msgid "Specify height:"
+msgstr "指定高度："
+
+msgid "Speech"
+msgstr "语音"
+
+msgid "Spelling & Grammar"
+msgstr "拼写和语法"
+
+msgid "Spelling &\nGrammar"
+msgstr "拼写和语法"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "拼写和语法检查语言：{language}"
+
+msgid "Spelling Suggestions"
+msgstr "拼写建议"
+
+msgid "Spike"
+msgstr "图文场"
+
+msgid "Split Cells"
+msgstr "拆分单元格"
+
+msgid "Split Table"
+msgstr "拆分表格"
+
+msgid "Spreadsheet Table"
+msgstr "电子表格"
+
+msgid "Square Root"
+msgstr ""
+
+msgid "Square Root with Degree"
+msgstr ""
+
+msgid "Square Union"
+msgstr ""
+
+msgid "Stack Object"
+msgstr ""
+
+msgid "Stack Object (Three)"
+msgstr ""
+
+msgid "Stacked Bar"
+msgstr "堆积条形图"
+
+msgid "Stacked Column"
+msgstr "堆积柱形图"
+
+msgid "Stacked Fraction"
+msgstr ""
+
+msgid "Stacked, no bar"
+msgstr ""
+
+msgid "Standard Colors"
+msgstr "标准色"
+
+msgid "Start Enforcing Protection"
+msgstr "启动强制保护"
+
+msgid "Start Mail Merge"
+msgstr "开始邮件合并"
+
+msgid "Start Mail\nMerge"
+msgstr "开始邮件合并"
+
+msgid "Start-up"
+msgstr "启动"
+
+msgid "State"
+msgstr "省/州"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "还在吗？我都能听到你在思考。"
+
+msgid "Stop Protection"
+msgstr "停止保护"
+
+msgid "Stop Reading"
+msgstr "停止朗读"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Straight Arrow Connector"
+msgstr "直线箭头连接符"
+
+msgid "Straight Connector"
+msgstr "直线连接符"
+
+msgid "Stroke {n} of {total}"
+msgstr "第 {n} 笔，共 {total} 笔"
+
+msgid "Strong"
+msgstr ""
+
+msgid "Structure Actions"
+msgstr "结构操作"
+
+msgid "Structures"
+msgstr "结构"
+
+msgid "Studio cover"
+msgstr "工作室封面"
+
+msgid "Studio handbook (sample)"
+msgstr "工作室手册（示例）"
+
+msgid "Style based on:"
+msgstr "样式基于："
+
+msgid "Style Inspector"
+msgstr "样式检查器"
+
+msgid "Style name:"
+msgstr "样式名称："
+
+msgid "Style Set"
+msgstr "样式集"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "样式：{style}"
+
+msgid "Styles Pane"
+msgstr "样式窗格"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "样式："
+
+msgid "Subentry:"
+msgstr "次索引项："
+
+msgid "Submit print job"
+msgstr "提交打印作业"
+
+msgid "Submitting print job…"
+msgstr "正在提交打印作业…"
+
+msgid "Subscript-Superscript"
+msgstr ""
+
+msgid "Subscripts and Superscripts"
+msgstr ""
+
+msgid "Subset:"
+msgstr "子集："
+
+msgid "Subtle Emphasis"
+msgstr ""
+
+msgid "Subtle Reference"
+msgstr ""
+
+msgid "Suggested"
+msgstr "建议"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "合计"
+
+msgid "Sum of cosines"
+msgstr ""
+
+msgid "Sum or difference of sines"
+msgstr ""
+
+msgid "Summation"
+msgstr ""
+
+msgid "Summation from 0 to n"
+msgstr ""
+
+msgid "Summation over binomials"
+msgstr ""
+
+msgid "Summation with Limits"
+msgstr ""
+
+msgid "Summation with Lower Limit"
+msgstr ""
+
+msgid "Summation with Subscript Limit"
+msgstr ""
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Summations"
+msgstr ""
+
+msgid "Suppress line numbers"
+msgstr "取消行号"
+
+msgid "Surface Integral"
+msgstr ""
+
+msgid "Surface Integral with Limits"
+msgstr ""
+
+msgid "Surface Integral with Stacked Limits"
+msgstr ""
+
+msgid "Swahili"
+msgstr "斯瓦希里语"
+
+msgid "Swap footnotes and endnotes"
+msgstr "脚注和尾注互换"
+
+msgid "Swedish"
+msgstr "瑞典语"
+
+msgid "Switch Modes"
+msgstr "切换模式"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "切换模式"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "瑞士"
+
+msgid "Synonyms"
+msgstr "同义词"
+
+msgid "Syria"
+msgstr "叙利亚"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "系统词典"
+
+msgid "Tab Character"
+msgstr "制表符字符"
+
+msgid "Tab character"
+msgstr "制表符"
+
+msgid "Tab characters"
+msgstr "制表符"
+
+msgid "Tab leader:"
+msgstr "制表符前导符："
+
+msgid "Tab stop position:"
+msgstr "制表位位置："
+
+msgid "Tab stops to be cleared:"
+msgstr "要清除的制表位："
+
+msgid "Table Column Width"
+msgstr "表格列宽"
+
+msgid "Table Design"
+msgstr "表设计"
+
+msgid "Table direction:"
+msgstr "表格方向："
+
+msgid "Table Grid"
+msgstr ""
+
+msgid "Table Layout"
+msgstr "表布局"
+
+msgid "Table of Authorities"
+msgstr "引文目录"
+
+msgid "Table of Contents"
+msgstr "目录"
+
+msgid "Table of Contents Options"
+msgstr "目录选项"
+
+msgid "Table of Contents Styles"
+msgstr "目录样式"
+
+msgid "Table of Figures"
+msgstr ""
+
+msgid "Table of\nContents"
+msgstr "目录"
+
+msgid "Table Properties"
+msgstr "表格属性"
+
+msgid "Table Properties…"
+msgstr "表格属性…"
+
+msgid "Table Row Height"
+msgstr "表格行高"
+
+msgid "Table size"
+msgstr "表格尺寸"
+
+msgid "Table Style Options"
+msgstr "表格样式选项"
+
+msgid "Table Styles"
+msgstr "表格样式"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "制表位…"
+
+msgid "Tabular List"
+msgstr "表格列表"
+
+msgid "Tag"
+msgstr "标记"
+
+msgid "Taiwan"
+msgstr "台湾"
+
+msgid "Take the last match on the page"
+msgstr "取本页最后一个匹配项"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "慢慢来。页面不会消失的。我也不会。一直都在。"
+
+msgid "Tamil"
+msgstr "泰米尔语"
+
+msgid "Tangent formula"
+msgstr ""
+
+msgid "Tangent Function"
+msgstr ""
+
+msgid "TC entry fields"
+msgstr "TC 条目域"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "科技"
+
+msgid "Templates and Add-ins"
+msgstr "模板和加载项"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "保存到模板文件夹中的模板会显示在这里。"
+
+msgid "Text Box"
+msgstr "文本框"
+
+msgid "Text boxes"
+msgstr "文本框"
+
+msgid "text boxes can't go inside a text box"
+msgstr "文本框不能放在文本框内"
+
+msgid "Text Direction"
+msgstr "文字方向"
+
+msgid "Text Effects"
+msgstr "文本效果"
+
+msgid "Text Effects and Typography"
+msgstr "文本效果和版式"
+
+msgid "Text Fill"
+msgstr "文本填充"
+
+msgid "Text from File"
+msgstr "文件中的文字"
+
+msgid "Text Highlight Color"
+msgstr "文本突出显示颜色"
+
+msgid "Text indent at:"
+msgstr "文本缩进位置："
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "具有指定样式的最近段落的文本（书眉）"
+
+msgid "Text Outline"
+msgstr "文本轮廓"
+
+msgid "Text over Colon Equal"
+msgstr ""
+
+msgid "Text over Equal"
+msgstr ""
+
+msgid "Text Pane"
+msgstr "文本窗格"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "文字大小"
+
+msgid "Text snaps to characters"
+msgstr "文字贴合字符网格"
+
+msgid "Text to display:"
+msgstr "要显示的文字："
+
+msgid "Text watermark"
+msgstr "文字水印"
+
+msgid "Text Wrapping"
+msgstr "文字环绕"
+
+msgid "Text\nBox"
+msgstr "文本框"
+
+msgid "Text\nDirection"
+msgstr "文字方向"
+
+msgid "Thai"
+msgstr "泰语"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "该格式无法保留全部内容，因此文档仍保持打开。请将其保存为 Word 文档 (.docx) 后再继续。"
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "密码不正确。请检查密码（区分大小写）后重试。"
+
+msgid "The clipboard is empty."
+msgstr "剪贴板为空。"
+
+msgid "the Clipboard pane is empty"
+msgstr "剪贴板窗格为空"
+
+msgid "the cursor isn't in a table"
+msgstr "光标不在表格中"
+
+msgid "The date it is today"
+msgstr "今天的日期"
+
+msgid "The document has no bookmarks yet."
+msgstr "文档中还没有书签。"
+
+msgid "the document is protected"
+msgstr "文档受保护"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "文档为只读，标记为可编辑的区域除外。"
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "文档将使用密码保存。保存文档以保护它。"
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "正在编辑的文档保留姓名和日期；只有保存的文件中不包含它们。"
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "页边距放不进此大小的页面；请先减小页边距。"
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "度量值必须介于 {min} 和 {max} 之间。"
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "新样式将采用当前段落的格式。"
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "无法读取“正常”模板，因此此文档使用 WordCraft 的内置格式。"
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "数字必须介于 1 和 {max} 之间。"
+
+msgid "the paragraph is empty"
+msgstr "段落为空"
+
+msgid "the paragraph starts with a space"
+msgstr "段落以空格开头"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "密码是可选的；没有密码，任何人都可以停止保护。"
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "密码已删除。保存文档以保留此更改。"
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "打印机、双面打印和每张页数在该对话框中选择。"
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "地址块和问候语的每一部分所使用的收件人列表域。"
+
+msgid "The spelling and grammar check is complete."
+msgstr ""
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "图文场为空"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "系统文件对话框不可用，因此 WordCraft 显示自己的对话框。要使用系统对话框，请安装文件选择器门户（例如 xdg-desktop-portal-gtk）或 zenity。"
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "插入点处的文本已标记为：不检查拼写或语法"
+
+msgid "The time right now"
+msgstr "当前时间"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "主题颜色"
+
+msgid "Theme Fonts"
+msgstr "主题字体"
+
+msgid "Theme List"
+msgstr "主题列表"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "Then by"
+msgstr "然后依据"
+
+msgid "Then insert:"
+msgstr "则插入："
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "没有可重播的墨迹"
+
+msgid "there is nothing to undo"
+msgstr "没有可撤销的操作"
+
+msgid "there's no citation after the caret"
+msgstr "插入点后没有引文"
+
+msgid "Thesaurus"
+msgstr "同义词库"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "即使关闭“显示/隐藏 ¶”，这些标记也会显示。"
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "以下合并域不在收件人列表中："
+
+msgid "These settings will be used for new documents."
+msgstr "这些设置将用于新文档。"
+
+msgid "Thick"
+msgstr "粗线"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "此图表由其他程序创建: WordCraft 可以显示但无法编辑"
+
+msgid "this diagram can't be edited"
+msgstr "无法编辑此图示"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "此图示由其他程序创建：WordCraft 可以显示，但无法编辑"
+
+msgid "This document"
+msgstr "此文档"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "仅此文档？"
+
+msgid "This field has no options."
+msgstr "此域没有选项。"
+
+msgid "This folder can't be read: {error}"
+msgstr "无法读取此文件夹：{error}"
+
+msgid "This font has no characters to show."
+msgstr "此字体没有可显示的字符。"
+
+msgid "this item is already at the top level"
+msgstr "此项已位于最高级别"
+
+msgid "This page"
+msgstr "当前页"
+
+msgid "This password type isn't supported."
+msgstr "不支持此密码类型。"
+
+msgid "This point forward"
+msgstr "插入点之后"
+
+msgid "This section"
+msgstr "本节"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "此会话没有“正常”模板（无界面或无首选项）"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "此会话没有“正常”模板（无界面或无首选项）：请使用 \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "此 SmartArt 由其他程序创建: WordCraft 可以显示但无法编辑"
+
+msgid "this text box is already linked: break the link first"
+msgstr "此文本框已链接: 请先断开链接"
+
+msgid "Three"
+msgstr "三栏"
+
+msgid "Through"
+msgstr "穿越型"
+
+msgid "Tight"
+msgstr "紧密"
+
+msgid "Tilde"
+msgstr ""
+
+msgid "Tip"
+msgstr "提示"
+
+msgid "Tips ({n})"
+msgstr "提示 ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr "标题栏"
+
+msgid "Title from the document properties"
+msgstr "文档标题"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "要默认用 WordCraft 打开 Word 文档：在访达中选中一个文档，选择“文件 › 显示简介”，在“打开方式”中选择 WordCraft，然后点按“全部更改”。"
+
+msgid "To:"
+msgstr "到："
+
+msgid "TOA Heading"
+msgstr ""
+
+msgid "TOC Heading"
+msgstr ""
+
+msgid "TOC {n}"
+msgstr ""
+
+msgid "Today"
+msgstr "今天"
+
+msgid "tOGGLE cASE"
+msgstr ""
+
+msgid "Toggle Check Box"
+msgstr "切换复选框"
+
+msgid "Toggle Field Codes"
+msgstr "切换域代码"
+
+msgid "Toggle Unicode Character"
+msgstr "切换 Unicode 字符"
+
+msgid "Top and Bottom"
+msgstr "上下型"
+
+msgid "Top Border"
+msgstr "上框线"
+
+msgid "Top Left Cell"
+msgstr "左上单元格"
+
+msgid "Top Margin"
+msgstr "上边距"
+
+msgid "Top of Page"
+msgstr "页面顶端"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "右上单元格"
+
+msgid "Total Row"
+msgstr "汇总行"
+
+msgid "Track Changes"
+msgstr "修订"
+
+msgid "Track Changes Options"
+msgstr "修订选项"
+
+msgid "Track Changes: On"
+msgstr "修订：打开"
+
+msgid "Track formatting"
+msgstr "跟踪格式设置"
+
+msgid "Track\nChanges"
+msgstr ""
+
+msgid "Track\nChanges ✓"
+msgstr ""
+
+msgid "Tracked changes"
+msgstr "修订"
+
+msgid "Trademark"
+msgstr "商标"
+
+msgid "Trademark Sign"
+msgstr "商标符号"
+
+msgid "Transparency:"
+msgstr "透明度："
+
+msgid "Transport"
+msgstr "交通"
+
+msgid "Triangle Down"
+msgstr "倒三角"
+
+msgid "Triangle Up"
+msgstr "正三角"
+
+msgid "Trigonometric Functions"
+msgstr ""
+
+msgid "Triple"
+msgstr "三线"
+
+msgid "Triple Dot"
+msgstr ""
+
+msgid "Triple Integral"
+msgstr ""
+
+msgid "Triple Integral with Limits"
+msgstr ""
+
+msgid "Triple Integral with Stacked Limits"
+msgstr ""
+
+msgid "Trust Center"
+msgstr "信任中心"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "两栏"
+
+msgid "Two-sided printing"
+msgstr "双面打印"
+
+msgid "Two-sided: long edge"
+msgstr "双面：长边"
+
+msgid "Two-sided: short edge"
+msgstr "双面：短边"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "输入 +2 或 -1 可从当前页向后或向前移动。"
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "键入命令，例如 \"insert table\""
+
+msgid "Type a New List…"
+msgstr "键入新列表…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "可用任意单位输入大小，例如 5 cm 或 300 px。另一边随之调整，图片保持原有比例。"
+
+msgid "Type at least one recipient."
+msgstr "请至少键入一个收件人。"
+
+msgid "Type Character Code"
+msgstr "输入字符代码"
+
+msgid "Type equations in LaTeX"
+msgstr ""
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr ""
+
+msgid "Type in Equation"
+msgstr "在公式中输入"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr ""
+
+msgid "Type Text"
+msgstr "键入文本"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "在左侧输入类别，每个系列输入一列数值。"
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "键入域名及其开关，例如 PAGE \\* roman。"
+
+msgid "Type the password to stop the protection."
+msgstr "键入密码以停止保护。"
+
+msgid "Type the recipients, or load them from a file."
+msgstr "键入收件人，或从文件加载。"
+
+msgid "Typing replaces selected text"
+msgstr "键入内容替换所选文字"
+
+msgid "U.A.E."
+msgstr "阿联酋"
+
+msgid "Ukraine"
+msgstr "乌克兰"
+
+msgid "Ukrainian"
+msgstr "乌克兰语"
+
+msgid "Unchecked symbol"
+msgstr "未选中符号"
+
+msgid "Underbar"
+msgstr ""
+
+msgid "Underbrace"
+msgstr ""
+
+msgid "Underline Color"
+msgstr "下划线颜色"
+
+msgid "Underline color"
+msgstr "下划线颜色"
+
+msgid "Underline Words Only"
+msgstr "仅给字词加下划线"
+
+msgid "Undo 1 Action"
+msgstr "撤消 1 项操作"
+
+msgid "Undo Actions"
+msgstr "撤消多项操作"
+
+msgid "Undo History"
+msgstr "撤消历史记录"
+
+msgid "Undo {n} Actions"
+msgstr "撤消 {n} 项操作"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "撤消、撤消、撤消……我们这是在穿越时空了。"
+
+msgid "Unformatted Text"
+msgstr "无格式文本"
+
+msgid "Union of intersections"
+msgstr ""
+
+msgid "Union with Limits"
+msgstr ""
+
+msgid "Union with Lower Limit"
+msgstr ""
+
+msgid "Union with Plus"
+msgstr ""
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Unions and Intersections"
+msgstr ""
+
+msgid "United Kingdom"
+msgstr "英国"
+
+msgid "United States"
+msgstr "美国"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "未知的装饰文字样式 `{id}`"
+
+msgid "Unlink Fields"
+msgstr "取消域链接"
+
+msgid "Unlink\nCitations"
+msgstr "取消链接\n引文"
+
+msgid "Unlock Fields"
+msgstr "解除锁定域"
+
+msgid "Up Diagonal Dots"
+msgstr ""
+
+msgid "Up one level"
+msgstr "向上一级"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "更新域"
+
+msgid "Update fields before printing"
+msgstr "打印前更新域"
+
+msgid "Update Index"
+msgstr "更新索引"
+
+msgid "Update Style to Match Selection"
+msgstr "更新样式以匹配所选内容"
+
+msgid "Update Styles from Template"
+msgstr "从模板更新样式"
+
+msgid "Update Table"
+msgstr "更新目录"
+
+msgid "Update Table of Figures"
+msgstr "更新表目录"
+
+msgid "Update to Match"
+msgstr "更新以匹配"
+
+msgid "Update to Match Selection"
+msgstr "更新以匹配所选内容"
+
+msgid "URGENT"
+msgstr ""
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr ""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr ""
+
+msgid "Use an Existing List…"
+msgstr "使用现有列表…"
+
+msgid "Use system setting"
+msgstr "使用系统设置"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "请使用浏览器的全屏模式 (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "将当前样式集和主题用于所有新文档？"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "用 Insert 键切换改写模式"
+
+msgid "Use this formatting as the default for:"
+msgstr "将此格式用作以下内容的默认格式："
+
+msgid "Use wildcards"
+msgstr "使用通配符"
+
+msgid "User Name"
+msgstr "用户名"
+
+msgid "User name:"
+msgstr "用户名："
+
+msgid "User templates:"
+msgstr "用户模板："
+
+msgid "Vector A"
+msgstr ""
+
+msgid "Vector AB"
+msgstr ""
+
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+msgid "Version History"
+msgstr "版本历史记录"
+
+msgid "Version {version} ({build})"
+msgstr "版本 {version}（{build}）"
+
+msgid "Vertical alignment:"
+msgstr "垂直对齐方式："
+
+msgid "Vertical Bars"
+msgstr ""
+
+msgid "Vertical Dots"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr "越南语"
+
+msgid "View Alt Text…"
+msgstr "查看替代文字…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "查看网格线"
+
+msgid "View State"
+msgstr "视图状态"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "视图 › 专注 会隐藏文字以外的一切。我去外面等你。"
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "视图"
+
+msgid "Visual effects"
+msgstr "视觉效果"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "卷"
+
+msgid "Volume Integral"
+msgstr ""
+
+msgid "Volume Integral with Limits"
+msgstr ""
+
+msgid "Volume Integral with Stacked Limits"
+msgstr ""
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "正在等待保存完成…"
+
+msgid "Waiting for Zotero…"
+msgstr "正在等待 Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "暖色渐变带轮廓"
+
+msgid "Warnings ({n})"
+msgstr "警告 ({n})"
+
+msgid "Washout"
+msgstr "褪色"
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "Web Layout"
+msgstr "Web 版式视图"
+
+msgid "Web page (*.html)"
+msgstr "网页 (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Web 版式视图"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Welsh"
+msgstr "威尔士语"
+
+msgid "West"
+msgstr "西区"
+
+msgid "When this document was first created"
+msgstr "文档的创建日期"
+
+msgid "When this document was most recently printed"
+msgstr "文档的上次打印日期"
+
+msgid "When this document was most recently saved"
+msgstr "文档的上次保存日期"
+
+msgid "White Space"
+msgstr "空白"
+
+msgid "White space"
+msgstr "空白"
+
+msgid "Who the document properties name as author"
+msgstr "文档作者"
+
+msgid "Whole document"
+msgstr "整篇文档"
+
+msgid "Whole page"
+msgstr "整页"
+
+msgid "Whole Table"
+msgstr "整个表格"
+
+msgid "Whole words"
+msgstr "全字匹配"
+
+msgid "Wide"
+msgstr "宽"
+
+msgid "Widow/Orphan Control"
+msgstr "孤行控制"
+
+msgid "Widow/Orphan control"
+msgstr "孤行控制"
+
+msgid "Width and spacing"
+msgstr "宽度和间距"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "替换为:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML 文档 (*.xml)"
+
+msgid "Word Count"
+msgstr "字数统计"
+
+msgid "Word document"
+msgstr "Word 文档"
+
+msgid "Word document (*.docx)"
+msgstr "Word 文档 (*.docx)"
+
+msgid "Word Left"
+msgstr "左移一个单词"
+
+msgid "Word level"
+msgstr "字词级"
+
+msgid "Word Right"
+msgstr "右移一个单词"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML 文档 (*.xml)"
+
+msgid "WordArt"
+msgstr "艺术字"
+
+msgid "WordArt Styles"
+msgstr "艺术字样式"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft 现在是 Word 文档的默认应用。"
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "仅字词"
+
+msgid "Wrap Text"
+msgstr "环绕文字"
+
+msgid "Wrap Text Sides"
+msgstr "文字环绕侧"
+
+msgid "Wrap\nText"
+msgstr "环绕文字"
+
+msgid "Write & Insert Fields"
+msgstr "编写和插入域"
+
+msgid "Write a reply"
+msgstr "写回复"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "写不下去了？我发现一直看着光标挺有用的。它已经对我闪了好几年了。"
+
+msgid "x bar"
+msgstr ""
+
+msgid "Year"
+msgstr "年份"
+
+msgid "Yields"
+msgstr ""
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "你已经有一阵子没保存了，而且自动保存已关闭。现在保存吗？"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "你开始了一个列表。按两次 Enter 结束列表，或在项目开头按 Backspace 将其变回普通文本。"
+
+msgid "Your document is now the most saved document in history."
+msgstr "你的文档现在是史上保存次数最多的文档。"
+
+msgid "Your languages"
+msgstr "你的语言"
+
+msgid "Your own dictionary"
+msgstr "你自己的词典"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "系统未提供动画设置，因此动画效果保持打开。"
+
+msgid "Your system has animation effects turned off."
+msgstr "系统已关闭动画效果。"
+
+msgid "Your system has animation effects turned on."
+msgstr "系统已打开动画效果。"
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero：已取消"
+
+msgid "Zotero: done"
+msgstr "Zotero：完成"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}；{count} 个无法读取：{names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}；已跳过 {n} 个（上限 {max}）"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} 表格"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} 位贡献者 · {commits} 次提交"
+
+msgid "{count} items highlighted"
+msgstr "已突出显示 {count} 项"
+
+msgid "{count} of {total} pages will print"
+msgstr "将打印 {total} 页中的 {count} 页"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "将合并 {total} 位收件人中的 {count} 位。"
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group}设置"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} 可以检查整个文档的拼写和语法。"
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} 可以统计字数、字符数和段落数。"
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} 可以查找和替换文字、格式和特殊字符。"
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。"
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} 可以换行，但不开始新段落。"
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} 可以开始新的一页。比一直按 Enter 直到换页整洁多了。"
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} 可以将所选文字变成链接。"
+
+msgid "{key}+Click to follow link"
+msgstr "按住 {key} 并单击可访问链接"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}，{columns} × {rows}，{size}（{paper}）"
+
+msgid "{language} (default)"
+msgstr "{language}（默认）"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language}（无词典）"
+
+msgid "{language} ({region})"
+msgstr "{language}（{region}）"
+
+msgid "{language} is now the document's default language."
+msgstr "{language} 现在是此文档的默认语言。"
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}：未找到词典"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}：WordCraft 暂不检查此语言的拼写和语法"
+
+msgid "{language}: {file}"
+msgstr "{language}：{file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} 等另外 {n} 个"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} 英寸"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} 毫米"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} 已存在。再次选择“保存”即可替换它。"
+
+msgid "{name} is protected with a password."
+msgstr "{name} 受密码保护。"
+
+msgid "{name} options"
+msgstr ""
+
+msgid "{name} wasn't found."
+msgstr "未找到 {name}。"
+
+msgid "{n} entries marked."
+msgstr "已标记 {n} 个条目。"
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} 行"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} 磅"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected}/{words} 个字"
+
+msgid "{size} pt"
+msgstr "{size} 磅"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} 毫米"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} 像素"
+
+msgid "{words} words"
+msgstr "{words} 个字"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} 个字，还在增加。真的，我在数。"
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} 个字！我想放彩带，但之后还得自己清理。"
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} 个字。比我今天写的多了 {words} 个。"
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "“{text}”（{row}，{series}）不是数字。"
+
+msgid "✓ None"
+msgstr ""
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Alle)"
+
+msgid "(no style)"
+msgstr "(ingen stil)"
+
+msgid "(no suggestions)"
+msgstr "(ingen forslag)"
+
+msgid "(normal text)"
+msgstr "(normal tekst)"
+
+msgid "(not matched)"
+msgstr "(ikke fundet)"
+
+msgid "(picture or object)"
+msgstr "(billede eller objekt)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 eller flere tegn"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Formateringsbegrænsninger"
+
+msgid "1.5 Line Spacing"
+msgstr "1,5 Linjeafstand"
+
+msgid "1/4 Em Space"
+msgstr "1/4 em-mellemrum"
+
+msgid "1×2 Empty Matrix"
+msgstr "Tom matrix 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Tom matrix 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Redigeringsbegrænsninger"
+
+msgid "2×1 Empty Matrix"
+msgstr "Tom matrix 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Determinant 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Tom matrix 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Identitetsmatrix 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Identitetsmatrix 2×2 (tyndt besat)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "2×2-matrix i kantede parenteser"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "2×2-matrix i dobbelte lodstreger"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "2×2-matrix i runde parenteser"
+
+msgid "2×3 Empty Matrix"
+msgstr "Tom matrix 2×3"
+
+msgid "3-D"
+msgstr "3-D"
+
+msgid "3. Start enforcement"
+msgstr "3. Start håndhævelse"
+
+msgid "3×1 Empty Matrix"
+msgstr "Tom matrix 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Tom matrix 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Tom matrix 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Identitetsmatrix 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Identitetsmatrix 3×3 (tyndt besat)"
+
+msgid "<< Less"
+msgstr "<< Mindre"
+
+msgid "<< Remove"
+msgstr "<< Fjern"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "et diagram kan højst indeholde {MAX_ITEMS} elementer"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "grupperingen af et tegnelærred kan ikke ophæves"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "et tegnelærred kan ikke placeres i et tekstfelt"
+
+msgid "A file dialog is already open."
+msgstr "En fildialogboks er allerede åben."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "En gratis open source-tekstbehandler skrevet fra bunden i Rust.\nEn del af Crafting Apps fra ArtCraft-teamet."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "en gruppe med Word-blæk kan endnu ikke opdeles"
+
+msgid "A mail merge field"
+msgstr "Et fletfelt"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "En nummereret rækkefølge (figurer, tabeller…)"
+
+msgid "A password is required to open this document."
+msgstr "Der skal indtastes en adgangskode for at åbne dette dokument."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "En indholdsfortegnelse"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Om WordCraft"
+
+msgid "Above Chart"
+msgstr "Over diagram"
+
+msgid "Above the item"
+msgstr "Over elementet"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Tilfælde for absolut værdi"
+
+msgid "Accent"
+msgstr "Accent"
+
+msgid "Accent Gradient"
+msgstr "Accentfarve med gradient"
+
+msgid "Accent with Reflection"
+msgstr "Accentfarve med refleksion"
+
+msgid "Accent {n}"
+msgstr "Accentfarve {n}"
+
+msgid "Accents"
+msgstr "Akcenter"
+
+msgid "Accept"
+msgstr "Acceptér"
+
+msgid "Accept All Changes"
+msgstr "Acceptér alle ændringer"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Acceptér denne ændring"
+
+msgid "Accessed on"
+msgstr "Besøgt den"
+
+msgid "Accessibility Pane"
+msgstr "Tilgængelighedspanel"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Acute"
+msgstr "Akut"
+
+msgid "Add >>"
+msgstr "Tilføj >>"
+
+msgid "Add a language"
+msgstr "Tilføj et sprog"
+
+msgid "Add a language…"
+msgstr "Tilføj et sprog…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Tilføj en tabel"
+
+msgid "Add at least one field."
+msgstr "Tilføj mindst ét felt."
+
+msgid "Add Chart Element"
+msgstr "Tilføj diagramelement"
+
+msgid "Add Condition"
+msgstr "Tilføj betingelse"
+
+msgid "Add Field"
+msgstr "Tilføj felt"
+
+msgid "Add Font…"
+msgstr "Tilføj skrifttype…"
+
+msgid "Add gradient stop"
+msgstr ""
+
+msgid "Add line numbering"
+msgstr "Tilføj linjenummerering"
+
+msgid "Add New Source…"
+msgstr "Tilføj ny kilde…"
+
+msgid "Add Object to Selection"
+msgstr "Føj objekt til markering"
+
+msgid "Add Pen"
+msgstr "Tilføj pen"
+
+msgid "Add Row"
+msgstr "Tilføj række"
+
+msgid "Add Series"
+msgstr "Tilføj serie"
+
+msgid "Add Shape"
+msgstr "Tilføj figur"
+
+msgid "Add Space Before Paragraph"
+msgstr "Tilføj mellemrum før afsnit"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Tilføj mellemrum mellem asiatisk og latinisk tekst"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Tilføj mellemrum mellem asiatisk tekst og tal"
+
+msgid "Add tab stop at:"
+msgstr "Tilføj tabulatorstop ved:"
+
+msgid "Add Text"
+msgstr "Tilføj tekst"
+
+msgid "Add the chapter number"
+msgstr "Tilføj kapitelnummeret"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Føj til dokumentet"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Føj til værktøjslinjen Hurtig adgang"
+
+msgid "Add to Style Gallery"
+msgstr "Tilføj til stilgalleri"
+
+msgid "Add whether it is above or below"
+msgstr "Tilføj, om det er ovenfor eller nedenunder"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Tilføj/redigér\nbibliografi"
+
+msgid "Add/Edit\nCitation"
+msgstr "Tilføj/redigér\ncitat"
+
+msgid "Add\nNote"
+msgstr "Tilføj\nnote"
+
+msgid "Add\nPen"
+msgstr "Tilføj\npen"
+
+msgid "Add\nShape"
+msgstr "Tilføj\nfigur"
+
+msgid "Added 1 font"
+msgstr ""
+
+msgid "Added Fonts"
+msgstr "Tilføjede skrifttyper"
+
+msgid "Added {n} fonts"
+msgstr ""
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address Block"
+msgstr "Adresseblok"
+
+msgid "Address labels"
+msgstr "Adressetiketter"
+
+msgid "Address:"
+msgstr "Adresse:"
+
+msgid "Address\nBlock"
+msgstr "Adresse\nblok"
+
+msgid "Advanced Find"
+msgstr "Avanceret søgning"
+
+msgid "Advanced Find…"
+msgstr "Avanceret søgning…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgid "After:"
+msgstr "Efter:"
+
+msgid "Agents"
+msgstr "Agenter"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Agenter, der er forbundet til WordCraft, kan vise dig beskeder gennem Assistenten. Når de er slået fra, får de at vide, at du helst vil være fri."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ah, latin. Deadlinernes modersmål."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ah, redigeringsfasen. Min favorit. Meget beslutsomt."
+
+msgid "Albanian"
+msgstr "albansk"
+
+msgid "Align Bottom Center"
+msgstr "Justér nederst i midten"
+
+msgid "Align Bottom Left"
+msgstr "Justér nederst til venstre"
+
+msgid "Align Bottom Right"
+msgstr "Justér nederst til højre"
+
+msgid "Align Center"
+msgstr "Justér i midten"
+
+msgid "Align Center Left"
+msgstr "Justér midt til venstre"
+
+msgid "Align Center Right"
+msgstr "Justér midt til højre"
+
+msgid "Align Top Center"
+msgstr "Justér øverst i midten"
+
+msgid "Align Top Left"
+msgstr "Justér øverst til venstre"
+
+msgid "Align Top Right"
+msgstr "Justér øverst til højre"
+
+msgid "Aligned at:"
+msgstr "Justeret ved:"
+
+msgid "All - Linear"
+msgstr "Alle – lineære"
+
+msgid "All - Professional"
+msgstr "Alle – professionelle"
+
+msgid "All Borders"
+msgstr "Alle kanter"
+
+msgid "All caps"
+msgstr "Alle store bogstaver"
+
+msgid "All Commands"
+msgstr "Alle kommandoer"
+
+msgid "All documents based on the Normal template?"
+msgstr "Alle dokumenter baseret på skabelonen Normal?"
+
+msgid "All Fonts"
+msgstr ""
+
+msgid "All Levels"
+msgstr "Alle niveauer"
+
+msgid "All Markup"
+msgstr "Alle markeringer"
+
+msgid "All pages in the range"
+msgstr "Alle sider i området"
+
+msgid "All symbol sets"
+msgstr "Alle symbolmængder"
+
+msgid "All system fonts are already available."
+msgstr "Alle systemskrifttyper er allerede tilgængelige."
+
+msgid "Allow hanging punctuation"
+msgstr "Tillad hængende tegnsætning"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Tillad, at latinisk tekst brydes midt i et ord"
+
+msgid "Allow line breaks"
+msgstr "Tillad linjeskift"
+
+msgid "Allow row to break across pages"
+msgstr "Tillad, at rækker kan brydes på tværs af sider"
+
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+msgid "Alt Text"
+msgstr "Alternativ tekst"
+
+msgid "Alt text"
+msgstr "Alternativ tekst"
+
+msgid "Alt Text Pane"
+msgstr "Alternativtekst-rude"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Alternativ\ntekst"
+
+msgid "an agent"
+msgstr "en agent"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "En installeret sprogpakke bruges efter denne mappe."
+
+msgid "And"
+msgstr "Og"
+
+msgid "Angle Brackets"
+msgstr "Vinkelparenteser"
+
+msgid "Angle Brackets with Separator"
+msgstr "Vinkelparenteser med adskiller"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Vinkelparenteser med to adskillere"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animér markøren (den glider og falmer)"
+
+msgid "Animation effects:"
+msgstr "Animationseffekter:"
+
+msgid "Annotation Reference"
+msgstr "Annotationshenvisning"
+
+msgid "Annotation Subject"
+msgstr "Annotationsemne"
+
+msgid "Annotation Text"
+msgstr "Annotationstekst"
+
+msgid "Annoying"
+msgstr "Irriterende"
+
+msgid "Another file"
+msgstr "Anden fil"
+
+msgid "Any Character"
+msgstr "Vilkårligt tegn"
+
+msgid "Any Digit"
+msgstr "Vilkårligt ciffer"
+
+msgid "Any field"
+msgstr ""
+
+msgid "Any Letter"
+msgstr "Vilkærligt bogstav"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Alle kan åbne dette dokument. Krypter det med en adgangskode for at holde det privat."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Alle, der åbner dokumentet, skal bruge denne adgangskode."
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Anvend under indtastning"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Anvend asiatiske regler for linjeskift (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Anvend formatering på:"
+
+msgid "Apply Style"
+msgstr "Anvend stil"
+
+msgid "Apply Styles"
+msgstr "Anvend stile"
+
+msgid "Arabic"
+msgstr "Arabisk"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Bue ned"
+
+msgid "Arch Up"
+msgstr "Bue op"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenian"
+msgstr "armensk"
+
+msgid "Arrange\nAll"
+msgstr "Arranger\nalle"
+
+msgid "Article I."
+msgstr ""
+
+msgid "Artistic Effects"
+msgstr "Kunstneriske effekter"
+
+msgid "As Recommended"
+msgstr "Som anbefalet"
+
+msgid "As you type"
+msgstr "Under indtastning"
+
+msgid "ASAP"
+msgstr "SNARST"
+
+msgid "Asian text font:"
+msgstr "Skrifttype til asiatisk tekst:"
+
+msgid "Asian Typography"
+msgstr "Asiatisk typografi"
+
+msgid "Assistant"
+msgstr "Assistent"
+
+msgid "Assistant Suggestions"
+msgstr "Forslag fra Assistenten"
+
+msgid "At least"
+msgstr "Mindst"
+
+msgid "At least {n}"
+msgstr "Mindst {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Atmosfære"
+
+msgid "Attach Template"
+msgstr "Vedhæft skabelon"
+
+msgid "Attach…"
+msgstr "Vedhæft…"
+
+msgid "Australia"
+msgstr "Australien"
+
+msgid "Austria"
+msgstr "Østrig"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "AutoCorrect"
+
+msgid "AutoCorrect Options"
+msgstr "Indstillinger for AutoCorrect"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Tilpas automatisk"
+
+msgid "AutoFit behavior"
+msgstr ""
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Tilpas kolonne automatisk ved at dobbeltklikke"
+
+msgid "AutoFit Contents"
+msgstr "Tilpas automatisk indhold"
+
+msgid "AutoFit to contents"
+msgstr ""
+
+msgid "AutoFit to window"
+msgstr ""
+
+msgid "AutoFit Window"
+msgstr "Tilpas automatisk til vindue"
+
+msgid "AutoFormat As You Type"
+msgstr "Autoformat under indtastning"
+
+msgid "Automatic ({language})"
+msgstr "Automatisk ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automatisk ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Automatiske punktlister"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automatisk følger dit systems sprog. Menuer og kommandoer ændrer sig; dine dokumenter gør ikke."
+
+msgid "Automatic numbered lists"
+msgstr "Automatiske nummererede lister"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automatisk tabel 1 (3 niveauer)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automatisk tabel 2 (2 niveauer)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Orddel dokumentet automatisk"
+
+msgid "Automatically Update Document Styles"
+msgstr "Opdatér dokumentstile automatisk"
+
+msgid "Automatically update document styles"
+msgstr "Opdatér dokumentstile automatisk"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Gem automatisk dokumenter, du har gemt i WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "AutoSave mislykkedes: {error}. Gem dokumentet for at slå AutoSave til igen."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "AutoSave er ikke tilgængelig i browseren: den kan ikke skrive til dine filer. Gem henter en kopi ned."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "AutoSave gemmer kun .docx-, .odt- og .rtf-filer; {name} kan ikke gemme al formatering. Gem som .docx for at aktivere AutoSave."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "AutoSave gemmer alle ændringer i filen (kræver et gemt dokument)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "AutoSave gemmer dine ændringer i filen et øjeblik, efter at du holder op med at skrive."
+
+msgid "AutoText"
+msgstr "AutoText"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Taleballoner"
+
+msgid "Banded Columns"
+msgstr "Stribede kolonner"
+
+msgid "Banded Rows"
+msgstr "Stribede rækker"
+
+msgid "Base text:"
+msgstr "Grundtekst:"
+
+msgid "Based on: {style}"
+msgstr "Baseret på: {style}"
+
+msgid "Baseline Dots"
+msgstr "Prikker på basislinjen"
+
+msgid "Basic Cycle"
+msgstr "Grundlæggende cyklus"
+
+msgid "Basic List"
+msgstr "Grundlæggende liste"
+
+msgid "Basic Math"
+msgstr "Grundlæggende matematik"
+
+msgid "Basic Matrix"
+msgstr "Grundlæggende matrix"
+
+msgid "Basic Process"
+msgstr "Grundlæggende proces"
+
+msgid "Basic Pyramid"
+msgstr "Grundlæggende pyramide"
+
+msgid "Basic Radial"
+msgstr "Grundlæggende radial"
+
+msgid "Basic Venn"
+msgstr "Grundlæggende Venn"
+
+msgid "Bayes' rule"
+msgstr "Bayes' sætning"
+
+msgid "Before:"
+msgstr "Før:"
+
+msgid "Beginning of Word"
+msgstr "Begyndelse af ord"
+
+msgid "Behind Text"
+msgstr "Bag tekst"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belarusian"
+msgstr "hviderussisk"
+
+msgid "Belgium"
+msgstr "Belgien"
+
+msgid "Below text"
+msgstr "Under tekst"
+
+msgid "Below the item"
+msgstr "Under elementet"
+
+msgid "Between"
+msgstr "Mellem"
+
+msgid "Bibliography"
+msgstr "Bibliografi"
+
+msgid "Binomial Coefficient"
+msgstr "Binomialkoefficient"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binomialkoefficient (vinkelparenteser)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binomialkoefficient med vinkelparenteser"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Binomialudvikling af (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Tom"
+
+msgid "Blank (Three Columns)"
+msgstr "Tom (tre kolonner)"
+
+msgid "Blank document"
+msgstr "Tomt dokument"
+
+msgid "Blank Page"
+msgstr "Tom side"
+
+msgid "Block\nAuthors"
+msgstr "Blokér\nforfattere"
+
+msgid "Blue:"
+msgstr "Blå:"
+
+msgid "Body Text"
+msgstr "Brødtekst"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Brødtekst i et kort afsnit for at vise afstand."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Modigt valg. Ctrl+Z står lige her, hvis du får brug for det."
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Bog"
+
+msgid "Book Title"
+msgstr "Bogtitel"
+
+msgid "Book title"
+msgstr "Bogtitel"
+
+msgid "Bookmark"
+msgstr "Bogmærke"
+
+msgid "Bookmark name:"
+msgstr "Bogmærkenavn:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Kantlinjer"
+
+msgid "Border Painter"
+msgstr "Kantværktøj"
+
+msgid "Border\nPainter"
+msgstr "Kant-\nværktøj"
+
+msgid "Borders and Shading"
+msgstr "Kanter og skygge"
+
+msgid "Borders and Shading…"
+msgstr "Kanter og skygge…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien-Hercegovina"
+
+msgid "Bosnian"
+msgstr "bosnisk"
+
+msgid "Both Sides"
+msgstr "Begge sider"
+
+msgid "Bottom Border"
+msgstr "Nederste kant"
+
+msgid "Bottom Left Cell"
+msgstr "Nederste venstre celle"
+
+msgid "Bottom Margin"
+msgstr "Nederste sidekant"
+
+msgid "Bottom of Page"
+msgstr "Nederst på siden"
+
+msgid "Bottom Right Cell"
+msgstr "Nederste højre celle"
+
+msgid "Box"
+msgstr "Boks"
+
+msgid "Boxed Formula"
+msgstr "Indrammet formel"
+
+msgid "Boxed Formula (example)"
+msgstr "Indrammet formel (eksempel)"
+
+msgid "Boxed Formulas"
+msgstr "Indrammede formler"
+
+msgid "Braces"
+msgstr "Krøllede parenteser"
+
+msgid "Braces with Separator"
+msgstr "Krøllede parenteser med adskiller"
+
+msgid "Bracket"
+msgstr "Parentes"
+
+msgid "Brackets"
+msgstr "Kantede parenteser"
+
+msgid "Brackets with Separators"
+msgstr "Kantede parenteser med adskillere"
+
+msgid "Brazil"
+msgstr "Brasilien"
+
+msgid "Breaks"
+msgstr "Skift"
+
+msgid "Breve"
+msgstr "Breve"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Gennemse i WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Indholdskontrol til byggeblokgalleri"
+
+msgid "Built in"
+msgstr "Indbygget"
+
+msgid "Built-In"
+msgstr "Indbygget"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Indbygget stil"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Indbyggede stile kan ikke slettes."
+
+msgid "Bulgarian"
+msgstr "bulgarsk"
+
+msgid "Bullet Library"
+msgstr "Punktbibliotek"
+
+msgid "Bullets"
+msgstr "Punktnumre"
+
+msgid "By author"
+msgstr "Efter forfatter"
+
+msgid "Cabo Verde"
+msgstr "Kap Verde"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Can't be deleted"
+msgstr "Kan ikke slettes"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Kan du ikke finde en kommando? Tryk på {key}, og skriv, hvad du vil gøre."
+
+msgid "can't split at the first row"
+msgstr "kan ikke opdele ved den første række"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canvas Member"
+msgstr "Lærredselement"
+
+msgid "Capitalize Each Word"
+msgstr "Sæt initialer i hvert ord"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Skriv første bogstav i sætninger med stort"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Skriv første bogstav i tabelceller med stort"
+
+msgid "Capitalize names of days"
+msgstr "Skriv navne på dage med stort"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Sæt stort bogstav i starten af en sætning"
+
+msgid "Caption Numbering"
+msgstr "Nummerering af billedtekster"
+
+msgid "Caption text"
+msgstr "Billedtekst"
+
+msgid "Caption:"
+msgstr "Billedtekst:"
+
+msgid "Captions"
+msgstr "Billedtekster"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Pas på, går vi længere tilbage, fortryder vi opfindelsen af papir."
+
+msgid "Caret Character"
+msgstr "Markørtegn"
+
+msgid "Case changes"
+msgstr "Ændring af skrivetype"
+
+msgid "Cases (Three Conditions)"
+msgstr "Tilfælde (tre betingelser)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Tilfælde (to betingelser)"
+
+msgid "Cases and Stacks"
+msgstr "Tilfælde og stablinger"
+
+msgid "Catalan"
+msgstr "catalansk"
+
+msgid "Catalan (Valencian)"
+msgstr "catalansk (valenciansk)"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Categories:"
+msgstr "Kategorier:"
+
+msgid "Category {n}"
+msgstr "Kategori {n}"
+
+msgid "Ceiling"
+msgstr "Loft"
+
+msgid "Cell"
+msgstr "Celle"
+
+msgid "Cell Margins"
+msgstr "Cellemargener"
+
+msgid "Cell\nMargins"
+msgstr "Celle\nmargener"
+
+msgid "Center Glow"
+msgstr ""
+
+msgid "Centered as Group"
+msgstr "Centreret som gruppe"
+
+msgid "Change Chart Type"
+msgstr "Skift diagramtype"
+
+msgid "Change Colors"
+msgstr "Skift farver"
+
+msgid "Change in y over change in x"
+msgstr "Ændring i y i forhold til ændring i x"
+
+msgid "Change Layout"
+msgstr "Skift layout"
+
+msgid "Change List Level"
+msgstr "Skift listeniveau"
+
+msgid "Change Password…"
+msgstr "Skift adgangskode…"
+
+msgid "Change Picture"
+msgstr "Skift billede"
+
+msgid "Change Picture…"
+msgstr "Skift billede…"
+
+msgid "Change Shape"
+msgstr "Skift figur"
+
+msgid "Change Structure"
+msgstr "Skift struktur"
+
+msgid "Change to Display"
+msgstr "Skift til visning"
+
+msgid "Change to Inline"
+msgstr "Skift til integreret"
+
+msgid "Change to Level 1"
+msgstr "Skift til niveau 1"
+
+msgid "Change to Level 2"
+msgstr "Skift til niveau 2"
+
+msgid "Change to Level 3"
+msgstr "Skift til niveau 3"
+
+msgid "Change to Level 4"
+msgstr "Skift til niveau 4"
+
+msgid "Change to Level 5"
+msgstr "Skift til niveau 5"
+
+msgid "Change to Level 6"
+msgstr "Skift til niveau 6"
+
+msgid "Change to Level 7"
+msgstr "Skift til niveau 7"
+
+msgid "Change to Level 8"
+msgstr "Skift til niveau 8"
+
+msgid "Change to Level 9"
+msgstr "Skift til niveau 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Skift\ndiagramtype"
+
+msgid "Change\nColors"
+msgstr "Skift\nfarver"
+
+msgid "Changed lines:"
+msgstr "Ændrede linjer:"
+
+msgid "Changes"
+msgstr "Ændringer"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr ""
+
+msgid "Chapter in a book"
+msgstr "Kapitel i en bog"
+
+msgid "Chapters begin at:"
+msgstr "Kapitler begynder ved:"
+
+msgid "Character Border"
+msgstr "Tegnramme"
+
+msgid "Character code:"
+msgstr "Tegnkode:"
+
+msgid "Character in Range"
+msgstr "Tegn i området"
+
+msgid "Character level"
+msgstr "Tegnniveau"
+
+msgid "Character Position"
+msgstr "Tegnposition"
+
+msgid "Character Scale"
+msgstr "Tegnskalering"
+
+msgid "Character Shading"
+msgstr "Tegnskygge"
+
+msgid "Character Spacing"
+msgstr "Tegnafstand"
+
+msgid "Character spacing"
+msgstr "Tegnafstand"
+
+msgid "Character style"
+msgstr "Tegnstil"
+
+msgid "Characters (no spaces)"
+msgstr "Tegn (uden mellemrum)"
+
+msgid "Characters (with spaces)"
+msgstr "Tegn (med mellemrum)"
+
+msgid "Characters per line:"
+msgstr "Tegn pr. linje:"
+
+msgid "Chart"
+msgstr "Diagram"
+
+msgid "Chart Design"
+msgstr "Diagramdesign"
+
+msgid "Chart Layouts"
+msgstr "Diagramlayouts"
+
+msgid "Chart Title"
+msgstr "Diagramtitel"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "diagrammer og grafer kan endnu ikke flyttes eller have ændret størrelse"
+
+msgid "Check"
+msgstr "Hake"
+
+msgid "Check Accessibility"
+msgstr "Kontrollér tilgængelighed"
+
+msgid "Check Box Content Control"
+msgstr "Indholdskontrol til afkrydsningsfelt"
+
+msgid "Check Compatibility"
+msgstr "Kontrollér kompatibilitet"
+
+msgid "Check for Errors"
+msgstr "Søg efter fejl"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Kontrollér stavning under skrivning"
+
+msgid "Check spelling as you type"
+msgstr "Kontrollér stavning under indtastning"
+
+msgid "Check\nAccessibility"
+msgstr "Kontrollér\ntilgængelighed"
+
+msgid "Checked styles are allowed:"
+msgstr "Tilladte stile:"
+
+msgid "Checked symbol"
+msgstr "Afkrydset symbol"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Pil ned"
+
+msgid "Chevron Up"
+msgstr "Pil op"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Kina"
+
+msgid "Chinese (Simplified)"
+msgstr "Kinesisk (forenklet)"
+
+msgid "Chinese (Traditional)"
+msgstr "Kinesisk (traditionelt)"
+
+msgid "Choose a command"
+msgstr "Vælg en kommando"
+
+msgid "Choose a shortcut"
+msgstr "Vælg en genvej"
+
+msgid "Choose List Item"
+msgstr "Vælg listeelement"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Vælg det ark, der indeholder modtagerne."
+
+msgid "Circle area from its radius"
+msgstr "Cirkelareal ud fra radius"
+
+msgid "Circled Dot"
+msgstr "Prik i cirkel"
+
+msgid "Circled Plus"
+msgstr "Plus i cirkel"
+
+msgid "Circled Times"
+msgstr "Gangetegn i cirkel"
+
+msgid "Citation Style"
+msgstr "Citatformat"
+
+msgid "Citations"
+msgstr "Citater"
+
+msgid "Citations & Bibliography"
+msgstr "Citater og bibliografi"
+
+msgid "Clear All Formatting"
+msgstr "Ryd al formatering"
+
+msgid "Clear Character Formatting"
+msgstr "Ryd tegnformatering"
+
+msgid "Clear Character Style"
+msgstr "Ryd tegnstil"
+
+msgid "Clear Formatting Level"
+msgstr "Ryd formateringsniveau"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Ryd afsnitsformatering"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Klik på en kant mellem to celler for at flette dem. Esc afbryder."
+
+msgid "Click an item to paste it."
+msgstr "Klik på et element for at sætte det ind."
+
+msgid "Click level to modify:"
+msgstr "Klik på det niveau, du vil ændre:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Klik på den tomme tekstboks, hvor teksten skal fortsætte (Esc annullerer)"
+
+msgid "Click to switch back to inserting"
+msgstr "Klik for at gå tilbage til indsættelse"
+
+msgid "Clipboard Contents"
+msgstr "Udklipsholderens indhold"
+
+msgid "Clipboard Items"
+msgstr "Elementer i udklipsholder"
+
+msgid "Clipboard Pane"
+msgstr "Udklipsholderrude"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Luk formel"
+
+msgid "Close Header and Footer"
+msgstr "Luk sidehoved og sidefod"
+
+msgid "Close Outline View"
+msgstr "Luk dispositionsvisning"
+
+msgid "Close Outline\nView"
+msgstr "Luk\ndispositionsvisning"
+
+msgid "Clustered Bar"
+msgstr "Samlet søjle"
+
+msgid "Clustered Column"
+msgstr "Samlet kolonne"
+
+msgid "cm"
+msgstr ""
+
+msgid "Col #:"
+msgstr "Kol. nr.:"
+
+msgid "Collapse Selection"
+msgstr "Skjul markering"
+
+msgid "Collate copies"
+msgstr "Sortér kopier"
+
+msgid "Collect entries from:"
+msgstr "Indsaml poster fra:"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Colon Equal"
+msgstr "Kolon med lighedstegn"
+
+msgid "Color model:"
+msgstr "Farvemodel:"
+
+msgid "Color only"
+msgstr "Kun farve"
+
+msgid "Color: {color}"
+msgstr "Farve: {color}"
+
+msgid "Colorful"
+msgstr "Farverig"
+
+msgid "Column"
+msgstr "Kolonne"
+
+msgid "Column Break"
+msgstr "Kolonneskift"
+
+msgid "Column Selection"
+msgstr "Kolonnevalg"
+
+msgid "Column {n}"
+msgstr "Kolonne {n}"
+
+msgid "Column:"
+msgstr "Kolonne:"
+
+msgid "Combine Documents"
+msgstr "Sammensæt dokumenter"
+
+msgid "Combo Box Content Control"
+msgstr "Indholdskontrol til kombinationsfelt"
+
+msgid "Commands"
+msgstr "Kommandoer"
+
+msgid "Commas"
+msgstr ""
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Kommentarer ved siden af hver side og sporede ændringer i PDF'er, udskrifter og billeder; en liste med kommentarer i slutningen af websider, Markdown og tekst."
+
+msgid "Comments Pane"
+msgstr "Kommentarrude"
+
+msgid "Common Accent Objects"
+msgstr "Almindelige akcentobjekter"
+
+msgid "Common Brackets"
+msgstr "Almindelige parenteser"
+
+msgid "Common Fractions"
+msgstr "Almindelige brøker"
+
+msgid "Common Functions"
+msgstr "Almindelige funktioner"
+
+msgid "Common Large Operators"
+msgstr "Almindelige store operatorer"
+
+msgid "Common Operator Structures"
+msgstr "Almindelige operatorstrukturer"
+
+msgid "Common Operators"
+msgstr "Almindelige operatorer"
+
+msgid "Common Radicals"
+msgstr "Almindelige rødder"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Almindelige indekser og hævede indekser"
+
+msgid "Communication"
+msgstr "Kommunikation"
+
+msgid "Community\nDiscord"
+msgstr "Fællesskab\nDiscord"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Compare Documents"
+msgstr "Sammenlign dokumenter"
+
+msgid "Compare to"
+msgstr "Sammenlign med"
+
+msgid "Compared: {changes} changes"
+msgstr "Sammenlignet: {changes} ændringer"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Sammenligning med en anden fil kræver computerappen."
+
+msgid "Comparison settings"
+msgstr "Sammenligningsindstillinger"
+
+msgid "Compress Pictures"
+msgstr "Komprimér billeder"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Komprimér tegnsætning ved starten af en linje"
+
+msgid "Conference"
+msgstr "Konference"
+
+msgid "Conference paper"
+msgstr "Konferencepaper"
+
+msgid "CONFIDENTIAL"
+msgstr "FORTROLIG"
+
+msgid "Confirm password:"
+msgstr "Bekræft adgangskode:"
+
+msgid "Connect Shapes"
+msgstr "Forbind figurer"
+
+msgid "Container Title"
+msgstr "Beholdertitel"
+
+msgid "Content Control at Selection"
+msgstr "Indholdskontrolelement ved markering"
+
+msgid "Content Control Properties"
+msgstr "Indholdskontrolgens egenskaber"
+
+msgid "Contents can't be edited"
+msgstr "Indholdet kan ikke redigeres"
+
+msgid "Context"
+msgstr "Kontekst"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr ""
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Kontinuerlig"
+
+msgid "Continuous numbering"
+msgstr "Fortsat nummerering"
+
+msgid "Contour Integral"
+msgstr "Konturintegral"
+
+msgid "Contour Integral with Limits"
+msgstr "Konturintegral med grænser"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Konturintegral med grænser over og under"
+
+msgid "Contour Integrals"
+msgstr "Konturintegraler"
+
+msgid "Controls"
+msgstr "Kontrolelementer"
+
+msgid "Conversions"
+msgstr "Konverteringer"
+
+msgid "Convert between built-up and linear form"
+msgstr "Konvertér mellem professionel og lineær form"
+
+msgid "Convert Notes"
+msgstr "Konvertér noter"
+
+msgid "Convert Text to Table"
+msgstr "Konvertér tekst til tabel"
+
+msgid "Convert Text to Table…"
+msgstr "Konvertér tekst til tabel…"
+
+msgid "Convert to Shapes"
+msgstr "Konvertér til figurer"
+
+msgid "Convert to Text"
+msgstr "Konvertér til tekst"
+
+msgid "Coproduct"
+msgstr "Koprodukt"
+
+msgid "Coproduct with Limits"
+msgstr "Koprodukt med grænser"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Koprodukt med nedre grænse"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Koprodukt med grænser i sub- og superskript"
+
+msgid "Copy Formatting"
+msgstr "Kopiér formatering"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Kopi af den tekst, et bogmærke markerer"
+
+msgid "Copy Styles"
+msgstr "Kopiér stile"
+
+msgid "Copy to"
+msgstr "Kopiér til"
+
+msgid "Copyright Sign"
+msgstr "Copyright-symbol"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Ret uvedkommende brug af cAPS LOCK-tasten"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Rettelse af to store begyndelsesbogstaver"
+
+msgid "Corrections"
+msgstr "Rettelser"
+
+msgid "Cosecant Function"
+msgstr "Cosecansfunktion"
+
+msgid "Cosine 2x"
+msgstr "Cosinus 2x"
+
+msgid "Cosine Function"
+msgstr "Cosinusfunktion"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Cotangensfunktion"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Kunne ikke hente {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Kunne ikke gøre WordCraft til standardprogram: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Kunne ikke åbne {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Tæl efter:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Tæl ord i tekstfelter og noter"
+
+msgid "Courtesy Title"
+msgstr "Høflighedsbetegnelse"
+
+msgid "Cover Page"
+msgstr "Forside"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Opret en stil"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Opret en interaktiv disposition af dit dokument.\n\nDet er en fin måde at holde styr på, hvor du er, eller hurtigt at flytte rundt på indholdet.\n\nFor at komme i gang skal du gå til fanen Start og anvende Overskrift-stile på overskrifterne i dit dokument."
+
+msgid "Create Graphic"
+msgstr "Opret grafik"
+
+msgid "Create Link"
+msgstr "Opret forbindelse"
+
+msgid "Create New Style"
+msgstr "Opret ny stil"
+
+msgid "Create Source"
+msgstr "Opret kilde"
+
+msgid "Croatian"
+msgstr "Kroatisk"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Krydshenvisning"
+
+msgid "Cross-reference:"
+msgstr "Krydshenvisning:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cube Root"
+msgstr "Kubikrod"
+
+msgid "Current - Linear"
+msgstr "Nuværende – lineære"
+
+msgid "Current - Professional"
+msgstr "Nuværende – professionelle"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Nuværende placering"
+
+msgid "Current record"
+msgstr "Aktuel post"
+
+msgid "Current style: {style}"
+msgstr "Nuværende stil: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Krum pilforbindelse"
+
+msgid "Curved Connector"
+msgstr "Krum forbindelse"
+
+msgid "Custom dictionary"
+msgstr "Brugerdefineret ordbog"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Brugerdefinerede sidekanter…"
+
+msgid "Custom mark:"
+msgstr "Tilpasset mærke:"
+
+msgid "Custom range"
+msgstr "Brugerdefineret område"
+
+msgid "Custom size"
+msgstr "Brugerdefineret størrelse"
+
+msgid "Custom Table of Contents…"
+msgstr "Brugerdefineret indholdsfortegnelse…"
+
+msgid "Custom Watermark"
+msgstr "Brugerdefineret vandmærke"
+
+msgid "Custom Watermark…"
+msgstr "Brugerdefineret vandmærke…"
+
+msgid "Customize"
+msgstr "Tilpas"
+
+msgid "Customize Keyboard"
+msgstr "Tilpas tastatur"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Tilpas værktøjslinjen Hurtig adgang"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Tilpas værktøjslinjen Hurtig adgang…"
+
+msgid "Customize Ribbon"
+msgstr "Tilpas bånd"
+
+msgid "Customize the Ribbon…"
+msgstr "Tilpas båndet…"
+
+msgid "Cycle"
+msgstr "Cyklus"
+
+msgid "Cyprus"
+msgstr "Cypern"
+
+msgid "Czech"
+msgstr "Tjekisk"
+
+msgid "Danish"
+msgstr "Dansk"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Mørk tilstand"
+
+msgid "Dark page (white text on black)"
+msgstr "Mørk side (hvid tekst på sort)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr ""
+
+msgid "Dark with Shadow"
+msgstr "Mørk med skygge"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Mørkekammer"
+
+msgid "Data Labels"
+msgstr "Datalabels"
+
+msgid "Date & Time"
+msgstr "Dato og klokkeslæt"
+
+msgid "Date formats:"
+msgstr "Datoformater:"
+
+msgid "Date Picker Content Control"
+msgstr "Indholdskontrolelement: Datovælger"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Dekorative objekter giver kun visuel interesse: skærmlæsere springer dem over."
+
+msgid "Decorative Text"
+msgstr "Dekorativ tekst"
+
+msgid "Decorative Text Styles"
+msgstr "Typografier for dekorativ tekst"
+
+msgid "Decrease Indent"
+msgstr "Formindr indrykning"
+
+msgid "Deep"
+msgstr ""
+
+msgid "Default formatting"
+msgstr "Standardformatering"
+
+msgid "Default Paragraph Font"
+msgstr "Skrifttype til standardafsnit"
+
+msgid "Default tab stops:"
+msgstr "Standardtabulatorstop:"
+
+msgid "Define New Bullet"
+msgstr "Definer nyt punktnummer"
+
+msgid "Define New Multilevel List"
+msgstr "Definer ny flerniveauliste"
+
+msgid "Define New Multilevel List…"
+msgstr "Definer ny flerniveauliste…"
+
+msgid "Define New Number Format"
+msgstr "Definer nyt talformat"
+
+msgid "Deflate"
+msgstr "Komprimér"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Slet omkring markøren i formlen"
+
+msgid "Delete Back in Equation"
+msgstr "Slet tilbage i formel"
+
+msgid "Delete Bookmark"
+msgstr "Slet bogmærke"
+
+msgid "Delete Cells"
+msgstr "Slet celler"
+
+msgid "Delete Clipboard Item"
+msgstr "Slet element i udklipsholder"
+
+msgid "Delete Columns"
+msgstr "Slet kolonner"
+
+msgid "Delete Comment"
+msgstr "Slet kommentar"
+
+msgid "Delete in Equation"
+msgstr "Slet i formel"
+
+msgid "Delete Label"
+msgstr "Slet etiket"
+
+msgid "Delete Next Word"
+msgstr "Slet næste ord"
+
+msgid "Delete Previous Word"
+msgstr "Slet forrige ord"
+
+msgid "Delete Rows"
+msgstr "Slet rækker"
+
+msgid "Delete Selected Ink"
+msgstr "Slet valgt håndskrift"
+
+msgid "Delete Table"
+msgstr "Slet tabel"
+
+msgid "Delete Table Style"
+msgstr "Slet tabelstil"
+
+msgid "Deletions:"
+msgstr "Sletninger:"
+
+msgid "Delivery address:"
+msgstr "Leveringsadresse:"
+
+msgid "Delta Equal To"
+msgstr "Delta er lig med"
+
+msgid "Delta over arrow"
+msgstr "Delta over pil"
+
+msgid "Demote"
+msgstr "Sænk"
+
+msgid "Demote to Body Text"
+msgstr "Sænk til brødtekst"
+
+msgid "Derivative as a limit"
+msgstr "Den afledte som en grænseværdi"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Beskriv, hvad dette objekt viser, for personer, der ikke kan se det."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Beskriv, hvad denne tabel viser, for personer, der ikke kan se den."
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Design Mode"
+msgstr "Designtilstand"
+
+msgid "Detach Template"
+msgstr "Frigør skabelon"
+
+msgid "Detect language automatically"
+msgstr "Registrer sprog automatisk"
+
+msgid "Developer"
+msgstr "Udvikler"
+
+msgid "development build"
+msgstr "udviklingsversion"
+
+msgid "Diagonal Dots"
+msgstr "Diagonale prikker"
+
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Diagramdesign"
+
+msgid "Diagram Styles"
+msgstr "Diagramtypografier"
+
+msgid "Dictate"
+msgstr "Diktér"
+
+msgid "Dictionaries"
+msgstr "Ordbøger"
+
+msgid "Dictionaries folder:"
+msgstr "Ordbogsmappe:"
+
+msgid "Dictionary files"
+msgstr "Ordbogsfiler"
+
+msgid "Different First Page"
+msgstr "Forskellige første side"
+
+msgid "Different Odd & Even Pages"
+msgstr "Forskellige ulige og lige sider"
+
+msgid "Differential"
+msgstr "Differentiale"
+
+msgid "Differential theta"
+msgstr "Differentiale theta"
+
+msgid "Differential x"
+msgstr "Differentiale x"
+
+msgid "Differential y"
+msgstr "Differentiale y"
+
+msgid "Differentials"
+msgstr "Differentialer"
+
+msgid "Direct formatting"
+msgstr "Direkte formatering"
+
+msgid "Directory"
+msgstr "Mappe"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord-fællesskab"
+
+msgid "Display for Review"
+msgstr "Vis til gennemsyn"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Vis tekst"
+
+msgid "Distance from text"
+msgstr ""
+
+msgid "Distance from text:"
+msgstr ""
+
+msgid "Distribute Columns"
+msgstr "Fordel kolonner jævnt"
+
+msgid "Distribute letters"
+msgstr "Fordel bogstaver"
+
+msgid "Distribute Rows"
+msgstr "Fordel rækker jævnt"
+
+msgid "Distribute spacing"
+msgstr "Fordel afstand"
+
+msgid "Distributed"
+msgstr "Fordelt"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Kontrollér ikke stavning eller grammatik"
+
+msgid "Do not check spelling or grammar"
+msgstr "Kontrollér ikke stavning eller grammatik"
+
+msgid "DO NOT COPY"
+msgstr "IKKE TIL KOPIERING"
+
+msgid "Do Not Show in TOC"
+msgstr "Vis ikke i indholdsfortegnelse"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Vil du gemme ændringer i {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Dokumentets slutning"
+
+msgid "Document Formatting"
+msgstr "Dokumentformatering"
+
+msgid "Document Grid"
+msgstr "Dokumentgitter"
+
+msgid "Document Information"
+msgstr "Dokumentoplysninger"
+
+msgid "Document name"
+msgstr "Dokumentnavn"
+
+msgid "Document Property"
+msgstr "Dokumentegenskab"
+
+msgid "Document Start"
+msgstr "Dokumentets begyndelse"
+
+msgid "Document template:"
+msgstr "Dokumentskabelon:"
+
+msgid "Document Text"
+msgstr "Dokumenttekst"
+
+msgid "Document1"
+msgstr "Dokument1"
+
+msgid "Document\nPreferences"
+msgstr "Dokument\nindstillinger"
+
+msgid "Documents you open will show up here."
+msgstr "Dokumenter, du åbner, vises her."
+
+msgid "Does not contain"
+msgstr "Indeholder ikke"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Den Dominikanske Republik"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Tilføj ikke mellemrum mellem afsnit i samme stil"
+
+msgid "Don't capitalize after:"
+msgstr "Brug ikke store bogstaver efter:"
+
+msgid "Don't hyphenate"
+msgstr "Ingen orddeling"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Læs ikke citater og bibliografier fra Zotero, Mendeley eller EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Vis ikke dette tip igen"
+
+msgid "Dot dash"
+msgstr "Prikstreg"
+
+msgid "Dot-dash"
+msgstr "Prikstreg"
+
+msgid "Dot-dot-dash"
+msgstr ""
+
+msgid "Double"
+msgstr "Dobbelt"
+
+msgid "Double Bar"
+msgstr "Dobbeltstreg over tegn"
+
+msgid "Double Closing Quote"
+msgstr "Dobbelt lukket anførselstegn"
+
+msgid "Double Dot"
+msgstr "Dobbeltprik over tegn"
+
+msgid "Double Integral"
+msgstr "Dobbeltintegral"
+
+msgid "Double Integral with Limits"
+msgstr "Dobbeltintegral med grænser"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Dobbeltintegral med grænser over og under"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dobbelt venstrepil med tekst ovenfor"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dobbelt venstrepil med tekst nedenfor"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dobbelt venstre-højre-pil med tekst ovenfor"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dobbelt venstre-højre-pil med tekst nedenfor"
+
+msgid "Double Opening Quote"
+msgstr "Dobbelt åbent anførselstegn"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dobbelt højrepil med tekst ovenfor"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dobbelt højrepil med tekst nedenfor"
+
+msgid "Double Spacing"
+msgstr "Dobbelt linjeafstand"
+
+msgid "Double Square Brackets"
+msgstr "Dobbelte kantede parenteser"
+
+msgid "Double Strikethrough"
+msgstr "Dobbelt gennemstrege"
+
+msgid "Double strikethrough"
+msgstr "Dobbelt gennemstreget"
+
+msgid "Double summation"
+msgstr "Dobbeltsum"
+
+msgid "Double Underline"
+msgstr "Dobbelt understreget"
+
+msgid "Double Vertical Bars"
+msgstr "Dobbeltlodrette streger"
+
+msgid "Doughnut"
+msgstr "Donut"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Download er slået fra. Et klik på „Tilføj et sprog…“ eller „Installer“ slår det til: WordCraft henter så sprogpakker og skrifttyper fra GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "KLADDE"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Træk et rektangel for at tegne en tabel, eller en linje gennem celler for at opdele dem. Esc afbryder."
+
+msgid "Draw Ink"
+msgstr "Tegn med blæk"
+
+msgid "Draw Table"
+msgstr "Tegn tabel"
+
+msgid "Draw\nTable"
+msgstr "Tegn\nTabel"
+
+msgid "Drawing Canvas"
+msgstr "Lærred"
+
+msgid "Drawing Tools"
+msgstr "Tegneværktøjer"
+
+msgid "Drawing\nCanvas"
+msgstr "Tegne\nlærred"
+
+msgid "Drop Cap"
+msgstr "Stort begyndelsesbogstav"
+
+msgid "Drop cap"
+msgstr "Store forbogstav"
+
+msgid "Drop Cap Options…"
+msgstr ""
+
+msgid "drop caps can't go in a table"
+msgstr "et initial kan ikke placeres i en tabel"
+
+msgid "Drop-Down List Content Control"
+msgstr "Indholdskontrolelement: Rulleliste"
+
+msgid "Dropped"
+msgstr ""
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Fjerner al formatering og sætter ren tekst ind."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Hollandsk, Nederlands eller nl"
+
+msgid "E-mail Messages"
+msgstr "E-mailbeskeder"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Redigér kommentar"
+
+msgid "Edit Data"
+msgstr "Redigér data"
+
+msgid "Edit Document"
+msgstr "Rediger dokument"
+
+msgid "Edit Equation"
+msgstr "Redigér formel"
+
+msgid "Edit Field Code"
+msgstr "Rediger feltkode"
+
+msgid "Edit Field…"
+msgstr "Rediger felt…"
+
+msgid "Edit Footer"
+msgstr "Redigér sidefod"
+
+msgid "Edit Header"
+msgstr "Redigér sidehoved"
+
+msgid "Edit Individual Documents…"
+msgstr "Rediger enkelte dokumenter…"
+
+msgid "Edit Items"
+msgstr "Redigér elementer"
+
+msgid "Edit Recipient List"
+msgstr "Redigér modtagerliste"
+
+msgid "Edit Source"
+msgstr "Rediger kilde"
+
+msgid "Edit\nData"
+msgstr "Redigér\ndata"
+
+msgid "Edit\nRecipient List"
+msgstr "Redigér\nmodtagerliste"
+
+msgid "Edited"
+msgstr "Redigeret"
+
+msgid "Editing endnote"
+msgstr ""
+
+msgid "Editing footnote"
+msgstr ""
+
+msgid "Editing header/footer"
+msgstr "Redigerer sidehoved/sidefod"
+
+msgid "Editing in this document is restricted."
+msgstr "Redigering i dette dokument er begrænset."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Redigering — redigér dokumentet direkte"
+
+msgid "Edition"
+msgstr "Udgave"
+
+msgid "Editor"
+msgstr "Redaktør"
+
+msgid "Egypt"
+msgstr "Egypten"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Vinklet pilforbindelse"
+
+msgid "Elbow Connector"
+msgstr "Vinklet forbindelse"
+
+msgid "Emphasis"
+msgstr "Fremhævning"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Tomme matricer"
+
+msgid "Enclose Characters"
+msgstr "Omslut tegn"
+
+msgid "Enclosure"
+msgstr "Omslutning"
+
+msgid "Encrypt with Password"
+msgstr "Krypter med adgangskode"
+
+msgid "Encrypt with Password…"
+msgstr "Krypter med adgangskode…"
+
+msgid "End of document"
+msgstr "Slut på dokumentet"
+
+msgid "End of section"
+msgstr "Slut på sektionen"
+
+msgid "End of Word"
+msgstr "Slut på ord"
+
+msgid "Endnote Reference"
+msgstr "Slutnotehenvisning"
+
+msgid "Endnote Text"
+msgstr "Slutnotetekst"
+
+msgid "Endnotes"
+msgstr "Slutnoter"
+
+msgid "Endnotes to footnotes"
+msgstr "Slutnoter til fodnoter"
+
+msgid "English (Australia)"
+msgstr ""
+
+msgid "English (Canada)"
+msgstr ""
+
+msgid "English (India)"
+msgstr ""
+
+msgid "English (Ireland)"
+msgstr ""
+
+msgid "English (New Zealand)"
+msgstr ""
+
+msgid "English (South Africa)"
+msgstr ""
+
+msgid "English (United Kingdom)"
+msgstr "Engelsk (Storbritannien)"
+
+msgid "English (United States)"
+msgstr "Engelsk (USA)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Engelsk, dette dokuments sprog og alle installerede sprogpakker. Sprogpakker tilføjer stavekontrolordbøger og orddeling."
+
+msgid "Engrave"
+msgstr "Ritse ind"
+
+msgid "Enlarge symbol"
+msgstr "Forstør symbol"
+
+msgid "Enter a number."
+msgstr "Angiv et tal."
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "Angiv formatering for nummer:"
+
+msgid "Enter in Equation"
+msgstr "Enter i formel"
+
+msgid "Enter page number:"
+msgstr "Angiv sidetal:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Element markeret."
+
+msgid "Envelope #10"
+msgstr "Konvolut #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Konvolutadresse"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Returadresse på konvolut"
+
+msgid "Envelope size:"
+msgstr "Kuvertstørrelse:"
+
+msgid "Envelopes"
+msgstr "Kuverter"
+
+msgid "Equal by Definition"
+msgstr "Lig med definition"
+
+msgid "Equal column width"
+msgstr "Lige kolonnebredde"
+
+msgid "Equal Equal"
+msgstr "Dobbelt lighedstegn"
+
+msgid "Equal to"
+msgstr "Er lig med"
+
+msgid "Equals:"
+msgstr "Lig med:"
+
+msgid "Equation"
+msgstr "Formel"
+
+msgid "Equation Gallery"
+msgstr "Formelgalleri"
+
+msgid "Equation Info"
+msgstr "Formeloplysninger"
+
+msgid "Equation Number"
+msgstr "Formelnummer"
+
+msgid "Equation Options"
+msgstr "Formelindstillinger"
+
+msgid "Equatorial Guinea"
+msgstr "Ækvatorialguinea"
+
+msgid "Erase Ink"
+msgstr "Slet blæk"
+
+msgid "Errors ({n})"
+msgstr "Fejl ({n})"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Estonian"
+msgstr "Estisk"
+
+msgid "Euler's identity"
+msgstr "Eulers identitet"
+
+msgid "Even Banded Columns"
+msgstr "Lige stribede kolonner"
+
+msgid "Even Banded Rows"
+msgstr "Lige stribede rækker"
+
+msgid "Even Page"
+msgstr "Lige side"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Alle ændringer registreres som en sporet ændring."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Alle kommandoer er tilgængelige for scripts og AI-agenter: kør `wordcraft-cli mcp` for en MCP-server, eller start appen med `--control <port>` for JSON-kanalen."
+
+msgid "Every field needs a name."
+msgstr "Alle felter skal have et navn."
+
+msgid "Everyone"
+msgstr "Alle"
+
+msgid "Exactly"
+msgstr "Nøjagtigt"
+
+msgid "Exactly {n}"
+msgstr "Nøjagtigt {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Undtagelser (valgfri)"
+
+msgid "Exceptions…"
+msgstr "Undtagelser…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Eksisterende fil eller webside"
+
+msgid "Expand or Collapse Heading"
+msgstr "Udvid eller skjul overskrift"
+
+msgid "Exponential"
+msgstr "Eksponentialfunktion"
+
+msgid "Exponential series"
+msgstr "Eksponentiel række"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Eksportér en kopi til deling (PDF, Word-dokument)"
+
+msgid "Export Page as PNG"
+msgstr "Eksportér side som PNG"
+
+msgid "Extend Selection"
+msgstr "Udvid markering"
+
+msgid "Extend Selection by Units"
+msgstr "Udvid markering efter enheder"
+
+msgid "Extra space"
+msgstr "Ekstra mellemrum"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Hurtigere: {command} er {key} på tastaturet."
+
+msgid "Field code:"
+msgstr "Feltkode:"
+
+msgid "Field Codes"
+msgstr "Feltkoder"
+
+msgid "Field codes:"
+msgstr "Feltkoder:"
+
+msgid "Field name"
+msgstr "Feltnavn"
+
+msgid "Field name:"
+msgstr "Feltnavn:"
+
+msgid "Field names must be different."
+msgstr "Feltnavne skal være forskellige."
+
+msgid "Field names:"
+msgstr "Feltnavne:"
+
+msgid "Field:"
+msgstr "Felt:"
+
+msgid "Field…"
+msgstr "Felt…"
+
+msgid "Figure"
+msgstr "Figur"
+
+msgid "File locations"
+msgstr ""
+
+msgid "File name:"
+msgstr "Filnavn:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr ""
+
+msgid "Fill color:"
+msgstr "Udfyldningsfarve:"
+
+msgid "Filling in forms"
+msgstr "Udfyldning af formularer"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Filtrér og sortér"
+
+msgid "Filter Recipients"
+msgstr "Filtrér modtagere"
+
+msgid "Find in list:"
+msgstr ""
+
+msgid "Find Next Editable Region"
+msgstr "Find næste redigerbare område"
+
+msgid "Find Previous"
+msgstr "Søg forrige"
+
+msgid "Find Recipient"
+msgstr "Find modtager"
+
+msgid "Find What Expression"
+msgstr "Find efter udtryk"
+
+msgid "Find What Text"
+msgstr "Find efter tekst"
+
+msgid "Find what:"
+msgstr "Find:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "Søger efter printere…"
+
+msgid "Finish & Merge"
+msgstr "Færdigér og flet"
+
+msgid "Finish &\nMerge"
+msgstr "Færdigér og\nflet"
+
+msgid "Finished"
+msgstr "Afsluttet"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "Finnish"
+msgstr "Finsk"
+
+msgid "First Column"
+msgstr "Første kolonne"
+
+msgid "First line"
+msgstr "Første linje"
+
+msgid "First line:"
+msgstr "Første linje:"
+
+msgid "First Name"
+msgstr "Fornavn"
+
+msgid "First Record"
+msgstr "Første post"
+
+msgid "First row of data contains column headers"
+msgstr "Første række data indeholder kolonneoverskrifter"
+
+msgid "Fix Position on Page"
+msgstr "Fastgør placering på siden"
+
+msgid "Fixed Column Width"
+msgstr "Fast kolonnebredde"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Gulv"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Efter nummer:"
+
+msgid "Font Color"
+msgstr "Skriftfarve"
+
+msgid "Font color"
+msgstr "Skriftfarve"
+
+msgid "Font color:"
+msgstr "Skriftfarve:"
+
+msgid "Font Dialog"
+msgstr "Skrifttype-dialog"
+
+msgid "Font: {font}"
+msgstr "Skrifttype: {font}"
+
+msgid "Font…"
+msgstr "Skrifttype…"
+
+msgid "Footer"
+msgstr "Sidefod"
+
+msgid "Footnote and Endnote"
+msgstr "Fodnote og slutnote"
+
+msgid "Footnote Reference"
+msgstr "Fodnotehenvisning"
+
+msgid "Footnote Text"
+msgstr "Fodnotetekst"
+
+msgid "Footnotes"
+msgstr "Fodnoter"
+
+msgid "Footnotes and endnotes"
+msgstr "Fodnoter og slutnoter"
+
+msgid "Footnotes to endnotes"
+msgstr "Fodnoter til slutnoter"
+
+msgid "For which item:"
+msgstr "For hvilket element:"
+
+msgid "Format Page Numbers"
+msgstr "Formatér sidetal"
+
+msgid "Format Page Numbers…"
+msgstr "Formatér sidetal…"
+
+msgid "Format Painter"
+msgstr "Formateringsmaler"
+
+msgid "Format Shape"
+msgstr ""
+
+msgid "Format Shape Pane"
+msgstr "Format Shape Pane"
+
+msgid "Format Shape…"
+msgstr ""
+
+msgid "Formatted"
+msgstr "Formateret"
+
+msgid "Formatted Text"
+msgstr "Formateret tekst"
+
+msgid "Formatting"
+msgstr "Formatering"
+
+msgid "Formatting at Selection"
+msgstr "Formatering af markering"
+
+msgid "Formatting exceptions"
+msgstr "Formateringsundtagelser"
+
+msgid "Formatting marks"
+msgstr "Formattegn"
+
+msgid "Formatting saved for new documents:"
+msgstr "Formatering gemt til nye dokumenter:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Formatering, ændringer af store og små bogstaver, mellemrum og tabeller sammenlignes; de øvrige indstillinger gemmes til senere."
+
+msgid "Formula"
+msgstr "Formel"
+
+msgid "Formula:"
+msgstr "Formel:"
+
+msgid "Forward"
+msgstr "Fremad"
+
+msgid "Fraction"
+msgstr "Brøk"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Brøker (1/2) som brøksymboler (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Frankrig"
+
+msgid "French (France)"
+msgstr "Fransk (Frankrig)"
+
+msgid "From Bottom Left Corner"
+msgstr ""
+
+msgid "From Bottom Right Corner"
+msgstr ""
+
+msgid "From Center"
+msgstr ""
+
+msgid "From text:"
+msgstr "Fra tekst:"
+
+msgid "From Top Left Corner"
+msgstr ""
+
+msgid "From Top Right Corner"
+msgstr ""
+
+msgid "from Unicode (hex)"
+msgstr "fra Unicode (hex)"
+
+msgid "From {name}"
+msgstr "Fra {name}"
+
+msgid "From:"
+msgstr "Fra:"
+
+msgid "Full page of the same label"
+msgstr "Hele siden med den samme etiket"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Full Screen View"
+
+msgid "Full\nScreen"
+msgstr "Fuld\nskærm"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Vidste du det? En tom side er bare en kladde, der ikke har fået det at vide endnu."
+
+msgid "Function"
+msgstr "Funktion"
+
+msgid "Galician"
+msgstr "galicisk"
+
+msgid "Gallery"
+msgstr "Galleri"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "georgisk"
+
+msgid "German (Germany)"
+msgstr "Tysk (Tyskland)"
+
+msgid "Germany"
+msgstr "Tyskland"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Henter listen over sprogpakker og derefter dette sprogs pakke, hvis der er en."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Glødfarver"
+
+msgid "Go Back"
+msgstr "Gå tilbage"
+
+msgid "Go To"
+msgstr "Gå til"
+
+msgid "Go to"
+msgstr "Gå til"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Gå til (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Gå til post"
+
+msgid "Go to what:"
+msgstr "Gå til hvad:"
+
+msgid "Go To…"
+msgstr "Gå til…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Væk! Som om det aldrig var blevet skrevet. Mest fordi det nu heller ikke er."
+
+msgid "Good afternoon"
+msgstr "God eftermiddag"
+
+msgid "Good evening"
+msgstr "God aften"
+
+msgid "Good morning"
+msgstr "Godmorgen"
+
+msgid "GOST (name sort)"
+msgstr ""
+
+msgid "GOST (title sort)"
+msgstr ""
+
+msgid "Grab bag"
+msgstr "Blandet"
+
+msgid "Gradient fill"
+msgstr ""
+
+msgid "Gradient stops"
+msgstr ""
+
+msgid "Grammar built in"
+msgstr "Grammatik er indbygget"
+
+msgid "Grave"
+msgstr "Grave"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Større end"
+
+msgid "Greater than or equal"
+msgstr "Større end eller lig med"
+
+msgid "Greek"
+msgstr "Græsk"
+
+msgid "Greek Letters"
+msgstr "Græske bogstaver"
+
+msgid "Green:"
+msgstr "Grøn:"
+
+msgid "Greeting Line"
+msgstr "Hilseslinje"
+
+msgid "Greeting\nLine"
+msgstr "Hilses\nlinje"
+
+msgid "Grid Table 1 Light"
+msgstr "Gittertabel 1 lys"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Gittertabel 4 – Blå"
+
+msgid "Grid Table 4 – Green"
+msgstr "Gittertabel 4 – Grøn"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Gittertabel 4 – Orange"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Gittertabel 4 – Lilla"
+
+msgid "Gridlines"
+msgstr "Gitterlinjer"
+
+msgid "Grouping Character Above"
+msgstr "Grupperingstegn over"
+
+msgid "Grouping Character Below"
+msgstr "Grupperingstegn under"
+
+msgid "Grow Font 1 Point"
+msgstr "Forøg skriftstørrelse med 1 punkt"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "H:"
+
+msgid "Hanging Indent"
+msgstr "Hængende indrykning"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr "Hat"
+
+msgid "Header"
+msgstr "Sidehoved"
+
+msgid "Header & Footer"
+msgstr "Sidehoved og sidefod"
+
+msgid "Header Row"
+msgstr "Overskriftsrække"
+
+msgid "Header row"
+msgstr "Overskriftsrække"
+
+msgid "Header/Footer Position"
+msgstr "Placering af sidehoved/sidefod"
+
+msgid "Headers and footers"
+msgstr "Sidehoved og sidefod"
+
+msgid "Heading"
+msgstr "Overskrift"
+
+msgid "Heading 1"
+msgstr "Overskrift 1"
+
+msgid "Heading 2"
+msgstr "Overskrift 2"
+
+msgid "Heading 3"
+msgstr "Overskrift 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Overskriftsstile (niveau 1–{n})"
+
+msgid "Heading text"
+msgstr "Overskriftstekst"
+
+msgid "Heading {n}"
+msgstr "Overskrift {n}"
+
+msgid "Hebrew"
+msgstr "Hebraisk"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Hej! Jeg er Nib, din skriveassistent. Jeg kommer med tip, genveje og en gang imellem en uopfordret mening. Skal jeg blive hængende?"
+
+msgid "Hidden bookmarks"
+msgstr "Skjulte bogmærker"
+
+msgid "Hide Codes"
+msgstr "Skjul koder"
+
+msgid "Hide from style lists"
+msgstr "Skjul i stilelister"
+
+msgid "Hide Ink"
+msgstr "Skjul blæk"
+
+msgid "Hide Quick Access Toolbar"
+msgstr ""
+
+msgid "Hide White Space"
+msgstr "Skjul mellemrum"
+
+msgid "Hide\nInk"
+msgstr "Skjul\nblæk"
+
+msgid "Hierarchy"
+msgstr "Hierarki"
+
+msgid "Highlight"
+msgstr "Fremhævning"
+
+msgid "Highlight Merge Fields"
+msgstr "Fremhæv fletfelter"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Fremhæv\nfletfelter"
+
+msgid "Highlighter"
+msgstr "Tekstmarkering"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Hjemmappe"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "Hongkong SAR"
+
+msgid "Horizontal Line"
+msgstr "Vandret linje"
+
+msgid "How many pages the whole document has"
+msgstr "Antal sider i hele dokumentet"
+
+msgid "How many pages this section has"
+msgstr "Antal sider i denne sektion"
+
+msgid "How many words the document holds"
+msgstr "Antal ord i dokumentet"
+
+msgid "HTML Format"
+msgstr "HTML-format"
+
+msgid "Hue:"
+msgstr "Nuance:"
+
+msgid "Hungarian"
+msgstr "ungarsk"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Hunspell .aff- og .dic-filer her (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) bruges før systemets."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hyperbolsk cosecansfunktion"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hyperbolsk cosinusfunktion"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hyperbolsk cotangensfunktion"
+
+msgid "Hyperbolic Functions"
+msgstr "Hyperbolske funktioner"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hyperbolsk secansfunktion"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hyperbolsk sinusfunktion"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hyperbolsk tangensfunktion"
+
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+msgid "Hyphenate at:"
+msgstr "Orddel ved:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Orddel ord med store bogstaver"
+
+msgid "Hyphenation Options…"
+msgstr "Indstillinger for orddeling…"
+
+msgid "Hyphenation zone:"
+msgstr "Orddelingszone:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Bindestreger (--) som tankestreger (—)"
+
+msgid "Hypotenuse"
+msgstr "Hypotenuse"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Jeg lover, det er gemt. Jeg har tjekket. To gange."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Jeg ville selv skrive noget, men jeg er en pen spids uden blæk."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "islandsk"
+
+msgid "Icon Color"
+msgstr "Ikonfarve"
+
+msgid "Icons"
+msgstr "Ikoner"
+
+msgid "Identity Matrices"
+msgstr "Identitetsmatricer"
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "Hvis…Så…Ellers"
+
+msgid "If…Then…Else…"
+msgstr "Hvis…Så…Ellers…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Ignorer tegnsætningstegn"
+
+msgid "Ignore web and file addresses"
+msgstr "Ignorer web- og filadresser"
+
+msgid "Ignore white-space characters"
+msgstr "Ignorer mellemrumstegn"
+
+msgid "Ignore words in capitals"
+msgstr "Ignorer ord med store bogstaver"
+
+msgid "Ignore words with numbers"
+msgstr "Ignorer ord med tal"
+
+msgid "Illustrations"
+msgstr "Illustrationer"
+
+msgid "Immersive"
+msgstr "Fordybelse"
+
+msgid "Immersive Reader"
+msgstr "Fordybelseslæser"
+
+msgid "Immersive\nReader"
+msgstr "Fordybelses\nlæser"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "I Standardapps vælger du WordCraft for de dokumenttyper, du vil have den til at åbne."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "I formler erstattes et navn, der skrives efter en omvendt skråstreg, med dets symbol."
+
+msgid "In Front of Text"
+msgstr "Foran tekst"
+
+msgid "In Line with Text"
+msgstr "På linje med tekst"
+
+msgid "In margin"
+msgstr ""
+
+msgid "In the margin"
+msgstr "I margenen"
+
+msgid "Include label and number"
+msgstr ""
+
+msgid "Include level number from:"
+msgstr "Inkludér nummer på niveau fra:"
+
+msgid "Include page numbers"
+msgstr "Inkludér sidetal"
+
+msgid "Increase Indent"
+msgstr "Forøg indrykning"
+
+msgid "Indent"
+msgstr "Indrykning"
+
+msgid "Indent from left:"
+msgstr "Indrykning fra venstre:"
+
+msgid "Indentation"
+msgstr "Indrykning"
+
+msgid "Indented"
+msgstr "Med indrykning"
+
+msgid "Indents"
+msgstr "Indrykninger"
+
+msgid "Indents and Spacing"
+msgstr "Indrykninger og afstand"
+
+msgid "Index and Tables"
+msgstr "Indeks og tabeller"
+
+msgid "Index Heading"
+msgstr "Indeksoverskrift"
+
+msgid "Index {n}"
+msgstr "Indeks {n}"
+
+msgid "India"
+msgstr "Indien"
+
+msgid "Indonesian"
+msgstr ""
+
+msgid "Initial column width:"
+msgstr ""
+
+msgid "Initials:"
+msgstr "Initialer:"
+
+msgid "Ink"
+msgstr "Blæk"
+
+msgid "Ink Replay"
+msgstr "Afspil håndskrift"
+
+msgid "Ink to Shape"
+msgstr "Håndskrift til figur"
+
+msgid "Ink to\nMath"
+msgstr "Håndskrift\ntil formel"
+
+msgid "Ink to\nShape"
+msgstr "Håndskrift\ntil figur"
+
+msgid "Ink\nReplay"
+msgstr "Gentag\nhåndskrift"
+
+msgid "Inline"
+msgstr "Integreret"
+
+msgid "Input Format"
+msgstr "Indtastningsformat"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Indsæt en ny formel (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Indsæt ovenfor"
+
+msgid "Insert Below"
+msgstr "Indsæt nedenfor"
+
+msgid "Insert Caption"
+msgstr "Indsæt billedtekst"
+
+msgid "Insert Caption…"
+msgstr "Indsæt billedtekst…"
+
+msgid "Insert Chart"
+msgstr "Indsæt diagram"
+
+msgid "Insert Citation"
+msgstr "Indsæt citat"
+
+msgid "Insert Columns to the Left"
+msgstr "Indsæt kolonner til venstre"
+
+msgid "Insert Columns to the Right"
+msgstr "Indsæt kolonner til højre"
+
+msgid "Insert Date Field"
+msgstr "Indsæt datofelt"
+
+msgid "Insert Diagram"
+msgstr "Indsæt diagram"
+
+msgid "Insert Endnote"
+msgstr "Indsæt slutnote"
+
+msgid "Insert Footnote"
+msgstr "Indsæt fodnote"
+
+msgid "Insert Hyperlink"
+msgstr "Indsæt hyperlink"
+
+msgid "Insert Index"
+msgstr "Indsæt indeks"
+
+msgid "Insert Left"
+msgstr "Indsæt til venstre"
+
+msgid "Insert Merge Field"
+msgstr "Indsæt fletfelt"
+
+msgid "Insert Merge\nField"
+msgstr "Indsæt flet\nfelt"
+
+msgid "Insert New Equation"
+msgstr "Indsæt ny formel"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Indsæt den ene eller den anden tekst, afhængigt af et felts værdi."
+
+msgid "Insert Page Field"
+msgstr "Indsæt sidefelt"
+
+msgid "Insert reference to:"
+msgstr "Indsæt reference til:"
+
+msgid "Insert Right"
+msgstr "Indsæt til højre"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Indsæt række eller kolonne ved at klikke"
+
+msgid "Insert Rows Above"
+msgstr "Indsæt rækker ovenfor"
+
+msgid "Insert Rows Below"
+msgstr "Indsæt rækker nedenfor"
+
+msgid "Insert Shapes"
+msgstr "Indsæt figurer"
+
+msgid "Insert SmartArt"
+msgstr "Indsæt SmartArt"
+
+msgid "Insert Spike"
+msgstr "Indsæt klippekartotek"
+
+msgid "Insert Structure"
+msgstr "Indsæt struktur"
+
+msgid "Insert Symbol"
+msgstr "Indsæt symbol"
+
+msgid "Insert Table"
+msgstr "Indsæt tabel"
+
+msgid "Insert Table of Authorities"
+msgstr "Indsæt tabel over retskilder"
+
+msgid "Insert Table of Figures"
+msgstr "Indsæt tabel over figurer"
+
+msgid "Insert Table…"
+msgstr "Indsæt tabel…"
+
+msgid "Insert Time Field"
+msgstr "Indsæt tidsfelt"
+
+msgid "Insert\nAbove"
+msgstr "Indsæt\novenfor"
+
+msgid "Insert\nCaption"
+msgstr "Indsæt\nbilledtekst"
+
+msgid "Insert\nCitation"
+msgstr "Indsæt\ncitat"
+
+msgid "Insert\nFootnote"
+msgstr "Indsæt\nfodnote"
+
+msgid "Insertions and Deletions"
+msgstr "Indsættelser og sletninger"
+
+msgid "Insertions:"
+msgstr "Indsættelser:"
+
+msgid "Inside Borders"
+msgstr "Indvendige kanter"
+
+msgid "Inside Horizontal Border"
+msgstr "Vandret indre kant"
+
+msgid "Inside Vertical Border"
+msgstr "Lodret indre kant"
+
+msgid "Inside:"
+msgstr "Indeni:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Kontrollér stile ved markering"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Installer stavning ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Institution"
+
+msgid "Integral"
+msgstr "Integral"
+
+msgid "Integral of e^(−x²)"
+msgstr "Integral af e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Integral med grænser"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integral med grænser over og under"
+
+msgid "Integrals"
+msgstr "Integraler"
+
+msgid "Intense Emphasis"
+msgstr "Kraftig fremhævning"
+
+msgid "Intense Quote"
+msgstr "Kraftigt citat"
+
+msgid "Intense Reference"
+msgstr "Kraftig henvisning"
+
+msgid "Interface language:"
+msgstr "Grænsefladesprog:"
+
+msgid "Interface size:"
+msgstr "Grænsefladestørrelse:"
+
+msgid "Interface theme:"
+msgstr "Grænsefladetema:"
+
+msgid "Interface\nTheme"
+msgstr "Grænseflade\ntema"
+
+msgid "Internet addresses as links"
+msgstr "Internetadresser som links"
+
+msgid "Intersection with Limits"
+msgstr "Snitmængde med grænser"
+
+msgid "Intersection with Lower Limit"
+msgstr "Snitmængde med nedre grænse"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Snitmængde med grænser i sub- og superskript"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Inverse cosecansfunktion"
+
+msgid "Inverse Cosine Function"
+msgstr "Inverse cosinusfunktion"
+
+msgid "Inverse Cotangent Function"
+msgstr "Inverse cotangensfunktion"
+
+msgid "Inverse Functions"
+msgstr "Inverse funktioner"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Omvendt hyperbolsk cosecansfunktion"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Omvendt hyperbolsk cosinusfunktion"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Omvendt hyperbolsk cotangensfunktion"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Inverse hyperbolske funktioner"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Omvendt hyperbolsk secansfunktion"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Omvendt hyperbolsk sinusfunktion"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Omvendt hyperbolsk tangensfunktion"
+
+msgid "Inverse Secant Function"
+msgstr "Inverse secansfunktion"
+
+msgid "Inverse Sine Function"
+msgstr "Inverse sinusfunktion"
+
+msgid "Inverse Tangent Function"
+msgstr "Inverse tangensfunktion"
+
+msgid "Ionosphere"
+msgstr "Ionosfære"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Irland"
+
+msgid "Irish"
+msgstr "irsk"
+
+msgid "Is blank"
+msgstr "Er tom"
+
+msgid "Is not blank"
+msgstr "Er ikke tom"
+
+msgid "ISO 690 (author-date)"
+msgstr ""
+
+msgid "ISO 690 (numerical)"
+msgstr ""
+
+msgid "Issue"
+msgstr "Hæfte"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Det ser ud til, at du skriver et brev. Vil du have en kuvert til det eller en brevskabelon at starte fra?"
+
+msgid "Italy"
+msgstr "Italien"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Dens ordbog kunne ikke læses: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Deltag i ArtCraft-fællesskabet på Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Følg os på Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Journal"
+msgstr "Tidsskrift"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "Justering af en displayformel"
+
+msgid "Justified"
+msgstr "Justeret"
+
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+msgid "Keep Lines Together"
+msgstr "Hold linjer sammen"
+
+msgid "Keep lines together"
+msgstr "Hold linjer sammen"
+
+msgid "Keep me around"
+msgstr "Bliv bare"
+
+msgid "Keep Text Only"
+msgstr "Behold kun tekst"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Opbevar adgangskoden et sikkert sted: uden den kan ingen, heller ikke WordCraft, åbne dokumentet. Lad begge felter være tomme for at fjerne adgangskoden."
+
+msgid "Keep with Next"
+msgstr "Hold sammen med næste"
+
+msgid "Keep with next"
+msgstr "Hold sammen med næste"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Bevarer skrifttyper og formatering af den kopierede tekst."
+
+msgid "Kerning for fonts:"
+msgstr ""
+
+msgid "Keyboard shortcuts:"
+msgstr "Tastaturgenveje:"
+
+msgid "Keys for this command:"
+msgstr "Taster til denne kommando:"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Label changes with:"
+msgstr "Mærk ændringer med:"
+
+msgid "Label:"
+msgstr "Etiket:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Sprogpræferencer…"
+
+msgid "Large\nOperator"
+msgstr "Stor\noperator"
+
+msgid "Largest Only"
+msgstr "Kun største"
+
+msgid "Lasso Select"
+msgstr "Lassomarkering"
+
+msgid "Last Column"
+msgstr "Sidste kolonne"
+
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgid "Last Record"
+msgstr "Sidste post"
+
+msgid "Last, First; Last, First"
+msgstr "Efternavn, Fornavn; Efternavn, Fornavn"
+
+msgid "Latin text font:"
+msgstr "Skrifttype for latinsk tekst:"
+
+msgid "Latvian"
+msgstr "lettisk"
+
+msgid "Layout Summary"
+msgstr "Layoutoversigt"
+
+msgid "Layouts"
+msgstr "Layouts"
+
+msgid "Leader"
+msgstr "Udfyldningstegn"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Spring en modtager over i serielbrevet, når et felt har denne værdi."
+
+msgid "Leave Equation"
+msgstr "Forlad formel"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Udelad dato og klokkeslæt for kommentarer og registrerede ændringer, når der gemmes"
+
+msgid "Leave the equation (Esc)"
+msgstr "Forlad formlen (Esc)"
+
+msgid "leave the equation first"
+msgstr "forlad først formlen"
+
+msgid "Leave the label out of the caption"
+msgstr "Lad etiketten være uden for billedteksten"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left Arrow with Text Above"
+msgstr "Venstrepil med tekst ovenfor"
+
+msgid "Left Arrow with Text Below"
+msgstr "Venstrepil med tekst nedenfor"
+
+msgid "Left Border"
+msgstr "Venstre kant"
+
+msgid "Left border"
+msgstr "Venstre kant"
+
+msgid "Left Bracket Twice"
+msgstr "Venstre kantet parentes to gange"
+
+msgid "Left indent"
+msgstr "Venstre indrykning"
+
+msgid "Left Margin"
+msgstr "Venstre sidekant"
+
+msgid "Left Only"
+msgstr "Kun venstre"
+
+msgid "Left Right Arrow Above"
+msgstr "Venstre-højre-pil over"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Venstre-højre-pil med tekst ovenfor"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Venstre-højre-pil med tekst nedenfor"
+
+msgid "Left Subscript-Superscript"
+msgstr "Venstre sub- og superskript"
+
+msgid "Left-to-right"
+msgstr "Venstre til højre"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Tekstretning fra venstre til højre"
+
+msgid "Leftwards Arrow Above"
+msgstr "Venstrevendt pil over"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Venstrevendt harpon over"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Juridisk nummerering"
+
+msgid "Legend"
+msgstr "Forklaring"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Mindre end"
+
+msgid "Less than or equal"
+msgstr "Mindre end eller lig med"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Bogstavsoverskrifter"
+
+msgid "Letter template"
+msgstr "Brevskabelon"
+
+msgid "Letter-Like Symbols"
+msgstr "Bogstavlignende symboler"
+
+msgid "Letters"
+msgstr "Breve"
+
+msgid "Level 5"
+msgstr "Niveau 5"
+
+msgid "Level 6"
+msgstr "Niveau 6"
+
+msgid "Level 7"
+msgstr "Niveau 7"
+
+msgid "Level 8"
+msgstr "Niveau 8"
+
+msgid "Level 9"
+msgstr "Niveau 9"
+
+msgid "Level {n}"
+msgstr "Niveau {n}"
+
+msgid "Levels:"
+msgstr "Niveauer:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr ""
+
+msgid "Light with Outline"
+msgstr "Lys med kontur"
+
+msgid "Limit"
+msgstr "Grænse"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Grænse og\nlog"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Begræns antal på hinanden følgende orddelinger til:"
+
+msgid "Limit Example"
+msgstr "Grænseeksempel"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Begræns formatering til bestemte stile"
+
+msgid "Line and Page Breaks"
+msgstr "Linje- og sideskift"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Afstand mellem linjer og afsnit"
+
+msgid "Line between"
+msgstr "Linje mellem"
+
+msgid "Line Break"
+msgstr "Linjeskift"
+
+msgid "Line breaking"
+msgstr "Linjeskift"
+
+msgid "Line End"
+msgstr "Linjeslut"
+
+msgid "Line Number"
+msgstr "Linjenummer"
+
+msgid "Line Numbering Options…"
+msgstr "Indstillinger for linjenummerering…"
+
+msgid "Line Numbers"
+msgstr "Linjenumre"
+
+msgid "Line Spacing"
+msgstr "Linjeafstand"
+
+msgid "Line Spacing Options…"
+msgstr "Indstillinger for linjeafstand…"
+
+msgid "Line spacing:"
+msgstr "Linjeafstand:"
+
+msgid "Line Start"
+msgstr "Linjestart"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr ""
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr ""
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr ""
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr ""
+
+msgid "Linear Down"
+msgstr ""
+
+msgid "Linear Fraction"
+msgstr "Lineær brøk"
+
+msgid "Linear Left"
+msgstr ""
+
+msgid "Linear Right"
+msgstr ""
+
+msgid "Linear Up"
+msgstr ""
+
+msgid "Lines and characters"
+msgstr "Linjer og tegn"
+
+msgid "Lines only"
+msgstr "Kun linjer"
+
+msgid "Lines per page:"
+msgstr "Linjer pr. side:"
+
+msgid "Lines to drop:"
+msgstr ""
+
+msgid "Link entries to their headings"
+msgstr "Knyt elementer til deres overskrifter"
+
+msgid "Link level to style:"
+msgstr "Tilknyt niveau til stil:"
+
+msgid "Link to Previous"
+msgstr "Opret forbindelse til forrige"
+
+msgid "Link to:"
+msgstr "Link til:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Tilknyttet stil (afsnit og tegn)"
+
+msgid "Links and References"
+msgstr "Links og referencer"
+
+msgid "Link…"
+msgstr "Hyperlink…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Listedefinition"
+
+msgid "List entries"
+msgstr "Listeelementer"
+
+msgid "List Paragraph"
+msgstr "Listeparagraf"
+
+msgid "List Table 3 – Blue"
+msgstr "Listetabel 3 – Blå"
+
+msgid "List Table 3 – Green"
+msgstr "Listetabel 3 – Grøn"
+
+msgid "List Table 3 – Orange"
+msgstr "Listetabel 3 – Orange"
+
+msgid "List Table 3 – Purple"
+msgstr "Listetabel 3 – Lilla"
+
+msgid "Lit from Bottom"
+msgstr ""
+
+msgid "Lit from Top"
+msgstr ""
+
+msgid "Lithuanian"
+msgstr "litauisk"
+
+msgid "Load System Installed Fonts…"
+msgstr "Indlæs systeminstallerede skrifttyper…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Der blev indlæst {count} systemskrifttyper."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Din browser understøtter ikke adgang til lokale skrifttyper."
+
+msgid "Local font access was denied."
+msgstr "Adgang til lokale skrifttyper blev nægtet."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Placering: {path}"
+
+msgid "Lock aspect ratio"
+msgstr ""
+
+msgid "Lock Fields"
+msgstr "Lås felter"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Logaritme"
+
+msgid "Logarithm with Base"
+msgstr "Logaritme med grundtal"
+
+msgid "Logical AND"
+msgstr "Logisk OG"
+
+msgid "Logical AND with Limits"
+msgstr "Logisk OG med grænser"
+
+msgid "Logical OR"
+msgstr "Logisk ELLER"
+
+msgid "Logical OR with Limits"
+msgstr "Logisk ELLER med grænser"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: fordi de rigtige ord stadig sidder på caféen."
+
+msgid "Lum:"
+msgstr "Lysstyrke:"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Macao SAR"
+msgstr "Macao SAR"
+
+msgid "Macedonian"
+msgstr "makedonsk"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Makroer"
+
+msgid "Made from the author and year when empty"
+msgstr "Uddannes af forfatter og år, når feltet er tomt"
+
+msgid "Magazine or newspaper article"
+msgstr "Artikel i magasin eller avis"
+
+msgid "Mail Merge"
+msgstr "Serielbrev"
+
+msgid "Mailings"
+msgstr "Post"
+
+msgid "Main entry:"
+msgstr "Hovedelement:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Gør WordCraft til standardprogram for Word-dokumenter…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Gør båndet, menuerne og dialogboksene større eller mindre. Auto følger systemets skærmskalering; 100% er én skærmpixel pr. punkt. Dokumentzoom er separat."
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Manage Sources"
+msgstr "Administrer kilder"
+
+msgid "Manage Styles"
+msgstr "Administrer stile"
+
+msgid "Manage Styles…"
+msgstr "Administrer stile…"
+
+msgid "Manual Hyphenation"
+msgstr "Manuel orddeling"
+
+msgid "Manual hyphenation is complete."
+msgstr "Manuel orddeling er fuldført."
+
+msgid "Manual Line Break"
+msgstr "Manuelt linjeskift"
+
+msgid "Manual Page Break"
+msgstr "Manuelt sideskift"
+
+msgid "Manual…"
+msgstr "Manuelt…"
+
+msgid "Many pages"
+msgstr "Mange sider"
+
+msgid "Mark"
+msgstr "Markér"
+
+msgid "Mark All"
+msgstr "Markér alle"
+
+msgid "Mark as decorative"
+msgstr "Markér som dekorativ"
+
+msgid "Mark Citation"
+msgstr "Markér citat"
+
+msgid "Mark Entry"
+msgstr "Markér post"
+
+msgid "Mark Entry…"
+msgstr "Markér element…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Markér grammatikfejl, mens du skriver"
+
+msgid "Mark Index Entry"
+msgstr "Markér indekselement"
+
+msgid "Mark selected text as:"
+msgstr "Markér valgt tekst som:"
+
+msgid "Mark\nCitation"
+msgstr "Markér\ncitat"
+
+msgid "Mark\nEntry"
+msgstr "Markér\npost"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Match store/små bogstaver"
+
+msgid "Match Fields"
+msgstr "Match felter"
+
+msgid "Match prefix"
+msgstr "Match præfiks"
+
+msgid "Match suffix"
+msgstr "Match suffiks"
+
+msgid "Matches: {count}"
+msgstr ""
+
+msgid "Math AutoCorrect"
+msgstr "Automatisk rettelse af formler"
+
+msgid "Matrices with Brackets"
+msgstr "Matricer med parenteser"
+
+msgid "Matrix"
+msgstr "Matrix"
+
+msgid "Maximum Example"
+msgstr "Maksimumeksempel"
+
+msgid "Measured By"
+msgstr "Målt af"
+
+msgid "Measurement units:"
+msgstr "Måleenheder:"
+
+msgid "Merge cells before split"
+msgstr ""
+
+msgid "Merge Formatting"
+msgstr "Flet formatering"
+
+msgid "Merge Record #"
+msgstr "Fletningspost #"
+
+msgid "Mesosphere"
+msgstr "Mesosfære"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Midline Dots"
+msgstr "Prikker på midtlinjen"
+
+msgid "Minus Equal"
+msgstr "Minus med lighedstegn"
+
+msgid "Mirror indents"
+msgstr "Spejl indrykninger"
+
+msgid "Mirror margins"
+msgstr "Spejlede margener"
+
+msgid "Mirrored"
+msgstr "Spejlet"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team og WordCraft-bidragsyderne."
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "Moderate"
+msgstr "Moderat"
+
+msgid "Modify Style"
+msgstr "Rediger stil"
+
+msgid "Modify Table Style"
+msgstr "Redigér tabelstil"
+
+msgid "Modify Table Style…"
+msgstr "Redigér tabelstil…"
+
+msgid "Modify…"
+msgstr "Rediger…"
+
+msgid "Mon"
+msgstr "Man"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "More >>"
+msgstr "Mere >>"
+
+msgid "More Colors…"
+msgstr "Flere farver…"
+
+msgid "More Columns…"
+msgstr "Flere kolonner…"
+
+msgid "More Commands…"
+msgstr "Flere kommandoer…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Flere papirstørrelser…"
+
+msgid "More Symbols…"
+msgstr "Flere symboler…"
+
+msgid "More tabs"
+msgstr ""
+
+msgid "More templates →"
+msgstr "Flere skabeloner →"
+
+msgid "More Underlines…"
+msgstr ""
+
+msgid "Morocco"
+msgstr "Marokko"
+
+msgid "Move in Equation"
+msgstr "Flyt i formel"
+
+msgid "Move or Resize"
+msgstr "Flyt eller ændr størrelse"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Flyt afsnit ned"
+
+msgid "Move Paragraph Up"
+msgstr "Flyt afsnit op"
+
+msgid "Move Past Citation"
+msgstr "Flyt forbi citat"
+
+msgid "Move Past\nCitation"
+msgstr "Flyt forbi\ncitat"
+
+msgid "Move Selected Ink"
+msgstr "Flyt valgt håndskrift"
+
+msgid "Move Table by Dragging"
+msgstr "Flyt tabel ved at trække"
+
+msgid "Move with Text"
+msgstr "Flyt med teksten"
+
+msgid "Moved from"
+msgstr "Flyttet fra"
+
+msgid "Moved from:"
+msgstr ""
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Flyttede objekter fastgøres til sidens kanter og midten, margenerne og andre objekter. Hold Alt nede for at flytte frit."
+
+msgid "Moved to"
+msgstr "Flyttet til"
+
+msgid "Moved to:"
+msgstr ""
+
+msgid "Moves"
+msgstr "Flytninger"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Multilevel List"
+msgstr "Liste med flere niveauer"
+
+msgid "Multilevel List Library"
+msgstr "Listebibliotek med flere niveauer"
+
+msgid "Multiple Pages"
+msgstr "Flere sider"
+
+msgid "Mute agent messages"
+msgstr "Slå agentbeskeder fra"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Min liste har"
+
+msgid "Name of the file this document is saved as"
+msgstr "Navnet på den fil, dokumentet er gemt som"
+
+msgid "Narrow"
+msgstr "Smal"
+
+msgid "Narrow  {size} all"
+msgstr "Smal  {size} på alle sider"
+
+msgid "Natural Logarithm"
+msgstr "Naturlig logaritme"
+
+msgid "Nature"
+msgstr "Natur"
+
+msgid "Navigation Pane"
+msgstr "Navigationsrude"
+
+msgid "Negated Relations"
+msgstr "Negerede relationer"
+
+msgid "Netherlands"
+msgstr "Holland"
+
+msgid "New blank documents are written in this language"
+msgstr "Nye tomme dokumenter skrives på dette sprog"
+
+msgid "New Comment"
+msgstr "Ny kommentar"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Nye kommentarer og sporede ændringer registreres under dette navn og disse initialer."
+
+msgid "New Documents Based on This Template"
+msgstr "Nye dokumenter baseret på denne skabelon"
+
+msgid "New documents based on this template"
+msgstr "Nye dokumenter baseret på denne skabelon"
+
+msgid "New documents will use this font."
+msgstr "Nye dokumenter bruger denne skrifttype."
+
+msgid "New documents will use this page setup."
+msgstr "Nye dokumenter bruger denne sideopsætning."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Nye dokumenter bruger denne afsnitsformatering."
+
+msgid "New documents will use this style."
+msgstr "Nye dokumenter bruger denne stil."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Nye dokumenter bruger WordCrafts indbyggede formatering."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Nye dokumenter bruger WordCrafts indbyggede formatering. Dine gemte standarder kan ikke gendannes. Vil du nulstille?"
+
+msgid "New Drawing Canvas"
+msgstr "Nyt lærred"
+
+msgid "New Entry"
+msgstr "Ny post"
+
+msgid "New Label"
+msgstr "Ny etiket"
+
+msgid "New Label…"
+msgstr "Ny etiket…"
+
+msgid "New Paragraph"
+msgstr "Nyt afsnit"
+
+msgid "New shortcut:"
+msgstr "Ny genvej:"
+
+msgid "New Tab"
+msgstr "Nyt faneblad"
+
+msgid "New Table Style"
+msgstr "Ny tabelstil"
+
+msgid "New Table Style…"
+msgstr "Ny tabelstil…"
+
+msgid "New word"
+msgstr "Nyt ord"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "New\nComment"
+msgstr "Ny\nkommentar"
+
+msgid "New\nWindow"
+msgstr "Nyt\nvindue"
+
+msgid "Next Comment"
+msgstr "Næste kommentar"
+
+msgid "Next Field"
+msgstr "Næste felt"
+
+msgid "Next Footnote"
+msgstr "Næste fodnote"
+
+msgid "Next Record"
+msgstr "Næste post"
+
+msgid "Next Section"
+msgstr "Næste sektion"
+
+msgid "Next Sentence"
+msgstr "Næste sætning"
+
+msgid "Next sentence"
+msgstr "Næste sætning"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib svæver over vinduet med tip og en bemærkning i ny og næ."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, din assistent. Træk for at flytte; højreklik for indstillinger."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Ingen tilgængelighedsproblemer fundet."
+
+msgid "No Border"
+msgstr "Ingen kant"
+
+msgid "No changes (read only)"
+msgstr "Ingen ændringer (skrivebeskyttet)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Denne kopi indeholder ingen data om bidragydere."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Der er ikke åbnet noget dokument. Opret et dokument, eller åbn et først."
+
+msgid "no equation at the caret"
+msgstr "der er ingen formel ved markøren"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Ingen fejl fundet: alle fletningsfelter findes i modtagerlisten."
+
+msgid "No Fill"
+msgstr "Ingen udfyldning"
+
+msgid "No fill"
+msgstr ""
+
+msgid "No Glow"
+msgstr "Ingen glød"
+
+msgid "No Gradient"
+msgstr ""
+
+msgid "No grid"
+msgstr "Intet gitter"
+
+msgid "No header row"
+msgstr "Ingen overskriftsrække"
+
+msgid "No icons match your search."
+msgstr "Ingen ikoner matcher din søgning."
+
+msgid "No items to show."
+msgstr ""
+
+msgid "No language matches your search."
+msgstr "Intet sprog passer til din søgning."
+
+msgid "No languages to show yet."
+msgstr "Ingen sprog at vise endnu."
+
+msgid "No Markup"
+msgstr "Ingen markeringer"
+
+msgid "No model credits were built into this copy."
+msgstr "Denne kopi indeholder ingen oplysninger om modeller."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Ingen kontur"
+
+msgid "No Paragraph Space"
+msgstr "Ingen afstand mellem afsnit"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Der blev ikke fundet nogen printere. Konfigurér en systemprinter, eller eksportér en PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Ingen reflektion"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Ingen skygge"
+
+msgid "No Soft Edges"
+msgstr "Ingen bløde kanter"
+
+msgid "No sources yet."
+msgstr "Ingen kilder endnu."
+
+msgid "No Spacing"
+msgstr "Uden afstand"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Der er ikke installeret nogen staveordbog til {language}, så den bliver ikke kontrolleret. WordCraft leder efter Hunspell-ordbogen {name} i mappen WORDCRAFT_DICTIONARIES og på de sædvanlige systemplaceringer."
+
+msgid "No templates match your search."
+msgstr "Ingen skabeloner matcher din søgning."
+
+msgid "No Transform"
+msgstr "Ingen transformation"
+
+msgid "No watermark"
+msgstr "Intet vandmærke"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Ingen ord endnu. Tilføj til ordbog på et ord med fejl, så lægges det her ind."
+
+msgid "No-Width Non Break"
+msgstr "Nullbredde uden brud"
+
+msgid "No-Width Optional Break"
+msgstr "Nullbredde med valgfrit brud"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Ikke-brydende bindestreg"
+
+msgid "Normal  {size} all"
+msgstr "Normal  {size} på alle sider"
+
+msgid "Normal Indent"
+msgstr "Normal med indrykning"
+
+msgid "Normal probability density"
+msgstr "Normalfordelingens tæthedsfunktion"
+
+msgid "Normal speed"
+msgstr "Normal hastighed"
+
+msgid "Normal Style"
+msgstr "Normal stil"
+
+msgid "Normal Table"
+msgstr "Normaltabel"
+
+msgid "Normal Text"
+msgstr "Normal tekst"
+
+msgid "Normal Word Document"
+msgstr "Almindeligt Word-dokument"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norsk (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "norsk (nynorsk)"
+
+msgid "Not"
+msgstr "Ikke"
+
+msgid "Not available right now"
+msgstr "Ikke tilgængelig i øjeblikket"
+
+msgid "Not available yet"
+msgstr "Ikke tilgængelig endnu"
+
+msgid "not editing an equation"
+msgstr "du redigerer ikke en formel"
+
+msgid "Not equal to"
+msgstr "Er ikke lig med"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Ikke forbundet: klik på en tekstboks"
+
+msgid "Not now"
+msgstr "Ikke nu"
+
+msgid "Not saved"
+msgstr "Ikke gemt"
+
+msgid "Not saved yet"
+msgstr "Ikke gemt endnu"
+
+msgid "Not set"
+msgstr ""
+
+msgid "Not set: the system's usual places"
+msgstr "Ikke angivet: systemets sædvanlige placeringer"
+
+msgid "Not used by any command"
+msgstr "Bruges ikke af nogen kommando"
+
+msgid "Not {name}"
+msgstr "Ikke {name}"
+
+msgid "Nothing"
+msgstr "Intet"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Intet indsamlet endnu. Elementer, du kopierer eller klipper, vises her."
+
+msgid "nothing is selected"
+msgstr "intet er markeret"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Bruges nu af {command}"
+
+msgid "Nudge"
+msgstr "Skub"
+
+msgid "Num Occurrences"
+msgstr "Antal forekomster"
+
+msgid "Number alignment:"
+msgstr "Nummerjustering:"
+
+msgid "Number format"
+msgstr "Nummerformat"
+
+msgid "Number of columns:"
+msgstr "Antal kolonner:"
+
+msgid "Number of rows:"
+msgstr "Antal rækker:"
+
+msgid "Number of the page the field sits on"
+msgstr "Nummeret på den side, feltet står på"
+
+msgid "Number of the section the field sits in"
+msgstr "Nummeret på den sektion, feltet står i"
+
+msgid "Number only, without the label's words"
+msgstr "Kun nummeret, uden etikettens ord"
+
+msgid "Number style for this level:"
+msgstr "Nummerstil for dette niveau:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Nummerér formlen; tallet placeres i højre margen (eller skriv # og derefter tallet)"
+
+msgid "Numbering"
+msgstr "Nummerering"
+
+msgid "Numbering:"
+msgstr "Nummerering:"
+
+msgid "Numbering…"
+msgstr "Nummerering…"
+
+msgid "Numerals"
+msgstr "Tal"
+
+msgid "Numerals:"
+msgstr "Tal:"
+
+msgid "n×n Identity Matrix"
+msgstr "Identitetsmatrix n×n"
+
+msgid "n×n Matrix"
+msgstr "Matrix n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Ulige stribede kolonner"
+
+msgid "Odd Banded Rows"
+msgstr "Ulige stribede rækker"
+
+msgid "Odd Page"
+msgstr "Ulige side"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003-standard"
+
+msgid "Offset (pt):"
+msgstr "Forskydning (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Forskydning: Bund"
+
+msgid "Offset: Bottom Left"
+msgstr "Forskydning: Bund til venstre"
+
+msgid "Offset: Bottom Right"
+msgstr "Forskydning: Bund til højre"
+
+msgid "Offset: Center"
+msgstr "Forskydning: Center"
+
+msgid "Offset: Left"
+msgstr "Forskydning: Venstre"
+
+msgid "Offset: Right"
+msgstr "Forskydning: Højre"
+
+msgid "Offset: Top"
+msgstr "Forskydning: Top"
+
+msgid "Offset: Top Left"
+msgstr "Forskydning: Top til venstre"
+
+msgid "Offset: Top Right"
+msgstr "Forskydning: Top til højre"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr ""
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Til: markøren glider hen til sin nye placering, når du skriver eller bruger piletasterne, og dens blink toner ud. Fra: den hopper og blinker tydeligt."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Til: WordCraft åbner på Filer › Start med et tomt dokument, skabeloner og dine seneste dokumenter. Fra: Der åbnes et tomt dokument."
+
+msgid "One"
+msgstr "En"
+
+msgid "One half"
+msgstr "En halv"
+
+msgid "One label per recipient"
+msgstr "Én etiket pr. modtager"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Én linje pr. element. Enter tilføjer et element."
+
+msgid "One Page"
+msgstr "Én side"
+
+msgid "One-sided"
+msgstr "Ensidet"
+
+msgid "Only allow this kind of editing:"
+msgstr "Tillad kun denne type redigering:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Der kan kun tilføjes kommentarer, undtagen i områder, der er markeret til redigering."
+
+msgid "Only for the selected text"
+msgstr "Kun for den markerede tekst"
+
+msgid "Only form fields can be filled in."
+msgstr "Der kan kun udfyldes formularfelter."
+
+msgid "only in Outline view"
+msgstr "kun i oversigtsvisning"
+
+msgid "Only in this document"
+msgstr "Kun i dette dokument"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Der kan kun anvendes tilladte stile."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Kun weblinks (http, https) og e-mail-links (mailto) kan følges"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Åbn først et dokument"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Åbn en fil i WordCrafts egen filbrowser, når systemets filedialog ikke vises."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument-tekst (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Åbner udskrivningsdialog…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Åbner .docx-, .doc-, .rtf- og .odt-filer samt Word-skabeloner med WordCraft fra nu af."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Åbner Indstillinger › Standardapps, hvor du vælger WordCraft til .docx og de andre dokumenttyper."
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "Operator Structures"
+msgstr "Operatorstrukturer"
+
+msgid "Operators"
+msgstr "Operatorer"
+
+msgid "Optional Hyphen"
+msgstr "Valgfri bindestreg"
+
+msgid "Or"
+msgstr "Eller"
+
+msgid "Or save a copy in another format:"
+msgstr "Eller gem en kopi i et andet format:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Ordinaltal (1st) som hævet skrift"
+
+msgid "Organizer"
+msgstr "Organisator"
+
+msgid "Organizer…"
+msgstr "Organisator…"
+
+msgid "Original document"
+msgstr "Originaldokument"
+
+msgid "Original size"
+msgstr ""
+
+msgid "Other Large Operators"
+msgstr "Andre store operatorer"
+
+msgid "Other styles and their TOC level:"
+msgstr "Andre stile og deres niveau i indholdsfortegnelsen:"
+
+msgid "Other:"
+msgstr ""
+
+msgid "Otherwise insert:"
+msgstr "Indsæt ellers:"
+
+msgid "Outline Level"
+msgstr "Dispositionsniveau"
+
+msgid "Outline level"
+msgstr "Outlineniveau"
+
+msgid "Outline levels"
+msgstr "Dispositionsniveauer"
+
+msgid "Outline State"
+msgstr "Dispositionstilstand"
+
+msgid "Outline Tools"
+msgstr "Dispositionsværktøjer"
+
+msgid "Outlining"
+msgstr "Disposition"
+
+msgid "Outside border"
+msgstr "Ydre kant"
+
+msgid "Outside Borders"
+msgstr "Ydre kanter"
+
+msgid "Outside:"
+msgstr "Udenfor:"
+
+msgid "Outward Brackets"
+msgstr "Udadvendte kantede parenteser"
+
+msgid "Overbar"
+msgstr "Overstreg"
+
+msgid "Overbars and Underbars"
+msgstr "Overstreger og understreger"
+
+msgid "Overbrace"
+msgstr "Overklamme"
+
+msgid "Overtype"
+msgstr "Overskrivning"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Overskrivning (det indtastede erstatter tegnene efter markøren)"
+
+msgid "Page Background"
+msgstr "Sidebaggrund"
+
+msgid "Page Border"
+msgstr "Sideramme"
+
+msgid "Page Borders"
+msgstr "Siderammer"
+
+msgid "Page Break"
+msgstr "Sideskift"
+
+msgid "Page Break Before"
+msgstr "Sideskift før"
+
+msgid "Page break before"
+msgstr "Sideskift før"
+
+msgid "Page Breaks"
+msgstr "Sideskift"
+
+msgid "Page Color"
+msgstr "Sidefarve"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Sidevisning"
+
+msgid "Page Down"
+msgstr "Side ned"
+
+msgid "Page image (*.png)"
+msgstr "Sidebillede (*.png)"
+
+msgid "Page Movement"
+msgstr "Sidebevægelse"
+
+msgid "Page Number"
+msgstr "Sidetal"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr ""
+
+msgid "Page number style"
+msgstr "Stil for sidetal"
+
+msgid "Page numbering"
+msgstr ""
+
+msgid "Page numbers at the right margin"
+msgstr "Sidetal ved højre sidekant"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Siden, hvor det bogmærkede afsnit ligger"
+
+msgid "Page Setup"
+msgstr "Sideopsætning"
+
+msgid "Page title"
+msgstr "Sidetitel"
+
+msgid "Page Up"
+msgstr "Side op"
+
+msgid "Page Width"
+msgstr "Sidebredde"
+
+msgid "Page width"
+msgstr "Sidebredde"
+
+msgid "Page X of Y"
+msgstr "Side X af Y"
+
+msgid "Page {page}"
+msgstr "Side {page}"
+
+msgid "Page\nBorders"
+msgstr "Side\nrammer"
+
+msgid "Page\nColor"
+msgstr "Side\nfarve"
+
+msgid "Page\nNumber"
+msgstr "Side\ntal"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Sider som 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Sider i bogmærke:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Papirstørrelse:"
+
+msgid "Paragraph Character"
+msgstr "Afsnitssymbol"
+
+msgid "Paragraph Details"
+msgstr "Afsnitsdetaljer"
+
+msgid "Paragraph Down"
+msgstr "Afsnit ned"
+
+msgid "Paragraph Mark"
+msgstr "Afsnitsmærke"
+
+msgid "Paragraph marks"
+msgstr "Afsnitsmærker"
+
+msgid "Paragraph Settings"
+msgstr "Afsnitsindstillinger"
+
+msgid "Paragraph Spacing"
+msgstr "Afstand mellem afsnit"
+
+msgid "Paragraph style"
+msgstr "Afsnitstil"
+
+msgid "Paragraph Up"
+msgstr "Afsnit op"
+
+msgid "Paragraphs"
+msgstr "Afsnit"
+
+msgid "Paragraph…"
+msgstr "Afsnit…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Runde parenteser"
+
+msgid "Parentheses with Separator"
+msgstr "Runde parenteser med skilletegn"
+
+msgid "Partial Differential"
+msgstr "Partiel differentiale"
+
+msgid "Password:"
+msgstr "Adgangskode:"
+
+msgid "Paste (⌘V)"
+msgstr "Sæt ind (⌘V)"
+
+msgid "Paste All"
+msgstr "Sæt alle ind"
+
+msgid "Paste as:"
+msgstr "Sæt ind som:"
+
+msgid "Paste Clipboard Item"
+msgstr "Sæt element fra udklipsholder ind"
+
+msgid "Paste Formatting"
+msgstr "Sæt formatering ind"
+
+msgid "Paste function:"
+msgstr "Indsæt funktion:"
+
+msgid "Paste Special…"
+msgstr "Sæt ind specielt…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Sæt ind: Behold kun tekst"
+
+msgid "Paste: Merge Formatting"
+msgstr "Sæt ind: Flet formatering"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Sætter billedet fra udklipsholderen ind."
+
+msgid "Paused"
+msgstr "Sat på pause"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF-dokument (*.pdf)"
+
+msgid "Pens"
+msgstr "Penne"
+
+msgid "People"
+msgstr "Personer"
+
+msgid "Periodical"
+msgstr "Periodisk skrift"
+
+msgid "Persian"
+msgstr "persisk"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Personal Templates"
+msgstr "Personal Templates"
+
+msgid "Personalize"
+msgstr "Tilpas"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filippinerne"
+
+msgid "Phonetic Guide"
+msgstr "Fonetisk vejledning"
+
+msgid "pi"
+msgstr ""
+
+msgid "Pi Over 2"
+msgstr "Pi over 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Vælg en tilpasset gruppe (Ny gruppe opretter en)"
+
+msgid "Pick a field from the list"
+msgstr "Vælg et felt på listen"
+
+msgid "Picture"
+msgstr "Billede"
+
+msgid "Picture Border"
+msgstr "Billedramme"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Indholdskontrolelement: Billede"
+
+msgid "Picture Format"
+msgstr "Billedformat"
+
+msgid "Picture Styles"
+msgstr "Billedstile"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Billedvandmærke"
+
+msgid "Pictures"
+msgstr "Billeder"
+
+msgid "Pie"
+msgstr "Cirkeldiagram"
+
+msgid "Place in This Document"
+msgstr "Sted i dette dokument"
+
+msgid "Placeholder text"
+msgstr "Pladsholdertekst"
+
+msgid "Plain Table 1"
+msgstr "Enkel tabel 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Almindelig tekst (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Indholdskontrolelement: Almindelig tekst"
+
+msgid "Play/Pause"
+msgstr "Afspil/pause"
+
+msgid "Plus Equal"
+msgstr "Plus med lighedstegn"
+
+msgid "Points and above"
+msgstr ""
+
+msgid "Polish"
+msgstr "Polsk"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugisisk (Brasilien)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugisisk (Portugal)"
+
+msgid "Possible spelling mistake"
+msgstr "Mulig stavefejl"
+
+msgid "Postal Code"
+msgstr "Postnummer"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Potensrække for (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Ønsket bredde:"
+
+msgid "Preserve formatting during updates"
+msgstr "Bevar formatering under opdateringer"
+
+msgid "Preset gradients"
+msgstr ""
+
+msgid "Press a key combination"
+msgstr "Tryk på en tastekombination"
+
+msgid "Preview Results"
+msgstr "Forhåndsvis resultater"
+
+msgid "Preview\nResults"
+msgstr "Forhåndsvis\nresultater"
+
+msgid "Previous 1 or More"
+msgstr "Forrige 1 eller flere"
+
+msgid "Previous Comment"
+msgstr "Forrige kommentar"
+
+msgid "Previous Field"
+msgstr "Forrige felt"
+
+msgid "Previous Record"
+msgstr "Forrige post"
+
+msgid "Previous Section"
+msgstr "Forrige sektion"
+
+msgid "Previous Sentence"
+msgstr "Forrige sætning"
+
+msgid "Previous sentence"
+msgstr "Forrige sætning"
+
+msgid "Print Documents"
+msgstr "Udskriv dokumenter"
+
+msgid "Print Documents…"
+msgstr "Udskriv dokumenter…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Udskrivning mislykkedes: udskriftsprocessen stoppede."
+
+msgid "Print failed: {error}"
+msgstr "Udskrivning mislykkedes: {error}"
+
+msgid "Print job submitted."
+msgstr "Udskriftsjob sendt."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr ""
+
+msgid "Print job submitted: {receipt}"
+msgstr "Udskriftsjob sendt: {receipt}"
+
+msgid "Print Layout"
+msgstr "Udskriftslayout"
+
+msgid "Print Markup"
+msgstr "Udskriv kommentarer og rettelser"
+
+msgid "Print settings"
+msgstr "Udskriftsindstillinger"
+
+msgid "Print the page color"
+msgstr "Udskriv sidens farve"
+
+msgid "Print to PDF"
+msgstr "Udskriv til PDF"
+
+msgid "Print\nLayout"
+msgstr "Udskrifts\nlayout"
+
+msgid "Printer default"
+msgstr "Printerstandard"
+
+msgid "Printer discovery failed."
+msgstr "Søgning efter printere mislykkedes."
+
+msgid "Privacy for this document"
+msgstr "Beskyttelse af personlige oplysninger for dette dokument"
+
+msgid "Privacy Options"
+msgstr "Indstillinger for beskyttelse af personlige oplysninger"
+
+msgid "Privacy Settings"
+msgstr "Privatlivsindstillinger"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Product of A"
+msgstr "Produkt af A"
+
+msgid "Product with Limits"
+msgstr "Produkt med grænser"
+
+msgid "Product with Lower Limit"
+msgstr "Produkt med nedre grænse"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Produkt med grænser i sub- og superskript"
+
+msgid "Products and Coproducts"
+msgstr "Produkter og koprodukter"
+
+msgid "Professional"
+msgstr "Professionel"
+
+msgid "Promote"
+msgstr "Hæv"
+
+msgid "Promote to Heading 1"
+msgstr "Hæv til Overskrift 1"
+
+msgid "Proofing"
+msgstr "Korrekturlæsning"
+
+msgid "Proofing Issues"
+msgstr "Korrekturlæsningsproblemer"
+
+msgid "Proofing language"
+msgstr "Sprog til stave- og grammatikontrol"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Beskyt dokument"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Udgiver"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Sæt først markøren i et indholdskontrolelement."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Læg standardkommandoerne tilbage på værktøjslinjen Hurtig adgang?"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Quadratic Root"
+msgstr "Andengradsrod"
+
+msgid "Quick Access Toolbar"
+msgstr "Værktøjslinjen Hurtig adgang"
+
+msgid "Quick Parts"
+msgstr "Hurtige dele"
+
+msgid "Quick Tables"
+msgstr "Hurtige tabeller"
+
+msgid "Quote"
+msgstr "Citat"
+
+msgid "Radical"
+msgstr "Radikal"
+
+msgid "Radical with Degree"
+msgstr "Rod med gradtal"
+
+msgid "Radicals"
+msgstr "Rødder"
+
+msgid "Raised/lowered"
+msgstr "Hævet/sænket"
+
+msgid "Read Aloud"
+msgstr "Læs højt"
+
+msgid "Read Aloud Status"
+msgstr "Status for oplæsning"
+
+msgid "Read Mode"
+msgstr "Læsetilstand"
+
+msgid "Read\nAloud"
+msgstr "Læs\nhøjt"
+
+msgid "Read\nMode"
+msgstr "Læse\ntilstand"
+
+msgid "Reading"
+msgstr "Læsning"
+
+msgid "Reading Column Width"
+msgstr "Læsekolonnens bredde"
+
+msgid "Reading Highlight"
+msgstr "Fremhævning ved læsning"
+
+msgid "Reading Line Spacing"
+msgstr "Linjeafstand til læsning"
+
+msgid "Reading Mode"
+msgstr "Læsetilstand"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Læsehastighed"
+
+msgid "Reading Text Size"
+msgstr "Tekststørrelse til læsning"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Læser rich text fra udklipsholderen og bevarer formateringen."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Læser webindhold fra udklipsholderen og bevarer formateringen."
+
+msgid "Recent documents to show:"
+msgstr "Seneste dokumenter, der vises:"
+
+msgid "Recently Used Fonts"
+msgstr ""
+
+msgid "Recently used symbols:"
+msgstr "Senest brugte symboler:"
+
+msgid "Recipient List"
+msgstr "Modtagerliste"
+
+msgid "Recipient lists"
+msgstr "Modtagerlister"
+
+msgid "Recipients: {count}"
+msgstr "Modtagere: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Genfarv en ensfarvet figur, f.eks. et ikon"
+
+msgid "Recolor Selected Ink"
+msgstr "Skift farve på valgt håndskrift"
+
+msgid "Record Macro"
+msgstr "Optag makro"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Gendan usikrede dokumenter"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Rød:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Reducer hængende indrykning"
+
+msgid "Reference type:"
+msgstr "Referencetype:"
+
+msgid "References"
+msgstr "Referencer"
+
+msgid "Reflection"
+msgstr "Reflektion"
+
+msgid "Refresh printers"
+msgstr "Opdater printere"
+
+msgid "Region:"
+msgstr "Område:"
+
+msgid "Registered"
+msgstr "Registreret"
+
+msgid "Registered Sign"
+msgstr "Symbol for registreret varemærke"
+
+msgid "Regular expressions"
+msgstr "Regulære udtryk"
+
+msgid "Reject"
+msgstr "Afvis"
+
+msgid "Reject All Changes"
+msgstr "Afvis alle ændringer"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Afvis ændring"
+
+msgid "Relationship"
+msgstr "Relation"
+
+msgid "Relative to original picture size"
+msgstr ""
+
+msgid "Remove Added Font"
+msgstr "Fjern tilføjet skrifttype"
+
+msgid "Remove condition"
+msgstr "Fjern betingelse"
+
+msgid "Remove Content Control"
+msgstr "Fjern indholdskontrolelement"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Fjern alle tilpassede genveje og genopret de indbyggede taster?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Fjern alle tilpassede faneblader og grupper, og vis alle faneblader igen?"
+
+msgid "Remove field"
+msgstr "Fjern felt"
+
+msgid "Remove Footer"
+msgstr "Fjern sidefod"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Fjern fra værktøjslinjen Hurtig adgang"
+
+msgid "Remove gradient stop"
+msgstr ""
+
+msgid "Remove Header"
+msgstr "Fjern sidehoved"
+
+msgid "Remove Hyperlink"
+msgstr "Fjern hyperlink"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Fjern mit navn fra kommentarer, ændringer og filegenskaber, når der gemmes"
+
+msgid "Remove Password"
+msgstr "Fjern adgangskode"
+
+msgid "Remove Pen"
+msgstr "Fjern pen"
+
+msgid "Remove recipient"
+msgstr "Fjern modtager"
+
+msgid "Remove row"
+msgstr "Fjern række"
+
+msgid "Remove series"
+msgstr "Fjern serie"
+
+msgid "Remove Space After Paragraph"
+msgstr "Fjern afstand efter afsnit"
+
+msgid "Remove Table of Contents"
+msgstr "Fjern indholdsfortegnelse"
+
+msgid "Remove the control once edited"
+msgstr "Fjern kontrolelementet efter redigering"
+
+msgid "Remove the space before the punctuation"
+msgstr "Fjern mellemrummet før tegnsætningen"
+
+msgid "Remove Watermark"
+msgstr "Fjern vandmærke"
+
+msgid "Rename Document"
+msgstr "Omdøb dokument"
+
+msgid "Reopen"
+msgstr "Åbn igen"
+
+msgid "Repeat as header row on each page"
+msgstr "Gentag som sidehovedsrække på hver side"
+
+msgid "Repeat Header Rows"
+msgstr "Gentag overskriftsrækker"
+
+msgid "Repeating Section Content Control"
+msgstr "Indholdskontrolelement: Gentaget afsnit"
+
+msgid "Replace All"
+msgstr "Erstat alle"
+
+msgid "Replace as you type"
+msgstr "Erstat under indtastning"
+
+msgid "Replace Document Text"
+msgstr "Erstat dokumenttekst"
+
+msgid "Replace text as you type"
+msgstr "Erstat tekst under indtastning"
+
+msgid "Replace with:"
+msgstr "Erstat med:"
+
+msgid "Replay"
+msgstr "Afspil igen"
+
+msgid "Research"
+msgstr "Forskning"
+
+msgid "Researcher"
+msgstr "Forsker"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Researcher kræver en onlinetjeneste; WordCraft holder dine dokumenter offline."
+
+msgid "Reset All…"
+msgstr "Nulstil alle…"
+
+msgid "Reset Character Formatting"
+msgstr "Nulstil tegnformatering"
+
+msgid "Reset Crop"
+msgstr "Nulstil beskæring"
+
+msgid "Reset Default Formatting"
+msgstr "Nulstil standardformatering"
+
+msgid "Reset Graphic"
+msgstr "Nulstil grafik"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Nulstil afsnitsformatering"
+
+msgid "Reset Picture"
+msgstr "Nulstil billede"
+
+msgid "Reset tips"
+msgstr "Nulstil tip"
+
+msgid "Reset to Normal"
+msgstr "Nulstil til Normal"
+
+msgid "Reset\nGraphic"
+msgstr "Nulstil\ngrafik"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Tilpas tabelstørrelse ved at trække"
+
+msgid "Resolve"
+msgstr "Løs"
+
+msgid "Resolved"
+msgstr "Løst"
+
+msgid "Restart at 1"
+msgstr "Genstart ved 1"
+
+msgid "Restart Each Page"
+msgstr "Genstart på hver side"
+
+msgid "Restart Each Section"
+msgstr "Genstart i hver sektion"
+
+msgid "Restart list after:"
+msgstr "Genstart listen efter:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Begræns redigering"
+
+msgid "Restrict\nEditing"
+msgstr "Begræns\nredigering"
+
+msgid "Results"
+msgstr "Resultater"
+
+msgid "Return address labels"
+msgstr "Returadresseetiketter"
+
+msgid "Return address:"
+msgstr "Returadresse:"
+
+msgid "Reviewing"
+msgstr "Gennemser"
+
+msgid "Reviewing Pane"
+msgstr "Gennemserude"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Gennemser — ændringer bliver forslag"
+
+msgid "Revised document"
+msgstr "Revideret dokument"
+
+msgid "Rewind"
+msgstr "Spol tilbage"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Spoler tilbage. Sig til, når jeg skal stoppe."
+
+msgid "Ribbon"
+msgstr "Bånd"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Bånd og værktøjslinjen Hurtig adgang:"
+
+msgid "Ribbon tabs"
+msgstr "Båndfaneblader"
+
+msgid "Rich Text Content Control"
+msgstr "Indholdskontrolelement: Formateret tekst"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Højre (lodret)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Højrepil med tekst ovenfor"
+
+msgid "Right Arrow with Text Below"
+msgstr "Højrepil med tekst nedenfor"
+
+msgid "Right Border"
+msgstr "Højre kant"
+
+msgid "Right border"
+msgstr "Højre kant"
+
+msgid "Right Bracket Twice"
+msgstr "Højre kantet parentes to gange"
+
+msgid "Right indent"
+msgstr "Højre indrykning"
+
+msgid "Right Margin"
+msgstr "Højre sidekant"
+
+msgid "Right Only"
+msgstr "Kun højre"
+
+msgid "Right-to-left"
+msgstr "Højre til venstre"
+
+msgid "Right-to-Left Section"
+msgstr "Sektion fra højre mod venstre"
+
+msgid "Right-to-Left Table"
+msgstr "Tabel fra højre mod venstre"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Tekstretning fra højre til venstre"
+
+msgid "Rightwards Arrow Above"
+msgstr "Højrevendt pil over"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Højrevendt harpon over"
+
+msgid "Romanian"
+msgstr "Rumænsk"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Rødder i ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Roter al tekst 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Roter al tekst 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Roter 90° til venstre"
+
+msgid "Rotate Right 90°"
+msgstr "Roter 90° til højre"
+
+msgid "Rotate with shape"
+msgstr ""
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Række"
+
+msgid "Row:"
+msgstr "Række:"
+
+msgid "Rows & Columns"
+msgstr "Rækker og kolonner"
+
+msgid "Ruby text:"
+msgstr "Rubi-tekst:"
+
+msgid "Rules"
+msgstr "Regler"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "På linje med"
+
+msgid "Russia"
+msgstr "Rusland"
+
+msgid "Résumé"
+msgstr "CV"
+
+msgid "SAMPLE"
+msgstr "PRØVE"
+
+msgid "Sat:"
+msgstr "Mætning:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Gem en kopi i et andet format. Udskrivning sker via en PDF, som du kan udskrive fra enhvisningsprogram."
+
+msgid "Save as Word Template…"
+msgstr ""
+
+msgid "Save documents"
+msgstr "Gem dokumenter"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Gem dokumentet for at aktivere AutoSave"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Gem dokumentet for at aktivere AutoSave (en fil, du kun har åbnet, overskrives ikke, før du gemmer den)"
+
+msgid "Save these pages as PDF…"
+msgstr "Gem disse sider som PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Gemt. Gemt igen. Stadig gemt. Det er meget gemt."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr ""
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Gemning af {name} blev annulleret, så dokumentet er stadig åbent, og intet er gået tabt."
+
+msgid "Sayings"
+msgstr "Replikker"
+
+msgid "Sayings:"
+msgstr "Replikker:"
+
+msgid "Scale Drawing"
+msgstr "Skaler tegning"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Punktdiagram"
+
+msgid "Script"
+msgstr "Indeks"
+
+msgid "Scroll ribbon left"
+msgstr "Rul båndet til venstre"
+
+msgid "Scroll ribbon right"
+msgstr "Rul båndet til højre"
+
+msgid "Search Commands"
+msgstr "Søg kommandoer"
+
+msgid "Search commands and help"
+msgstr "Søg i kommandoer og hjælp"
+
+msgid "Search document"
+msgstr "Søg i dokument"
+
+msgid "Search for templates"
+msgstr "Søg efter skabeloner"
+
+msgid "Search icons"
+msgstr "Søg i ikoner"
+
+msgid "Search Options"
+msgstr "Søgeindstillinger"
+
+msgid "Search:"
+msgstr "Søg:"
+
+msgid "Secant Function"
+msgstr "Secansfunktion"
+
+msgid "Section 1.01"
+msgstr ""
+
+msgid "Section Break"
+msgstr "Afsnitsskift"
+
+msgid "Section Breaks"
+msgstr "Sektionsskift"
+
+msgid "Section Character"
+msgstr "Afsnitstegn"
+
+msgid "Section direction:"
+msgstr "Sektionsretning:"
+
+msgid "Section Mark"
+msgstr "Sektionsmærke"
+
+msgid "Section Properties"
+msgstr "Sektionsegenskaber"
+
+msgid "Sections"
+msgstr "Sektioner"
+
+msgid "See"
+msgstr "Se"
+
+msgid "select a chart first"
+msgstr "markér først et diagram"
+
+msgid "select a connector first"
+msgstr "markér først en forbindelse"
+
+msgid "select a diagram first"
+msgstr "vælg først et diagram"
+
+msgid "select a drawing canvas first"
+msgstr "markér først et tegnelærred"
+
+msgid "select a floating picture or shape first"
+msgstr "markér først et flydende billede eller en flydende figur"
+
+msgid "select a group first"
+msgstr "markér først en gruppe"
+
+msgid "select a picture first"
+msgstr "markér først et billede"
+
+msgid "Select a picture first."
+msgstr "Vælg først et billede."
+
+msgid "select a picture or shape first"
+msgstr "markér først et billede eller en figur"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Vælg et billede, en figur, et diagram eller en tabel for at beskrive den."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Vælg en printer"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "markér først en figur"
+
+msgid "select a shape or decorative text first"
+msgstr "vælg først en figur eller dekorativ tekst"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr ""
+
+msgid "select a SmartArt graphic first"
+msgstr "markér først en SmartArt-grafik"
+
+msgid "select a text box first"
+msgstr "markér først et tekstfelt"
+
+msgid "select a text box linked to another first"
+msgstr "markér først et tekstfelt, der er sammenkædet med et andet"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Markér celle"
+
+msgid "Select Column"
+msgstr "Vælg kolonne"
+
+msgid "Select Heading and Content"
+msgstr "Vælg overskrift og indhold"
+
+msgid "Select Line"
+msgstr "Markér linje"
+
+msgid "Select Paragraph"
+msgstr "Markér afsnit"
+
+msgid "Select Picture…"
+msgstr "Vælg billede…"
+
+msgid "Select Range"
+msgstr "Markér område"
+
+msgid "Select Recipients"
+msgstr "Vælg modtagere"
+
+msgid "select recipients first"
+msgstr "vælg først modtagere"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Vælg modtagere først for at vælge blandt deres felter."
+
+msgid "Select recipients first to match their fields."
+msgstr "Vælg modtagere først for at matche deres felter."
+
+msgid "Select Row"
+msgstr "Markér række"
+
+msgid "Select Sentence"
+msgstr "Markér sætning"
+
+msgid "Select Table"
+msgstr "Markér tabel"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Vælg tabelceller ved at klikke"
+
+msgid "Select Text"
+msgstr "Markér tekst"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Markér tekst med lignende formatering"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Vælg teksten, og markér derefter, hvem der stadig må redigere den."
+
+msgid "select two or more cells to merge"
+msgstr "markér to eller flere celler, der skal flettes"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "markér først to eller flere billeder eller figurer (Skift+klik)"
+
+msgid "Select Word"
+msgstr "Markér ord"
+
+msgid "Select\nRecipients"
+msgstr "Vælg\nmodtagere"
+
+msgid "Selected Fields"
+msgstr "Valgte felter"
+
+msgid "Selected text"
+msgstr ""
+
+msgid "Selection Pane"
+msgstr "Markeringsrude"
+
+msgid "Semitransparent"
+msgstr "Delvist gennemsigtig"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Send dokumentet direkte til systemets udskrivningsdialog, eller gem en kopi i et andet format nedenfor."
+
+msgid "Sentence"
+msgstr "Sætning"
+
+msgid "Sentence case."
+msgstr "Første bogstav i sætning med stort."
+
+msgid "Separate text at"
+msgstr ""
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Skilletegn:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Sekvensnavn:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Serbisk (cyrillisk)"
+
+msgid "Serbian (Latin)"
+msgstr "Serbisk (latinsk)"
+
+msgid "Series name"
+msgstr "Serienavn"
+
+msgid "Series {n}"
+msgstr "Serie {n}"
+
+msgid "Set As Default"
+msgstr "Angiv som standard"
+
+msgid "Set as default"
+msgstr "Brug som standard"
+
+msgid "Set As Default (Font)"
+msgstr "Angiv som standard (Skrifttype)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Angiv som standard (Sideopsætning)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Angiv som standard (Afsnit)"
+
+msgid "Set as Default Language"
+msgstr "Brug som standardsprog"
+
+msgid "Set Caret"
+msgstr "Sæt indsættelsespunkt"
+
+msgid "Set Character Formatting"
+msgstr "Angiv tegnformatering"
+
+msgid "Set Date"
+msgstr "Angiv dato"
+
+msgid "Set Equation"
+msgstr "Angiv formel"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Angiv nummereringsværdi"
+
+msgid "Set Paragraph Formatting"
+msgstr "Angiv afsnitsformatering"
+
+msgid "Set Proofing Language…"
+msgstr "Angiv korrektursprog…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Indstilling:"
+
+msgid "Shading"
+msgstr "Skygge"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Skygge, glød og bløde kanter"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Figurfyldning"
+
+msgid "Shape Format"
+msgstr "Figurformat"
+
+msgid "Shape Outline"
+msgstr "Figurkontur"
+
+msgid "Shape Styles"
+msgstr "Figurstile"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Forsendelsesetiketter"
+
+msgid "Shortcut key:"
+msgstr "Genvejstast:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Vis justeringslinjer, når billeder og figurer flyttes"
+
+msgid "Show all formatting marks"
+msgstr "Vis alle formateringstegn"
+
+msgid "Show All Levels"
+msgstr "Vis alle niveauer"
+
+msgid "Show all revisions inline"
+msgstr "Vis alle revisioner i teksten"
+
+msgid "Show changes at:"
+msgstr "Vis ændringer i niveau:"
+
+msgid "Show changes in:"
+msgstr "Vis ændringer i:"
+
+msgid "Show Comments"
+msgstr "Vis kommentarer"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Vis dokumenter med omvendte farver, som Visning › Skift tilstand. Gem, udskrivning og PDF’er er uændrede."
+
+msgid "Show every bibliography field"
+msgstr "Vis alle bibliografifelter"
+
+msgid "Show First Line Only"
+msgstr "Vis kun første linje"
+
+msgid "Show in the Styles gallery"
+msgstr "Vis i stilgalleriet"
+
+msgid "Show its list number"
+msgstr "Vis dets listenummer"
+
+msgid "Show its number relative to this field"
+msgstr "Vis dets nummer i forhold til dette felt"
+
+msgid "Show its number with all higher levels"
+msgstr "Vis dets nummer med alle overordnede niveauer"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Vis nøgletip (Alt eller F10)"
+
+msgid "Show Level"
+msgstr "Vis niveau"
+
+msgid "Show Level 1"
+msgstr "Vis niveau 1"
+
+msgid "Show Level 2"
+msgstr "Vis niveau 2"
+
+msgid "Show Level 3"
+msgstr "Vis niveau 3"
+
+msgid "Show Level 4"
+msgstr "Vis niveau 4"
+
+msgid "Show Level 5"
+msgstr "Vis niveau 5"
+
+msgid "Show Level 6"
+msgstr "Vis niveau 6"
+
+msgid "Show Level 7"
+msgstr "Vis niveau 7"
+
+msgid "Show Level 8"
+msgstr "Vis niveau 8"
+
+msgid "Show Level 9"
+msgstr "Vis niveau 9"
+
+msgid "Show Markup"
+msgstr "Vis markeringer"
+
+msgid "Show Notes"
+msgstr "Vis noter"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Vis kun kommentarer og formatering i balloner"
+
+msgid "Show only records that will be merged"
+msgstr ""
+
+msgid "Show or Hide Style"
+msgstr "Vis eller skjul stil"
+
+msgid "Show Quick Access Toolbar"
+msgstr ""
+
+msgid "Show revisions in balloons"
+msgstr "Vis revisioner i balloner"
+
+msgid "Show Text Formatting"
+msgstr "Vis tekstformatering"
+
+msgid "Show the Assistant"
+msgstr "Vis Assistenten"
+
+msgid "Show the community button in the title bar"
+msgstr "Vis fællesskabsknappen på titellinjen"
+
+msgid "Show the equation in the line of text"
+msgstr "Vis formlen i tekstlinjen"
+
+msgid "Show the equation on a line of its own"
+msgstr "Vis formlen på en linje for sig"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Vis miniværktøjslinjen, når tekst markeres"
+
+msgid "Show the ribbon"
+msgstr ""
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Vis startskærmen, når WordCraft starter"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Viser de tip igen, som du har bedt om ikke at se."
+
+msgid "Show/Hide ¶"
+msgstr "Vis/skjul ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Vis/skjul ¶ ({key}) viser de mellemrum, tabulatorer og skift, der gemmer sig i din tekst."
+
+msgid "Show\nComments"
+msgstr "Vis\nkommentarer"
+
+msgid "Showing the first {count} items."
+msgstr "Viser de første {count} elementer."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Viser et træ: hvert element placeres under det element, det hører til."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Viser elementer omkring en central idé: det første element er centrum."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Viser elementer med samme vægt som blokke i rækker."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Viser overlappende idéer som overlappende cirkler."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Viser delene af en helhed som kvadranter."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Viser dele, der bygger oven på hinanden, den største nederst."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Viser trin i rækkefølge fra venstre til højre med pile mellem dem."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Viser trin, der gentages, i en cirkel."
+
+msgid "Shrink Font 1 Point"
+msgstr "Formindsk skrift med 1 punkt"
+
+msgid "Shrink text"
+msgstr "Formindsk tekst"
+
+msgid "Side to Side"
+msgstr "Side om side"
+
+msgid "Side\nto Side"
+msgstr "Side\nom side"
+
+msgid "Sides of a right triangle"
+msgstr "Sider i en retvinklet trekant"
+
+msgid "Signature Line"
+msgstr "Signaturlinje"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Sinus- og cosinusrække for f(x)"
+
+msgid "Sine Function"
+msgstr "Sinusfunktion"
+
+msgid "Sine theta"
+msgstr "Sinus theta"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Enkelt"
+
+msgid "Single Brackets"
+msgstr "Enkeltstående parenteser"
+
+msgid "Single Closing Quote"
+msgstr "Enkelt lukkende anførselstegn"
+
+msgid "Single label"
+msgstr "Enkelt etiket"
+
+msgid "Single Left Angle"
+msgstr "Enkelt venstre vinkeltegn"
+
+msgid "Single Left Bar"
+msgstr "Enkelt venstre lodret streg"
+
+msgid "Single Left Brace"
+msgstr "Enkelt venstre krøllet parentes"
+
+msgid "Single Left Bracket"
+msgstr "Enkelt venstre kantet parentes"
+
+msgid "Single Left Parenthesis"
+msgstr "Enkelt venstre rund parentes"
+
+msgid "Single Opening Quote"
+msgstr "Enkelt åbnende anførselstegn"
+
+msgid "Single Right Brace"
+msgstr "Enkelt højre krøllet parentes"
+
+msgid "Single Right Bracket"
+msgstr "Enkelt højre kantet parentes"
+
+msgid "Single Right Parenthesis"
+msgstr "Enkelt højre rund parentes"
+
+msgid "Single Spacing"
+msgstr "Enkelt linjeafstand"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "Webstedsnavn"
+
+msgid "Size (pt):"
+msgstr "Størrelse (pt):"
+
+msgid "Size and Crop…"
+msgstr "Størrelse og beskæring…"
+
+msgid "Sketchbook"
+msgstr "Skitsebog"
+
+msgid "Skewed Fraction"
+msgstr "Skrå brøk"
+
+msgid "Skip citations & bibliography"
+msgstr "Spring citater og bibliografi over"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Spring citater og bibliografi over"
+
+msgid "Skip Record If"
+msgstr "Spring post over, hvis"
+
+msgid "Skip Record If…"
+msgstr "Spring post over, hvis…"
+
+msgid "Slant Down"
+msgstr "Hældning ned"
+
+msgid "Slant Up"
+msgstr "Hældning op"
+
+msgid "Slovak"
+msgstr "slovakisk"
+
+msgid "Slovenian"
+msgstr "slovensk"
+
+msgid "Small caps"
+msgstr "Små kapitaler"
+
+msgid "Small change"
+msgstr "Lille ændring"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Smarte anførselstegn i stedet for lige anførselstegn"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt-design"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt-stile"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Glat rulning og zoom, og menuer og knapper, der toner ind. Fra viser alle ændringer på én gang."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Bløde kanter"
+
+msgid "Soft Glow"
+msgstr "Blød glød"
+
+msgid "Solid Accent"
+msgstr "Massiv accent"
+
+msgid "Solid fill"
+msgstr ""
+
+msgid "Sometimes"
+msgstr "Nogle gange"
+
+msgid "Sort by:"
+msgstr "Sortér efter:"
+
+msgid "Sort order:"
+msgstr "Sorteringsrækkefølge:"
+
+msgid "Sort Recipients"
+msgstr "Sortér modtagere"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Kildekode: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Kildehåndtering"
+
+msgid "Source type:"
+msgstr "Kildetype:"
+
+msgid "Sources in this document:"
+msgstr "Kilder i dette dokument:"
+
+msgid "South"
+msgstr "Syd"
+
+msgid "South Africa"
+msgstr "Sydafrika"
+
+msgid "Space"
+msgstr "Mellemrum"
+
+msgid "Space after"
+msgstr "Mellemrum efter"
+
+msgid "Space after: {pt} pt"
+msgstr "Afstand efter: {pt} pt"
+
+msgid "Space before"
+msgstr "Mellemrum før"
+
+msgid "Space before/after:"
+msgstr "Mellemrum før/efter:"
+
+msgid "Space before: {pt} pt"
+msgstr "Afstand før: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Afstand (pt):"
+
+msgid "Spain"
+msgstr "Spanien"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Spansk (Mexico)"
+
+msgid "Spanish (Spain)"
+msgstr "Spansk (Spanien)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Tyndt besatte matricer"
+
+msgid "Special Characters"
+msgstr "Specialtegn"
+
+msgid "Specify height:"
+msgstr "Angiv højde:"
+
+msgid "Speech"
+msgstr "Tale"
+
+msgid "Spelling & Grammar"
+msgstr "Stavekontrol og grammatik"
+
+msgid "Spelling &\nGrammar"
+msgstr "Stavekontrol og\ngrammatik"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Sprog til stave- og grammatikkontrol: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Staveforslag"
+
+msgid "Spike"
+msgstr "Klippekartotek"
+
+msgid "Split Cells"
+msgstr "Opdel celler"
+
+msgid "Split Table"
+msgstr "Opdel tabel"
+
+msgid "Spreadsheet Table"
+msgstr "Regnearkstabel"
+
+msgid "Square Root"
+msgstr "Kvadratrod"
+
+msgid "Square Root with Degree"
+msgstr "Kvadratrod med gradtal"
+
+msgid "Square Union"
+msgstr "Kvadratisk foreningsmængde"
+
+msgid "Stack Object"
+msgstr "Stablet objekt"
+
+msgid "Stack Object (Three)"
+msgstr "Stablet objekt (tre)"
+
+msgid "Stacked Bar"
+msgstr "Stablet søjlediagram"
+
+msgid "Stacked Column"
+msgstr "Stablet kolonnediagram"
+
+msgid "Stacked Fraction"
+msgstr "Stablet brøk"
+
+msgid "Stacked, no bar"
+msgstr "Stablet uden streg"
+
+msgid "Standard Colors"
+msgstr "Standardfarver"
+
+msgid "Start Enforcing Protection"
+msgstr "Begynd at håndhæve beskyttelse"
+
+msgid "Start Mail Merge"
+msgstr "Start serielbrev"
+
+msgid "Start Mail\nMerge"
+msgstr "Start\nserielbrev"
+
+msgid "Start-up"
+msgstr "Opstart"
+
+msgid "State"
+msgstr "Delstat"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Stadig der? Jeg kan høre dig tænke."
+
+msgid "Stop Protection"
+msgstr "Stop beskyttelse"
+
+msgid "Stop Reading"
+msgstr "Stop læsningen"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Stoppet"
+
+msgid "Straight Arrow Connector"
+msgstr "Lige pilforbindelse"
+
+msgid "Straight Connector"
+msgstr "Lige forbindelse"
+
+msgid "Stroke {n} of {total}"
+msgstr "Streg {n} af {total}"
+
+msgid "Strong"
+msgstr "Fed"
+
+msgid "Structure Actions"
+msgstr "Strukturhandlinger"
+
+msgid "Structures"
+msgstr "Strukturer"
+
+msgid "Studio cover"
+msgstr "Studioomslag"
+
+msgid "Studio handbook (sample)"
+msgstr "Studiohåndbog (eksempel)"
+
+msgid "Style based on:"
+msgstr "Stil baseret på:"
+
+msgid "Style Inspector"
+msgstr "Stilinspektør"
+
+msgid "Style name:"
+msgstr "Typografinavn:"
+
+msgid "Style Set"
+msgstr "Stilsæt"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Stil: {style}"
+
+msgid "Styles Pane"
+msgstr "Stilrude"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stile:"
+
+msgid "Subentry:"
+msgstr "Underelement:"
+
+msgid "Submit print job"
+msgstr "Send udskriftsjob"
+
+msgid "Submitting print job…"
+msgstr "Sender udskriftsjob…"
+
+msgid "Subscript-Superscript"
+msgstr "Sub- og superskript"
+
+msgid "Subscripts and Superscripts"
+msgstr "Indekser og hævede indekser"
+
+msgid "Subset:"
+msgstr "Delsæt:"
+
+msgid "Subtle Emphasis"
+msgstr "Diskret fremhævning"
+
+msgid "Subtle Reference"
+msgstr "Diskret henvisning"
+
+msgid "Suggested"
+msgstr "Foreslået"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Sum of cosines"
+msgstr "Sum af cosinusser"
+
+msgid "Sum or difference of sines"
+msgstr "Sum eller difference af sinusser"
+
+msgid "Summation"
+msgstr "Sum"
+
+msgid "Summation from 0 to n"
+msgstr "Sum fra 0 til n"
+
+msgid "Summation over binomials"
+msgstr "Sum over binomialer"
+
+msgid "Summation with Limits"
+msgstr "Sum med grænser"
+
+msgid "Summation with Lower Limit"
+msgstr "Sum med nedre grænse"
+
+msgid "Summation with Subscript Limit"
+msgstr "Sum med grænse i indeks"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Sum med grænser i sub- og superskript"
+
+msgid "Summations"
+msgstr "Summer"
+
+msgid "Suppress line numbers"
+msgstr "Skjul linjenumre"
+
+msgid "Surface Integral"
+msgstr "Fladeintegral"
+
+msgid "Surface Integral with Limits"
+msgstr "Fladeintegral med grænser"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Fladeintegral med grænser over og under"
+
+msgid "Swahili"
+msgstr "swahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Byt fodnoter og slutnoter"
+
+msgid "Swedish"
+msgstr "Svensk"
+
+msgid "Switch Modes"
+msgstr "Skift tilstand"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Skift\ntilstand"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Schweiz"
+
+msgid "Synonyms"
+msgstr "Synonymer"
+
+msgid "Syria"
+msgstr "Syrien"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Systemordbog"
+
+msgid "Tab Character"
+msgstr "Tabulator"
+
+msgid "Tab character"
+msgstr "Tabulator"
+
+msgid "Tab characters"
+msgstr "Tabulatorer"
+
+msgid "Tab leader:"
+msgstr "Udfyldningstegn for tabulator:"
+
+msgid "Tab stop position:"
+msgstr "Tabulatorposition:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Tabulatorer, der skal fjernes:"
+
+msgid "Table Column Width"
+msgstr "Tabelkolonnebredde"
+
+msgid "Table Design"
+msgstr "Tabeldesign"
+
+msgid "Table direction:"
+msgstr "Tabelretning:"
+
+msgid "Table Grid"
+msgstr "Tabelgitter"
+
+msgid "Table Layout"
+msgstr "Tabelayout"
+
+msgid "Table of Authorities"
+msgstr "Tabel over juridiske kilder"
+
+msgid "Table of Contents"
+msgstr "Indholdsfortegnelse"
+
+msgid "Table of Contents Options"
+msgstr "Indstillinger for indholdsfortegnelse"
+
+msgid "Table of Contents Styles"
+msgstr "Stile for indholdsfortegnelse"
+
+msgid "Table of Figures"
+msgstr "Afbildningstabel"
+
+msgid "Table of\nContents"
+msgstr "Indholds-\nfortegnelse"
+
+msgid "Table Properties"
+msgstr "Tabelegenskaber"
+
+msgid "Table Properties…"
+msgstr "Tabelegenskaber…"
+
+msgid "Table Row Height"
+msgstr "Tabelrækkehøjde"
+
+msgid "Table size"
+msgstr ""
+
+msgid "Table Style Options"
+msgstr "Indstillinger for tabelstil"
+
+msgid "Table Styles"
+msgstr "Tabelstile"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Tabulatorer…"
+
+msgid "Tabular List"
+msgstr "Tabellarisk liste"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Take the last match on the page"
+msgstr "Tag den sidste forekomst på siden"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Tag dig god tid. Siden løber ingen steder. Det gør jeg heller ikke. Nogensinde."
+
+msgid "Tamil"
+msgstr "tamil"
+
+msgid "Tangent formula"
+msgstr "Tangentformel"
+
+msgid "Tangent Function"
+msgstr "Tangensfunktion"
+
+msgid "TC entry fields"
+msgstr "TC-elementfelter"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Teknologi"
+
+msgid "Templates and Add-ins"
+msgstr "Skabeloner og tilføjelsesprogrammer"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr ""
+
+msgid "Text Box"
+msgstr "Tekstboks"
+
+msgid "Text boxes"
+msgstr "Tekstfelter"
+
+msgid "text boxes can't go inside a text box"
+msgstr "tekstfelter kan ikke placeres i et tekstfelt"
+
+msgid "Text Direction"
+msgstr "Tekstretning"
+
+msgid "Text Effects"
+msgstr "Teksteffekter"
+
+msgid "Text Effects and Typography"
+msgstr "Teksteffekter og typografi"
+
+msgid "Text Fill"
+msgstr "Tekstfyld"
+
+msgid "Text from File"
+msgstr "Tekst fra fil"
+
+msgid "Text Highlight Color"
+msgstr "Farve til tekstmarkering"
+
+msgid "Text indent at:"
+msgstr "Tekstindrykning ved:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Tekst fra det nærmeste afsnit med en bestemt typografi (løbende sidehoveder)"
+
+msgid "Text Outline"
+msgstr "Tekstkontur"
+
+msgid "Text over Colon Equal"
+msgstr "Tekst over kolon med lighedstegn"
+
+msgid "Text over Equal"
+msgstr "Tekst over lighedstegn"
+
+msgid "Text Pane"
+msgstr "Tekstfelt"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Tekststørrelse"
+
+msgid "Text snaps to characters"
+msgstr "Tekst låses til tegn"
+
+msgid "Text to display:"
+msgstr "Tekst, der skal vises:"
+
+msgid "Text watermark"
+msgstr "Tekstvandmærke"
+
+msgid "Text Wrapping"
+msgstr "Tekstombrydning"
+
+msgid "Text\nBox"
+msgstr "Tekst-\nboks"
+
+msgid "Text\nDirection"
+msgstr "Tekst-\nretning"
+
+msgid "Thai"
+msgstr "thai"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Det format bevarer ikke alt, så dokumentet er stadig åbent. Gem det som et Word-dokument (.docx) for at fortsætte."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Adgangskoden er ikke korrekt. Kontrollér den (adgangskoder skelner mellem store og små bogstaver), og prøv igen."
+
+msgid "The clipboard is empty."
+msgstr "Udklipsholderen er tom."
+
+msgid "the Clipboard pane is empty"
+msgstr "udklipsholderruden er tom"
+
+msgid "the cursor isn't in a table"
+msgstr "markøren står ikke i en tabel"
+
+msgid "The date it is today"
+msgstr "Dagens dato"
+
+msgid "The document has no bookmarks yet."
+msgstr "Dokumentet har endnu ingen bogmærker."
+
+msgid "the document is protected"
+msgstr "dokumentet er beskyttet"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Dokumentet er skrivebeskyttet, undtagen områder, der er markeret som redigerbare."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Dokumentet gemmes med en adgangskode. Gem det for at beskytte det."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Det dokument, du redigerer, bevarer navnene og datoerne; det er kun den gemte fil, der udelader dem."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Margenerne passer ikke på en side i denne størrelse; gør margenerne mindre først."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr ""
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Den nye stil bruger formateringen af det aktuelle afsnit."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Skabelonen Normal kunne ikke læses, så dette dokument bruger WordCrafts indbyggede formatering."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr ""
+
+msgid "the paragraph is empty"
+msgstr "afsnittet er tomt"
+
+msgid "the paragraph starts with a space"
+msgstr "afsnittet starter med et mellemrum"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Adgangskoden er valgfri; uden den kan alle slå beskyttelsen fra."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Adgangskoden er fjernet. Gem dokumentet for at beholde ændringen."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Printer, dobbeltsidet udskrivning og sider pr. ark vælges i denne dialog."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Modtagerlistefeltet, der udfylder hver del af en adresseblok og en hilseslinje."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Kontrollen af stavning og grammatik er fuldført."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "klippekartoteket er tomt"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Systemets fildialog er ikke tilgængelig, så WordCraft viser sin egen. Få systemets dialog ved at installere en filvælgerportal (f.eks. xdg-desktop-portal-gtk) eller zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Teksten ved indsætningspunktet er markeret: Kontrollér ikke stavning eller grammatik."
+
+msgid "The time right now"
+msgstr "Det aktuelle klokkeslæt"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Temafarver"
+
+msgid "Theme Fonts"
+msgstr "Temaskrifttyper"
+
+msgid "Theme List"
+msgstr "Temapliste"
+
+msgid "Themes"
+msgstr "Temaer"
+
+msgid "Then by"
+msgstr "Derefter efter"
+
+msgid "Then insert:"
+msgstr "Indsæt derefter:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "der er intet blæk at afspille igen"
+
+msgid "there is nothing to undo"
+msgstr "der er intet at fortryde"
+
+msgid "there's no citation after the caret"
+msgstr "der er intet citat efter markøren"
+
+msgid "Thesaurus"
+msgstr "Synonymsordbog"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Disse tegn vises, selv når Vis/skjul ¶ er slået fra."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Disse fletningsfelter findes ikke i modtagerlisten:"
+
+msgid "These settings will be used for new documents."
+msgstr "Disse indstillinger bruges til nye dokumenter."
+
+msgid "Thick"
+msgstr "Tyk"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "dette diagram er lavet i et andet program: WordCraft viser det, men kan ikke redigere det"
+
+msgid "this diagram can't be edited"
+msgstr "dette diagram kan ikke redigeres"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "dette diagram blev oprettet i et andet program: WordCraft viser det, men kan ikke redigere det"
+
+msgid "This document"
+msgstr "Dette dokument"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Kun dette dokument?"
+
+msgid "This field has no options."
+msgstr "Dette felt har ingen indstillinger."
+
+msgid "This folder can't be read: {error}"
+msgstr "Denne mappe kan ikke læses: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Denne skrifttype har ingen tegn at vise."
+
+msgid "this item is already at the top level"
+msgstr "dette element er allerede på øverste niveau"
+
+msgid "This page"
+msgstr "Denne side"
+
+msgid "This password type isn't supported."
+msgstr "Denne type adgangskode understøttes ikke."
+
+msgid "This point forward"
+msgstr "Fra dette punkt"
+
+msgid "This section"
+msgstr "Denne sektion"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "denne session har ingen Normal-skabelon (uden brugerflade eller uden indstillinger)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "denne session har ingen Normal-skabelon (uden brugerflade eller uden indstillinger): brug \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "denne SmartArt er lavet i et andet program: WordCraft viser den, men kan ikke redigere den"
+
+msgid "this text box is already linked: break the link first"
+msgstr "dette tekstfelt er allerede sammenkædet: fjern først sammenkædningen"
+
+msgid "Three"
+msgstr "Tre"
+
+msgid "Through"
+msgstr "Igennem"
+
+msgid "Tight"
+msgstr "Tæt"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "Tip"
+
+msgid "Tips ({n})"
+msgstr "Tips ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Titel"
+
+msgid "Title Bar"
+msgstr "Titellinje"
+
+msgid "Title from the document properties"
+msgstr "Titel fra dokumentegenskaberne"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "For at åbne Word-dokumenter med WordCraft som standard: vælg et i Finder, vælg Filer › Hent oplysninger, vælg WordCraft under Åbn med, og klik derefter på Skift alle."
+
+msgid "To:"
+msgstr "Til:"
+
+msgid "TOA Heading"
+msgstr "TOA-overskrift"
+
+msgid "TOC Heading"
+msgstr "Overskrift for indholdsfortegnelse"
+
+msgid "TOC {n}"
+msgstr "Indholdsfortegnelse {n}"
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "tOGGLE cASE"
+msgstr "sKIFT STORE/SMÅ BOGSTAVER"
+
+msgid "Toggle Check Box"
+msgstr "Slå afkrydsningsfelt til/fra"
+
+msgid "Toggle Field Codes"
+msgstr "Slå feltkoder til/fra"
+
+msgid "Toggle Unicode Character"
+msgstr "Slå Unicode-tegn til/fra"
+
+msgid "Top and Bottom"
+msgstr "Top og bund"
+
+msgid "Top Border"
+msgstr "Øvre kant"
+
+msgid "Top Left Cell"
+msgstr "Øverste venstre celle"
+
+msgid "Top Margin"
+msgstr "Øvre sidekant"
+
+msgid "Top of Page"
+msgstr "Øverst på siden"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Øverste højre celle"
+
+msgid "Total Row"
+msgstr "Sumrække"
+
+msgid "Track Changes"
+msgstr "Følg ændringer"
+
+msgid "Track Changes Options"
+msgstr "Indstillinger for Følg ændringer"
+
+msgid "Track Changes: On"
+msgstr "Følg ændringer: Til"
+
+msgid "Track formatting"
+msgstr "Følg formatering"
+
+msgid "Track\nChanges"
+msgstr "Følg\nændringer"
+
+msgid "Track\nChanges ✓"
+msgstr "Følg\nændringer ✓"
+
+msgid "Tracked changes"
+msgstr "Sporede ændringer"
+
+msgid "Trademark"
+msgstr "Varemærke"
+
+msgid "Trademark Sign"
+msgstr "Symbol for varemærke"
+
+msgid "Transparency:"
+msgstr "Gennemsigtighed:"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Triangle Down"
+msgstr "Trekant ned"
+
+msgid "Triangle Up"
+msgstr "Trekant op"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometriske funktioner"
+
+msgid "Triple"
+msgstr "Tredobbelt"
+
+msgid "Triple Dot"
+msgstr "Tre prikker over tegn"
+
+msgid "Triple Integral"
+msgstr "Tredobbeltintegral"
+
+msgid "Triple Integral with Limits"
+msgstr "Tredobbeltintegral med grænser"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Tredobbeltintegral med grænser over og under"
+
+msgid "Trust Center"
+msgstr "Center for sikkerhed og beskyttelse"
+
+msgid "Tue"
+msgstr "Tir"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "Tyrkisk"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "To"
+
+msgid "Two-sided printing"
+msgstr "Tosidet udskrivning"
+
+msgid "Two-sided: long edge"
+msgstr "Tosidet: langsiden"
+
+msgid "Two-sided: short edge"
+msgstr "Tosidet: tværsiden"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Skriv +2 eller -1 for at flytte dig fra den side, du er på."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Skriv en kommando, f.eks. »indsæt tabel«"
+
+msgid "Type a New List…"
+msgstr "Skriv en ny liste…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr ""
+
+msgid "Type at least one recipient."
+msgstr "Skriv mindst én modtager."
+
+msgid "Type Character Code"
+msgstr "Angiv tegnkode"
+
+msgid "Type equations in LaTeX"
+msgstr "Skriv formler i LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Skriv formler i det lineære format (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Skriv i formel"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Skriv almindelig (ikke-matematisk) tekst i formlen"
+
+msgid "Type Text"
+msgstr "Skriv tekst"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Indtast kategorierne ned langs siden og en kolonne med værdier for hver serie."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Skriv feltets navn og dets parametre, for eksempel PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Indtast adgangskoden for at slå beskyttelsen fra."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Skriv modtagerne, eller indlæs dem fra en fil."
+
+msgid "Typing replaces selected text"
+msgstr "Skrivning erstatter markeret tekst"
+
+msgid "U.A.E."
+msgstr "Forenede Arabiske Emirater"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Ukrainian"
+msgstr "Ukrainsk"
+
+msgid "Unchecked symbol"
+msgstr "Ikke-afkrydset symbol"
+
+msgid "Underbar"
+msgstr "Understreg"
+
+msgid "Underbrace"
+msgstr "Underklamme"
+
+msgid "Underline Color"
+msgstr "Underline Color"
+
+msgid "Underline color"
+msgstr "Understregningsfarve"
+
+msgid "Underline Words Only"
+msgstr "Understreg kun ord"
+
+msgid "Undo 1 Action"
+msgstr "Fortryd 1 handling"
+
+msgid "Undo Actions"
+msgstr "Fortryd handlinger"
+
+msgid "Undo History"
+msgstr "Fortrydningshistorik"
+
+msgid "Undo {n} Actions"
+msgstr "Fortryd handlinger: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Fortryd, fortryd, fortryd… nu rejser vi i tiden."
+
+msgid "Unformatted Text"
+msgstr "Uformateret tekst"
+
+msgid "Union of intersections"
+msgstr "Forening af snitmængder"
+
+msgid "Union with Limits"
+msgstr "Foreningsmængde med grænser"
+
+msgid "Union with Lower Limit"
+msgstr "Foreningsmængde med nedre grænse"
+
+msgid "Union with Plus"
+msgstr "Foreningsmængde med plus"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Foreningsmængde med grænser i sub- og superskript"
+
+msgid "Unions and Intersections"
+msgstr "Foreninger og fællesmængder"
+
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+msgid "United States"
+msgstr "USA"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "ukendt typografi for dekorativ tekst `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Fjern feltforbindelse"
+
+msgid "Unlink\nCitations"
+msgstr "Fjern\ncitater"
+
+msgid "Unlock Fields"
+msgstr "Lås felter op"
+
+msgid "Up Diagonal Dots"
+msgstr "Diagonale prikker opad"
+
+msgid "Up one level"
+msgstr "Op ét niveau"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Opdatér felt"
+
+msgid "Update fields before printing"
+msgstr "Opdatér felter før udskrivning"
+
+msgid "Update Index"
+msgstr "Opdatér indeks"
+
+msgid "Update Style to Match Selection"
+msgstr "Opdatér stil efter markeringen"
+
+msgid "Update Styles from Template"
+msgstr "Opdatér stile fra skabelon"
+
+msgid "Update Table"
+msgstr "Opdatér tabel"
+
+msgid "Update Table of Figures"
+msgstr "Opdatér figurliste"
+
+msgid "Update to Match"
+msgstr "Opdatér efter"
+
+msgid "Update to Match Selection"
+msgstr "Opdatér efter markeringen"
+
+msgid "URGENT"
+msgstr "HASTENDE"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Brug „a” før en konsonant"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Brug „an” før en vokal"
+
+msgid "Use an Existing List…"
+msgstr "Brug en eksisterende liste…"
+
+msgid "Use system setting"
+msgstr "Brug systemets indstilling"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Brug browserens fuldskærm (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Vil du bruge det aktuelle stilsæt og tema til alle nye dokumenter?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Brug Insert-tasten til at slå overskrivning til og fra"
+
+msgid "Use this formatting as the default for:"
+msgstr "Brug denne formatering som standard for:"
+
+msgid "Use wildcards"
+msgstr "Brug jokertegn"
+
+msgid "User Name"
+msgstr "Brugernavn"
+
+msgid "User name:"
+msgstr "Brugernavn:"
+
+msgid "User templates:"
+msgstr ""
+
+msgid "Vector A"
+msgstr "Vektor A"
+
+msgid "Vector AB"
+msgstr "Vektor AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Versionshistorik"
+
+msgid "Version {version} ({build})"
+msgstr "Version {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Lodret justering:"
+
+msgid "Vertical Bars"
+msgstr "Lodrette streger"
+
+msgid "Vertical Dots"
+msgstr "Lodrette prikker"
+
+msgid "Vietnamese"
+msgstr "vietnamesisk"
+
+msgid "View Alt Text…"
+msgstr "Vis alternativ tekst…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Vis gitterlinjer"
+
+msgid "View State"
+msgstr "Visningstilstand"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Visning › Fokus skjuler alt undtagen dine ord. Jeg venter udenfor."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Visninger"
+
+msgid "Visual effects"
+msgstr "Visuelle effekter"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Bind"
+
+msgid "Volume Integral"
+msgstr "Volumenintegral"
+
+msgid "Volume Integral with Limits"
+msgstr "Volumenintegral med grænser"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Volumenintegral med grænser over og under"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "Venter på, at gemningen er færdig…"
+
+msgid "Waiting for Zotero…"
+msgstr "Venter på Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Varm gradient med kontur"
+
+msgid "Warnings ({n})"
+msgstr "Advarsler ({n})"
+
+msgid "Washout"
+msgstr "Udvasket"
+
+msgid "Weather"
+msgstr "Vejr"
+
+msgid "Web Layout"
+msgstr "Weblayout"
+
+msgid "Web page (*.html)"
+msgstr "Webside (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Web\nlayout"
+
+msgid "Wed"
+msgstr "Ons"
+
+msgid "Welsh"
+msgstr "walisisk"
+
+msgid "West"
+msgstr "Vest"
+
+msgid "When this document was first created"
+msgstr "Da dokumentet først blev oprettet"
+
+msgid "When this document was most recently printed"
+msgstr "Da dokumentet sidst blev udskrevet"
+
+msgid "When this document was most recently saved"
+msgstr "Da dokumentet sidst blev gemt"
+
+msgid "White Space"
+msgstr "Mellemrum"
+
+msgid "White space"
+msgstr "Mellemrum"
+
+msgid "Who the document properties name as author"
+msgstr "Hvem dokumentegenskaberne angiver som forfatter"
+
+msgid "Whole document"
+msgstr "Hele dokumentet"
+
+msgid "Whole page"
+msgstr "Hele siden"
+
+msgid "Whole Table"
+msgstr "Hele tabellen"
+
+msgid "Whole words"
+msgstr "Hele ord"
+
+msgid "Wide"
+msgstr "Bred"
+
+msgid "Widow/Orphan Control"
+msgstr "Kontrol af enlige linjer"
+
+msgid "Widow/Orphan control"
+msgstr "Kontrol af enlige linjer"
+
+msgid "Width and spacing"
+msgstr "Bredde og afstand"
+
+msgid "Wildcards (regex)"
+msgstr "Jokertegn (regulære udtryk)"
+
+msgid "With:"
+msgstr "Med:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML-dokument (*.xml)"
+
+msgid "Word Count"
+msgstr "Ordantal"
+
+msgid "Word document"
+msgstr "Word-dokument"
+
+msgid "Word document (*.docx)"
+msgstr "Word-dokument (*.docx)"
+
+msgid "Word Left"
+msgstr "Ord til venstre"
+
+msgid "Word level"
+msgstr "Ordniveau"
+
+msgid "Word Right"
+msgstr "Ord til højre"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML-dokument (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt-stile"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft er nu standardprogram for Word-dokumenter."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Kun ord"
+
+msgid "Wrap Text"
+msgstr "Ombryd tekst"
+
+msgid "Wrap Text Sides"
+msgstr "Sider for tekstindpakning"
+
+msgid "Wrap\nText"
+msgstr "Ombryd\ntekst"
+
+msgid "Write & Insert Fields"
+msgstr "Skriv og indsæt felter"
+
+msgid "Write a reply"
+msgstr "Skriv et svar"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Skriveblokering? Jeg synes, det hjælper at stirre på markøren. Den har blinket ad mig i årevis."
+
+msgid "x bar"
+msgstr "x med streg"
+
+msgid "Year"
+msgstr "År"
+
+msgid "Yields"
+msgstr "Giver"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Du har ikke gemt i et stykke tid, og AutoSave er slået fra. Gem nu?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Du har startet en liste. Tryk på Enter to gange for at afslutte den, eller tryk på Backspace i starten af et punkt for at gøre det til almindelig tekst igen."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Dit dokument er nu det mest gemte dokument i historien."
+
+msgid "Your languages"
+msgstr "Dine sprog"
+
+msgid "Your own dictionary"
+msgstr "Din egen ordbog"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Dit system rapporterer ikke en animationsindstilling, så animationseffekter forbliver slået til."
+
+msgid "Your system has animation effects turned off."
+msgstr "Dit system har animationseffekter slået fra."
+
+msgid "Your system has animation effects turned on."
+msgstr "Dit system har animationseffekter slået til."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: annulleret"
+
+msgid "Zotero: done"
+msgstr "Zotero: færdig"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr ""
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr ""
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} tabel"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Bidragsydere: {contributors} · commits: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Fremhævede elementer: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "{count} af {total} sider udskrives"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "{count} af {total} modtagere bliver flettet."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Indstillinger for {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} kontrollerer stavning og grammatik i hele dokumentet."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} tæller dine ord, tegn og afsnit."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} søger efter og erstatter tekst, formatering og specialtegn."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} gentager din seneste handling. Ti overskrifter at formatere er pludselig ét klik og ni tryk."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} starter en ny linje uden at starte et nyt afsnit."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} starter en ny side. Meget pænere end at trykke på Enter, indtil det sker."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} gør den markerede tekst til et link."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+klik for at følge linket"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (standard)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (ingen ordbog)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} er nu dokumentets standardsprog."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: ingen ordbog fundet"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft kontrollerer endnu ikke stavning eller grammatik på dette sprog."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr ""
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} tommer"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} findes allerede. Vælg Gem igen for at erstatte den."
+
+msgid "{name} is protected with a password."
+msgstr "{name} er beskyttet med en adgangskode."
+
+msgid "{name} options"
+msgstr ""
+
+msgid "{name} wasn't found."
+msgstr "{name} blev ikke fundet."
+
+msgid "{n} entries marked."
+msgstr "Markerede elementer: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Linjer: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "Valgt: {selected} af {words}"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr ""
+
+msgid "{words} words"
+msgstr "Ord: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} ord, og tallet stiger. Bogstaveligt talt. Jeg tæller med."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} ord! Jeg ville kaste med konfetti, men så skulle jeg rydde op bagefter."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} ord. Det er {words} flere, end jeg har skrevet i dag."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) er ikke et tal."
+
+msgid "✓ None"
+msgstr "✓ Ingen"
+
+msgid "➕ New comment"
+msgstr "➕ Ny kommentar"
+
+msgid "📂  Browse…"
+msgstr "📂  Gennemse…"

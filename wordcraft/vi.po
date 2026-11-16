@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=(0);\n"
+
+msgid "(All)"
+msgstr "(Tất cả)"
+
+msgid "(no style)"
+msgstr "(không có kiểu)"
+
+msgid "(no suggestions)"
+msgstr "(không có gợi ý)"
+
+msgid "(normal text)"
+msgstr "(văn bản thường)"
+
+msgid "(not matched)"
+msgstr "(không khớp)"
+
+msgid "(picture or object)"
+msgstr "(hình ảnh hoặc đối tượng)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "Không hoặc nhiều ký tự"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Hạn chế định dạng"
+
+msgid "1.5 Line Spacing"
+msgstr "Giãn dòng 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Khoảng trắng 1/4 em"
+
+msgid "1×2 Empty Matrix"
+msgstr "Ma trận trống 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Ma trận trống 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Hạn chế chỉnh sửa"
+
+msgid "2×1 Empty Matrix"
+msgstr "Ma trận trống 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Định thức 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Ma trận trống 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Ma trận đơn vị 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Ma trận đơn vị 2×2 (thưa)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Ma trận 2×2 trong ngoặc vuông"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Ma trận 2×2 trong thanh dọc kép"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Ma trận 2×2 trong ngoặc đơn"
+
+msgid "2×3 Empty Matrix"
+msgstr "Ma trận trống 2×3"
+
+msgid "3-D"
+msgstr "3-D"
+
+msgid "3. Start enforcement"
+msgstr "3. Thực thi bảo vệ"
+
+msgid "3×1 Empty Matrix"
+msgstr "Ma trận trống 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Ma trận trống 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Ma trận trống 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Ma trận đơn vị 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Ma trận đơn vị 3×3 (thưa)"
+
+msgid "<< Less"
+msgstr "<< Thu gọn"
+
+msgid "<< Remove"
+msgstr "<< Gỡ"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "một sơ đồ chứa tối đa {MAX_ITEMS} mục"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "không thể bỏ nhóm khung vẽ"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "không thể đặt khung vẽ vào trong hộp văn bản"
+
+msgid "A file dialog is already open."
+msgstr "Đã có một hộp thoại tệp đang mở."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Trình xử lý văn bản miễn phí, mã nguồn mở được viết từ đầu bằng Rust.\nMột phần trong bộ ứng dụng Crafting Apps của đội ngũ ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "chưa thể tách nhóm chứa mực Word"
+
+msgid "A mail merge field"
+msgstr "Một trường trộn thư"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Một dãy đánh số thứ tự (hình, bảng…)"
+
+msgid "A password is required to open this document."
+msgstr "Phải có mật khẩu mới mở được tài liệu này."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Một mục lục"
+
+msgid "A xor B"
+msgstr "A XOR B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Giới thiệu về WordCraft"
+
+msgid "Above Chart"
+msgstr "Phía trên biểu đồ"
+
+msgid "Above the item"
+msgstr "Phía trên mục"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Trường hợp giá trị tuyệt đối"
+
+msgid "Accent"
+msgstr "Dấu"
+
+msgid "Accent Gradient"
+msgstr "Chuyển sắc màu nhấn"
+
+msgid "Accent with Reflection"
+msgstr "Màu nhấn có phản chiếu"
+
+msgid "Accent {n}"
+msgstr "Màu nhấn {n}"
+
+msgid "Accents"
+msgstr "Dấu"
+
+msgid "Accept"
+msgstr "Chấp nhận"
+
+msgid "Accept All Changes"
+msgstr "Chấp nhận tất cả thay đổi"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Chấp nhận thay đổi này"
+
+msgid "Accessed on"
+msgstr "Ngày truy cập"
+
+msgid "Accessibility Pane"
+msgstr "Khung khả năng tiếp cận"
+
+msgid "Account"
+msgstr "Tài khoản"
+
+msgid "Acute"
+msgstr "Dấu sắc"
+
+msgid "Add >>"
+msgstr "Thêm >>"
+
+msgid "Add a language"
+msgstr "Thêm ngôn ngữ"
+
+msgid "Add a language…"
+msgstr "Thêm ngôn ngữ…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Thêm bảng"
+
+msgid "Add at least one field."
+msgstr "Thêm ít nhất một trường."
+
+msgid "Add Chart Element"
+msgstr "Thêm thành phần biểu đồ"
+
+msgid "Add Condition"
+msgstr "Thêm điều kiện"
+
+msgid "Add Field"
+msgstr "Thêm trường"
+
+msgid "Add Font…"
+msgstr "Thêm phông chữ…"
+
+msgid "Add gradient stop"
+msgstr "Thêm điểm dừng chuyển màu"
+
+msgid "Add line numbering"
+msgstr "Thêm đánh số dòng"
+
+msgid "Add New Source…"
+msgstr "Thêm nguồn mới…"
+
+msgid "Add Object to Selection"
+msgstr "Thêm đối tượng vào vùng chọn"
+
+msgid "Add Pen"
+msgstr "Thêm bút"
+
+msgid "Add Row"
+msgstr "Thêm hàng"
+
+msgid "Add Series"
+msgstr "Thêm chuỗi"
+
+msgid "Add Shape"
+msgstr "Thêm hình"
+
+msgid "Add Space Before Paragraph"
+msgstr "Thêm khoảng cách trước đoạn"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Thêm khoảng cách giữa chữ châu Á và chữ Latin"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Thêm khoảng cách giữa chữ châu Á và chữ số"
+
+msgid "Add tab stop at:"
+msgstr "Thêm mốc tab tại:"
+
+msgid "Add Text"
+msgstr "Thêm văn bản"
+
+msgid "Add the chapter number"
+msgstr "Thêm số chương"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Thêm vào tài liệu"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Thêm vào thanh công cụ truy cập nhanh"
+
+msgid "Add to Style Gallery"
+msgstr "Thêm vào thư viện kiểu"
+
+msgid "Add whether it is above or below"
+msgstr "Thêm là ở phía trên hay phía dưới"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Thêm/Sửa\ndanh mục tham khảo"
+
+msgid "Add/Edit\nCitation"
+msgstr "Thêm/Sửa\ntrích dẫn"
+
+msgid "Add\nNote"
+msgstr "Thêm\nghi chú"
+
+msgid "Add\nPen"
+msgstr "Thêm\nbút"
+
+msgid "Add\nShape"
+msgstr "Thêm\nhình"
+
+msgid "Added 1 font"
+msgstr "Đã thêm 1 phông chữ"
+
+msgid "Added Fonts"
+msgstr "Phông chữ đã thêm"
+
+msgid "Added {n} fonts"
+msgstr "Đã thêm {n} phông chữ"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Address Block"
+msgstr "Khối địa chỉ"
+
+msgid "Address labels"
+msgstr "Nhãn địa chỉ"
+
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+msgid "Address\nBlock"
+msgstr "Khối\nđịa chỉ"
+
+msgid "Advanced Find"
+msgstr "Tìm nâng cao"
+
+msgid "Advanced Find…"
+msgstr "Tìm nâng cao…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "Tiếng Afrikaans"
+
+msgid "After:"
+msgstr "Sau:"
+
+msgid "Agents"
+msgstr "Tác tử"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Các tác tử kết nối với WordCraft có thể hiển thị tin nhắn cho bạn qua trợ lý. Khi bị tắt tiếng, chúng sẽ được báo rằng bạn không muốn nhận."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "À, tiếng Latin. Một ngôn ngữ chết, giống hệt hạn chót hôm qua."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "À, giai đoạn biên tập. Giai đoạn tôi thích nhất. Rất quyết đoán."
+
+msgid "Albanian"
+msgstr "Tiếng Albania"
+
+msgid "Align Bottom Center"
+msgstr "Căn dưới giữa"
+
+msgid "Align Bottom Left"
+msgstr "Căn dưới trái"
+
+msgid "Align Bottom Right"
+msgstr "Căn dưới phải"
+
+msgid "Align Center"
+msgstr "Căn giữa"
+
+msgid "Align Center Left"
+msgstr "Căn giữa trái"
+
+msgid "Align Center Right"
+msgstr "Căn giữa phải"
+
+msgid "Align Top Center"
+msgstr "Căn trên giữa"
+
+msgid "Align Top Left"
+msgstr "Căn trên trái"
+
+msgid "Align Top Right"
+msgstr "Căn trên phải"
+
+msgid "Aligned at:"
+msgstr "Căn chỉnh tại:"
+
+msgid "All - Linear"
+msgstr "Tất cả - Dạng tuyến tính"
+
+msgid "All - Professional"
+msgstr "Tất cả - Dạng trình bày"
+
+msgid "All Borders"
+msgstr "Tất cả viền"
+
+msgid "All caps"
+msgstr "Viết hoa toàn bộ"
+
+msgid "All Commands"
+msgstr "Mọi lệnh"
+
+msgid "All documents based on the Normal template?"
+msgstr "Tất cả tài liệu dựa trên mẫu Thường?"
+
+msgid "All Fonts"
+msgstr "Tất cả phông chữ"
+
+msgid "All Levels"
+msgstr "Mọi cấp"
+
+msgid "All Markup"
+msgstr "Tất cả đánh dấu"
+
+msgid "All pages in the range"
+msgstr "Tất cả trang trong phạm vi"
+
+msgid "All symbol sets"
+msgstr "Tất cả các bộ ký hiệu"
+
+msgid "All system fonts are already available."
+msgstr "Tất cả phông chữ hệ thống đã có sẵn."
+
+msgid "Allow hanging punctuation"
+msgstr "Cho phép dấu câu treo ngoài lề"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Cho phép ngắt dòng văn bản Latin ở giữa từ"
+
+msgid "Allow line breaks"
+msgstr "Cho phép ngắt dòng"
+
+msgid "Allow row to break across pages"
+msgstr "Cho phép ngắt hàng sang trang sau"
+
+msgid "Alphabetical"
+msgstr "Theo thứ tự chữ cái"
+
+msgid "Alt Text"
+msgstr "Văn bản thay thế"
+
+msgid "Alt text"
+msgstr "Văn bản thay thế"
+
+msgid "Alt Text Pane"
+msgstr "Khung văn bản thay thế"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Văn bản\nthay thế"
+
+msgid "an agent"
+msgstr "một tác tử"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Gói ngôn ngữ đã cài đặt được dùng sau thư mục này."
+
+msgid "And"
+msgstr "Và"
+
+msgid "Angle Brackets"
+msgstr "Ngoặc góc"
+
+msgid "Angle Brackets with Separator"
+msgstr "Ngoặc góc có dấu phân cách"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Ngoặc góc có hai dấu phân cách"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Tạo hiệu ứng cho con trỏ văn bản (lướt và mờ dần)"
+
+msgid "Animation effects:"
+msgstr "Hiệu ứng động:"
+
+msgid "Annotation Reference"
+msgstr "Tham chiếu nhận xét"
+
+msgid "Annotation Subject"
+msgstr "Chủ đề nhận xét"
+
+msgid "Annotation Text"
+msgstr "Nội dung nhận xét"
+
+msgid "Annoying"
+msgstr "Phiền phức"
+
+msgid "Another file"
+msgstr "Tệp khác"
+
+msgid "Any Character"
+msgstr "Ký tự bất kỳ"
+
+msgid "Any Digit"
+msgstr "Chữ số bất kỳ"
+
+msgid "Any field"
+msgstr "Trường bất kỳ"
+
+msgid "Any Letter"
+msgstr "Chữ cái bất kỳ"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Ai cũng mở được tài liệu này. Hãy mã hóa bằng mật khẩu để giữ kín tài liệu."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Ai mở tài liệu này cũng cần dùng mật khẩu này."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Áp dụng khi nhập"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Áp dụng quy tắc ngắt dòng châu Á (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Áp dụng định dạng cho:"
+
+msgid "Apply Style"
+msgstr "Áp dụng kiểu"
+
+msgid "Apply Styles"
+msgstr "Áp dụng kiểu"
+
+msgid "Arabic"
+msgstr "Tiếng Ả Rập"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Vòm xuống"
+
+msgid "Arch Up"
+msgstr "Vòm lên"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenian"
+msgstr "Tiếng Armenia"
+
+msgid "Arrange\nAll"
+msgstr "Sắp xếp\ntất cả"
+
+msgid "Article I."
+msgstr "Điều I."
+
+msgid "Artistic Effects"
+msgstr "Hiệu ứng nghệ thuật"
+
+msgid "As Recommended"
+msgstr "Theo đề xuất"
+
+msgid "As you type"
+msgstr "Khi gõ"
+
+msgid "ASAP"
+msgstr "SỚM NHẤT CÓ THỂ"
+
+msgid "Asian text font:"
+msgstr "Phông chữ châu Á:"
+
+msgid "Asian Typography"
+msgstr "Kiểu chữ châu Á"
+
+msgid "Assistant"
+msgstr "Trợ lý"
+
+msgid "Assistant Suggestions"
+msgstr "Gợi ý của trợ lý"
+
+msgid "At least"
+msgstr "Tối thiểu"
+
+msgid "At least {n}"
+msgstr "Ít nhất {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Khí quyển"
+
+msgid "Attach Template"
+msgstr "Đính kèm mẫu"
+
+msgid "Attach…"
+msgstr "Đính kèm…"
+
+msgid "Australia"
+msgstr "Úc"
+
+msgid "Austria"
+msgstr "Áo"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Tự động sửa"
+
+msgid "AutoCorrect Options"
+msgstr "Tùy chọn tự động sửa"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Tự khớp"
+
+msgid "AutoFit behavior"
+msgstr "Tự khớp"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Tự động điều chỉnh cột bằng cách bấm đúp"
+
+msgid "AutoFit Contents"
+msgstr "Tự khớp nội dung"
+
+msgid "AutoFit to contents"
+msgstr "Tự khớp nội dung"
+
+msgid "AutoFit to window"
+msgstr "Tự khớp cửa sổ"
+
+msgid "AutoFit Window"
+msgstr "Tự khớp cửa sổ"
+
+msgid "AutoFormat As You Type"
+msgstr "Tự động định dạng khi nhập"
+
+msgid "Automatic ({language})"
+msgstr "Tự động ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Tự động ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Tự động tạo danh sách có dấu đầu dòng"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Chế độ tự động dùng ngôn ngữ của hệ thống. Menu và lệnh sẽ thay đổi; tài liệu của bạn thì không."
+
+msgid "Automatic numbered lists"
+msgstr "Tự động tạo danh sách đánh số"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Mục lục tự động 1 (3 cấp độ)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Mục lục tự động 2 (2 cấp độ)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Tự động ngắt từ trong tài liệu"
+
+msgid "Automatically Update Document Styles"
+msgstr "Tự động cập nhật kiểu tài liệu"
+
+msgid "Automatically update document styles"
+msgstr "Tự động cập nhật kiểu tài liệu"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Tự động lưu các tài liệu bạn đã lưu trong WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Không thể tự động lưu: {error}. Hãy lưu tài liệu để bật lại tính năng này."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Tự động lưu không khả dụng trong trình duyệt: không thể ghi vào tệp của bạn. Lưu sẽ tải xuống một bản sao."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Tự động lưu chỉ hỗ trợ tệp .docx, .odt và .rtf; {name} không giữ được toàn bộ định dạng. Lưu dưới dạng .docx để bật Tự động lưu."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Tự động lưu ghi lại mọi thay đổi vào tệp (cần tài liệu đã lưu)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Tự động lưu ghi thay đổi vào tệp một lát sau khi bạn ngừng gõ."
+
+msgid "AutoText"
+msgstr "Văn bản tự động"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "Giấy B4 (JIS) 10.12\" × 14.33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "Giấy B5 (JIS) 7.17\" × 10.12\""
+
+msgid "Balloons"
+msgstr "Bong bóng chú thích"
+
+msgid "Banded Columns"
+msgstr "Cột xen kẽ"
+
+msgid "Banded Rows"
+msgstr "Hàng xen kẽ"
+
+msgid "Base text:"
+msgstr "Văn bản cơ sở:"
+
+msgid "Based on: {style}"
+msgstr "Dựa trên: {style}"
+
+msgid "Baseline Dots"
+msgstr "Chấm trên đường cơ sở"
+
+msgid "Basic Cycle"
+msgstr "Chu trình cơ bản"
+
+msgid "Basic List"
+msgstr "Danh sách cơ bản"
+
+msgid "Basic Math"
+msgstr "Toán cơ bản"
+
+msgid "Basic Matrix"
+msgstr "Ma trận cơ bản"
+
+msgid "Basic Process"
+msgstr "Quy trình cơ bản"
+
+msgid "Basic Pyramid"
+msgstr "Kim tự tháp cơ bản"
+
+msgid "Basic Radial"
+msgstr "Sơ đồ tỏa tâm cơ bản"
+
+msgid "Basic Venn"
+msgstr "Sơ đồ Venn cơ bản"
+
+msgid "Bayes' rule"
+msgstr "Quy tắc Bayes"
+
+msgid "Before:"
+msgstr "Trước:"
+
+msgid "Beginning of Word"
+msgstr "Đầu từ"
+
+msgid "Behind Text"
+msgstr "Sau văn bản"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belarusian"
+msgstr "Tiếng Belarus"
+
+msgid "Belgium"
+msgstr "Bỉ"
+
+msgid "Below text"
+msgstr "Dưới văn bản"
+
+msgid "Below the item"
+msgstr "Phía dưới mục"
+
+msgid "Between"
+msgstr "Giữa"
+
+msgid "Bibliography"
+msgstr "Danh mục tham khảo"
+
+msgid "Binomial Coefficient"
+msgstr "Hệ số nhị thức"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Hệ số nhị thức (ngoặc góc)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Hệ số nhị thức với ngoặc góc"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Khai triển nhị thức của (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Trống"
+
+msgid "Blank (Three Columns)"
+msgstr "Trống (Ba cột)"
+
+msgid "Blank document"
+msgstr "Tài liệu trống"
+
+msgid "Blank Page"
+msgstr "Trang trống"
+
+msgid "Block\nAuthors"
+msgstr "Chặn\ntác giả"
+
+msgid "Blue:"
+msgstr "Xanh lam:"
+
+msgid "Body Text"
+msgstr "Văn bản nội dung"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Đoạn văn ngắn minh họa giãn cách."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Lựa chọn táo bạo. Ctrl+Z ở ngay đó nếu bạn cần."
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Sách"
+
+msgid "Book Title"
+msgstr "Tên sách"
+
+msgid "Book title"
+msgstr "Tên sách"
+
+msgid "Bookmark"
+msgstr "Dấu trang"
+
+msgid "Bookmark name:"
+msgstr "Tên dấu trang:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Tự động tạo đường viền"
+
+msgid "Border Painter"
+msgstr "Cọ vẽ viền"
+
+msgid "Border\nPainter"
+msgstr "Cọ vẽ\nviền"
+
+msgid "Borders and Shading"
+msgstr "Viền và Nền"
+
+msgid "Borders and Shading…"
+msgstr "Viền và Nền…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia và Herzegovina"
+
+msgid "Bosnian"
+msgstr "Tiếng Bosnia"
+
+msgid "Both Sides"
+msgstr "Cả hai bên"
+
+msgid "Bottom Border"
+msgstr "Viền dưới"
+
+msgid "Bottom Left Cell"
+msgstr "Ô dưới cùng bên trái"
+
+msgid "Bottom Margin"
+msgstr "Lề dưới"
+
+msgid "Bottom of Page"
+msgstr "Cuối trang"
+
+msgid "Bottom Right Cell"
+msgstr "Ô dưới cùng bên phải"
+
+msgid "Box"
+msgstr "Khung"
+
+msgid "Boxed Formula"
+msgstr "Công thức đóng khung"
+
+msgid "Boxed Formula (example)"
+msgstr "Ví dụ công thức đóng khung"
+
+msgid "Boxed Formulas"
+msgstr "Công thức đóng khung"
+
+msgid "Braces"
+msgstr "Dấu ngoặc nhọn"
+
+msgid "Braces with Separator"
+msgstr "Dấu ngoặc nhọn có dấu phân cách"
+
+msgid "Bracket"
+msgstr "Dấu ngoặc"
+
+msgid "Brackets"
+msgstr "Dấu ngoặc vuông"
+
+msgid "Brackets with Separators"
+msgstr "Các dấu ngoặc có dấu phân cách"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Breaks"
+msgstr "Ngắt"
+
+msgid "Breve"
+msgstr "Dấu trăng"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Duyệt trong WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Điều khiển nội dung thư viện khối"
+
+msgid "Built in"
+msgstr "Tích hợp sẵn"
+
+msgid "Built-In"
+msgstr "Có sẵn"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Kiểu có sẵn"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Không thể xóa các kiểu có sẵn."
+
+msgid "Bulgarian"
+msgstr "Tiếng Bulgaria"
+
+msgid "Bullet Library"
+msgstr "Thư viện dấu đầu dòng"
+
+msgid "Bullets"
+msgstr "Dấu đầu dòng"
+
+msgid "By author"
+msgstr "Theo tác giả"
+
+msgid "Cabo Verde"
+msgstr "Cabo Verde"
+
+msgid "Calendar"
+msgstr "Lịch"
+
+msgid "Can't be deleted"
+msgstr "Không xóa được"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Không tìm thấy lệnh? Nhấn {key} rồi gõ điều bạn muốn làm."
+
+msgid "can't split at the first row"
+msgstr "không thể tách ở hàng đầu tiên"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canvas Member"
+msgstr "Thành phần khung vẽ"
+
+msgid "Capitalize Each Word"
+msgstr "Chữ hoa đầu mỗi từ"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Viết hoa chữ cái đầu câu"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Viết hoa chữ cái đầu của mỗi ô bảng"
+
+msgid "Capitalize names of days"
+msgstr "Viết hoa tên ngày trong tuần"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Viết hoa chữ đầu câu"
+
+msgid "Caption Numbering"
+msgstr "Đánh số chú thích"
+
+msgid "Caption text"
+msgstr "Nội dung chú thích"
+
+msgid "Caption:"
+msgstr "Chú thích:"
+
+msgid "Captions"
+msgstr "Chú thích"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Cẩn thận, lùi thêm chút nữa là chúng ta hoàn tác luôn việc phát minh ra giấy."
+
+msgid "Caret Character"
+msgstr "Ký tự dấu mũ"
+
+msgid "Case changes"
+msgstr "Thay đổi chữ hoa/thường"
+
+msgid "Cases (Three Conditions)"
+msgstr "Trường hợp ba điều kiện"
+
+msgid "Cases (Two Conditions)"
+msgstr "Trường hợp hai điều kiện"
+
+msgid "Cases and Stacks"
+msgstr "Trường hợp và xếp chồng"
+
+msgid "Catalan"
+msgstr "Tiếng Catalan"
+
+msgid "Catalan (Valencian)"
+msgstr "Tiếng Catalan (Valencia)"
+
+msgid "Categories"
+msgstr "Hạng mục"
+
+msgid "Categories:"
+msgstr "Hạng mục:"
+
+msgid "Category {n}"
+msgstr "Hạng mục {n}"
+
+msgid "Ceiling"
+msgstr "Dấu ngoặc trần"
+
+msgid "Cell"
+msgstr "Ô"
+
+msgid "Cell Margins"
+msgstr "Lề ô"
+
+msgid "Cell\nMargins"
+msgstr "Lề\nô"
+
+msgid "Center Glow"
+msgstr "Phát sáng ở giữa"
+
+msgid "Centered as Group"
+msgstr "Căn giữa cả nhóm"
+
+msgid "Change Chart Type"
+msgstr "Đổi kiểu biểu đồ"
+
+msgid "Change Colors"
+msgstr "Đổi màu"
+
+msgid "Change in y over change in x"
+msgstr "Biến thiên của y trên biến thiên của x"
+
+msgid "Change Layout"
+msgstr "Đổi bố cục"
+
+msgid "Change List Level"
+msgstr "Đổi cấp danh sách"
+
+msgid "Change Password…"
+msgstr "Đổi mật khẩu…"
+
+msgid "Change Picture"
+msgstr "Đổi ảnh"
+
+msgid "Change Picture…"
+msgstr "Đổi ảnh…"
+
+msgid "Change Shape"
+msgstr "Đổi hình"
+
+msgid "Change Structure"
+msgstr "Đổi cấu trúc"
+
+msgid "Change to Display"
+msgstr "Chuyển ra dòng riêng"
+
+msgid "Change to Inline"
+msgstr "Chuyển vào dòng văn bản"
+
+msgid "Change to Level 1"
+msgstr "Chuyển sang cấp 1"
+
+msgid "Change to Level 2"
+msgstr "Chuyển sang cấp 2"
+
+msgid "Change to Level 3"
+msgstr "Chuyển sang cấp 3"
+
+msgid "Change to Level 4"
+msgstr "Chuyển sang cấp 4"
+
+msgid "Change to Level 5"
+msgstr "Chuyển sang cấp 5"
+
+msgid "Change to Level 6"
+msgstr "Chuyển sang Mức 6"
+
+msgid "Change to Level 7"
+msgstr "Chuyển sang Mức 7"
+
+msgid "Change to Level 8"
+msgstr "Chuyển sang Mức 8"
+
+msgid "Change to Level 9"
+msgstr "Chuyển sang Mức 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Đổi\nkiểu biểu đồ"
+
+msgid "Change\nColors"
+msgstr "Đổi\nmàu"
+
+msgid "Changed lines:"
+msgstr "Đường thay đổi:"
+
+msgid "Changes"
+msgstr "Các thay đổi"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Chương 1"
+
+msgid "Chapter in a book"
+msgstr "Chương trong sách"
+
+msgid "Chapters begin at:"
+msgstr "Các chương bắt đầu từ:"
+
+msgid "Character Border"
+msgstr "Viền ký tự"
+
+msgid "Character code:"
+msgstr "Mã ký tự:"
+
+msgid "Character in Range"
+msgstr "Ký tự trong khoảng"
+
+msgid "Character level"
+msgstr "Theo ký tự"
+
+msgid "Character Position"
+msgstr "Vị trí ký tự"
+
+msgid "Character Scale"
+msgstr "Tỉ lệ ký tự"
+
+msgid "Character Shading"
+msgstr "Tô nền ký tự"
+
+msgid "Character Spacing"
+msgstr "Khoảng cách ký tự"
+
+msgid "Character spacing"
+msgstr "Khoảng cách ký tự"
+
+msgid "Character style"
+msgstr "Kiểu ký tự"
+
+msgid "Characters (no spaces)"
+msgstr "Ký tự (không tính khoảng trắng)"
+
+msgid "Characters (with spaces)"
+msgstr "Ký tự (tính cả khoảng trắng)"
+
+msgid "Characters per line:"
+msgstr "Số ký tự mỗi dòng:"
+
+msgid "Chart"
+msgstr "Biểu đồ"
+
+msgid "Chart Design"
+msgstr "Thiết kế biểu đồ"
+
+msgid "Chart Layouts"
+msgstr "Bố cục biểu đồ"
+
+msgid "Chart Title"
+msgstr "Tiêu đề biểu đồ"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "chưa thể di chuyển hoặc đổi kích thước biểu đồ và sơ đồ"
+
+msgid "Check"
+msgstr "Dấu mũ ngược"
+
+msgid "Check Accessibility"
+msgstr "Kiểm tra khả năng tiếp cận"
+
+msgid "Check Box Content Control"
+msgstr "Điều khiển nội dung hộp kiểm"
+
+msgid "Check Compatibility"
+msgstr "Kiểm tra tính tương thích"
+
+msgid "Check for Errors"
+msgstr "Rà soát lỗi"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Kiểm tra chính tả khi gõ"
+
+msgid "Check spelling as you type"
+msgstr "Kiểm tra chính tả khi gõ"
+
+msgid "Check\nAccessibility"
+msgstr "Kiểm tra\nkhả năng tiếp cận"
+
+msgid "Checked styles are allowed:"
+msgstr "Các kiểu được đánh dấu được phép:"
+
+msgid "Checked symbol"
+msgstr "Ký hiệu đã chọn"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Chữ V xuống"
+
+msgid "Chevron Up"
+msgstr "Chữ V lên"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Trung Quốc"
+
+msgid "Chinese (Simplified)"
+msgstr "Tiếng Trung (giản thể)"
+
+msgid "Chinese (Traditional)"
+msgstr "Tiếng Trung (phồn thể)"
+
+msgid "Choose a command"
+msgstr "Chọn lệnh"
+
+msgid "Choose a shortcut"
+msgstr "Chọn phím tắt"
+
+msgid "Choose List Item"
+msgstr "Chọn mục danh sách"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Chọn trang tính chứa danh sách người nhận."
+
+msgid "Circle area from its radius"
+msgstr "Diện tích hình tròn theo bán kính"
+
+msgid "Circled Dot"
+msgstr "Chấm khoanh tròn"
+
+msgid "Circled Plus"
+msgstr "Cộng khoanh tròn"
+
+msgid "Circled Times"
+msgstr "Nhân khoanh tròn"
+
+msgid "Citation Style"
+msgstr "Kiểu trích dẫn"
+
+msgid "Citations"
+msgstr "Trích dẫn"
+
+msgid "Citations & Bibliography"
+msgstr "Trích dẫn & Danh mục tham khảo"
+
+msgid "Clear All Formatting"
+msgstr "Xóa tất cả định dạng"
+
+msgid "Clear Character Formatting"
+msgstr "Xóa định dạng ký tự"
+
+msgid "Clear Character Style"
+msgstr "Xóa kiểu ký tự"
+
+msgid "Clear Formatting Level"
+msgstr "Xóa cấp độ định dạng"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Xóa định dạng đoạn"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Nhấp vào đường viền giữa hai ô để gộp. Nhấn Esc để hủy."
+
+msgid "Click an item to paste it."
+msgstr "Bấm vào một mục để dán."
+
+msgid "Click level to modify:"
+msgstr "Bấm vào cấp độ để chỉnh sửa:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Nhấp vào hộp văn bản trống mà văn bản sẽ tiếp tục trong đó (Esc hủy)"
+
+msgid "Click to switch back to inserting"
+msgstr "Nhấp để chuyển lại chế độ chèn"
+
+msgid "Clipboard Contents"
+msgstr "Nội dung bảng nhớ tạm"
+
+msgid "Clipboard Items"
+msgstr "Các mục trong bảng tạm"
+
+msgid "Clipboard Pane"
+msgstr "Ngăn bảng tạm"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Đóng phương trình"
+
+msgid "Close Header and Footer"
+msgstr "Đóng đầu trang và chân trang"
+
+msgid "Close Outline View"
+msgstr "Đóng chế độ xem dàn ý"
+
+msgid "Close Outline\nView"
+msgstr "Đóng chế độ xem\ndàn ý"
+
+msgid "Clustered Bar"
+msgstr "Thanh nhóm"
+
+msgid "Clustered Column"
+msgstr "Cột nhóm"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Cột #:"
+
+msgid "Collapse Selection"
+msgstr "Thu gọn vùng chọn"
+
+msgid "Collate copies"
+msgstr "Xếp các bản in theo bộ"
+
+msgid "Collect entries from:"
+msgstr "Mục được thu thập từ:"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Colon Equal"
+msgstr "Hai chấm bằng"
+
+msgid "Color model:"
+msgstr "Mô hình màu:"
+
+msgid "Color only"
+msgstr "Chỉ màu"
+
+msgid "Color: {color}"
+msgstr "Màu: {color}"
+
+msgid "Colorful"
+msgstr "Nhiều màu"
+
+msgid "Column"
+msgstr "Cột"
+
+msgid "Column Break"
+msgstr "Ngắt cột"
+
+msgid "Column Selection"
+msgstr "Chọn khối theo cột"
+
+msgid "Column {n}"
+msgstr "Cột {n}"
+
+msgid "Column:"
+msgstr "Cột:"
+
+msgid "Combine Documents"
+msgstr "Kết hợp tài liệu"
+
+msgid "Combo Box Content Control"
+msgstr "Điều khiển nội dung hộp tổ hợp"
+
+msgid "Commands"
+msgstr "Lệnh"
+
+msgid "Commas"
+msgstr "Dấu phẩy"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Trong PDF, bản in và ảnh trang: nhận xét bên cạnh mỗi trang và các thay đổi được theo dõi; danh sách nhận xét ở cuối trang web, Markdown và văn bản."
+
+msgid "Comments Pane"
+msgstr "Ngăn nhận xét"
+
+msgid "Common Accent Objects"
+msgstr "Các đối tượng dấu thông dụng"
+
+msgid "Common Brackets"
+msgstr "Các ngoặc thông dụng"
+
+msgid "Common Fractions"
+msgstr "Các phân số thông dụng"
+
+msgid "Common Functions"
+msgstr "Các hàm thông dụng"
+
+msgid "Common Large Operators"
+msgstr "Các toán tử lớn thông dụng"
+
+msgid "Common Operator Structures"
+msgstr "Các cấu trúc toán tử thông dụng"
+
+msgid "Common Operators"
+msgstr "Các toán tử thông dụng"
+
+msgid "Common Radicals"
+msgstr "Các căn thức thông dụng"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Các chỉ số dưới và chỉ số trên thông dụng"
+
+msgid "Communication"
+msgstr "Liên lạc"
+
+msgid "Community\nDiscord"
+msgstr "Cộng đồng\nDiscord"
+
+msgid "Compact"
+msgstr "Thu gọn"
+
+msgid "Compare Documents"
+msgstr "So sánh tài liệu"
+
+msgid "Compare to"
+msgstr "So sánh với"
+
+msgid "Compared: {changes} changes"
+msgstr "Đã so sánh: {changes} thay đổi"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "So sánh với tệp khác cần dùng ứng dụng trên máy tính."
+
+msgid "Comparison settings"
+msgstr "Tùy chọn so sánh"
+
+msgid "Compress Pictures"
+msgstr "Nén ảnh"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Thu gọn dấu câu ở đầu dòng"
+
+msgid "Conference"
+msgstr "Hội nghị"
+
+msgid "Conference paper"
+msgstr "Bài hội nghị"
+
+msgid "CONFIDENTIAL"
+msgstr "TÀI LIỆU MẬT"
+
+msgid "Confirm password:"
+msgstr "Xác nhận mật khẩu:"
+
+msgid "Connect Shapes"
+msgstr "Nối hình"
+
+msgid "Container Title"
+msgstr "Tiêu đề ấn phẩm mẹ"
+
+msgid "Content Control at Selection"
+msgstr "Điều khiển nội dung tại vùng chọn"
+
+msgid "Content Control Properties"
+msgstr "Thuộc tính điều khiển nội dung"
+
+msgid "Contents can't be edited"
+msgstr "Phần nội dung không sửa được"
+
+msgid "Context"
+msgstr "Theo ngữ cảnh"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Tiếp tục từ phần trước"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Liên tục"
+
+msgid "Continuous numbering"
+msgstr "Đánh số liên tục"
+
+msgid "Contour Integral"
+msgstr "Tích phân đường"
+
+msgid "Contour Integral with Limits"
+msgstr "Tích phân đường có cận"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Tích phân đường có cận xếp chồng"
+
+msgid "Contour Integrals"
+msgstr "Các tích phân đường"
+
+msgid "Controls"
+msgstr "Điều khiển"
+
+msgid "Conversions"
+msgstr "Chuyển đổi"
+
+msgid "Convert between built-up and linear form"
+msgstr "Chuyển đổi giữa dạng trình bày và dạng tuyến tính"
+
+msgid "Convert Notes"
+msgstr "Chuyển đổi chú thích chân trang và cuối tài liệu"
+
+msgid "Convert Text to Table"
+msgstr "Chuyển văn bản thành bảng"
+
+msgid "Convert Text to Table…"
+msgstr "Chuyển văn bản thành bảng…"
+
+msgid "Convert to Shapes"
+msgstr "Chuyển thành hình"
+
+msgid "Convert to Text"
+msgstr "Chuyển thành văn bản"
+
+msgid "Coproduct"
+msgstr "Đối tích"
+
+msgid "Coproduct with Limits"
+msgstr "Đối tích có cận"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Đối tích có cận dưới"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Đối tích có cận chỉ số dưới-trên"
+
+msgid "Copy Formatting"
+msgstr "Sao chép định dạng"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Bản sao của văn bản được gắn dấu trang"
+
+msgid "Copy Styles"
+msgstr "Sao chép kiểu"
+
+msgid "Copy to"
+msgstr "Sao chép tới"
+
+msgid "Copyright Sign"
+msgstr "Ký hiệu bản quyền"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Sửa lỗi vô tình dùng phím Caps Lock"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Sửa lỗi viết hoa hai chữ cái đầu"
+
+msgid "Corrections"
+msgstr "Hiệu chỉnh"
+
+msgid "Cosecant Function"
+msgstr "Hàm côséc"
+
+msgid "Cosine 2x"
+msgstr "Côsin 2x"
+
+msgid "Cosine Function"
+msgstr "Hàm côsin"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Hàm côtang"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Không tải được {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Không thể đặt WordCraft làm ứng dụng mặc định: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Không mở được {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Đếm theo:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Đếm từ trong cả hộp văn bản và ghi chú"
+
+msgid "Courtesy Title"
+msgstr "Danh xưng"
+
+msgid "Cover Page"
+msgstr "Trang bìa"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Tạo một kiểu"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Tạo dàn ý tương tác cho tài liệu của bạn.\n\nĐây là cách tuyệt vời để theo dõi vị trí hoặc nhanh chóng di chuyển nội dung.\n\nĐể bắt đầu, hãy mở thẻ Trang chủ rồi áp dụng kiểu Tiêu đề cho các đề mục trong tài liệu."
+
+msgid "Create Graphic"
+msgstr "Tạo đồ họa"
+
+msgid "Create Link"
+msgstr "Tạo liên kết"
+
+msgid "Create New Style"
+msgstr "Tạo kiểu mới"
+
+msgid "Create Source"
+msgstr "Tạo nguồn"
+
+msgid "Croatian"
+msgstr "Tiếng Croatia"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Tham chiếu chéo"
+
+msgid "Cross-reference:"
+msgstr "Tham chiếu chéo:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cube Root"
+msgstr "Căn bậc ba"
+
+msgid "Current - Linear"
+msgstr "Hiện tại - Dạng tuyến tính"
+
+msgid "Current - Professional"
+msgstr "Hiện tại - Dạng trình bày"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Vị trí hiện tại"
+
+msgid "Current record"
+msgstr "Bản ghi hiện tại"
+
+msgid "Current style: {style}"
+msgstr "Kiểu đang dùng: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Đường nối cong có mũi tên"
+
+msgid "Curved Connector"
+msgstr "Đường nối cong"
+
+msgid "Custom dictionary"
+msgstr "Từ điển tùy chỉnh"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Lề tùy chỉnh…"
+
+msgid "Custom mark:"
+msgstr "Ký hiệu tùy chỉnh:"
+
+msgid "Custom range"
+msgstr "Phạm vi tùy chỉnh"
+
+msgid "Custom size"
+msgstr "Kích thước tùy chỉnh"
+
+msgid "Custom Table of Contents…"
+msgstr "Mục lục tùy chỉnh…"
+
+msgid "Custom Watermark"
+msgstr "Hình mờ tùy chỉnh"
+
+msgid "Custom Watermark…"
+msgstr "Hình mờ tùy chỉnh…"
+
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+msgid "Customize Keyboard"
+msgstr "Tùy chỉnh bàn phím"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Tùy chỉnh thanh công cụ truy cập nhanh"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Tùy chỉnh thanh công cụ truy cập nhanh…"
+
+msgid "Customize Ribbon"
+msgstr "Tùy chỉnh ribbon"
+
+msgid "Customize the Ribbon…"
+msgstr "Tùy chỉnh ribbon…"
+
+msgid "Cycle"
+msgstr "Chu trình"
+
+msgid "Cyprus"
+msgstr "Síp"
+
+msgid "Czech"
+msgstr "Tiếng Séc"
+
+msgid "Danish"
+msgstr "Tiếng Đan Mạch"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Chế độ tối"
+
+msgid "Dark page (white text on black)"
+msgstr "Trang tối (chữ trắng trên nền đen)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Biến thể tối"
+
+msgid "Dark with Shadow"
+msgstr "Tối có bóng đổ"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Darkroom"
+
+msgid "Data Labels"
+msgstr "Nhãn số liệu"
+
+msgid "Date & Time"
+msgstr "Ngày & giờ"
+
+msgid "Date formats:"
+msgstr "Định dạng ngày:"
+
+msgid "Date Picker Content Control"
+msgstr "Điều khiển nội dung chọn ngày"
+
+msgid "Day"
+msgstr "Ngày"
+
+msgid "Decimal"
+msgstr "Căn thập phân"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng."
+
+msgid "Decorative Text"
+msgstr "Chữ trang trí"
+
+msgid "Decorative Text Styles"
+msgstr "Kiểu chữ trang trí"
+
+msgid "Decrease Indent"
+msgstr "Giảm thụt lề"
+
+msgid "Deep"
+msgstr "Sâu"
+
+msgid "Default formatting"
+msgstr "Định dạng mặc định"
+
+msgid "Default Paragraph Font"
+msgstr "Phông chữ mặc định của đoạn"
+
+msgid "Default tab stops:"
+msgstr "Mốc tab mặc định:"
+
+msgid "Define New Bullet"
+msgstr "Tạo dấu đầu dòng mới"
+
+msgid "Define New Multilevel List"
+msgstr "Tạo danh sách đa cấp mới"
+
+msgid "Define New Multilevel List…"
+msgstr "Tạo danh sách đa cấp mới…"
+
+msgid "Define New Number Format"
+msgstr "Tạo định dạng đánh số mới"
+
+msgid "Deflate"
+msgstr "Xẹp"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Xóa xung quanh con trỏ trong phương trình"
+
+msgid "Delete Back in Equation"
+msgstr "Xóa lùi trong phương trình"
+
+msgid "Delete Bookmark"
+msgstr "Xóa dấu trang"
+
+msgid "Delete Cells"
+msgstr "Xóa ô"
+
+msgid "Delete Clipboard Item"
+msgstr "Xóa mục bảng tạm"
+
+msgid "Delete Columns"
+msgstr "Xóa cột"
+
+msgid "Delete Comment"
+msgstr "Xóa nhận xét"
+
+msgid "Delete in Equation"
+msgstr "Xóa trong phương trình"
+
+msgid "Delete Label"
+msgstr "Gỡ nhãn"
+
+msgid "Delete Next Word"
+msgstr "Xóa từ tiếp theo"
+
+msgid "Delete Previous Word"
+msgstr "Xóa từ phía trước"
+
+msgid "Delete Rows"
+msgstr "Xóa hàng"
+
+msgid "Delete Selected Ink"
+msgstr "Xóa mực đã chọn"
+
+msgid "Delete Table"
+msgstr "Xóa bảng"
+
+msgid "Delete Table Style"
+msgstr "Xóa kiểu bảng"
+
+msgid "Deletions:"
+msgstr "Phần xóa:"
+
+msgid "Delivery address:"
+msgstr "Địa chỉ người nhận:"
+
+msgid "Delta Equal To"
+msgstr "Delta bằng"
+
+msgid "Delta over arrow"
+msgstr "Delta trên mũi tên"
+
+msgid "Demote"
+msgstr "Hạ xuống"
+
+msgid "Demote to Body Text"
+msgstr "Hạ xuống thành văn bản nội dung"
+
+msgid "Derivative as a limit"
+msgstr "Đạo hàm dạng giới hạn"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Mô tả những gì đối tượng này cho thấy, cho người không nhìn thấy được."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Mô tả những gì bảng này cho thấy, cho người không nhìn thấy được."
+
+msgid "Design"
+msgstr "Thiết kế"
+
+msgid "Design Mode"
+msgstr "Chế độ thiết kế"
+
+msgid "Detach Template"
+msgstr "Gỡ mẫu đã đính kèm"
+
+msgid "Detect language automatically"
+msgstr "Tự động phát hiện ngôn ngữ"
+
+msgid "Developer"
+msgstr "Nhà phát triển"
+
+msgid "development build"
+msgstr "bản phát triển"
+
+msgid "Diagonal Dots"
+msgstr "Chấm chéo xuống"
+
+msgid "Diagram"
+msgstr "Sơ đồ"
+
+msgid "Diagram Design"
+msgstr "Thiết kế sơ đồ"
+
+msgid "Diagram Styles"
+msgstr "Kiểu sơ đồ"
+
+msgid "Dictate"
+msgstr "Soạn bằng giọng nói"
+
+msgid "Dictionaries"
+msgstr "Từ điển"
+
+msgid "Dictionaries folder:"
+msgstr "Thư mục từ điển:"
+
+msgid "Dictionary files"
+msgstr "Tệp từ điển"
+
+msgid "Different First Page"
+msgstr "Trang đầu khác biệt"
+
+msgid "Different Odd & Even Pages"
+msgstr "Trang chẵn & lẻ khác nhau"
+
+msgid "Differential"
+msgstr "Vi phân"
+
+msgid "Differential theta"
+msgstr "Vi phân theta"
+
+msgid "Differential x"
+msgstr "Vi phân x"
+
+msgid "Differential y"
+msgstr "Vi phân y"
+
+msgid "Differentials"
+msgstr "Các vi phân"
+
+msgid "Direct formatting"
+msgstr "Định dạng trực tiếp"
+
+msgid "Directory"
+msgstr "Danh mục"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Cộng đồng Discord"
+
+msgid "Display for Review"
+msgstr "Hiển thị để xem lại"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Văn bản hiển thị"
+
+msgid "Distance from text"
+msgstr "Khoảng cách tới văn bản"
+
+msgid "Distance from text:"
+msgstr "Khoảng cách tới văn bản:"
+
+msgid "Distribute Columns"
+msgstr "Chia đều cột"
+
+msgid "Distribute letters"
+msgstr "Giãn đều ký tự"
+
+msgid "Distribute Rows"
+msgstr "Chia đều hàng"
+
+msgid "Distribute spacing"
+msgstr "Giãn đều khoảng cách"
+
+msgid "Distributed"
+msgstr "Căn đều phân tán"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Không kiểm tra chính tả hoặc ngữ pháp"
+
+msgid "Do not check spelling or grammar"
+msgstr "Không kiểm tra chính tả hoặc ngữ pháp"
+
+msgid "DO NOT COPY"
+msgstr "KHÔNG SAO CHÉP"
+
+msgid "Do Not Show in TOC"
+msgstr "Không hiện trong mục lục"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Bạn có muốn lưu các thay đổi vào {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Về cuối tài liệu"
+
+msgid "Document Formatting"
+msgstr "Định dạng tài liệu"
+
+msgid "Document Grid"
+msgstr "Lưới tài liệu"
+
+msgid "Document Information"
+msgstr "Thông tin tài liệu"
+
+msgid "Document name"
+msgstr "Tên tài liệu"
+
+msgid "Document Property"
+msgstr "Thuộc tính tài liệu"
+
+msgid "Document Start"
+msgstr "Về đầu tài liệu"
+
+msgid "Document template:"
+msgstr "Mẫu tài liệu:"
+
+msgid "Document Text"
+msgstr "Nội dung tài liệu"
+
+msgid "Document1"
+msgstr "Document1"
+
+msgid "Document\nPreferences"
+msgstr "Tùy chọn\ntài liệu"
+
+msgid "Documents you open will show up here."
+msgstr "Các tài liệu bạn mở sẽ hiển thị ở đây."
+
+msgid "Does not contain"
+msgstr "Không chứa"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Cộng hòa Dominica"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Không thêm khoảng cách giữa các đoạn cùng kiểu"
+
+msgid "Don't capitalize after:"
+msgstr "Không viết hoa sau:"
+
+msgid "Don't hyphenate"
+msgstr "Không ngắt từ"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Không đọc trích dẫn và danh mục tham khảo do Zotero, Mendeley hoặc EndNote quản lý"
+
+msgid "Don't show me this tip again"
+msgstr "Đừng hiện lại mẹo này"
+
+msgid "Dot dash"
+msgstr "Nét chấm gạch"
+
+msgid "Dot-dash"
+msgstr "Nét chấm gạch"
+
+msgid "Dot-dot-dash"
+msgstr "Nét chấm chấm gạch"
+
+msgid "Double"
+msgstr "Nét đôi"
+
+msgid "Double Bar"
+msgstr "Thanh ngang đôi"
+
+msgid "Double Closing Quote"
+msgstr "Dấu nháy kép đóng"
+
+msgid "Double Dot"
+msgstr "Dấu chấm đôi"
+
+msgid "Double Integral"
+msgstr "Tích phân kép"
+
+msgid "Double Integral with Limits"
+msgstr "Tích phân kép có cận"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Tích phân kép có cận xếp chồng"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Mũi tên đôi sang trái có chữ phía trên"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Mũi tên đôi sang trái có chữ phía dưới"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Mũi tên đôi hai chiều có chữ phía trên"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Mũi tên đôi hai chiều có chữ phía dưới"
+
+msgid "Double Opening Quote"
+msgstr "Dấu nháy kép mở"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Mũi tên đôi sang phải có chữ phía trên"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Mũi tên đôi sang phải có chữ phía dưới"
+
+msgid "Double Spacing"
+msgstr "Giãn dòng đôi"
+
+msgid "Double Square Brackets"
+msgstr "Ngoặc vuông kép"
+
+msgid "Double Strikethrough"
+msgstr "Gạch ngang đôi"
+
+msgid "Double strikethrough"
+msgstr "Gạch ngang đôi"
+
+msgid "Double summation"
+msgstr "Tổng kép"
+
+msgid "Double Underline"
+msgstr "Gạch chân đôi"
+
+msgid "Double Vertical Bars"
+msgstr "Thanh dọc kép"
+
+msgid "Doughnut"
+msgstr "Vành khuyên"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Tính năng tải xuống đang tắt. Nhấp vào “Thêm ngôn ngữ…” hoặc “Cài đặt” sẽ bật lại: khi đó WordCraft tải các gói ngôn ngữ và phông chữ từ GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "BẢN NHÁP"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Kéo hình chữ nhật để vẽ bảng, hoặc kẻ đường qua các ô để tách ô. Nhấn Esc để thoát."
+
+msgid "Draw Ink"
+msgstr "Vẽ mực"
+
+msgid "Draw Table"
+msgstr "Vẽ bảng"
+
+msgid "Draw\nTable"
+msgstr "Vẽ\nbảng"
+
+msgid "Drawing Canvas"
+msgstr "Khung vẽ"
+
+msgid "Drawing Tools"
+msgstr "Công cụ vẽ"
+
+msgid "Drawing\nCanvas"
+msgstr "Khung\nvẽ"
+
+msgid "Drop Cap"
+msgstr "Chữ lớn đầu đoạn"
+
+msgid "Drop cap"
+msgstr "Chữ lớn đầu đoạn"
+
+msgid "Drop Cap Options…"
+msgstr "Tùy chọn chữ lớn đầu đoạn…"
+
+msgid "drop caps can't go in a table"
+msgstr "không thể đặt chữ cái lớn đầu đoạn trong bảng"
+
+msgid "Drop-Down List Content Control"
+msgstr "Điều khiển nội dung danh sách xổ xuống"
+
+msgid "Dropped"
+msgstr "Trong văn bản"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Bỏ mọi định dạng và dán văn bản thuần."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Tiếng Hà Lan, Nederlands hoặc nl"
+
+msgid "E-mail Messages"
+msgstr "Thư điện tử"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Sửa nhận xét"
+
+msgid "Edit Data"
+msgstr "Sửa số liệu"
+
+msgid "Edit Document"
+msgstr "Sửa tài liệu"
+
+msgid "Edit Equation"
+msgstr "Sửa phương trình"
+
+msgid "Edit Field Code"
+msgstr "Sửa mã trường"
+
+msgid "Edit Field…"
+msgstr "Sửa trường…"
+
+msgid "Edit Footer"
+msgstr "Sửa chân trang"
+
+msgid "Edit Header"
+msgstr "Sửa đầu trang"
+
+msgid "Edit Individual Documents…"
+msgstr "Sửa từng tài liệu…"
+
+msgid "Edit Items"
+msgstr "Sửa các mục"
+
+msgid "Edit Recipient List"
+msgstr "Sửa danh sách người nhận"
+
+msgid "Edit Source"
+msgstr "Sửa nguồn"
+
+msgid "Edit\nData"
+msgstr "Sửa\nsố liệu"
+
+msgid "Edit\nRecipient List"
+msgstr "Sửa\ndanh sách người nhận"
+
+msgid "Edited"
+msgstr "Đã sửa"
+
+msgid "Editing endnote"
+msgstr "Đang chỉnh sửa chú thích cuối tài liệu"
+
+msgid "Editing footnote"
+msgstr "Đang chỉnh sửa chú thích chân trang"
+
+msgid "Editing header/footer"
+msgstr "Đang chỉnh sửa đầu trang/chân trang"
+
+msgid "Editing in this document is restricted."
+msgstr "Việc chỉnh sửa tài liệu này bị hạn chế."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Chỉnh sửa — sửa tài liệu trực tiếp"
+
+msgid "Edition"
+msgstr "Ấn bản"
+
+msgid "Editor"
+msgstr "Trình biên tập"
+
+msgid "Egypt"
+msgstr "Ai Cập"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Đường nối gấp khúc có mũi tên"
+
+msgid "Elbow Connector"
+msgstr "Đường nối gấp khúc"
+
+msgid "Emphasis"
+msgstr "Nhấn mạnh"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Ma trận trống"
+
+msgid "Enclose Characters"
+msgstr "Bao quanh ký tự"
+
+msgid "Enclosure"
+msgstr "Hình bao quanh"
+
+msgid "Encrypt with Password"
+msgstr "Mã hóa bằng mật khẩu"
+
+msgid "Encrypt with Password…"
+msgstr "Mã hóa bằng mật khẩu…"
+
+msgid "End of document"
+msgstr "Cuối tài liệu"
+
+msgid "End of section"
+msgstr "Cuối phần"
+
+msgid "End of Word"
+msgstr "Cuối từ"
+
+msgid "Endnote Reference"
+msgstr "Dấu chú thích cuối tài liệu"
+
+msgid "Endnote Text"
+msgstr "Văn bản chú thích cuối tài liệu"
+
+msgid "Endnotes"
+msgstr "Chú thích cuối tài liệu"
+
+msgid "Endnotes to footnotes"
+msgstr "Chú thích cuối tài liệu thành chú thích chân trang"
+
+msgid "English (Australia)"
+msgstr "Tiếng Anh (Úc)"
+
+msgid "English (Canada)"
+msgstr "Tiếng Anh (Canada)"
+
+msgid "English (India)"
+msgstr "Tiếng Anh (Ấn Độ)"
+
+msgid "English (Ireland)"
+msgstr "Tiếng Anh (Ireland)"
+
+msgid "English (New Zealand)"
+msgstr "Tiếng Anh (New Zealand)"
+
+msgid "English (South Africa)"
+msgstr "Tiếng Anh (Nam Phi)"
+
+msgid "English (United Kingdom)"
+msgstr "Tiếng Anh (Anh)"
+
+msgid "English (United States)"
+msgstr "Tiếng Anh (Mỹ)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Tiếng Anh, các ngôn ngữ của tài liệu này và mọi gói ngôn ngữ đã cài đặt. Gói ngôn ngữ bổ sung từ điển chính tả và ngắt từ."
+
+msgid "Engrave"
+msgstr "Khắc chìm"
+
+msgid "Enlarge symbol"
+msgstr "Phóng to ký hiệu"
+
+msgid "Enter a number."
+msgstr "Nhập một số."
+
+msgid "Enter bookmark name:"
+msgstr "Nhập tên dấu trang:"
+
+msgid "Enter formatting for number:"
+msgstr "Nhập định dạng cho số:"
+
+msgid "Enter in Equation"
+msgstr "Nhấn Enter trong phương trình"
+
+msgid "Enter page number:"
+msgstr "Nhập số trang:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Đã đánh dấu mục."
+
+msgid "Envelope #10"
+msgstr "Phong bì số 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "Phong bì #10 4.12\" × 9.50\""
+
+msgid "Envelope Address"
+msgstr "Địa chỉ người nhận trên phong bì"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "Phong bì DL 4.33\" × 8.66\""
+
+msgid "Envelope Return"
+msgstr "Địa chỉ người gửi trên phong bì"
+
+msgid "Envelope size:"
+msgstr "Cỡ phong bì:"
+
+msgid "Envelopes"
+msgstr "Phong bì"
+
+msgid "Equal by Definition"
+msgstr "Dấu bằng theo định nghĩa"
+
+msgid "Equal column width"
+msgstr "Độ rộng cột bằng nhau"
+
+msgid "Equal Equal"
+msgstr "Dấu bằng kép"
+
+msgid "Equal to"
+msgstr "Bằng"
+
+msgid "Equals:"
+msgstr "Bằng:"
+
+msgid "Equation"
+msgstr "Phương trình"
+
+msgid "Equation Gallery"
+msgstr "Thư viện phương trình"
+
+msgid "Equation Info"
+msgstr "Thông tin phương trình"
+
+msgid "Equation Number"
+msgstr "Đánh số phương trình"
+
+msgid "Equation Options"
+msgstr "Tùy chọn phương trình"
+
+msgid "Equatorial Guinea"
+msgstr "Guinea Xích đạo"
+
+msgid "Erase Ink"
+msgstr "Xóa mực"
+
+msgid "Errors ({n})"
+msgstr "Lỗi ({n})"
+
+msgid "Esperanto"
+msgstr "Tiếng Quốc tế ngữ"
+
+msgid "Estonian"
+msgstr "Tiếng Estonia"
+
+msgid "Euler's identity"
+msgstr "Đẳng thức Euler"
+
+msgid "Even Banded Columns"
+msgstr "Cột xen kẽ chẵn"
+
+msgid "Even Banded Rows"
+msgstr "Hàng xen kẽ chẵn"
+
+msgid "Even Page"
+msgstr "Trang chẵn"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Mọi thay đổi đều được ghi lại dưới dạng thay đổi được theo dõi."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Mọi lệnh đều khả dụng cho tập lệnh và tác tử AI: chạy `wordcraft-cli mcp` để khởi chạy máy chủ MCP, hoặc khởi động ứng dụng với `--control <port>` để mở kênh điều khiển JSON."
+
+msgid "Every field needs a name."
+msgstr "Mỗi trường đều cần có tên."
+
+msgid "Everyone"
+msgstr "Mọi người"
+
+msgid "Exactly"
+msgstr "Chính xác"
+
+msgid "Exactly {n}"
+msgstr "Chính xác {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Ngoại lệ (không bắt buộc)"
+
+msgid "Exceptions…"
+msgstr "Ngoại lệ…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Giấy Executive 7.25\" × 10.50\""
+
+msgid "Existing File or Web Page"
+msgstr "Tệp hoặc trang web hiện có"
+
+msgid "Expand or Collapse Heading"
+msgstr "Mở rộng hoặc thu gọn tiêu đề"
+
+msgid "Exponential"
+msgstr "Hàm mũ"
+
+msgid "Exponential series"
+msgstr "Chuỗi hàm mũ"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Xuất bản sao để chia sẻ (PDF, tài liệu Word)"
+
+msgid "Export Page as PNG"
+msgstr "Xuất trang dưới dạng PNG"
+
+msgid "Extend Selection"
+msgstr "Mở rộng vùng chọn"
+
+msgid "Extend Selection by Units"
+msgstr "Mở rộng vùng chọn theo đơn vị"
+
+msgid "Extra space"
+msgstr "Thừa khoảng trắng"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Nhanh hơn: {command} là {key} trên bàn phím."
+
+msgid "Field code:"
+msgstr "Mã trường:"
+
+msgid "Field Codes"
+msgstr "Mã trường"
+
+msgid "Field codes:"
+msgstr "Mã các trường:"
+
+msgid "Field name"
+msgstr "Tên trường"
+
+msgid "Field name:"
+msgstr "Tên trường:"
+
+msgid "Field names must be different."
+msgstr "Tên các trường phải khác nhau."
+
+msgid "Field names:"
+msgstr "Tên các trường:"
+
+msgid "Field:"
+msgstr "Trường:"
+
+msgid "Field…"
+msgstr "Trường…"
+
+msgid "Figure"
+msgstr "Hình"
+
+msgid "File locations"
+msgstr "Vị trí tệp"
+
+msgid "File name:"
+msgstr "Tên tệp:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Tệp › Mới liệt kê các mẫu .dotx và .dotm ở đây trong mục Cá nhân; Lưu dưới dạng mẫu Word bắt đầu từ đây."
+
+msgid "Fill color:"
+msgstr "Màu tô:"
+
+msgid "Filling in forms"
+msgstr "Điền biểu mẫu"
+
+msgid "Film"
+msgstr "Phim"
+
+msgid "Filter and Sort"
+msgstr "Lọc và sắp xếp"
+
+msgid "Filter Recipients"
+msgstr "Lọc người nhận"
+
+msgid "Find in list:"
+msgstr "Tìm trong danh sách:"
+
+msgid "Find Next Editable Region"
+msgstr "Tìm vùng có thể chỉnh sửa tiếp theo"
+
+msgid "Find Previous"
+msgstr "Tìm trước đó"
+
+msgid "Find Recipient"
+msgstr "Tìm người nhận"
+
+msgid "Find What Expression"
+msgstr "Biểu thức cần tìm"
+
+msgid "Find What Text"
+msgstr "Văn bản cần tìm"
+
+msgid "Find what:"
+msgstr "Tìm gì:"
+
+msgid "Find “{text}” in the document"
+msgstr "Tìm “{text}” trong tài liệu"
+
+msgid "Finding printers…"
+msgstr "Đang tìm máy in…"
+
+msgid "Finish & Merge"
+msgstr "Hoàn tất & Trộn thư"
+
+msgid "Finish &\nMerge"
+msgstr "Hoàn tất &\nTrộn thư"
+
+msgid "Finished"
+msgstr "Đã đọc xong"
+
+msgid "Finland"
+msgstr "Phần Lan"
+
+msgid "Finnish"
+msgstr "Tiếng Phần Lan"
+
+msgid "First Column"
+msgstr "Cột đầu tiên"
+
+msgid "First line"
+msgstr "Dòng đầu"
+
+msgid "First line:"
+msgstr "Dòng đầu:"
+
+msgid "First Name"
+msgstr "Tên"
+
+msgid "First Record"
+msgstr "Bản ghi đầu tiên"
+
+msgid "First row of data contains column headers"
+msgstr "Hàng đầu tiên của dữ liệu chứa tiêu đề cột"
+
+msgid "Fix Position on Page"
+msgstr "Cố định vị trí trên trang"
+
+msgid "Fixed Column Width"
+msgstr "Cố định độ rộng cột"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Dấu ngoặc sàn"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Theo sau số bằng:"
+
+msgid "Font Color"
+msgstr "Màu phông chữ"
+
+msgid "Font color"
+msgstr "Màu phông chữ"
+
+msgid "Font color:"
+msgstr "Màu phông chữ:"
+
+msgid "Font Dialog"
+msgstr "Hộp thoại phông chữ"
+
+msgid "Font: {font}"
+msgstr "Phông chữ: {font}"
+
+msgid "Font…"
+msgstr "Phông chữ…"
+
+msgid "Footer"
+msgstr "Chân trang"
+
+msgid "Footnote and Endnote"
+msgstr "Chú thích chân trang và chú thích cuối tài liệu"
+
+msgid "Footnote Reference"
+msgstr "Dấu chú thích chân trang"
+
+msgid "Footnote Text"
+msgstr "Văn bản chú thích chân trang"
+
+msgid "Footnotes"
+msgstr "Chú thích chân trang"
+
+msgid "Footnotes and endnotes"
+msgstr "Chú thích chân trang và chú thích cuối"
+
+msgid "Footnotes to endnotes"
+msgstr "Chú thích chân trang thành chú thích cuối tài liệu"
+
+msgid "For which item:"
+msgstr "Cho mục nào:"
+
+msgid "Format Page Numbers"
+msgstr "Định dạng số trang"
+
+msgid "Format Page Numbers…"
+msgstr "Định dạng số trang…"
+
+msgid "Format Painter"
+msgstr "Sao chép định dạng"
+
+msgid "Format Shape"
+msgstr "Định dạng hình"
+
+msgid "Format Shape Pane"
+msgstr "Ngăn Định dạng hình"
+
+msgid "Format Shape…"
+msgstr "Định dạng hình…"
+
+msgid "Formatted"
+msgstr "Đã định dạng"
+
+msgid "Formatted Text"
+msgstr "Văn bản có định dạng"
+
+msgid "Formatting"
+msgstr "Định dạng"
+
+msgid "Formatting at Selection"
+msgstr "Định dạng tại vùng chọn"
+
+msgid "Formatting exceptions"
+msgstr "Ngoại lệ định dạng"
+
+msgid "Formatting marks"
+msgstr "Dấu định dạng"
+
+msgid "Formatting saved for new documents:"
+msgstr "Định dạng đã lưu cho tài liệu mới:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Định dạng, thay đổi chữ hoa/thường, khoảng trắng và bảng được đưa vào so sánh; các tùy chọn khác được lưu để dùng sau."
+
+msgid "Formula"
+msgstr "Công thức"
+
+msgid "Formula:"
+msgstr "Công thức:"
+
+msgid "Forward"
+msgstr "Tua tới"
+
+msgid "Fraction"
+msgstr "Phân số"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Đổi phân số (1/2) thành ký tự phân số (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Pháp"
+
+msgid "French (France)"
+msgstr "Tiếng Pháp (Pháp)"
+
+msgid "From Bottom Left Corner"
+msgstr "Từ góc dưới bên trái"
+
+msgid "From Bottom Right Corner"
+msgstr "Từ góc dưới bên phải"
+
+msgid "From Center"
+msgstr "Từ giữa"
+
+msgid "From text:"
+msgstr "Cách văn bản:"
+
+msgid "From Top Left Corner"
+msgstr "Từ góc trên bên trái"
+
+msgid "From Top Right Corner"
+msgstr "Từ góc trên bên phải"
+
+msgid "from Unicode (hex)"
+msgstr "từ Unicode (hex)"
+
+msgid "From {name}"
+msgstr "Từ {name}"
+
+msgid "From:"
+msgstr "Từ:"
+
+msgid "Full page of the same label"
+msgstr "Cả trang cùng một nhãn"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Chế độ xem toàn màn hình"
+
+msgid "Full\nScreen"
+msgstr "Toàn\nmàn hình"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Sự thật thú vị: trang trắng chỉ là một bản nháp chưa ai kể cho nghe."
+
+msgid "Function"
+msgstr "Hàm"
+
+msgid "Galician"
+msgstr "Tiếng Galicia"
+
+msgid "Gallery"
+msgstr "Gallery"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "Tiếng Gruzia"
+
+msgid "German (Germany)"
+msgstr "Tiếng Đức (Đức)"
+
+msgid "Germany"
+msgstr "Đức"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Lấy danh sách các gói ngôn ngữ, rồi gói của ngôn ngữ này nếu có."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Màu phát sáng"
+
+msgid "Go Back"
+msgstr "Quay lại"
+
+msgid "Go To"
+msgstr "Đi tới"
+
+msgid "Go to"
+msgstr "Đi tới"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Đi tới (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Đi tới bản ghi"
+
+msgid "Go to what:"
+msgstr "Đi tới:"
+
+msgid "Go To…"
+msgstr "Đi tới…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Biến mất! Như thể chưa từng được viết. Chủ yếu vì giờ nó đúng là chưa được viết."
+
+msgid "Good afternoon"
+msgstr "Chào buổi chiều"
+
+msgid "Good evening"
+msgstr "Chào buổi tối"
+
+msgid "Good morning"
+msgstr "Chào buổi sáng"
+
+msgid "GOST (name sort)"
+msgstr "GOST (xếp theo tên tác giả)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (xếp theo tiêu đề)"
+
+msgid "Grab bag"
+msgstr "Hỗn hợp"
+
+msgid "Gradient fill"
+msgstr "Tô chuyển màu"
+
+msgid "Gradient stops"
+msgstr "Điểm dừng chuyển màu"
+
+msgid "Grammar built in"
+msgstr "Ngữ pháp tích hợp sẵn"
+
+msgid "Grave"
+msgstr "Dấu huyền"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Lớn hơn"
+
+msgid "Greater than or equal"
+msgstr "Lớn hơn hoặc bằng"
+
+msgid "Greek"
+msgstr "Tiếng Hy Lạp"
+
+msgid "Greek Letters"
+msgstr "Chữ cái Hy Lạp"
+
+msgid "Green:"
+msgstr "Xanh lục:"
+
+msgid "Greeting Line"
+msgstr "Dòng lời chào"
+
+msgid "Greeting\nLine"
+msgstr "Dòng\nlời chào"
+
+msgid "Grid Table 1 Light"
+msgstr "Bảng lưới 1 nhạt"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Bảng lưới 4 – Xanh dương"
+
+msgid "Grid Table 4 – Green"
+msgstr "Bảng lưới 4 – Xanh lá"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Bảng lưới 4 – Cam"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Bảng lưới 4 – Tím"
+
+msgid "Gridlines"
+msgstr "Đường lưới"
+
+msgid "Grouping Character Above"
+msgstr "Ký tự nhóm phía trên"
+
+msgid "Grouping Character Below"
+msgstr "Ký tự nhóm phía dưới"
+
+msgid "Grow Font 1 Point"
+msgstr "Tăng cỡ chữ 1 pt"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "Cao:"
+
+msgid "Hanging Indent"
+msgstr "Thụt lề treo"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Dấu mũ"
+
+msgid "Header"
+msgstr "Đầu trang"
+
+msgid "Header & Footer"
+msgstr "Đầu trang & Chân trang"
+
+msgid "Header Row"
+msgstr "Hàng tiêu đề"
+
+msgid "Header row"
+msgstr "Hàng tiêu đề"
+
+msgid "Header/Footer Position"
+msgstr "Vị trí đầu trang/chân trang"
+
+msgid "Headers and footers"
+msgstr "Đầu trang và chân trang"
+
+msgid "Heading"
+msgstr "Đề mục"
+
+msgid "Heading 1"
+msgstr "Tiêu đề 1"
+
+msgid "Heading 2"
+msgstr "Tiêu đề 2"
+
+msgid "Heading 3"
+msgstr "Tiêu đề 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Kiểu tiêu đề (cấp 1–{n})"
+
+msgid "Heading text"
+msgstr "Văn bản đề mục"
+
+msgid "Heading {n}"
+msgstr "Tiêu đề {n}"
+
+msgid "Hebrew"
+msgstr "Tiếng Do Thái"
+
+msgid "Hex:"
+msgstr "Mã hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Xin chào! Tôi là Nib, trợ lý viết của bạn. Tôi đưa ra mẹo, phím tắt và thỉnh thoảng cả vài ý kiến không ai hỏi. Tôi ở lại nhé?"
+
+msgid "Hidden bookmarks"
+msgstr "Dấu trang ẩn"
+
+msgid "Hide Codes"
+msgstr "Ẩn mã"
+
+msgid "Hide from style lists"
+msgstr "Ẩn khỏi danh sách kiểu"
+
+msgid "Hide Ink"
+msgstr "Ẩn mực"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Ẩn thanh công cụ truy cập nhanh"
+
+msgid "Hide White Space"
+msgstr "Ẩn khoảng giữa trang"
+
+msgid "Hide\nInk"
+msgstr "Ẩn\nmực"
+
+msgid "Hierarchy"
+msgstr "Phân cấp"
+
+msgid "Highlight"
+msgstr "Tô sáng"
+
+msgid "Highlight Merge Fields"
+msgstr "Làm nổi bật trường trộn"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Làm nổi bật\ntrường trộn"
+
+msgid "Highlighter"
+msgstr "Bút tô sáng"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Thư mục chính"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "Đặc khu Hồng Kông"
+
+msgid "Horizontal Line"
+msgstr "Đường kẻ ngang"
+
+msgid "How many pages the whole document has"
+msgstr "Tổng số trang của toàn bộ tài liệu"
+
+msgid "How many pages this section has"
+msgstr "Tổng số trang của phần này"
+
+msgid "How many words the document holds"
+msgstr "Tổng số từ của toàn bộ tài liệu"
+
+msgid "HTML Format"
+msgstr "Định dạng HTML"
+
+msgid "Hue:"
+msgstr "Sắc độ:"
+
+msgid "Hungarian"
+msgstr "Tiếng Hungary"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Các tệp Hunspell .aff và .dic trong thư mục này (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) được dùng trước các tệp của hệ thống."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hàm côséc hyperbol"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hàm côsin hyperbol"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hàm côtang hyperbol"
+
+msgid "Hyperbolic Functions"
+msgstr "Các hàm hyperbol"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hàm sec hyperbol"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hàm sin hyperbol"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hàm tang hyperbol"
+
+msgid "Hyperlink"
+msgstr "Siêu liên kết"
+
+msgid "Hyphenate at:"
+msgstr "Ngắt từ tại:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Ngắt từ viết HOA"
+
+msgid "Hyphenation Options…"
+msgstr "Tùy chọn ngắt từ…"
+
+msgid "Hyphenation zone:"
+msgstr "Vùng ngắt từ:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Đổi dấu gạch nối (--) thành dấu gạch dài (—)"
+
+msgid "Hypotenuse"
+msgstr "Cạnh huyền"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Tôi hứa là đã lưu. Tôi kiểm tra rồi. Hai lần."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Tôi cũng muốn tự viết gì đó, nhưng tôi có ngòi mà không có mực. Sắc sảo thì có, nội dung thì không."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "Tiếng Iceland"
+
+msgid "Icon Color"
+msgstr "Màu biểu tượng"
+
+msgid "Icons"
+msgstr "Biểu tượng"
+
+msgid "Identity Matrices"
+msgstr "Ma trận đơn vị"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Nếu…Thì…Không thì"
+
+msgid "If…Then…Else…"
+msgstr "Nếu…Thì…Không thì…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Bỏ qua dấu câu"
+
+msgid "Ignore web and file addresses"
+msgstr "Bỏ qua địa chỉ web và tệp"
+
+msgid "Ignore white-space characters"
+msgstr "Bỏ qua ký tự khoảng trắng"
+
+msgid "Ignore words in capitals"
+msgstr "Bỏ qua từ viết toàn chữ hoa"
+
+msgid "Ignore words with numbers"
+msgstr "Bỏ qua từ có số"
+
+msgid "Illustrations"
+msgstr "Hình minh họa"
+
+msgid "Immersive"
+msgstr "Tập trung"
+
+msgid "Immersive Reader"
+msgstr "Bộ đọc tập trung"
+
+msgid "Immersive\nReader"
+msgstr "Bộ đọc\ntập trung"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Trong Ứng dụng mặc định, chọn WordCraft cho các loại tài liệu bạn muốn mở bằng ứng dụng này."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Trong phương trình, khi nhập tên sau dấu gạch chéo ngược, tên sẽ được thay bằng ký hiệu tương ứng."
+
+msgid "In Front of Text"
+msgstr "Trước văn bản"
+
+msgid "In Line with Text"
+msgstr "Nằm cùng dòng với văn bản"
+
+msgid "In margin"
+msgstr "Trong lề"
+
+msgid "In the margin"
+msgstr "Trong lề"
+
+msgid "Include label and number"
+msgstr "Bao gồm nhãn và số"
+
+msgid "Include level number from:"
+msgstr "Bao gồm số cấp độ từ:"
+
+msgid "Include page numbers"
+msgstr "Bao gồm số trang"
+
+msgid "Increase Indent"
+msgstr "Tăng thụt lề"
+
+msgid "Indent"
+msgstr "Thụt lề"
+
+msgid "Indent from left:"
+msgstr "Thụt lề từ trái:"
+
+msgid "Indentation"
+msgstr "Thụt lề"
+
+msgid "Indented"
+msgstr "Thụt lề"
+
+msgid "Indents"
+msgstr "Thụt lề"
+
+msgid "Indents and Spacing"
+msgstr "Thụt lề và giãn cách"
+
+msgid "Index and Tables"
+msgstr "Chỉ mục và mục lục"
+
+msgid "Index Heading"
+msgstr "Tiêu đề chỉ mục"
+
+msgid "Index {n}"
+msgstr "Chỉ mục {n}"
+
+msgid "India"
+msgstr "Ấn Độ"
+
+msgid "Indonesian"
+msgstr "Tiếng Indonesia"
+
+msgid "Initial column width:"
+msgstr "Độ rộng cột ban đầu:"
+
+msgid "Initials:"
+msgstr "Chữ viết tắt:"
+
+msgid "Ink"
+msgstr "Mực"
+
+msgid "Ink Replay"
+msgstr "Phát lại mực"
+
+msgid "Ink to Shape"
+msgstr "Mực thành hình"
+
+msgid "Ink to\nMath"
+msgstr "Mực thành\ncông thức"
+
+msgid "Ink to\nShape"
+msgstr "Mực thành\nhình"
+
+msgid "Ink\nReplay"
+msgstr "Phát lại\nmực"
+
+msgid "Inline"
+msgstr "Trong dòng"
+
+msgid "Input Format"
+msgstr "Định dạng nhập"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Chèn phương trình mới (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Chèn lên trên"
+
+msgid "Insert Below"
+msgstr "Chèn xuống dưới"
+
+msgid "Insert Caption"
+msgstr "Chèn chú thích"
+
+msgid "Insert Caption…"
+msgstr "Chèn chú thích…"
+
+msgid "Insert Chart"
+msgstr "Chèn biểu đồ"
+
+msgid "Insert Citation"
+msgstr "Chèn trích dẫn"
+
+msgid "Insert Columns to the Left"
+msgstr "Chèn cột sang trái"
+
+msgid "Insert Columns to the Right"
+msgstr "Chèn cột sang phải"
+
+msgid "Insert Date Field"
+msgstr "Chèn trường ngày"
+
+msgid "Insert Diagram"
+msgstr "Chèn sơ đồ"
+
+msgid "Insert Endnote"
+msgstr "Chèn chú thích cuối tài liệu"
+
+msgid "Insert Footnote"
+msgstr "Chèn chú thích chân trang"
+
+msgid "Insert Hyperlink"
+msgstr "Chèn siêu liên kết"
+
+msgid "Insert Index"
+msgstr "Chèn chỉ mục"
+
+msgid "Insert Left"
+msgstr "Chèn sang trái"
+
+msgid "Insert Merge Field"
+msgstr "Chèn trường trộn thư"
+
+msgid "Insert Merge\nField"
+msgstr "Chèn trường\ntrộn thư"
+
+msgid "Insert New Equation"
+msgstr "Chèn phương trình mới"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Chèn văn bản này hoặc văn bản khác, tùy theo giá trị của một trường."
+
+msgid "Insert Page Field"
+msgstr "Chèn trường số trang"
+
+msgid "Insert reference to:"
+msgstr "Chèn tham chiếu tới:"
+
+msgid "Insert Right"
+msgstr "Chèn sang phải"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Chèn hàng hoặc cột bằng cách bấm"
+
+msgid "Insert Rows Above"
+msgstr "Chèn hàng phía trên"
+
+msgid "Insert Rows Below"
+msgstr "Chèn hàng phía dưới"
+
+msgid "Insert Shapes"
+msgstr "Chèn hình"
+
+msgid "Insert SmartArt"
+msgstr "Chèn SmartArt"
+
+msgid "Insert Spike"
+msgstr "Chèn bộ gom"
+
+msgid "Insert Structure"
+msgstr "Chèn cấu trúc"
+
+msgid "Insert Symbol"
+msgstr "Chèn ký hiệu"
+
+msgid "Insert Table"
+msgstr "Chèn bảng"
+
+msgid "Insert Table of Authorities"
+msgstr "Chèn bảng dẫn nguồn"
+
+msgid "Insert Table of Figures"
+msgstr "Chèn danh mục hình"
+
+msgid "Insert Table…"
+msgstr "Chèn bảng…"
+
+msgid "Insert Time Field"
+msgstr "Chèn trường giờ"
+
+msgid "Insert\nAbove"
+msgstr "Chèn\nlên trên"
+
+msgid "Insert\nCaption"
+msgstr "Chèn\nchú thích"
+
+msgid "Insert\nCitation"
+msgstr "Chèn\ntrích dẫn"
+
+msgid "Insert\nFootnote"
+msgstr "Chèn chú thích\nchân trang"
+
+msgid "Insertions and Deletions"
+msgstr "Phần chèn và phần xóa"
+
+msgid "Insertions:"
+msgstr "Phần chèn:"
+
+msgid "Inside Borders"
+msgstr "Viền trong"
+
+msgid "Inside Horizontal Border"
+msgstr "Viền ngang bên trong"
+
+msgid "Inside Vertical Border"
+msgstr "Viền dọc bên trong"
+
+msgid "Inside:"
+msgstr "Bên trong:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Kiểm tra kiểu tại vùng chọn"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Cài đặt chính tả ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Cơ quan"
+
+msgid "Integral"
+msgstr "Dấu tích phân"
+
+msgid "Integral of e^(−x²)"
+msgstr "Tích phân của e mũ trừ x bình"
+
+msgid "Integral with Limits"
+msgstr "Tích phân có cận"
+
+msgid "Integral with Stacked Limits"
+msgstr "Tích phân có cận xếp chồng"
+
+msgid "Integrals"
+msgstr "Tích phân"
+
+msgid "Intense Emphasis"
+msgstr "Nhấn mạnh nổi bật"
+
+msgid "Intense Quote"
+msgstr "Trích dẫn nổi bật"
+
+msgid "Intense Reference"
+msgstr "Tham chiếu nổi bật"
+
+msgid "Interface language:"
+msgstr "Ngôn ngữ giao diện:"
+
+msgid "Interface size:"
+msgstr "Cỡ giao diện:"
+
+msgid "Interface theme:"
+msgstr "Chủ đề giao diện:"
+
+msgid "Interface\nTheme"
+msgstr "Chủ đề\ngiao diện"
+
+msgid "Internet addresses as links"
+msgstr "Đổi địa chỉ Internet thành liên kết"
+
+msgid "Intersection with Limits"
+msgstr "Phép giao có cận"
+
+msgid "Intersection with Lower Limit"
+msgstr "Phép giao có cận dưới"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Phép giao có cận chỉ số dưới-trên"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Hàm côséc ngược"
+
+msgid "Inverse Cosine Function"
+msgstr "Hàm côsin ngược"
+
+msgid "Inverse Cotangent Function"
+msgstr "Hàm côtang ngược"
+
+msgid "Inverse Functions"
+msgstr "Các hàm ngược"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Hàm côséc hyperbol ngược"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Hàm côsin hyperbol ngược"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Hàm côtang hyperbol ngược"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Các hàm hyperbol ngược"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Hàm sec hyperbol ngược"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Hàm sin hyperbol ngược"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Hàm tang hyperbol ngược"
+
+msgid "Inverse Secant Function"
+msgstr "Hàm sec ngược"
+
+msgid "Inverse Sine Function"
+msgstr "Hàm sin ngược"
+
+msgid "Inverse Tangent Function"
+msgstr "Hàm tang ngược"
+
+msgid "Ionosphere"
+msgstr "Tầng điện ly"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Irish"
+msgstr "Tiếng Ireland"
+
+msgid "Is blank"
+msgstr "Trống"
+
+msgid "Is not blank"
+msgstr "Không trống"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (tác giả-năm)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (đánh số)"
+
+msgid "Issue"
+msgstr "Số"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Có vẻ bạn đang viết thư. Bạn muốn một phong bì cho nó, hay một mẫu thư để bắt đầu?"
+
+msgid "Italy"
+msgstr "Ý"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Không đọc được từ điển của ngôn ngữ này: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Tham gia cộng đồng ArtCraft trên Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Tham gia cùng chúng tôi trên Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Journal"
+msgstr "Tạp chí"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "Căn chỉnh phương trình trên dòng riêng"
+
+msgid "Justified"
+msgstr "Căn đều"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Keep Lines Together"
+msgstr "Giữ các dòng cùng nhau"
+
+msgid "Keep lines together"
+msgstr "Giữ các dòng cùng nhau"
+
+msgid "Keep me around"
+msgstr "Ở lại đi"
+
+msgid "Keep Text Only"
+msgstr "Chỉ giữ văn bản"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Hãy giữ mật khẩu ở nơi an toàn: nếu mất thì không ai, kể cả WordCraft, có thể mở được tài liệu. Để trống cả hai ô nếu muốn gỡ mật khẩu."
+
+msgid "Keep with Next"
+msgstr "Giữ cùng đoạn kế tiếp"
+
+msgid "Keep with next"
+msgstr "Giữ cùng đoạn kế tiếp"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Giữ nguyên phông chữ và định dạng của văn bản đã sao chép."
+
+msgid "Kerning for fonts:"
+msgstr "Kerning cho phông chữ:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Phím tắt:"
+
+msgid "Keys for this command:"
+msgstr "Phím của lệnh này:"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Label changes with:"
+msgstr "Gán thay đổi cho:"
+
+msgid "Label:"
+msgstr "Nhãn:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Tùy chọn ngôn ngữ…"
+
+msgid "Large\nOperator"
+msgstr "Toán tử\ncỡ lớn"
+
+msgid "Largest Only"
+msgstr "Chỉ lấy loại lớn nhất"
+
+msgid "Lasso Select"
+msgstr "Chọn bằng khoanh vùng"
+
+msgid "Last Column"
+msgstr "Cột cuối cùng"
+
+msgid "Last Name"
+msgstr "Họ"
+
+msgid "Last Record"
+msgstr "Bản ghi cuối cùng"
+
+msgid "Last, First; Last, First"
+msgstr "Họ, Tên; Họ, Tên"
+
+msgid "Latin text font:"
+msgstr "Phông chữ Latin:"
+
+msgid "Latvian"
+msgstr "Tiếng Latvia"
+
+msgid "Layout Summary"
+msgstr "Tóm tắt bố cục"
+
+msgid "Layouts"
+msgstr "Bố cục"
+
+msgid "Leader"
+msgstr "Ký tự dẫn"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Bỏ một người nhận khỏi trộn thư khi một trường có giá trị này."
+
+msgid "Leave Equation"
+msgstr "Rời khỏi phương trình"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Bỏ ngày giờ của nhận xét và thay đổi được theo dõi khi lưu"
+
+msgid "Leave the equation (Esc)"
+msgstr "Rời khỏi phương trình (Esc)"
+
+msgid "leave the equation first"
+msgstr "hãy thoát khỏi phương trình trước"
+
+msgid "Leave the label out of the caption"
+msgstr "Bỏ nhãn khỏi chú thích"
+
+msgid "Lebanon"
+msgstr "Liban"
+
+msgid "Left Arrow with Text Above"
+msgstr "Mũi tên sang trái có chữ phía trên"
+
+msgid "Left Arrow with Text Below"
+msgstr "Mũi tên sang trái có chữ phía dưới"
+
+msgid "Left Border"
+msgstr "Viền trái"
+
+msgid "Left border"
+msgstr "Viền trái"
+
+msgid "Left Bracket Twice"
+msgstr "Ngoặc vuông trái kép"
+
+msgid "Left indent"
+msgstr "Thụt lề trái"
+
+msgid "Left Margin"
+msgstr "Lề trái"
+
+msgid "Left Only"
+msgstr "Chỉ bên trái"
+
+msgid "Left Right Arrow Above"
+msgstr "Mũi tên hai chiều phía trên"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Mũi tên hai chiều có chữ phía trên"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Mũi tên hai chiều có chữ phía dưới"
+
+msgid "Left Subscript-Superscript"
+msgstr "Chỉ số dưới-trên bên trái"
+
+msgid "Left-to-right"
+msgstr "Từ trái sang phải"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Hướng chữ từ trái sang phải"
+
+msgid "Leftwards Arrow Above"
+msgstr "Mũi tên hướng trái phía trên"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Mũi tên móc hướng trái phía trên"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Giấy Legal 8.50\" × 14.00\""
+
+msgid "Legal style numbering"
+msgstr "Đánh số kiểu pháp lý"
+
+msgid "Legend"
+msgstr "Chú giải"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Nhỏ hơn"
+
+msgid "Less than or equal"
+msgstr "Nhỏ hơn hoặc bằng"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Thư"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Giấy Letter 8.50\" × 11.00\""
+
+msgid "Letter headings"
+msgstr "Tiêu đề chữ cái"
+
+msgid "Letter template"
+msgstr "Mẫu thư"
+
+msgid "Letter-Like Symbols"
+msgstr "Ký hiệu dạng chữ cái"
+
+msgid "Letters"
+msgstr "Thư"
+
+msgid "Level 5"
+msgstr "Cấp 5"
+
+msgid "Level 6"
+msgstr "Cấp 6"
+
+msgid "Level 7"
+msgstr "Cấp 7"
+
+msgid "Level 8"
+msgstr "Cấp 8"
+
+msgid "Level 9"
+msgstr "Cấp 9"
+
+msgid "Level {n}"
+msgstr "Cấp độ {n}"
+
+msgid "Levels:"
+msgstr "Mức:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr "Biến thể sáng"
+
+msgid "Light with Outline"
+msgstr "Sáng có viền"
+
+msgid "Limit"
+msgstr "Giới hạn"
+
+msgid "Limit and"
+msgstr "Giới hạn và"
+
+msgid "Limit and\nLog"
+msgstr "Giới hạn và\nlogarit"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Giới hạn gạch nối liên tiếp:"
+
+msgid "Limit Example"
+msgstr "Ví dụ giới hạn"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Giới hạn định dạng ở các kiểu được chọn"
+
+msgid "Line and Page Breaks"
+msgstr "Ngắt dòng và trang"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Khoảng cách dòng và đoạn"
+
+msgid "Line between"
+msgstr "Đường kẻ giữa"
+
+msgid "Line Break"
+msgstr "Ngắt dòng"
+
+msgid "Line breaking"
+msgstr "Ngắt dòng"
+
+msgid "Line End"
+msgstr "Cuối dòng"
+
+msgid "Line Number"
+msgstr "Số dòng"
+
+msgid "Line Numbering Options…"
+msgstr "Tùy chọn đánh số dòng…"
+
+msgid "Line Numbers"
+msgstr "Đánh số dòng"
+
+msgid "Line Spacing"
+msgstr "Giãn dòng"
+
+msgid "Line Spacing Options…"
+msgstr "Tùy chọn giãn dòng…"
+
+msgid "Line spacing:"
+msgstr "Giãn dòng:"
+
+msgid "Line Start"
+msgstr "Đầu dòng"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Tuyến tính chéo - từ dưới trái lên trên phải"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Tuyến tính chéo - từ dưới phải lên trên trái"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Tuyến tính chéo - từ trên trái xuống dưới phải"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Tuyến tính chéo - từ trên phải xuống dưới trái"
+
+msgid "Linear Down"
+msgstr "Tuyến tính xuống"
+
+msgid "Linear Fraction"
+msgstr "Phân số tuyến tính"
+
+msgid "Linear Left"
+msgstr "Tuyến tính sang trái"
+
+msgid "Linear Right"
+msgstr "Tuyến tính sang phải"
+
+msgid "Linear Up"
+msgstr "Tuyến tính lên"
+
+msgid "Lines and characters"
+msgstr "Dòng và ký tự"
+
+msgid "Lines only"
+msgstr "Chỉ dòng"
+
+msgid "Lines per page:"
+msgstr "Số dòng mỗi trang:"
+
+msgid "Lines to drop:"
+msgstr "Số dòng chiếm:"
+
+msgid "Link entries to their headings"
+msgstr "Nối mục với đề mục"
+
+msgid "Link level to style:"
+msgstr "Liên kết cấp độ với kiểu:"
+
+msgid "Link to Previous"
+msgstr "Liên kết với phần trước"
+
+msgid "Link to:"
+msgstr "Liên kết tới:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Kiểu liên kết (đoạn và ký tự)"
+
+msgid "Links and References"
+msgstr "Liên kết và tham chiếu"
+
+msgid "Link…"
+msgstr "Liên kết…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Định nghĩa danh sách"
+
+msgid "List entries"
+msgstr "Các mục danh sách"
+
+msgid "List Paragraph"
+msgstr "Đoạn danh sách"
+
+msgid "List Table 3 – Blue"
+msgstr "Bảng liệt kê 3 – Xanh dương"
+
+msgid "List Table 3 – Green"
+msgstr "Bảng liệt kê 3 – Xanh lá"
+
+msgid "List Table 3 – Orange"
+msgstr "Bảng liệt kê 3 – Cam"
+
+msgid "List Table 3 – Purple"
+msgstr "Bảng liệt kê 3 – Tím"
+
+msgid "Lit from Bottom"
+msgstr "Chiếu sáng từ dưới"
+
+msgid "Lit from Top"
+msgstr "Chiếu sáng từ trên"
+
+msgid "Lithuanian"
+msgstr "Tiếng Litva"
+
+msgid "Load System Installed Fonts…"
+msgstr "Tải phông chữ đã cài trên hệ thống…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Đã tải {count} phông chữ hệ thống."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Trình duyệt của bạn không hỗ trợ truy cập phông chữ cục bộ."
+
+msgid "Local font access was denied."
+msgstr "Quyền truy cập phông chữ cục bộ đã bị từ chối."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Vị trí: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Khóa tỷ lệ khung hình"
+
+msgid "Lock Fields"
+msgstr "Khóa trường"
+
+msgid "Log"
+msgstr "Logarit"
+
+msgid "Logarithm"
+msgstr "Logarit"
+
+msgid "Logarithm with Base"
+msgstr "Logarit với cơ số"
+
+msgid "Logical AND"
+msgstr "VÀ logic"
+
+msgid "Logical AND with Limits"
+msgstr "VÀ logic có cận"
+
+msgid "Logical OR"
+msgstr "HOẶC logic"
+
+msgid "Logical OR with Limits"
+msgstr "HOẶC logic có cận"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: vì những chữ thật vẫn đang ngồi ở quán cà phê."
+
+msgid "Lum:"
+msgstr "Độ sáng:"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Macao SAR"
+msgstr "Đặc khu Macao"
+
+msgid "Macedonian"
+msgstr "Tiếng Macedonia"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Macro"
+
+msgid "Made from the author and year when empty"
+msgstr "Được tạo từ tên tác giả và năm khi để trống"
+
+msgid "Magazine or newspaper article"
+msgstr "Bài báo/tạp chí"
+
+msgid "Mail Merge"
+msgstr "Trộn thư"
+
+msgid "Mailings"
+msgstr "Gửi thư"
+
+msgid "Main entry:"
+msgstr "Mục chính:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Đặt WordCraft làm ứng dụng mặc định cho tài liệu Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Làm ribbon, menu và hộp thoại lớn hơn hoặc nhỏ hơn. Tự động theo tỉ lệ hiển thị của hệ thống; 100% là một điểm ảnh màn hình cho mỗi point. Thu phóng tài liệu là mục riêng."
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Manage Sources"
+msgstr "Quản lý nguồn"
+
+msgid "Manage Styles"
+msgstr "Quản lý kiểu"
+
+msgid "Manage Styles…"
+msgstr "Quản lý kiểu…"
+
+msgid "Manual Hyphenation"
+msgstr "Ngắt từ thủ công"
+
+msgid "Manual hyphenation is complete."
+msgstr "Ngắt từ thủ công đã hoàn tất."
+
+msgid "Manual Line Break"
+msgstr "Ngắt dòng thủ công"
+
+msgid "Manual Page Break"
+msgstr "Ngắt trang thủ công"
+
+msgid "Manual…"
+msgstr "Thủ công…"
+
+msgid "Many pages"
+msgstr "Nhiều trang"
+
+msgid "Mark"
+msgstr "Đánh dấu"
+
+msgid "Mark All"
+msgstr "Đánh dấu tất cả"
+
+msgid "Mark as decorative"
+msgstr "Đánh dấu là trang trí"
+
+msgid "Mark Citation"
+msgstr "Đánh dấu trích dẫn"
+
+msgid "Mark Entry"
+msgstr "Đánh dấu mục"
+
+msgid "Mark Entry…"
+msgstr "Đánh dấu mục…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Đánh dấu lỗi ngữ pháp khi gõ"
+
+msgid "Mark Index Entry"
+msgstr "Đánh dấu mục chỉ mục"
+
+msgid "Mark selected text as:"
+msgstr "Đánh dấu chữ đã chọn là:"
+
+msgid "Mark\nCitation"
+msgstr "Đánh dấu\ntrích dẫn"
+
+msgid "Mark\nEntry"
+msgstr "Đánh dấu\nmục"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Khớp chữ hoa/thường"
+
+msgid "Match Fields"
+msgstr "Khớp trường"
+
+msgid "Match prefix"
+msgstr "Khớp tiền tố"
+
+msgid "Match suffix"
+msgstr "Khớp hậu tố"
+
+msgid "Matches: {count}"
+msgstr "Kết quả khớp: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Tự động sửa ký hiệu toán"
+
+msgid "Matrices with Brackets"
+msgstr "Ma trận với dấu ngoặc"
+
+msgid "Matrix"
+msgstr "Ma trận"
+
+msgid "Maximum Example"
+msgstr "Ví dụ cực đại"
+
+msgid "Measured By"
+msgstr "Được đo bằng"
+
+msgid "Measurement units:"
+msgstr "Đơn vị đo:"
+
+msgid "Merge cells before split"
+msgstr "Gộp ô trước khi tách"
+
+msgid "Merge Formatting"
+msgstr "Hòa trộn định dạng"
+
+msgid "Merge Record #"
+msgstr "Bản ghi trộn #"
+
+msgid "Mesosphere"
+msgstr "Tầng giữa"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Midline Dots"
+msgstr "Chấm giữa dòng"
+
+msgid "Minus Equal"
+msgstr "Trừ bằng"
+
+msgid "Mirror indents"
+msgstr "Thụt lề đối xứng"
+
+msgid "Mirror margins"
+msgstr "Lề đối xứng"
+
+msgid "Mirrored"
+msgstr "Phản chiếu"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Bản quyền (c) 2026 ArtCraft Team và các cộng tác viên WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Vừa phải"
+
+msgid "Modify Style"
+msgstr "Sửa đổi kiểu"
+
+msgid "Modify Table Style"
+msgstr "Sửa đổi kiểu bảng"
+
+msgid "Modify Table Style…"
+msgstr "Sửa đổi kiểu bảng…"
+
+msgid "Modify…"
+msgstr "Sửa đổi…"
+
+msgid "Mon"
+msgstr "T2"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Month"
+msgstr "Tháng"
+
+msgid "More >>"
+msgstr "Mở rộng >>"
+
+msgid "More Colors…"
+msgstr "Màu khác…"
+
+msgid "More Columns…"
+msgstr "Thêm cột…"
+
+msgid "More Commands…"
+msgstr "Lệnh khác…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "Thêm chuyển màu…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Thêm khổ giấy…"
+
+msgid "More Symbols…"
+msgstr "Thêm ký hiệu…"
+
+msgid "More tabs"
+msgstr "Các tab khác"
+
+msgid "More templates →"
+msgstr "Xem thêm mẫu →"
+
+msgid "More Underlines…"
+msgstr "Kiểu gạch chân khác…"
+
+msgid "Morocco"
+msgstr "Maroc"
+
+msgid "Move in Equation"
+msgstr "Di chuyển trong phương trình"
+
+msgid "Move or Resize"
+msgstr "Di chuyển hoặc đổi kích thước"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Di chuyển đoạn xuống"
+
+msgid "Move Paragraph Up"
+msgstr "Di chuyển đoạn lên"
+
+msgid "Move Past Citation"
+msgstr "Đưa con trỏ ra sau trích dẫn"
+
+msgid "Move Past\nCitation"
+msgstr "Ra sau\ntrích dẫn"
+
+msgid "Move Selected Ink"
+msgstr "Di chuyển mực đã chọn"
+
+msgid "Move Table by Dragging"
+msgstr "Di chuyển bảng bằng cách kéo"
+
+msgid "Move with Text"
+msgstr "Di chuyển cùng văn bản"
+
+msgid "Moved from"
+msgstr "Đã di chuyển từ"
+
+msgid "Moved from:"
+msgstr "Đã di chuyển từ:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Đối tượng được di chuyển sẽ bắt vào mép và tâm trang, lề và các đối tượng khác. Giữ Alt để di chuyển tự do."
+
+msgid "Moved to"
+msgstr "Đã di chuyển đến"
+
+msgid "Moved to:"
+msgstr "Đã di chuyển đến:"
+
+msgid "Moves"
+msgstr "Nội dung đã di chuyển"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Multilevel List"
+msgstr "Danh sách đa cấp"
+
+msgid "Multilevel List Library"
+msgstr "Thư viện danh sách đa cấp"
+
+msgid "Multiple Pages"
+msgstr "Nhiều trang"
+
+msgid "Mute agent messages"
+msgstr "Tắt tiếng tin nhắn của tác tử"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Danh sách của tôi có"
+
+msgid "Name of the file this document is saved as"
+msgstr "Tên tệp của tài liệu"
+
+msgid "Narrow"
+msgstr "Hẹp"
+
+msgid "Narrow  {size} all"
+msgstr "Hẹp  {size} mọi cạnh"
+
+msgid "Natural Logarithm"
+msgstr "Logarit tự nhiên"
+
+msgid "Nature"
+msgstr "Thiên nhiên"
+
+msgid "Navigation Pane"
+msgstr "Ngăn điều hướng"
+
+msgid "Negated Relations"
+msgstr "Quan hệ phủ định"
+
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+msgid "New blank documents are written in this language"
+msgstr "Tài liệu trống mới được viết bằng ngôn ngữ này"
+
+msgid "New Comment"
+msgstr "Nhận xét mới"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này."
+
+msgid "New Documents Based on This Template"
+msgstr "Tài liệu mới dựa trên mẫu này"
+
+msgid "New documents based on this template"
+msgstr "Tài liệu mới dựa trên mẫu này"
+
+msgid "New documents will use this font."
+msgstr "Tài liệu mới sẽ dùng phông chữ này."
+
+msgid "New documents will use this page setup."
+msgstr "Tài liệu mới sẽ dùng thiết lập trang này."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Tài liệu mới sẽ dùng định dạng đoạn này."
+
+msgid "New documents will use this style."
+msgstr "Tài liệu mới sẽ dùng kiểu này."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?"
+
+msgid "New Drawing Canvas"
+msgstr "Khung vẽ mới"
+
+msgid "New Entry"
+msgstr "Mục mới"
+
+msgid "New Label"
+msgstr "Nhãn mới"
+
+msgid "New Label…"
+msgstr "Nhãn mới…"
+
+msgid "New Paragraph"
+msgstr "Đoạn mới"
+
+msgid "New shortcut:"
+msgstr "Phím tắt mới:"
+
+msgid "New Tab"
+msgstr "Tab mới"
+
+msgid "New Table Style"
+msgstr "Kiểu bảng mới"
+
+msgid "New Table Style…"
+msgstr "Kiểu bảng mới…"
+
+msgid "New word"
+msgstr "Từ mới"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "New\nComment"
+msgstr "Nhận xét\nmới"
+
+msgid "New\nWindow"
+msgstr "Cửa sổ\nmới"
+
+msgid "Next Comment"
+msgstr "Nhận xét tiếp theo"
+
+msgid "Next Field"
+msgstr "Trường tiếp theo"
+
+msgid "Next Footnote"
+msgstr "Chú thích chân trang tiếp theo"
+
+msgid "Next Record"
+msgstr "Bản ghi tiếp theo"
+
+msgid "Next Section"
+msgstr "Phần tiếp theo"
+
+msgid "Next Sentence"
+msgstr "Câu tiếp theo"
+
+msgid "Next sentence"
+msgstr "Câu tiếp theo"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib lơ lửng trên cửa sổ với các mẹo và thỉnh thoảng một lời bình."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, trợ lý của bạn. Kéo để di chuyển; nhấp chuột phải để xem tùy chọn."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Không tìm thấy vấn đề về khả năng tiếp cận nào."
+
+msgid "No Border"
+msgstr "Không viền"
+
+msgid "No changes (read only)"
+msgstr "Không cho phép thay đổi (chỉ đọc)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Bản sao này không tích hợp sẵn dữ liệu người đóng góp."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Chưa mở tài liệu nào. Hãy tạo hoặc mở một tài liệu trước."
+
+msgid "no equation at the caret"
+msgstr "không có phương trình tại con trỏ"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Không tìm thấy lỗi: mọi trường trộn đều có trong danh sách người nhận."
+
+msgid "No Fill"
+msgstr "Không tô"
+
+msgid "No fill"
+msgstr "Không tô"
+
+msgid "No Glow"
+msgstr "Không phát sáng"
+
+msgid "No Gradient"
+msgstr "Không chuyển màu"
+
+msgid "No grid"
+msgstr "Không lưới"
+
+msgid "No header row"
+msgstr "Không có hàng tiêu đề"
+
+msgid "No icons match your search."
+msgstr "Không có biểu tượng nào khớp với tìm kiếm của bạn."
+
+msgid "No items to show."
+msgstr "Không có mục nào để hiển thị."
+
+msgid "No language matches your search."
+msgstr "Không có ngôn ngữ nào khớp với tìm kiếm của bạn."
+
+msgid "No languages to show yet."
+msgstr "Chưa có ngôn ngữ nào để hiển thị."
+
+msgid "No Markup"
+msgstr "Không có đánh dấu"
+
+msgid "No model credits were built into this copy."
+msgstr "Bản sao này không tích hợp sẵn thông tin ghi công mô hình."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Không viền"
+
+msgid "No Paragraph Space"
+msgstr "Không giãn cách đoạn"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Không tìm thấy máy in. Hãy thiết lập máy in hệ thống hoặc xuất PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Không phản chiếu"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Không bóng đổ"
+
+msgid "No Soft Edges"
+msgstr "Không cạnh mềm"
+
+msgid "No sources yet."
+msgstr "Chưa có nguồn nào."
+
+msgid "No Spacing"
+msgstr "Không giãn cách"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Chưa cài từ điển chính tả cho {language}, nên ngôn ngữ này không được kiểm tra. WordCraft tìm từ điển Hunspell {name} trong thư mục WORDCRAFT_DICTIONARIES và ở các vị trí thông thường của hệ thống."
+
+msgid "No templates match your search."
+msgstr "Không có mẫu nào khớp với tìm kiếm của bạn."
+
+msgid "No Transform"
+msgstr "Không biến đổi"
+
+msgid "No watermark"
+msgstr "Không có hình mờ"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Chưa có từ nào. “Thêm vào từ điển” trên từ sai chính tả sẽ đưa từ đó vào đây."
+
+msgid "No-Width Non Break"
+msgstr "Không ngắt không độ rộng"
+
+msgid "No-Width Optional Break"
+msgstr "Ngắt tùy ý không độ rộng"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Gạch nối không ngắt dòng"
+
+msgid "Normal  {size} all"
+msgstr "Thường  {size} mọi cạnh"
+
+msgid "Normal Indent"
+msgstr "Thụt lề thường"
+
+msgid "Normal probability density"
+msgstr "Mật độ xác suất chuẩn"
+
+msgid "Normal speed"
+msgstr "Tốc độ bình thường"
+
+msgid "Normal Style"
+msgstr "Kiểu Thường"
+
+msgid "Normal Table"
+msgstr "Bảng thường"
+
+msgid "Normal Text"
+msgstr "Văn bản thường"
+
+msgid "Normal Word Document"
+msgstr "Tài liệu Word thông thường"
+
+msgid "North"
+msgstr "Bắc"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Tiếng Na Uy (Bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Tiếng Na Uy (Nynorsk)"
+
+msgid "Not"
+msgstr "Không"
+
+msgid "Not available right now"
+msgstr "Hiện không khả dụng"
+
+msgid "Not available yet"
+msgstr "Chưa khả dụng"
+
+msgid "not editing an equation"
+msgstr "không đang sửa phương trình nào"
+
+msgid "Not equal to"
+msgstr "Khác"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Chưa liên kết: nhấp vào một hộp văn bản"
+
+msgid "Not now"
+msgstr "Để sau"
+
+msgid "Not saved"
+msgstr "Chưa lưu"
+
+msgid "Not saved yet"
+msgstr "Chưa lưu"
+
+msgid "Not set"
+msgstr "Chưa đặt"
+
+msgid "Not set: the system's usual places"
+msgstr "Chưa đặt: các vị trí thông thường của hệ thống"
+
+msgid "Not used by any command"
+msgstr "Chưa gán cho lệnh nào"
+
+msgid "Not {name}"
+msgstr "Không phải {name}"
+
+msgid "Nothing"
+msgstr "Không có"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Chưa có mục nào được thu thập. Các mục bạn sao chép hoặc cắt sẽ xuất hiện ở đây."
+
+msgid "nothing is selected"
+msgstr "chưa chọn gì"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Hiện đã gán cho {command}"
+
+msgid "Nudge"
+msgstr "Dịch chuyển nhỏ"
+
+msgid "Num Occurrences"
+msgstr "Số lần xuất hiện"
+
+msgid "Number alignment:"
+msgstr "Căn lề số:"
+
+msgid "Number format"
+msgstr "Định dạng số"
+
+msgid "Number of columns:"
+msgstr "Số cột:"
+
+msgid "Number of rows:"
+msgstr "Số hàng:"
+
+msgid "Number of the page the field sits on"
+msgstr "Số thứ tự trang nơi trường này nằm"
+
+msgid "Number of the section the field sits in"
+msgstr "Số thứ tự phần nơi trường này nằm"
+
+msgid "Number only, without the label's words"
+msgstr "Chỉ số, không kèm chữ của nhãn"
+
+msgid "Number style for this level:"
+msgstr "Kiểu số cho cấp độ này:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Đánh số phương trình; số nằm ở lề phải (hoặc gõ # rồi gõ số)"
+
+msgid "Numbering"
+msgstr "Đánh số"
+
+msgid "Numbering:"
+msgstr "Đánh số:"
+
+msgid "Numbering…"
+msgstr "Đánh số…"
+
+msgid "Numerals"
+msgstr "Chữ số"
+
+msgid "Numerals:"
+msgstr "Chữ số:"
+
+msgid "n×n Identity Matrix"
+msgstr "Ma trận đơn vị n×n"
+
+msgid "n×n Matrix"
+msgstr "Ma trận n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Cột xen kẽ lẻ"
+
+msgid "Odd Banded Rows"
+msgstr "Hàng xen kẽ lẻ"
+
+msgid "Odd Page"
+msgstr "Trang lẻ"
+
+msgid "Office"
+msgstr "Văn phòng"
+
+msgid "Office 2003 Default"
+msgstr "Mặc định Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Độ lệch (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Độ lệch: dưới"
+
+msgid "Offset: Bottom Left"
+msgstr "Độ lệch: dưới bên trái"
+
+msgid "Offset: Bottom Right"
+msgstr "Độ lệch: dưới bên phải"
+
+msgid "Offset: Center"
+msgstr "Độ lệch: giữa"
+
+msgid "Offset: Left"
+msgstr "Độ lệch: trái"
+
+msgid "Offset: Right"
+msgstr "Độ lệch: phải"
+
+msgid "Offset: Top"
+msgstr "Độ lệch: trên"
+
+msgid "Offset: Top Left"
+msgstr "Độ lệch: trên bên trái"
+
+msgid "Offset: Top Right"
+msgstr "Độ lệch: trên bên phải"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Phím menu cũ: Alt, {keys}. Tiếp tục gõ hoặc nhấn Esc để hủy."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Bật: con trỏ văn bản lướt đến vị trí mới khi bạn gõ hoặc dùng phím mũi tên, và nhịp nhấp nháy mờ dần. Tắt: con trỏ nhảy đến vị trí mới và nhấp nháy bật tắt."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Bật: WordCraft mở ở Tệp › Trang chủ, với tài liệu trống, các mẫu và tài liệu gần đây của bạn. Tắt: WordCraft mở một tài liệu trống."
+
+msgid "One"
+msgstr "Một"
+
+msgid "One half"
+msgstr "Một phần hai"
+
+msgid "One label per recipient"
+msgstr "Một nhãn cho mỗi người nhận"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Mỗi mục một dòng. Nhấn Enter để thêm mục."
+
+msgid "One Page"
+msgstr "Một trang"
+
+msgid "One-sided"
+msgstr "In một mặt"
+
+msgid "Only allow this kind of editing:"
+msgstr "Chỉ cho phép kiểu chỉnh sửa sau:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Chỉ có thể thêm nhận xét, trừ các vùng được đánh dấu là có thể chỉnh sửa."
+
+msgid "Only for the selected text"
+msgstr "Chỉ cho văn bản được chọn"
+
+msgid "Only form fields can be filled in."
+msgstr "Chỉ có thể điền vào các trường biểu mẫu."
+
+msgid "only in Outline view"
+msgstr "chỉ trong dạng xem Dàn ý"
+
+msgid "Only in this document"
+msgstr "Chỉ trong tài liệu này"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Chỉ có thể áp dụng các kiểu được cho phép."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Chỉ mở được liên kết web (http, https) và email (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Hãy mở một tài liệu trước"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Mở tệp bằng trình duyệt tệp của WordCraft khi hộp thoại tệp của hệ thống không xuất hiện."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Tệp văn bản OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Đang mở hộp thoại in…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Từ nay, mở tệp .docx, .doc, .rtf, .odt và mẫu Word bằng WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Mở Cài đặt › Ứng dụng mặc định để chọn WordCraft cho .docx và các loại tài liệu khác."
+
+msgid "Operator"
+msgstr "Toán tử"
+
+msgid "Operator Structures"
+msgstr "Cấu trúc toán tử"
+
+msgid "Operators"
+msgstr "Toán tử"
+
+msgid "Optional Hyphen"
+msgstr "Gạch nối tùy chọn"
+
+msgid "Or"
+msgstr "Hoặc"
+
+msgid "Or save a copy in another format:"
+msgstr "Hoặc lưu bản sao ở định dạng khác:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Đổi số thứ tự (1st) thành chỉ số trên"
+
+msgid "Organizer"
+msgstr "Trình quản lý kiểu"
+
+msgid "Organizer…"
+msgstr "Trình quản lý kiểu…"
+
+msgid "Original document"
+msgstr "Tài liệu gốc"
+
+msgid "Original size"
+msgstr "Kích thước gốc"
+
+msgid "Other Large Operators"
+msgstr "Các toán tử lớn khác"
+
+msgid "Other styles and their TOC level:"
+msgstr "Các kiểu khác và cấp mục lục:"
+
+msgid "Other:"
+msgstr "Khác:"
+
+msgid "Otherwise insert:"
+msgstr "Nếu không thì chèn:"
+
+msgid "Outline Level"
+msgstr "Cấp dàn ý"
+
+msgid "Outline level"
+msgstr "Cấp dàn ý"
+
+msgid "Outline levels"
+msgstr "Các cấp dàn ý"
+
+msgid "Outline State"
+msgstr "Trạng thái dàn ý"
+
+msgid "Outline Tools"
+msgstr "Công cụ dàn ý"
+
+msgid "Outlining"
+msgstr "Lập dàn ý"
+
+msgid "Outside border"
+msgstr "Viền ngoài"
+
+msgid "Outside Borders"
+msgstr "Viền ngoài"
+
+msgid "Outside:"
+msgstr "Bên ngoài:"
+
+msgid "Outward Brackets"
+msgstr "Ngoặc vuông hướng ra ngoài"
+
+msgid "Overbar"
+msgstr "Gạch trên"
+
+msgid "Overbars and Underbars"
+msgstr "Gạch trên và gạch dưới"
+
+msgid "Overbrace"
+msgstr "Dấu ngoặc ôm trên"
+
+msgid "Overtype"
+msgstr "Gõ đè"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Gõ đè (gõ sẽ thay các ký tự sau con trỏ)"
+
+msgid "Page Background"
+msgstr "Nền trang"
+
+msgid "Page Border"
+msgstr "Viền trang"
+
+msgid "Page Borders"
+msgstr "Viền trang"
+
+msgid "Page Break"
+msgstr "Ngắt trang"
+
+msgid "Page Break Before"
+msgstr "Ngắt trang trước đoạn"
+
+msgid "Page break before"
+msgstr "Ngắt trang trước đoạn"
+
+msgid "Page Breaks"
+msgstr "Ngắt trang"
+
+msgid "Page Color"
+msgstr "Màu nền trang"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Hiển thị trang"
+
+msgid "Page Down"
+msgstr "Chuyển xuống một trang"
+
+msgid "Page image (*.png)"
+msgstr "Ảnh trang (*.png)"
+
+msgid "Page Movement"
+msgstr "Cách chuyển trang"
+
+msgid "Page Number"
+msgstr "Số trang"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Định dạng số trang"
+
+msgid "Page number style"
+msgstr "Định dạng số trang"
+
+msgid "Page numbering"
+msgstr "Đánh số trang"
+
+msgid "Page numbers at the right margin"
+msgstr "Số trang ở lề phải"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Trang chứa đoạn được gắn dấu trang"
+
+msgid "Page Setup"
+msgstr "Thiết lập trang"
+
+msgid "Page title"
+msgstr "Tiêu đề trang"
+
+msgid "Page Up"
+msgstr "Chuyển lên một trang"
+
+msgid "Page Width"
+msgstr "Độ rộng trang"
+
+msgid "Page width"
+msgstr "Độ rộng trang"
+
+msgid "Page X of Y"
+msgstr "Trang X trên Y"
+
+msgid "Page {page}"
+msgstr "Trang {page}"
+
+msgid "Page\nBorders"
+msgstr "Viền\ntrang"
+
+msgid "Page\nColor"
+msgstr "Màu nền\ntrang"
+
+msgid "Page\nNumber"
+msgstr "Số\ntrang"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Các trang như 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Trang của dấu trang:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Khổ giấy:"
+
+msgid "Paragraph Character"
+msgstr "Ký tự đoạn văn"
+
+msgid "Paragraph Details"
+msgstr "Chi tiết đoạn"
+
+msgid "Paragraph Down"
+msgstr "Đưa con trỏ xuống một đoạn"
+
+msgid "Paragraph Mark"
+msgstr "Ký hiệu đoạn"
+
+msgid "Paragraph marks"
+msgstr "Dấu đoạn"
+
+msgid "Paragraph Settings"
+msgstr "Thiết lập đoạn"
+
+msgid "Paragraph Spacing"
+msgstr "Khoảng cách đoạn"
+
+msgid "Paragraph style"
+msgstr "Kiểu đoạn"
+
+msgid "Paragraph Up"
+msgstr "Đưa con trỏ lên một đoạn"
+
+msgid "Paragraphs"
+msgstr "Các đoạn"
+
+msgid "Paragraph…"
+msgstr "Đoạn…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Dấu ngoặc đơn"
+
+msgid "Parentheses with Separator"
+msgstr "Dấu ngoặc đơn có dấu phân cách"
+
+msgid "Partial Differential"
+msgstr "Vi phân riêng"
+
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+msgid "Paste (⌘V)"
+msgstr "Dán (⌘V)"
+
+msgid "Paste All"
+msgstr "Dán tất cả"
+
+msgid "Paste as:"
+msgstr "Dán dưới dạng:"
+
+msgid "Paste Clipboard Item"
+msgstr "Dán mục bảng tạm"
+
+msgid "Paste Formatting"
+msgstr "Dán định dạng"
+
+msgid "Paste function:"
+msgstr "Dán hàm:"
+
+msgid "Paste Special…"
+msgstr "Dán đặc biệt…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Dán: chỉ giữ văn bản"
+
+msgid "Paste: Merge Formatting"
+msgstr "Dán: hợp nhất định dạng"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Dán ảnh từ bảng nhớ tạm."
+
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+msgid "PDF document (*.pdf)"
+msgstr "Tài liệu PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Bút"
+
+msgid "People"
+msgstr "Con người"
+
+msgid "Periodical"
+msgstr "Định kỳ"
+
+msgid "Persian"
+msgstr "Tiếng Ba Tư"
+
+msgid "Personal"
+msgstr "Cá nhân"
+
+msgid "Personal Templates"
+msgstr "Mẫu cá nhân"
+
+msgid "Personalize"
+msgstr "Cá nhân hóa"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Phonetic Guide"
+msgstr "Hướng dẫn phát âm"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi trên 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Chọn nhóm tự tạo (bấm Nhóm mới để tạo)"
+
+msgid "Pick a field from the list"
+msgstr "Chọn một trường từ danh sách."
+
+msgid "Picture"
+msgstr "Ảnh"
+
+msgid "Picture Border"
+msgstr "Viền ảnh"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Điều khiển nội dung ảnh"
+
+msgid "Picture Format"
+msgstr "Định dạng ảnh"
+
+msgid "Picture Styles"
+msgstr "Kiểu ảnh"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Hình mờ ảnh"
+
+msgid "Pictures"
+msgstr "Ảnh"
+
+msgid "Pie"
+msgstr "Biểu đồ tròn"
+
+msgid "Place in This Document"
+msgstr "Vị trí trong tài liệu này"
+
+msgid "Placeholder text"
+msgstr "Chữ giữ chỗ"
+
+msgid "Plain Table 1"
+msgstr "Bảng đơn giản 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Văn bản thuần (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Điều khiển nội dung văn bản thuần"
+
+msgid "Play/Pause"
+msgstr "Phát/Tạm dừng"
+
+msgid "Plus Equal"
+msgstr "Cộng bằng"
+
+msgid "Points and above"
+msgstr "điểm trở lên"
+
+msgid "Polish"
+msgstr "Tiếng Ba Lan"
+
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+msgid "Portuguese (Brazil)"
+msgstr "Tiếng Bồ Đào Nha (Brazil)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Tiếng Bồ Đào Nha (Bồ Đào Nha)"
+
+msgid "Possible spelling mistake"
+msgstr "Có thể sai chính tả"
+
+msgid "Postal Code"
+msgstr "Mã bưu chính"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Chuỗi lũy thừa của (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Độ rộng ưu tiên:"
+
+msgid "Preserve formatting during updates"
+msgstr "Giữ định dạng khi cập nhật"
+
+msgid "Preset gradients"
+msgstr "Chuyển màu đặt sẵn"
+
+msgid "Press a key combination"
+msgstr "Nhấn tổ hợp phím"
+
+msgid "Preview Results"
+msgstr "Xem thử kết quả"
+
+msgid "Preview\nResults"
+msgstr "Xem thử\nkết quả"
+
+msgid "Previous 1 or More"
+msgstr "Lặp mục trước một hoặc nhiều lần"
+
+msgid "Previous Comment"
+msgstr "Nhận xét trước đó"
+
+msgid "Previous Field"
+msgstr "Trường trước đó"
+
+msgid "Previous Record"
+msgstr "Bản ghi trước đó"
+
+msgid "Previous Section"
+msgstr "Phần trước đó"
+
+msgid "Previous Sentence"
+msgstr "Câu trước đó"
+
+msgid "Previous sentence"
+msgstr "Câu trước đó"
+
+msgid "Print Documents"
+msgstr "In tài liệu"
+
+msgid "Print Documents…"
+msgstr "In tài liệu…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "In thất bại: tiến trình in đã dừng."
+
+msgid "Print failed: {error}"
+msgstr "Không in được: {error}"
+
+msgid "Print job submitted."
+msgstr "Đã gửi lệnh in."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Đã gửi lệnh in: đã đưa {count} tờ vào hàng đợi"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Đã gửi lệnh in: {receipt}"
+
+msgid "Print Layout"
+msgstr "Bố cục in"
+
+msgid "Print Markup"
+msgstr "In kèm nhận xét và thay đổi được theo dõi"
+
+msgid "Print settings"
+msgstr "Cài đặt in"
+
+msgid "Print the page color"
+msgstr "In màu nền trang"
+
+msgid "Print to PDF"
+msgstr "In thành PDF"
+
+msgid "Print\nLayout"
+msgstr "Bố cục\nin"
+
+msgid "Printer default"
+msgstr "Mặc định của máy in"
+
+msgid "Printer discovery failed."
+msgstr "Không tìm được máy in."
+
+msgid "Privacy for this document"
+msgstr "Quyền riêng tư cho tài liệu này"
+
+msgid "Privacy Options"
+msgstr "Tùy chọn quyền riêng tư"
+
+msgid "Privacy Settings"
+msgstr "Cài đặt quyền riêng tư"
+
+msgid "Process"
+msgstr "Quy trình"
+
+msgid "Product"
+msgstr "Tích"
+
+msgid "Product of A"
+msgstr "Tích của A"
+
+msgid "Product with Limits"
+msgstr "Tích có cận"
+
+msgid "Product with Lower Limit"
+msgstr "Tích có cận dưới"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Tích có cận chỉ số dưới-trên"
+
+msgid "Products and Coproducts"
+msgstr "Tích và đối tích"
+
+msgid "Professional"
+msgstr "Chuyển sang dạng chuyên nghiệp"
+
+msgid "Promote"
+msgstr "Nâng lên"
+
+msgid "Promote to Heading 1"
+msgstr "Nâng lên thành Tiêu đề 1"
+
+msgid "Proofing"
+msgstr "Hiệu đính"
+
+msgid "Proofing Issues"
+msgstr "Lỗi cần hiệu đính"
+
+msgid "Proofing language"
+msgstr "Ngôn ngữ hiệu đính"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Bảo vệ tài liệu"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Nhà xuất bản"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Đặt con trỏ vào điều khiển nội dung trước."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Đưa lệnh mặc định về lại thanh công cụ truy cập nhanh?"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Quadratic Root"
+msgstr "Nghiệm bậc hai"
+
+msgid "Quick Access Toolbar"
+msgstr "Thanh công cụ truy cập nhanh"
+
+msgid "Quick Parts"
+msgstr "Thành phần nhanh"
+
+msgid "Quick Tables"
+msgstr "Bảng nhanh"
+
+msgid "Quote"
+msgstr "Trích dẫn"
+
+msgid "Radical"
+msgstr "Dấu căn"
+
+msgid "Radical with Degree"
+msgstr "Căn thức có bậc"
+
+msgid "Radicals"
+msgstr "Các căn thức"
+
+msgid "Raised/lowered"
+msgstr "Nâng lên/hạ xuống"
+
+msgid "Read Aloud"
+msgstr "Đọc to"
+
+msgid "Read Aloud Status"
+msgstr "Trạng thái đọc to"
+
+msgid "Read Mode"
+msgstr "Chế độ đọc"
+
+msgid "Read\nAloud"
+msgstr "Đọc\nto"
+
+msgid "Read\nMode"
+msgstr "Chế độ\nđọc"
+
+msgid "Reading"
+msgstr "Đọc"
+
+msgid "Reading Column Width"
+msgstr "Độ rộng cột khi đọc"
+
+msgid "Reading Highlight"
+msgstr "Làm nổi bật khi đọc"
+
+msgid "Reading Line Spacing"
+msgstr "Giãn dòng khi đọc"
+
+msgid "Reading Mode"
+msgstr "Chế độ đọc"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Tốc độ đọc"
+
+msgid "Reading Text Size"
+msgstr "Cỡ chữ khi đọc"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Đọc văn bản có định dạng từ bảng tạm và giữ nguyên định dạng."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Đọc nội dung web từ bảng tạm và giữ nguyên định dạng."
+
+msgid "Recent documents to show:"
+msgstr "Số tài liệu gần đây sẽ hiển thị:"
+
+msgid "Recently Used Fonts"
+msgstr "Phông chữ dùng gần đây"
+
+msgid "Recently used symbols:"
+msgstr "Ký hiệu dùng gần đây:"
+
+msgid "Recipient List"
+msgstr "Danh sách người nhận"
+
+msgid "Recipient lists"
+msgstr "Danh sách người nhận"
+
+msgid "Recipients: {count}"
+msgstr "Người nhận: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Tô màu lại ảnh đơn sắc, ví dụ như biểu tượng"
+
+msgid "Recolor Selected Ink"
+msgstr "Đổi màu mực đã chọn"
+
+msgid "Record Macro"
+msgstr "Ghi macro"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Khôi phục tài liệu chưa lưu"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Đỏ:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Giảm thụt lề treo"
+
+msgid "Reference type:"
+msgstr "Loại tham chiếu:"
+
+msgid "References"
+msgstr "Tham chiếu"
+
+msgid "Reflection"
+msgstr "Phản chiếu"
+
+msgid "Refresh printers"
+msgstr "Làm mới máy in"
+
+msgid "Region:"
+msgstr "Khu vực:"
+
+msgid "Registered"
+msgstr "Nhãn hiệu đã đăng ký"
+
+msgid "Registered Sign"
+msgstr "Ký hiệu đã đăng ký"
+
+msgid "Regular expressions"
+msgstr "Biểu thức chính quy"
+
+msgid "Reject"
+msgstr "Từ chối"
+
+msgid "Reject All Changes"
+msgstr "Từ chối mọi thay đổi"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Từ chối thay đổi"
+
+msgid "Relationship"
+msgstr "Mối quan hệ"
+
+msgid "Relative to original picture size"
+msgstr "So với kích thước gốc của ảnh"
+
+msgid "Remove Added Font"
+msgstr "Xóa phông chữ đã thêm"
+
+msgid "Remove condition"
+msgstr "Xóa điều kiện"
+
+msgid "Remove Content Control"
+msgstr "Gỡ điều khiển nội dung"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Xóa mọi phím tắt tự đặt và khôi phục phím mặc định?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Xóa mọi tab tự tạo và nhóm tự tạo, hiện lại mọi tab?"
+
+msgid "Remove field"
+msgstr "Gỡ trường"
+
+msgid "Remove Footer"
+msgstr "Gỡ chân trang"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Gỡ khỏi thanh công cụ truy cập nhanh"
+
+msgid "Remove gradient stop"
+msgstr "Xóa điểm dừng chuyển màu"
+
+msgid "Remove Header"
+msgstr "Gỡ đầu trang"
+
+msgid "Remove Hyperlink"
+msgstr "Gỡ siêu liên kết"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Gỡ tên tôi khỏi nhận xét, thay đổi và thuộc tính tệp khi lưu"
+
+msgid "Remove Password"
+msgstr "Gỡ mật khẩu"
+
+msgid "Remove Pen"
+msgstr "Gỡ bút"
+
+msgid "Remove recipient"
+msgstr "Gỡ người nhận"
+
+msgid "Remove row"
+msgstr "Gỡ hàng"
+
+msgid "Remove series"
+msgstr "Gỡ chuỗi"
+
+msgid "Remove Space After Paragraph"
+msgstr "Xóa khoảng cách sau đoạn"
+
+msgid "Remove Table of Contents"
+msgstr "Xóa mục lục"
+
+msgid "Remove the control once edited"
+msgstr "Gỡ điều khiển nội dung sau khi sửa"
+
+msgid "Remove the space before the punctuation"
+msgstr "Bỏ khoảng trắng trước dấu câu"
+
+msgid "Remove Watermark"
+msgstr "Xóa hình mờ"
+
+msgid "Rename Document"
+msgstr "Đổi tên tài liệu"
+
+msgid "Reopen"
+msgstr "Mở lại"
+
+msgid "Repeat as header row on each page"
+msgstr "Lặp lại làm hàng tiêu đề trên mỗi trang"
+
+msgid "Repeat Header Rows"
+msgstr "Lặp lại hàng tiêu đề"
+
+msgid "Repeating Section Content Control"
+msgstr "Điều khiển nội dung phần lặp lại"
+
+msgid "Replace All"
+msgstr "Thay thế tất cả"
+
+msgid "Replace as you type"
+msgstr "Thay thế khi nhập"
+
+msgid "Replace Document Text"
+msgstr "Thay toàn bộ văn bản tài liệu"
+
+msgid "Replace text as you type"
+msgstr "Thay thế văn bản khi nhập"
+
+msgid "Replace with:"
+msgstr "Thay bằng:"
+
+msgid "Replay"
+msgstr "Phát lại"
+
+msgid "Research"
+msgstr "Tra cứu"
+
+msgid "Researcher"
+msgstr "Công cụ tra cứu"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Trình nghiên cứu cần một dịch vụ trực tuyến; WordCraft giữ tài liệu của bạn ngoại tuyến."
+
+msgid "Reset All…"
+msgstr "Đặt lại tất cả…"
+
+msgid "Reset Character Formatting"
+msgstr "Đặt lại định dạng ký tự"
+
+msgid "Reset Crop"
+msgstr "Đặt lại cắt xén"
+
+msgid "Reset Default Formatting"
+msgstr "Đặt lại định dạng mặc định"
+
+msgid "Reset Graphic"
+msgstr "Đặt lại đồ họa"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Đặt lại định dạng đoạn"
+
+msgid "Reset Picture"
+msgstr "Đặt lại ảnh"
+
+msgid "Reset tips"
+msgstr "Đặt lại mẹo"
+
+msgid "Reset to Normal"
+msgstr "Đặt lại về kiểu Thường"
+
+msgid "Reset\nGraphic"
+msgstr "Đặt lại\nđồ họa"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Đổi cỡ bảng bằng cách kéo"
+
+msgid "Resolve"
+msgstr "Giải quyết"
+
+msgid "Resolved"
+msgstr "Đã giải quyết"
+
+msgid "Restart at 1"
+msgstr "Bắt đầu lại từ 1"
+
+msgid "Restart Each Page"
+msgstr "Đánh số lại từ đầu mỗi trang"
+
+msgid "Restart Each Section"
+msgstr "Đánh số lại từ đầu mỗi phần"
+
+msgid "Restart list after:"
+msgstr "Đánh số lại sau:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Hạn chế chỉnh sửa"
+
+msgid "Restrict\nEditing"
+msgstr "Hạn chế\nchỉnh sửa"
+
+msgid "Results"
+msgstr "Các kết quả"
+
+msgid "Return address labels"
+msgstr "Nhãn địa chỉ người gửi"
+
+msgid "Return address:"
+msgstr "Địa chỉ người gửi:"
+
+msgid "Reviewing"
+msgstr "Góp ý"
+
+msgid "Reviewing Pane"
+msgstr "Khung theo dõi thay đổi"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Góp ý — các chỉnh sửa trở thành đề xuất"
+
+msgid "Revised document"
+msgstr "Tài liệu đã chỉnh sửa"
+
+msgid "Rewind"
+msgstr "Tua lại"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Đang tua lại. Bảo tôi khi nào dừng nhé."
+
+msgid "Ribbon"
+msgstr "Ribbon"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Ribbon và thanh công cụ truy cập nhanh:"
+
+msgid "Ribbon tabs"
+msgstr "Các tab ribbon"
+
+msgid "Rich Text Content Control"
+msgstr "Điều khiển nội dung văn bản có định dạng"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Phải (dọc)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Mũi tên sang phải có chữ phía trên"
+
+msgid "Right Arrow with Text Below"
+msgstr "Mũi tên sang phải có chữ phía dưới"
+
+msgid "Right Border"
+msgstr "Viền bên phải"
+
+msgid "Right border"
+msgstr "Viền phải"
+
+msgid "Right Bracket Twice"
+msgstr "Ngoặc vuông phải kép"
+
+msgid "Right indent"
+msgstr "Thụt lề phải"
+
+msgid "Right Margin"
+msgstr "Lề phải"
+
+msgid "Right Only"
+msgstr "Chỉ bên phải"
+
+msgid "Right-to-left"
+msgstr "Từ phải sang trái"
+
+msgid "Right-to-Left Section"
+msgstr "Phần từ phải sang trái"
+
+msgid "Right-to-Left Table"
+msgstr "Bảng từ phải sang trái"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Hướng chữ từ phải sang trái"
+
+msgid "Rightwards Arrow Above"
+msgstr "Mũi tên hướng phải phía trên"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Mũi tên móc hướng phải phía trên"
+
+msgid "Romanian"
+msgstr "Tiếng Romania"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Các nghiệm của ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Xoay toàn bộ chữ 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Xoay toàn bộ chữ 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Xoay trái 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Xoay phải 90°"
+
+msgid "Rotate with shape"
+msgstr "Xoay cùng hình"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Hàng"
+
+msgid "Row:"
+msgstr "Hàng:"
+
+msgid "Rows & Columns"
+msgstr "Hàng & Cột"
+
+msgid "Ruby text:"
+msgstr "Chữ phiên âm:"
+
+msgid "Rules"
+msgstr "Quy tắc"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Liền đoạn"
+
+msgid "Russia"
+msgstr "Nga"
+
+msgid "Résumé"
+msgstr "CV"
+
+msgid "SAMPLE"
+msgstr "BẢN MẪU"
+
+msgid "Sat:"
+msgstr "Độ bão hòa:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Lưu một bản sao ở định dạng khác. Việc in sử dụng tệp PDF mà bạn có thể in bằng bất kỳ trình xem PDF nào."
+
+msgid "Save as Word Template…"
+msgstr "Lưu dưới dạng mẫu Word…"
+
+msgid "Save documents"
+msgstr "Lưu tài liệu"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Lưu tài liệu để bật Tự động lưu"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Lưu tài liệu để bật Tự động lưu (tệp bạn chỉ mới mở sẽ không bị ghi đè cho đến khi bạn lưu)"
+
+msgid "Save these pages as PDF…"
+msgstr "Lưu các trang này thành PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Đã lưu. Lại lưu. Vẫn lưu. Lưu kỹ lắm rồi."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Lưu một mẫu .dotx vào thư mục mẫu của bạn. Mẫu xuất hiện trong Tệp › Mới, mục Cá nhân."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Đã hủy lưu {name}, nên tài liệu vẫn mở và không mất gì."
+
+msgid "Sayings"
+msgstr "Lời bình"
+
+msgid "Sayings:"
+msgstr "Câu nói:"
+
+msgid "Scale Drawing"
+msgstr "Tỉ lệ bản vẽ"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Phân tán"
+
+msgid "Script"
+msgstr "Chỉ số"
+
+msgid "Scroll ribbon left"
+msgstr "Cuộn dải lệnh sang trái"
+
+msgid "Scroll ribbon right"
+msgstr "Cuộn dải lệnh sang phải"
+
+msgid "Search Commands"
+msgstr "Tìm lệnh"
+
+msgid "Search commands and help"
+msgstr "Tìm lệnh và trợ giúp"
+
+msgid "Search document"
+msgstr "Tìm trong tài liệu"
+
+msgid "Search for templates"
+msgstr "Tìm mẫu"
+
+msgid "Search icons"
+msgstr "Tìm biểu tượng"
+
+msgid "Search Options"
+msgstr "Tùy chọn tìm kiếm"
+
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+msgid "Secant Function"
+msgstr "Hàm sec"
+
+msgid "Section 1.01"
+msgstr "Mục 1.01"
+
+msgid "Section Break"
+msgstr "Ngắt phần"
+
+msgid "Section Breaks"
+msgstr "Ngắt phần"
+
+msgid "Section Character"
+msgstr "Ký tự phần"
+
+msgid "Section direction:"
+msgstr "Hướng phần:"
+
+msgid "Section Mark"
+msgstr "Ký hiệu phần"
+
+msgid "Section Properties"
+msgstr "Thuộc tính phần"
+
+msgid "Sections"
+msgstr "Các phần"
+
+msgid "See"
+msgstr "Xem"
+
+msgid "select a chart first"
+msgstr "hãy chọn một biểu đồ trước"
+
+msgid "select a connector first"
+msgstr "hãy chọn một đường nối trước"
+
+msgid "select a diagram first"
+msgstr "hãy chọn một sơ đồ trước"
+
+msgid "select a drawing canvas first"
+msgstr "hãy chọn một khung vẽ trước"
+
+msgid "select a floating picture or shape first"
+msgstr "hãy chọn một ảnh hoặc hình nổi trước"
+
+msgid "select a group first"
+msgstr "hãy chọn một nhóm trước"
+
+msgid "select a picture first"
+msgstr "hãy chọn một ảnh trước"
+
+msgid "Select a picture first."
+msgstr "Hãy chọn ảnh trước."
+
+msgid "select a picture or shape first"
+msgstr "hãy chọn một hình ảnh hoặc hình dạng trước"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Chọn ảnh, hình, biểu đồ hoặc bảng để mô tả."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Chọn máy in"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "hãy chọn một hình trước"
+
+msgid "select a shape or decorative text first"
+msgstr "hãy chọn một hình hoặc chữ trang trí trước"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Chọn một hình, hộp văn bản hoặc khung vẽ để định dạng phần tô."
+
+msgid "select a SmartArt graphic first"
+msgstr "hãy chọn một đồ họa SmartArt trước"
+
+msgid "select a text box first"
+msgstr "hãy chọn một hộp văn bản trước"
+
+msgid "select a text box linked to another first"
+msgstr "hãy chọn một hộp văn bản đã liên kết với hộp khác trước"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Chọn ô"
+
+msgid "Select Column"
+msgstr "Chọn cột"
+
+msgid "Select Heading and Content"
+msgstr "Chọn tiêu đề và nội dung"
+
+msgid "Select Line"
+msgstr "Chọn dòng"
+
+msgid "Select Paragraph"
+msgstr "Chọn đoạn"
+
+msgid "Select Picture…"
+msgstr "Chọn ảnh…"
+
+msgid "Select Range"
+msgstr "Chọn phạm vi"
+
+msgid "Select Recipients"
+msgstr "Chọn người nhận"
+
+msgid "select recipients first"
+msgstr "hãy chọn người nhận trước"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Chọn người nhận trước để chọn từ các trường của họ."
+
+msgid "Select recipients first to match their fields."
+msgstr "Chọn người nhận trước để khớp các trường của họ."
+
+msgid "Select Row"
+msgstr "Chọn hàng"
+
+msgid "Select Sentence"
+msgstr "Chọn câu"
+
+msgid "Select Table"
+msgstr "Chọn bảng"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Chọn ô trong bảng bằng cách bấm"
+
+msgid "Select Text"
+msgstr "Chọn văn bản"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Chọn văn bản có định dạng tương tự"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Chọn văn bản, rồi đánh dấu những người vẫn có thể chỉnh sửa văn bản đó."
+
+msgid "select two or more cells to merge"
+msgstr "hãy chọn hai ô trở lên để phối"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "chọn hai hoặc nhiều hình ảnh hoặc hình dạng (Shift+nhấp)"
+
+msgid "Select Word"
+msgstr "Chọn từ"
+
+msgid "Select\nRecipients"
+msgstr "Chọn\nngười nhận"
+
+msgid "Selected Fields"
+msgstr "Trường đã chọn"
+
+msgid "Selected text"
+msgstr "Văn bản đã chọn"
+
+msgid "Selection Pane"
+msgstr "Khung chọn đối tượng"
+
+msgid "Semitransparent"
+msgstr "Bán trong suốt"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Gửi tài liệu trực tiếp tới hộp thoại in của hệ thống, hoặc lưu bản sao ở định dạng khác bên dưới."
+
+msgid "Sentence"
+msgstr "Câu"
+
+msgid "Sentence case."
+msgstr "Viết hoa đầu câu."
+
+msgid "Separate text at"
+msgstr "Tách văn bản tại"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Dấu phân cách:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Tên dãy:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Tiếng Serbia (chữ Kirin)"
+
+msgid "Serbian (Latin)"
+msgstr "Tiếng Serbia (chữ Latin)"
+
+msgid "Series name"
+msgstr "Tên chuỗi"
+
+msgid "Series {n}"
+msgstr "Chuỗi {n}"
+
+msgid "Set As Default"
+msgstr "Đặt làm mặc định"
+
+msgid "Set as default"
+msgstr "Đặt làm mặc định"
+
+msgid "Set As Default (Font)"
+msgstr "Đặt làm mặc định (Phông chữ)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Đặt làm mặc định (Thiết lập trang)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Đặt làm mặc định (Đoạn)"
+
+msgid "Set as Default Language"
+msgstr "Đặt làm ngôn ngữ mặc định"
+
+msgid "Set Caret"
+msgstr "Đặt con trỏ"
+
+msgid "Set Character Formatting"
+msgstr "Đặt định dạng ký tự"
+
+msgid "Set Date"
+msgstr "Đặt ngày"
+
+msgid "Set Equation"
+msgstr "Đặt phương trình"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Đặt giá trị đánh số"
+
+msgid "Set Paragraph Formatting"
+msgstr "Đặt định dạng đoạn"
+
+msgid "Set Proofing Language…"
+msgstr "Đặt ngôn ngữ soát lỗi…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Thiết lập:"
+
+msgid "Shading"
+msgstr "Tô nền"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Bóng đổ, phát sáng và cạnh mềm"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Tô nền hình"
+
+msgid "Shape Format"
+msgstr "Định dạng hình"
+
+msgid "Shape Outline"
+msgstr "Viền hình"
+
+msgid "Shape Styles"
+msgstr "Kiểu hình"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Nhãn vận chuyển"
+
+msgid "Shortcut key:"
+msgstr "Phím tắt:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Hiện đường căn chỉnh khi di chuyển ảnh và hình"
+
+msgid "Show all formatting marks"
+msgstr "Hiện toàn bộ dấu định dạng"
+
+msgid "Show All Levels"
+msgstr "Hiện mọi cấp"
+
+msgid "Show all revisions inline"
+msgstr "Hiện mọi sửa đổi trong văn bản"
+
+msgid "Show changes at:"
+msgstr "Hiển thị thay đổi ở mức:"
+
+msgid "Show changes in:"
+msgstr "Hiển thị thay đổi trong:"
+
+msgid "Show Comments"
+msgstr "Hiện nhận xét"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Hiện tài liệu với màu đảo ngược như Xem › Chuyển chế độ. Việc lưu, in và xuất PDF không bị ảnh hưởng."
+
+msgid "Show every bibliography field"
+msgstr "Hiện mọi trường tài liệu tham khảo"
+
+msgid "Show First Line Only"
+msgstr "Chỉ hiện dòng đầu"
+
+msgid "Show in the Styles gallery"
+msgstr "Hiện trong thư viện kiểu"
+
+msgid "Show its list number"
+msgstr "Hiện số danh sách của nó"
+
+msgid "Show its number relative to this field"
+msgstr "Hiện số của nó tương đối với trường này"
+
+msgid "Show its number with all higher levels"
+msgstr "Hiện số của nó kèm mọi cấp cao hơn"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Hiện gợi ý phím (Alt hoặc F10)"
+
+msgid "Show Level"
+msgstr "Hiện cấp"
+
+msgid "Show Level 1"
+msgstr "Hiện cấp 1"
+
+msgid "Show Level 2"
+msgstr "Hiện dàn ý cấp 2"
+
+msgid "Show Level 3"
+msgstr "Hiện dàn ý cấp 3"
+
+msgid "Show Level 4"
+msgstr "Hiện dàn ý cấp 4"
+
+msgid "Show Level 5"
+msgstr "Hiện dàn ý cấp 5"
+
+msgid "Show Level 6"
+msgstr "Hiện dàn ý cấp 6"
+
+msgid "Show Level 7"
+msgstr "Hiện dàn ý cấp 7"
+
+msgid "Show Level 8"
+msgstr "Hiện dàn ý cấp 8"
+
+msgid "Show Level 9"
+msgstr "Hiện dàn ý cấp 9"
+
+msgid "Show Markup"
+msgstr "Hiện đánh dấu"
+
+msgid "Show Notes"
+msgstr "Hiện chú thích"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Chỉ hiện nhận xét và định dạng trong ô bên lề"
+
+msgid "Show only records that will be merged"
+msgstr "Chỉ hiện các bản ghi sẽ được phối"
+
+msgid "Show or Hide Style"
+msgstr "Hiện hoặc ẩn kiểu"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Hiện thanh công cụ truy cập nhanh"
+
+msgid "Show revisions in balloons"
+msgstr "Hiện các sửa đổi trong ô bên lề"
+
+msgid "Show Text Formatting"
+msgstr "Hiện định dạng văn bản"
+
+msgid "Show the Assistant"
+msgstr "Hiện trợ lý"
+
+msgid "Show the community button in the title bar"
+msgstr "Hiện nút cộng đồng trong thanh tiêu đề"
+
+msgid "Show the equation in the line of text"
+msgstr "Hiện phương trình chung dòng với văn bản"
+
+msgid "Show the equation on a line of its own"
+msgstr "Hiện phương trình trên dòng riêng"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Hiện thanh công cụ mini khi chọn chữ"
+
+msgid "Show the ribbon"
+msgstr "Hiện dải lệnh"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Hiện màn hình Bắt đầu khi khởi chạy WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Hiện lại các mẹo bạn đã yêu cầu ẩn."
+
+msgid "Show/Hide ¶"
+msgstr "Hiện/Ẩn ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Hiện/Ẩn ¶ ({key}) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn."
+
+msgid "Show\nComments"
+msgstr "Hiện\nnhận xét"
+
+msgid "Showing the first {count} items."
+msgstr "Đang hiển thị {count} mục đầu tiên."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Hiển thị dạng cây: mỗi mục nằm dưới mục mà nó thuộc về."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Hiển thị các mục quanh một ý tưởng trung tâm: mục đầu tiên nằm ở giữa."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Hiển thị các mục có vai trò ngang nhau thành các khối theo hàng."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Hiển thị các ý tưởng giao nhau bằng những vòng tròn giao nhau."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Hiển thị các phần của một tổng thể theo bốn góc phần tư."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Hiển thị các phần xếp chồng lên nhau, phần lớn nhất ở dưới cùng."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Hiển thị các bước theo thứ tự từ trái sang phải, với mũi tên ở giữa các bước."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Hiển thị các bước lặp lại, quanh một vòng tròn."
+
+msgid "Shrink Font 1 Point"
+msgstr "Giảm cỡ phông chữ 1 pt"
+
+msgid "Shrink text"
+msgstr "Thu nhỏ chữ"
+
+msgid "Side to Side"
+msgstr "Xem cạnh nhau"
+
+msgid "Side\nto Side"
+msgstr "Xem\ncạnh nhau"
+
+msgid "Sides of a right triangle"
+msgstr "Các cạnh của tam giác vuông"
+
+msgid "Signature Line"
+msgstr "Dòng chữ ký"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Chuỗi sin và côsin của f(x)"
+
+msgid "Sine Function"
+msgstr "Hàm sin"
+
+msgid "Sine theta"
+msgstr "Sin theta"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Đơn"
+
+msgid "Single Brackets"
+msgstr "Ngoặc một phía"
+
+msgid "Single Closing Quote"
+msgstr "Dấu nháy đơn đóng"
+
+msgid "Single label"
+msgstr "Nhãn đơn"
+
+msgid "Single Left Angle"
+msgstr "Ngoặc góc trái đơn"
+
+msgid "Single Left Bar"
+msgstr "Thanh dọc trái đơn"
+
+msgid "Single Left Brace"
+msgstr "Ngoặc nhọn trái đơn"
+
+msgid "Single Left Bracket"
+msgstr "Ngoặc vuông trái đơn"
+
+msgid "Single Left Parenthesis"
+msgstr "Ngoặc đơn trái đơn"
+
+msgid "Single Opening Quote"
+msgstr "Dấu nháy đơn mở"
+
+msgid "Single Right Brace"
+msgstr "Ngoặc nhọn phải đơn"
+
+msgid "Single Right Bracket"
+msgstr "Ngoặc vuông phải đơn"
+
+msgid "Single Right Parenthesis"
+msgstr "Ngoặc đơn phải đơn"
+
+msgid "Single Spacing"
+msgstr "Giãn dòng đơn"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Tên trang"
+
+msgid "Size (pt):"
+msgstr "Cỡ (pt):"
+
+msgid "Size and Crop…"
+msgstr "Cỡ và cắt xén…"
+
+msgid "Sketchbook"
+msgstr "Sketchbook"
+
+msgid "Skewed Fraction"
+msgstr "Phân số xiên"
+
+msgid "Skip citations & bibliography"
+msgstr "Bỏ qua trích dẫn và danh mục tham khảo"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Bỏ qua trích dẫn và danh mục tham khảo"
+
+msgid "Skip Record If"
+msgstr "Bỏ qua bản ghi nếu"
+
+msgid "Skip Record If…"
+msgstr "Bỏ qua bản ghi nếu…"
+
+msgid "Slant Down"
+msgstr "Nghiêng xuống"
+
+msgid "Slant Up"
+msgstr "Nghiêng lên"
+
+msgid "Slovak"
+msgstr "Tiếng Slovak"
+
+msgid "Slovenian"
+msgstr "Tiếng Slovenia"
+
+msgid "Small caps"
+msgstr "Chữ hoa nhỏ"
+
+msgid "Small change"
+msgstr "Thay đổi nhỏ"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Dùng dấu nháy cong thay dấu nháy thẳng"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "Thiết kế SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "Kiểu SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Cuộn và thu phóng mượt mà; menu và nút hiện dần. Khi tắt, mọi thay đổi hiện ra ngay lập tức."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Cạnh mềm"
+
+msgid "Soft Glow"
+msgstr "Phát sáng nhẹ"
+
+msgid "Solid Accent"
+msgstr "Màu nhấn đặc"
+
+msgid "Solid fill"
+msgstr "Tô đặc"
+
+msgid "Sometimes"
+msgstr "Thỉnh thoảng"
+
+msgid "Sort by:"
+msgstr "Sắp xếp theo:"
+
+msgid "Sort order:"
+msgstr "Thứ tự sắp xếp:"
+
+msgid "Sort Recipients"
+msgstr "Sắp xếp người nhận"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Mã nguồn: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Quản lý nguồn"
+
+msgid "Source type:"
+msgstr "Loại nguồn:"
+
+msgid "Sources in this document:"
+msgstr "Nguồn trong tài liệu này:"
+
+msgid "South"
+msgstr "Nam"
+
+msgid "South Africa"
+msgstr "Nam Phi"
+
+msgid "Space"
+msgstr "Dấu cách"
+
+msgid "Space after"
+msgstr "Khoảng cách sau"
+
+msgid "Space after: {pt} pt"
+msgstr "Khoảng cách sau: {pt} pt"
+
+msgid "Space before"
+msgstr "Khoảng cách trước"
+
+msgid "Space before/after:"
+msgstr "Khoảng cách trước/sau:"
+
+msgid "Space before: {pt} pt"
+msgstr "Khoảng cách trước: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Khoảng cách (pt):"
+
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Tiếng Tây Ban Nha (Mexico)"
+
+msgid "Spanish (Spain)"
+msgstr "Tiếng Tây Ban Nha (Tây Ban Nha)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Ma trận thưa"
+
+msgid "Special Characters"
+msgstr "Ký tự đặc biệt"
+
+msgid "Specify height:"
+msgstr "Chỉ định chiều cao:"
+
+msgid "Speech"
+msgstr "Giọng nói"
+
+msgid "Spelling & Grammar"
+msgstr "Chính tả & Ngữ pháp"
+
+msgid "Spelling &\nGrammar"
+msgstr "Chính tả &\nngữ pháp"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Ngôn ngữ soát chính tả và ngữ pháp: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Gợi ý chính tả"
+
+msgid "Spike"
+msgstr "Bộ gom"
+
+msgid "Split Cells"
+msgstr "Chia ô"
+
+msgid "Split Table"
+msgstr "Chia bảng"
+
+msgid "Spreadsheet Table"
+msgstr "Bảng tính"
+
+msgid "Square Root"
+msgstr "Căn bậc hai"
+
+msgid "Square Root with Degree"
+msgstr "Căn bậc hai có bậc"
+
+msgid "Square Union"
+msgstr "Hợp vuông"
+
+msgid "Stack Object"
+msgstr "Đối tượng xếp chồng"
+
+msgid "Stack Object (Three)"
+msgstr "Đối tượng xếp chồng ba"
+
+msgid "Stacked Bar"
+msgstr "Thanh xếp chồng"
+
+msgid "Stacked Column"
+msgstr "Cột xếp chồng"
+
+msgid "Stacked Fraction"
+msgstr "Phân số xếp chồng"
+
+msgid "Stacked, no bar"
+msgstr "Xếp chồng không gạch"
+
+msgid "Standard Colors"
+msgstr "Màu chuẩn"
+
+msgid "Start Enforcing Protection"
+msgstr "Bắt đầu áp dụng bảo vệ"
+
+msgid "Start Mail Merge"
+msgstr "Bắt đầu trộn thư"
+
+msgid "Start Mail\nMerge"
+msgstr "Bắt đầu\ntrộn thư"
+
+msgid "Start-up"
+msgstr "Khởi động"
+
+msgid "State"
+msgstr "Tiểu bang"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Giấy Statement 5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Còn đó không? Tôi nghe thấy bạn đang suy nghĩ đấy."
+
+msgid "Stop Protection"
+msgstr "Ngừng bảo vệ"
+
+msgid "Stop Reading"
+msgstr "Dừng đọc"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Đã dừng"
+
+msgid "Straight Arrow Connector"
+msgstr "Đường nối thẳng có mũi tên"
+
+msgid "Straight Connector"
+msgstr "Đường nối thẳng"
+
+msgid "Stroke {n} of {total}"
+msgstr "Nét {n} trên tổng số {total}"
+
+msgid "Strong"
+msgstr "Đậm"
+
+msgid "Structure Actions"
+msgstr "Thao tác cấu trúc"
+
+msgid "Structures"
+msgstr "Cấu trúc"
+
+msgid "Studio cover"
+msgstr "Bìa Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Sổ tay Studio (mẫu)"
+
+msgid "Style based on:"
+msgstr "Kiểu dựa trên:"
+
+msgid "Style Inspector"
+msgstr "Trình kiểm tra kiểu"
+
+msgid "Style name:"
+msgstr "Tên kiểu:"
+
+msgid "Style Set"
+msgstr "Bộ kiểu"
+
+msgid "Style: APA"
+msgstr "Kiểu: APA"
+
+msgid "Style: {style}"
+msgstr "Kiểu: {style}"
+
+msgid "Styles Pane"
+msgstr "Khung kiểu"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Kiểu:"
+
+msgid "Subentry:"
+msgstr "Mục phụ:"
+
+msgid "Submit print job"
+msgstr "Gửi lệnh in"
+
+msgid "Submitting print job…"
+msgstr "Đang gửi lệnh in…"
+
+msgid "Subscript-Superscript"
+msgstr "Chỉ số dưới-trên"
+
+msgid "Subscripts and Superscripts"
+msgstr "Chỉ số dưới và chỉ số trên"
+
+msgid "Subset:"
+msgstr "Tập con:"
+
+msgid "Subtle Emphasis"
+msgstr "Nhấn mạnh nhẹ"
+
+msgid "Subtle Reference"
+msgstr "Tham chiếu nhẹ"
+
+msgid "Suggested"
+msgstr "Đề xuất"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Tổng"
+
+msgid "Sum of cosines"
+msgstr "Tổng các côsin"
+
+msgid "Sum or difference of sines"
+msgstr "Tổng hoặc hiệu các sin"
+
+msgid "Summation"
+msgstr "Phép tính tổng"
+
+msgid "Summation from 0 to n"
+msgstr "Tổng từ 0 đến n"
+
+msgid "Summation over binomials"
+msgstr "Tổng các hệ số nhị thức"
+
+msgid "Summation with Limits"
+msgstr "Tổng có cận"
+
+msgid "Summation with Lower Limit"
+msgstr "Tổng có cận dưới"
+
+msgid "Summation with Subscript Limit"
+msgstr "Tổng có cận chỉ số dưới"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Tổng có cận chỉ số dưới-trên"
+
+msgid "Summations"
+msgstr "Các phép tính tổng"
+
+msgid "Suppress line numbers"
+msgstr "Không đánh số dòng"
+
+msgid "Surface Integral"
+msgstr "Tích phân mặt"
+
+msgid "Surface Integral with Limits"
+msgstr "Tích phân mặt có cận"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Tích phân mặt có cận xếp chồng"
+
+msgid "Swahili"
+msgstr "Tiếng Swahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Đổi chỗ chú thích chân trang và chú thích cuối tài liệu"
+
+msgid "Swedish"
+msgstr "Tiếng Thụy Điển"
+
+msgid "Switch Modes"
+msgstr "Chuyển chế độ"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Chuyển\nchế độ"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+msgid "Synonyms"
+msgstr "Từ đồng nghĩa"
+
+msgid "Syria"
+msgstr "Syria"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Từ điển hệ thống"
+
+msgid "Tab Character"
+msgstr "Ký tự tab"
+
+msgid "Tab character"
+msgstr "Ký tự tab"
+
+msgid "Tab characters"
+msgstr "Ký tự tab"
+
+msgid "Tab leader:"
+msgstr "Ký tự dẫn tab:"
+
+msgid "Tab stop position:"
+msgstr "Vị trí mốc tab:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Mốc tab cần xóa:"
+
+msgid "Table Column Width"
+msgstr "Độ rộng cột bảng"
+
+msgid "Table Design"
+msgstr "Thiết kế bảng"
+
+msgid "Table direction:"
+msgstr "Hướng bảng:"
+
+msgid "Table Grid"
+msgstr "Lưới bảng"
+
+msgid "Table Layout"
+msgstr "Bố trí bảng"
+
+msgid "Table of Authorities"
+msgstr "Bảng dẫn nguồn"
+
+msgid "Table of Contents"
+msgstr "Mục lục"
+
+msgid "Table of Contents Options"
+msgstr "Tùy chọn mục lục"
+
+msgid "Table of Contents Styles"
+msgstr "Kiểu mục lục"
+
+msgid "Table of Figures"
+msgstr "Danh mục hình"
+
+msgid "Table of\nContents"
+msgstr "Mục\nlục"
+
+msgid "Table Properties"
+msgstr "Thuộc tính bảng"
+
+msgid "Table Properties…"
+msgstr "Thuộc tính bảng…"
+
+msgid "Table Row Height"
+msgstr "Chiều cao hàng trong bảng"
+
+msgid "Table size"
+msgstr "Kích thước bảng"
+
+msgid "Table Style Options"
+msgstr "Tùy chọn kiểu bảng"
+
+msgid "Table Styles"
+msgstr "Các kiểu bảng"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Giấy Tabloid 11.00\" × 17.00\""
+
+msgid "Tabs…"
+msgstr "Mốc tab…"
+
+msgid "Tabular List"
+msgstr "Danh sách dạng bảng"
+
+msgid "Tag"
+msgstr "Thẻ"
+
+msgid "Taiwan"
+msgstr "Đài Loan"
+
+msgid "Take the last match on the page"
+msgstr "Lấy kết quả khớp cuối cùng trên trang"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Cứ từ từ. Trang giấy không chạy đi đâu cả. Tôi cũng vậy. Không bao giờ."
+
+msgid "Tamil"
+msgstr "Tiếng Tamil"
+
+msgid "Tangent formula"
+msgstr "Công thức tang"
+
+msgid "Tangent Function"
+msgstr "Hàm tang"
+
+msgid "TC entry fields"
+msgstr "Trường mục TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Công nghệ"
+
+msgid "Templates and Add-ins"
+msgstr "Mẫu và phần bổ trợ"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Các mẫu bạn lưu vào thư mục mẫu sẽ xuất hiện ở đây."
+
+msgid "Text Box"
+msgstr "Hộp văn bản"
+
+msgid "Text boxes"
+msgstr "Hộp văn bản"
+
+msgid "text boxes can't go inside a text box"
+msgstr "không thể đặt hộp văn bản vào trong hộp văn bản"
+
+msgid "Text Direction"
+msgstr "Hướng văn bản"
+
+msgid "Text Effects"
+msgstr "Hiệu ứng chữ"
+
+msgid "Text Effects and Typography"
+msgstr "Hiệu ứng chữ và kiểu chữ"
+
+msgid "Text Fill"
+msgstr "Tô chữ"
+
+msgid "Text from File"
+msgstr "Văn bản từ tệp"
+
+msgid "Text Highlight Color"
+msgstr "Màu tô sáng chữ"
+
+msgid "Text indent at:"
+msgstr "Vị trí thụt lề văn bản:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Văn bản của đoạn gần nhất có kiểu đã cho (đầu trang chạy)"
+
+msgid "Text Outline"
+msgstr "Viền chữ"
+
+msgid "Text over Colon Equal"
+msgstr "Chữ trên hai chấm bằng"
+
+msgid "Text over Equal"
+msgstr "Chữ trên dấu bằng"
+
+msgid "Text Pane"
+msgstr "Ngăn văn bản"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Cỡ chữ"
+
+msgid "Text snaps to characters"
+msgstr "Văn bản căn theo ký tự"
+
+msgid "Text to display:"
+msgstr "Văn bản hiển thị:"
+
+msgid "Text watermark"
+msgstr "Hình mờ văn bản"
+
+msgid "Text Wrapping"
+msgstr "Ngắt dòng văn bản"
+
+msgid "Text\nBox"
+msgstr "Hộp\nvăn bản"
+
+msgid "Text\nDirection"
+msgstr "Hướng\nvăn bản"
+
+msgid "Thai"
+msgstr "Tiếng Thái"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Định dạng đó không giữ được toàn bộ thông tin của tài liệu, nên tài liệu vẫn mở. Hãy lưu dưới dạng tài liệu Word (.docx) để tiếp tục."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Mật khẩu chưa đúng. Hãy kiểm tra lại (mật khẩu phân biệt chữ hoa, chữ thường) rồi thử lại."
+
+msgid "The clipboard is empty."
+msgstr "Bảng tạm đang trống."
+
+msgid "the Clipboard pane is empty"
+msgstr "ngăn Bảng tạm đang trống"
+
+msgid "the cursor isn't in a table"
+msgstr "con trỏ không nằm trong bảng"
+
+msgid "The date it is today"
+msgstr "Ngày hôm nay"
+
+msgid "The document has no bookmarks yet."
+msgstr "Tài liệu chưa có dấu trang."
+
+msgid "the document is protected"
+msgstr "tài liệu đang được bảo vệ"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Tài liệu ở chế độ chỉ đọc, trừ các vùng được đánh dấu là có thể chỉnh sửa."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Tài liệu sẽ được lưu kèm mật khẩu. Hãy lưu lại để bảo vệ tài liệu."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Tài liệu bạn đang sửa vẫn giữ tên và ngày giờ; chỉ tệp được lưu là bỏ chúng đi."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Lề không vừa với trang có kích thước này; hãy thu nhỏ lề trước."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Số đo phải nằm trong khoảng từ {min} đến {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Kiểu mới sẽ lấy định dạng của đoạn hiện tại."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Không đọc được mẫu Thường, nên tài liệu này dùng định dạng tích hợp sẵn của WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Số phải nằm trong khoảng từ 1 đến {max}."
+
+msgid "the paragraph is empty"
+msgstr "đoạn văn trống"
+
+msgid "the paragraph starts with a space"
+msgstr "đoạn văn bắt đầu bằng dấu cách"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Mật khẩu là tùy chọn; nếu không có mật khẩu, bất kỳ ai cũng có thể ngừng bảo vệ."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Đã gỡ mật khẩu. Hãy lưu tài liệu để giữ lại thay đổi này."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Máy in, in hai mặt và số trang trên mỗi tờ được chọn trong hộp thoại đó."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Trường danh sách người nhận điền vào từng phần của khối địa chỉ và dòng chào hỏi."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Đã soát xong chính tả và ngữ pháp."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "bộ gom đang trống"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Hộp thoại tệp của hệ thống không khả dụng, nên WordCraft hiển thị hộp thoại riêng. Để dùng hộp thoại của hệ thống, hãy cài đặt cổng chọn tệp (như xdg-desktop-portal-gtk) hoặc zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Văn bản tại điểm chèn được đánh dấu: Không kiểm tra chính tả hoặc ngữ pháp."
+
+msgid "The time right now"
+msgstr "Giờ hiện tại"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Màu chủ đề"
+
+msgid "Theme Fonts"
+msgstr "Phông chữ chủ đề"
+
+msgid "Theme List"
+msgstr "Danh sách chủ đề"
+
+msgid "Themes"
+msgstr "Chủ đề"
+
+msgid "Then by"
+msgstr "Sau đó theo"
+
+msgid "Then insert:"
+msgstr "Thì chèn:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "không có nét mực nào để phát lại"
+
+msgid "there is nothing to undo"
+msgstr "không có gì để hoàn tác"
+
+msgid "there's no citation after the caret"
+msgstr "không có trích dẫn nào sau dấu nháy"
+
+msgid "Thesaurus"
+msgstr "Từ điển đồng nghĩa"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Các dấu này vẫn hiện cả khi đã tắt Hiện/Ẩn ¶."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Các trường trộn này không nằm trong danh sách người nhận:"
+
+msgid "These settings will be used for new documents."
+msgstr "Các thiết đặt này sẽ được dùng cho tài liệu mới."
+
+msgid "Thick"
+msgstr "Dày"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "biểu đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được"
+
+msgid "this diagram can't be edited"
+msgstr "không thể chỉnh sửa sơ đồ này"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "sơ đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không thể chỉnh sửa"
+
+msgid "This document"
+msgstr "Tài liệu này"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Chỉ tài liệu này?"
+
+msgid "This field has no options."
+msgstr "Trường này không có tùy chọn nào."
+
+msgid "This folder can't be read: {error}"
+msgstr "Không thể đọc thư mục này: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Phông chữ này không có ký tự nào để hiển thị."
+
+msgid "this item is already at the top level"
+msgstr "mục này đã ở cấp cao nhất"
+
+msgid "This page"
+msgstr "Trang này"
+
+msgid "This password type isn't supported."
+msgstr "Loại mật khẩu này không được hỗ trợ."
+
+msgid "This point forward"
+msgstr "Từ đây trở đi"
+
+msgid "This section"
+msgstr "Phần này"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn): hãy dùng \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "SmartArt này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được"
+
+msgid "this text box is already linked: break the link first"
+msgstr "hộp văn bản này đã được liên kết: hãy ngắt liên kết trước"
+
+msgid "Three"
+msgstr "Ba"
+
+msgid "Through"
+msgstr "Xuyên qua"
+
+msgid "Tight"
+msgstr "Khít"
+
+msgid "Tilde"
+msgstr "Dấu ngã"
+
+msgid "Tip"
+msgstr "Mẹo"
+
+msgid "Tips ({n})"
+msgstr "Mẹo ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr "Thanh tiêu đề"
+
+msgid "Title from the document properties"
+msgstr "Tiêu đề trong thuộc tính tài liệu"
+
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Để mở tài liệu Word bằng WordCraft theo mặc định: chọn một tài liệu trong Finder, chọn Tệp › Lấy thông tin, chọn WordCraft ở mục Mở bằng, rồi nhấp Thay đổi tất cả."
+
+msgid "To:"
+msgstr "Đến:"
+
+msgid "TOA Heading"
+msgstr "Tiêu đề bảng thẩm quyền"
+
+msgid "TOC Heading"
+msgstr "Tiêu đề mục lục"
+
+msgid "TOC {n}"
+msgstr "Mục lục {n}"
+
+msgid "Today"
+msgstr "Hôm nay"
+
+msgid "tOGGLE cASE"
+msgstr "đẢO hOA tHƯỜNG"
+
+msgid "Toggle Check Box"
+msgstr "Bật/tắt hộp kiểm"
+
+msgid "Toggle Field Codes"
+msgstr "Bật/tắt mã trường"
+
+msgid "Toggle Unicode Character"
+msgstr "Chuyển đổi ký tự Unicode"
+
+msgid "Top and Bottom"
+msgstr "Trên và dưới"
+
+msgid "Top Border"
+msgstr "Viền trên"
+
+msgid "Top Left Cell"
+msgstr "Ô trên cùng bên trái"
+
+msgid "Top Margin"
+msgstr "Lề trên"
+
+msgid "Top of Page"
+msgstr "Đầu trang"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Ô trên cùng bên phải"
+
+msgid "Total Row"
+msgstr "Hàng tổng"
+
+msgid "Track Changes"
+msgstr "Theo dõi thay đổi"
+
+msgid "Track Changes Options"
+msgstr "Tùy chọn theo dõi thay đổi"
+
+msgid "Track Changes: On"
+msgstr "Theo dõi thay đổi: Bật"
+
+msgid "Track formatting"
+msgstr "Theo dõi thay đổi định dạng"
+
+msgid "Track\nChanges"
+msgstr "Theo dõi\nthay đổi"
+
+msgid "Track\nChanges ✓"
+msgstr "Theo dõi\nthay đổi ✓"
+
+msgid "Tracked changes"
+msgstr "Các thay đổi được theo dõi"
+
+msgid "Trademark"
+msgstr "Nhãn hiệu"
+
+msgid "Trademark Sign"
+msgstr "Ký hiệu nhãn hiệu"
+
+msgid "Transparency:"
+msgstr "Độ trong suốt:"
+
+msgid "Transport"
+msgstr "Giao thông"
+
+msgid "Triangle Down"
+msgstr "Tam giác xuống"
+
+msgid "Triangle Up"
+msgstr "Tam giác lên"
+
+msgid "Trigonometric Functions"
+msgstr "Hàm lượng giác"
+
+msgid "Triple"
+msgstr "Nét ba"
+
+msgid "Triple Dot"
+msgstr "Dấu chấm ba"
+
+msgid "Triple Integral"
+msgstr "Tích phân ba lớp"
+
+msgid "Triple Integral with Limits"
+msgstr "Tích phân ba lớp có cận"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Tích phân ba lớp có cận trên/dưới ký hiệu"
+
+msgid "Trust Center"
+msgstr "Trung tâm tin cậy"
+
+msgid "Tue"
+msgstr "T3"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Hai"
+
+msgid "Two-sided printing"
+msgstr "In hai mặt"
+
+msgid "Two-sided: long edge"
+msgstr "Hai mặt: cạnh dài"
+
+msgid "Two-sided: short edge"
+msgstr "Hai mặt: cạnh ngắn"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Nhập +2 hoặc -1 để di chuyển từ trang hiện tại."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Nhập lệnh, ví dụ \"chèn bảng\""
+
+msgid "Type a New List…"
+msgstr "Nhập danh sách mới…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Nhập số trang, hoặc +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Nhập kích thước theo đơn vị bất kỳ, ví dụ 5 cm hoặc 300 px. Cạnh còn lại thay đổi theo, nên ảnh giữ nguyên tỷ lệ."
+
+msgid "Type at least one recipient."
+msgstr "Nhập ít nhất một người nhận."
+
+msgid "Type Character Code"
+msgstr "Nhập mã ký tự"
+
+msgid "Type equations in LaTeX"
+msgstr "Gõ phương trình bằng LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Gõ phương trình theo dạng tuyến tính (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Gõ trong phương trình"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Gõ văn bản thường (không phải toán) trong phương trình"
+
+msgid "Type Text"
+msgstr "Nhập văn bản"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Nhập các hạng mục dọc theo cột bên, mỗi chuỗi một cột số liệu."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Nhập tên trường và tham số, ví dụ PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Nhập mật khẩu để ngừng bảo vệ."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Nhập người nhận, hoặc tải từ tệp."
+
+msgid "Typing replaces selected text"
+msgstr "Gõ sẽ thay thế văn bản đã chọn"
+
+msgid "U.A.E."
+msgstr "Các Tiểu vương quốc Ả Rập Thống nhất"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Ukrainian"
+msgstr "Tiếng Ukraina"
+
+msgid "Unchecked symbol"
+msgstr "Ký hiệu chưa chọn"
+
+msgid "Underbar"
+msgstr "Gạch dưới"
+
+msgid "Underbrace"
+msgstr "Dấu ngoặc nhọn phía dưới"
+
+msgid "Underline Color"
+msgstr "Màu gạch chân"
+
+msgid "Underline color"
+msgstr "Màu gạch chân"
+
+msgid "Underline Words Only"
+msgstr "Chỉ gạch chân từng từ"
+
+msgid "Undo 1 Action"
+msgstr "Hoàn tác 1 thao tác"
+
+msgid "Undo Actions"
+msgstr "Hoàn tác các thao tác"
+
+msgid "Undo History"
+msgstr "Lịch sử hoàn tác"
+
+msgid "Undo {n} Actions"
+msgstr "Hoàn tác {n} thao tác"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Hoàn tác, hoàn tác, hoàn tác… giờ chúng ta đang du hành thời gian."
+
+msgid "Unformatted Text"
+msgstr "Văn bản không định dạng"
+
+msgid "Union of intersections"
+msgstr "Phép hợp của các phép giao"
+
+msgid "Union with Limits"
+msgstr "Phép hợp có cận trên/dưới ký hiệu"
+
+msgid "Union with Lower Limit"
+msgstr "Phép hợp có cận dưới ký hiệu"
+
+msgid "Union with Plus"
+msgstr "Phép hợp có dấu cộng"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Phép hợp có cận dạng chỉ số dưới/trên"
+
+msgid "Unions and Intersections"
+msgstr "Các phép hợp và giao"
+
+msgid "United Kingdom"
+msgstr "Vương quốc Anh"
+
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "kiểu chữ trang trí không xác định `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Gỡ liên kết trường"
+
+msgid "Unlink\nCitations"
+msgstr "Gỡ liên kết\ntrích dẫn"
+
+msgid "Unlock Fields"
+msgstr "Mở khóa trường"
+
+msgid "Up Diagonal Dots"
+msgstr "Dấu ba chấm chéo lên"
+
+msgid "Up one level"
+msgstr "Lên một cấp"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Cập nhật trường"
+
+msgid "Update fields before printing"
+msgstr "Cập nhật trường trước khi in"
+
+msgid "Update Index"
+msgstr "Cập nhật chỉ mục"
+
+msgid "Update Style to Match Selection"
+msgstr "Cập nhật kiểu theo vùng chọn"
+
+msgid "Update Styles from Template"
+msgstr "Cập nhật kiểu từ mẫu"
+
+msgid "Update Table"
+msgstr "Cập nhật bảng"
+
+msgid "Update Table of Figures"
+msgstr "Cập nhật danh mục hình"
+
+msgid "Update to Match"
+msgstr "Cập nhật theo vùng chọn"
+
+msgid "Update to Match Selection"
+msgstr "Cập nhật theo vùng chọn"
+
+msgid "URGENT"
+msgstr "KHẨN"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Dùng \"a\" trước phụ âm"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Dùng \"an\" trước nguyên âm"
+
+msgid "Use an Existing List…"
+msgstr "Dùng danh sách hiện có…"
+
+msgid "Use system setting"
+msgstr "Dùng theo hệ thống"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Dùng chế độ toàn màn hình của trình duyệt (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Dùng bộ kiểu và chủ đề hiện tại cho mọi tài liệu mới?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Dùng phím Insert để bật/tắt gõ đè"
+
+msgid "Use this formatting as the default for:"
+msgstr "Dùng định dạng này làm mặc định cho:"
+
+msgid "Use wildcards"
+msgstr "Dùng ký tự đại diện"
+
+msgid "User Name"
+msgstr "Tên người dùng"
+
+msgid "User name:"
+msgstr "Tên người dùng:"
+
+msgid "User templates:"
+msgstr "Mẫu người dùng:"
+
+msgid "Vector A"
+msgstr "Vectơ A"
+
+msgid "Vector AB"
+msgstr "Vectơ AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Lịch sử phiên bản"
+
+msgid "Version {version} ({build})"
+msgstr "Phiên bản {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Căn chỉnh dọc:"
+
+msgid "Vertical Bars"
+msgstr "Dấu gạch dọc"
+
+msgid "Vertical Dots"
+msgstr "Dấu ba chấm dọc"
+
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+msgid "View Alt Text…"
+msgstr "Xem văn bản thay thế…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Hiện đường lưới bảng"
+
+msgid "View State"
+msgstr "Trạng thái hiển thị"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Xem › Tập trung ẩn mọi thứ trừ câu chữ của bạn. Tôi sẽ đợi bên ngoài."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Các chế độ xem"
+
+msgid "Visual effects"
+msgstr "Hiệu ứng hình ảnh"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Tập"
+
+msgid "Volume Integral"
+msgstr "Tích phân thể tích"
+
+msgid "Volume Integral with Limits"
+msgstr "Tích phân thể tích có cận bên cạnh"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Tích phân thể tích có cận trên/dưới ký hiệu"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Hãy chờ lệnh in được gửi xong rồi mới đóng."
+
+msgid "Waiting for the save to finish…"
+msgstr "Đang chờ lưu xong…"
+
+msgid "Waiting for Zotero…"
+msgstr "Đang chờ Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Chuyển sắc ấm có viền"
+
+msgid "Warnings ({n})"
+msgstr "Cảnh báo ({n})"
+
+msgid "Washout"
+msgstr "Nhạt màu"
+
+msgid "Weather"
+msgstr "Thời tiết"
+
+msgid "Web Layout"
+msgstr "Bố cục web"
+
+msgid "Web page (*.html)"
+msgstr "Trang web (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Bố cục\nweb"
+
+msgid "Wed"
+msgstr "T4"
+
+msgid "Welsh"
+msgstr "Tiếng Wales"
+
+msgid "West"
+msgstr "Tây"
+
+msgid "When this document was first created"
+msgstr "Ngày tạo tài liệu"
+
+msgid "When this document was most recently printed"
+msgstr "Ngày in gần nhất"
+
+msgid "When this document was most recently saved"
+msgstr "Ngày lưu gần nhất"
+
+msgid "White Space"
+msgstr "Khoảng trắng"
+
+msgid "White space"
+msgstr "Khoảng trắng"
+
+msgid "Who the document properties name as author"
+msgstr "Tác giả trong thuộc tính tài liệu"
+
+msgid "Whole document"
+msgstr "Toàn bộ tài liệu"
+
+msgid "Whole page"
+msgstr "Cả trang"
+
+msgid "Whole Table"
+msgstr "Cả bảng"
+
+msgid "Whole words"
+msgstr "Chỉ tìm nguyên từ"
+
+msgid "Wide"
+msgstr "Rộng"
+
+msgid "Widow/Orphan Control"
+msgstr "Tránh dòng đơn lẻ ở đầu/cuối trang"
+
+msgid "Widow/Orphan control"
+msgstr "Tránh dòng đơn lẻ ở đầu/cuối trang"
+
+msgid "Width and spacing"
+msgstr "Chiều rộng và khoảng cách"
+
+msgid "Wildcards (regex)"
+msgstr "Ký tự đại diện (regex)"
+
+msgid "With:"
+msgstr "Bằng:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Tài liệu XML Word 2003 (*.xml)"
+
+msgid "Word Count"
+msgstr "Đếm từ"
+
+msgid "Word document"
+msgstr "Tài liệu Word"
+
+msgid "Word document (*.docx)"
+msgstr "Tài liệu Word (*.docx)"
+
+msgid "Word Left"
+msgstr "Đưa con trỏ sang trái một từ"
+
+msgid "Word level"
+msgstr "Theo từ"
+
+msgid "Word Right"
+msgstr "Đưa con trỏ sang phải một từ"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Tài liệu Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Kiểu WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft hiện là ứng dụng mặc định cho tài liệu Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Chỉ gạch chân từ"
+
+msgid "Wrap Text"
+msgstr "Văn bản quanh đối tượng"
+
+msgid "Wrap Text Sides"
+msgstr "Hai bên"
+
+msgid "Wrap\nText"
+msgstr "Văn bản\nquanh đối tượng"
+
+msgid "Write & Insert Fields"
+msgstr "Soạn và chèn trường"
+
+msgid "Write a reply"
+msgstr "Viết câu trả lời"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Bí ý tưởng? Tôi thấy nhìn chằm chằm vào con trỏ khá có ích. Nó đã nháy mắt với tôi nhiều năm rồi."
+
+msgid "x bar"
+msgstr "x có gạch trên"
+
+msgid "Year"
+msgstr "Năm"
+
+msgid "Yields"
+msgstr "Suy ra"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Đã lâu bạn chưa lưu, và Tự động lưu đang tắt. Lưu ngay nhé?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Bạn vừa bắt đầu một danh sách. Nhấn Enter hai lần để kết thúc, hoặc nhấn Backspace ở đầu một mục để chuyển nó lại thành văn bản."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Tài liệu của bạn giờ là tài liệu được lưu nhiều nhất lịch sử."
+
+msgid "Your languages"
+msgstr "Ngôn ngữ của bạn"
+
+msgid "Your own dictionary"
+msgstr "Từ điển riêng của bạn"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Hệ thống không cung cấp thiết lập hiệu ứng động, nên các hiệu ứng động vẫn bật."
+
+msgid "Your system has animation effects turned off."
+msgstr "Hệ thống của bạn đã tắt hiệu ứng động."
+
+msgid "Your system has animation effects turned on."
+msgstr "Hệ thống của bạn đã bật hiệu ứng động."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: đã hủy"
+
+msgid "Zotero: done"
+msgstr "Zotero: hoàn tất"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; không đọc được {count}: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; đã bỏ qua {n} (giới hạn {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Bảng {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} người đóng góp · {commits} commit"
+
+msgid "{count} items highlighted"
+msgstr "{count} mục được làm nổi bật"
+
+msgid "{count} of {total} pages will print"
+msgstr "Sẽ in {count} trong số {total} trang"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Sẽ phối {count} trên {total} người nhận."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Thiết lập {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} đếm số từ, ký tự và đoạn của bạn."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} tìm và thay thế văn bản, định dạng và ký tự đặc biệt."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} bắt đầu một dòng mới mà không bắt đầu đoạn mới."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} biến văn bản đã chọn thành liên kết."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+Nhấp để mở liên kết"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (mặc định)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (không có từ điển)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} hiện là ngôn ngữ mặc định của tài liệu."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: không tìm thấy từ điển"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft chưa soát chính tả và ngữ pháp cho ngôn ngữ này."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} và {n} tệp nữa"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} in"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} đã tồn tại. Chọn Lưu lần nữa để thay thế."
+
+msgid "{name} is protected with a password."
+msgstr "{name} đang được bảo vệ bằng mật khẩu."
+
+msgid "{name} options"
+msgstr "Tùy chọn của {name}"
+
+msgid "{name} wasn't found."
+msgstr "Không tìm thấy {name}."
+
+msgid "{n} entries marked."
+msgstr "{n} mục được đánh dấu."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} dòng"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "Từ: {selected} trên {words}"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} điểm ảnh"
+
+msgid "{words} words"
+msgstr "Từ: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} từ và vẫn đang tăng. Theo nghĩa đen. Tôi đang đếm đây."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} từ! Tôi muốn tung pháo giấy nhưng rồi lại phải tự dọn."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} từ. Hơn số từ tôi viết hôm nay đúng {words} từ."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "“{text}” ({row}, {series}) không phải là số."
+
+msgid "✓ None"
+msgstr "✓ Không có"
+
+msgid "➕ New comment"
+msgstr "➕ Nhận xét mới"
+
+msgid "📂  Browse…"
+msgstr "📂  Duyệt…"

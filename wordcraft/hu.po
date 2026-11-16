@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Mind)"
+
+msgid "(no style)"
+msgstr "(nincs stílus)"
+
+msgid "(no suggestions)"
+msgstr "(nincs javaslat)"
+
+msgid "(normal text)"
+msgstr "(normál szöveg)"
+
+msgid "(not matched)"
+msgstr "(nincs megfeleltetve)"
+
+msgid "(picture or object)"
+msgstr "(kép vagy objektum)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 vagy több karakter"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Formázási korlátozások"
+
+msgid "1.5 Line Spacing"
+msgstr "1,5-es sorköz"
+
+msgid "1/4 Em Space"
+msgstr "1/4 kvirtus szóköz"
+
+msgid "1×2 Empty Matrix"
+msgstr "1×2-es üres mátrix"
+
+msgid "1×3 Empty Matrix"
+msgstr "1×3-as üres mátrix"
+
+msgid "2. Editing restrictions"
+msgstr "2. Szerkesztési korlátozások"
+
+msgid "2×1 Empty Matrix"
+msgstr "2×1-es üres mátrix"
+
+msgid "2×2 Determinant"
+msgstr "2×2-es determináns"
+
+msgid "2×2 Empty Matrix"
+msgstr "2×2-es üres mátrix"
+
+msgid "2×2 Identity Matrix"
+msgstr "2×2-es egységmátrix"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "2×2-es egységmátrix (ritka)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "2×2-es mátrix szögletes zárójelben"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "2×2-es mátrix dupla függőleges vonalak között"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "2×2-es mátrix kerek zárójelben"
+
+msgid "2×3 Empty Matrix"
+msgstr "2×3-as üres mátrix"
+
+msgid "3-D"
+msgstr "Térhatású"
+
+msgid "3. Start enforcement"
+msgstr "3. A korlátozások érvényesítése"
+
+msgid "3×1 Empty Matrix"
+msgstr "3×1-es üres mátrix"
+
+msgid "3×2 Empty Matrix"
+msgstr "3×2-es üres mátrix"
+
+msgid "3×3 Empty Matrix"
+msgstr "3×3-as üres mátrix"
+
+msgid "3×3 Identity Matrix"
+msgstr "3×3-as egységmátrix"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "3×3-as egységmátrix (ritka)"
+
+msgid "<< Less"
+msgstr "<< Kevesebb"
+
+msgid "<< Remove"
+msgstr "<< Eltávolítás"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "egy diagram legfeljebb {MAX_ITEMS} elemet tartalmazhat"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "a rajzvászon csoportbontása nem lehetséges"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "rajzvászon nem kerülhet szövegdobozba"
+
+msgid "A file dialog is already open."
+msgstr "Már nyitva van egy fájlválasztó ablak."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Ingyenes, nyílt forráskódú szövegszerkesztő, az alapoktól Rustban írva.\nA Crafting Apps családba tartozik, az ArtCraft csapatától."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "a Word-tintát tartalmazó csoport még nem bontható szét"
+
+msgid "A mail merge field"
+msgstr "Körlevél-egyesítési mező"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Számozott sorozat (ábrák, táblázatok…)"
+
+msgid "A password is required to open this document."
+msgstr "A dokumentum megnyitásához jelszó kell."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Tartalomjegyzék"
+
+msgid "A xor B"
+msgstr "A kizáró vagy B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaÁáBbCc"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz ŐőŰű"
+
+msgid "About WordCraft"
+msgstr "A WordCraft névjegye"
+
+msgid "Above Chart"
+msgstr "Diagram fölött"
+
+msgid "Above the item"
+msgstr "Az elem fölött"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Abszolút érték esetszétválasztással"
+
+msgid "Accent"
+msgstr "Ékezet"
+
+msgid "Accent Gradient"
+msgstr "Kiemelőszínes színátmenet"
+
+msgid "Accent with Reflection"
+msgstr "Kiemelőszín tükröződéssel"
+
+msgid "Accent {n}"
+msgstr "Kiemelőszín {n}"
+
+msgid "Accents"
+msgstr "Ékezetek"
+
+msgid "Accept"
+msgstr "Elfogadás"
+
+msgid "Accept All Changes"
+msgstr "Összes módosítás elfogadása"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "E módosítás elfogadása"
+
+msgid "Accessed on"
+msgstr "Megtekintés dátuma"
+
+msgid "Accessibility Pane"
+msgstr "Akadálymentesség panel"
+
+msgid "Account"
+msgstr "Fiók"
+
+msgid "Acute"
+msgstr "Éles ékezet"
+
+msgid "Add >>"
+msgstr "Hozzáadás >>"
+
+msgid "Add a language"
+msgstr "Nyelv hozzáadása"
+
+msgid "Add a language…"
+msgstr "Nyelv hozzáadása…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Táblázat hozzáadása"
+
+msgid "Add at least one field."
+msgstr "Adj hozzá legalább egy mezőt."
+
+msgid "Add Chart Element"
+msgstr "Diagramelem hozzáadása"
+
+msgid "Add Condition"
+msgstr "Feltétel hozzáadása"
+
+msgid "Add Field"
+msgstr "Mező hozzáadása"
+
+msgid "Add Font…"
+msgstr "Betűtípus hozzáadása…"
+
+msgid "Add gradient stop"
+msgstr "Színátmenet-pont hozzáadása"
+
+msgid "Add line numbering"
+msgstr "Sorszámozás hozzáadása"
+
+msgid "Add New Source…"
+msgstr "Új forrás hozzáadása…"
+
+msgid "Add Object to Selection"
+msgstr "Objektum hozzáadása a kijelöléshez"
+
+msgid "Add Pen"
+msgstr "Toll hozzáadása"
+
+msgid "Add Row"
+msgstr "Sor hozzáadása"
+
+msgid "Add Series"
+msgstr "Adatsor hozzáadása"
+
+msgid "Add Shape"
+msgstr "Alakzat hozzáadása"
+
+msgid "Add Space Before Paragraph"
+msgstr "Térköz a bekezdés előtt"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Térköz az ázsiai és a latin betűs szöveg között"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Térköz az ázsiai szöveg és a számok között"
+
+msgid "Add tab stop at:"
+msgstr "Új tabulátor helye:"
+
+msgid "Add Text"
+msgstr "Szöveg hozzáadása"
+
+msgid "Add the chapter number"
+msgstr "Fejezetszám hozzáadása"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Hozzáadás a dokumentumhoz"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Felvétel a gyorselérési eszköztárra"
+
+msgid "Add to Style Gallery"
+msgstr "Felvétel a stílusgalériába"
+
+msgid "Add whether it is above or below"
+msgstr "Annak jelzése, hogy feljebb vagy lejjebb van"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Irodalomjegyzék\nhozzáadása/szerkesztése"
+
+msgid "Add/Edit\nCitation"
+msgstr "Hivatkozás\nhozzáadása/szerkesztése"
+
+msgid "Add\nNote"
+msgstr "Jegyzet\nhozzáadása"
+
+msgid "Add\nPen"
+msgstr "Toll\nhozzáadása"
+
+msgid "Add\nShape"
+msgstr "Alakzat\nhozzáadása"
+
+msgid "Added 1 font"
+msgstr "1 betűtípus hozzáadva"
+
+msgid "Added Fonts"
+msgstr "Hozzáadott betűtípusok"
+
+msgid "Added {n} fonts"
+msgstr "{n} betűtípus hozzáadva"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Address Block"
+msgstr "Címblokk"
+
+msgid "Address labels"
+msgstr "Címcímkék"
+
+msgid "Address:"
+msgstr "Cím:"
+
+msgid "Address\nBlock"
+msgstr "Címblokk"
+
+msgid "Advanced Find"
+msgstr "Részletes keresés"
+
+msgid "Advanced Find…"
+msgstr "Részletes keresés…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgid "After:"
+msgstr "Utána:"
+
+msgid "Agents"
+msgstr "Ágensek"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "A WordCrafthoz kapcsolódó ügynökök az asszisztensen keresztül üzeneteket mutathatnak. Némítás esetén jelezzük nekik, hogy ezt nem kéri."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Á, latin. Holt nyelv, akárcsak a tegnapi határidő."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Á, a szerkesztési fázis. A kedvencem. Nagyon határozott."
+
+msgid "Albanian"
+msgstr "albán"
+
+msgid "Align Bottom Center"
+msgstr "Igazítás középre le"
+
+msgid "Align Bottom Left"
+msgstr "Igazítás balra le"
+
+msgid "Align Bottom Right"
+msgstr "Igazítás jobbra le"
+
+msgid "Align Center"
+msgstr "Igazítás középre"
+
+msgid "Align Center Left"
+msgstr "Igazítás balra középen"
+
+msgid "Align Center Right"
+msgstr "Igazítás jobbra középen"
+
+msgid "Align Top Center"
+msgstr "Igazítás középre fel"
+
+msgid "Align Top Left"
+msgstr "Igazítás balra fel"
+
+msgid "Align Top Right"
+msgstr "Igazítás jobbra fel"
+
+msgid "Aligned at:"
+msgstr "Igazítás helye:"
+
+msgid "All - Linear"
+msgstr "Mind – lineáris"
+
+msgid "All - Professional"
+msgstr "Mind – kétdimenziós"
+
+msgid "All Borders"
+msgstr "Minden szegély"
+
+msgid "All caps"
+msgstr "Csupa nagybetű"
+
+msgid "All Commands"
+msgstr "Összes parancs"
+
+msgid "All documents based on the Normal template?"
+msgstr "Minden, a Normál sablonon alapuló dokumentumban?"
+
+msgid "All Fonts"
+msgstr "Összes betűtípus"
+
+msgid "All Levels"
+msgstr "Minden szint"
+
+msgid "All Markup"
+msgstr "Minden jelölés"
+
+msgid "All pages in the range"
+msgstr "A tartomány minden oldala"
+
+msgid "All symbol sets"
+msgstr "Összes szimbólumkészlet"
+
+msgid "All system fonts are already available."
+msgstr "Minden rendszer-betűtípus elérhető már."
+
+msgid "Allow hanging punctuation"
+msgstr "Kilógó írásjelek engedélyezése"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "A latin betűs szöveg szó közben is törhet"
+
+msgid "Allow line breaks"
+msgstr "Sortörések engedélyezése"
+
+msgid "Allow row to break across pages"
+msgstr "A sor átnyúlhat a következő oldalra"
+
+msgid "Alphabetical"
+msgstr "Betűrend"
+
+msgid "Alt Text"
+msgstr "Helyettesítő szöveg"
+
+msgid "Alt text"
+msgstr "Helyettesítő szöveg"
+
+msgid "Alt Text Pane"
+msgstr "Helyettesítő szöveg panel"
+
+msgid "Alt:"
+msgstr "Helyettesítő:"
+
+msgid "Alt\nText"
+msgstr "Helyettesítő\nszöveg"
+
+msgid "an agent"
+msgstr "ügynök"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "A telepített nyelvi csomagot ez a mappa után használja."
+
+msgid "And"
+msgstr "És"
+
+msgid "Angle Brackets"
+msgstr "Csúcsos zárójelek"
+
+msgid "Angle Brackets with Separator"
+msgstr "Csúcsos zárójelek elválasztóval"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Csúcsos zárójelek két elválasztóval"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animált kurzor (csúszva mozog, halványulva villog)"
+
+msgid "Animation effects:"
+msgstr "Animációs effektusok:"
+
+msgid "Annotation Reference"
+msgstr "Jegyzethivatkozás"
+
+msgid "Annotation Subject"
+msgstr "Jegyzet tárgya"
+
+msgid "Annotation Text"
+msgstr "Jegyzetszöveg"
+
+msgid "Annoying"
+msgstr "Idegesítően"
+
+msgid "Another file"
+msgstr "Másik fájl"
+
+msgid "Any Character"
+msgstr "Bármely karakter"
+
+msgid "Any Digit"
+msgstr "Bármely számjegy"
+
+msgid "Any field"
+msgstr "Bármely mező"
+
+msgid "Any Letter"
+msgstr "Bármely betű"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Ezt a dokumentumot bárki megnyithatja. Titkosítsd jelszóval, ha bizalmas."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Aki megnyitja a dokumentumot, annak szüksége lesz erre a jelszóra."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Alkalmazás gépelés közben"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Ázsiai sortörési szabályok alkalmazása (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Formázás alkalmazása erre:"
+
+msgid "Apply Style"
+msgstr "Stílus alkalmazása"
+
+msgid "Apply Styles"
+msgstr "Stílusok alkalmazása"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Ív lefelé"
+
+msgid "Arch Up"
+msgstr "Ív felfelé"
+
+msgid "Argentina"
+msgstr "Argentína"
+
+msgid "Armenian"
+msgstr "örmény"
+
+msgid "Arrange\nAll"
+msgstr "Ablakok\nrendezése"
+
+msgid "Article I."
+msgstr "I. cikk"
+
+msgid "Artistic Effects"
+msgstr "Művészi effektusok"
+
+msgid "As Recommended"
+msgstr "Ajánlott sorrend"
+
+msgid "As you type"
+msgstr "Gépelés közben"
+
+msgid "ASAP"
+msgstr "SÜRGŐS"
+
+msgid "Asian text font:"
+msgstr "Ázsiai szöveg betűtípusa:"
+
+msgid "Asian Typography"
+msgstr "Ázsiai tipográfia"
+
+msgid "Assistant"
+msgstr "Asszisztens"
+
+msgid "Assistant Suggestions"
+msgstr "Asszisztens javaslatai"
+
+msgid "At least"
+msgstr "Legalább"
+
+msgid "At least {n}"
+msgstr "Legalább {n}"
+
+msgid "Atelier"
+msgstr "Műterem"
+
+msgid "Atmosphere"
+msgstr "Légkör"
+
+msgid "Attach Template"
+msgstr "Sablon csatolása"
+
+msgid "Attach…"
+msgstr "Csatolás…"
+
+msgid "Australia"
+msgstr "Ausztrália"
+
+msgid "Austria"
+msgstr "Ausztria"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Automatikus javítás"
+
+msgid "AutoCorrect Options"
+msgstr "Automatikus javítás beállításai"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Automatikus méretezés"
+
+msgid "AutoFit behavior"
+msgstr "Automatikus igazítás"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Oszlop automatikus méretezése dupla kattintással"
+
+msgid "AutoFit Contents"
+msgstr "Igazítás a tartalomhoz"
+
+msgid "AutoFit to contents"
+msgstr "Igazítás a tartalomhoz"
+
+msgid "AutoFit to window"
+msgstr "Igazítás az ablakhoz"
+
+msgid "AutoFit Window"
+msgstr "Igazítás az ablakhoz"
+
+msgid "AutoFormat As You Type"
+msgstr "Automatikus formázás gépelés közben"
+
+msgid "Automatic ({language})"
+msgstr "Automatikus ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automatikus ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Automatikus felsorolásjeles listák"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Az Automatikus a rendszer nyelvét követi. A menük és a parancsok nyelve változik, a dokumentumaidé nem."
+
+msgid "Automatic numbered lists"
+msgstr "Automatikus számozott listák"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automatikus tartalomjegyzék 1 (3 szint)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automatikus tartalomjegyzék 2 (2 szint)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Automatikus elválasztás a dokumentumban"
+
+msgid "Automatically Update Document Styles"
+msgstr "Dokumentumstílusok automatikus frissítése"
+
+msgid "Automatically update document styles"
+msgstr "Dokumentumstílusok automatikus frissítése"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "A WordCraftban mentett dokumentumok automatikus mentése"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Az automatikus mentés sikertelen: {error}. Az újbóli bekapcsolásához mentsd a dokumentumot."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "A böngészőben nincs automatikus mentés, mert nem tud írni a fájljaidba. A Mentés egy másolatot tölt le."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Az automatikus mentés csak .docx, .odt és .rtf fájlt tart naprakészen; ez a formátum ({name}) nem őriz meg minden formázást. Az automatikus mentéshez mentsd .docx formátumban."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Az automatikus mentés minden módosítást a fájlba ír (ehhez mentett dokumentum kell)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Az automatikus mentés néhány pillanattal a gépelés abbahagyása után a fájlba írja a módosításaidat."
+
+msgid "AutoText"
+msgstr "Autoszöveg"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Buborékok"
+
+msgid "Banded Columns"
+msgstr "Sávos oszlopok"
+
+msgid "Banded Rows"
+msgstr "Sávos sorok"
+
+msgid "Base text:"
+msgstr "Alapszöveg:"
+
+msgid "Based on: {style}"
+msgstr "Alapstílus: {style}"
+
+msgid "Baseline Dots"
+msgstr "Alapvonali pontok"
+
+msgid "Basic Cycle"
+msgstr "Egyszerű körforgás"
+
+msgid "Basic List"
+msgstr "Egyszerű lista"
+
+msgid "Basic Math"
+msgstr "Alapvető matematika"
+
+msgid "Basic Matrix"
+msgstr "Egyszerű mátrix"
+
+msgid "Basic Process"
+msgstr "Egyszerű folyamat"
+
+msgid "Basic Pyramid"
+msgstr "Egyszerű piramis"
+
+msgid "Basic Radial"
+msgstr "Egyszerű sugaras"
+
+msgid "Basic Venn"
+msgstr "Egyszerű Venn-diagram"
+
+msgid "Bayes' rule"
+msgstr "Bayes-tétel"
+
+msgid "Before:"
+msgstr "Előtte:"
+
+msgid "Beginning of Word"
+msgstr "Szó eleje"
+
+msgid "Behind Text"
+msgstr "Szöveg mögött"
+
+msgid "Belarus"
+msgstr "Fehéroroszország"
+
+msgid "Belarusian"
+msgstr "belarusz"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Below text"
+msgstr "A szöveg alatt"
+
+msgid "Below the item"
+msgstr "Az elem alatt"
+
+msgid "Between"
+msgstr "Köztes"
+
+msgid "Bibliography"
+msgstr "Irodalomjegyzék"
+
+msgid "Binomial Coefficient"
+msgstr "Binomiális együttható"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binomiális együttható (csúcsos)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binomiális együttható csúcsos zárójelben"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Az (x+a)ⁿ binomiális kifejtése"
+
+msgid "Blank"
+msgstr "Üres"
+
+msgid "Blank (Three Columns)"
+msgstr "Üres (három oszlop)"
+
+msgid "Blank document"
+msgstr "Üres dokumentum"
+
+msgid "Blank Page"
+msgstr "Üres oldal"
+
+msgid "Block\nAuthors"
+msgstr "Szerzők\nletiltása"
+
+msgid "Blue:"
+msgstr "Kék:"
+
+msgid "Body Text"
+msgstr "Szövegtörzs"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Szövegtörzs egy rövid bekezdésben, hogy látszódjon a térköz."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Merész választás. A Ctrl+Z ott van, ha kell."
+
+msgid "Bolivia"
+msgstr "Bolívia"
+
+msgid "Book"
+msgstr "Könyv"
+
+msgid "Book Title"
+msgstr "Könyvcím"
+
+msgid "Book title"
+msgstr "Könyv címe"
+
+msgid "Bookmark"
+msgstr "Könyvjelző"
+
+msgid "Bookmark name:"
+msgstr "Könyvjelző neve:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Szegélyvonalak"
+
+msgid "Border Painter"
+msgstr "Szegélyfestő"
+
+msgid "Border\nPainter"
+msgstr "Szegély-\nfestő"
+
+msgid "Borders and Shading"
+msgstr "Szegélyek és árnyékolás"
+
+msgid "Borders and Shading…"
+msgstr "Szegélyek és árnyékolás…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosznia-Hercegovina"
+
+msgid "Bosnian"
+msgstr "bosnyák"
+
+msgid "Both Sides"
+msgstr "Mindkét oldal"
+
+msgid "Bottom Border"
+msgstr "Alsó szegély"
+
+msgid "Bottom Left Cell"
+msgstr "Bal alsó cella"
+
+msgid "Bottom Margin"
+msgstr "Alsó margó"
+
+msgid "Bottom of Page"
+msgstr "Oldal alja"
+
+msgid "Bottom Right Cell"
+msgstr "Jobb alsó cella"
+
+msgid "Box"
+msgstr "Keret"
+
+msgid "Boxed Formula"
+msgstr "Bekeretezett képlet"
+
+msgid "Boxed Formula (example)"
+msgstr "Bekeretezett képlet (példa)"
+
+msgid "Boxed Formulas"
+msgstr "Bekeretezett képletek"
+
+msgid "Braces"
+msgstr "Kapcsos zárójelek"
+
+msgid "Braces with Separator"
+msgstr "Kapcsos zárójelek elválasztóval"
+
+msgid "Bracket"
+msgstr "Zárójel"
+
+msgid "Brackets"
+msgstr "Szögletes zárójelek"
+
+msgid "Brackets with Separators"
+msgstr "Zárójelek elválasztókkal"
+
+msgid "Brazil"
+msgstr "Brazília"
+
+msgid "Breaks"
+msgstr "Törések"
+
+msgid "Breve"
+msgstr "Breve"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Tallózás a WordCraftban…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Építőelemgaléria-tartalomvezérlő"
+
+msgid "Built in"
+msgstr "Beépített"
+
+msgid "Built-In"
+msgstr "Beépített"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Beépített stílus"
+
+msgid "Built-in styles can't be deleted."
+msgstr "A beépített stílusok nem törölhetők."
+
+msgid "Bulgarian"
+msgstr "bolgár"
+
+msgid "Bullet Library"
+msgstr "Felsorolásjel-tár"
+
+msgid "Bullets"
+msgstr "Felsorolásjelek"
+
+msgid "By author"
+msgstr "Szerző szerint"
+
+msgid "Cabo Verde"
+msgstr "Zöld-foki Köztársaság"
+
+msgid "Calendar"
+msgstr "Naptár"
+
+msgid "Can't be deleted"
+msgstr "Nem törölhető"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Nem találsz egy parancsot? Nyomd meg a(z) {key} billentyűt, és írd be, mit szeretnél tenni."
+
+msgid "can't split at the first row"
+msgstr "a táblázat nem osztható fel az első sornál"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Canvas Member"
+msgstr "Vászonelem"
+
+msgid "Capitalize Each Word"
+msgstr "Minden Szó Nagy Kezdőbetűs"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Mondatok első betűjének nagybetűsítése"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Táblázatcellák első betűjének nagybetűsítése"
+
+msgid "Capitalize names of days"
+msgstr "Napnevek nagybetűsítése"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "A mondat első szava nagybetűvel kezdődjön"
+
+msgid "Caption Numbering"
+msgstr "Feliratszámozás"
+
+msgid "Caption text"
+msgstr "Felirat szövege"
+
+msgid "Caption:"
+msgstr "Felirat:"
+
+msgid "Captions"
+msgstr "Feliratok"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Óvatosan, még egy kicsit vissza, és visszavonjuk a papír feltalálását."
+
+msgid "Caret Character"
+msgstr "Kalap karakter (^)"
+
+msgid "Case changes"
+msgstr "Kis- és nagybetű-változások"
+
+msgid "Cases (Three Conditions)"
+msgstr "Esetszétválasztás (három feltétel)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Esetszétválasztás (két feltétel)"
+
+msgid "Cases and Stacks"
+msgstr "Esetszétválasztás és halmozás"
+
+msgid "Catalan"
+msgstr "katalán"
+
+msgid "Catalan (Valencian)"
+msgstr "katalán (valenciai)"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Categories:"
+msgstr "Kategóriák:"
+
+msgid "Category {n}"
+msgstr "Kategória {n}"
+
+msgid "Ceiling"
+msgstr "Felső egészrész"
+
+msgid "Cell"
+msgstr "Cella"
+
+msgid "Cell Margins"
+msgstr "Cellamargók"
+
+msgid "Cell\nMargins"
+msgstr "Cellamargók"
+
+msgid "Center Glow"
+msgstr "Középső ragyogás"
+
+msgid "Centered as Group"
+msgstr "Középre igazítva csoportként"
+
+msgid "Change Chart Type"
+msgstr "Diagramtípus módosítása"
+
+msgid "Change Colors"
+msgstr "Színek módosítása"
+
+msgid "Change in y over change in x"
+msgstr "Az y változása az x változásához képest"
+
+msgid "Change Layout"
+msgstr "Elrendezés módosítása"
+
+msgid "Change List Level"
+msgstr "Listaszint módosítása"
+
+msgid "Change Password…"
+msgstr "Jelszó módosítása…"
+
+msgid "Change Picture"
+msgstr "Kép cseréje"
+
+msgid "Change Picture…"
+msgstr "Kép cseréje…"
+
+msgid "Change Shape"
+msgstr "Alakzat cseréje"
+
+msgid "Change Structure"
+msgstr "Szerkezet módosítása"
+
+msgid "Change to Display"
+msgstr "Kiemelt egyenletté alakítás"
+
+msgid "Change to Inline"
+msgstr "Szövegközi egyenletté alakítás"
+
+msgid "Change to Level 1"
+msgstr "Áthelyezés az 1. szintre"
+
+msgid "Change to Level 2"
+msgstr "Áthelyezés a 2. szintre"
+
+msgid "Change to Level 3"
+msgstr "Áthelyezés a 3. szintre"
+
+msgid "Change to Level 4"
+msgstr "Áthelyezés a 4. szintre"
+
+msgid "Change to Level 5"
+msgstr "Áthelyezés az 5. szintre"
+
+msgid "Change to Level 6"
+msgstr "Áthelyezés a 6. szintre"
+
+msgid "Change to Level 7"
+msgstr "Áthelyezés a 7. szintre"
+
+msgid "Change to Level 8"
+msgstr "Áthelyezés a 8. szintre"
+
+msgid "Change to Level 9"
+msgstr "Áthelyezés a 9. szintre"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Diagramtípus\nmódosítása"
+
+msgid "Change\nColors"
+msgstr "Színek\nmódosítása"
+
+msgid "Changed lines:"
+msgstr "Módosított sorok:"
+
+msgid "Changes"
+msgstr "Módosítások"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "1. fejezet"
+
+msgid "Chapter in a book"
+msgstr "Könyvfejezet"
+
+msgid "Chapters begin at:"
+msgstr "Fejezetek kezdete:"
+
+msgid "Character Border"
+msgstr "Karakterszegély"
+
+msgid "Character code:"
+msgstr "Karakterkód:"
+
+msgid "Character in Range"
+msgstr "Karakter a tartományban"
+
+msgid "Character level"
+msgstr "Karakterszinten"
+
+msgid "Character Position"
+msgstr "Karakter helyzete"
+
+msgid "Character Scale"
+msgstr "Karakterméretezés"
+
+msgid "Character Shading"
+msgstr "Karakterárnyékolás"
+
+msgid "Character Spacing"
+msgstr "Betűköz"
+
+msgid "Character spacing"
+msgstr "Betűköz"
+
+msgid "Character style"
+msgstr "Karakterstílus"
+
+msgid "Characters (no spaces)"
+msgstr "Karakterek (szóközök nélkül)"
+
+msgid "Characters (with spaces)"
+msgstr "Karakterek (szóközökkel)"
+
+msgid "Characters per line:"
+msgstr "Karakterek soronként:"
+
+msgid "Chart"
+msgstr "Diagram"
+
+msgid "Chart Design"
+msgstr "Diagramtervezés"
+
+msgid "Chart Layouts"
+msgstr "Diagramelrendezések"
+
+msgid "Chart Title"
+msgstr "Diagramcím"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "a diagramok és ábrák még nem helyezhetők át és nem méretezhetők át"
+
+msgid "Check"
+msgstr "Pipa"
+
+msgid "Check Accessibility"
+msgstr "Akadálymentesség ellenőrzése"
+
+msgid "Check Box Content Control"
+msgstr "Jelölőnégyzet-tartalomvezérlő"
+
+msgid "Check Compatibility"
+msgstr "Kompatibilitás ellenőrzése"
+
+msgid "Check for Errors"
+msgstr "Hibák keresése"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Helyesírás ellenőrzése gépelés közben"
+
+msgid "Check spelling as you type"
+msgstr "Helyesírás ellenőrzése gépelés közben"
+
+msgid "Check\nAccessibility"
+msgstr "Akadálymentesség\nellenőrzése"
+
+msgid "Checked styles are allowed:"
+msgstr "A bejelölt stílusok engedélyezettek:"
+
+msgid "Checked symbol"
+msgstr "Bejelölt állapot szimbóluma"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Ék lefelé"
+
+msgid "Chevron Up"
+msgstr "Ék felfelé"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Kína"
+
+msgid "Chinese (Simplified)"
+msgstr "Kínai (egyszerűsített)"
+
+msgid "Chinese (Traditional)"
+msgstr "Kínai (hagyományos)"
+
+msgid "Choose a command"
+msgstr "Válassz parancsot"
+
+msgid "Choose a shortcut"
+msgstr "Válassz billentyűparancsot"
+
+msgid "Choose List Item"
+msgstr "Listaelem kiválasztása"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Válaszd ki a címzetteket tartalmazó munkalapot."
+
+msgid "Circle area from its radius"
+msgstr "A kör területe a sugárból"
+
+msgid "Circled Dot"
+msgstr "Bekarikázott pont"
+
+msgid "Circled Plus"
+msgstr "Bekarikázott plusz"
+
+msgid "Circled Times"
+msgstr "Bekarikázott szorzás"
+
+msgid "Citation Style"
+msgstr "Hivatkozási stílus"
+
+msgid "Citations"
+msgstr "Forráshivatkozások"
+
+msgid "Citations & Bibliography"
+msgstr "Forráshivatkozások és irodalomjegyzék"
+
+msgid "Clear All Formatting"
+msgstr "Minden formázás törlése"
+
+msgid "Clear Character Formatting"
+msgstr "Karakterformázás törlése"
+
+msgid "Clear Character Style"
+msgstr "Karakterstílus törlése"
+
+msgid "Clear Formatting Level"
+msgstr "Formázási szint törlése"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Bekezdésformázás törlése"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Két cella egyesítéséhez kattints a köztük lévő szegélyre. Kilépés: Esc."
+
+msgid "Click an item to paste it."
+msgstr "Kattints egy elemre a beillesztéséhez."
+
+msgid "Click level to modify:"
+msgstr "Kattints a módosítandó szintre:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Kattints arra az üres szövegdobozra, amelyben a szöveg folytatódjon (megszakítás: Esc)"
+
+msgid "Click to switch back to inserting"
+msgstr "Kattints ide a beszúrásra való visszaváltáshoz"
+
+msgid "Clipboard Contents"
+msgstr "Vágólap tartalma"
+
+msgid "Clipboard Items"
+msgstr "Vágólap elemei"
+
+msgid "Clipboard Pane"
+msgstr "Vágólap panel"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Egyenlet bezárása"
+
+msgid "Close Header and Footer"
+msgstr "Élőfej és élőláb bezárása"
+
+msgid "Close Outline View"
+msgstr "Vázlatnézet bezárása"
+
+msgid "Close Outline\nView"
+msgstr "Vázlatnézet\nbezárása"
+
+msgid "Clustered Bar"
+msgstr "Csoportosított sáv"
+
+msgid "Clustered Column"
+msgstr "Csoportosított oszlop"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Oszlop sorszáma:"
+
+msgid "Collapse Selection"
+msgstr "Kijelölés összehúzása"
+
+msgid "Collate copies"
+msgstr "Példányok szétválogatása"
+
+msgid "Collect entries from:"
+msgstr "Bejegyzések forrása:"
+
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgid "Colon Equal"
+msgstr "Kettőspont-egyenlő"
+
+msgid "Color model:"
+msgstr "Színmodell:"
+
+msgid "Color only"
+msgstr "Csak szín"
+
+msgid "Color: {color}"
+msgstr "Szín: {color}"
+
+msgid "Colorful"
+msgstr "Színes"
+
+msgid "Column"
+msgstr "Oszlop"
+
+msgid "Column Break"
+msgstr "Hasábtörés"
+
+msgid "Column Selection"
+msgstr "Oszlop kijelölése"
+
+msgid "Column {n}"
+msgstr "{n}. oszlop"
+
+msgid "Column:"
+msgstr "Oszlop:"
+
+msgid "Combine Documents"
+msgstr "Dokumentumok kombinálása"
+
+msgid "Combo Box Content Control"
+msgstr "Kombinált listás tartalomvezérlő"
+
+msgid "Commands"
+msgstr "Parancsok"
+
+msgid "Commas"
+msgstr "Vesszők"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "PDF-ben, nyomtatásban és képen: megjegyzések az oldalak mellett és követett módosítások. Weboldal, Markdown és szöveg esetén: megjegyzéslista a végén."
+
+msgid "Comments Pane"
+msgstr "Megjegyzések panel"
+
+msgid "Common Accent Objects"
+msgstr "Gyakori ékezetes objektumok"
+
+msgid "Common Brackets"
+msgstr "Gyakori zárójelek"
+
+msgid "Common Fractions"
+msgstr "Gyakori törtek"
+
+msgid "Common Functions"
+msgstr "Gyakori függvények"
+
+msgid "Common Large Operators"
+msgstr "Gyakori nagy operátorok"
+
+msgid "Common Operator Structures"
+msgstr "Gyakori operátorszerkezetek"
+
+msgid "Common Operators"
+msgstr "Gyakori operátorok"
+
+msgid "Common Radicals"
+msgstr "Gyakori gyökök"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Gyakori alsó és felső indexek"
+
+msgid "Communication"
+msgstr "Kommunikáció"
+
+msgid "Community\nDiscord"
+msgstr "Közösségi\nDiscord"
+
+msgid "Compact"
+msgstr "Tömör"
+
+msgid "Compare Documents"
+msgstr "Dokumentumok összehasonlítása"
+
+msgid "Compare to"
+msgstr "Összehasonlítás ezzel"
+
+msgid "Compared: {changes} changes"
+msgstr "Összehasonlítás kész: {changes} módosítás"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Másik fájllal való összehasonlításhoz az asztali alkalmazás kell."
+
+msgid "Comparison settings"
+msgstr "Összehasonlítási beállítások"
+
+msgid "Compress Pictures"
+msgstr "Képek tömörítése"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Írásjelek tömörítése a sor elején"
+
+msgid "Conference"
+msgstr "Konferencia"
+
+msgid "Conference paper"
+msgstr "Konferencia-előadás"
+
+msgid "CONFIDENTIAL"
+msgstr "BIZALMAS"
+
+msgid "Confirm password:"
+msgstr "Jelszó megerősítése:"
+
+msgid "Connect Shapes"
+msgstr "Alakzatok összekötése"
+
+msgid "Container Title"
+msgstr "Befoglaló mű címe"
+
+msgid "Content Control at Selection"
+msgstr "Tartalomvezérlő a kijelölésnél"
+
+msgid "Content Control Properties"
+msgstr "Tartalomvezérlő tulajdonságai"
+
+msgid "Contents can't be edited"
+msgstr "A tartalom nem szerkeszthető"
+
+msgid "Context"
+msgstr "Környezetfüggő"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Folytatás az előző szakaszból"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Folyamatos"
+
+msgid "Continuous numbering"
+msgstr "Folyamatos számozás"
+
+msgid "Contour Integral"
+msgstr "Görbementi integrál"
+
+msgid "Contour Integral with Limits"
+msgstr "Görbementi integrál határokkal"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Görbementi integrál fölé és alá írt határokkal"
+
+msgid "Contour Integrals"
+msgstr "Görbementi integrálok"
+
+msgid "Controls"
+msgstr "Vezérlők"
+
+msgid "Conversions"
+msgstr "Átalakítások"
+
+msgid "Convert between built-up and linear form"
+msgstr "Váltás a kétdimenziós és a lineáris alak között"
+
+msgid "Convert Notes"
+msgstr "Jegyzetek átalakítása"
+
+msgid "Convert Text to Table"
+msgstr "Szöveg átalakítása táblázattá"
+
+msgid "Convert Text to Table…"
+msgstr "Szöveg átalakítása táblázattá…"
+
+msgid "Convert to Shapes"
+msgstr "Átalakítás alakzattá"
+
+msgid "Convert to Text"
+msgstr "Átalakítás szöveggé"
+
+msgid "Coproduct"
+msgstr "Koszorzat"
+
+msgid "Coproduct with Limits"
+msgstr "Koszorzat határokkal"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Koszorzat alsó határral"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Koszorzat indexben írt határokkal"
+
+msgid "Copy Formatting"
+msgstr "Formázás másolása"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "A könyvjelzővel megjelölt szöveg másolata"
+
+msgid "Copy Styles"
+msgstr "Stílusok másolása"
+
+msgid "Copy to"
+msgstr "Másolás ide"
+
+msgid "Copyright Sign"
+msgstr "Copyright jel"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "A cAPS LOCK billentyű véletlen használatának javítása"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "KÉt KEzdő NAgybetű javítása"
+
+msgid "Corrections"
+msgstr "Korrekciók"
+
+msgid "Cosecant Function"
+msgstr "Koszekánsfüggvény"
+
+msgid "Cosine 2x"
+msgstr "Koszinusz 2x"
+
+msgid "Cosine Function"
+msgstr "Koszinuszfüggvény"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Kotangensfüggvény"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Nem sikerült letölteni: {name} ({error})"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Nem sikerült a WordCraftot alapértelmezetté tenni: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Nem sikerült megnyitni: {path} ({error})"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Lépésköz:"
+
+msgid "Count words in text boxes and notes"
+msgstr "A szövegdobozok és a jegyzetek szavainak beszámítása"
+
+msgid "Courtesy Title"
+msgstr "Titulus"
+
+msgid "Cover Page"
+msgstr "Címlap"
+
+msgid "Craft"
+msgstr "Kézműves"
+
+msgid "Create a Style"
+msgstr "Stílus létrehozása"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Készíts interaktív vázlatot a dokumentumodról.\n\nÍgy mindig látod, hol tartasz, és gyorsan átrendezheted a tartalmat.\n\nKezdésként a Kezdőlap lapon alkalmazz címsorstílusokat a dokumentum címeire."
+
+msgid "Create Graphic"
+msgstr "Ábra létrehozása"
+
+msgid "Create Link"
+msgstr "Csatolás létrehozása"
+
+msgid "Create New Style"
+msgstr "Új stílus létrehozása"
+
+msgid "Create Source"
+msgstr "Forrás létrehozása"
+
+msgid "Croatian"
+msgstr "Horvát"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Kereszthivatkozás"
+
+msgid "Cross-reference:"
+msgstr "Kereszthivatkozás:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Cube Root"
+msgstr "Köbgyök"
+
+msgid "Current - Linear"
+msgstr "Aktuális – lineáris"
+
+msgid "Current - Professional"
+msgstr "Aktuális – kétdimenziós"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Jelenlegi pozíció"
+
+msgid "Current record"
+msgstr "Aktuális rekord"
+
+msgid "Current style: {style}"
+msgstr "Jelenlegi stílus: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Ívelt nyilas összekötő"
+
+msgid "Curved Connector"
+msgstr "Ívelt összekötő"
+
+msgid "Custom dictionary"
+msgstr "Egyéni szótár"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Egyéni margók…"
+
+msgid "Custom mark:"
+msgstr "Egyéni jel:"
+
+msgid "Custom range"
+msgstr "Egyéni tartomány"
+
+msgid "Custom size"
+msgstr "Egyéni méret"
+
+msgid "Custom Table of Contents…"
+msgstr "Egyéni tartalomjegyzék…"
+
+msgid "Custom Watermark"
+msgstr "Egyéni vízjel"
+
+msgid "Custom Watermark…"
+msgstr "Egyéni vízjel…"
+
+msgid "Customize"
+msgstr "Testreszabás"
+
+msgid "Customize Keyboard"
+msgstr "Billentyűzet testreszabása"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Gyorselérési eszköztár testreszabása"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Gyorselérési eszköztár testreszabása…"
+
+msgid "Customize Ribbon"
+msgstr "Menüszalag testreszabása"
+
+msgid "Customize the Ribbon…"
+msgstr "Menüszalag testreszabása…"
+
+msgid "Cycle"
+msgstr "Körforgás"
+
+msgid "Cyprus"
+msgstr "Ciprus"
+
+msgid "Czech"
+msgstr "Cseh"
+
+msgid "Danish"
+msgstr "Dán"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Sötét mód"
+
+msgid "Dark page (white text on black)"
+msgstr "Sötét oldal (fehér szöveg feketén)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Sötét változatok"
+
+msgid "Dark with Shadow"
+msgstr "Sötét, árnyékkal"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Sötétkamra"
+
+msgid "Data Labels"
+msgstr "Adatfeliratok"
+
+msgid "Date & Time"
+msgstr "Dátum és idő"
+
+msgid "Date formats:"
+msgstr "Dátumformátumok:"
+
+msgid "Date Picker Content Control"
+msgstr "Dátumválasztó-tartalomvezérlő"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Decimal"
+msgstr "Decimális"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket."
+
+msgid "Decorative Text"
+msgstr "Díszítő szöveg"
+
+msgid "Decorative Text Styles"
+msgstr "Díszítő szöveg stílusai"
+
+msgid "Decrease Indent"
+msgstr "Behúzás csökkentése"
+
+msgid "Deep"
+msgstr "Mély"
+
+msgid "Default formatting"
+msgstr "Alapértelmezett formázás"
+
+msgid "Default Paragraph Font"
+msgstr "Alapértelmezett bekezdésbetűtípus"
+
+msgid "Default tab stops:"
+msgstr "Alapértelmezett tabulátortávolság:"
+
+msgid "Define New Bullet"
+msgstr "Új felsorolásjel megadása"
+
+msgid "Define New Multilevel List"
+msgstr "Új többszintű lista megadása"
+
+msgid "Define New Multilevel List…"
+msgstr "Új többszintű lista megadása…"
+
+msgid "Define New Number Format"
+msgstr "Új számformátum megadása"
+
+msgid "Deflate"
+msgstr "Leeresztés"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Törlés az egyenletben a kurzor körül"
+
+msgid "Delete Back in Equation"
+msgstr "Visszatörlés az egyenletben"
+
+msgid "Delete Bookmark"
+msgstr "Könyvjelző törlése"
+
+msgid "Delete Cells"
+msgstr "Cellák törlése"
+
+msgid "Delete Clipboard Item"
+msgstr "Vágólapelem törlése"
+
+msgid "Delete Columns"
+msgstr "Oszlopok törlése"
+
+msgid "Delete Comment"
+msgstr "Megjegyzés törlése"
+
+msgid "Delete in Equation"
+msgstr "Törlés az egyenletben"
+
+msgid "Delete Label"
+msgstr "Címke törlése"
+
+msgid "Delete Next Word"
+msgstr "Következő szó törlése"
+
+msgid "Delete Previous Word"
+msgstr "Előző szó törlése"
+
+msgid "Delete Rows"
+msgstr "Sorok törlése"
+
+msgid "Delete Selected Ink"
+msgstr "Kijelölt tinta törlése"
+
+msgid "Delete Table"
+msgstr "Táblázat törlése"
+
+msgid "Delete Table Style"
+msgstr "Táblázatstílus törlése"
+
+msgid "Deletions:"
+msgstr "Törlések:"
+
+msgid "Delivery address:"
+msgstr "Kézbesítési cím:"
+
+msgid "Delta Equal To"
+msgstr "Delta egyenlő"
+
+msgid "Delta over arrow"
+msgstr "Delta nyíl fölött"
+
+msgid "Demote"
+msgstr "Lefokozás"
+
+msgid "Demote to Body Text"
+msgstr "Lefokozás: Szövegtörzs"
+
+msgid "Derivative as a limit"
+msgstr "A derivált mint határérték"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Írd le, mit ábrázol ez az objektum, azok számára, akik nem látják."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Írd le, mit mutat ez a táblázat, azok számára, akik nem látják."
+
+msgid "Design"
+msgstr "Tervezés"
+
+msgid "Design Mode"
+msgstr "Tervezőmód"
+
+msgid "Detach Template"
+msgstr "Sablon leválasztása"
+
+msgid "Detect language automatically"
+msgstr "Nyelv automatikus felismerése"
+
+msgid "Developer"
+msgstr "Fejlesztőeszközök"
+
+msgid "development build"
+msgstr "fejlesztői kiadás"
+
+msgid "Diagonal Dots"
+msgstr "Átlós pontok"
+
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Diagramtervezés"
+
+msgid "Diagram Styles"
+msgstr "Diagramstílusok"
+
+msgid "Dictate"
+msgstr "Diktálás"
+
+msgid "Dictionaries"
+msgstr "Szótárak"
+
+msgid "Dictionaries folder:"
+msgstr "Szótárak mappája:"
+
+msgid "Dictionary files"
+msgstr "Szótárfájlok"
+
+msgid "Different First Page"
+msgstr "Eltérő első oldal"
+
+msgid "Different Odd & Even Pages"
+msgstr "Eltérő páros és páratlan oldalak"
+
+msgid "Differential"
+msgstr "Differenciál"
+
+msgid "Differential theta"
+msgstr "Theta differenciálja"
+
+msgid "Differential x"
+msgstr "Az x differenciálja"
+
+msgid "Differential y"
+msgstr "Az y differenciálja"
+
+msgid "Differentials"
+msgstr "Differenciálok"
+
+msgid "Direct formatting"
+msgstr "Közvetlen formázás"
+
+msgid "Directory"
+msgstr "Címjegyzék"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord-közösség"
+
+msgid "Display for Review"
+msgstr "Megjelenítés véleményezéshez"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Megjelenített szöveg"
+
+msgid "Distance from text"
+msgstr "Távolság a szövegtől"
+
+msgid "Distance from text:"
+msgstr "Távolság a szövegtől:"
+
+msgid "Distribute Columns"
+msgstr "Oszlopok egyenletes elosztása"
+
+msgid "Distribute letters"
+msgstr "Betűk egyenletes elosztása"
+
+msgid "Distribute Rows"
+msgstr "Sorok egyenletes elosztása"
+
+msgid "Distribute spacing"
+msgstr "Térköz egyenletes elosztása"
+
+msgid "Distributed"
+msgstr "Egyenletesen elosztott"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Nincs helyesírás- és nyelvhelyesség-ellenőrzés"
+
+msgid "Do not check spelling or grammar"
+msgstr "Nincs helyesírás- és nyelvhelyesség-ellenőrzés"
+
+msgid "DO NOT COPY"
+msgstr "NEM MÁSOLHATÓ"
+
+msgid "Do Not Show in TOC"
+msgstr "Ne jelenjen meg a tartalomjegyzékben"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Mented a módosításokat? ({name})"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Dokumentum vége"
+
+msgid "Document Formatting"
+msgstr "Dokumentumformázás"
+
+msgid "Document Grid"
+msgstr "Dokumentumrács"
+
+msgid "Document Information"
+msgstr "Dokumentum adatai"
+
+msgid "Document name"
+msgstr "Dokumentum neve"
+
+msgid "Document Property"
+msgstr "Dokumentumtulajdonság"
+
+msgid "Document Start"
+msgstr "Dokumentum eleje"
+
+msgid "Document template:"
+msgstr "Dokumentumsablon:"
+
+msgid "Document Text"
+msgstr "Dokumentum szövege"
+
+msgid "Document1"
+msgstr "Dokumentum1"
+
+msgid "Document\nPreferences"
+msgstr "Dokumentum\nbeállításai"
+
+msgid "Documents you open will show up here."
+msgstr "A megnyitott dokumentumaid itt jelennek meg."
+
+msgid "Does not contain"
+msgstr "Nem tartalmazza"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Dominikai Köztársaság"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Nincs térköz az azonos stílusú bekezdések között"
+
+msgid "Don't capitalize after:"
+msgstr "Nincs nagybetű ezek után:"
+
+msgid "Don't hyphenate"
+msgstr "Nincs elválasztás"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "A Zotero, a Mendeley és az EndNote hivatkozásainak és irodalomjegyzékeinek kihagyása"
+
+msgid "Don't show me this tip again"
+msgstr "Ne mutasd többé ezt a tippet"
+
+msgid "Dot dash"
+msgstr "Pont-vonal"
+
+msgid "Dot-dash"
+msgstr "Pont-vonal"
+
+msgid "Dot-dot-dash"
+msgstr "Pont-pont-vonal"
+
+msgid "Double"
+msgstr "Dupla"
+
+msgid "Double Bar"
+msgstr "Dupla vonal"
+
+msgid "Double Closing Quote"
+msgstr "Záró idézőjel"
+
+msgid "Double Dot"
+msgstr "Kettőspont ékezet"
+
+msgid "Double Integral"
+msgstr "Kettős integrál"
+
+msgid "Double Integral with Limits"
+msgstr "Kettős integrál határokkal"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Kettős integrál fölé és alá írt határokkal"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dupla balra nyíl, fölötte szöveggel"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dupla balra nyíl, alatta szöveggel"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dupla kétirányú nyíl, fölötte szöveggel"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dupla kétirányú nyíl, alatta szöveggel"
+
+msgid "Double Opening Quote"
+msgstr "Nyitó idézőjel"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dupla jobbra nyíl, fölötte szöveggel"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dupla jobbra nyíl, alatta szöveggel"
+
+msgid "Double Spacing"
+msgstr "Dupla sorköz"
+
+msgid "Double Square Brackets"
+msgstr "Dupla szögletes zárójelek"
+
+msgid "Double Strikethrough"
+msgstr "Dupla áthúzás"
+
+msgid "Double strikethrough"
+msgstr "Dupla áthúzás"
+
+msgid "Double summation"
+msgstr "Kettős összegzés"
+
+msgid "Double Underline"
+msgstr "Dupla aláhúzás"
+
+msgid "Double Vertical Bars"
+msgstr "Dupla függőleges vonalak"
+
+msgid "Doughnut"
+msgstr "Gyűrű"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "A letöltés ki van kapcsolva. A(z) „Nyelv hozzáadása…” vagy a(z) „Telepítés” gombra kattintva bekapcsolódik: ekkor a WordCraft nyelvi csomagokat és betűtípusokat tölt le a GitHubról."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "PISZKOZAT"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Táblázat rajzolásához húzz egy téglalapot, a cellák felosztásához húzz vonalat rajtuk keresztül. Kilépés: Esc."
+
+msgid "Draw Ink"
+msgstr "Tintarajz"
+
+msgid "Draw Table"
+msgstr "Táblázat rajzolása"
+
+msgid "Draw\nTable"
+msgstr "Táblázat\nrajzolása"
+
+msgid "Drawing Canvas"
+msgstr "Rajzvászon"
+
+msgid "Drawing Tools"
+msgstr "Rajzeszközök"
+
+msgid "Drawing\nCanvas"
+msgstr "Rajzvászon"
+
+msgid "Drop Cap"
+msgstr "Iniciálé"
+
+msgid "Drop cap"
+msgstr "Iniciálé"
+
+msgid "Drop Cap Options…"
+msgstr "Iniciálé beállításai…"
+
+msgid "drop caps can't go in a table"
+msgstr "iniciálé nem kerülhet táblázatba"
+
+msgid "Drop-Down List Content Control"
+msgstr "Legördülő listás tartalomvezérlő"
+
+msgid "Dropped"
+msgstr "Süllyesztett"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Minden formázást elhagy, és egyszerű szövegként illeszt be."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Holland, Nederlands vagy nl"
+
+msgid "E-mail Messages"
+msgstr "E-mail-üzenetek"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Megjegyzés szerkesztése"
+
+msgid "Edit Data"
+msgstr "Adatok szerkesztése"
+
+msgid "Edit Document"
+msgstr "Dokumentum szerkesztése"
+
+msgid "Edit Equation"
+msgstr "Egyenlet szerkesztése"
+
+msgid "Edit Field Code"
+msgstr "Mezőkód szerkesztése"
+
+msgid "Edit Field…"
+msgstr "Mező szerkesztése…"
+
+msgid "Edit Footer"
+msgstr "Élőláb szerkesztése"
+
+msgid "Edit Header"
+msgstr "Élőfej szerkesztése"
+
+msgid "Edit Individual Documents…"
+msgstr "Egyedi dokumentumok szerkesztése…"
+
+msgid "Edit Items"
+msgstr "Elemek szerkesztése"
+
+msgid "Edit Recipient List"
+msgstr "Címzettlista szerkesztése"
+
+msgid "Edit Source"
+msgstr "Forrás szerkesztése"
+
+msgid "Edit\nData"
+msgstr "Adatok\nszerkesztése"
+
+msgid "Edit\nRecipient List"
+msgstr "Címzettlista\nszerkesztése"
+
+msgid "Edited"
+msgstr "Szerkesztve"
+
+msgid "Editing endnote"
+msgstr "Végjegyzet szerkesztése"
+
+msgid "Editing footnote"
+msgstr "Lábjegyzet szerkesztése"
+
+msgid "Editing header/footer"
+msgstr "Élőfej és élőláb szerkesztése"
+
+msgid "Editing in this document is restricted."
+msgstr "A dokumentum szerkesztése korlátozott."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Szerkesztés – a dokumentum közvetlen módosítása"
+
+msgid "Edition"
+msgstr "Kiadás"
+
+msgid "Editor"
+msgstr "Szerkesztő"
+
+msgid "Egypt"
+msgstr "Egyiptom"
+
+msgid "El Salvador"
+msgstr "Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Derékszögű nyilas összekötő"
+
+msgid "Elbow Connector"
+msgstr "Derékszögű összekötő"
+
+msgid "Emphasis"
+msgstr "Hangsúlyos"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Üres mátrixok"
+
+msgid "Enclose Characters"
+msgstr "Bekeretezett karakterek"
+
+msgid "Enclosure"
+msgstr "Keret"
+
+msgid "Encrypt with Password"
+msgstr "Titkosítás jelszóval"
+
+msgid "Encrypt with Password…"
+msgstr "Titkosítás jelszóval…"
+
+msgid "End of document"
+msgstr "Dokumentum vége"
+
+msgid "End of section"
+msgstr "Szakasz vége"
+
+msgid "End of Word"
+msgstr "Szó vége"
+
+msgid "Endnote Reference"
+msgstr "Végjegyzet-hivatkozás"
+
+msgid "Endnote Text"
+msgstr "Végjegyzetszöveg"
+
+msgid "Endnotes"
+msgstr "Végjegyzetek"
+
+msgid "Endnotes to footnotes"
+msgstr "Végjegyzetekből lábjegyzetek"
+
+msgid "English (Australia)"
+msgstr "Angol (Ausztrália)"
+
+msgid "English (Canada)"
+msgstr "Angol (Kanada)"
+
+msgid "English (India)"
+msgstr "Angol (India)"
+
+msgid "English (Ireland)"
+msgstr "Angol (Írország)"
+
+msgid "English (New Zealand)"
+msgstr "Angol (Új-Zéland)"
+
+msgid "English (South Africa)"
+msgstr "Angol (Dél-Afrika)"
+
+msgid "English (United Kingdom)"
+msgstr "Angol (Egyesült Királyság)"
+
+msgid "English (United States)"
+msgstr "Angol (Egyesült Államok)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Az angol, a dokumentum nyelvei és minden telepített nyelvi csomag. A nyelvi csomagok helyesírási szótárakat és elválasztást adnak hozzá."
+
+msgid "Engrave"
+msgstr "Vésett"
+
+msgid "Enlarge symbol"
+msgstr "Szimbólum nagyítása"
+
+msgid "Enter a number."
+msgstr "Adj meg egy számot."
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "A szám formázása:"
+
+msgid "Enter in Equation"
+msgstr "Enter az egyenletben"
+
+msgid "Enter page number:"
+msgstr "Add meg az oldalszámot:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Bejegyzés megjelölve."
+
+msgid "Envelope #10"
+msgstr "Boríték #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Borítékcím"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Feladó címe"
+
+msgid "Envelope size:"
+msgstr "Borítékméret:"
+
+msgid "Envelopes"
+msgstr "Borítékok"
+
+msgid "Equal by Definition"
+msgstr "Definíció szerint egyenlő"
+
+msgid "Equal column width"
+msgstr "Egyenlő hasábszélesség"
+
+msgid "Equal Equal"
+msgstr "Egyenlő-egyenlő"
+
+msgid "Equal to"
+msgstr "Egyenlő"
+
+msgid "Equals:"
+msgstr "Értéke:"
+
+msgid "Equation"
+msgstr "Egyenlet"
+
+msgid "Equation Gallery"
+msgstr "Egyenletgaléria"
+
+msgid "Equation Info"
+msgstr "Egyenlet adatai"
+
+msgid "Equation Number"
+msgstr "Egyenlet sorszáma"
+
+msgid "Equation Options"
+msgstr "Beállítások"
+
+msgid "Equatorial Guinea"
+msgstr "Egyenlítői-Guinea"
+
+msgid "Erase Ink"
+msgstr "Tinta radírozása"
+
+msgid "Errors ({n})"
+msgstr "Hibák ({n})"
+
+msgid "Esperanto"
+msgstr "eszperantó"
+
+msgid "Estonian"
+msgstr "Észt"
+
+msgid "Euler's identity"
+msgstr "Euler-azonosság"
+
+msgid "Even Banded Columns"
+msgstr "Páros sávos oszlopok"
+
+msgid "Even Banded Rows"
+msgstr "Páros sávos sorok"
+
+msgid "Even Page"
+msgstr "Páros oldal"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Minden módosítás követett módosításként rögzül."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Minden parancs elérhető szkriptekből és MI-ágensekből is: MCP-szerverhez futtasd a `wordcraft-cli mcp` parancsot, a JSON-vezérlőcsatornához pedig indítsd az alkalmazást a `--control <port>` kapcsolóval."
+
+msgid "Every field needs a name."
+msgstr "Minden mezőnek kell név."
+
+msgid "Everyone"
+msgstr "Mindenki"
+
+msgid "Exactly"
+msgstr "Pontosan"
+
+msgid "Exactly {n}"
+msgstr "Pontosan {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Kivételek (nem kötelező)"
+
+msgid "Exceptions…"
+msgstr "Kivételek…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Létező fájl vagy weblap"
+
+msgid "Expand or Collapse Heading"
+msgstr "Címsor kibontása vagy összecsukása"
+
+msgid "Exponential"
+msgstr "Exponenciális"
+
+msgid "Exponential series"
+msgstr "Exponenciális sor"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Másolat exportálása megosztáshoz (PDF, Word-dokumentum)"
+
+msgid "Export Page as PNG"
+msgstr "Oldal exportálása PNG-ként"
+
+msgid "Extend Selection"
+msgstr "Kijelölés bővítése"
+
+msgid "Extend Selection by Units"
+msgstr "Kijelölés bővítése egységenként"
+
+msgid "Extra space"
+msgstr "Felesleges szóköz"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Gyorsabban megy: {command} billentyűparancsa {key}."
+
+msgid "Field code:"
+msgstr "Mezőkód:"
+
+msgid "Field Codes"
+msgstr "Mezőkódok"
+
+msgid "Field codes:"
+msgstr "Mezőkódok:"
+
+msgid "Field name"
+msgstr "Mezőnév"
+
+msgid "Field name:"
+msgstr "Mezőnév:"
+
+msgid "Field names must be different."
+msgstr "A mezőneveknek különbözniük kell."
+
+msgid "Field names:"
+msgstr "Mezőnevek:"
+
+msgid "Field:"
+msgstr "Mező:"
+
+msgid "Field…"
+msgstr "Mező…"
+
+msgid "Figure"
+msgstr "Ábra"
+
+msgid "File locations"
+msgstr "Fájlok helye"
+
+msgid "File name:"
+msgstr "Fájlnév:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "A Fájl › Új a Saját csoportban sorolja fel az itteni .dotx és .dotm sablonokat; a Mentés Word-sablonként innen indul."
+
+msgid "Fill color:"
+msgstr "Kitöltőszín:"
+
+msgid "Filling in forms"
+msgstr "Űrlapok kitöltése"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Szűrés és rendezés"
+
+msgid "Filter Recipients"
+msgstr "Címzettek szűrése"
+
+msgid "Find in list:"
+msgstr "Keresés a listában:"
+
+msgid "Find Next Editable Region"
+msgstr "Következő szerkeszthető terület keresése"
+
+msgid "Find Previous"
+msgstr "Előző keresése"
+
+msgid "Find Recipient"
+msgstr "Címzett keresése"
+
+msgid "Find What Expression"
+msgstr "A keresett kifejezés"
+
+msgid "Find What Text"
+msgstr "A keresett szöveg"
+
+msgid "Find what:"
+msgstr "Keresett szöveg:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "Nyomtatók keresése…"
+
+msgid "Finish & Merge"
+msgstr "Befejezés és egyesítés"
+
+msgid "Finish &\nMerge"
+msgstr "Befejezés és\negyesítés"
+
+msgid "Finished"
+msgstr "Befejezve"
+
+msgid "Finland"
+msgstr "Finnország"
+
+msgid "Finnish"
+msgstr "Finn"
+
+msgid "First Column"
+msgstr "Első oszlop"
+
+msgid "First line"
+msgstr "Első sor"
+
+msgid "First line:"
+msgstr "Első sor:"
+
+msgid "First Name"
+msgstr "Utónév"
+
+msgid "First Record"
+msgstr "Első rekord"
+
+msgid "First row of data contains column headers"
+msgstr "Az adatok első sora oszlopfejléceket tartalmaz"
+
+msgid "Fix Position on Page"
+msgstr "Rögzített hely az oldalon"
+
+msgid "Fixed Column Width"
+msgstr "Rögzített oszlopszélesség"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Alsó egészrész"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "A szám után:"
+
+msgid "Font Color"
+msgstr "Betűszín"
+
+msgid "Font color"
+msgstr "Betűszín"
+
+msgid "Font color:"
+msgstr "Betűszín:"
+
+msgid "Font Dialog"
+msgstr "Betűtípus párbeszédablak"
+
+msgid "Font: {font}"
+msgstr "Betűtípus: {font}"
+
+msgid "Font…"
+msgstr "Betűtípus…"
+
+msgid "Footer"
+msgstr "Élőláb"
+
+msgid "Footnote and Endnote"
+msgstr "Lábjegyzet és végjegyzet"
+
+msgid "Footnote Reference"
+msgstr "Lábjegyzet-hivatkozás"
+
+msgid "Footnote Text"
+msgstr "Lábjegyzetszöveg"
+
+msgid "Footnotes"
+msgstr "Lábjegyzetek"
+
+msgid "Footnotes and endnotes"
+msgstr "Láb- és végjegyzetek"
+
+msgid "Footnotes to endnotes"
+msgstr "Lábjegyzetekből végjegyzetek"
+
+msgid "For which item:"
+msgstr "Melyik elemhez:"
+
+msgid "Format Page Numbers"
+msgstr "Oldalszámok formázása"
+
+msgid "Format Page Numbers…"
+msgstr "Oldalszámok formázása…"
+
+msgid "Format Painter"
+msgstr "Formátummásoló"
+
+msgid "Format Shape"
+msgstr "Alakzat formázása"
+
+msgid "Format Shape Pane"
+msgstr "Alakzat formázása munkaablak"
+
+msgid "Format Shape…"
+msgstr "Alakzat formázása…"
+
+msgid "Formatted"
+msgstr "Formázott"
+
+msgid "Formatted Text"
+msgstr "Formázott szöveg"
+
+msgid "Formatting"
+msgstr "Formázás"
+
+msgid "Formatting at Selection"
+msgstr "A kijelölés formázása"
+
+msgid "Formatting exceptions"
+msgstr "Formázási kivételek"
+
+msgid "Formatting marks"
+msgstr "Formázási jelek"
+
+msgid "Formatting saved for new documents:"
+msgstr "Új dokumentumokhoz mentett formázás:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "A formázás, a kis- és nagybetű-változások, az üres karakterek és a táblázatok összevetése működik; a többi beállítás egyelőre csak megőrződik."
+
+msgid "Formula"
+msgstr "Képlet"
+
+msgid "Formula:"
+msgstr "Képlet:"
+
+msgid "Forward"
+msgstr "Előretekerés"
+
+msgid "Fraction"
+msgstr "Tört"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Törtek (1/2) törtkarakterként (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Franciaország"
+
+msgid "French (France)"
+msgstr "Francia (Franciaország)"
+
+msgid "From Bottom Left Corner"
+msgstr "A(z) bal alsó sarokból"
+
+msgid "From Bottom Right Corner"
+msgstr "A(z) jobb alsó sarokból"
+
+msgid "From Center"
+msgstr "Középről"
+
+msgid "From text:"
+msgstr "Távolság a szövegtől:"
+
+msgid "From Top Left Corner"
+msgstr "A(z) bal felső sarokból"
+
+msgid "From Top Right Corner"
+msgstr "A(z) jobb felső sarokból"
+
+msgid "from Unicode (hex)"
+msgstr "Unicode (hexa)"
+
+msgid "From {name}"
+msgstr "Feladó: {name}"
+
+msgid "From:"
+msgstr "Ettől:"
+
+msgid "Full page of the same label"
+msgstr "Teljes oldal azonos címkével"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Teljes képernyős nézet"
+
+msgid "Full\nScreen"
+msgstr "Teljes\nképernyő"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Érdekesség: az üres lap csak egy piszkozat, amelynek még senki nem mondta el, miről szól."
+
+msgid "Function"
+msgstr "Függvény"
+
+msgid "Galician"
+msgstr "galíciai"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "grúz"
+
+msgid "German (Germany)"
+msgstr "Német (Németország)"
+
+msgid "Germany"
+msgstr "Németország"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Lekéri a nyelvi csomagok listáját, majd az adott nyelv csomagját, ha van."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Ragyogás színei"
+
+msgid "Go Back"
+msgstr "Vissza"
+
+msgid "Go To"
+msgstr "Ugrás"
+
+msgid "Go to"
+msgstr "Ugrás"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Ugrás (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Ugrás rekordra"
+
+msgid "Go to what:"
+msgstr "Ugrás ide:"
+
+msgid "Go To…"
+msgstr "Ugrás…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Eltűnt! Mintha sosem írták volna le. Főleg azért, mert most már tényleg nem."
+
+msgid "Good afternoon"
+msgstr "Jó napot"
+
+msgid "Good evening"
+msgstr "Jó estét"
+
+msgid "Good morning"
+msgstr "Jó reggelt"
+
+msgid "GOST (name sort)"
+msgstr "GOST (név szerinti rendezés)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (cím szerinti rendezés)"
+
+msgid "Grab bag"
+msgstr "Vegyes"
+
+msgid "Gradient fill"
+msgstr "Színátmenetes kitöltés"
+
+msgid "Gradient stops"
+msgstr "Színátmenet-pontok"
+
+msgid "Grammar built in"
+msgstr "Beépített nyelvtan"
+
+msgid "Grave"
+msgstr "Tompa ékezet"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Nagyobb, mint"
+
+msgid "Greater than or equal"
+msgstr "Nagyobb vagy egyenlő"
+
+msgid "Greek"
+msgstr "Görög"
+
+msgid "Greek Letters"
+msgstr "Görög betűk"
+
+msgid "Green:"
+msgstr "Zöld:"
+
+msgid "Greeting Line"
+msgstr "Megszólítás"
+
+msgid "Greeting\nLine"
+msgstr "Megszólítás"
+
+msgid "Grid Table 1 Light"
+msgstr "Rácsos táblázat 1, világos"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Rácsos táblázat 4 – kék"
+
+msgid "Grid Table 4 – Green"
+msgstr "Rácsos táblázat 4 – zöld"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Rácsos táblázat 4 – narancs"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Rácsos táblázat 4 – lila"
+
+msgid "Gridlines"
+msgstr "Rácsvonalak"
+
+msgid "Grouping Character Above"
+msgstr "Csoportosító jel fölül"
+
+msgid "Grouping Character Below"
+msgstr "Csoportosító jel alul"
+
+msgid "Grow Font 1 Point"
+msgstr "Betűméret növelése 1 ponttal"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "M:"
+
+msgid "Hanging Indent"
+msgstr "Függő behúzás"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Kalap"
+
+msgid "Header"
+msgstr "Élőfej"
+
+msgid "Header & Footer"
+msgstr "Élőfej és élőláb"
+
+msgid "Header Row"
+msgstr "Fejlécsor"
+
+msgid "Header row"
+msgstr "Fejlécsor"
+
+msgid "Header/Footer Position"
+msgstr "Élőfej és élőláb helyzete"
+
+msgid "Headers and footers"
+msgstr "Élőfejek és élőlábak"
+
+msgid "Heading"
+msgstr "Címsor"
+
+msgid "Heading 1"
+msgstr "Címsor 1"
+
+msgid "Heading 2"
+msgstr "Címsor 2"
+
+msgid "Heading 3"
+msgstr "Címsor 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Címsorstílusok (1–{n}. szint)"
+
+msgid "Heading text"
+msgstr "Címsor szövege"
+
+msgid "Heading {n}"
+msgstr "Címsor {n}"
+
+msgid "Hebrew"
+msgstr "Héber"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Szia! Nib vagyok, az íróasszisztensed. Tippeket, billentyűparancsokat és néha kéretlen véleményt is adok. Maradjak?"
+
+msgid "Hidden bookmarks"
+msgstr "Rejtett könyvjelzők"
+
+msgid "Hide Codes"
+msgstr "Kódok elrejtése"
+
+msgid "Hide from style lists"
+msgstr "Elrejtés a stíluslistákból"
+
+msgid "Hide Ink"
+msgstr "Tinta elrejtése"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Gyorselérési eszköztár elrejtése"
+
+msgid "Hide White Space"
+msgstr "Üres terület elrejtése"
+
+msgid "Hide\nInk"
+msgstr "Tinta\nelrejtése"
+
+msgid "Hierarchy"
+msgstr "Hierarchia"
+
+msgid "Highlight"
+msgstr "Kiemelés"
+
+msgid "Highlight Merge Fields"
+msgstr "Egyesítési mezők kiemelése"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Egyesítési mezők\nkiemelése"
+
+msgid "Highlighter"
+msgstr "Szövegkiemelő"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Saját mappa"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "Hongkong KKT"
+
+msgid "Horizontal Line"
+msgstr "Vízszintes vonal"
+
+msgid "How many pages the whole document has"
+msgstr "A teljes dokumentum oldalainak száma"
+
+msgid "How many pages this section has"
+msgstr "A szakasz oldalainak száma"
+
+msgid "How many words the document holds"
+msgstr "A dokumentum szavainak száma"
+
+msgid "HTML Format"
+msgstr "HTML formátum"
+
+msgid "Hue:"
+msgstr "Árnyalat:"
+
+msgid "Hungarian"
+msgstr "magyar"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Az ebben a mappában lévő Hunspell .aff és .dic fájlok (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) elsőbbséget élveznek a rendszer fájljaival szemben."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hiperbolikus koszekánsfüggvény"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hiperbolikus koszinuszfüggvény"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hiperbolikus kotangensfüggvény"
+
+msgid "Hyperbolic Functions"
+msgstr "Hiperbolikus függvények"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hiperbolikus szekánsfüggvény"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hiperbolikus szinuszfüggvény"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hiperbolikus tangensfüggvény"
+
+msgid "Hyperlink"
+msgstr "Link"
+
+msgid "Hyphenate at:"
+msgstr "Elválasztási hely:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Csupa nagybetűs szavak elválasztása"
+
+msgid "Hyphenation Options…"
+msgstr "Elválasztási beállítások…"
+
+msgid "Hyphenation zone:"
+msgstr "Elválasztási zóna:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Kötőjelek (--) gondolatjelként (—)"
+
+msgid "Hypotenuse"
+msgstr "Átfogó"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Ígérem, el van mentve. Megnéztem. Kétszer."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Írnék én is valamit, de csak egy hegy vagyok tinta nélkül. Nagy a szám, de üres a tartály."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "izlandi"
+
+msgid "Icon Color"
+msgstr "Ikon színe"
+
+msgid "Icons"
+msgstr "Ikonok"
+
+msgid "Identity Matrices"
+msgstr "Egységmátrixok"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Ha…Akkor…Különben"
+
+msgid "If…Then…Else…"
+msgstr "Ha…Akkor…Különben…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Írásjelek figyelmen kívül hagyása"
+
+msgid "Ignore web and file addresses"
+msgstr "Web- és fájlcímek kihagyása"
+
+msgid "Ignore white-space characters"
+msgstr "Üres karakterek figyelmen kívül hagyása"
+
+msgid "Ignore words in capitals"
+msgstr "Csupa nagybetűs szavak kihagyása"
+
+msgid "Ignore words with numbers"
+msgstr "Számot tartalmazó szavak kihagyása"
+
+msgid "Illustrations"
+msgstr "Illusztrációk"
+
+msgid "Immersive"
+msgstr "Elmélyült"
+
+msgid "Immersive Reader"
+msgstr "Elmélyült olvasás"
+
+msgid "Immersive\nReader"
+msgstr "Elmélyült\nolvasás"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Az Alapértelmezett alkalmazások között válassza a WordCraftot azokhoz a dokumentumtípusokhoz, amelyeket meg kell nyitnia."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Egyenletben a fordított perjel után beírt név helyére a hozzá tartozó szimbólum kerül."
+
+msgid "In Front of Text"
+msgstr "Szöveg előtt"
+
+msgid "In Line with Text"
+msgstr "Szöveggel egy sorban"
+
+msgid "In margin"
+msgstr "Margón"
+
+msgid "In the margin"
+msgstr "A margón"
+
+msgid "Include label and number"
+msgstr "Címkével és számmal"
+
+msgid "Include level number from:"
+msgstr "Szintszám átvétele innen:"
+
+msgid "Include page numbers"
+msgstr "Oldalszámokkal"
+
+msgid "Increase Indent"
+msgstr "Behúzás növelése"
+
+msgid "Indent"
+msgstr "Behúzás"
+
+msgid "Indent from left:"
+msgstr "Behúzás balról:"
+
+msgid "Indentation"
+msgstr "Behúzás"
+
+msgid "Indented"
+msgstr "Behúzott"
+
+msgid "Indents"
+msgstr "Behúzások"
+
+msgid "Indents and Spacing"
+msgstr "Behúzás és térköz"
+
+msgid "Index and Tables"
+msgstr "Tárgymutató és jegyzékek"
+
+msgid "Index Heading"
+msgstr "Tárgymutató-címsor"
+
+msgid "Index {n}"
+msgstr "Tárgymutató {n}"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesian"
+msgstr "Indonéz"
+
+msgid "Initial column width:"
+msgstr "Kezdeti oszlopszélesség:"
+
+msgid "Initials:"
+msgstr "Monogram:"
+
+msgid "Ink"
+msgstr "Tinta"
+
+msgid "Ink Replay"
+msgstr "Tinta visszajátszása"
+
+msgid "Ink to Shape"
+msgstr "Tintából alakzat"
+
+msgid "Ink to\nMath"
+msgstr "Tintából\nképlet"
+
+msgid "Ink to\nShape"
+msgstr "Tintából\nalakzat"
+
+msgid "Ink\nReplay"
+msgstr "Tinta\nvisszajátszása"
+
+msgid "Inline"
+msgstr "Szövegközi"
+
+msgid "Input Format"
+msgstr "Beviteli formátum"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Új egyenlet beszúrása (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Beszúrás fölé"
+
+msgid "Insert Below"
+msgstr "Beszúrás alá"
+
+msgid "Insert Caption"
+msgstr "Felirat beszúrása"
+
+msgid "Insert Caption…"
+msgstr "Felirat beszúrása…"
+
+msgid "Insert Chart"
+msgstr "Diagram beszúrása"
+
+msgid "Insert Citation"
+msgstr "Forráshivatkozás beszúrása"
+
+msgid "Insert Columns to the Left"
+msgstr "Oszlopok beszúrása balra"
+
+msgid "Insert Columns to the Right"
+msgstr "Oszlopok beszúrása jobbra"
+
+msgid "Insert Date Field"
+msgstr "Dátummező beszúrása"
+
+msgid "Insert Diagram"
+msgstr "Diagram beszúrása"
+
+msgid "Insert Endnote"
+msgstr "Végjegyzet beszúrása"
+
+msgid "Insert Footnote"
+msgstr "Lábjegyzet beszúrása"
+
+msgid "Insert Hyperlink"
+msgstr "Link beszúrása"
+
+msgid "Insert Index"
+msgstr "Tárgymutató beszúrása"
+
+msgid "Insert Left"
+msgstr "Beszúrás balra"
+
+msgid "Insert Merge Field"
+msgstr "Egyesítési mező beszúrása"
+
+msgid "Insert Merge\nField"
+msgstr "Egyesítési mező\nbeszúrása"
+
+msgid "Insert New Equation"
+msgstr "Új egyenlet beszúrása"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Egy mező értékétől függően az egyik vagy a másik szöveg kerül be."
+
+msgid "Insert Page Field"
+msgstr "Oldalszámmező beszúrása"
+
+msgid "Insert reference to:"
+msgstr "Hivatkozás beszúrása erre:"
+
+msgid "Insert Right"
+msgstr "Beszúrás jobbra"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Sor vagy oszlop beszúrása kattintással"
+
+msgid "Insert Rows Above"
+msgstr "Sorok beszúrása fölé"
+
+msgid "Insert Rows Below"
+msgstr "Sorok beszúrása alá"
+
+msgid "Insert Shapes"
+msgstr "Alakzatok beszúrása"
+
+msgid "Insert SmartArt"
+msgstr "SmartArt beszúrása"
+
+msgid "Insert Spike"
+msgstr "Beszúrás a gyűjtőből"
+
+msgid "Insert Structure"
+msgstr "Szerkezet beszúrása"
+
+msgid "Insert Symbol"
+msgstr "Szimbólum beszúrása"
+
+msgid "Insert Table"
+msgstr "Táblázat beszúrása"
+
+msgid "Insert Table of Authorities"
+msgstr "Jogforrásjegyzék beszúrása"
+
+msgid "Insert Table of Figures"
+msgstr "Ábrajegyzék beszúrása"
+
+msgid "Insert Table…"
+msgstr "Táblázat beszúrása…"
+
+msgid "Insert Time Field"
+msgstr "Időmező beszúrása"
+
+msgid "Insert\nAbove"
+msgstr "Beszúrás\nfölé"
+
+msgid "Insert\nCaption"
+msgstr "Felirat\nbeszúrása"
+
+msgid "Insert\nCitation"
+msgstr "Forráshivatkozás\nbeszúrása"
+
+msgid "Insert\nFootnote"
+msgstr "Lábjegyzet\nbeszúrása"
+
+msgid "Insertions and Deletions"
+msgstr "Beszúrások és törlések"
+
+msgid "Insertions:"
+msgstr "Beszúrások:"
+
+msgid "Inside Borders"
+msgstr "Belső szegélyek"
+
+msgid "Inside Horizontal Border"
+msgstr "Belső vízszintes szegély"
+
+msgid "Inside Vertical Border"
+msgstr "Belső függőleges szegély"
+
+msgid "Inside:"
+msgstr "Belső:"
+
+msgid "Inspect Styles at Selection"
+msgstr "A kijelölés stílusainak vizsgálata"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Helyesírás telepítése ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Intézmény"
+
+msgid "Integral"
+msgstr "Integrál"
+
+msgid "Integral of e^(−x²)"
+msgstr "Az e^(−x²) integrálja"
+
+msgid "Integral with Limits"
+msgstr "Integrál határokkal"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integrál fölé és alá írt határokkal"
+
+msgid "Integrals"
+msgstr "Integrálok"
+
+msgid "Intense Emphasis"
+msgstr "Erősen hangsúlyos"
+
+msgid "Intense Quote"
+msgstr "Kiemelt idézet"
+
+msgid "Intense Reference"
+msgstr "Erős hivatkozás"
+
+msgid "Interface language:"
+msgstr "Felület nyelve:"
+
+msgid "Interface size:"
+msgstr "Felület mérete:"
+
+msgid "Interface theme:"
+msgstr "Felület témája:"
+
+msgid "Interface\nTheme"
+msgstr "Felület\ntémája"
+
+msgid "Internet addresses as links"
+msgstr "Internetcímek linkként"
+
+msgid "Intersection with Limits"
+msgstr "Metszet határokkal"
+
+msgid "Intersection with Lower Limit"
+msgstr "Metszet alsó határral"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Metszet indexben írt határokkal"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Arkusz koszekánsfüggvény"
+
+msgid "Inverse Cosine Function"
+msgstr "Arkusz koszinuszfüggvény"
+
+msgid "Inverse Cotangent Function"
+msgstr "Arkusz kotangensfüggvény"
+
+msgid "Inverse Functions"
+msgstr "Inverz függvények"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Area koszekáns hiperbolikus függvény"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Area koszinusz hiperbolikus függvény"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Area kotangens hiperbolikus függvény"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Inverz hiperbolikus függvények"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Area szekáns hiperbolikus függvény"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Area szinusz hiperbolikus függvény"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Area tangens hiperbolikus függvény"
+
+msgid "Inverse Secant Function"
+msgstr "Arkusz szekánsfüggvény"
+
+msgid "Inverse Sine Function"
+msgstr "Arkusz szinuszfüggvény"
+
+msgid "Inverse Tangent Function"
+msgstr "Arkusz tangensfüggvény"
+
+msgid "Ionosphere"
+msgstr "Ionoszféra"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Írország"
+
+msgid "Irish"
+msgstr "ír"
+
+msgid "Is blank"
+msgstr "Üres"
+
+msgid "Is not blank"
+msgstr "Nem üres"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (szerző–év)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (számozott)"
+
+msgid "Issue"
+msgstr "Szám"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Úgy tűnik, levelet írsz. Kérsz hozzá borítékot, vagy egy levélsablont, amelyből kiindulhatsz?"
+
+msgid "Italy"
+msgstr "Olaszország"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "A szótárát nem sikerült beolvasni: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Csatlakozz az ArtCraft közösséghez a Discordon"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Csatlakozz hozzánk a Discordon: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordánia"
+
+msgid "Journal"
+msgstr "Folyóirat"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "A kiemelt egyenlet igazítása"
+
+msgid "Justified"
+msgstr "Sorkizárt"
+
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+msgid "Keep Lines Together"
+msgstr "Sorok együtt tartása"
+
+msgid "Keep lines together"
+msgstr "Sorok együtt tartása"
+
+msgid "Keep me around"
+msgstr "Maradj csak"
+
+msgid "Keep Text Only"
+msgstr "Csak a szöveg megtartása"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Tartsd biztonságos helyen a jelszót: nélküle senki, még a WordCraft sem tudja megnyitni a dokumentumot. A jelszó eltávolításához hagyd üresen mindkét mezőt."
+
+msgid "Keep with Next"
+msgstr "Együtt a következővel"
+
+msgid "Keep with next"
+msgstr "Együtt a következővel"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Megtartja a másolt szöveg betűtípusát és formázását."
+
+msgid "Kerning for fonts:"
+msgstr "Alávágás betűtípusoknál:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Billentyűparancsok:"
+
+msgid "Keys for this command:"
+msgstr "A parancs billentyűi:"
+
+msgid "Kuwait"
+msgstr "Kuvait"
+
+msgid "Label changes with:"
+msgstr "Módosítások szerzője:"
+
+msgid "Label:"
+msgstr "Címke:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Nyelvi beállítások…"
+
+msgid "Large\nOperator"
+msgstr "Nagy\noperátor"
+
+msgid "Largest Only"
+msgstr "Csak a szélesebb oldal"
+
+msgid "Lasso Select"
+msgstr "Lasszós kijelölés"
+
+msgid "Last Column"
+msgstr "Utolsó oszlop"
+
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+msgid "Last Record"
+msgstr "Utolsó rekord"
+
+msgid "Last, First; Last, First"
+msgstr "Vezetéknév, Utónév; Vezetéknév, Utónév"
+
+msgid "Latin text font:"
+msgstr "Latin szöveg betűtípusa:"
+
+msgid "Latvian"
+msgstr "lett"
+
+msgid "Layout Summary"
+msgstr "Elrendezés összegzése"
+
+msgid "Layouts"
+msgstr "Elrendezések"
+
+msgid "Leader"
+msgstr "Kitöltő karakter"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "A címzett kimarad az egyesítésből, ha egy mező ezt az értéket veszi fel."
+
+msgid "Leave Equation"
+msgstr "Kilépés az egyenletből"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Mentéskor a megjegyzések és a követett módosítások dátumának és idejének elhagyása"
+
+msgid "Leave the equation (Esc)"
+msgstr "Kilépés az egyenletből (Esc)"
+
+msgid "leave the equation first"
+msgstr "először lépjen ki az egyenletből"
+
+msgid "Leave the label out of the caption"
+msgstr "A címke elhagyása a feliratból"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left Arrow with Text Above"
+msgstr "Balra nyíl, fölötte szöveggel"
+
+msgid "Left Arrow with Text Below"
+msgstr "Balra nyíl, alatta szöveggel"
+
+msgid "Left Border"
+msgstr "Bal szegély"
+
+msgid "Left border"
+msgstr "Bal szegély"
+
+msgid "Left Bracket Twice"
+msgstr "Két bal szögletes zárójel"
+
+msgid "Left indent"
+msgstr "Bal behúzás"
+
+msgid "Left Margin"
+msgstr "Bal margó"
+
+msgid "Left Only"
+msgstr "Csak bal"
+
+msgid "Left Right Arrow Above"
+msgstr "Kétirányú nyíl fölül"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Kétirányú nyíl, fölötte szöveggel"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Kétirányú nyíl, alatta szöveggel"
+
+msgid "Left Subscript-Superscript"
+msgstr "Bal oldali alsó és felső index"
+
+msgid "Left-to-right"
+msgstr "Balról jobbra"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Balról jobbra írás"
+
+msgid "Leftwards Arrow Above"
+msgstr "Balra mutató nyíl fölül"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Balra mutató szigony fölül"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Jogi stílusú számozás"
+
+msgid "Legend"
+msgstr "Jelmagyarázat"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Kisebb, mint"
+
+msgid "Less than or equal"
+msgstr "Kisebb vagy egyenlő"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Betűfejlécek"
+
+msgid "Letter template"
+msgstr "Levélsablon"
+
+msgid "Letter-Like Symbols"
+msgstr "Betűszerű szimbólumok"
+
+msgid "Letters"
+msgstr "Levelek"
+
+msgid "Level 5"
+msgstr "5. szint"
+
+msgid "Level 6"
+msgstr "6. szint"
+
+msgid "Level 7"
+msgstr "7. szint"
+
+msgid "Level 8"
+msgstr "8. szint"
+
+msgid "Level 9"
+msgstr "9. szint"
+
+msgid "Level {n}"
+msgstr "{n}. szint"
+
+msgid "Levels:"
+msgstr "Szintek:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr "Világos változatok"
+
+msgid "Light with Outline"
+msgstr "Világos, körvonallal"
+
+msgid "Limit"
+msgstr "Határérték"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Határérték\nés logaritmus"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Egymást követő elválasztások legfeljebb:"
+
+msgid "Limit Example"
+msgstr "Határérték (példa)"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Formázás korlátozása a kiválasztott stílusokra"
+
+msgid "Line and Page Breaks"
+msgstr "Sor- és oldaltörés"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Sorköz és bekezdéstérköz"
+
+msgid "Line between"
+msgstr "Elválasztó vonal"
+
+msgid "Line Break"
+msgstr "Sortörés"
+
+msgid "Line breaking"
+msgstr "Sortörés"
+
+msgid "Line End"
+msgstr "Sor vége"
+
+msgid "Line Number"
+msgstr "Sorszám"
+
+msgid "Line Numbering Options…"
+msgstr "Sorszámozás beállításai…"
+
+msgid "Line Numbers"
+msgstr "Sorszámozás"
+
+msgid "Line Spacing"
+msgstr "Sorköz"
+
+msgid "Line Spacing Options…"
+msgstr "Sorköz beállításai…"
+
+msgid "Line spacing:"
+msgstr "Sorköz:"
+
+msgid "Line Start"
+msgstr "Sor eleje"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Lineáris átlós – bal alsó sarokból jobb felső sarokba"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Lineáris átlós – jobb alsó sarokból bal felső sarokba"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Lineáris átlós – bal felső sarokból jobb alsó sarokba"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Lineáris átlós – jobb felső sarokból bal alsó sarokba"
+
+msgid "Linear Down"
+msgstr "Lineáris lefelé"
+
+msgid "Linear Fraction"
+msgstr "Lineáris tört"
+
+msgid "Linear Left"
+msgstr "Lineáris balra"
+
+msgid "Linear Right"
+msgstr "Lineáris jobbra"
+
+msgid "Linear Up"
+msgstr "Lineáris felfelé"
+
+msgid "Lines and characters"
+msgstr "Sorok és karakterek"
+
+msgid "Lines only"
+msgstr "Csak sorok"
+
+msgid "Lines per page:"
+msgstr "Sorok oldalanként:"
+
+msgid "Lines to drop:"
+msgstr "Sorok száma:"
+
+msgid "Link entries to their headings"
+msgstr "Bejegyzések csatolása a címsorukhoz"
+
+msgid "Link level to style:"
+msgstr "A szinthez tartozó stílus:"
+
+msgid "Link to Previous"
+msgstr "Csatolás az előzőhöz"
+
+msgid "Link to:"
+msgstr "Hivatkozás helye:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Csatolt stílus (bekezdés és karakter)"
+
+msgid "Links and References"
+msgstr "Linkek és hivatkozások"
+
+msgid "Link…"
+msgstr "Link…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Listadefiníció"
+
+msgid "List entries"
+msgstr "Listaelemek"
+
+msgid "List Paragraph"
+msgstr "Listabekezdés"
+
+msgid "List Table 3 – Blue"
+msgstr "Listatáblázat 3 – kék"
+
+msgid "List Table 3 – Green"
+msgstr "Listatáblázat 3 – zöld"
+
+msgid "List Table 3 – Orange"
+msgstr "Listatáblázat 3 – narancs"
+
+msgid "List Table 3 – Purple"
+msgstr "Listatáblázat 3 – lila"
+
+msgid "Lit from Bottom"
+msgstr "Alulról megvilágított"
+
+msgid "Lit from Top"
+msgstr "Felülről megvilágított"
+
+msgid "Lithuanian"
+msgstr "litván"
+
+msgid "Load System Installed Fonts…"
+msgstr "Telepített rendszer-betűtípusok betöltése…"
+
+msgid "Loaded {count} system fonts."
+msgstr "{count} rendszer-betűtípus betöltve."
+
+msgid "Local font access is not supported by your browser."
+msgstr "A böngészője nem támogatja a helyi betűtípusokhoz való hozzáférést."
+
+msgid "Local font access was denied."
+msgstr "A helyi betűtípusokhoz való hozzáférés megtagadva."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Hely: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Méretarány zárolása"
+
+msgid "Lock Fields"
+msgstr "Mezők zárolása"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Logaritmus"
+
+msgid "Logarithm with Base"
+msgstr "Logaritmus alappal"
+
+msgid "Logical AND"
+msgstr "Logikai ÉS"
+
+msgid "Logical AND with Limits"
+msgstr "Logikai ÉS határokkal"
+
+msgid "Logical OR"
+msgstr "Logikai VAGY"
+
+msgid "Logical OR with Limits"
+msgstr "Logikai VAGY határokkal"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: mert az igazi szavak még a kávézóban ülnek."
+
+msgid "Lum:"
+msgstr "Fényesség:"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Macao SAR"
+msgstr "Makaó KKT"
+
+msgid "Macedonian"
+msgstr "macedón"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Makrók"
+
+msgid "Made from the author and year when empty"
+msgstr "Ha üres, a szerzőből és az évből készül"
+
+msgid "Magazine or newspaper article"
+msgstr "Folyóirat- vagy újságcikk"
+
+msgid "Mail Merge"
+msgstr "Körlevél"
+
+msgid "Mailings"
+msgstr "Levelezés"
+
+msgid "Main entry:"
+msgstr "Főbejegyzés:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "A WordCraft legyen az alapértelmezett a Word-dokumentumokhoz…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "A menüszalag, a menük és a párbeszédablakok nagyítása vagy kicsinyítése. Az Automatikus a rendszer kijelzőméretezését követi; 100% pontonként egy képernyőpixel. A dokumentum nagyítása ettől független."
+
+msgid "Malaysia"
+msgstr "Malajzia"
+
+msgid "Manage Sources"
+msgstr "Források kezelése"
+
+msgid "Manage Styles"
+msgstr "Stílusok kezelése"
+
+msgid "Manage Styles…"
+msgstr "Stílusok kezelése…"
+
+msgid "Manual Hyphenation"
+msgstr "Kézi elválasztás"
+
+msgid "Manual hyphenation is complete."
+msgstr "A kézi elválasztás befejeződött."
+
+msgid "Manual Line Break"
+msgstr "Kézi sortörés"
+
+msgid "Manual Page Break"
+msgstr "Kézi oldaltörés"
+
+msgid "Manual…"
+msgstr "Kézi…"
+
+msgid "Many pages"
+msgstr "Sok oldal"
+
+msgid "Mark"
+msgstr "Megjelölés"
+
+msgid "Mark All"
+msgstr "Összes megjelölése"
+
+msgid "Mark as decorative"
+msgstr "Megjelölés díszítőelemként"
+
+msgid "Mark Citation"
+msgstr "Hivatkozás megjelölése"
+
+msgid "Mark Entry"
+msgstr "Bejegyzés megjelölése"
+
+msgid "Mark Entry…"
+msgstr "Bejegyzés megjelölése…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Nyelvhelyességi hibák jelölése gépelés közben"
+
+msgid "Mark Index Entry"
+msgstr "Tárgymutató-bejegyzés megjelölése"
+
+msgid "Mark selected text as:"
+msgstr "A kijelölt szöveg nyelve:"
+
+msgid "Mark\nCitation"
+msgstr "Hivatkozás\nmegjelölése"
+
+msgid "Mark\nEntry"
+msgstr "Bejegyzés\nmegjelölése"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Kis- és nagybetű megkülönböztetése"
+
+msgid "Match Fields"
+msgstr "Mezők megfeleltetése"
+
+msgid "Match prefix"
+msgstr "Egyezés a szó elején"
+
+msgid "Match suffix"
+msgstr "Egyezés a szó végén"
+
+msgid "Matches: {count}"
+msgstr "Találatok: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Matematikai automatikus javítás"
+
+msgid "Matrices with Brackets"
+msgstr "Zárójeles mátrixok"
+
+msgid "Matrix"
+msgstr "Mátrix"
+
+msgid "Maximum Example"
+msgstr "Maximum (példa)"
+
+msgid "Measured By"
+msgstr "Mértékegysége"
+
+msgid "Measurement units:"
+msgstr "Mértékegység:"
+
+msgid "Merge cells before split"
+msgstr "Cellák egyesítése felosztás előtt"
+
+msgid "Merge Formatting"
+msgstr "Formázás összefésülése"
+
+msgid "Merge Record #"
+msgstr "Egyesítési rekord sorszáma"
+
+msgid "Mesosphere"
+msgstr "Mezoszféra"
+
+msgid "Mexico"
+msgstr "Mexikó"
+
+msgid "Midline Dots"
+msgstr "Középvonali pontok"
+
+msgid "Minus Equal"
+msgstr "Mínusz-egyenlő"
+
+msgid "Mirror indents"
+msgstr "Tükrözött behúzások"
+
+msgid "Mirror margins"
+msgstr "Tükrözött margók"
+
+msgid "Mirrored"
+msgstr "Tükrözött"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT vagy Apache-2.0. Copyright (c) 2026 ArtCraft Team és a WordCraft közreműködői."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Mérsékelt"
+
+msgid "Modify Style"
+msgstr "Stílus módosítása"
+
+msgid "Modify Table Style"
+msgstr "Táblázatstílus módosítása"
+
+msgid "Modify Table Style…"
+msgstr "Táblázatstílus módosítása…"
+
+msgid "Modify…"
+msgstr "Módosítás…"
+
+msgid "Mon"
+msgstr "H"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Montenegró"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "More >>"
+msgstr "Több >>"
+
+msgid "More Colors…"
+msgstr "További színek…"
+
+msgid "More Columns…"
+msgstr "További hasábok…"
+
+msgid "More Commands…"
+msgstr "További parancsok…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "További színátmenetek…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "További papírméretek…"
+
+msgid "More Symbols…"
+msgstr "További szimbólumok…"
+
+msgid "More tabs"
+msgstr "További lapok"
+
+msgid "More templates →"
+msgstr "További sablonok →"
+
+msgid "More Underlines…"
+msgstr "További aláhúzások…"
+
+msgid "Morocco"
+msgstr "Marokkó"
+
+msgid "Move in Equation"
+msgstr "Mozgás az egyenletben"
+
+msgid "Move or Resize"
+msgstr "Áthelyezés vagy átméretezés"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Bekezdés mozgatása lefelé"
+
+msgid "Move Paragraph Up"
+msgstr "Bekezdés mozgatása felfelé"
+
+msgid "Move Past Citation"
+msgstr "Ugrás a hivatkozás után"
+
+msgid "Move Past\nCitation"
+msgstr "Ugrás a\nhivatkozás után"
+
+msgid "Move Selected Ink"
+msgstr "Kijelölt tinta áthelyezése"
+
+msgid "Move Table by Dragging"
+msgstr "Táblázat áthelyezése húzással"
+
+msgid "Move with Text"
+msgstr "Mozgatás a szöveggel"
+
+msgid "Moved from"
+msgstr "Áthelyezve innen"
+
+msgid "Moved from:"
+msgstr "Áthelyezve innen:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "A mozgatott objektumok a lap széleihez és közepéhez, a margókhoz és más objektumokhoz illeszkednek. Szabad mozgatáshoz tartsa lenyomva az Alt billentyűt."
+
+msgid "Moved to"
+msgstr "Áthelyezve ide"
+
+msgid "Moved to:"
+msgstr "Áthelyezve ide:"
+
+msgid "Moves"
+msgstr "Áthelyezések"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "Multilevel List"
+msgstr "Többszintű lista"
+
+msgid "Multilevel List Library"
+msgstr "Többszintű listák tára"
+
+msgid "Multiple Pages"
+msgstr "Több oldal"
+
+msgid "Mute agent messages"
+msgstr "Ügynöküzenetek némítása"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "A listám tartalmaz"
+
+msgid "Name of the file this document is saved as"
+msgstr "A dokumentum mentett fájljának neve"
+
+msgid "Narrow"
+msgstr "Keskeny"
+
+msgid "Narrow  {size} all"
+msgstr "Keskeny  {size} mindenhol"
+
+msgid "Natural Logarithm"
+msgstr "Természetes logaritmus"
+
+msgid "Nature"
+msgstr "Természet"
+
+msgid "Navigation Pane"
+msgstr "Navigációs panel"
+
+msgid "Negated Relations"
+msgstr "Tagadott relációk"
+
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgid "New blank documents are written in this language"
+msgstr "Az új üres dokumentumok ezen a nyelven készülnek"
+
+msgid "New Comment"
+msgstr "Új megjegyzés"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Az új megjegyzések és követett módosítások ezzel a névvel és monogrammal rögzülnek."
+
+msgid "New Documents Based on This Template"
+msgstr "Az ezen a sablonon alapuló új dokumentumokban"
+
+msgid "New documents based on this template"
+msgstr "Az ezen a sablonon alapuló új dokumentumokban"
+
+msgid "New documents will use this font."
+msgstr "Az új dokumentumok ezt a betűtípust használják."
+
+msgid "New documents will use this page setup."
+msgstr "Az új dokumentumok ezt az oldalbeállítást használják."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Az új dokumentumok ezt a bekezdésformázást használják."
+
+msgid "New documents will use this style."
+msgstr "Az új dokumentumok ezt a stílust használják."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Az új dokumentumok a WordCraft beépített formázását használják."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Az új dokumentumok a WordCraft beépített formázását használják. A mentett alapértelmezések nem állíthatók helyre. Visszaállítod?"
+
+msgid "New Drawing Canvas"
+msgstr "Új rajzvászon"
+
+msgid "New Entry"
+msgstr "Új bejegyzés"
+
+msgid "New Label"
+msgstr "Új címke"
+
+msgid "New Label…"
+msgstr "Új címke…"
+
+msgid "New Paragraph"
+msgstr "Új bekezdés"
+
+msgid "New shortcut:"
+msgstr "Új billentyűparancs:"
+
+msgid "New Tab"
+msgstr "Új lap"
+
+msgid "New Table Style"
+msgstr "Új táblázatstílus"
+
+msgid "New Table Style…"
+msgstr "Új táblázatstílus…"
+
+msgid "New word"
+msgstr "Új szó"
+
+msgid "New Zealand"
+msgstr "Új-Zéland"
+
+msgid "New\nComment"
+msgstr "Új\nmegjegyzés"
+
+msgid "New\nWindow"
+msgstr "Új\nablak"
+
+msgid "Next Comment"
+msgstr "Következő megjegyzés"
+
+msgid "Next Field"
+msgstr "Következő mező"
+
+msgid "Next Footnote"
+msgstr "Következő lábjegyzet"
+
+msgid "Next Record"
+msgstr "Következő rekord"
+
+msgid "Next Section"
+msgstr "Következő szakasz"
+
+msgid "Next Sentence"
+msgstr "Következő mondat"
+
+msgid "Next sentence"
+msgstr "Következő mondat"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib tippekkel és néha egy-egy megjegyzéssel lebeg az ablak felett."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, az asszisztense. Húzza az áthelyezéshez; kattintson jobb gombbal a beállításokhoz."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Nincs akadálymentességi probléma."
+
+msgid "No Border"
+msgstr "Nincs szegély"
+
+msgid "No changes (read only)"
+msgstr "Nincs módosítás (csak olvasható)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Ebbe a példányba nem kerültek közreműködői adatok."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Nincs megnyitott dokumentum. Előbb hozz létre vagy nyiss meg egyet."
+
+msgid "no equation at the caret"
+msgstr "nincs egyenlet a kurzornál"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Nincs hiba: minden egyesítési mező szerepel a címzettlistában."
+
+msgid "No Fill"
+msgstr "Nincs kitöltés"
+
+msgid "No fill"
+msgstr "Nincs kitöltés"
+
+msgid "No Glow"
+msgstr "Nincs ragyogás"
+
+msgid "No Gradient"
+msgstr "Nincs színátmenet"
+
+msgid "No grid"
+msgstr "Nincs rács"
+
+msgid "No header row"
+msgstr "Nincs fejlécsor"
+
+msgid "No icons match your search."
+msgstr "Egy ikon sem felel meg a keresésnek."
+
+msgid "No items to show."
+msgstr "Nincs megjeleníthető elem."
+
+msgid "No language matches your search."
+msgstr "Egy nyelv sem felel meg a keresésnek."
+
+msgid "No languages to show yet."
+msgstr "Még nincs megjeleníthető nyelv."
+
+msgid "No Markup"
+msgstr "Nincs jelölés"
+
+msgid "No model credits were built into this copy."
+msgstr "Ebbe a példányba nem kerültek modell-közreműködői adatok."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Nincs körvonal"
+
+msgid "No Paragraph Space"
+msgstr "Nincs bekezdéstérköz"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Nem található nyomtató. Állítson be egy rendszernyomtatót, vagy exportáljon PDF-et."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Nincs tükröződés"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Nincs árnyék"
+
+msgid "No Soft Edges"
+msgstr "Nincsenek lágy szélek"
+
+msgid "No sources yet."
+msgstr "Még nincs forrás."
+
+msgid "No Spacing"
+msgstr "Nincs térköz"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "A(z) {language} nyelvhez nincs telepítve helyesírási szótár, ezért nem ellenőrzi. A WordCraft a(z) {name} Hunspell-szótárat a WORDCRAFT_DICTIONARIES mappában és a szokásos rendszerhelyeken keresi."
+
+msgid "No templates match your search."
+msgstr "Egy sablon sem felel meg a keresésnek."
+
+msgid "No Transform"
+msgstr "Nincs átalakítás"
+
+msgid "No watermark"
+msgstr "Nincs vízjel"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Még nincs szó. Ha egy hibás szón a Felvétel a szótárba parancsot választod, ide kerül."
+
+msgid "No-Width Non Break"
+msgstr "Nulla szélességű nem törő jel"
+
+msgid "No-Width Optional Break"
+msgstr "Nulla szélességű feltételes törés"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Nem törő kötőjel"
+
+msgid "Normal  {size} all"
+msgstr "Normál  {size} mindenhol"
+
+msgid "Normal Indent"
+msgstr "Normál behúzás"
+
+msgid "Normal probability density"
+msgstr "Normális eloszlás sűrűségfüggvénye"
+
+msgid "Normal speed"
+msgstr "Normál sebesség"
+
+msgid "Normal Style"
+msgstr "Normál stílus"
+
+msgid "Normal Table"
+msgstr "Normál táblázat"
+
+msgid "Normal Text"
+msgstr "Normál szöveg"
+
+msgid "Normal Word Document"
+msgstr "Normál Word-dokumentum"
+
+msgid "North"
+msgstr "Észak"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norvég (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "norvég (nynorsk)"
+
+msgid "Not"
+msgstr "Kivéve"
+
+msgid "Not available right now"
+msgstr "Most nem érhető el"
+
+msgid "Not available yet"
+msgstr "Még nem érhető el"
+
+msgid "not editing an equation"
+msgstr "nincs szerkesztés alatt álló egyenlet"
+
+msgid "Not equal to"
+msgstr "Nem egyenlő"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Nincs csatolva: kattints egy szövegdobozra"
+
+msgid "Not now"
+msgstr "Most nem"
+
+msgid "Not saved"
+msgstr "Nincs mentve"
+
+msgid "Not saved yet"
+msgstr "Még nincs mentve"
+
+msgid "Not set"
+msgstr "Nincs megadva"
+
+msgid "Not set: the system's usual places"
+msgstr "Nincs beállítva: a rendszer szokásos helyei"
+
+msgid "Not used by any command"
+msgstr "Egyik parancs sem használja"
+
+msgid "Not {name}"
+msgstr "Nem {name}"
+
+msgid "Nothing"
+msgstr "Semmi"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Még nincs itt semmi. Amit másolsz vagy kivágsz, itt jelenik meg."
+
+msgid "nothing is selected"
+msgstr "nincs kijelölve semmi"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Jelenleg ehhez tartozik: {command}"
+
+msgid "Nudge"
+msgstr "Finom mozgatás"
+
+msgid "Num Occurrences"
+msgstr "Előfordulások száma"
+
+msgid "Number alignment:"
+msgstr "Számigazítás:"
+
+msgid "Number format"
+msgstr "Számformátum"
+
+msgid "Number of columns:"
+msgstr "Oszlopok száma:"
+
+msgid "Number of rows:"
+msgstr "Sorok száma:"
+
+msgid "Number of the page the field sits on"
+msgstr "A mezőt tartalmazó oldal száma"
+
+msgid "Number of the section the field sits in"
+msgstr "A mezőt tartalmazó szakasz száma"
+
+msgid "Number only, without the label's words"
+msgstr "Csak a szám, a címke szavai nélkül"
+
+msgid "Number style for this level:"
+msgstr "A szint számstílusa:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Az egyenlet számozása; a szám a jobb margónál áll (vagy írj # jelet, majd a számot)"
+
+msgid "Numbering"
+msgstr "Számozás"
+
+msgid "Numbering:"
+msgstr "Számozás:"
+
+msgid "Numbering…"
+msgstr "Számozás…"
+
+msgid "Numerals"
+msgstr "Számjegyek"
+
+msgid "Numerals:"
+msgstr "Számjegyek:"
+
+msgid "n×n Identity Matrix"
+msgstr "n×n-es egységmátrix"
+
+msgid "n×n Matrix"
+msgstr "n×n-es mátrix"
+
+msgid "Odd Banded Columns"
+msgstr "Páratlan sávos oszlopok"
+
+msgid "Odd Banded Rows"
+msgstr "Páratlan sávos sorok"
+
+msgid "Odd Page"
+msgstr "Páratlan oldal"
+
+msgid "Office"
+msgstr "Iroda"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 alapértelmezés"
+
+msgid "Offset (pt):"
+msgstr "Eltolás (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Eltolás: le"
+
+msgid "Offset: Bottom Left"
+msgstr "Eltolás: balra le"
+
+msgid "Offset: Bottom Right"
+msgstr "Eltolás: jobbra le"
+
+msgid "Offset: Center"
+msgstr "Eltolás: középen"
+
+msgid "Offset: Left"
+msgstr "Eltolás: balra"
+
+msgid "Offset: Right"
+msgstr "Eltolás: jobbra"
+
+msgid "Offset: Top"
+msgstr "Eltolás: fel"
+
+msgid "Offset: Top Left"
+msgstr "Eltolás: balra fel"
+
+msgid "Offset: Top Right"
+msgstr "Eltolás: jobbra fel"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Régi menübillentyűk: Alt, {keys}. Gépeljen tovább, vagy a megszakításhoz nyomja meg az Esc billentyűt."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Be: gépeléskor és a nyílbillentyűk használatakor a kurzor csúszva mozog az új helyére, és halványulva villog. Ki: a kurzor ugrik, és egyszerűen ki-be villog."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Be: a WordCraft a Fájl › Kezdőlap oldalon nyílik meg, üres dokumentummal, a sablonokkal és a legutóbbi dokumentumokkal. Ki: üres dokumentumot nyit meg."
+
+msgid "One"
+msgstr "Egy"
+
+msgid "One half"
+msgstr "Egy ketted"
+
+msgid "One label per recipient"
+msgstr "Címzettenként egy címke"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Elemenként egy sor. Az Enter új elemet ad hozzá."
+
+msgid "One Page"
+msgstr "Egy oldal"
+
+msgid "One-sided"
+msgstr "Egyoldalas"
+
+msgid "Only allow this kind of editing:"
+msgstr "Csak ez a fajta szerkesztés engedélyezett:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Csak megjegyzés fűzhető a szöveghez, kivéve a szerkeszthetőnek jelölt területeken."
+
+msgid "Only for the selected text"
+msgstr "Csak a kijelölt szövegnél"
+
+msgid "Only form fields can be filled in."
+msgstr "Csak az űrlapmezők tölthetők ki."
+
+msgid "only in Outline view"
+msgstr "csak Vázlat nézetben"
+
+msgid "Only in this document"
+msgstr "Csak ebben a dokumentumban"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Csak az engedélyezett stílusok alkalmazhatók."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Csak webes (http, https) és e-mail (mailto) link nyitható meg"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Először nyisson meg egy dokumentumot"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Fájl megnyitása a WordCraft saját tallózójával, ha a rendszer fájlpárbeszédablaka nem jelenik meg."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument szöveg (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Nyomtatási párbeszédablak megnyitása…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Mostantól a .docx, .doc, .rtf és .odt fájlok, valamint a Word-sablonok a WordCrafttal nyílnak meg."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Megnyitja a Beállítások › Alapértelmezett alkalmazások lapot, ahol a WordCraftot választhatja a .docx és a többi dokumentumtípus számára."
+
+msgid "Operator"
+msgstr "Operátor"
+
+msgid "Operator Structures"
+msgstr "Operátorszerkezetek"
+
+msgid "Operators"
+msgstr "Operátorok"
+
+msgid "Optional Hyphen"
+msgstr "Feltételes kötőjel"
+
+msgid "Or"
+msgstr "Vagy"
+
+msgid "Or save a copy in another format:"
+msgstr "Vagy ments másolatot más formátumban:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Sorszámnevek (1st) felső indexben"
+
+msgid "Organizer"
+msgstr "Rendező"
+
+msgid "Organizer…"
+msgstr "Rendező…"
+
+msgid "Original document"
+msgstr "Eredeti dokumentum"
+
+msgid "Original size"
+msgstr "Eredeti méret"
+
+msgid "Other Large Operators"
+msgstr "Egyéb nagy operátorok"
+
+msgid "Other styles and their TOC level:"
+msgstr "Egyéb stílusok és tartalomjegyzék-szintjük:"
+
+msgid "Other:"
+msgstr "Egyéb:"
+
+msgid "Otherwise insert:"
+msgstr "Különben beszúrandó:"
+
+msgid "Outline Level"
+msgstr "Vázlatszint"
+
+msgid "Outline level"
+msgstr "Vázlatszint"
+
+msgid "Outline levels"
+msgstr "Vázlatszintek"
+
+msgid "Outline State"
+msgstr "Vázlatállapot"
+
+msgid "Outline Tools"
+msgstr "Vázlateszközök"
+
+msgid "Outlining"
+msgstr "Vázlatkészítés"
+
+msgid "Outside border"
+msgstr "Külső szegély"
+
+msgid "Outside Borders"
+msgstr "Külső szegélyek"
+
+msgid "Outside:"
+msgstr "Külső:"
+
+msgid "Outward Brackets"
+msgstr "Kifelé néző szögletes zárójelek"
+
+msgid "Overbar"
+msgstr "Felülvonás"
+
+msgid "Overbars and Underbars"
+msgstr "Felülvonások és aláhúzások"
+
+msgid "Overbrace"
+msgstr "Felső kapcsos zárójel"
+
+msgid "Overtype"
+msgstr "Felülírás"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Felülírás (a gépelés a kurzor utáni karaktereket cseréli)"
+
+msgid "Page Background"
+msgstr "Oldalháttér"
+
+msgid "Page Border"
+msgstr "Oldalszegély"
+
+msgid "Page Borders"
+msgstr "Oldalszegély"
+
+msgid "Page Break"
+msgstr "Oldaltörés"
+
+msgid "Page Break Before"
+msgstr "Oldaltörés előtte"
+
+msgid "Page break before"
+msgstr "Oldaltörés előtte"
+
+msgid "Page Breaks"
+msgstr "Oldaltörések"
+
+msgid "Page Color"
+msgstr "Oldalszín"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Oldalmegjelenítés"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page image (*.png)"
+msgstr "Oldalkép (*.png)"
+
+msgid "Page Movement"
+msgstr "Lapozás"
+
+msgid "Page Number"
+msgstr "Oldalszám"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Oldalszám formátuma"
+
+msgid "Page number style"
+msgstr "Oldalszám stílusa"
+
+msgid "Page numbering"
+msgstr "Oldalszámozás"
+
+msgid "Page numbers at the right margin"
+msgstr "Oldalszámok a jobb margónál"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "A könyvjelzővel megjelölt rész oldalszáma"
+
+msgid "Page Setup"
+msgstr "Oldalbeállítás"
+
+msgid "Page title"
+msgstr "Oldal címe"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Width"
+msgstr "Oldalszélesség"
+
+msgid "Page width"
+msgstr "Oldalszélesség"
+
+msgid "Page X of Y"
+msgstr "Oldal: X/Y"
+
+msgid "Page {page}"
+msgstr "{page}. oldal"
+
+msgid "Page\nBorders"
+msgstr "Oldal-\nszegély"
+
+msgid "Page\nColor"
+msgstr "Oldalszín"
+
+msgid "Page\nNumber"
+msgstr "Oldalszám"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Oldalak, például 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "A könyvjelző oldalai:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Papírméret:"
+
+msgid "Paragraph Character"
+msgstr "Bekezdésjel karakter (¶)"
+
+msgid "Paragraph Details"
+msgstr "Bekezdés részletei"
+
+msgid "Paragraph Down"
+msgstr "Bekezdés le"
+
+msgid "Paragraph Mark"
+msgstr "Bekezdésjel"
+
+msgid "Paragraph marks"
+msgstr "Bekezdésjelek"
+
+msgid "Paragraph Settings"
+msgstr "Bekezdés beállításai"
+
+msgid "Paragraph Spacing"
+msgstr "Bekezdéstérköz"
+
+msgid "Paragraph style"
+msgstr "Bekezdésstílus"
+
+msgid "Paragraph Up"
+msgstr "Bekezdés fel"
+
+msgid "Paragraphs"
+msgstr "Bekezdések"
+
+msgid "Paragraph…"
+msgstr "Bekezdés…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Kerek zárójelek"
+
+msgid "Parentheses with Separator"
+msgstr "Kerek zárójelek elválasztóval"
+
+msgid "Partial Differential"
+msgstr "Parciális differenciál"
+
+msgid "Password:"
+msgstr "Jelszó:"
+
+msgid "Paste (⌘V)"
+msgstr "Beillesztés (⌘V)"
+
+msgid "Paste All"
+msgstr "Összes beillesztése"
+
+msgid "Paste as:"
+msgstr "Beillesztés mint:"
+
+msgid "Paste Clipboard Item"
+msgstr "Vágólapelem beillesztése"
+
+msgid "Paste Formatting"
+msgstr "Formázás beillesztése"
+
+msgid "Paste function:"
+msgstr "Függvény beillesztése:"
+
+msgid "Paste Special…"
+msgstr "Irányított beillesztés…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Beillesztés: csak a szöveg"
+
+msgid "Paste: Merge Formatting"
+msgstr "Beillesztés: formázás összefésülése"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Beilleszti a vágólapon lévő képet."
+
+msgid "Paused"
+msgstr "Szüneteltetve"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF-dokumentum (*.pdf)"
+
+msgid "Pens"
+msgstr "Tollak"
+
+msgid "People"
+msgstr "Emberek"
+
+msgid "Periodical"
+msgstr "Időszaki kiadvány"
+
+msgid "Persian"
+msgstr "perzsa"
+
+msgid "Personal"
+msgstr "Saját"
+
+msgid "Personal Templates"
+msgstr "Saját sablonok"
+
+msgid "Personalize"
+msgstr "Személyre szabás"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Fülöp-szigetek"
+
+msgid "Phonetic Guide"
+msgstr "Kiejtési útmutató"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pí per 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Válassz egyéni csoportot (az Új csoport gombbal hozhatsz létre egyet)"
+
+msgid "Pick a field from the list"
+msgstr "Válassz mezőt a listából"
+
+msgid "Picture"
+msgstr "Kép"
+
+msgid "Picture Border"
+msgstr "Kép szegélye"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Kép típusú tartalomvezérlő"
+
+msgid "Picture Format"
+msgstr "Képformátum"
+
+msgid "Picture Styles"
+msgstr "Képstílusok"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Képvízjel"
+
+msgid "Pictures"
+msgstr "Képek"
+
+msgid "Pie"
+msgstr "Kör"
+
+msgid "Place in This Document"
+msgstr "Dokumentumon belüli hely"
+
+msgid "Placeholder text"
+msgstr "Helyőrző szöveg"
+
+msgid "Plain Table 1"
+msgstr "Egyszerű táblázat 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Egyszerű szöveg (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Egyszerű szöveges tartalomvezérlő"
+
+msgid "Play/Pause"
+msgstr "Lejátszás/szünet"
+
+msgid "Plus Equal"
+msgstr "Plusz-egyenlő"
+
+msgid "Points and above"
+msgstr "pont és nagyobb"
+
+msgid "Polish"
+msgstr "Lengyel"
+
+msgid "Portugal"
+msgstr "Portugália"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugál (Brazília)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugál (Portugália)"
+
+msgid "Possible spelling mistake"
+msgstr "Lehetséges helyesírási hiba"
+
+msgid "Postal Code"
+msgstr "Irányítószám"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Az (1+x)ⁿ hatványsora"
+
+msgid "Preferred width:"
+msgstr "Kívánt szélesség:"
+
+msgid "Preserve formatting during updates"
+msgstr "Formázás megtartása frissítéskor"
+
+msgid "Preset gradients"
+msgstr "Előre beállított színátmenetek"
+
+msgid "Press a key combination"
+msgstr "Nyomj le egy billentyűkombinációt"
+
+msgid "Preview Results"
+msgstr "Eredmények előnézete"
+
+msgid "Preview\nResults"
+msgstr "Eredmények\nelőnézete"
+
+msgid "Previous 1 or More"
+msgstr "Előző 1 vagy több"
+
+msgid "Previous Comment"
+msgstr "Előző megjegyzés"
+
+msgid "Previous Field"
+msgstr "Előző mező"
+
+msgid "Previous Record"
+msgstr "Előző rekord"
+
+msgid "Previous Section"
+msgstr "Előző szakasz"
+
+msgid "Previous Sentence"
+msgstr "Előző mondat"
+
+msgid "Previous sentence"
+msgstr "Előző mondat"
+
+msgid "Print Documents"
+msgstr "Dokumentumok nyomtatása"
+
+msgid "Print Documents…"
+msgstr "Dokumentumok nyomtatása…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "A nyomtatás sikertelen: a nyomtatási folyamat leállt."
+
+msgid "Print failed: {error}"
+msgstr "A nyomtatás sikertelen: {error}"
+
+msgid "Print job submitted."
+msgstr "Nyomtatási feladat elküldve."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "A nyomtatási feladat elküldve: {count} lap a nyomtatási sorba került"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Nyomtatási feladat elküldve: {receipt}"
+
+msgid "Print Layout"
+msgstr "Nyomtatási elrendezés"
+
+msgid "Print Markup"
+msgstr "Jelölések nyomtatása"
+
+msgid "Print settings"
+msgstr "Nyomtatási beállítások"
+
+msgid "Print the page color"
+msgstr "Oldalszín nyomtatása"
+
+msgid "Print to PDF"
+msgstr "Nyomtatás PDF-be"
+
+msgid "Print\nLayout"
+msgstr "Nyomtatási\nelrendezés"
+
+msgid "Printer default"
+msgstr "Nyomtató alapértelmezése"
+
+msgid "Printer discovery failed."
+msgstr "A nyomtatók keresése sikertelen."
+
+msgid "Privacy for this document"
+msgstr "A dokumentum adatvédelme"
+
+msgid "Privacy Options"
+msgstr "Adatvédelmi beállítások"
+
+msgid "Privacy Settings"
+msgstr "Jelenlegi adatvédelmi beállítások"
+
+msgid "Process"
+msgstr "Folyamat"
+
+msgid "Product"
+msgstr "Szorzat"
+
+msgid "Product of A"
+msgstr "Az A szorzata"
+
+msgid "Product with Limits"
+msgstr "Szorzat határokkal"
+
+msgid "Product with Lower Limit"
+msgstr "Szorzat alsó határral"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Szorzat indexben írt határokkal"
+
+msgid "Products and Coproducts"
+msgstr "Szorzatok és koszorzatok"
+
+msgid "Professional"
+msgstr "Kétdimenziós"
+
+msgid "Promote"
+msgstr "Előléptetés"
+
+msgid "Promote to Heading 1"
+msgstr "Előléptetés: Címsor 1"
+
+msgid "Proofing"
+msgstr "Nyelvi ellenőrzés"
+
+msgid "Proofing Issues"
+msgstr "Nyelvi hibák"
+
+msgid "Proofing language"
+msgstr "Nyelvi ellenőrzés nyelve"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Dokumentum védelme"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Kiadó"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Előbb vidd a kurzort egy tartalomvezérlőbe."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Visszaállítod a gyorselérési eszköztár alapértelmezett parancsait?"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "Quadratic Root"
+msgstr "Másodfokú egyenlet gyöke"
+
+msgid "Quick Access Toolbar"
+msgstr "Gyorselérési eszköztár"
+
+msgid "Quick Parts"
+msgstr "Gyorsrészek"
+
+msgid "Quick Tables"
+msgstr "Gyorstáblázatok"
+
+msgid "Quote"
+msgstr "Idézet"
+
+msgid "Radical"
+msgstr "Gyök"
+
+msgid "Radical with Degree"
+msgstr "Gyök kitevővel"
+
+msgid "Radicals"
+msgstr "Gyökök"
+
+msgid "Raised/lowered"
+msgstr "Emelt/süllyesztett"
+
+msgid "Read Aloud"
+msgstr "Felolvasás"
+
+msgid "Read Aloud Status"
+msgstr "Felolvasás állapota"
+
+msgid "Read Mode"
+msgstr "Olvasó mód"
+
+msgid "Read\nAloud"
+msgstr "Felolvasás"
+
+msgid "Read\nMode"
+msgstr "Olvasó\nmód"
+
+msgid "Reading"
+msgstr "Olvasás"
+
+msgid "Reading Column Width"
+msgstr "Olvasási oszlopszélesség"
+
+msgid "Reading Highlight"
+msgstr "Olvasási kiemelés"
+
+msgid "Reading Line Spacing"
+msgstr "Olvasási sorköz"
+
+msgid "Reading Mode"
+msgstr "Olvasó mód"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Olvasási sebesség"
+
+msgid "Reading Text Size"
+msgstr "Olvasási szövegméret"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Beolvassa a vágólap formázott szövegét, és megtartja a formázást."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Beolvassa a vágólap webes tartalmát, és megtartja a formázást."
+
+msgid "Recent documents to show:"
+msgstr "Megjelenített legutóbbi dokumentumok:"
+
+msgid "Recently Used Fonts"
+msgstr "Legutóbb használt betűtípusok"
+
+msgid "Recently used symbols:"
+msgstr "Legutóbb használt szimbólumok:"
+
+msgid "Recipient List"
+msgstr "Címzettlista"
+
+msgid "Recipient lists"
+msgstr "Címzettlisták"
+
+msgid "Recipients: {count}"
+msgstr "Címzettek: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Egyszínű kép, például ikon átszínezése"
+
+msgid "Recolor Selected Ink"
+msgstr "Kijelölt tinta átszínezése"
+
+msgid "Record Macro"
+msgstr "Makró rögzítése"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Nem mentett dokumentumok helyreállítása"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Vörös:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Függő behúzás csökkentése"
+
+msgid "Reference type:"
+msgstr "Hivatkozás típusa:"
+
+msgid "References"
+msgstr "Hivatkozások"
+
+msgid "Reflection"
+msgstr "Tükröződés"
+
+msgid "Refresh printers"
+msgstr "Nyomtatók frissítése"
+
+msgid "Region:"
+msgstr "Régió:"
+
+msgid "Registered"
+msgstr "Bejegyzett"
+
+msgid "Registered Sign"
+msgstr "Bejegyzett védjegy jele"
+
+msgid "Regular expressions"
+msgstr "Reguláris kifejezések"
+
+msgid "Reject"
+msgstr "Elutasítás"
+
+msgid "Reject All Changes"
+msgstr "Összes módosítás elutasítása"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Módosítás elutasítása"
+
+msgid "Relationship"
+msgstr "Kapcsolat"
+
+msgid "Relative to original picture size"
+msgstr "Az eredeti képmérethez viszonyítva"
+
+msgid "Remove Added Font"
+msgstr "Hozzáadott betűtípus eltávolítása"
+
+msgid "Remove condition"
+msgstr "Feltétel eltávolítása"
+
+msgid "Remove Content Control"
+msgstr "Tartalomvezérlő eltávolítása"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Törlöd az összes egyéni billentyűparancsot, és visszaállítod a beépítetteket?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Törlöd az összes egyéni lapot és csoportot, és újra megjelenítesz minden lapot?"
+
+msgid "Remove field"
+msgstr "Mező eltávolítása"
+
+msgid "Remove Footer"
+msgstr "Élőláb eltávolítása"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Eltávolítás a gyorselérési eszköztárról"
+
+msgid "Remove gradient stop"
+msgstr "Színátmenet-pont eltávolítása"
+
+msgid "Remove Header"
+msgstr "Élőfej eltávolítása"
+
+msgid "Remove Hyperlink"
+msgstr "Link eltávolítása"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Mentéskor a nevem eltávolítása a megjegyzésekből, a módosításokból és a fájl tulajdonságaiból"
+
+msgid "Remove Password"
+msgstr "Jelszó eltávolítása"
+
+msgid "Remove Pen"
+msgstr "Toll eltávolítása"
+
+msgid "Remove recipient"
+msgstr "Címzett eltávolítása"
+
+msgid "Remove row"
+msgstr "Sor eltávolítása"
+
+msgid "Remove series"
+msgstr "Adatsor eltávolítása"
+
+msgid "Remove Space After Paragraph"
+msgstr "Térköz eltávolítása a bekezdés után"
+
+msgid "Remove Table of Contents"
+msgstr "Tartalomjegyzék eltávolítása"
+
+msgid "Remove the control once edited"
+msgstr "A vezérlő eltávolítása szerkesztés után"
+
+msgid "Remove the space before the punctuation"
+msgstr "Töröld az írásjel előtti szóközt"
+
+msgid "Remove Watermark"
+msgstr "Vízjel eltávolítása"
+
+msgid "Rename Document"
+msgstr "Dokumentum átnevezése"
+
+msgid "Reopen"
+msgstr "Újbóli megnyitás"
+
+msgid "Repeat as header row on each page"
+msgstr "Ismétlés fejlécsorként minden oldalon"
+
+msgid "Repeat Header Rows"
+msgstr "Fejlécsorok ismétlése"
+
+msgid "Repeating Section Content Control"
+msgstr "Ismétlődő szakaszos tartalomvezérlő"
+
+msgid "Replace All"
+msgstr "Összes cseréje"
+
+msgid "Replace as you type"
+msgstr "Csere gépelés közben"
+
+msgid "Replace Document Text"
+msgstr "Dokumentumszöveg cseréje"
+
+msgid "Replace text as you type"
+msgstr "Szöveg cseréje gépelés közben"
+
+msgid "Replace with:"
+msgstr "Csere erre:"
+
+msgid "Replay"
+msgstr "Visszajátszás"
+
+msgid "Research"
+msgstr "Kutatás"
+
+msgid "Researcher"
+msgstr "Kutatássegéd"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "A Kutatássegédhez online szolgáltatás kell; a WordCraft a dokumentumait offline tartja."
+
+msgid "Reset All…"
+msgstr "Összes visszaállítása…"
+
+msgid "Reset Character Formatting"
+msgstr "Karakterformázás visszaállítása"
+
+msgid "Reset Crop"
+msgstr "Körülvágás visszaállítása"
+
+msgid "Reset Default Formatting"
+msgstr "Alapértelmezett formázás visszaállítása"
+
+msgid "Reset Graphic"
+msgstr "Ábra visszaállítása"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Bekezdésformázás visszaállítása"
+
+msgid "Reset Picture"
+msgstr "Kép visszaállítása"
+
+msgid "Reset tips"
+msgstr "Tippek visszaállítása"
+
+msgid "Reset to Normal"
+msgstr "Visszaállítás normálra"
+
+msgid "Reset\nGraphic"
+msgstr "Ábra\nvisszaállítása"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Táblázat átméretezése húzással"
+
+msgid "Resolve"
+msgstr "Lezárás"
+
+msgid "Resolved"
+msgstr "Lezárva"
+
+msgid "Restart at 1"
+msgstr "Újrakezdés 1-től"
+
+msgid "Restart Each Page"
+msgstr "Újrakezdés minden oldalon"
+
+msgid "Restart Each Section"
+msgstr "Újrakezdés minden szakaszban"
+
+msgid "Restart list after:"
+msgstr "Lista újrakezdése ezután:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Szerkesztés korlátozása"
+
+msgid "Restrict\nEditing"
+msgstr "Szerkesztés\nkorlátozása"
+
+msgid "Results"
+msgstr "Eredmények"
+
+msgid "Return address labels"
+msgstr "Feladócímkék"
+
+msgid "Return address:"
+msgstr "Feladó címe:"
+
+msgid "Reviewing"
+msgstr "Véleményezés"
+
+msgid "Reviewing Pane"
+msgstr "Véleményezés panel"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Véleményezés – a módosítások javaslatként jelennek meg"
+
+msgid "Revised document"
+msgstr "Módosított dokumentum"
+
+msgid "Rewind"
+msgstr "Visszatekerés"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Visszatekerés. Szólj, mikor álljak meg."
+
+msgid "Ribbon"
+msgstr "Menüszalag"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Menüszalag és gyorselérési eszköztár:"
+
+msgid "Ribbon tabs"
+msgstr "Menüszalag lapjai"
+
+msgid "Rich Text Content Control"
+msgstr "Formázott szöveges tartalomvezérlő"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Jobb (függőleges)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Jobbra nyíl, fölötte szöveggel"
+
+msgid "Right Arrow with Text Below"
+msgstr "Jobbra nyíl, alatta szöveggel"
+
+msgid "Right Border"
+msgstr "Jobb szegély"
+
+msgid "Right border"
+msgstr "Jobb szegély"
+
+msgid "Right Bracket Twice"
+msgstr "Két jobb szögletes zárójel"
+
+msgid "Right indent"
+msgstr "Jobb behúzás"
+
+msgid "Right Margin"
+msgstr "Jobb margó"
+
+msgid "Right Only"
+msgstr "Csak jobb"
+
+msgid "Right-to-left"
+msgstr "Jobbról balra"
+
+msgid "Right-to-Left Section"
+msgstr "Jobbról balra író szakasz"
+
+msgid "Right-to-Left Table"
+msgstr "Jobbról balra író táblázat"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Jobbról balra írás"
+
+msgid "Rightwards Arrow Above"
+msgstr "Jobbra mutató nyíl fölül"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Jobbra mutató szigony fölül"
+
+msgid "Romanian"
+msgstr "Román"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Az ax²+bx+c gyökei"
+
+msgid "Rotate all text 270°"
+msgstr "Teljes szöveg elforgatása 270°-kal"
+
+msgid "Rotate all text 90°"
+msgstr "Teljes szöveg elforgatása 90°-kal"
+
+msgid "Rotate Left 90°"
+msgstr "Forgatás balra 90°-kal"
+
+msgid "Rotate Right 90°"
+msgstr "Forgatás jobbra 90°-kal"
+
+msgid "Rotate with shape"
+msgstr "Forgatás az alakzattal"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Sor"
+
+msgid "Row:"
+msgstr "Sor:"
+
+msgid "Rows & Columns"
+msgstr "Sorok és oszlopok"
+
+msgid "Ruby text:"
+msgstr "Ruby szöveg:"
+
+msgid "Rules"
+msgstr "Szabályok"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Folyamatos"
+
+msgid "Russia"
+msgstr "Oroszország"
+
+msgid "Résumé"
+msgstr "Önéletrajz"
+
+msgid "SAMPLE"
+msgstr "MINTA"
+
+msgid "Sat:"
+msgstr "Telítettség:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Másolat mentése más formátumban. A nyomtatás PDF-en keresztül történik, amelyet bármelyik nézegetőből kinyomtathatsz."
+
+msgid "Save as Word Template…"
+msgstr "Mentés Word-sablonként…"
+
+msgid "Save documents"
+msgstr "Dokumentumok mentése"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Az automatikus mentéshez mentsd a dokumentumot"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Az automatikus mentéshez mentsd a dokumentumot (a csak megnyitott fájlt a program addig nem írja felül, amíg nem mented)"
+
+msgid "Save these pages as PDF…"
+msgstr "Az oldalak mentése PDF-ként…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Mentve. Újra mentve. Még mindig mentve. Nagyon mentve van."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Egy .dotx sablont ment a sablonmappájába. A Fájl › Új lapon, a Saját csoportban jelenik meg."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "A(z) {name} mentése megszakadt, így továbbra is nyitva van, és semmi sem veszett el."
+
+msgid "Sayings"
+msgstr "Beszólások"
+
+msgid "Sayings:"
+msgstr "Megjegyzések:"
+
+msgid "Scale Drawing"
+msgstr "Rajz méretezése"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Pont (XY)"
+
+msgid "Script"
+msgstr "Index"
+
+msgid "Scroll ribbon left"
+msgstr "Menüszalag görgetése balra"
+
+msgid "Scroll ribbon right"
+msgstr "Menüszalag görgetése jobbra"
+
+msgid "Search Commands"
+msgstr "Parancsok keresése"
+
+msgid "Search commands and help"
+msgstr "Keresés a parancsokban és a súgóban"
+
+msgid "Search document"
+msgstr "Keresés a dokumentumban"
+
+msgid "Search for templates"
+msgstr "Sablonok keresése"
+
+msgid "Search icons"
+msgstr "Ikonok keresése"
+
+msgid "Search Options"
+msgstr "Keresési beállítások"
+
+msgid "Search:"
+msgstr "Keresés:"
+
+msgid "Secant Function"
+msgstr "Szekánsfüggvény"
+
+msgid "Section 1.01"
+msgstr "1.01. szakasz"
+
+msgid "Section Break"
+msgstr "Szakasztörés"
+
+msgid "Section Breaks"
+msgstr "Szakasztörések"
+
+msgid "Section Character"
+msgstr "Paragrafusjel (§)"
+
+msgid "Section direction:"
+msgstr "Szakasz iránya:"
+
+msgid "Section Mark"
+msgstr "Paragrafusjel"
+
+msgid "Section Properties"
+msgstr "Szakasz tulajdonságai"
+
+msgid "Sections"
+msgstr "Szakaszok"
+
+msgid "See"
+msgstr "Lásd"
+
+msgid "select a chart first"
+msgstr "előbb jelöljön ki egy diagramot"
+
+msgid "select a connector first"
+msgstr "előbb jelöljön ki egy összekötőt"
+
+msgid "select a diagram first"
+msgstr "először jelöljön ki egy diagramot"
+
+msgid "select a drawing canvas first"
+msgstr "előbb jelöljön ki egy rajzvásznat"
+
+msgid "select a floating picture or shape first"
+msgstr "előbb jelöljön ki egy lebegő képet vagy alakzatot"
+
+msgid "select a group first"
+msgstr "előbb jelöljön ki egy csoportot"
+
+msgid "select a picture first"
+msgstr "előbb jelöljön ki egy képet"
+
+msgid "Select a picture first."
+msgstr "Előbb válasszon ki egy képet."
+
+msgid "select a picture or shape first"
+msgstr "előbb jelöljön ki egy képet vagy alakzatot"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Jelölj ki egy képet, alakzatot, diagramot vagy táblázatot a leírásához."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Válasszon nyomtatót"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "előbb jelöljön ki egy alakzatot"
+
+msgid "select a shape or decorative text first"
+msgstr "először jelöljön ki egy alakzatot vagy díszítő szöveget"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Jelöljön ki egy alakzatot, szövegdobozt vagy rajzvásznat a kitöltés formázásához."
+
+msgid "select a SmartArt graphic first"
+msgstr "előbb jelöljön ki egy SmartArt-ábrát"
+
+msgid "select a text box first"
+msgstr "előbb jelöljön ki egy szövegdobozt"
+
+msgid "select a text box linked to another first"
+msgstr "előbb jelöljön ki egy másikhoz csatolt szövegdobozt"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Cella kijelölése"
+
+msgid "Select Column"
+msgstr "Oszlop kijelölése"
+
+msgid "Select Heading and Content"
+msgstr "Címsor és tartalma kijelölése"
+
+msgid "Select Line"
+msgstr "Sor kijelölése"
+
+msgid "Select Paragraph"
+msgstr "Bekezdés kijelölése"
+
+msgid "Select Picture…"
+msgstr "Kép kiválasztása…"
+
+msgid "Select Range"
+msgstr "Tartomány kijelölése"
+
+msgid "Select Recipients"
+msgstr "Címzettek kiválasztása"
+
+msgid "select recipients first"
+msgstr "előbb válasszon címzetteket"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "A mezők közüli választáshoz előbb válaszd ki a címzetteket."
+
+msgid "Select recipients first to match their fields."
+msgstr "A mezők megfeleltetéséhez előbb válaszd ki a címzetteket."
+
+msgid "Select Row"
+msgstr "Táblázatsor kijelölése"
+
+msgid "Select Sentence"
+msgstr "Mondat kijelölése"
+
+msgid "Select Table"
+msgstr "Táblázat kijelölése"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Táblázatcellák kijelölése kattintással"
+
+msgid "Select Text"
+msgstr "Szöveg kijelölése"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Hasonló formázású szöveg kijelölése"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Jelölj ki szöveget, majd pipáld be, ki szerkesztheti továbbra is."
+
+msgid "select two or more cells to merge"
+msgstr "jelöljön ki legalább két cellát az egyesítéshez"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "jelöljön ki két vagy több képet vagy alakzatot (Shift+kattintás)"
+
+msgid "Select Word"
+msgstr "Szó kijelölése"
+
+msgid "Select\nRecipients"
+msgstr "Címzettek\nkiválasztása"
+
+msgid "Selected Fields"
+msgstr "Kijelölt mezők"
+
+msgid "Selected text"
+msgstr "Kijelölt szöveg"
+
+msgid "Selection Pane"
+msgstr "Kijelölés panel"
+
+msgid "Semitransparent"
+msgstr "Félig átlátszó"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Küldd a dokumentumot közvetlenül a rendszer nyomtatási párbeszédablakába, vagy ments egy másolatot más formátumban lent."
+
+msgid "Sentence"
+msgstr "Mondat"
+
+msgid "Sentence case."
+msgstr "Mondatkezdő nagybetű."
+
+msgid "Separate text at"
+msgstr "Szöveg elválasztása"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Elválasztó:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Sorozat neve:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Szerb (cirill)"
+
+msgid "Serbian (Latin)"
+msgstr "Szerb (latin)"
+
+msgid "Series name"
+msgstr "Adatsor neve"
+
+msgid "Series {n}"
+msgstr "Adatsor {n}"
+
+msgid "Set As Default"
+msgstr "Beállítás alapértelmezettként"
+
+msgid "Set as default"
+msgstr "Beállítás alapértelmezettként"
+
+msgid "Set As Default (Font)"
+msgstr "Beállítás alapértelmezettként (Betűtípus)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Beállítás alapértelmezettként (Oldalbeállítás)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Beállítás alapértelmezettként (Bekezdés)"
+
+msgid "Set as Default Language"
+msgstr "Beállítás alapértelmezett nyelvként"
+
+msgid "Set Caret"
+msgstr "Kurzor elhelyezése"
+
+msgid "Set Character Formatting"
+msgstr "Karakterformázás beállítása"
+
+msgid "Set Date"
+msgstr "Dátum beállítása"
+
+msgid "Set Equation"
+msgstr "Egyenlet beállítása"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Számozás értékének beállítása"
+
+msgid "Set Paragraph Formatting"
+msgstr "Bekezdésformázás beállítása"
+
+msgid "Set Proofing Language…"
+msgstr "Nyelvi ellenőrzés nyelvének beállítása…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Beállítás:"
+
+msgid "Shading"
+msgstr "Árnyékolás"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Árnyék, ragyogás és lágy szélek"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Alakzat kitöltése"
+
+msgid "Shape Format"
+msgstr "Alakzatformátum"
+
+msgid "Shape Outline"
+msgstr "Alakzat körvonala"
+
+msgid "Shape Styles"
+msgstr "Alakzatstílusok"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Szállítási címkék"
+
+msgid "Shortcut key:"
+msgstr "Billentyűparancs:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Igazítási segédvonalak megjelenítése képek és alakzatok mozgatásakor"
+
+msgid "Show all formatting marks"
+msgstr "Minden formázási jel megjelenítése"
+
+msgid "Show All Levels"
+msgstr "Összes szint megjelenítése"
+
+msgid "Show all revisions inline"
+msgstr "Minden változat a szövegben"
+
+msgid "Show changes at:"
+msgstr "Módosítások szintje:"
+
+msgid "Show changes in:"
+msgstr "Módosítások megjelenítése itt:"
+
+msgid "Show Comments"
+msgstr "Megjegyzések megjelenítése"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "A dokumentumok fordított színekkel jelennek meg, mint a Nézet › Módváltás esetén. A mentés, a nyomtatás és a PDF változatlan marad."
+
+msgid "Show every bibliography field"
+msgstr "Az összes irodalomjegyzék-mező megjelenítése"
+
+msgid "Show First Line Only"
+msgstr "Csak az első sor megjelenítése"
+
+msgid "Show in the Styles gallery"
+msgstr "Megjelenítés a stílusgalériában"
+
+msgid "Show its list number"
+msgstr "A listaszámának megjelenítése"
+
+msgid "Show its number relative to this field"
+msgstr "A számának megjelenítése ehhez a mezőhöz képest"
+
+msgid "Show its number with all higher levels"
+msgstr "A számának megjelenítése az összes felső szinttel"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Billentyűtippek megjelenítése (Alt vagy F10)"
+
+msgid "Show Level"
+msgstr "Szint megjelenítése"
+
+msgid "Show Level 1"
+msgstr "1. szint megjelenítése"
+
+msgid "Show Level 2"
+msgstr "2. szint megjelenítése"
+
+msgid "Show Level 3"
+msgstr "3. szint megjelenítése"
+
+msgid "Show Level 4"
+msgstr "4. szint megjelenítése"
+
+msgid "Show Level 5"
+msgstr "5. szint megjelenítése"
+
+msgid "Show Level 6"
+msgstr "6. szint megjelenítése"
+
+msgid "Show Level 7"
+msgstr "7. szint megjelenítése"
+
+msgid "Show Level 8"
+msgstr "8. szint megjelenítése"
+
+msgid "Show Level 9"
+msgstr "9. szint megjelenítése"
+
+msgid "Show Markup"
+msgstr "Jelölések megjelenítése"
+
+msgid "Show Notes"
+msgstr "Jegyzetek megjelenítése"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Buborékban csak a megjegyzések és a formázás"
+
+msgid "Show only records that will be merged"
+msgstr "Csak az egyesítendő rekordok megjelenítése"
+
+msgid "Show or Hide Style"
+msgstr "Stílus megjelenítése vagy elrejtése"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Gyorselérési eszköztár megjelenítése"
+
+msgid "Show revisions in balloons"
+msgstr "Változatok buborékban"
+
+msgid "Show Text Formatting"
+msgstr "Szövegformázás megjelenítése"
+
+msgid "Show the Assistant"
+msgstr "Az asszisztens megjelenítése"
+
+msgid "Show the community button in the title bar"
+msgstr "Közösség gomb megjelenítése a címsorban"
+
+msgid "Show the equation in the line of text"
+msgstr "Az egyenlet megjelenítése a szövegsorban"
+
+msgid "Show the equation on a line of its own"
+msgstr "Az egyenlet megjelenítése külön sorban"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Mini eszköztár megjelenítése szövegkijelöléskor"
+
+msgid "Show the ribbon"
+msgstr "Menüszalag megjelenítése"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Kezdőképernyő megjelenítése a WordCraft indításakor"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Újra megjeleníti az elrejtett tippeket."
+
+msgid "Show/Hide ¶"
+msgstr "Megjelenítés/elrejtés ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "A Megjelenítés/elrejtés ¶ ({key}) megmutatja a szövegedben rejtőző szóközöket, tabulátorokat és töréseket."
+
+msgid "Show\nComments"
+msgstr "Megjegyzések\nmegjelenítése"
+
+msgid "Showing the first {count} items."
+msgstr "Az első {count} elem látható."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Faszerkezet: minden elem az alatt az elem alatt áll, amelyikhez tartozik."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Egy központi gondolat köré rendezett elemek: az első elem a középpont."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Az egyenrangú elemeket sorokba rendezett blokkokként mutatja."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Az átfedő gondolatokat egymást metsző körök jelenítik meg."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Az egész részei negyedekre osztva."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Egymásra épülő részek, alul a legnagyobb."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "A lépéseket sorrendben, balról jobbra, nyilakkal összekötve ábrázolja."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Az ismétlődő lépések egy kör mentén követik egymást."
+
+msgid "Shrink Font 1 Point"
+msgstr "Betűméret csökkentése 1 ponttal"
+
+msgid "Shrink text"
+msgstr "Szöveg kicsinyítése"
+
+msgid "Side to Side"
+msgstr "Egymás mellett"
+
+msgid "Side\nto Side"
+msgstr "Egymás\nmellett"
+
+msgid "Sides of a right triangle"
+msgstr "A derékszögű háromszög oldalai"
+
+msgid "Signature Line"
+msgstr "Aláírássor"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Az f(x) szinusz- és koszinuszsora"
+
+msgid "Sine Function"
+msgstr "Szinuszfüggvény"
+
+msgid "Sine theta"
+msgstr "Szinusz theta"
+
+msgid "Singapore"
+msgstr "Szingapúr"
+
+msgid "Single"
+msgstr "Szimpla"
+
+msgid "Single Brackets"
+msgstr "Egyszeres zárójelek"
+
+msgid "Single Closing Quote"
+msgstr "Záró szimpla idézőjel"
+
+msgid "Single label"
+msgstr "Egyetlen címke"
+
+msgid "Single Left Angle"
+msgstr "Egyszeres bal csúcsos zárójel"
+
+msgid "Single Left Bar"
+msgstr "Egyszeres bal függőleges vonal"
+
+msgid "Single Left Brace"
+msgstr "Egyszeres bal kapcsos zárójel"
+
+msgid "Single Left Bracket"
+msgstr "Egyszeres bal szögletes zárójel"
+
+msgid "Single Left Parenthesis"
+msgstr "Egyszeres bal kerek zárójel"
+
+msgid "Single Opening Quote"
+msgstr "Nyitó szimpla idézőjel"
+
+msgid "Single Right Brace"
+msgstr "Egyszeres jobb kapcsos zárójel"
+
+msgid "Single Right Bracket"
+msgstr "Egyszeres jobb szögletes zárójel"
+
+msgid "Single Right Parenthesis"
+msgstr "Egyszeres jobb kerek zárójel"
+
+msgid "Single Spacing"
+msgstr "Szimpla sorköz"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Webhely neve"
+
+msgid "Size (pt):"
+msgstr "Méret (pt):"
+
+msgid "Size and Crop…"
+msgstr "Méret és körülvágás…"
+
+msgid "Sketchbook"
+msgstr "Vázlatfüzet"
+
+msgid "Skewed Fraction"
+msgstr "Ferde tört"
+
+msgid "Skip citations & bibliography"
+msgstr "Hivatkozások és irodalomjegyzék kihagyása"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Hivatkozások és irodalomjegyzék kihagyása"
+
+msgid "Skip Record If"
+msgstr "Rekord kihagyása, ha"
+
+msgid "Skip Record If…"
+msgstr "Rekord kihagyása, ha…"
+
+msgid "Slant Down"
+msgstr "Dőlés lefelé"
+
+msgid "Slant Up"
+msgstr "Dőlés felfelé"
+
+msgid "Slovak"
+msgstr "szlovák"
+
+msgid "Slovenian"
+msgstr "szlovén"
+
+msgid "Small caps"
+msgstr "Kiskapitális"
+
+msgid "Small change"
+msgstr "Kis változás"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Tipográfiai idézőjelek az egyenesek helyett"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt-tervezés"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt-stílusok"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Sima görgetés és nagyítás, fokozatosan megjelenő menük és gombok. Kikapcsolva minden változás azonnal látszik."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Lágy szélek"
+
+msgid "Soft Glow"
+msgstr "Lágy ragyogás"
+
+msgid "Solid Accent"
+msgstr "Teli kiemelőszín"
+
+msgid "Solid fill"
+msgstr "Egyszínű kitöltés"
+
+msgid "Sometimes"
+msgstr "Néha"
+
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+msgid "Sort order:"
+msgstr "Rendezés:"
+
+msgid "Sort Recipients"
+msgstr "Címzettek rendezése"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Forráskód: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Forráskezelő"
+
+msgid "Source type:"
+msgstr "Forrás típusa:"
+
+msgid "Sources in this document:"
+msgstr "A dokumentum forrásai:"
+
+msgid "South"
+msgstr "Dél"
+
+msgid "South Africa"
+msgstr "Dél-afrikai Köztársaság"
+
+msgid "Space"
+msgstr "Szóköz"
+
+msgid "Space after"
+msgstr "Térköz utána"
+
+msgid "Space after: {pt} pt"
+msgstr "Térköz utána: {pt} pt"
+
+msgid "Space before"
+msgstr "Térköz előtte"
+
+msgid "Space before/after:"
+msgstr "Térköz előtte/utána:"
+
+msgid "Space before: {pt} pt"
+msgstr "Térköz előtte: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Térköz (pt):"
+
+msgid "Spain"
+msgstr "Spanyolország"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Spanyol (Mexikó)"
+
+msgid "Spanish (Spain)"
+msgstr "Spanyol (Spanyolország)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Ritka mátrixok"
+
+msgid "Special Characters"
+msgstr "Különleges karakterek"
+
+msgid "Specify height:"
+msgstr "Magasság megadása:"
+
+msgid "Speech"
+msgstr "Beszéd"
+
+msgid "Spelling & Grammar"
+msgstr "Helyesírás és nyelvhelyesség"
+
+msgid "Spelling &\nGrammar"
+msgstr "Helyesírás és\nnyelvhelyesség"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "A helyesírás- és nyelvhelyesség-ellenőrzés nyelve: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Helyesírási javaslatok"
+
+msgid "Spike"
+msgstr "Gyűjtő"
+
+msgid "Split Cells"
+msgstr "Cellák felosztása"
+
+msgid "Split Table"
+msgstr "Táblázat felosztása"
+
+msgid "Spreadsheet Table"
+msgstr "Számolótábla"
+
+msgid "Square Root"
+msgstr "Négyzetgyök"
+
+msgid "Square Root with Degree"
+msgstr "Négyzetgyök kitevővel"
+
+msgid "Square Union"
+msgstr "Szögletes unió"
+
+msgid "Stack Object"
+msgstr "Halmozott objektum"
+
+msgid "Stack Object (Three)"
+msgstr "Halmozott objektum (három)"
+
+msgid "Stacked Bar"
+msgstr "Halmozott sáv"
+
+msgid "Stacked Column"
+msgstr "Halmozott oszlop"
+
+msgid "Stacked Fraction"
+msgstr "Emeletes tört"
+
+msgid "Stacked, no bar"
+msgstr "Egymás fölött, törtvonal nélkül"
+
+msgid "Standard Colors"
+msgstr "Alapszínek"
+
+msgid "Start Enforcing Protection"
+msgstr "Védelem bekapcsolása"
+
+msgid "Start Mail Merge"
+msgstr "Körlevél indítása"
+
+msgid "Start Mail\nMerge"
+msgstr "Körlevél\nindítása"
+
+msgid "Start-up"
+msgstr "Indítás"
+
+msgid "State"
+msgstr "Megye vagy állam"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Ott vagy még? Hallom, ahogy gondolkodsz."
+
+msgid "Stop Protection"
+msgstr "Védelem kikapcsolása"
+
+msgid "Stop Reading"
+msgstr "Felolvasás leállítása"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Leállítva"
+
+msgid "Straight Arrow Connector"
+msgstr "Egyenes nyilas összekötő"
+
+msgid "Straight Connector"
+msgstr "Egyenes összekötő"
+
+msgid "Stroke {n} of {total}"
+msgstr "Vonás: {n}/{total}"
+
+msgid "Strong"
+msgstr "Félkövér kiemelés"
+
+msgid "Structure Actions"
+msgstr "Szerkezeti műveletek"
+
+msgid "Structures"
+msgstr "Szerkezetek"
+
+msgid "Studio cover"
+msgstr "Studio-borító"
+
+msgid "Studio handbook (sample)"
+msgstr "Studio-kézikönyv (minta)"
+
+msgid "Style based on:"
+msgstr "Alapstílus:"
+
+msgid "Style Inspector"
+msgstr "Stílusvizsgáló"
+
+msgid "Style name:"
+msgstr "Stílus neve:"
+
+msgid "Style Set"
+msgstr "Stíluskészlet"
+
+msgid "Style: APA"
+msgstr "Stílus: APA"
+
+msgid "Style: {style}"
+msgstr "Stílus: {style}"
+
+msgid "Styles Pane"
+msgstr "Stílusok panel"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stílusok:"
+
+msgid "Subentry:"
+msgstr "Albejegyzés:"
+
+msgid "Submit print job"
+msgstr "Nyomtatási feladat küldése"
+
+msgid "Submitting print job…"
+msgstr "Nyomtatási feladat küldése…"
+
+msgid "Subscript-Superscript"
+msgstr "Alsó és felső index"
+
+msgid "Subscripts and Superscripts"
+msgstr "Alsó és felső indexek"
+
+msgid "Subset:"
+msgstr "Részhalmaz:"
+
+msgid "Subtle Emphasis"
+msgstr "Finoman hangsúlyos"
+
+msgid "Subtle Reference"
+msgstr "Finom hivatkozás"
+
+msgid "Suggested"
+msgstr "Javaslatok"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Összeg"
+
+msgid "Sum of cosines"
+msgstr "Koszinuszok összege"
+
+msgid "Sum or difference of sines"
+msgstr "Szinuszok összege vagy különbsége"
+
+msgid "Summation"
+msgstr "Összegzés"
+
+msgid "Summation from 0 to n"
+msgstr "Összegzés 0-tól n-ig"
+
+msgid "Summation over binomials"
+msgstr "Binomiális együtthatók összege"
+
+msgid "Summation with Limits"
+msgstr "Összegzés határokkal"
+
+msgid "Summation with Lower Limit"
+msgstr "Összegzés alsó határral"
+
+msgid "Summation with Subscript Limit"
+msgstr "Összegzés indexben írt határral"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Összegzés indexben írt határokkal"
+
+msgid "Summations"
+msgstr "Összegzések"
+
+msgid "Suppress line numbers"
+msgstr "Sorszámozás elhagyása"
+
+msgid "Surface Integral"
+msgstr "Felületi integrál"
+
+msgid "Surface Integral with Limits"
+msgstr "Felületi integrál határokkal"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Felületi integrál fölé és alá írt határokkal"
+
+msgid "Swahili"
+msgstr "szuahéli"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Láb- és végjegyzetek felcserélése"
+
+msgid "Swedish"
+msgstr "Svéd"
+
+msgid "Switch Modes"
+msgstr "Módváltás"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Módváltás"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Svájc"
+
+msgid "Synonyms"
+msgstr "Szinonimák"
+
+msgid "Syria"
+msgstr "Szíria"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Rendszerszótár"
+
+msgid "Tab Character"
+msgstr "Tabulátor karakter"
+
+msgid "Tab character"
+msgstr "Tabulátorkarakter"
+
+msgid "Tab characters"
+msgstr "Tabulátorok"
+
+msgid "Tab leader:"
+msgstr "Kitöltő karakter:"
+
+msgid "Tab stop position:"
+msgstr "Tabulátor helye:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Törlendő tabulátorok:"
+
+msgid "Table Column Width"
+msgstr "Táblázat oszlopszélessége"
+
+msgid "Table Design"
+msgstr "Táblázattervezés"
+
+msgid "Table direction:"
+msgstr "Táblázat iránya:"
+
+msgid "Table Grid"
+msgstr "Táblázatrács"
+
+msgid "Table Layout"
+msgstr "Táblázat-elrendezés"
+
+msgid "Table of Authorities"
+msgstr "Jogforrásjegyzék"
+
+msgid "Table of Contents"
+msgstr "Tartalomjegyzék"
+
+msgid "Table of Contents Options"
+msgstr "Tartalomjegyzék beállításai"
+
+msgid "Table of Contents Styles"
+msgstr "Tartalomjegyzék stílusai"
+
+msgid "Table of Figures"
+msgstr "Ábrajegyzék"
+
+msgid "Table of\nContents"
+msgstr "Tartalom-\njegyzék"
+
+msgid "Table Properties"
+msgstr "Táblázat tulajdonságai"
+
+msgid "Table Properties…"
+msgstr "Táblázat tulajdonságai…"
+
+msgid "Table Row Height"
+msgstr "Táblázat sormagassága"
+
+msgid "Table size"
+msgstr "Táblázat mérete"
+
+msgid "Table Style Options"
+msgstr "Táblázatstílus beállításai"
+
+msgid "Table Styles"
+msgstr "Táblázatstílusok"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Tabulátorok…"
+
+msgid "Tabular List"
+msgstr "Táblázatos lista"
+
+msgid "Tag"
+msgstr "Azonosító"
+
+msgid "Taiwan"
+msgstr "Tajvan"
+
+msgid "Take the last match on the page"
+msgstr "A lap utolsó találatának használata"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Csak nyugodtan. A lap nem szalad el. Én sem. Soha."
+
+msgid "Tamil"
+msgstr "tamil"
+
+msgid "Tangent formula"
+msgstr "Tangensképlet"
+
+msgid "Tangent Function"
+msgstr "Tangensfüggvény"
+
+msgid "TC entry fields"
+msgstr "TC bejegyzésmezők"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Technika"
+
+msgid "Templates and Add-ins"
+msgstr "Sablonok és bővítmények"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "A sablonmappájába mentett sablonok itt jelennek meg."
+
+msgid "Text Box"
+msgstr "Szövegdoboz"
+
+msgid "Text boxes"
+msgstr "Szövegdobozok"
+
+msgid "text boxes can't go inside a text box"
+msgstr "szövegdoboz nem kerülhet szövegdobozba"
+
+msgid "Text Direction"
+msgstr "Szövegirány"
+
+msgid "Text Effects"
+msgstr "Szövegeffektusok"
+
+msgid "Text Effects and Typography"
+msgstr "Szövegeffektusok és tipográfia"
+
+msgid "Text Fill"
+msgstr "Szövegkitöltés"
+
+msgid "Text from File"
+msgstr "Szöveg fájlból"
+
+msgid "Text Highlight Color"
+msgstr "Kiemelés színe"
+
+msgid "Text indent at:"
+msgstr "Szöveg behúzása:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Az adott stílusú legközelebbi bekezdés szövege (élőfejek)"
+
+msgid "Text Outline"
+msgstr "Szöveg körvonala"
+
+msgid "Text over Colon Equal"
+msgstr "Szöveg a kettőspont-egyenlő fölött"
+
+msgid "Text over Equal"
+msgstr "Szöveg az egyenlőségjel fölött"
+
+msgid "Text Pane"
+msgstr "Szöveg panel"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Szövegméret"
+
+msgid "Text snaps to characters"
+msgstr "A szöveg a karakterrácshoz igazodik"
+
+msgid "Text to display:"
+msgstr "Megjelenített szöveg:"
+
+msgid "Text watermark"
+msgstr "Szövegvízjel"
+
+msgid "Text Wrapping"
+msgstr "Szöveg körbefuttatása"
+
+msgid "Text\nBox"
+msgstr "Szövegdoboz"
+
+msgid "Text\nDirection"
+msgstr "Szövegirány"
+
+msgid "Thai"
+msgstr "thai"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Ez a formátum nem őriz meg mindent, ezért a dokumentum nyitva maradt. A folytatáshoz mentsd Word-dokumentumként (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Hibás jelszó. Ellenőrizd (a kis- és nagybetű számít), és próbáld újra."
+
+msgid "The clipboard is empty."
+msgstr "A vágólap üres."
+
+msgid "the Clipboard pane is empty"
+msgstr "a Vágólap munkaablak üres"
+
+msgid "the cursor isn't in a table"
+msgstr "a kurzor nem táblázatban van"
+
+msgid "The date it is today"
+msgstr "A mai dátum"
+
+msgid "The document has no bookmarks yet."
+msgstr "A dokumentumban még nincs könyvjelző."
+
+msgid "the document is protected"
+msgstr "a dokumentum védett"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "A dokumentum csak olvasható, kivéve a szerkeszthetőnek jelölt területeket."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "A dokumentum jelszóval lesz mentve. A védelemhez mentsd."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "A szerkesztett dokumentum megtartja a neveket és a dátumokat; csak a mentett fájlból maradnak ki."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "A margók nem férnek el ekkora oldalon; először csökkentse a margókat."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "A méretnek {min} és {max} között kell lennie."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Az új stílus az aktuális bekezdés formázását veszi át."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "A Normál sablon nem olvasható, ezért ez a dokumentum a WordCraft beépített formázását használja."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "A számnak 1 és {max} között kell lennie."
+
+msgid "the paragraph is empty"
+msgstr "a bekezdés üres"
+
+msgid "the paragraph starts with a space"
+msgstr "a bekezdés szóközzel kezdődik"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "A jelszó nem kötelező; nélküle bárki kikapcsolhatja a védelmet."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "A jelszó eltávolítva. A módosítás megtartásához mentsd a dokumentumot."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "A nyomtatót, a kétoldalas nyomtatást és a laponkénti oldalszámot abban a párbeszédablakban választhatod ki."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "A címzettlista mezője, amely a címblokk és a megszólítás egyes részeit kitölti."
+
+msgid "The spelling and grammar check is complete."
+msgstr "A helyesírás- és nyelvhelyesség-ellenőrzés befejeződött."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "a gyűjtő üres"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "A rendszer fájlpárbeszédablaka nem érhető el, ezért a WordCraft a sajátját mutatja. A rendszer párbeszédablakához telepíts egy fájlválasztó portált (például xdg-desktop-portal-gtk) vagy a zenity programot."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "A beszúrási pontnál lévő szöveg jelölése: Nincs helyesírás- és nyelvhelyesség-ellenőrzés."
+
+msgid "The time right now"
+msgstr "A jelenlegi időpont"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Témaszínek"
+
+msgid "Theme Fonts"
+msgstr "Téma betűtípusai"
+
+msgid "Theme List"
+msgstr "Témák listája"
+
+msgid "Themes"
+msgstr "Témák"
+
+msgid "Then by"
+msgstr "Majd"
+
+msgid "Then insert:"
+msgstr "Akkor beszúrandó:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "nincs visszajátszható tinta"
+
+msgid "there is nothing to undo"
+msgstr "nincs mit visszavonni"
+
+msgid "there's no citation after the caret"
+msgstr "a kurzor után nincs forráshivatkozás"
+
+msgid "Thesaurus"
+msgstr "Szinonimaszótár"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Ezek a jelek akkor is látszanak, ha a Megjelenítés/elrejtés ¶ ki van kapcsolva."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Ezek az egyesítési mezők hiányoznak a címzettlistából:"
+
+msgid "These settings will be used for new documents."
+msgstr "Ezek a beállítások az új dokumentumokra lesznek érvényesek."
+
+msgid "Thick"
+msgstr "Vastag"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "ez a diagram egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni"
+
+msgid "this diagram can't be edited"
+msgstr "ez a diagram nem szerkeszthető"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "ez a diagram másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni"
+
+msgid "This document"
+msgstr "Ez a dokumentum"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Csak ebben a dokumentumban?"
+
+msgid "This field has no options."
+msgstr "Ennek a mezőnek nincsenek beállításai."
+
+msgid "This folder can't be read: {error}"
+msgstr "Ez a mappa nem olvasható: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Ebben a betűtípusban nincs megjeleníthető karakter."
+
+msgid "this item is already at the top level"
+msgstr "ez az elem már a legfelső szinten van"
+
+msgid "This page"
+msgstr "Ez az oldal"
+
+msgid "This password type isn't supported."
+msgstr "Ez a jelszótípus nem támogatott."
+
+msgid "This point forward"
+msgstr "Innentől kezdve"
+
+msgid "This section"
+msgstr "Ez a szakasz"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül): használd ezt \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "ez a SmartArt egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni"
+
+msgid "this text box is already linked: break the link first"
+msgstr "ez a szövegdoboz már csatolva van: előbb bontsa a csatolást"
+
+msgid "Three"
+msgstr "Három"
+
+msgid "Through"
+msgstr "Átfutó"
+
+msgid "Tight"
+msgstr "Szoros"
+
+msgid "Tilde"
+msgstr "Hullámvonal"
+
+msgid "Tip"
+msgstr "Tipp"
+
+msgid "Tips ({n})"
+msgstr "Tippek ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr "Címsáv"
+
+msgid "Title from the document properties"
+msgstr "A dokumentum tulajdonságaiban megadott cím"
+
+msgid "Title:"
+msgstr "Cím:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Ha a Word-dokumentumokat alapértelmezés szerint a WordCrafttal szeretné megnyitni: jelöljön ki egyet a Finderben, válassza a Fájl › Információ parancsot, a „Megnyitás ezzel” alatt válassza a WordCraftot, majd kattintson az „Összes módosítása” gombra."
+
+msgid "To:"
+msgstr "Eddig:"
+
+msgid "TOA Heading"
+msgstr "Jogforrásjegyzék címsora"
+
+msgid "TOC Heading"
+msgstr "Tartalomjegyzék címsora"
+
+msgid "TOC {n}"
+msgstr "Tartalomjegyzék {n}"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "tOGGLE cASE"
+msgstr "kIS-nAGYBETŰ cSERE"
+
+msgid "Toggle Check Box"
+msgstr "Jelölőnégyzet átváltása"
+
+msgid "Toggle Field Codes"
+msgstr "Mezőkódok átváltása"
+
+msgid "Toggle Unicode Character"
+msgstr "Unicode-karakter átváltása"
+
+msgid "Top and Bottom"
+msgstr "Felül és alul"
+
+msgid "Top Border"
+msgstr "Felső szegély"
+
+msgid "Top Left Cell"
+msgstr "Bal felső cella"
+
+msgid "Top Margin"
+msgstr "Felső margó"
+
+msgid "Top of Page"
+msgstr "Oldal teteje"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Jobb felső cella"
+
+msgid "Total Row"
+msgstr "Összegsor"
+
+msgid "Track Changes"
+msgstr "Változáskövetés"
+
+msgid "Track Changes Options"
+msgstr "Változáskövetés beállításai"
+
+msgid "Track Changes: On"
+msgstr "Változáskövetés: be"
+
+msgid "Track formatting"
+msgstr "Formázás követése"
+
+msgid "Track\nChanges"
+msgstr "Változás-\nkövetés"
+
+msgid "Track\nChanges ✓"
+msgstr "Változás-\nkövetés ✓"
+
+msgid "Tracked changes"
+msgstr "Követett módosítások"
+
+msgid "Trademark"
+msgstr "Védjegy"
+
+msgid "Trademark Sign"
+msgstr "Védjegy jele"
+
+msgid "Transparency:"
+msgstr "Átlátszóság:"
+
+msgid "Transport"
+msgstr "Közlekedés"
+
+msgid "Triangle Down"
+msgstr "Háromszög lefelé"
+
+msgid "Triangle Up"
+msgstr "Háromszög felfelé"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometrikus függvények"
+
+msgid "Triple"
+msgstr "Hármas"
+
+msgid "Triple Dot"
+msgstr "Hárompont ékezet"
+
+msgid "Triple Integral"
+msgstr "Hármas integrál"
+
+msgid "Triple Integral with Limits"
+msgstr "Hármas integrál határokkal"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Hármas integrál fölé és alá írt határokkal"
+
+msgid "Trust Center"
+msgstr "Adatvédelmi központ"
+
+msgid "Tue"
+msgstr "K"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Török"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Kettő"
+
+msgid "Two-sided printing"
+msgstr "Kétoldalas nyomtatás"
+
+msgid "Two-sided: long edge"
+msgstr "Kétoldalas: hosszú él"
+
+msgid "Two-sided: short edge"
+msgstr "Kétoldalas: rövid él"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Írd be: +2 vagy -1, ha az aktuális oldalhoz képest szeretnél lépni."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Írj be egy parancsot, például „táblázat beszúrása”"
+
+msgid "Type a New List…"
+msgstr "Új lista begépelése…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Írj be egy méretet bármilyen mértékegységben, például 5 cm vagy 300 px. A másik oldal követi, így a kép megtartja az arányait."
+
+msgid "Type at least one recipient."
+msgstr "Adj meg legalább egy címzettet."
+
+msgid "Type Character Code"
+msgstr "Karakterkód beírása"
+
+msgid "Type equations in LaTeX"
+msgstr "Egyenletek írása LaTeX-ben"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Egyenletek írása lineáris formátumban (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Gépelés az egyenletbe"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Normál (nem matematikai) szöveg írása az egyenletbe"
+
+msgid "Type Text"
+msgstr "Szöveg begépelése"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Írd a kategóriákat a bal oldali oszlopba, az értékeket pedig adatsoronként egy-egy oszlopba."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Írd be a mező nevét és kapcsolóit, például: PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "A védelem kikapcsolásához add meg a jelszót."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Gépeld be a címzetteket, vagy töltsd be őket fájlból."
+
+msgid "Typing replaces selected text"
+msgstr "A gépelés felülírja a kijelölt szöveget"
+
+msgid "U.A.E."
+msgstr "Egyesült Arab Emírségek"
+
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgid "Ukrainian"
+msgstr "Ukrán"
+
+msgid "Unchecked symbol"
+msgstr "Bejelöletlen állapot szimbóluma"
+
+msgid "Underbar"
+msgstr "Aláhúzás"
+
+msgid "Underbrace"
+msgstr "Alsó kapcsos zárójel"
+
+msgid "Underline Color"
+msgstr "Aláhúzás színe"
+
+msgid "Underline color"
+msgstr "Aláhúzás színe"
+
+msgid "Underline Words Only"
+msgstr "Csak a szavak aláhúzása"
+
+msgid "Undo 1 Action"
+msgstr "1 művelet visszavonása"
+
+msgid "Undo Actions"
+msgstr "Több művelet visszavonása"
+
+msgid "Undo History"
+msgstr "Visszavonási előzmények"
+
+msgid "Undo {n} Actions"
+msgstr "{n} művelet visszavonása"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Visszavonás, visszavonás, visszavonás… most már időutazunk."
+
+msgid "Unformatted Text"
+msgstr "Formázatlan szöveg"
+
+msgid "Union of intersections"
+msgstr "Metszetek uniója"
+
+msgid "Union with Limits"
+msgstr "Unió határokkal"
+
+msgid "Union with Lower Limit"
+msgstr "Unió alsó határral"
+
+msgid "Union with Plus"
+msgstr "Unió plusszal"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Unió indexben írt határokkal"
+
+msgid "Unions and Intersections"
+msgstr "Uniók és metszetek"
+
+msgid "United Kingdom"
+msgstr "Egyesült Királyság"
+
+msgid "United States"
+msgstr "Amerikai Egyesült Államok"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "ismeretlen díszítő szövegstílus: `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Mezők leválasztása"
+
+msgid "Unlink\nCitations"
+msgstr "Hivatkozások\nleválasztása"
+
+msgid "Unlock Fields"
+msgstr "Mezők feloldása"
+
+msgid "Up Diagonal Dots"
+msgstr "Felfelé mutató átlós pontok"
+
+msgid "Up one level"
+msgstr "Egy szinttel feljebb"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Mező frissítése"
+
+msgid "Update fields before printing"
+msgstr "Mezők frissítése nyomtatás előtt"
+
+msgid "Update Index"
+msgstr "Tárgymutató frissítése"
+
+msgid "Update Style to Match Selection"
+msgstr "Stílus frissítése a kijelölés alapján"
+
+msgid "Update Styles from Template"
+msgstr "Stílusok frissítése a sablonból"
+
+msgid "Update Table"
+msgstr "Jegyzék frissítése"
+
+msgid "Update Table of Figures"
+msgstr "Ábrajegyzék frissítése"
+
+msgid "Update to Match"
+msgstr "Frissítés egyeztetéssel"
+
+msgid "Update to Match Selection"
+msgstr "Frissítés a kijelölés alapján"
+
+msgid "URGENT"
+msgstr "AZONNALI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Mássalhangzóval kezdődő szó előtt „a” áll"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Magánhangzóval kezdődő szó előtt „an” áll"
+
+msgid "Use an Existing List…"
+msgstr "Meglévő lista használata…"
+
+msgid "Use system setting"
+msgstr "A rendszerbeállítás követése"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Használja a böngésző teljes képernyős módját (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Az aktuális stíluskészlet és téma legyen minden új dokumentumban?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Az Insert billentyű ki- és bekapcsolja a felülírást"
+
+msgid "Use this formatting as the default for:"
+msgstr "Legyen ez a formázás az alapértelmezett:"
+
+msgid "Use wildcards"
+msgstr "Helyettesítő karakterek használata"
+
+msgid "User Name"
+msgstr "Felhasználónév"
+
+msgid "User name:"
+msgstr "Felhasználónév:"
+
+msgid "User templates:"
+msgstr "Felhasználói sablonok:"
+
+msgid "Vector A"
+msgstr "A vektor"
+
+msgid "Vector AB"
+msgstr "AB vektor"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Verzióelőzmények"
+
+msgid "Version {version} ({build})"
+msgstr "Verzió: {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Függőleges igazítás:"
+
+msgid "Vertical Bars"
+msgstr "Függőleges vonalak"
+
+msgid "Vertical Dots"
+msgstr "Függőleges pontok"
+
+msgid "Vietnamese"
+msgstr "vietnami"
+
+msgid "View Alt Text…"
+msgstr "Helyettesítő szöveg megtekintése…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Rácsvonalak megjelenítése"
+
+msgid "View State"
+msgstr "Nézet állapota"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Nézet › Fókusz: minden eltűnik, csak a szavaid maradnak. Kint várok."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Nézetek"
+
+msgid "Visual effects"
+msgstr "Vizuális effektusok"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Kötet"
+
+msgid "Volume Integral"
+msgstr "Térfogati integrál"
+
+msgid "Volume Integral with Limits"
+msgstr "Térfogati integrál határokkal"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Térfogati integrál fölé és alá írt határokkal"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "Várakozás a mentés befejezésére…"
+
+msgid "Waiting for Zotero…"
+msgstr "Várakozás a Zoterora…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Meleg színátmenet körvonallal"
+
+msgid "Warnings ({n})"
+msgstr "Figyelmeztetések ({n})"
+
+msgid "Washout"
+msgstr "Kifakult"
+
+msgid "Weather"
+msgstr "Időjárás"
+
+msgid "Web Layout"
+msgstr "Webes elrendezés"
+
+msgid "Web page (*.html)"
+msgstr "Weboldal (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Webes\nelrendezés"
+
+msgid "Wed"
+msgstr "Sze"
+
+msgid "Welsh"
+msgstr "walesi"
+
+msgid "West"
+msgstr "Nyugat"
+
+msgid "When this document was first created"
+msgstr "A dokumentum létrehozásának ideje"
+
+msgid "When this document was most recently printed"
+msgstr "A dokumentum legutóbbi nyomtatásának ideje"
+
+msgid "When this document was most recently saved"
+msgstr "A dokumentum legutóbbi mentésének ideje"
+
+msgid "White Space"
+msgstr "Üres karakter"
+
+msgid "White space"
+msgstr "Üres karakterek"
+
+msgid "Who the document properties name as author"
+msgstr "A dokumentum tulajdonságaiban megadott szerző"
+
+msgid "Whole document"
+msgstr "Teljes dokumentum"
+
+msgid "Whole page"
+msgstr "Teljes oldal"
+
+msgid "Whole Table"
+msgstr "Teljes táblázat"
+
+msgid "Whole words"
+msgstr "Csak teljes szavak"
+
+msgid "Wide"
+msgstr "Széles"
+
+msgid "Widow/Orphan Control"
+msgstr "Fattyú- és árvasorok kezelése"
+
+msgid "Widow/Orphan control"
+msgstr "Fattyú- és árvasorok kezelése"
+
+msgid "Width and spacing"
+msgstr "Szélesség és térköz"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "Mire:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML-dokumentum (*.xml)"
+
+msgid "Word Count"
+msgstr "Szavak száma"
+
+msgid "Word document"
+msgstr "Word-dokumentum"
+
+msgid "Word document (*.docx)"
+msgstr "Word-dokumentum (*.docx)"
+
+msgid "Word Left"
+msgstr "Szó balra"
+
+msgid "Word level"
+msgstr "Szószinten"
+
+msgid "Word Right"
+msgstr "Szó jobbra"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML-dokumentum (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt-stílusok"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "Mostantól a WordCraft az alapértelmezett alkalmazás a Word-dokumentumokhoz."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Csak szavak"
+
+msgid "Wrap Text"
+msgstr "Szöveg körbefuttatása"
+
+msgid "Wrap Text Sides"
+msgstr "Körbefuttatás oldalai"
+
+msgid "Wrap\nText"
+msgstr "Körbe-\nfuttatás"
+
+msgid "Write & Insert Fields"
+msgstr "Mezők írása és beszúrása"
+
+msgid "Write a reply"
+msgstr "Válasz írása"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Írói válság? Nekem a kurzor bámulása segít. Évek óta pislog rám."
+
+msgid "x bar"
+msgstr "x felülvonással"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Yields"
+msgstr "Eredményez"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Egy ideje nem mentettél, és az Automatikus mentés ki van kapcsolva. Mentsünk most?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Listát kezdtél. A befejezéshez nyomd meg kétszer az Entert, vagy egy elem elején a Backspace-t, hogy visszaalakítsd szöveggé."
+
+msgid "Your document is now the most saved document in history."
+msgstr "A dokumentumod mostantól a történelem legtöbbet mentett dokumentuma."
+
+msgid "Your languages"
+msgstr "Nyelveid"
+
+msgid "Your own dictionary"
+msgstr "Saját szótár"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "A rendszered nem jelez animációs beállítást, ezért az animációs effektusok bekapcsolva maradnak."
+
+msgid "Your system has animation effects turned off."
+msgstr "A rendszereden ki vannak kapcsolva az animációs effektusok."
+
+msgid "Your system has animation effects turned on."
+msgstr "A rendszereden be vannak kapcsolva az animációs effektusok."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: megszakítva"
+
+msgid "Zotero: done"
+msgstr "Zotero: kész"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} nem olvasható: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} kihagyva (korlát: {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} táblázat"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} közreműködő · {commits} commit"
+
+msgid "{count} items highlighted"
+msgstr "{count} elem kiemelve"
+
+msgid "{count} of {total} pages will print"
+msgstr "Nyomtatandó oldalak: {count}/{total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "{total} címzettből {count} kerül egyesítésre."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group} – beállítások"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "A(z) {key} ellenőrzi az egész dokumentum helyesírását és nyelvtanát."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "A(z) {key} megszámolja a szavaidat, karaktereidet és bekezdéseidet."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "A(z) {key} szöveget, formázást és speciális karaktereket keres és cserél."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "A(z) {key} megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "A(z) {key} új sort kezd anélkül, hogy új bekezdést kezdene."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "A(z) {key} új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik."
+
+msgid "{key} turns the selected text into a link."
+msgstr "A(z) {key} linkké alakítja a kijelölt szöveget."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+kattintás: link megnyitása"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (alapértelmezett)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (nincs szótár)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "A dokumentum alapértelmezett nyelve mostantól: {language}"
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: nem található szótár"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: a WordCraft ezen a nyelven még nem ellenőrzi a helyesírást és a nyelvhelyességet."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} és még {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} hüvelyk"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "Már létezik: {name}. A felülírásához válaszd újra a Mentést."
+
+msgid "{name} is protected with a password."
+msgstr "Ez a dokumentum jelszóval védett: {name}"
+
+msgid "{name} options"
+msgstr "{name} beállításai"
+
+msgid "{name} wasn't found."
+msgstr "Nem található: {name}"
+
+msgid "{n} entries marked."
+msgstr "Megjelölt bejegyzések: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} sor"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected}/{words} szó"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} képpont"
+
+msgid "{words} words"
+msgstr "{words} szó"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} szó, és a számláló pörög. Szó szerint. Én számolok."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} szó! Szórnék konfettit, de utána nekem kéne feltakarítani."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} szó. Ez {words} szóval több, mint amennyit ma én írtam."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) nem szám."
+
+msgid "✓ None"
+msgstr "✓ Nincs"
+
+msgid "➕ New comment"
+msgstr "➕ Új megjegyzés"
+
+msgid "📂  Browse…"
+msgstr "📂  Tallózás…"

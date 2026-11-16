@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Све)"
+
+msgid "(no style)"
+msgstr "(без стила)"
+
+msgid "(no suggestions)"
+msgstr "(нема предлога)"
+
+msgid "(normal text)"
+msgstr "(обичан текст)"
+
+msgid "(not matched)"
+msgstr "(није упарено)"
+
+msgid "(picture or object)"
+msgstr "(слика или објекат)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 или више знакова"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Ограничења обликовања"
+
+msgid "1.5 Line Spacing"
+msgstr "Проређеност 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Размак од 1/4 em"
+
+msgid "1×2 Empty Matrix"
+msgstr ""
+
+msgid "1×3 Empty Matrix"
+msgstr ""
+
+msgid "2. Editing restrictions"
+msgstr "2. Ограничења уређивања"
+
+msgid "2×1 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Determinant"
+msgstr ""
+
+msgid "2×2 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "2×2 Matrix in Brackets"
+msgstr ""
+
+msgid "2×2 Matrix in Double Bars"
+msgstr ""
+
+msgid "2×2 Matrix in Parentheses"
+msgstr ""
+
+msgid "2×3 Empty Matrix"
+msgstr ""
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Покретање заштите"
+
+msgid "3×1 Empty Matrix"
+msgstr ""
+
+msgid "3×2 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "<< Less"
+msgstr "<< Мање"
+
+msgid "<< Remove"
+msgstr "<< Уклони"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "дијаграм може да садржи највише {MAX_ITEMS} ставки"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "платно за цртање не може да се разгрупише"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "платно за цртање не може да се стави у оквир за текст"
+
+msgid "A file dialog is already open."
+msgstr "Дијалог за фајлове је већ отворен."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Бесплатан, отворени обрађивач текста написан од нуле у Rust-у.\nДео Crafting Apps пакета тима ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "група са Word мастилом још не може да се разгрупише"
+
+msgid "A mail merge field"
+msgstr "Поље за спајање поште"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Нумерисани низ (слике, табеле…)"
+
+msgid "A password is required to open this document."
+msgstr "За отварање овог документа потребна је лозинка."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Садржај"
+
+msgid "A xor B"
+msgstr ""
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr ""
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz ЂђЋћ"
+
+msgid "About WordCraft"
+msgstr "О WordCraft-у"
+
+msgid "Above Chart"
+msgstr "Изнад графикона"
+
+msgid "Above the item"
+msgstr "Изнад ставке"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr ""
+
+msgid "Accent"
+msgstr "Знак акцента"
+
+msgid "Accent Gradient"
+msgstr "Градијент боје истицања"
+
+msgid "Accent with Reflection"
+msgstr "Истицање са одразом"
+
+msgid "Accent {n}"
+msgstr "Акценат {n}"
+
+msgid "Accents"
+msgstr ""
+
+msgid "Accept"
+msgstr "Прихвати"
+
+msgid "Accept All Changes"
+msgstr "Прихвати све измене"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Прихвати ову измену"
+
+msgid "Accessed on"
+msgstr "Приступљено"
+
+msgid "Accessibility Pane"
+msgstr "Окно приступачности"
+
+msgid "Account"
+msgstr "Налог"
+
+msgid "Acute"
+msgstr ""
+
+msgid "Add >>"
+msgstr "Додај >>"
+
+msgid "Add a language"
+msgstr "Додај језик"
+
+msgid "Add a language…"
+msgstr "Додај језик…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Додај табелу"
+
+msgid "Add at least one field."
+msgstr "Додајте бар једно поље."
+
+msgid "Add Chart Element"
+msgstr "Додај елемент графикона"
+
+msgid "Add Condition"
+msgstr "Додај услов"
+
+msgid "Add Field"
+msgstr "Додај поље"
+
+msgid "Add Font…"
+msgstr "Додај фонт…"
+
+msgid "Add gradient stop"
+msgstr "Додај тачку прелива"
+
+msgid "Add line numbering"
+msgstr "Додај бројеве редова"
+
+msgid "Add New Source…"
+msgstr "Додај нови извор…"
+
+msgid "Add Object to Selection"
+msgstr "Додај објекат у избор"
+
+msgid "Add Pen"
+msgstr "Додај перо"
+
+msgid "Add Row"
+msgstr "Додај ред"
+
+msgid "Add Series"
+msgstr "Додај серију"
+
+msgid "Add Shape"
+msgstr "Додај облик"
+
+msgid "Add Space Before Paragraph"
+msgstr "Додај размак пре пасуса"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Додај размак између азијског и латиничног текста"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Додај размак између азијског текста и бројева"
+
+msgid "Add tab stop at:"
+msgstr "Додај табулатор на:"
+
+msgid "Add Text"
+msgstr "Додај текст"
+
+msgid "Add the chapter number"
+msgstr "Додај број поглавља"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Додај у документ"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Додај на траку са алаткама за брзи приступ"
+
+msgid "Add to Style Gallery"
+msgstr "Додај у галерију стилова"
+
+msgid "Add whether it is above or below"
+msgstr "Додај да ли је изнад или испод"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Додај/измени\nбиблиографију"
+
+msgid "Add/Edit\nCitation"
+msgstr "Додај/измени\nцитат"
+
+msgid "Add\nNote"
+msgstr "Додај\nбелешку"
+
+msgid "Add\nPen"
+msgstr "Додај\nперо"
+
+msgid "Add\nShape"
+msgstr "Додај\nоблик"
+
+msgid "Added 1 font"
+msgstr "Додат је 1 фонт"
+
+msgid "Added Fonts"
+msgstr "Додати фонтови"
+
+msgid "Added {n} fonts"
+msgstr "Додато фонтова: {n}"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "Address Block"
+msgstr "Блок адресе"
+
+msgid "Address labels"
+msgstr "Адресне налепнице"
+
+msgid "Address:"
+msgstr "Адреса:"
+
+msgid "Address\nBlock"
+msgstr "Блок\nадресе"
+
+msgid "Advanced Find"
+msgstr "Напредна претрага"
+
+msgid "Advanced Find…"
+msgstr "Напредна претрага…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "африканс"
+
+msgid "After:"
+msgstr "После:"
+
+msgid "Agents"
+msgstr "Агенти"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Агенти повезани са WordCraft-ом могу да вам приказују поруке преко асистента. Када су утишани, обавештавају се да то не желите."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "А, латински. Мртав језик — матерњи језик крајњих рокова."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "А, фаза уређивања. Моја омиљена. Веома одлучно."
+
+msgid "Albanian"
+msgstr "албански"
+
+msgid "Align Bottom Center"
+msgstr "Поравнај доле по средини"
+
+msgid "Align Bottom Left"
+msgstr "Поравнај доле лево"
+
+msgid "Align Bottom Right"
+msgstr "Поравнај доле десно"
+
+msgid "Align Center"
+msgstr "Поравнај по средини"
+
+msgid "Align Center Left"
+msgstr "Поравнај у средини лево"
+
+msgid "Align Center Right"
+msgstr "Поравнај у средини десно"
+
+msgid "Align Top Center"
+msgstr "Поравнај горе по средини"
+
+msgid "Align Top Left"
+msgstr "Поравнај горе лево"
+
+msgid "Align Top Right"
+msgstr "Поравнај горе десно"
+
+msgid "Aligned at:"
+msgstr "Поравнато на:"
+
+msgid "All - Linear"
+msgstr ""
+
+msgid "All - Professional"
+msgstr ""
+
+msgid "All Borders"
+msgstr "Све ивице"
+
+msgid "All caps"
+msgstr "Сва велика слова"
+
+msgid "All Commands"
+msgstr "Све команде"
+
+msgid "All documents based on the Normal template?"
+msgstr "Сви документи засновани на шаблону „Нормално“?"
+
+msgid "All Fonts"
+msgstr "Сви фонтови"
+
+msgid "All Levels"
+msgstr "Сви нивои"
+
+msgid "All Markup"
+msgstr "Све измене"
+
+msgid "All pages in the range"
+msgstr "Све странице у опсегу"
+
+msgid "All symbol sets"
+msgstr "Сви скупови симбола"
+
+msgid "All system fonts are already available."
+msgstr "Сви системски фонтови су већ доступни."
+
+msgid "Allow hanging punctuation"
+msgstr "Дозволи висећу интерпункцију"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Дозволи прелом латиничног текста усред речи"
+
+msgid "Allow line breaks"
+msgstr "Дозволи преломе реда"
+
+msgid "Allow row to break across pages"
+msgstr "Дозволи прелом реда између страница"
+
+msgid "Alphabetical"
+msgstr "Азбучно"
+
+msgid "Alt Text"
+msgstr "Алтернативни текст"
+
+msgid "Alt text"
+msgstr "Алтернативни текст"
+
+msgid "Alt Text Pane"
+msgstr "Окно алтернативног текста"
+
+msgid "Alt:"
+msgstr "Алт. текст:"
+
+msgid "Alt\nText"
+msgstr "Алтернативни\nтекст"
+
+msgid "an agent"
+msgstr "агент"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Инсталирани језички пакет користи се после овог фолдера."
+
+msgid "And"
+msgstr "И"
+
+msgid "Angle Brackets"
+msgstr ""
+
+msgid "Angle Brackets with Separator"
+msgstr ""
+
+msgid "Angle Brackets with Two Separators"
+msgstr ""
+
+msgid "Angola"
+msgstr "Ангола"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Анимирај курсор (клизи и постепено се гаси)"
+
+msgid "Animation effects:"
+msgstr "Ефекти анимације:"
+
+msgid "Annotation Reference"
+msgstr ""
+
+msgid "Annotation Subject"
+msgstr ""
+
+msgid "Annotation Text"
+msgstr ""
+
+msgid "Annoying"
+msgstr "Досадно"
+
+msgid "Another file"
+msgstr "Друга датотека"
+
+msgid "Any Character"
+msgstr "Било који знак"
+
+msgid "Any Digit"
+msgstr "Било која цифра"
+
+msgid "Any field"
+msgstr "Било које поље"
+
+msgid "Any Letter"
+msgstr "Било које слово"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Свако може да отвори овај документ. Шифрујте га лозинком да би остао приватан."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Свакоме ко отвори документ биће потребна ова лозинка."
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Примени док куцаш"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Примени азијска правила прелома редова (кинсоку)"
+
+msgid "Apply formatting to:"
+msgstr "Примени форматирање на:"
+
+msgid "Apply Style"
+msgstr "Примени стил"
+
+msgid "Apply Styles"
+msgstr "Изабери и примени стилове"
+
+msgid "Arabic"
+msgstr "Арапски"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Лук надоле"
+
+msgid "Arch Up"
+msgstr "Лук нагоре"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Armenian"
+msgstr "јерменски"
+
+msgid "Arrange\nAll"
+msgstr "Распореди\nсве"
+
+msgid "Article I."
+msgstr "Члан I."
+
+msgid "Artistic Effects"
+msgstr "Уметнички ефекти"
+
+msgid "As Recommended"
+msgstr "Као што је препоручено"
+
+msgid "As you type"
+msgstr "Током куцања"
+
+msgid "ASAP"
+msgstr ""
+
+msgid "Asian text font:"
+msgstr "Фонт азијског текста:"
+
+msgid "Asian Typography"
+msgstr "Азијска типографија"
+
+msgid "Assistant"
+msgstr "Асистент"
+
+msgid "Assistant Suggestions"
+msgstr "Предлози асистента"
+
+msgid "At least"
+msgstr "Најмање"
+
+msgid "At least {n}"
+msgstr "Најмање {n}"
+
+msgid "Atelier"
+msgstr "Атеље"
+
+msgid "Atmosphere"
+msgstr "Атмосфера"
+
+msgid "Attach Template"
+msgstr "Приложи шаблон"
+
+msgid "Attach…"
+msgstr "Приложи…"
+
+msgid "Australia"
+msgstr "Аустралија"
+
+msgid "Austria"
+msgstr "Аустрија"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Аутоматска исправка"
+
+msgid "AutoCorrect Options"
+msgstr "Опције аутоматске исправке"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Аутоматско уклапање"
+
+msgid "AutoFit behavior"
+msgstr "Аутоматско уклапање"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Аутоматско уклапање колоне двоструким кликом"
+
+msgid "AutoFit Contents"
+msgstr "Аутоматски уклопи према садржају"
+
+msgid "AutoFit to contents"
+msgstr "Аутоматски уклопи према садржају"
+
+msgid "AutoFit to window"
+msgstr "Аутоматски уклопи према прозору"
+
+msgid "AutoFit Window"
+msgstr "Аутоматски уклопи према прозору"
+
+msgid "AutoFormat As You Type"
+msgstr "Аутоматско обликовање током куцања"
+
+msgid "Automatic ({language})"
+msgstr "Аутоматски ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Аутоматски ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Аутоматске листе са знаковима"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Аутоматски прати језик система. Менији и наредбе се мењају; документи не."
+
+msgid "Automatic numbered lists"
+msgstr "Аутоматске нумерисане листе"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Аутоматска табела 1 (3 нивоа)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Аутоматска табела 2 (2 нивоа)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Аутоматски дели речи у документу"
+
+msgid "Automatically Update Document Styles"
+msgstr "Аутоматски ажурирај стилове документа"
+
+msgid "Automatically update document styles"
+msgstr "Аутоматски ажурирај стилове документа"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Аутоматски чувај документе које сте већ сачували у WordCraft-у"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Аутоматско чување неуспело: {error}. Сачувајте документ да бисте га поново укључили."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Аутоматско чување није доступно у прегледачу: не може да уписује у ваше фајлове. Чување преузима копију."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Аутоматско чување чува само .docx, .odt и .rtf фајлове; {name} не може да задржи сво форматирање. Сачувајте као .docx да бисте укључили аутоматско чување."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Аутоматско чување уписује сваку измену у фајл (документ мора бити већ сачуван)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Аутоматско чување уписује измене у датотеку чим престанете да куцате."
+
+msgid "AutoText"
+msgstr "Аутоматски текст"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Облачићи"
+
+msgid "Banded Columns"
+msgstr "Тракасте колоне"
+
+msgid "Banded Rows"
+msgstr "Тракасти редови"
+
+msgid "Base text:"
+msgstr "Основни текст:"
+
+msgid "Based on: {style}"
+msgstr "Заснован на: {style}"
+
+msgid "Baseline Dots"
+msgstr ""
+
+msgid "Basic Cycle"
+msgstr "Основни циклус"
+
+msgid "Basic List"
+msgstr "Основна листа"
+
+msgid "Basic Math"
+msgstr ""
+
+msgid "Basic Matrix"
+msgstr "Основна матрица"
+
+msgid "Basic Process"
+msgstr "Основни процес"
+
+msgid "Basic Pyramid"
+msgstr "Основна пирамида"
+
+msgid "Basic Radial"
+msgstr "Основни радијални"
+
+msgid "Basic Venn"
+msgstr "Основни Венов дијаграм"
+
+msgid "Bayes' rule"
+msgstr ""
+
+msgid "Before:"
+msgstr "Пре:"
+
+msgid "Beginning of Word"
+msgstr "Почетак речи"
+
+msgid "Behind Text"
+msgstr "Иза текста"
+
+msgid "Belarus"
+msgstr "Белорусија"
+
+msgid "Belarusian"
+msgstr "белоруски"
+
+msgid "Belgium"
+msgstr "Белгија"
+
+msgid "Below text"
+msgstr "Испод текста"
+
+msgid "Below the item"
+msgstr "Испод ставке"
+
+msgid "Between"
+msgstr "Између пасуса"
+
+msgid "Bibliography"
+msgstr "Библиографија"
+
+msgid "Binomial Coefficient"
+msgstr ""
+
+msgid "Binomial Coefficient (angle)"
+msgstr ""
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr ""
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr ""
+
+msgid "Blank"
+msgstr "Празно"
+
+msgid "Blank (Three Columns)"
+msgstr "Празно (три колоне)"
+
+msgid "Blank document"
+msgstr "Празан документ"
+
+msgid "Blank Page"
+msgstr "Празна страна"
+
+msgid "Block\nAuthors"
+msgstr "Блокирај\nауторе"
+
+msgid "Blue:"
+msgstr "Плава:"
+
+msgid "Body Text"
+msgstr "Основни текст"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr ""
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Храбар избор. Ctrl+Z је ту ако затреба."
+
+msgid "Bolivia"
+msgstr "Боливија"
+
+msgid "Book"
+msgstr "Књига"
+
+msgid "Book Title"
+msgstr ""
+
+msgid "Book title"
+msgstr "Наслов књиге"
+
+msgid "Bookmark"
+msgstr "Обележивач"
+
+msgid "Bookmark name:"
+msgstr "Назив обележивача:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Линије ивица"
+
+msgid "Border Painter"
+msgstr "Копирање ивица"
+
+msgid "Border\nPainter"
+msgstr "Копирање\nивица"
+
+msgid "Borders and Shading"
+msgstr "Ивице и сенчење"
+
+msgid "Borders and Shading…"
+msgstr "Ивице и сенчење…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Босна и Херцеговина"
+
+msgid "Bosnian"
+msgstr "босански"
+
+msgid "Both Sides"
+msgstr "Обе стране"
+
+msgid "Bottom Border"
+msgstr "Доња ивица"
+
+msgid "Bottom Left Cell"
+msgstr "Доња лева ћелија"
+
+msgid "Bottom Margin"
+msgstr "Доња маргина"
+
+msgid "Bottom of Page"
+msgstr "Дно стране"
+
+msgid "Bottom Right Cell"
+msgstr "Доња десна ћелија"
+
+msgid "Box"
+msgstr "Оквир"
+
+msgid "Boxed Formula"
+msgstr ""
+
+msgid "Boxed Formula (example)"
+msgstr ""
+
+msgid "Boxed Formulas"
+msgstr ""
+
+msgid "Braces"
+msgstr ""
+
+msgid "Braces with Separator"
+msgstr ""
+
+msgid "Bracket"
+msgstr "Заграда"
+
+msgid "Brackets"
+msgstr ""
+
+msgid "Brackets with Separators"
+msgstr ""
+
+msgid "Brazil"
+msgstr "Бразил"
+
+msgid "Breaks"
+msgstr "Прекиди"
+
+msgid "Breve"
+msgstr ""
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Потражи у WordCraft-у…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Контрола садржаја за галерију градивних блокова"
+
+msgid "Built in"
+msgstr "Уграђено"
+
+msgid "Built-In"
+msgstr "Уграђено"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Уграђени стил"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Уграђени стилови не могу да се обришу."
+
+msgid "Bulgarian"
+msgstr "бугарски"
+
+msgid "Bullet Library"
+msgstr "Библиотека ознака"
+
+msgid "Bullets"
+msgstr "Ознаке"
+
+msgid "By author"
+msgstr "По аутору"
+
+msgid "Cabo Verde"
+msgstr "Зеленортска Острва"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Can't be deleted"
+msgstr "Не може да се избрише"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Не можете да нађете команду? Притисните {key} и откуцајте шта желите да урадите."
+
+msgid "can't split at the first row"
+msgstr "табела не може да се подели код првог реда"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Canvas Member"
+msgstr "Члан платна"
+
+msgid "Capitalize Each Word"
+msgstr "Велико почетно слово сваке речи"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Велико прво слово реченице"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Велико прво слово у ћелијама табеле"
+
+msgid "Capitalize names of days"
+msgstr "Велико слово у називима дана"
+
+msgid "Capitalize the first word of a sentence"
+msgstr ""
+
+msgid "Caption Numbering"
+msgstr "Нумерисање натписа"
+
+msgid "Caption text"
+msgstr "Текст натписа"
+
+msgid "Caption:"
+msgstr "Натпис:"
+
+msgid "Captions"
+msgstr "Натписи"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Пажљиво, још мало уназад и опозваћемо проналазак папира."
+
+msgid "Caret Character"
+msgstr "Знак капице"
+
+msgid "Case changes"
+msgstr "Промене величине слова"
+
+msgid "Cases (Three Conditions)"
+msgstr ""
+
+msgid "Cases (Two Conditions)"
+msgstr ""
+
+msgid "Cases and Stacks"
+msgstr ""
+
+msgid "Catalan"
+msgstr "каталонски"
+
+msgid "Catalan (Valencian)"
+msgstr "каталонски (валенсијски)"
+
+msgid "Categories"
+msgstr "Категорије"
+
+msgid "Categories:"
+msgstr "Категорије:"
+
+msgid "Category {n}"
+msgstr "Категорија {n}"
+
+msgid "Ceiling"
+msgstr ""
+
+msgid "Cell"
+msgstr "Ћелија"
+
+msgid "Cell Margins"
+msgstr "Маргине ћелије"
+
+msgid "Cell\nMargins"
+msgstr "Маргине\nћелије"
+
+msgid "Center Glow"
+msgstr "Сјај из средине"
+
+msgid "Centered as Group"
+msgstr ""
+
+msgid "Change Chart Type"
+msgstr "Промени тип графикона"
+
+msgid "Change Colors"
+msgstr "Промени боје"
+
+msgid "Change in y over change in x"
+msgstr ""
+
+msgid "Change Layout"
+msgstr "Промени распоред"
+
+msgid "Change List Level"
+msgstr "Промени ниво листе"
+
+msgid "Change Password…"
+msgstr "Промени лозинку…"
+
+msgid "Change Picture"
+msgstr "Промени слику"
+
+msgid "Change Picture…"
+msgstr "Промени слику…"
+
+msgid "Change Shape"
+msgstr "Промени облик"
+
+msgid "Change Structure"
+msgstr "Промени структуру"
+
+msgid "Change to Display"
+msgstr "Промени у приказну формулу"
+
+msgid "Change to Inline"
+msgstr "Промени у текстуалну формулу"
+
+msgid "Change to Level 1"
+msgstr ""
+
+msgid "Change to Level 2"
+msgstr ""
+
+msgid "Change to Level 3"
+msgstr ""
+
+msgid "Change to Level 4"
+msgstr ""
+
+msgid "Change to Level 5"
+msgstr ""
+
+msgid "Change to Level 6"
+msgstr ""
+
+msgid "Change to Level 7"
+msgstr ""
+
+msgid "Change to Level 8"
+msgstr ""
+
+msgid "Change to Level 9"
+msgstr ""
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Промени тип\nграфикона"
+
+msgid "Change\nColors"
+msgstr "Промени\nбоје"
+
+msgid "Changed lines:"
+msgstr "Измењени редови:"
+
+msgid "Changes"
+msgstr "Измене"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Поглавље 1"
+
+msgid "Chapter in a book"
+msgstr "Поглавље у књизи"
+
+msgid "Chapters begin at:"
+msgstr "Поглавља почињу на:"
+
+msgid "Character Border"
+msgstr "Ивица знака"
+
+msgid "Character code:"
+msgstr "Код знака:"
+
+msgid "Character in Range"
+msgstr "Знак у опсегу"
+
+msgid "Character level"
+msgstr "Ниво знака"
+
+msgid "Character Position"
+msgstr "Положај знака"
+
+msgid "Character Scale"
+msgstr "Размера знака"
+
+msgid "Character Shading"
+msgstr "Сенчење знакова"
+
+msgid "Character Spacing"
+msgstr "Размак између знакова"
+
+msgid "Character spacing"
+msgstr "Размак између знакова"
+
+msgid "Character style"
+msgstr "Стил знакова"
+
+msgid "Characters (no spaces)"
+msgstr "Знакови (без размака)"
+
+msgid "Characters (with spaces)"
+msgstr "Знакови (са размацима)"
+
+msgid "Characters per line:"
+msgstr "Знакова по реду:"
+
+msgid "Chart"
+msgstr "Графикон"
+
+msgid "Chart Design"
+msgstr "Дизајн графикона"
+
+msgid "Chart Layouts"
+msgstr "Распореди графикона"
+
+msgid "Chart Title"
+msgstr "Наслов графикона"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "графикони и дијаграми још не могу да се померају нити да им се мења величина"
+
+msgid "Check"
+msgstr ""
+
+msgid "Check Accessibility"
+msgstr "Провера приступачности"
+
+msgid "Check Box Content Control"
+msgstr "Контрола садржаја за поље за потврду"
+
+msgid "Check Compatibility"
+msgstr "Провера компатибилности"
+
+msgid "Check for Errors"
+msgstr "Провера грешака"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Провера правописа док пишете"
+
+msgid "Check spelling as you type"
+msgstr "Проверавај правопис током куцања"
+
+msgid "Check\nAccessibility"
+msgstr "Провера\nприступачности"
+
+msgid "Checked styles are allowed:"
+msgstr "Означени стилови су дозвољени:"
+
+msgid "Checked symbol"
+msgstr "Симбол за потврђено"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Шеврон надоле"
+
+msgid "Chevron Up"
+msgstr "Шеврон нагоре"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "Чиле"
+
+msgid "China"
+msgstr "Кина"
+
+msgid "Chinese (Simplified)"
+msgstr "Кинески (поједностављени)"
+
+msgid "Chinese (Traditional)"
+msgstr "Кинески (традиционални)"
+
+msgid "Choose a command"
+msgstr "Изаберите команду"
+
+msgid "Choose a shortcut"
+msgstr "Изаберите пречицу"
+
+msgid "Choose List Item"
+msgstr "Изабери ставку листе"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Изаберите лист на коме су примаоци."
+
+msgid "Circle area from its radius"
+msgstr ""
+
+msgid "Circled Dot"
+msgstr ""
+
+msgid "Circled Plus"
+msgstr ""
+
+msgid "Circled Times"
+msgstr ""
+
+msgid "Citation Style"
+msgstr "Стил цитирања"
+
+msgid "Citations"
+msgstr "Цитати"
+
+msgid "Citations & Bibliography"
+msgstr "Цитати и библиографија"
+
+msgid "Clear All Formatting"
+msgstr "Обриши све форматирање"
+
+msgid "Clear Character Formatting"
+msgstr "Обриши форматирање знакова"
+
+msgid "Clear Character Style"
+msgstr "Обриши стил знакова"
+
+msgid "Clear Formatting Level"
+msgstr "Обриши ниво форматирања"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Обриши форматирање пасуса"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Кликните ивицу између две ћелије да их спојите. Esc завршава."
+
+msgid "Click an item to paste it."
+msgstr "Кликните на ставку да бисте је налепили."
+
+msgid "Click level to modify:"
+msgstr "Кликните ниво који мењате:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Кликните празно поље за текст у ком текст треба да се настави (Esc отказује)"
+
+msgid "Click to switch back to inserting"
+msgstr "Кликните да бисте се вратили на уметање"
+
+msgid "Clipboard Contents"
+msgstr "Садржај оставе"
+
+msgid "Clipboard Items"
+msgstr "Ставке оставе"
+
+msgid "Clipboard Pane"
+msgstr "Окно оставе"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Затвори формулу"
+
+msgid "Close Header and Footer"
+msgstr "Затвори заглавље и подножје"
+
+msgid "Close Outline View"
+msgstr "Затвори приказ контуре"
+
+msgid "Close Outline\nView"
+msgstr "Затвори приказ\nконтуре"
+
+msgid "Clustered Bar"
+msgstr "Груписане траке"
+
+msgid "Clustered Column"
+msgstr "Груписане колоне"
+
+msgid "cm"
+msgstr "цм"
+
+msgid "Col #:"
+msgstr "Колона бр.:"
+
+msgid "Collapse Selection"
+msgstr "Скупи избор"
+
+msgid "Collate copies"
+msgstr "Сложи копије"
+
+msgid "Collect entries from:"
+msgstr "Ставке узети из:"
+
+msgid "Colombia"
+msgstr "Колумбија"
+
+msgid "Colon Equal"
+msgstr ""
+
+msgid "Color model:"
+msgstr "Модел боја:"
+
+msgid "Color only"
+msgstr "Само боја"
+
+msgid "Color: {color}"
+msgstr "Боја: {color}"
+
+msgid "Colorful"
+msgstr "Шарено"
+
+msgid "Column"
+msgstr "Колона"
+
+msgid "Column Break"
+msgstr "Прекид колоне"
+
+msgid "Column Selection"
+msgstr "Избор колоне"
+
+msgid "Column {n}"
+msgstr "Колона {n}"
+
+msgid "Column:"
+msgstr "Колона:"
+
+msgid "Combine Documents"
+msgstr "Спајање докумената"
+
+msgid "Combo Box Content Control"
+msgstr "Контрола садржаја за комбиновано поље"
+
+msgid "Commands"
+msgstr "Наредбе"
+
+msgid "Commas"
+msgstr "Зарези"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Коментари поред сваке странице и праћене измене у PDF-овима, отисцима и сликама; листа коментара на крају веб-страница, Markdown-а и текста."
+
+msgid "Comments Pane"
+msgstr "Окно коментара"
+
+msgid "Common Accent Objects"
+msgstr ""
+
+msgid "Common Brackets"
+msgstr ""
+
+msgid "Common Fractions"
+msgstr ""
+
+msgid "Common Functions"
+msgstr ""
+
+msgid "Common Large Operators"
+msgstr ""
+
+msgid "Common Operator Structures"
+msgstr ""
+
+msgid "Common Operators"
+msgstr ""
+
+msgid "Common Radicals"
+msgstr ""
+
+msgid "Common Subscripts and Superscripts"
+msgstr ""
+
+msgid "Communication"
+msgstr "Комуникација"
+
+msgid "Community\nDiscord"
+msgstr "Заједница\nна Discord-у"
+
+msgid "Compact"
+msgstr "Сажето"
+
+msgid "Compare Documents"
+msgstr "Упоређивање докумената"
+
+msgid "Compare to"
+msgstr "Упореди са"
+
+msgid "Compared: {changes} changes"
+msgstr "Упоређено: измена {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "За поређење са другом датотеком потребна је десктоп апликација."
+
+msgid "Comparison settings"
+msgstr "Подешавања поређења"
+
+msgid "Compress Pictures"
+msgstr "Компресуј слике"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Сажми интерпункцију на почетку реда"
+
+msgid "Conference"
+msgstr "Конференција"
+
+msgid "Conference paper"
+msgstr "Рад са конференције"
+
+msgid "CONFIDENTIAL"
+msgstr ""
+
+msgid "Confirm password:"
+msgstr "Потврдите лозинку:"
+
+msgid "Connect Shapes"
+msgstr "Повежи облике"
+
+msgid "Container Title"
+msgstr "Наслов збирке"
+
+msgid "Content Control at Selection"
+msgstr "Контрола садржаја на избору"
+
+msgid "Content Control Properties"
+msgstr "Својства контроле садржаја"
+
+msgid "Contents can't be edited"
+msgstr "Садржај не може да се уређује"
+
+msgid "Context"
+msgstr "Контекст"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Настави од претходног одељка"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Непрекидно"
+
+msgid "Continuous numbering"
+msgstr "Непрекидна нумерација"
+
+msgid "Contour Integral"
+msgstr ""
+
+msgid "Contour Integral with Limits"
+msgstr ""
+
+msgid "Contour Integral with Stacked Limits"
+msgstr ""
+
+msgid "Contour Integrals"
+msgstr ""
+
+msgid "Controls"
+msgstr "Контроле"
+
+msgid "Conversions"
+msgstr "Конверзије"
+
+msgid "Convert between built-up and linear form"
+msgstr ""
+
+msgid "Convert Notes"
+msgstr "Претвори напомене"
+
+msgid "Convert Text to Table"
+msgstr "Претвори текст у табелу"
+
+msgid "Convert Text to Table…"
+msgstr "Претвори текст у табелу…"
+
+msgid "Convert to Shapes"
+msgstr "Претвори у облике"
+
+msgid "Convert to Text"
+msgstr "Претвори у текст"
+
+msgid "Coproduct"
+msgstr ""
+
+msgid "Coproduct with Limits"
+msgstr ""
+
+msgid "Coproduct with Lower Limit"
+msgstr ""
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Copy Formatting"
+msgstr "Копирај форматирање"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Текст обележивача"
+
+msgid "Copy Styles"
+msgstr "Копирај стилове"
+
+msgid "Copy to"
+msgstr "Копирај у"
+
+msgid "Copyright Sign"
+msgstr "Знак ауторског права"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Исправи случајно укључен cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Исправи ДВа ПОчетна велика слова"
+
+msgid "Corrections"
+msgstr "Исправке"
+
+msgid "Cosecant Function"
+msgstr ""
+
+msgid "Cosine 2x"
+msgstr ""
+
+msgid "Cosine Function"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "Костарика"
+
+msgid "Cotangent Function"
+msgstr ""
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Преузимање {name} није успело: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "WordCraft није могао да постане подразумевана апликација: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Није могуће отворити {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Корак:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Броји речи у оквирима за текст и фуснотама"
+
+msgid "Courtesy Title"
+msgstr "Ословљавање"
+
+msgid "Cover Page"
+msgstr "Насловна страна"
+
+msgid "Craft"
+msgstr "Занат"
+
+msgid "Create a Style"
+msgstr "Направи стил"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Направите интерактивни преглед документа.\n\nОдличан је начин да пратите где се налазите или брзо премештате садржај.\n\nЗа почетак, идите на картицу Почетак и примените стилове наслова на наслове у документу."
+
+msgid "Create Graphic"
+msgstr "Креирање графике"
+
+msgid "Create Link"
+msgstr "Направи везу"
+
+msgid "Create New Style"
+msgstr "Направи нови стил"
+
+msgid "Create Source"
+msgstr "Направи извор"
+
+msgid "Croatian"
+msgstr "Хрватски"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Унакрсна референца"
+
+msgid "Cross-reference:"
+msgstr "Унакрсна референца:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Куба"
+
+msgid "Cube Root"
+msgstr ""
+
+msgid "Current - Linear"
+msgstr ""
+
+msgid "Current - Professional"
+msgstr ""
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Тренутни положај"
+
+msgid "Current record"
+msgstr "Тренутни запис"
+
+msgid "Current style: {style}"
+msgstr "Тренутни стил: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Закривљени конектор са стрелицом"
+
+msgid "Curved Connector"
+msgstr "Закривљени конектор"
+
+msgid "Custom dictionary"
+msgstr "Прилагођени речник"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Прилагођене маргине…"
+
+msgid "Custom mark:"
+msgstr "Посебна ознака:"
+
+msgid "Custom range"
+msgstr "Прилагођени опсег"
+
+msgid "Custom size"
+msgstr "Прилагођена величина"
+
+msgid "Custom Table of Contents…"
+msgstr "Прилагођени садржај…"
+
+msgid "Custom Watermark"
+msgstr "Прилагођен водени жиг"
+
+msgid "Custom Watermark…"
+msgstr "Прилагођен водени жиг…"
+
+msgid "Customize"
+msgstr "Прилагођавање"
+
+msgid "Customize Keyboard"
+msgstr "Прилагођавање тастатуре"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Прилагоди траку за брзи приступ"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Прилагоди траку са алаткама за брзи приступ…"
+
+msgid "Customize Ribbon"
+msgstr "Прилагоди траку"
+
+msgid "Customize the Ribbon…"
+msgstr "Прилагоди траку…"
+
+msgid "Cycle"
+msgstr "Циклус"
+
+msgid "Cyprus"
+msgstr "Кипар"
+
+msgid "Czech"
+msgstr "Чешки"
+
+msgid "Danish"
+msgstr "Дански"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Тамни режим"
+
+msgid "Dark page (white text on black)"
+msgstr "Тамна страница (бео текст на црном)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Тамне варијанте"
+
+msgid "Dark with Shadow"
+msgstr "Тамно са сенком"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Мрачна комора"
+
+msgid "Data Labels"
+msgstr "Ознаке података"
+
+msgid "Date & Time"
+msgstr "Датум и време"
+
+msgid "Date formats:"
+msgstr "Формати датума:"
+
+msgid "Date Picker Content Control"
+msgstr "Контрола садржаја за бирање датума"
+
+msgid "Day"
+msgstr "Дан"
+
+msgid "Decimal"
+msgstr "Децимални"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Декоративни објекти само доприносе изгледу: читачи екрана их прескачу."
+
+msgid "Decorative Text"
+msgstr "Украсни текст"
+
+msgid "Decorative Text Styles"
+msgstr "Стилови украсног текста"
+
+msgid "Decrease Indent"
+msgstr "Смањи увлачење"
+
+msgid "Deep"
+msgstr "Дубок"
+
+msgid "Default formatting"
+msgstr "Подразумевано обликовање"
+
+msgid "Default Paragraph Font"
+msgstr ""
+
+msgid "Default tab stops:"
+msgstr "Подразумевани табулатори:"
+
+msgid "Define New Bullet"
+msgstr "Дефиниши нову ознаку"
+
+msgid "Define New Multilevel List"
+msgstr "Дефиниши нову вишенивоску листу"
+
+msgid "Define New Multilevel List…"
+msgstr "Дефиниши нову вишенивоску листу…"
+
+msgid "Define New Number Format"
+msgstr "Дефиниши нови формат броја"
+
+msgid "Deflate"
+msgstr "Издувавање"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Обриши око курсора у формули"
+
+msgid "Delete Back in Equation"
+msgstr "Обриши уназад у формули"
+
+msgid "Delete Bookmark"
+msgstr "Обриши обележивач"
+
+msgid "Delete Cells"
+msgstr "Обриши ћелије"
+
+msgid "Delete Clipboard Item"
+msgstr "Обриши ставку из оставе"
+
+msgid "Delete Columns"
+msgstr "Обриши колоне"
+
+msgid "Delete Comment"
+msgstr "Обриши коментар"
+
+msgid "Delete in Equation"
+msgstr "Обриши у формули"
+
+msgid "Delete Label"
+msgstr "Обриши ознаку"
+
+msgid "Delete Next Word"
+msgstr "Обриши следећу реч"
+
+msgid "Delete Previous Word"
+msgstr "Обриши претходну реч"
+
+msgid "Delete Rows"
+msgstr "Обриши редове"
+
+msgid "Delete Selected Ink"
+msgstr "Обриши изабрани рукопис"
+
+msgid "Delete Table"
+msgstr "Обриши табелу"
+
+msgid "Delete Table Style"
+msgstr "Обриши стил табеле"
+
+msgid "Deletions:"
+msgstr "Брисања:"
+
+msgid "Delivery address:"
+msgstr "Адреса примаоца:"
+
+msgid "Delta Equal To"
+msgstr ""
+
+msgid "Delta over arrow"
+msgstr ""
+
+msgid "Demote"
+msgstr "Спусти ниво"
+
+msgid "Demote to Body Text"
+msgstr "Спусти на основни текст"
+
+msgid "Derivative as a limit"
+msgstr ""
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Опишите шта овај објекат приказује, за оне који не могу да га виде."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Опишите шта ова табела приказује, за оне који не могу да је виде."
+
+msgid "Design"
+msgstr "Дизајн"
+
+msgid "Design Mode"
+msgstr "Режим дизајна"
+
+msgid "Detach Template"
+msgstr "Уклони шаблон"
+
+msgid "Detect language automatically"
+msgstr "Аутоматски препознај језик"
+
+msgid "Developer"
+msgstr "Програмер"
+
+msgid "development build"
+msgstr "развојна верзија"
+
+msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr "Дијаграм"
+
+msgid "Diagram Design"
+msgstr "Дизајн дијаграма"
+
+msgid "Diagram Styles"
+msgstr "Стилови дијаграма"
+
+msgid "Dictate"
+msgstr "Диктирање"
+
+msgid "Dictionaries"
+msgstr "Речници"
+
+msgid "Dictionaries folder:"
+msgstr "Фасцикла речника:"
+
+msgid "Dictionary files"
+msgstr "Датотеке речника"
+
+msgid "Different First Page"
+msgstr "Другачија прва страна"
+
+msgid "Different Odd & Even Pages"
+msgstr "Другачије непарне и парне стране"
+
+msgid "Differential"
+msgstr ""
+
+msgid "Differential theta"
+msgstr ""
+
+msgid "Differential x"
+msgstr ""
+
+msgid "Differential y"
+msgstr ""
+
+msgid "Differentials"
+msgstr ""
+
+msgid "Direct formatting"
+msgstr "Директно форматирање"
+
+msgid "Directory"
+msgstr "Именик"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Заједница на Discord-у"
+
+msgid "Display for Review"
+msgstr "Приказ за преглед"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Приказани текст"
+
+msgid "Distance from text"
+msgstr "Растојање од текста"
+
+msgid "Distance from text:"
+msgstr "Растојање од текста:"
+
+msgid "Distribute Columns"
+msgstr "Равномерно размести колоне"
+
+msgid "Distribute letters"
+msgstr "Распореди слова"
+
+msgid "Distribute Rows"
+msgstr "Равномерно размести редове"
+
+msgid "Distribute spacing"
+msgstr "Распореди размак"
+
+msgid "Distributed"
+msgstr "Распрострто"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Не проверавај правопис и граматику"
+
+msgid "Do not check spelling or grammar"
+msgstr "Не проверавај правопис ни граматику"
+
+msgid "DO NOT COPY"
+msgstr ""
+
+msgid "Do Not Show in TOC"
+msgstr "Не приказуј у садржају"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Желите ли да сачувате измене у {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Крај документа"
+
+msgid "Document Formatting"
+msgstr "Форматирање документа"
+
+msgid "Document Grid"
+msgstr "Мрежа документа"
+
+msgid "Document Information"
+msgstr "Информације о документу"
+
+msgid "Document name"
+msgstr "Име документа"
+
+msgid "Document Property"
+msgstr "Својство документа"
+
+msgid "Document Start"
+msgstr "Почетак документа"
+
+msgid "Document template:"
+msgstr "Шаблон документа:"
+
+msgid "Document Text"
+msgstr "Текст документа"
+
+msgid "Document1"
+msgstr "Документ1"
+
+msgid "Document\nPreferences"
+msgstr "Поставке\nдокумента"
+
+msgid "Documents you open will show up here."
+msgstr "Документи које отворите појавиће се овде."
+
+msgid "Does not contain"
+msgstr "Не садржи"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Доминиканска Република"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Без размака између пасуса истог стила"
+
+msgid "Don't capitalize after:"
+msgstr "Без великог слова после:"
+
+msgid "Don't hyphenate"
+msgstr "Без дељења речи"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Не читај цитате и библиографију из Zotero, Mendeley или EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Не приказуј више овај савет"
+
+msgid "Dot dash"
+msgstr "Тачка-црта"
+
+msgid "Dot-dash"
+msgstr "Тачка-црта"
+
+msgid "Dot-dot-dash"
+msgstr "Тачка-тачка-црта"
+
+msgid "Double"
+msgstr "Дупло"
+
+msgid "Double Bar"
+msgstr ""
+
+msgid "Double Closing Quote"
+msgstr "Затворени двоструки наводник"
+
+msgid "Double Dot"
+msgstr ""
+
+msgid "Double Integral"
+msgstr ""
+
+msgid "Double Integral with Limits"
+msgstr ""
+
+msgid "Double Integral with Stacked Limits"
+msgstr ""
+
+msgid "Double Left Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Arrow with Text Below"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Opening Quote"
+msgstr "Отворени двоструки наводник"
+
+msgid "Double Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Spacing"
+msgstr "Дупло проређење"
+
+msgid "Double Square Brackets"
+msgstr ""
+
+msgid "Double Strikethrough"
+msgstr "Дупло прецртано"
+
+msgid "Double strikethrough"
+msgstr "Дупло прецртано"
+
+msgid "Double summation"
+msgstr ""
+
+msgid "Double Underline"
+msgstr "Дупло подвучено"
+
+msgid "Double Vertical Bars"
+msgstr ""
+
+msgid "Doughnut"
+msgstr "Прстенасти"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Преузимање је искључено. Клик на „Додај језик…“ или „Инсталирај“ укључује га: тада WordCraft преузима језичке пакете и фонтове са GitHub-а."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr ""
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Превуците правоугаоник да нацртате табелу или линију преко ћелија да их поделите. Esc завршава."
+
+msgid "Draw Ink"
+msgstr "Цртај мастилом"
+
+msgid "Draw Table"
+msgstr "Нацртај табелу"
+
+msgid "Draw\nTable"
+msgstr "Нацртај\nтабелу"
+
+msgid "Drawing Canvas"
+msgstr "Платно за цртање"
+
+msgid "Drawing Tools"
+msgstr "Алати за цртање"
+
+msgid "Drawing\nCanvas"
+msgstr "Платно\nза цртање"
+
+msgid "Drop Cap"
+msgstr "Украсно велико слово"
+
+msgid "Drop cap"
+msgstr "Украсно велико слово"
+
+msgid "Drop Cap Options…"
+msgstr "Опције украсног слова…"
+
+msgid "drop caps can't go in a table"
+msgstr "почетно слово не може у табелу"
+
+msgid "Drop-Down List Content Control"
+msgstr "Контрола садржаја за падајућу листу"
+
+msgid "Dropped"
+msgstr "У тексту"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Уклања све форматирање и лепи обичан текст."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Холандски, Nederlands или nl"
+
+msgid "E-mail Messages"
+msgstr "Поруке е-поште"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Еквадор"
+
+msgid "Edit Comment"
+msgstr "Уреди коментар"
+
+msgid "Edit Data"
+msgstr "Уреди податке"
+
+msgid "Edit Document"
+msgstr "Уреди документ"
+
+msgid "Edit Equation"
+msgstr "Уреди формулу"
+
+msgid "Edit Field Code"
+msgstr "Уреди код поља"
+
+msgid "Edit Field…"
+msgstr "Уреди поље…"
+
+msgid "Edit Footer"
+msgstr "Уреди подножје"
+
+msgid "Edit Header"
+msgstr "Уреди заглавље"
+
+msgid "Edit Individual Documents…"
+msgstr "Уреди појединачне документе…"
+
+msgid "Edit Items"
+msgstr "Уреди ставке"
+
+msgid "Edit Recipient List"
+msgstr "Уреди листу прималаца"
+
+msgid "Edit Source"
+msgstr "Уреди извор"
+
+msgid "Edit\nData"
+msgstr "Уреди\nподатке"
+
+msgid "Edit\nRecipient List"
+msgstr "Уреди\nлисту прималаца"
+
+msgid "Edited"
+msgstr "Измењено"
+
+msgid "Editing endnote"
+msgstr "Уређивање ендноте"
+
+msgid "Editing footnote"
+msgstr "Уређивање фусноте"
+
+msgid "Editing header/footer"
+msgstr "Уређивање заглавља/подножја"
+
+msgid "Editing in this document is restricted."
+msgstr "Уређивање овог документа је ограничено."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Уређивање — мењајте документ директно"
+
+msgid "Edition"
+msgstr "Издање"
+
+msgid "Editor"
+msgstr "Уредник"
+
+msgid "Egypt"
+msgstr "Египат"
+
+msgid "El Salvador"
+msgstr "Салвадор"
+
+msgid "Elbow Arrow Connector"
+msgstr "Угаони конектор са стрелицом"
+
+msgid "Elbow Connector"
+msgstr "Угаони конектор"
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr ""
+
+msgid "Enclose Characters"
+msgstr "Уоквири знакове"
+
+msgid "Enclosure"
+msgstr "Оквир"
+
+msgid "Encrypt with Password"
+msgstr "Шифруј лозинком"
+
+msgid "Encrypt with Password…"
+msgstr "Шифруј лозинком…"
+
+msgid "End of document"
+msgstr "Крај документа"
+
+msgid "End of section"
+msgstr "Крај одељка"
+
+msgid "End of Word"
+msgstr "Крај речи"
+
+msgid "Endnote Reference"
+msgstr ""
+
+msgid "Endnote Text"
+msgstr ""
+
+msgid "Endnotes"
+msgstr "Ендноте"
+
+msgid "Endnotes to footnotes"
+msgstr "Ендноте у фусноте"
+
+msgid "English (Australia)"
+msgstr "Енглески (Аустралија)"
+
+msgid "English (Canada)"
+msgstr "Енглески (Канада)"
+
+msgid "English (India)"
+msgstr "Енглески (Индија)"
+
+msgid "English (Ireland)"
+msgstr "Енглески (Ирска)"
+
+msgid "English (New Zealand)"
+msgstr "Енглески (Нови Зеланд)"
+
+msgid "English (South Africa)"
+msgstr "Енглески (Јужна Африка)"
+
+msgid "English (United Kingdom)"
+msgstr "Енглески (Велика Британија)"
+
+msgid "English (United States)"
+msgstr "Енглески (САД)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Енглески, језици овог документа и сваки инсталирани језички пакет. Језички пакети додају речнике за правопис и дељење речи."
+
+msgid "Engrave"
+msgstr "Урезано"
+
+msgid "Enlarge symbol"
+msgstr "Увећај симбол"
+
+msgid "Enter a number."
+msgstr "Унесите број."
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "Облик броја:"
+
+msgid "Enter in Equation"
+msgstr "Enter у формули"
+
+msgid "Enter page number:"
+msgstr "Унесите број стране:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Ставка је означена."
+
+msgid "Envelope #10"
+msgstr "Коверта бр. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr ""
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr ""
+
+msgid "Envelope size:"
+msgstr "Величина коверте:"
+
+msgid "Envelopes"
+msgstr "Коверте"
+
+msgid "Equal by Definition"
+msgstr ""
+
+msgid "Equal column width"
+msgstr "Једнака ширина колона"
+
+msgid "Equal Equal"
+msgstr ""
+
+msgid "Equal to"
+msgstr "Једнако"
+
+msgid "Equals:"
+msgstr "Једнако:"
+
+msgid "Equation"
+msgstr "Једначина"
+
+msgid "Equation Gallery"
+msgstr "Галерија формула"
+
+msgid "Equation Info"
+msgstr "Информације о формули"
+
+msgid "Equation Number"
+msgstr "Број формуле"
+
+msgid "Equation Options"
+msgstr "Опције формуле"
+
+msgid "Equatorial Guinea"
+msgstr "Екваторијална Гвинеја"
+
+msgid "Erase Ink"
+msgstr "Обриши мастило"
+
+msgid "Errors ({n})"
+msgstr "Грешке ({n})"
+
+msgid "Esperanto"
+msgstr "есперанто"
+
+msgid "Estonian"
+msgstr "Естонски"
+
+msgid "Euler's identity"
+msgstr ""
+
+msgid "Even Banded Columns"
+msgstr "Парне тракасте колоне"
+
+msgid "Even Banded Rows"
+msgstr "Парни тракасти редови"
+
+msgid "Even Page"
+msgstr "Парна страна"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Свака измена се бележи као праћена измена."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Свака наредба је доступна скриптама и AI агентима: покрените `wordcraft-cli mcp` за MCP сервер, или покрените апликацију са `--control <port>` за JSON контролни канал."
+
+msgid "Every field needs a name."
+msgstr "Свако поље мора имати назив."
+
+msgid "Everyone"
+msgstr "Сви"
+
+msgid "Exactly"
+msgstr "Тачно"
+
+msgid "Exactly {n}"
+msgstr "Тачно {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Изузеци (необавезно)"
+
+msgid "Exceptions…"
+msgstr "Изузеци…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Постојећа датотека или веб страница"
+
+msgid "Expand or Collapse Heading"
+msgstr "Прошири или скупи наслов"
+
+msgid "Exponential"
+msgstr ""
+
+msgid "Exponential series"
+msgstr ""
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Извези копију за дељење (PDF, Word документ)"
+
+msgid "Export Page as PNG"
+msgstr "Извези страну као PNG"
+
+msgid "Extend Selection"
+msgstr "Прошири избор"
+
+msgid "Extend Selection by Units"
+msgstr "Прошири избор по јединицама"
+
+msgid "Extra space"
+msgstr ""
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Брже: {command} је {key} на тастатури."
+
+msgid "Field code:"
+msgstr "Код поља:"
+
+msgid "Field Codes"
+msgstr "Кодови поља"
+
+msgid "Field codes:"
+msgstr "Кодови поља:"
+
+msgid "Field name"
+msgstr "Назив поља"
+
+msgid "Field name:"
+msgstr "Назив поља:"
+
+msgid "Field names must be different."
+msgstr "Називи поља морају бити различити."
+
+msgid "Field names:"
+msgstr "Називи поља:"
+
+msgid "Field:"
+msgstr "Поље:"
+
+msgid "Field…"
+msgstr "Поље…"
+
+msgid "Figure"
+msgstr "Слика"
+
+msgid "File locations"
+msgstr "Локације датотека"
+
+msgid "File name:"
+msgstr "Име датотеке:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Фајл › Ново приказује .dotx и .dotm шаблоне одавде под Лични; Сачувај као Word шаблон почиње овде."
+
+msgid "Fill color:"
+msgstr "Боја попуне:"
+
+msgid "Filling in forms"
+msgstr "Попуњавање образаца"
+
+msgid "Film"
+msgstr "Филм"
+
+msgid "Filter and Sort"
+msgstr "Филтрирање и сортирање"
+
+msgid "Filter Recipients"
+msgstr "Филтрирај примаоце"
+
+msgid "Find in list:"
+msgstr "Пронађи на листи:"
+
+msgid "Find Next Editable Region"
+msgstr "Пронађи следећи део за уређивање"
+
+msgid "Find Previous"
+msgstr "Пронађи претходно"
+
+msgid "Find Recipient"
+msgstr "Пронађи примаоца"
+
+msgid "Find What Expression"
+msgstr "Пронађени израз"
+
+msgid "Find What Text"
+msgstr "Пронађени текст"
+
+msgid "Find what:"
+msgstr "Пронађи:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "Проналажење штампача…"
+
+msgid "Finish & Merge"
+msgstr "Заврши и споји"
+
+msgid "Finish &\nMerge"
+msgstr "Заврши\nи споји"
+
+msgid "Finished"
+msgstr "Завршено"
+
+msgid "Finland"
+msgstr "Финска"
+
+msgid "Finnish"
+msgstr "Фински"
+
+msgid "First Column"
+msgstr "Прва колона"
+
+msgid "First line"
+msgstr "Први ред"
+
+msgid "First line:"
+msgstr "Први ред:"
+
+msgid "First Name"
+msgstr "Име"
+
+msgid "First Record"
+msgstr "Први запис"
+
+msgid "First row of data contains column headers"
+msgstr "Први ред података садржи заглавља колона"
+
+msgid "Fix Position on Page"
+msgstr "Фиксирај положај на страници"
+
+msgid "Fixed Column Width"
+msgstr "Фиксна ширина колоне"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr ""
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "После броја:"
+
+msgid "Font Color"
+msgstr "Боја фонта"
+
+msgid "Font color"
+msgstr "Боја фонта"
+
+msgid "Font color:"
+msgstr "Боја фонта:"
+
+msgid "Font Dialog"
+msgstr "Дијалог фонта"
+
+msgid "Font: {font}"
+msgstr "Фонт: {font}"
+
+msgid "Font…"
+msgstr "Фонт…"
+
+msgid "Footer"
+msgstr "Подножје"
+
+msgid "Footnote and Endnote"
+msgstr "Фуснота и енднота"
+
+msgid "Footnote Reference"
+msgstr ""
+
+msgid "Footnote Text"
+msgstr ""
+
+msgid "Footnotes"
+msgstr "Фусноте"
+
+msgid "Footnotes and endnotes"
+msgstr "Фусноте и крајње напомене"
+
+msgid "Footnotes to endnotes"
+msgstr "Фусноте у ендноте"
+
+msgid "For which item:"
+msgstr ""
+
+msgid "Format Page Numbers"
+msgstr "Формат бројева страна"
+
+msgid "Format Page Numbers…"
+msgstr "Формат бројева страна…"
+
+msgid "Format Painter"
+msgstr "Копирање формата"
+
+msgid "Format Shape"
+msgstr "Формат облика"
+
+msgid "Format Shape Pane"
+msgstr "Окно „Формат облика“"
+
+msgid "Format Shape…"
+msgstr "Форматирај облик…"
+
+msgid "Formatted"
+msgstr "Форматирано"
+
+msgid "Formatted Text"
+msgstr "Форматирани текст"
+
+msgid "Formatting"
+msgstr "Обликовање"
+
+msgid "Formatting at Selection"
+msgstr "Форматирање на избору"
+
+msgid "Formatting exceptions"
+msgstr "Изузеци форматирања"
+
+msgid "Formatting marks"
+msgstr "Ознаке обликовања"
+
+msgid "Formatting saved for new documents:"
+msgstr "Обликовање сачувано за нове документе:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Пореде се обликовање, величина слова, размаци и табеле; остала подешавања се чувају за касније."
+
+msgid "Formula"
+msgstr "Формула"
+
+msgid "Formula:"
+msgstr "Формула:"
+
+msgid "Forward"
+msgstr "Напред"
+
+msgid "Fraction"
+msgstr "Разломак"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Разломци (1/2) као знакови разломка (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Француска"
+
+msgid "French (France)"
+msgstr "Француски (Француска)"
+
+msgid "From Bottom Left Corner"
+msgstr "Из угла доле лево"
+
+msgid "From Bottom Right Corner"
+msgstr "Из угла доле десно"
+
+msgid "From Center"
+msgstr "Из средине"
+
+msgid "From text:"
+msgstr "Од текста:"
+
+msgid "From Top Left Corner"
+msgstr "Из угла горе лево"
+
+msgid "From Top Right Corner"
+msgstr "Из угла горе десно"
+
+msgid "from Unicode (hex)"
+msgstr "из Unicode (хекс.)"
+
+msgid "From {name}"
+msgstr "Од: {name}"
+
+msgid "From:"
+msgstr "Од:"
+
+msgid "Full page of the same label"
+msgstr "Цела страница исте налепнице"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Приказ преко целог екрана"
+
+msgid "Full\nScreen"
+msgstr "Цео\nекран"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Занимљивост: празна страница је само нацрт коме још нико није рекао шта ће бити."
+
+msgid "Function"
+msgstr "Функција"
+
+msgid "Galician"
+msgstr "галицијски"
+
+msgid "Gallery"
+msgstr "Галерија"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "грузијски"
+
+msgid "German (Germany)"
+msgstr "Немачки (Немачка)"
+
+msgid "Germany"
+msgstr "Немачка"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Преузима списак језичких пакета, затим пакет овог језика ако постоји."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Боје сјаја"
+
+msgid "Go Back"
+msgstr "Врати се назад"
+
+msgid "Go To"
+msgstr "Иди на"
+
+msgid "Go to"
+msgstr "Иди на"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Иди на (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Иди на запис"
+
+msgid "Go to what:"
+msgstr "Иди на:"
+
+msgid "Go To…"
+msgstr "Иди на…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Нестало! Као да никад није ни написано. Углавном зато што сад више и није."
+
+msgid "Good afternoon"
+msgstr "Добар дан"
+
+msgid "Good evening"
+msgstr "Добро вече"
+
+msgid "Good morning"
+msgstr "Добро јутро"
+
+msgid "GOST (name sort)"
+msgstr ""
+
+msgid "GOST (title sort)"
+msgstr ""
+
+msgid "Grab bag"
+msgstr "Разно"
+
+msgid "Gradient fill"
+msgstr "Преливајућа попуна"
+
+msgid "Gradient stops"
+msgstr "Тачке прелива"
+
+msgid "Grammar built in"
+msgstr "Граматика је уграђена"
+
+msgid "Grave"
+msgstr ""
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Веће од"
+
+msgid "Greater than or equal"
+msgstr "Веће или једнако"
+
+msgid "Greek"
+msgstr "Грчки"
+
+msgid "Greek Letters"
+msgstr ""
+
+msgid "Green:"
+msgstr "Зелена:"
+
+msgid "Greeting Line"
+msgstr "Ред поздрава"
+
+msgid "Greeting\nLine"
+msgstr "Ред\nпоздрава"
+
+msgid "Grid Table 1 Light"
+msgstr ""
+
+msgid "Grid Table 4 – Blue"
+msgstr ""
+
+msgid "Grid Table 4 – Green"
+msgstr ""
+
+msgid "Grid Table 4 – Orange"
+msgstr ""
+
+msgid "Grid Table 4 – Purple"
+msgstr ""
+
+msgid "Gridlines"
+msgstr "Линије мреже"
+
+msgid "Grouping Character Above"
+msgstr ""
+
+msgid "Grouping Character Below"
+msgstr ""
+
+msgid "Grow Font 1 Point"
+msgstr "Увећај фонт за 1 тачку"
+
+msgid "Guatemala"
+msgstr "Гватемала"
+
+msgid "H:"
+msgstr "В:"
+
+msgid "Hanging Indent"
+msgstr "Увлачење висеће линије"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr ""
+
+msgid "Header"
+msgstr "Заглавље"
+
+msgid "Header & Footer"
+msgstr "Заглавље и подножје"
+
+msgid "Header Row"
+msgstr "Ред заглавља"
+
+msgid "Header row"
+msgstr "Ред заглавља"
+
+msgid "Header/Footer Position"
+msgstr "Положај заглавља/подножја"
+
+msgid "Headers and footers"
+msgstr "Заглавља и подножја"
+
+msgid "Heading"
+msgstr ""
+
+msgid "Heading 1"
+msgstr "Наслов 1"
+
+msgid "Heading 2"
+msgstr "Наслов 2"
+
+msgid "Heading 3"
+msgstr "Наслов 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Стилови наслова (нивои 1–{n})"
+
+msgid "Heading text"
+msgstr ""
+
+msgid "Heading {n}"
+msgstr "Наслов {n}"
+
+msgid "Hebrew"
+msgstr "Хебрејски"
+
+msgid "Hex:"
+msgstr "Хекс:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Здраво! Ја сам Nib, ваш помоћник за писање. Нудим савете, пречице и понеко ненаручено мишљење. Да останем?"
+
+msgid "Hidden bookmarks"
+msgstr "Скривени обележивачи"
+
+msgid "Hide Codes"
+msgstr "Сакриј кодове"
+
+msgid "Hide from style lists"
+msgstr "Сакриј са листа стилова"
+
+msgid "Hide Ink"
+msgstr "Сакриј мастило"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Сакриј траку са алаткама за брзи приступ"
+
+msgid "Hide White Space"
+msgstr "Сакриј празан простор"
+
+msgid "Hide\nInk"
+msgstr "Сакриј\nмастило"
+
+msgid "Hierarchy"
+msgstr "Хијерархија"
+
+msgid "Highlight"
+msgstr "Истицање"
+
+msgid "Highlight Merge Fields"
+msgstr "Истакни поља за спајање"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Истакни\nпоља за спајање"
+
+msgid "Highlighter"
+msgstr "Маркер"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Лична фасцикла"
+
+msgid "Honduras"
+msgstr "Хондурас"
+
+msgid "Hong Kong SAR"
+msgstr "Хонгконг САР"
+
+msgid "Horizontal Line"
+msgstr "Хоризонтална линија"
+
+msgid "How many pages the whole document has"
+msgstr "Број страница у документу"
+
+msgid "How many pages this section has"
+msgstr "Број страница у одељку"
+
+msgid "How many words the document holds"
+msgstr "Број речи у документу"
+
+msgid "HTML Format"
+msgstr "HTML формат"
+
+msgid "Hue:"
+msgstr "Нијанса:"
+
+msgid "Hungarian"
+msgstr "мађарски"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Hunspell .aff и .dic датотеке из ове фасцикле (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) користе се пре системских."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Hyperbolic Functions"
+msgstr ""
+
+msgid "Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Hyperlink"
+msgstr ""
+
+msgid "Hyphenate at:"
+msgstr "Подели на:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Дели речи написане ВЕЛИКИМ СЛОВИМА"
+
+msgid "Hyphenation Options…"
+msgstr "Опције дељења речи…"
+
+msgid "Hyphenation zone:"
+msgstr "Зона дељења речи:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Цртице (--) као црте (—)"
+
+msgid "Hypotenuse"
+msgstr ""
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Обећавам да је сачувано. Проверио сам. Двапут."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "И сам бих нешто написао, али ја сам перо без мастила. Сав у притиску, а ни слова."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "исландски"
+
+msgid "Icon Color"
+msgstr "Боја иконице"
+
+msgid "Icons"
+msgstr "Иконице"
+
+msgid "Identity Matrices"
+msgstr ""
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "Ако…Онда…Иначе"
+
+msgid "If…Then…Else…"
+msgstr "Ако…Онда…Иначе…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Занемари знаке интерпункције"
+
+msgid "Ignore web and file addresses"
+msgstr "Занемари веб-адресе и путање датотека"
+
+msgid "Ignore white-space characters"
+msgstr "Занемари белине"
+
+msgid "Ignore words in capitals"
+msgstr "Занемари речи писане великим словима"
+
+msgid "Ignore words with numbers"
+msgstr "Занемари речи са бројевима"
+
+msgid "Illustrations"
+msgstr "Илустрације"
+
+msgid "Immersive"
+msgstr "Имерзивно"
+
+msgid "Immersive Reader"
+msgstr "Имерзивни читач"
+
+msgid "Immersive\nReader"
+msgstr "Имерзивни\nчитач"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "У подразумеваним апликацијама изаберите WordCraft за врсте докумената које желите да отвара."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "У једначинама се назив откуцан после обрнуте косе црте замењује симболом."
+
+msgid "In Front of Text"
+msgstr "Испред текста"
+
+msgid "In Line with Text"
+msgstr "У равни са текстом"
+
+msgid "In margin"
+msgstr "На маргини"
+
+msgid "In the margin"
+msgstr "На маргини"
+
+msgid "Include label and number"
+msgstr "Укључи ознаку и број"
+
+msgid "Include level number from:"
+msgstr "Укључи број нивоа:"
+
+msgid "Include page numbers"
+msgstr "Укључи бројеве страница"
+
+msgid "Increase Indent"
+msgstr "Повећај увлачење"
+
+msgid "Indent"
+msgstr "Увлачење"
+
+msgid "Indent from left:"
+msgstr "Увлачење слева:"
+
+msgid "Indentation"
+msgstr "Увлачење"
+
+msgid "Indented"
+msgstr "Увучено"
+
+msgid "Indents"
+msgstr "Увлачења"
+
+msgid "Indents and Spacing"
+msgstr "Увлачења и размаци"
+
+msgid "Index and Tables"
+msgstr "Индекси и табеле"
+
+msgid "Index Heading"
+msgstr ""
+
+msgid "Index {n}"
+msgstr ""
+
+msgid "India"
+msgstr "Индија"
+
+msgid "Indonesian"
+msgstr "Индонежански"
+
+msgid "Initial column width:"
+msgstr "Почетна ширина колоне:"
+
+msgid "Initials:"
+msgstr "Иницијали:"
+
+msgid "Ink"
+msgstr "Мастило"
+
+msgid "Ink Replay"
+msgstr "Рукопис реприза"
+
+msgid "Ink to Shape"
+msgstr "Рукопис у облик"
+
+msgid "Ink to\nMath"
+msgstr "Рукопис у\nформулу"
+
+msgid "Ink to\nShape"
+msgstr "Рукопис у\nоблик"
+
+msgid "Ink\nReplay"
+msgstr "Рукопис\nреприза"
+
+msgid "Inline"
+msgstr "Текстуална"
+
+msgid "Input Format"
+msgstr "Формат уноса"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Уметни нову једначину (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Уметни изнад"
+
+msgid "Insert Below"
+msgstr "Уметни испод"
+
+msgid "Insert Caption"
+msgstr "Уметни натпис"
+
+msgid "Insert Caption…"
+msgstr "Уметни натпис…"
+
+msgid "Insert Chart"
+msgstr "Уметни графикон"
+
+msgid "Insert Citation"
+msgstr "Уметни цитат"
+
+msgid "Insert Columns to the Left"
+msgstr "Уметни колоне лево"
+
+msgid "Insert Columns to the Right"
+msgstr "Уметни колоне десно"
+
+msgid "Insert Date Field"
+msgstr "Уметни поље датума"
+
+msgid "Insert Diagram"
+msgstr "Уметни дијаграм"
+
+msgid "Insert Endnote"
+msgstr "Уметни ендноту"
+
+msgid "Insert Footnote"
+msgstr "Уметни фусноту"
+
+msgid "Insert Hyperlink"
+msgstr "Уметни хипервезе"
+
+msgid "Insert Index"
+msgstr "Уметни индекс"
+
+msgid "Insert Left"
+msgstr "Уметни лево"
+
+msgid "Insert Merge Field"
+msgstr "Уметни поље за спајање"
+
+msgid "Insert Merge\nField"
+msgstr "Уметни поље\nза спајање"
+
+msgid "Insert New Equation"
+msgstr "Уметни нову формулу"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Уметни један или други текст, зависно од вредности поља."
+
+msgid "Insert Page Field"
+msgstr "Уметни поље стране"
+
+msgid "Insert reference to:"
+msgstr ""
+
+msgid "Insert Right"
+msgstr "Уметни десно"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Уметање реда или колоне кликом"
+
+msgid "Insert Rows Above"
+msgstr "Уметни редове изнад"
+
+msgid "Insert Rows Below"
+msgstr "Уметни редове испод"
+
+msgid "Insert Shapes"
+msgstr "Уметни облике"
+
+msgid "Insert SmartArt"
+msgstr "Уметни SmartArt"
+
+msgid "Insert Spike"
+msgstr "Уметни из сакупљача"
+
+msgid "Insert Structure"
+msgstr "Уметни структуру"
+
+msgid "Insert Symbol"
+msgstr "Уметни симбол"
+
+msgid "Insert Table"
+msgstr "Уметни табелу"
+
+msgid "Insert Table of Authorities"
+msgstr "Уметни списак извора"
+
+msgid "Insert Table of Figures"
+msgstr "Уметни списак слика"
+
+msgid "Insert Table…"
+msgstr "Уметни табелу…"
+
+msgid "Insert Time Field"
+msgstr "Уметни поље времена"
+
+msgid "Insert\nAbove"
+msgstr "Уметни\nизнад"
+
+msgid "Insert\nCaption"
+msgstr "Уметни\nнатпис"
+
+msgid "Insert\nCitation"
+msgstr "Уметни\nцитат"
+
+msgid "Insert\nFootnote"
+msgstr "Уметни\nфусноту"
+
+msgid "Insertions and Deletions"
+msgstr "Уметања и брисања"
+
+msgid "Insertions:"
+msgstr "Уметања:"
+
+msgid "Inside Borders"
+msgstr "Унутрашње ивице"
+
+msgid "Inside Horizontal Border"
+msgstr "Унутрашња хоризонтална ивица"
+
+msgid "Inside Vertical Border"
+msgstr "Унутрашња вертикална ивица"
+
+msgid "Inside:"
+msgstr "Унутра:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Прегледај стилове избора"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Инсталирај правопис ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Институција"
+
+msgid "Integral"
+msgstr "Интеграл"
+
+msgid "Integral of e^(−x²)"
+msgstr ""
+
+msgid "Integral with Limits"
+msgstr ""
+
+msgid "Integral with Stacked Limits"
+msgstr ""
+
+msgid "Integrals"
+msgstr ""
+
+msgid "Intense Emphasis"
+msgstr ""
+
+msgid "Intense Quote"
+msgstr ""
+
+msgid "Intense Reference"
+msgstr ""
+
+msgid "Interface language:"
+msgstr "Језик интерфејса:"
+
+msgid "Interface size:"
+msgstr "Величина интерфејса:"
+
+msgid "Interface theme:"
+msgstr "Тема интерфејса:"
+
+msgid "Interface\nTheme"
+msgstr "Тема\nинтерфејса"
+
+msgid "Internet addresses as links"
+msgstr "Интернет адресе као везе"
+
+msgid "Intersection with Limits"
+msgstr ""
+
+msgid "Intersection with Lower Limit"
+msgstr ""
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr ""
+
+msgid "Inverse Cosine Function"
+msgstr ""
+
+msgid "Inverse Cotangent Function"
+msgstr ""
+
+msgid "Inverse Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Inverse Secant Function"
+msgstr ""
+
+msgid "Inverse Sine Function"
+msgstr ""
+
+msgid "Inverse Tangent Function"
+msgstr ""
+
+msgid "Ionosphere"
+msgstr "Јоносфера"
+
+msgid "Iraq"
+msgstr "Ирак"
+
+msgid "Ireland"
+msgstr "Ирска"
+
+msgid "Irish"
+msgstr "ирски"
+
+msgid "Is blank"
+msgstr "Празно"
+
+msgid "Is not blank"
+msgstr "Није празно"
+
+msgid "ISO 690 (author-date)"
+msgstr ""
+
+msgid "ISO 690 (numerical)"
+msgstr ""
+
+msgid "Issue"
+msgstr "Број"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Изгледа да пишете писмо. Да ли вам треба коверта за њега или шаблон писма за почетак?"
+
+msgid "Italy"
+msgstr "Италија"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Његов речник није могао да се прочита: {reason}"
+
+msgid "Jamaica"
+msgstr "Јамајка"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Придружите се ArtCraft заједници на Discord-у"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Придружите нам се на Discord-у: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Јордан"
+
+msgid "Journal"
+msgstr "Часопис"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr ""
+
+msgid "Justified"
+msgstr "Обострано поравнато"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Keep Lines Together"
+msgstr "Задржи редове заједно"
+
+msgid "Keep lines together"
+msgstr "Задржи редове заједно"
+
+msgid "Keep me around"
+msgstr "Остани"
+
+msgid "Keep Text Only"
+msgstr "Задржи само текст"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Чувајте лозинку на сигурном месту: без ње нико, па ни WordCraft, не може да отвори документ. Оставите оба поља празна да бисте уклонили лозинку."
+
+msgid "Keep with Next"
+msgstr "Задржи са следећим"
+
+msgid "Keep with next"
+msgstr "Задржи са следећим"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Задржава фонтове и форматирање копираног текста."
+
+msgid "Kerning for fonts:"
+msgstr "Кернинг фонтова:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Пречице на тастатури:"
+
+msgid "Keys for this command:"
+msgstr "Тастери за ову команду:"
+
+msgid "Kuwait"
+msgstr "Кувајт"
+
+msgid "Label changes with:"
+msgstr "Означи измене са:"
+
+msgid "Label:"
+msgstr "Ознака:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Језичке поставке…"
+
+msgid "Large\nOperator"
+msgstr "Велики\nоператор"
+
+msgid "Largest Only"
+msgstr "Само шира страна"
+
+msgid "Lasso Select"
+msgstr "Избор ласом"
+
+msgid "Last Column"
+msgstr "Задња колона"
+
+msgid "Last Name"
+msgstr "Презиме"
+
+msgid "Last Record"
+msgstr "Последњи запис"
+
+msgid "Last, First; Last, First"
+msgstr "Презиме, Име; Презиме, Име"
+
+msgid "Latin text font:"
+msgstr "Фонт латиничног текста:"
+
+msgid "Latvian"
+msgstr "летонски"
+
+msgid "Layout Summary"
+msgstr "Преглед распореда"
+
+msgid "Layouts"
+msgstr "Распореди"
+
+msgid "Leader"
+msgstr "Попуна"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Изостави примаоца из спајања када поље има ову вредност."
+
+msgid "Leave Equation"
+msgstr "Изађи из формуле"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Изостави датум и време коментара и праћених измена при чувању"
+
+msgid "Leave the equation (Esc)"
+msgstr "Напусти једначину (Esc)"
+
+msgid "leave the equation first"
+msgstr "прво изађите из једначине"
+
+msgid "Leave the label out of the caption"
+msgstr "Изостави ознаку из натписа"
+
+msgid "Lebanon"
+msgstr "Либан"
+
+msgid "Left Arrow with Text Above"
+msgstr ""
+
+msgid "Left Arrow with Text Below"
+msgstr ""
+
+msgid "Left Border"
+msgstr "Лева ивица"
+
+msgid "Left border"
+msgstr "Лева ивица"
+
+msgid "Left Bracket Twice"
+msgstr ""
+
+msgid "Left indent"
+msgstr "Увлачење слева"
+
+msgid "Left Margin"
+msgstr "Лева маргина"
+
+msgid "Left Only"
+msgstr "Само лево"
+
+msgid "Left Right Arrow Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Left Subscript-Superscript"
+msgstr ""
+
+msgid "Left-to-right"
+msgstr "Са лева на десно"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Смер текста са лева на десно"
+
+msgid "Leftwards Arrow Above"
+msgstr ""
+
+msgid "Leftwards Harpoon Above"
+msgstr ""
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Правно нумерисање"
+
+msgid "Legend"
+msgstr "Легенда"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Мање од"
+
+msgid "Less than or equal"
+msgstr "Мање или једнако"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Наслови по словима"
+
+msgid "Letter template"
+msgstr "Шаблон писма"
+
+msgid "Letter-Like Symbols"
+msgstr ""
+
+msgid "Letters"
+msgstr "Писма"
+
+msgid "Level 5"
+msgstr ""
+
+msgid "Level 6"
+msgstr ""
+
+msgid "Level 7"
+msgstr ""
+
+msgid "Level 8"
+msgstr ""
+
+msgid "Level 9"
+msgstr ""
+
+msgid "Level {n}"
+msgstr "Ниво {n}"
+
+msgid "Levels:"
+msgstr "Нивои:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Лихтенштајн"
+
+msgid "Light Variations"
+msgstr "Светле варијанте"
+
+msgid "Light with Outline"
+msgstr "Светло са контуром"
+
+msgid "Limit"
+msgstr ""
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Лимес и\nлогаритам"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Највише узастопних цртица:"
+
+msgid "Limit Example"
+msgstr ""
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Ограничи обликовање на изабране стилове"
+
+msgid "Line and Page Breaks"
+msgstr "Прекиди редова и страна"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Размак између редова и пасуса"
+
+msgid "Line between"
+msgstr "Линија између колона"
+
+msgid "Line Break"
+msgstr "Прекид реда"
+
+msgid "Line breaking"
+msgstr "Прелом редова"
+
+msgid "Line End"
+msgstr "Крај реда"
+
+msgid "Line Number"
+msgstr ""
+
+msgid "Line Numbering Options…"
+msgstr "Опције бројева редова…"
+
+msgid "Line Numbers"
+msgstr "Бројеви редова"
+
+msgid "Line Spacing"
+msgstr "Проређеност"
+
+msgid "Line Spacing Options…"
+msgstr "Опције проређености…"
+
+msgid "Line spacing:"
+msgstr "Проређеност:"
+
+msgid "Line Start"
+msgstr "Почетак реда"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Линеарни дијагонални – доле лево ка горе десно"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Линеарни дијагонални – доле десно ка горе лево"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Линеарни дијагонални – горе лево ка доле десно"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Линеарни дијагонални – горе десно ка доле лево"
+
+msgid "Linear Down"
+msgstr "Линеарни надоле"
+
+msgid "Linear Fraction"
+msgstr ""
+
+msgid "Linear Left"
+msgstr "Линеарни улево"
+
+msgid "Linear Right"
+msgstr "Линеарни удесно"
+
+msgid "Linear Up"
+msgstr "Линеарни нагоре"
+
+msgid "Lines and characters"
+msgstr "Редови и знакови"
+
+msgid "Lines only"
+msgstr "Само редови"
+
+msgid "Lines per page:"
+msgstr "Редова по страници:"
+
+msgid "Lines to drop:"
+msgstr "Број редова:"
+
+msgid "Link entries to their headings"
+msgstr "Повежи ставке са насловима"
+
+msgid "Link level to style:"
+msgstr "Повежи ниво са стилом:"
+
+msgid "Link to Previous"
+msgstr "Веза са претходним"
+
+msgid "Link to:"
+msgstr "Веза ка:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Повезани стил (пасус и знакови)"
+
+msgid "Links and References"
+msgstr "Везе и референце"
+
+msgid "Link…"
+msgstr "Веза…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Дефиниција листе"
+
+msgid "List entries"
+msgstr "Ставке листе"
+
+msgid "List Paragraph"
+msgstr ""
+
+msgid "List Table 3 – Blue"
+msgstr ""
+
+msgid "List Table 3 – Green"
+msgstr ""
+
+msgid "List Table 3 – Orange"
+msgstr ""
+
+msgid "List Table 3 – Purple"
+msgstr ""
+
+msgid "Lit from Bottom"
+msgstr "Осветљен одоздо"
+
+msgid "Lit from Top"
+msgstr "Осветљен одозго"
+
+msgid "Lithuanian"
+msgstr "литвански"
+
+msgid "Load System Installed Fonts…"
+msgstr "Учитај инсталиране системске фонтове…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Учитано системских фонтова: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Ваш прегледач не подржава приступ локалним фонтовима."
+
+msgid "Local font access was denied."
+msgstr "Приступ локалним фонтовима је одбијен."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Локација: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Закључај однос ширине и висине"
+
+msgid "Lock Fields"
+msgstr "Закључај поља"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr ""
+
+msgid "Logarithm with Base"
+msgstr ""
+
+msgid "Logical AND"
+msgstr ""
+
+msgid "Logical AND with Limits"
+msgstr ""
+
+msgid "Logical OR"
+msgstr ""
+
+msgid "Logical OR with Limits"
+msgstr ""
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: јер праве речи још седе у кафићу."
+
+msgid "Lum:"
+msgstr "Осветљеност:"
+
+msgid "Luxembourg"
+msgstr "Луксембург"
+
+msgid "Macao SAR"
+msgstr "Макао САР"
+
+msgid "Macedonian"
+msgstr "македонски"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Макрои"
+
+msgid "Made from the author and year when empty"
+msgstr "Ако је празно, прави се од аутора и године"
+
+msgid "Magazine or newspaper article"
+msgstr "Чланак у магазину или новинама"
+
+msgid "Mail Merge"
+msgstr "Спајање поште"
+
+msgid "Mailings"
+msgstr "Писма"
+
+msgid "Main entry:"
+msgstr "Главна ставка:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Постави WordCraft као подразумевану апликацију за Word документе…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Повећава или смањује траку, меније и дијалоге. Аутоматски прати скалирање екрана у систему; 100% је један пиксел екрана по тачки. Зумирање документа је засебно."
+
+msgid "Malaysia"
+msgstr "Малезија"
+
+msgid "Manage Sources"
+msgstr "Управљај изворима"
+
+msgid "Manage Styles"
+msgstr "Управљање стиловима"
+
+msgid "Manage Styles…"
+msgstr "Управљање стиловима…"
+
+msgid "Manual Hyphenation"
+msgstr "Ручно дељење речи"
+
+msgid "Manual hyphenation is complete."
+msgstr "Ручно дељење речи је завршено."
+
+msgid "Manual Line Break"
+msgstr "Ручни прекид реда"
+
+msgid "Manual Page Break"
+msgstr "Ручни прекид стране"
+
+msgid "Manual…"
+msgstr "Ручно…"
+
+msgid "Many pages"
+msgstr "Више страна"
+
+msgid "Mark"
+msgstr "Означи"
+
+msgid "Mark All"
+msgstr "Означи све"
+
+msgid "Mark as decorative"
+msgstr "Означи као декоративно"
+
+msgid "Mark Citation"
+msgstr "Означи цитат"
+
+msgid "Mark Entry"
+msgstr "Означи ставку"
+
+msgid "Mark Entry…"
+msgstr "Означи ставку…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Означавај граматичке грешке током куцања"
+
+msgid "Mark Index Entry"
+msgstr "Означи ставку индекса"
+
+msgid "Mark selected text as:"
+msgstr "Означи изабрани текст као:"
+
+msgid "Mark\nCitation"
+msgstr "Означи\nцитат"
+
+msgid "Mark\nEntry"
+msgstr "Означи\nставку"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Осетљиво на велика/мала слова"
+
+msgid "Match Fields"
+msgstr "Упореди поља"
+
+msgid "Match prefix"
+msgstr "Подудари префикс"
+
+msgid "Match suffix"
+msgstr "Подудари суфикс"
+
+msgid "Matches: {count}"
+msgstr "Подударања: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Аутоматска исправка математике"
+
+msgid "Matrices with Brackets"
+msgstr ""
+
+msgid "Matrix"
+msgstr "Матрица"
+
+msgid "Maximum Example"
+msgstr ""
+
+msgid "Measured By"
+msgstr ""
+
+msgid "Measurement units:"
+msgstr "Јединице мере:"
+
+msgid "Merge cells before split"
+msgstr "Споји ћелије пре дељења"
+
+msgid "Merge Formatting"
+msgstr "Споји форматирање"
+
+msgid "Merge Record #"
+msgstr "Број записа спајања"
+
+msgid "Mesosphere"
+msgstr "Мезосфера"
+
+msgid "Mexico"
+msgstr "Мексико"
+
+msgid "Midline Dots"
+msgstr ""
+
+msgid "Minus Equal"
+msgstr ""
+
+msgid "Mirror indents"
+msgstr "Пресликај увлачења"
+
+msgid "Mirror margins"
+msgstr "Пресликане маргине"
+
+msgid "Mirrored"
+msgstr "Зрцаљено"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Ауторска права (c) 2026 ArtCraft Team и сарадници на WordCraft-у."
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr "мм"
+
+msgid "Moderate"
+msgstr "Умерено"
+
+msgid "Modify Style"
+msgstr "Измени стил"
+
+msgid "Modify Table Style"
+msgstr "Измени стил табеле"
+
+msgid "Modify Table Style…"
+msgstr "Измени стил табеле…"
+
+msgid "Modify…"
+msgstr "Измени…"
+
+msgid "Mon"
+msgstr "Пон"
+
+msgid "Monaco"
+msgstr "Монако"
+
+msgid "Montenegro"
+msgstr "Црна Гора"
+
+msgid "Month"
+msgstr "Месец"
+
+msgid "More >>"
+msgstr "Више >>"
+
+msgid "More Colors…"
+msgstr "Још боја…"
+
+msgid "More Columns…"
+msgstr "Још колона…"
+
+msgid "More Commands…"
+msgstr "Још команди…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "Још прелива…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Још величина папира…"
+
+msgid "More Symbols…"
+msgstr "Још симбола…"
+
+msgid "More tabs"
+msgstr "Још картица"
+
+msgid "More templates →"
+msgstr "Још шаблона →"
+
+msgid "More Underlines…"
+msgstr "Још подвлачења…"
+
+msgid "Morocco"
+msgstr "Мароко"
+
+msgid "Move in Equation"
+msgstr "Кретање у формули"
+
+msgid "Move or Resize"
+msgstr "Помери или промени величину"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Помери пасус надоле"
+
+msgid "Move Paragraph Up"
+msgstr "Помери пасус нагоре"
+
+msgid "Move Past Citation"
+msgstr "Помери иза цитата"
+
+msgid "Move Past\nCitation"
+msgstr "Помери иза\nцитата"
+
+msgid "Move Selected Ink"
+msgstr "Премести изабрани рукопис"
+
+msgid "Move Table by Dragging"
+msgstr "Премештање табеле превлачењем"
+
+msgid "Move with Text"
+msgstr "Померај са текстом"
+
+msgid "Moved from"
+msgstr "Премештено одавде"
+
+msgid "Moved from:"
+msgstr "Премештено одавде:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Померени објекти се приањају уз ивице и средину странице, маргине и друге објекте. Држите Alt да бисте померали слободно."
+
+msgid "Moved to"
+msgstr "Премештено овде"
+
+msgid "Moved to:"
+msgstr "Премештено овде:"
+
+msgid "Moves"
+msgstr "Премештања"
+
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+msgid "Multilevel List"
+msgstr "Вишенивоска листа"
+
+msgid "Multilevel List Library"
+msgstr "Библиотека вишенивоских листа"
+
+msgid "Multiple Pages"
+msgstr "Више страна"
+
+msgid "Mute agent messages"
+msgstr "Утишај поруке агената"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Моја листа има"
+
+msgid "Name of the file this document is saved as"
+msgstr "Име датотеке документа"
+
+msgid "Narrow"
+msgstr "Уска"
+
+msgid "Narrow  {size} all"
+msgstr "Уске  {size} свуда"
+
+msgid "Natural Logarithm"
+msgstr ""
+
+msgid "Nature"
+msgstr "Природа"
+
+msgid "Navigation Pane"
+msgstr "Окно за навигацију"
+
+msgid "Negated Relations"
+msgstr ""
+
+msgid "Netherlands"
+msgstr "Холандија"
+
+msgid "New blank documents are written in this language"
+msgstr "Нови празни документи пишу се на овом језику"
+
+msgid "New Comment"
+msgstr "Нови коментар"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Нови коментари и праћене измене бележе се под овим именом и иницијалима."
+
+msgid "New Documents Based on This Template"
+msgstr "Нови документи засновани на овом шаблону"
+
+msgid "New documents based on this template"
+msgstr "Нови документи засновани на овом шаблону"
+
+msgid "New documents will use this font."
+msgstr "Нови документи ће користити овај фонт."
+
+msgid "New documents will use this page setup."
+msgstr "Нови документи ће користити ово подешавање стране."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Нови документи ће користити ово обликовање пасуса."
+
+msgid "New documents will use this style."
+msgstr "Нови документи ће користити овај стил."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Нови документи ће користити уграђено обликовање програма WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Нови документи ће користити уграђено обликовање програма WordCraft. Сачувана подразумевана подешавања не могу да се поврате. Вратити?"
+
+msgid "New Drawing Canvas"
+msgstr "Ново платно за цртање"
+
+msgid "New Entry"
+msgstr "Нова ставка"
+
+msgid "New Label"
+msgstr "Нова ознака"
+
+msgid "New Label…"
+msgstr "Нова ознака…"
+
+msgid "New Paragraph"
+msgstr "Нови пасус"
+
+msgid "New shortcut:"
+msgstr "Нова пречица:"
+
+msgid "New Tab"
+msgstr "Нова картица"
+
+msgid "New Table Style"
+msgstr "Нови стил табеле"
+
+msgid "New Table Style…"
+msgstr "Нови стил табеле…"
+
+msgid "New word"
+msgstr "Нова реч"
+
+msgid "New Zealand"
+msgstr "Нови Зеланд"
+
+msgid "New\nComment"
+msgstr "Нови\nкоментар"
+
+msgid "New\nWindow"
+msgstr "Нови\nпрозор"
+
+msgid "Next Comment"
+msgstr "Следећи коментар"
+
+msgid "Next Field"
+msgstr "Следеће поље"
+
+msgid "Next Footnote"
+msgstr "Следећа фуснота"
+
+msgid "Next Record"
+msgstr "Следећи запис"
+
+msgid "Next Section"
+msgstr "Следећи одељак"
+
+msgid "Next Sentence"
+msgstr "Следећа реченица"
+
+msgid "Next sentence"
+msgstr "Следећа реченица"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Ниб лебди изнад прозора са саветима и понеком примедбом."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Ниб, ваш асистент. Превуците да бисте га померили; десни клик за опције."
+
+msgid "Nicaragua"
+msgstr "Никарагва"
+
+msgid "No accessibility issues found."
+msgstr "Није пронађен ниједан проблем приступачности."
+
+msgid "No Border"
+msgstr "Без ивице"
+
+msgid "No changes (read only)"
+msgstr "Без измена (само за читање)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Ова верзија не садржи податке о сарадницима."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Ниједан документ није отворен. Прво направите или отворите документ."
+
+msgid "no equation at the caret"
+msgstr "на месту курсора нема једначине"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Нема грешака: свако поље за спајање постоји у листи прималаца."
+
+msgid "No Fill"
+msgstr "Без попуне"
+
+msgid "No fill"
+msgstr "Без попуне"
+
+msgid "No Glow"
+msgstr "Без сјаја"
+
+msgid "No Gradient"
+msgstr "Без прелива"
+
+msgid "No grid"
+msgstr "Без мреже"
+
+msgid "No header row"
+msgstr "Без реда заглавља"
+
+msgid "No icons match your search."
+msgstr "Ниједна иконица не одговара претрази."
+
+msgid "No items to show."
+msgstr ""
+
+msgid "No language matches your search."
+msgstr "Ниједан језик не одговара вашој претрази."
+
+msgid "No languages to show yet."
+msgstr "Још нема језика за приказ."
+
+msgid "No Markup"
+msgstr "Без измена"
+
+msgid "No model credits were built into this copy."
+msgstr "Ова верзија не садржи заслуге за AI моделе."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Без контуре"
+
+msgid "No Paragraph Space"
+msgstr "Без размака пасуса"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Нису пронађени штампачи. Подесите системски штампач или извезите PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Без одраза"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Без сенке"
+
+msgid "No Soft Edges"
+msgstr "Без меких ивица"
+
+msgid "No sources yet."
+msgstr "Још нема извора."
+
+msgid "No Spacing"
+msgstr ""
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Правописни речник за {language} није инсталиран, па се текст не проверава. WordCraft тражи Hunspell речник {name} у фасцикли WORDCRAFT_DICTIONARIES и на уобичајеним системским локацијама."
+
+msgid "No templates match your search."
+msgstr "Ниједан шаблон не одговара претрази."
+
+msgid "No Transform"
+msgstr "Без трансформације"
+
+msgid "No watermark"
+msgstr "Без воденог жига"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Још нема речи. Додај у речник на погрешно написаној речи ставља је овде."
+
+msgid "No-Width Non Break"
+msgstr "Недељиви знак нулте ширине"
+
+msgid "No-Width Optional Break"
+msgstr "Опциони прелом нулте ширине"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Недељива цртица"
+
+msgid "Normal  {size} all"
+msgstr "Нормалне  {size} свуда"
+
+msgid "Normal Indent"
+msgstr ""
+
+msgid "Normal probability density"
+msgstr ""
+
+msgid "Normal speed"
+msgstr "Нормална брзина"
+
+msgid "Normal Style"
+msgstr "Нормалан стил"
+
+msgid "Normal Table"
+msgstr ""
+
+msgid "Normal Text"
+msgstr "Обичан текст"
+
+msgid "Normal Word Document"
+msgstr "Обичан Word документ"
+
+msgid "North"
+msgstr "Север"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Норвешки (букмол)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "норвешки (њунорск)"
+
+msgid "Not"
+msgstr "Није"
+
+msgid "Not available right now"
+msgstr "Тренутно недоступно"
+
+msgid "Not available yet"
+msgstr "Још није доступно"
+
+msgid "not editing an equation"
+msgstr "не уређује се ниједна једначина"
+
+msgid "Not equal to"
+msgstr "Није једнако"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Није повезано: кликните поље за текст"
+
+msgid "Not now"
+msgstr "Не сада"
+
+msgid "Not saved"
+msgstr "Није сачувано"
+
+msgid "Not saved yet"
+msgstr "Још није сачувано"
+
+msgid "Not set"
+msgstr "Није постављено"
+
+msgid "Not set: the system's usual places"
+msgstr "Није подешено: уобичајене локације у систему"
+
+msgid "Not used by any command"
+msgstr "Ниједна команда је не користи"
+
+msgid "Not {name}"
+msgstr "Без: {name}"
+
+msgid "Nothing"
+msgstr "Ништа"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Још ништа није прикупљено. Овде се појављује оно што копирате или исечете."
+
+msgid "nothing is selected"
+msgstr "ништа није изабрано"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Сада користи: {command}"
+
+msgid "Nudge"
+msgstr "Микро-померање"
+
+msgid "Num Occurrences"
+msgstr "Број понављања"
+
+msgid "Number alignment:"
+msgstr "Поравнање броја:"
+
+msgid "Number format"
+msgstr "Формат броја"
+
+msgid "Number of columns:"
+msgstr "Број колона:"
+
+msgid "Number of rows:"
+msgstr "Број редова:"
+
+msgid "Number of the page the field sits on"
+msgstr "Број тренутне странице"
+
+msgid "Number of the section the field sits in"
+msgstr "Број тренутног одељка"
+
+msgid "Number only, without the label's words"
+msgstr "Само број, без речи из ознаке"
+
+msgid "Number style for this level:"
+msgstr "Стил броја за овај ниво:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr ""
+
+msgid "Numbering"
+msgstr "Нумерација"
+
+msgid "Numbering:"
+msgstr "Нумерисање:"
+
+msgid "Numbering…"
+msgstr "Нумерисање…"
+
+msgid "Numerals"
+msgstr "Бројеви"
+
+msgid "Numerals:"
+msgstr "Бројеви:"
+
+msgid "n×n Identity Matrix"
+msgstr ""
+
+msgid "n×n Matrix"
+msgstr ""
+
+msgid "Odd Banded Columns"
+msgstr "Непарне тракасте колоне"
+
+msgid "Odd Banded Rows"
+msgstr "Непарни тракасти редови"
+
+msgid "Odd Page"
+msgstr "Непарна страна"
+
+msgid "Office"
+msgstr "Канцеларија"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 подразумевано"
+
+msgid "Offset (pt):"
+msgstr "Помак (пт):"
+
+msgid "Offset: Bottom"
+msgstr "Помак: доле"
+
+msgid "Offset: Bottom Left"
+msgstr "Помак: доле лево"
+
+msgid "Offset: Bottom Right"
+msgstr "Помак: доле десно"
+
+msgid "Offset: Center"
+msgstr "Помак: центар"
+
+msgid "Offset: Left"
+msgstr "Помак: лево"
+
+msgid "Offset: Right"
+msgstr "Помак: десно"
+
+msgid "Offset: Top"
+msgstr "Помак: горе"
+
+msgid "Offset: Top Left"
+msgstr "Помак: горе лево"
+
+msgid "Offset: Top Right"
+msgstr "Помак: горе десно"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Стари тастери менија: Alt, {keys}. Наставите да куцате или притисните Esc да откажете."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Укључено: курсор клизи на ново место док куцате или користите стрелице, а његово трептање се постепено гаси. Искључено: скаче и трепће нагло."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Укључено: WordCraft се отвара на Фајл › Почетак, са празним документом, шаблонима и недавним документима. Искључено: отвара празан документ."
+
+msgid "One"
+msgstr "Једна"
+
+msgid "One half"
+msgstr ""
+
+msgid "One label per recipient"
+msgstr "Једна налепница по примаоцу"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Један ред по ставци. Enter додаје ставку."
+
+msgid "One Page"
+msgstr "Једна страна"
+
+msgid "One-sided"
+msgstr "Једнострано"
+
+msgid "Only allow this kind of editing:"
+msgstr "Дозволи само ову врсту уређивања:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Могу се додавати само коментари, осим у деловима означеним за уређивање."
+
+msgid "Only for the selected text"
+msgstr "Само за изабрани текст"
+
+msgid "Only form fields can be filled in."
+msgstr "Могу се попунити само поља обрасца."
+
+msgid "only in Outline view"
+msgstr "само у приказу Контура"
+
+msgid "Only in this document"
+msgstr "Само у овом документу"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Могу се применити само дозвољени стилови."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Могу се отворити само веб (http, https) и везе за е-пошту (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Прво отворите документ"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Отворите датотеку помоћу WordCraft-овог прегледача када се системски дијалог за датотеке не појави."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument текст (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Отвара се дијалог за штампу…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Од сада ће се .docx, .doc, .rtf и .odt датотеке и Word шаблони отварати у WordCraft-у."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Отвара Подешавања › Подразумеване апликације, где бирате WordCraft за .docx и друге врсте докумената."
+
+msgid "Operator"
+msgstr "Оператор"
+
+msgid "Operator Structures"
+msgstr ""
+
+msgid "Operators"
+msgstr ""
+
+msgid "Optional Hyphen"
+msgstr "Опционална цртица"
+
+msgid "Or"
+msgstr "Или"
+
+msgid "Or save a copy in another format:"
+msgstr "Или сачувај копију у другом формату:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Редни бројеви (1st) као експонент"
+
+msgid "Organizer"
+msgstr "Организатор"
+
+msgid "Organizer…"
+msgstr "Организатор…"
+
+msgid "Original document"
+msgstr "Оригинални документ"
+
+msgid "Original size"
+msgstr "Оригинална величина"
+
+msgid "Other Large Operators"
+msgstr ""
+
+msgid "Other styles and their TOC level:"
+msgstr "Остали стилови и њихов ниво у садржају:"
+
+msgid "Other:"
+msgstr "Друго:"
+
+msgid "Otherwise insert:"
+msgstr "Иначе уметни:"
+
+msgid "Outline Level"
+msgstr "Ниво контуре"
+
+msgid "Outline level"
+msgstr "Ниво контуре"
+
+msgid "Outline levels"
+msgstr "Нивои структуре"
+
+msgid "Outline State"
+msgstr "Стање контуре"
+
+msgid "Outline Tools"
+msgstr "Алатке контуре"
+
+msgid "Outlining"
+msgstr "Контура"
+
+msgid "Outside border"
+msgstr "Спољна ивица"
+
+msgid "Outside Borders"
+msgstr "Спољашње ивице"
+
+msgid "Outside:"
+msgstr "Споља:"
+
+msgid "Outward Brackets"
+msgstr ""
+
+msgid "Overbar"
+msgstr ""
+
+msgid "Overbars and Underbars"
+msgstr ""
+
+msgid "Overbrace"
+msgstr ""
+
+msgid "Overtype"
+msgstr "Преписивање"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Преписивање (откуцано замењује знакове после курсора)"
+
+msgid "Page Background"
+msgstr "Позадина стране"
+
+msgid "Page Border"
+msgstr "Ивица стране"
+
+msgid "Page Borders"
+msgstr "Ивице стране"
+
+msgid "Page Break"
+msgstr "Прекид стране"
+
+msgid "Page Break Before"
+msgstr "Прекид стране пре"
+
+msgid "Page break before"
+msgstr "Прекид стране пре"
+
+msgid "Page Breaks"
+msgstr "Прекиди страна"
+
+msgid "Page Color"
+msgstr "Боја стране"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Приказ стране"
+
+msgid "Page Down"
+msgstr "Страна надоле"
+
+msgid "Page image (*.png)"
+msgstr "Слика стране (*.png)"
+
+msgid "Page Movement"
+msgstr "Кретање странама"
+
+msgid "Page Number"
+msgstr "Број стране"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Формат броја странице"
+
+msgid "Page number style"
+msgstr "Стил броја странице"
+
+msgid "Page numbering"
+msgstr "Нумерација страница"
+
+msgid "Page numbers at the right margin"
+msgstr "Бројеви страница уз десну маргину"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Број странице обележивача"
+
+msgid "Page Setup"
+msgstr "Подешавање стране"
+
+msgid "Page title"
+msgstr "Наслов странице"
+
+msgid "Page Up"
+msgstr "Страна нагоре"
+
+msgid "Page Width"
+msgstr "Ширина стране"
+
+msgid "Page width"
+msgstr "Ширина стране"
+
+msgid "Page X of Y"
+msgstr "Страна X од Y"
+
+msgid "Page {page}"
+msgstr "Страна {page}"
+
+msgid "Page\nBorders"
+msgstr "Ивице\nстране"
+
+msgid "Page\nColor"
+msgstr "Боја\nстране"
+
+msgid "Page\nNumber"
+msgstr "Број\nстране"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Странице попут 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Странице обележивача:"
+
+msgid "Panama"
+msgstr "Панама"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Величина папира:"
+
+msgid "Paragraph Character"
+msgstr "Симбол пасуса"
+
+msgid "Paragraph Details"
+msgstr "Детаљи пасуса"
+
+msgid "Paragraph Down"
+msgstr "Пасус надоле"
+
+msgid "Paragraph Mark"
+msgstr "Знак пасуса"
+
+msgid "Paragraph marks"
+msgstr "Ознаке пасуса"
+
+msgid "Paragraph Settings"
+msgstr "Подешавања пасуса"
+
+msgid "Paragraph Spacing"
+msgstr "Размак пасуса"
+
+msgid "Paragraph style"
+msgstr "Стил пасуса"
+
+msgid "Paragraph Up"
+msgstr "Пасус нагоре"
+
+msgid "Paragraphs"
+msgstr "Пасуси"
+
+msgid "Paragraph…"
+msgstr "Пасус…"
+
+msgid "Paraguay"
+msgstr "Парагвај"
+
+msgid "Parentheses"
+msgstr ""
+
+msgid "Parentheses with Separator"
+msgstr ""
+
+msgid "Partial Differential"
+msgstr ""
+
+msgid "Password:"
+msgstr "Лозинка:"
+
+msgid "Paste (⌘V)"
+msgstr "Налепи (⌘V)"
+
+msgid "Paste All"
+msgstr "Налепи све"
+
+msgid "Paste as:"
+msgstr "Налепи као:"
+
+msgid "Paste Clipboard Item"
+msgstr "Налепи ставку из оставе"
+
+msgid "Paste Formatting"
+msgstr "Налепи форматирање"
+
+msgid "Paste function:"
+msgstr "Налепи функцију:"
+
+msgid "Paste Special…"
+msgstr "Специјално лепљење…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Налепи: само текст"
+
+msgid "Paste: Merge Formatting"
+msgstr "Налепи: споји форматирање"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Лепи слику из оставе."
+
+msgid "Paused"
+msgstr "Паузирано"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF документ (*.pdf)"
+
+msgid "Pens"
+msgstr "Пера"
+
+msgid "People"
+msgstr "Људи"
+
+msgid "Periodical"
+msgstr "Периодика"
+
+msgid "Persian"
+msgstr "персијски"
+
+msgid "Personal"
+msgstr "Лични"
+
+msgid "Personal Templates"
+msgstr "Лични шаблони"
+
+msgid "Personalize"
+msgstr "Персонализација"
+
+msgid "Peru"
+msgstr "Перу"
+
+msgid "Philippines"
+msgstr "Филипини"
+
+msgid "Phonetic Guide"
+msgstr "Фонетски водич"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr ""
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Изаберите прилагођену групу (Нова група прави једну)"
+
+msgid "Pick a field from the list"
+msgstr "Изаберите поље"
+
+msgid "Picture"
+msgstr "Слика"
+
+msgid "Picture Border"
+msgstr "Ивица слике"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Контрола садржаја за слику"
+
+msgid "Picture Format"
+msgstr "Формат слике"
+
+msgid "Picture Styles"
+msgstr "Стилови слике"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Водени жиг са сликом"
+
+msgid "Pictures"
+msgstr "Слике"
+
+msgid "Pie"
+msgstr "Кружни"
+
+msgid "Place in This Document"
+msgstr "Место у овом документу"
+
+msgid "Placeholder text"
+msgstr "Текст чувара места"
+
+msgid "Plain Table 1"
+msgstr ""
+
+msgid "Plain text (*.txt)"
+msgstr "Обичан текст (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Контрола садржаја за обичан текст"
+
+msgid "Play/Pause"
+msgstr "Пусти/паузирај"
+
+msgid "Plus Equal"
+msgstr ""
+
+msgid "Points and above"
+msgstr "пт и више"
+
+msgid "Polish"
+msgstr "Пољски"
+
+msgid "Portugal"
+msgstr "Португалија"
+
+msgid "Portuguese (Brazil)"
+msgstr "Португалски (Бразил)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Португалски (Португалија)"
+
+msgid "Possible spelling mistake"
+msgstr "Могућа правописна грешка"
+
+msgid "Postal Code"
+msgstr "Поштански број"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr ""
+
+msgid "Preferred width:"
+msgstr "Жељена ширина:"
+
+msgid "Preserve formatting during updates"
+msgstr "Сачувај обликовање при ажурирању"
+
+msgid "Preset gradients"
+msgstr "Унапред задати преливи"
+
+msgid "Press a key combination"
+msgstr "Притисните комбинацију тастера"
+
+msgid "Preview Results"
+msgstr "Преглед резултата"
+
+msgid "Preview\nResults"
+msgstr "Преглед\nрезултата"
+
+msgid "Previous 1 or More"
+msgstr "Претходно 1 или више пута"
+
+msgid "Previous Comment"
+msgstr "Претходни коментар"
+
+msgid "Previous Field"
+msgstr "Претходно поље"
+
+msgid "Previous Record"
+msgstr "Претходни запис"
+
+msgid "Previous Section"
+msgstr "Претходни одељак"
+
+msgid "Previous Sentence"
+msgstr "Претходна реченица"
+
+msgid "Previous sentence"
+msgstr "Претходна реченица"
+
+msgid "Print Documents"
+msgstr "Штампај документе"
+
+msgid "Print Documents…"
+msgstr "Штампај документе…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Штампање није успело: процес штампања је заустављен."
+
+msgid "Print failed: {error}"
+msgstr "Штампање неуспело: {error}"
+
+msgid "Print job submitted."
+msgstr "Задатак за штампање је послат."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Задатак за штампу је послат: у ред за штампу послато листова: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Задатак за штампање је послат: {receipt}"
+
+msgid "Print Layout"
+msgstr "Приказ за штампу"
+
+msgid "Print Markup"
+msgstr "Штампај ознаке"
+
+msgid "Print settings"
+msgstr "Подешавања штампања"
+
+msgid "Print the page color"
+msgstr "Штампај боју стране"
+
+msgid "Print to PDF"
+msgstr "Штампај у PDF"
+
+msgid "Print\nLayout"
+msgstr "Приказ\nза штампу"
+
+msgid "Printer default"
+msgstr "Подразумевано штампача"
+
+msgid "Printer discovery failed."
+msgstr "Проналажење штампача није успело."
+
+msgid "Privacy for this document"
+msgstr "Приватност овог документа"
+
+msgid "Privacy Options"
+msgstr "Опције приватности"
+
+msgid "Privacy Settings"
+msgstr "Тренутна подешавања приватности"
+
+msgid "Process"
+msgstr "Процес"
+
+msgid "Product"
+msgstr ""
+
+msgid "Product of A"
+msgstr ""
+
+msgid "Product with Limits"
+msgstr ""
+
+msgid "Product with Lower Limit"
+msgstr ""
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Products and Coproducts"
+msgstr ""
+
+msgid "Professional"
+msgstr "Професионални приказ"
+
+msgid "Promote"
+msgstr "Подигни ниво"
+
+msgid "Promote to Heading 1"
+msgstr "Подигни на Наслов 1"
+
+msgid "Proofing"
+msgstr "Провера писања"
+
+msgid "Proofing Issues"
+msgstr "Проблеми у писању"
+
+msgid "Proofing language"
+msgstr "Језик провере писања"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Заштити документ"
+
+msgid "pt"
+msgstr "пт"
+
+msgid "Publisher"
+msgstr "Издавач"
+
+msgid "Puerto Rico"
+msgstr "Порторико"
+
+msgid "Put the caret in a content control first."
+msgstr "Прво поставите курсор у контролу садржаја."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Вратити подразумеване команде на траку са алаткама за брзи приступ?"
+
+msgid "Qatar"
+msgstr "Катар"
+
+msgid "Quadratic Root"
+msgstr ""
+
+msgid "Quick Access Toolbar"
+msgstr "Трака за брзи приступ"
+
+msgid "Quick Parts"
+msgstr "Брзи делови"
+
+msgid "Quick Tables"
+msgstr "Брзе табеле"
+
+msgid "Quote"
+msgstr ""
+
+msgid "Radical"
+msgstr "Кореновање"
+
+msgid "Radical with Degree"
+msgstr ""
+
+msgid "Radicals"
+msgstr ""
+
+msgid "Raised/lowered"
+msgstr "Подигнуто/спуштено"
+
+msgid "Read Aloud"
+msgstr "Читање наглас"
+
+msgid "Read Aloud Status"
+msgstr "Статус читања наглас"
+
+msgid "Read Mode"
+msgstr "Режим читања"
+
+msgid "Read\nAloud"
+msgstr "Читање\nнаглас"
+
+msgid "Read\nMode"
+msgstr "Режим\nчитања"
+
+msgid "Reading"
+msgstr "Читање"
+
+msgid "Reading Column Width"
+msgstr "Ширина колоне за читање"
+
+msgid "Reading Highlight"
+msgstr "Истицање резултата"
+
+msgid "Reading Line Spacing"
+msgstr "Проређеност при читању"
+
+msgid "Reading Mode"
+msgstr "Режим читања"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Брзина читања"
+
+msgid "Reading Text Size"
+msgstr "Величина текста за читање"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Чита обогаћени текст (RTF) из оставе и задржава његово форматирање."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Чита веб садржај из оставе и задржава његово форматирање."
+
+msgid "Recent documents to show:"
+msgstr "Број недавних докумената за приказ:"
+
+msgid "Recently Used Fonts"
+msgstr "Недавно коришћени фонтови"
+
+msgid "Recently used symbols:"
+msgstr "Недавно коришћени симболи:"
+
+msgid "Recipient List"
+msgstr "Листа прималаца"
+
+msgid "Recipient lists"
+msgstr "Листе прималаца"
+
+msgid "Recipients: {count}"
+msgstr "Прималаца: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Промени боју једнобојне слике, као што је иконица"
+
+msgid "Recolor Selected Ink"
+msgstr "Промени боју изабраног рукописа"
+
+msgid "Record Macro"
+msgstr "Сними макро"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Врати несачуване документе"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Црвена:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Смањи увлачење висеће линије"
+
+msgid "Reference type:"
+msgstr ""
+
+msgid "References"
+msgstr "Референтни материјал"
+
+msgid "Reflection"
+msgstr "Одраз"
+
+msgid "Refresh printers"
+msgstr "Освежи штампаче"
+
+msgid "Region:"
+msgstr "Регион:"
+
+msgid "Registered"
+msgstr "Регистровани жиг"
+
+msgid "Registered Sign"
+msgstr "Знак регистрованог жига"
+
+msgid "Regular expressions"
+msgstr "Регуларни изрази"
+
+msgid "Reject"
+msgstr "Одбиј"
+
+msgid "Reject All Changes"
+msgstr "Одбиј све измене"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Одбиј измену"
+
+msgid "Relationship"
+msgstr "Однос"
+
+msgid "Relative to original picture size"
+msgstr "У односу на оригиналну величину слике"
+
+msgid "Remove Added Font"
+msgstr "Уклони додати фонт"
+
+msgid "Remove condition"
+msgstr "Уклони услов"
+
+msgid "Remove Content Control"
+msgstr "Уклони контролу садржаја"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Уклонити све прилагођене пречице и вратити уграђене тастере?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Уклонити све прилагођене картице и групе и поново приказати све картице?"
+
+msgid "Remove field"
+msgstr "Уклони поље"
+
+msgid "Remove Footer"
+msgstr "Уклони подножје"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Уклони са траке са алаткама за брзи приступ"
+
+msgid "Remove gradient stop"
+msgstr "Уклони тачку прелива"
+
+msgid "Remove Header"
+msgstr "Уклони заглавље"
+
+msgid "Remove Hyperlink"
+msgstr "Уклони хипервезу"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Уклони моје име из коментара, измена и својстава датотеке при чувању"
+
+msgid "Remove Password"
+msgstr "Уклони лозинку"
+
+msgid "Remove Pen"
+msgstr "Уклони перо"
+
+msgid "Remove recipient"
+msgstr "Уклони примаоца"
+
+msgid "Remove row"
+msgstr "Уклони ред"
+
+msgid "Remove series"
+msgstr "Уклони серију"
+
+msgid "Remove Space After Paragraph"
+msgstr "Уклони размак после пасуса"
+
+msgid "Remove Table of Contents"
+msgstr "Уклони садржај"
+
+msgid "Remove the control once edited"
+msgstr "Уклони контролу после уређивања"
+
+msgid "Remove the space before the punctuation"
+msgstr ""
+
+msgid "Remove Watermark"
+msgstr "Уклони водени жиг"
+
+msgid "Rename Document"
+msgstr "Преименуј документ"
+
+msgid "Reopen"
+msgstr "Поново отвори"
+
+msgid "Repeat as header row on each page"
+msgstr "Понови као ред заглавља на свакој страници"
+
+msgid "Repeat Header Rows"
+msgstr "Понови редове заглавља"
+
+msgid "Repeating Section Content Control"
+msgstr "Контрола садржаја за одељак који се понавља"
+
+msgid "Replace All"
+msgstr "Замени све"
+
+msgid "Replace as you type"
+msgstr "Замени док куцаш"
+
+msgid "Replace Document Text"
+msgstr "Замени текст документа"
+
+msgid "Replace text as you type"
+msgstr "Замени текст док куцаш"
+
+msgid "Replace with:"
+msgstr "Замени са:"
+
+msgid "Replay"
+msgstr "Реприза"
+
+msgid "Research"
+msgstr "Истраживање"
+
+msgid "Researcher"
+msgstr "Истраживач"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Истраживачу је потребна услуга на мрежи, а WordCraft ваше документе чува ван мреже."
+
+msgid "Reset All…"
+msgstr "Ресетуј све…"
+
+msgid "Reset Character Formatting"
+msgstr "Поништи форматирање знакова"
+
+msgid "Reset Crop"
+msgstr "Поништи исецање"
+
+msgid "Reset Default Formatting"
+msgstr "Врати подразумевано обликовање"
+
+msgid "Reset Graphic"
+msgstr "Ресетуј графику"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Поништи форматирање пасуса"
+
+msgid "Reset Picture"
+msgstr "Ресетуј слику"
+
+msgid "Reset tips"
+msgstr "Врати савете"
+
+msgid "Reset to Normal"
+msgstr "Врати на нормалан стил"
+
+msgid "Reset\nGraphic"
+msgstr "Ресетуј\nграфику"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Промена величине табеле превлачењем"
+
+msgid "Resolve"
+msgstr "Реши"
+
+msgid "Resolved"
+msgstr "Решено"
+
+msgid "Restart at 1"
+msgstr "Поново почни од 1"
+
+msgid "Restart Each Page"
+msgstr "Поново почни на свакој страни"
+
+msgid "Restart Each Section"
+msgstr "Поново почни у сваком одељку"
+
+msgid "Restart list after:"
+msgstr "Поново почни листу после:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Ограничи уређивање"
+
+msgid "Restrict\nEditing"
+msgstr "Ограничи\nуређивање"
+
+msgid "Results"
+msgstr "Резултати"
+
+msgid "Return address labels"
+msgstr "Налепнице са адресом пошиљаоца"
+
+msgid "Return address:"
+msgstr "Адреса пошиљаоца:"
+
+msgid "Reviewing"
+msgstr "Прегледање"
+
+msgid "Reviewing Pane"
+msgstr "Окно за преглед"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Прегледање — измене постају предлози"
+
+msgid "Revised document"
+msgstr "Измењени документ"
+
+msgid "Rewind"
+msgstr "На почетак"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Премотавам. Реците кад да станем."
+
+msgid "Ribbon"
+msgstr "Трака"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Трака и трака са алаткама за брзи приступ:"
+
+msgid "Ribbon tabs"
+msgstr "Картице траке"
+
+msgid "Rich Text Content Control"
+msgstr "Контрола садржаја за обогаћени текст"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text формат (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Обогаћени текст (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Десно (вертикално)"
+
+msgid "Right Arrow with Text Above"
+msgstr ""
+
+msgid "Right Arrow with Text Below"
+msgstr ""
+
+msgid "Right Border"
+msgstr "Десна ивица"
+
+msgid "Right border"
+msgstr "Десна ивица"
+
+msgid "Right Bracket Twice"
+msgstr ""
+
+msgid "Right indent"
+msgstr "Увлачење здесна"
+
+msgid "Right Margin"
+msgstr "Десна маргина"
+
+msgid "Right Only"
+msgstr "Само десно"
+
+msgid "Right-to-left"
+msgstr "Са десна на лево"
+
+msgid "Right-to-Left Section"
+msgstr "Одељак са десна на лево"
+
+msgid "Right-to-Left Table"
+msgstr "Табела са десна на лево"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Смер текста са десна на лево"
+
+msgid "Rightwards Arrow Above"
+msgstr ""
+
+msgid "Rightwards Harpoon Above"
+msgstr ""
+
+msgid "Romanian"
+msgstr "Румунски"
+
+msgid "Roots of ax²+bx+c"
+msgstr ""
+
+msgid "Rotate all text 270°"
+msgstr "Ротирај сав текст за 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Ротирај сав текст за 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Ротирај улево за 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Ротирај удесно за 90°"
+
+msgid "Rotate with shape"
+msgstr "Ротирај са обликом"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Ред"
+
+msgid "Row:"
+msgstr "Ред:"
+
+msgid "Rows & Columns"
+msgstr "Редови и колоне"
+
+msgid "Ruby text:"
+msgstr "Руби текст:"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "У низу"
+
+msgid "Russia"
+msgstr "Русија"
+
+msgid "Résumé"
+msgstr "Радна биографија"
+
+msgid "SAMPLE"
+msgstr ""
+
+msgid "Sat:"
+msgstr "Засићеност:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Сачувај копију у другом формату. Штампање иде преко PDF-а који можете одштампати из било ког прегледача."
+
+msgid "Save as Word Template…"
+msgstr "Сачувај као Word шаблон…"
+
+msgid "Save documents"
+msgstr "Чување докумената"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Сачувајте документ да бисте укључили аутоматско чување"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Сачувајте документ да бисте укључили аутоматско чување (фајл који сте само отворили не преписује се док га не сачувате)"
+
+msgid "Save these pages as PDF…"
+msgstr "Сачувај ове странице као PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Сачувано. Опет сачувано. И даље сачувано. Баш је сачувано."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Чува .dotx шаблон у фасцикли шаблона. Приказује се у Фајл › Ново под Лични."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Чување {name} је отказано. Документ је и даље отворен и ништа није изгубљено."
+
+msgid "Sayings"
+msgstr "Опаске"
+
+msgid "Sayings:"
+msgstr "Досетке:"
+
+msgid "Scale Drawing"
+msgstr "Скалирај цртеж"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Распршени"
+
+msgid "Script"
+msgstr "Индекс"
+
+msgid "Scroll ribbon left"
+msgstr "Помери траку лево"
+
+msgid "Scroll ribbon right"
+msgstr "Помери траку десно"
+
+msgid "Search Commands"
+msgstr "Претрага наредби"
+
+msgid "Search commands and help"
+msgstr "Претражи наредбе и помоћ"
+
+msgid "Search document"
+msgstr "Претражи документ"
+
+msgid "Search for templates"
+msgstr "Претражи шаблоне"
+
+msgid "Search icons"
+msgstr "Претражи иконице"
+
+msgid "Search Options"
+msgstr "Опције претраге"
+
+msgid "Search:"
+msgstr "Тражи:"
+
+msgid "Secant Function"
+msgstr ""
+
+msgid "Section 1.01"
+msgstr "Одељак 1.01"
+
+msgid "Section Break"
+msgstr "Прекид одељка"
+
+msgid "Section Breaks"
+msgstr "Прекиди одељака"
+
+msgid "Section Character"
+msgstr "Знак одељка"
+
+msgid "Section direction:"
+msgstr "Смер одељка:"
+
+msgid "Section Mark"
+msgstr "Знак параграфа"
+
+msgid "Section Properties"
+msgstr "Својства одељка"
+
+msgid "Sections"
+msgstr "Одељци"
+
+msgid "See"
+msgstr "Види"
+
+msgid "select a chart first"
+msgstr "прво изаберите графикон"
+
+msgid "select a connector first"
+msgstr "прво изаберите линију за повезивање"
+
+msgid "select a diagram first"
+msgstr "прво изаберите дијаграм"
+
+msgid "select a drawing canvas first"
+msgstr "прво изаберите платно за цртање"
+
+msgid "select a floating picture or shape first"
+msgstr "прво изаберите плутајућу слику или облик"
+
+msgid "select a group first"
+msgstr "прво изаберите групу"
+
+msgid "select a picture first"
+msgstr "прво изаберите слику"
+
+msgid "Select a picture first."
+msgstr "Прво изаберите слику."
+
+msgid "select a picture or shape first"
+msgstr "прво изаберите слику или облик"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Изаберите слику, облик, графикон или табелу да бисте их описали."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Изаберите штампач"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "прво изаберите облик"
+
+msgid "select a shape or decorative text first"
+msgstr "прво изаберите облик или украсни текст"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Изаберите облик, оквир за текст или платно за цртање да бисте форматирали попуну."
+
+msgid "select a SmartArt graphic first"
+msgstr "прво изаберите SmartArt графику"
+
+msgid "select a text box first"
+msgstr "прво изаберите оквир за текст"
+
+msgid "select a text box linked to another first"
+msgstr "прво изаберите оквир за текст повезан са другим"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Изабери ћелију"
+
+msgid "Select Column"
+msgstr "Изабери колону"
+
+msgid "Select Heading and Content"
+msgstr "Изабери наслов и садржај"
+
+msgid "Select Line"
+msgstr "Изабери ред"
+
+msgid "Select Paragraph"
+msgstr "Изабери пасус"
+
+msgid "Select Picture…"
+msgstr "Изабери слику…"
+
+msgid "Select Range"
+msgstr "Изабери опсег"
+
+msgid "Select Recipients"
+msgstr "Изабери примаоце"
+
+msgid "select recipients first"
+msgstr "прво изаберите примаоце"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Прво изаберите примаоце да бисте бирали међу њиховим пољима."
+
+msgid "Select recipients first to match their fields."
+msgstr "Прво изаберите примаоце да бисте упарили њихова поља."
+
+msgid "Select Row"
+msgstr "Изабери ред"
+
+msgid "Select Sentence"
+msgstr "Изабери реченицу"
+
+msgid "Select Table"
+msgstr "Изабери табелу"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Избор ћелија табеле кликом"
+
+msgid "Select Text"
+msgstr "Изабери текст"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Изабери текст са сличним форматирањем"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Изаберите текст, па означите ко још може да га уређује."
+
+msgid "select two or more cells to merge"
+msgstr "изаберите две или више ћелија за спајање"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "прво изаберите две или више слика или облика (Shift+клик)"
+
+msgid "Select Word"
+msgstr "Изабери реч"
+
+msgid "Select\nRecipients"
+msgstr "Изабери\nпримаоце"
+
+msgid "Selected Fields"
+msgstr "Изабрана поља"
+
+msgid "Selected text"
+msgstr "Изабрани текст"
+
+msgid "Selection Pane"
+msgstr "Окно избора"
+
+msgid "Semitransparent"
+msgstr "Полутранспарентно"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Шаље документ директно на системски дијалог за штампу, или сачувајте копију у другом формату испод."
+
+msgid "Sentence"
+msgstr "Реченица"
+
+msgid "Sentence case."
+msgstr "Велико слово на почетку реченице."
+
+msgid "Separate text at"
+msgstr "Раздвоји текст на"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Раздвајач:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Назив низа:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Српски (ћирилица)"
+
+msgid "Serbian (Latin)"
+msgstr "Српски (латиница)"
+
+msgid "Series name"
+msgstr "Назив серије"
+
+msgid "Series {n}"
+msgstr "Серија {n}"
+
+msgid "Set As Default"
+msgstr "Постави као подразумевано"
+
+msgid "Set as default"
+msgstr "Постави као подразумевано"
+
+msgid "Set As Default (Font)"
+msgstr "Постави као подразумевано (Фонт)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Постави као подразумевано (Подешавање стране)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Постави као подразумевано (Пасус)"
+
+msgid "Set as Default Language"
+msgstr "Постави као подразумевани језик"
+
+msgid "Set Caret"
+msgstr "Постави курсор"
+
+msgid "Set Character Formatting"
+msgstr "Постави форматирање знакова"
+
+msgid "Set Date"
+msgstr "Постави датум"
+
+msgid "Set Equation"
+msgstr "Постави формулу"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Постави вредност нумерације"
+
+msgid "Set Paragraph Formatting"
+msgstr "Постави форматирање пасуса"
+
+msgid "Set Proofing Language…"
+msgstr "Постави језик провере…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Врста:"
+
+msgid "Shading"
+msgstr "Сенчење"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Сенка, сјај и меке ивице"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Попуна облика"
+
+msgid "Shape Format"
+msgstr "Формат облика"
+
+msgid "Shape Outline"
+msgstr "Контура облика"
+
+msgid "Shape Styles"
+msgstr "Стилови облика"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Налепнице за пошиљке"
+
+msgid "Shortcut key:"
+msgstr "Пречица на тастатури:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Приказуј водиље за поравнање при померању слика и облика"
+
+msgid "Show all formatting marks"
+msgstr "Прикажи све знаке форматирања"
+
+msgid "Show All Levels"
+msgstr "Прикажи све нивое"
+
+msgid "Show all revisions inline"
+msgstr "Прикажи све измене у тексту"
+
+msgid "Show changes at:"
+msgstr "Прикажи измене на нивоу:"
+
+msgid "Show changes in:"
+msgstr "Прикажи измене у:"
+
+msgid "Show Comments"
+msgstr "Прикажи коментаре"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Прикажи документе са инвертованим бојама, као код Приказ › Промени режим. Чување, штампање и PDF нису погођени."
+
+msgid "Show every bibliography field"
+msgstr "Прикажи сва поља библиографије"
+
+msgid "Show First Line Only"
+msgstr "Прикажи само први ред"
+
+msgid "Show in the Styles gallery"
+msgstr "Прикажи у галерији стилова"
+
+msgid "Show its list number"
+msgstr "Прикажи његов број у листи"
+
+msgid "Show its number relative to this field"
+msgstr "Прикажи његов број у односу на ово поље"
+
+msgid "Show its number with all higher levels"
+msgstr "Прикажи његов број са свим вишим нивоима"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Прикажи савете за тастере (Alt или F10)"
+
+msgid "Show Level"
+msgstr "Прикажи ниво"
+
+msgid "Show Level 1"
+msgstr "Прикажи ниво 1"
+
+msgid "Show Level 2"
+msgstr "Прикажи ниво 2"
+
+msgid "Show Level 3"
+msgstr "Прикажи ниво 3"
+
+msgid "Show Level 4"
+msgstr "Прикажи ниво 4"
+
+msgid "Show Level 5"
+msgstr "Прикажи ниво 5"
+
+msgid "Show Level 6"
+msgstr "Прикажи ниво 6"
+
+msgid "Show Level 7"
+msgstr "Прикажи ниво 7"
+
+msgid "Show Level 8"
+msgstr "Прикажи ниво 8"
+
+msgid "Show Level 9"
+msgstr "Прикажи ниво 9"
+
+msgid "Show Markup"
+msgstr "Прикажи измене"
+
+msgid "Show Notes"
+msgstr "Прикажи напомене"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Прикажи само коментаре и обликовање у облачићима"
+
+msgid "Show only records that will be merged"
+msgstr "Прикажи само записе који ће бити обједињени"
+
+msgid "Show or Hide Style"
+msgstr "Прикажи или сакриј стил"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Прикажи траку са алаткама за брзи приступ"
+
+msgid "Show revisions in balloons"
+msgstr "Прикажи измене у облачићима"
+
+msgid "Show Text Formatting"
+msgstr "Прикажи обликовање текста"
+
+msgid "Show the Assistant"
+msgstr "Прикажи асистента"
+
+msgid "Show the community button in the title bar"
+msgstr "Прикажи дугме заједнице у траци наслова"
+
+msgid "Show the equation in the line of text"
+msgstr ""
+
+msgid "Show the equation on a line of its own"
+msgstr ""
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Прикажи мини траку са алаткама при избору текста"
+
+msgid "Show the ribbon"
+msgstr "Прикажи траку"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Прикажи почетни екран при покретању програма WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Поново приказује савете које сте сакрили."
+
+msgid "Show/Hide ¶"
+msgstr "Прикажи/сакриј ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Прикажи/сакриј ¶ ({key}) приказује размаке, табулаторе и преломе који се крију у вашем тексту."
+
+msgid "Show\nComments"
+msgstr "Прикажи\nкоментаре"
+
+msgid "Showing the first {count} items."
+msgstr "Приказане су само прве ставке: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Приказује стабло: свака ставка испод ставке којој припада."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Приказује ставке око централне идеје: прва ставка је у средини."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Приказује ставке једнаке важности као блокове у редовима."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Приказује идеје које се преклапају као кругове који се преклапају."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Приказује делове целине као квадранте."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Приказује делове који се ослањају један на други, највећи на дну."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Приказује кораке редом, слева надесно, са стрелицама између њих."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Приказује кораке који се понављају, око круга."
+
+msgid "Shrink Font 1 Point"
+msgstr "Смањи фонт за 1 тачку"
+
+msgid "Shrink text"
+msgstr "Смањи текст"
+
+msgid "Side to Side"
+msgstr "Једно поред другог"
+
+msgid "Side\nto Side"
+msgstr "Једно\nпоред другог"
+
+msgid "Sides of a right triangle"
+msgstr ""
+
+msgid "Signature Line"
+msgstr "Ред за потпис"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr ""
+
+msgid "Sine Function"
+msgstr ""
+
+msgid "Sine theta"
+msgstr ""
+
+msgid "Singapore"
+msgstr "Сингапур"
+
+msgid "Single"
+msgstr "Једноструко"
+
+msgid "Single Brackets"
+msgstr ""
+
+msgid "Single Closing Quote"
+msgstr "Затворени једноструки наводник"
+
+msgid "Single label"
+msgstr "Једна налепница"
+
+msgid "Single Left Angle"
+msgstr ""
+
+msgid "Single Left Bar"
+msgstr ""
+
+msgid "Single Left Brace"
+msgstr ""
+
+msgid "Single Left Bracket"
+msgstr ""
+
+msgid "Single Left Parenthesis"
+msgstr ""
+
+msgid "Single Opening Quote"
+msgstr "Отворени једноструки наводник"
+
+msgid "Single Right Brace"
+msgstr ""
+
+msgid "Single Right Bracket"
+msgstr ""
+
+msgid "Single Right Parenthesis"
+msgstr ""
+
+msgid "Single Spacing"
+msgstr "Једноструко проређење"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "Назив сајта"
+
+msgid "Size (pt):"
+msgstr "Величина (пт):"
+
+msgid "Size and Crop…"
+msgstr "Величина и исецање…"
+
+msgid "Sketchbook"
+msgstr "Блок за скице"
+
+msgid "Skewed Fraction"
+msgstr ""
+
+msgid "Skip citations & bibliography"
+msgstr "Прескочи цитате и библиографију"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Прескочи цитате и библиографију"
+
+msgid "Skip Record If"
+msgstr "Прескочи запис ако"
+
+msgid "Skip Record If…"
+msgstr "Прескочи запис ако…"
+
+msgid "Slant Down"
+msgstr "Нагиб надоле"
+
+msgid "Slant Up"
+msgstr "Нагиб нагоре"
+
+msgid "Slovak"
+msgstr "словачки"
+
+msgid "Slovenian"
+msgstr "словеначки"
+
+msgid "Small caps"
+msgstr "капителке"
+
+msgid "Small change"
+msgstr ""
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Типографски наводници уместо правих"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt дизајн"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt стилови"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Глатко померање и зумирање, као и постепено појављивање менија и дугмади. Уз „Искључено“ свака промена се приказује одмах."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Меке ивице"
+
+msgid "Soft Glow"
+msgstr "Меки сјај"
+
+msgid "Solid Accent"
+msgstr "Пуна боја истицања"
+
+msgid "Solid fill"
+msgstr "Једнобојна попуна"
+
+msgid "Sometimes"
+msgstr "Понекад"
+
+msgid "Sort by:"
+msgstr "Сортирај по:"
+
+msgid "Sort order:"
+msgstr "Редослед сортирања:"
+
+msgid "Sort Recipients"
+msgstr "Сортирај примаоце"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Изворни код: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Управљач изворима"
+
+msgid "Source type:"
+msgstr "Врста извора:"
+
+msgid "Sources in this document:"
+msgstr "Извори у овом документу:"
+
+msgid "South"
+msgstr "Југ"
+
+msgid "South Africa"
+msgstr "Јужноафричка Република"
+
+msgid "Space"
+msgstr "Размак"
+
+msgid "Space after"
+msgstr "Размак после"
+
+msgid "Space after: {pt} pt"
+msgstr "Размак после: {pt} пт"
+
+msgid "Space before"
+msgstr "Размак пре"
+
+msgid "Space before/after:"
+msgstr "Размак пре/после:"
+
+msgid "Space before: {pt} pt"
+msgstr "Размак пре: {pt} пт"
+
+msgid "Spacing (pt):"
+msgstr "Размак (пт):"
+
+msgid "Spain"
+msgstr "Шпанија"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Шпански (Мексико)"
+
+msgid "Spanish (Spain)"
+msgstr "Шпански (Шпанија)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr ""
+
+msgid "Special Characters"
+msgstr "Специјални знакови"
+
+msgid "Specify height:"
+msgstr "Задај висину:"
+
+msgid "Speech"
+msgstr "Говор"
+
+msgid "Spelling & Grammar"
+msgstr "Правопис и граматика"
+
+msgid "Spelling &\nGrammar"
+msgstr "Правопис\nи граматика"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Језик провере правописа и граматике: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Предлози правописа"
+
+msgid "Spike"
+msgstr "Сакупљач"
+
+msgid "Split Cells"
+msgstr "Подели ћелије"
+
+msgid "Split Table"
+msgstr "Подели табелу"
+
+msgid "Spreadsheet Table"
+msgstr "Табела прорачунске табле"
+
+msgid "Square Root"
+msgstr ""
+
+msgid "Square Root with Degree"
+msgstr ""
+
+msgid "Square Union"
+msgstr ""
+
+msgid "Stack Object"
+msgstr ""
+
+msgid "Stack Object (Three)"
+msgstr ""
+
+msgid "Stacked Bar"
+msgstr "Наслагане траке"
+
+msgid "Stacked Column"
+msgstr "Наслагане колоне"
+
+msgid "Stacked Fraction"
+msgstr ""
+
+msgid "Stacked, no bar"
+msgstr ""
+
+msgid "Standard Colors"
+msgstr "Стандардне боје"
+
+msgid "Start Enforcing Protection"
+msgstr "Покрени заштиту"
+
+msgid "Start Mail Merge"
+msgstr "Покрени спајање докумената"
+
+msgid "Start Mail\nMerge"
+msgstr "Покрени\nспајање докумената"
+
+msgid "Start-up"
+msgstr "Покретање"
+
+msgid "State"
+msgstr "Држава/покрајина"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Још сте ту? Чујем како размишљате."
+
+msgid "Stop Protection"
+msgstr "Заустави заштиту"
+
+msgid "Stop Reading"
+msgstr "Заустави читање"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Заустављено"
+
+msgid "Straight Arrow Connector"
+msgstr "Прави конектор са стрелицом"
+
+msgid "Straight Connector"
+msgstr "Прави конектор"
+
+msgid "Stroke {n} of {total}"
+msgstr "Потез {n} од {total}"
+
+msgid "Strong"
+msgstr ""
+
+msgid "Structure Actions"
+msgstr "Радње са структуром"
+
+msgid "Structures"
+msgstr "Структуре"
+
+msgid "Studio cover"
+msgstr "Насловна страна студија"
+
+msgid "Studio handbook (sample)"
+msgstr "Приручник студија (пример)"
+
+msgid "Style based on:"
+msgstr "Стил заснован на:"
+
+msgid "Style Inspector"
+msgstr "Инспектор стилова"
+
+msgid "Style name:"
+msgstr "Назив стила:"
+
+msgid "Style Set"
+msgstr "Скуп стилова"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Стил: {style}"
+
+msgid "Styles Pane"
+msgstr "Окно стилова"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Стилови:"
+
+msgid "Subentry:"
+msgstr "Подставка:"
+
+msgid "Submit print job"
+msgstr "Пошаљи задатак за штампање"
+
+msgid "Submitting print job…"
+msgstr "Слање задатка за штампање…"
+
+msgid "Subscript-Superscript"
+msgstr ""
+
+msgid "Subscripts and Superscripts"
+msgstr ""
+
+msgid "Subset:"
+msgstr "Подскуп:"
+
+msgid "Subtle Emphasis"
+msgstr ""
+
+msgid "Subtle Reference"
+msgstr ""
+
+msgid "Suggested"
+msgstr "Предлози"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Збир"
+
+msgid "Sum of cosines"
+msgstr ""
+
+msgid "Sum or difference of sines"
+msgstr ""
+
+msgid "Summation"
+msgstr ""
+
+msgid "Summation from 0 to n"
+msgstr ""
+
+msgid "Summation over binomials"
+msgstr ""
+
+msgid "Summation with Limits"
+msgstr ""
+
+msgid "Summation with Lower Limit"
+msgstr ""
+
+msgid "Summation with Subscript Limit"
+msgstr ""
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Summations"
+msgstr ""
+
+msgid "Suppress line numbers"
+msgstr "Без бројева редова"
+
+msgid "Surface Integral"
+msgstr ""
+
+msgid "Surface Integral with Limits"
+msgstr ""
+
+msgid "Surface Integral with Stacked Limits"
+msgstr ""
+
+msgid "Swahili"
+msgstr "свахили"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Замени фусноте и ендноте"
+
+msgid "Swedish"
+msgstr "Шведски"
+
+msgid "Switch Modes"
+msgstr "Промени режим"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Промени\nрежим"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Швајцарска"
+
+msgid "Synonyms"
+msgstr "Синоними"
+
+msgid "Syria"
+msgstr "Сирија"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Системски речник"
+
+msgid "Tab Character"
+msgstr "Знак табулатора"
+
+msgid "Tab character"
+msgstr "Знак табулатора"
+
+msgid "Tab characters"
+msgstr "Знакови табулатора"
+
+msgid "Tab leader:"
+msgstr "Попуна табулатора:"
+
+msgid "Tab stop position:"
+msgstr "Положај табулатора:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Табулатори за брисање:"
+
+msgid "Table Column Width"
+msgstr "Ширина колоне табеле"
+
+msgid "Table Design"
+msgstr "Дизајн табеле"
+
+msgid "Table direction:"
+msgstr "Смер табеле:"
+
+msgid "Table Grid"
+msgstr ""
+
+msgid "Table Layout"
+msgstr "Распоред табеле"
+
+msgid "Table of Authorities"
+msgstr "Списак извора"
+
+msgid "Table of Contents"
+msgstr "Садржај"
+
+msgid "Table of Contents Options"
+msgstr "Опције садржаја"
+
+msgid "Table of Contents Styles"
+msgstr "Стилови садржаја"
+
+msgid "Table of Figures"
+msgstr ""
+
+msgid "Table of\nContents"
+msgstr "Садржај"
+
+msgid "Table Properties"
+msgstr "Својства табеле"
+
+msgid "Table Properties…"
+msgstr "Својства табеле…"
+
+msgid "Table Row Height"
+msgstr "Висина реда табеле"
+
+msgid "Table size"
+msgstr "Величина табеле"
+
+msgid "Table Style Options"
+msgstr "Опције стила табеле"
+
+msgid "Table Styles"
+msgstr "Стилови табеле"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Табулатори…"
+
+msgid "Tabular List"
+msgstr "Табеларна листа"
+
+msgid "Tag"
+msgstr "Ознака"
+
+msgid "Taiwan"
+msgstr "Тајван"
+
+msgid "Take the last match on the page"
+msgstr "Узми последње подударање на страници"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Полако. Страница не иде никуд. Не идем ни ја. Никад."
+
+msgid "Tamil"
+msgstr "тамилски"
+
+msgid "Tangent formula"
+msgstr ""
+
+msgid "Tangent Function"
+msgstr ""
+
+msgid "TC entry fields"
+msgstr "Поља ставки TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Технологија"
+
+msgid "Templates and Add-ins"
+msgstr "Шаблони и додаци"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Овде се приказују шаблони које сачувате у фасцикли шаблона."
+
+msgid "Text Box"
+msgstr "Оквир за текст"
+
+msgid "Text boxes"
+msgstr "Оквири за текст"
+
+msgid "text boxes can't go inside a text box"
+msgstr "оквири за текст не могу да се ставе у оквир за текст"
+
+msgid "Text Direction"
+msgstr "Смер текста"
+
+msgid "Text Effects"
+msgstr "Ефекти текста"
+
+msgid "Text Effects and Typography"
+msgstr "Ефекти текста и типографија"
+
+msgid "Text Fill"
+msgstr "Попуна текста"
+
+msgid "Text from File"
+msgstr "Текст из фајла"
+
+msgid "Text Highlight Color"
+msgstr "Боја истицања текста"
+
+msgid "Text indent at:"
+msgstr "Увлачење текста на:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Текст најближег пасуса са задатим стилом (текућа заглавља)"
+
+msgid "Text Outline"
+msgstr "Контура текста"
+
+msgid "Text over Colon Equal"
+msgstr ""
+
+msgid "Text over Equal"
+msgstr ""
+
+msgid "Text Pane"
+msgstr "Окно за текст"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Величина текста"
+
+msgid "Text snaps to characters"
+msgstr "Текст се поравнава са знаковима"
+
+msgid "Text to display:"
+msgstr "Текст за приказ:"
+
+msgid "Text watermark"
+msgstr "Текстуални водени жиг"
+
+msgid "Text Wrapping"
+msgstr "Преламање текста"
+
+msgid "Text\nBox"
+msgstr "Оквир\nза текст"
+
+msgid "Text\nDirection"
+msgstr "Смер\nтекста"
+
+msgid "Thai"
+msgstr "тајски"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Тај формат не чува све, па је документ и даље отворен. Сачувајте га као Word документ (.docx) да бисте наставили."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Лозинка није исправна. Проверите је (лозинке разликују велика и мала слова) и покушајте поново."
+
+msgid "The clipboard is empty."
+msgstr "Остава је празна."
+
+msgid "the Clipboard pane is empty"
+msgstr "окно Остава је празно"
+
+msgid "the cursor isn't in a table"
+msgstr "курсор није у табели"
+
+msgid "The date it is today"
+msgstr "Данашњи датум"
+
+msgid "The document has no bookmarks yet."
+msgstr "Документ још нема обележиваче."
+
+msgid "the document is protected"
+msgstr "документ је заштићен"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Документ је само за читање, осим делова означених за уређивање."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Документ ће бити сачуван са лозинком. Сачувајте га да бисте га заштитили."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Документ који уређујете задржава имена и датуме; изоставља их само сачувана датотека."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Маргине не стају на страну ове величине; прво смањите маргине."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Мера мора бити између {min} и {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Нови стил преузима форматирање тренутног пасуса."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Шаблон „Нормално“ није могао да се прочита, па овај документ користи уграђено обликовање програма WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Број мора бити између 1 и {max}."
+
+msgid "the paragraph is empty"
+msgstr "пасус је празан"
+
+msgid "the paragraph starts with a space"
+msgstr "пасус почиње размаком"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Лозинка није обавезна; без ње свако може да заустави заштиту."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Лозинка је уклоњена. Сачувајте документ да бисте задржали измену."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Штампач, обострана штампа и број страница по листу бирају се у том дијалогу."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Поље листе прималаца које попуњава сваки део блока адресе и реда поздрава."
+
+msgid "The spelling and grammar check is complete."
+msgstr ""
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "сакупљач је празан"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Системски дијалог за датотеке није доступан, па WordCraft приказује свој. Да бисте добили системски дијалог, инсталирајте портал за избор датотека (на пример xdg-desktop-portal-gtk) или zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Текст на месту уметања је означен: Не проверавај правопис ни граматику."
+
+msgid "The time right now"
+msgstr "Тренутно време"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Боје теме"
+
+msgid "Theme Fonts"
+msgstr "Фонтови теме"
+
+msgid "Theme List"
+msgstr "Листа тема"
+
+msgid "Themes"
+msgstr "Теме"
+
+msgid "Then by"
+msgstr "Затим по"
+
+msgid "Then insert:"
+msgstr "Онда уметни:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "нема мастила за репризу"
+
+msgid "there is nothing to undo"
+msgstr "нема шта да се опозове"
+
+msgid "there's no citation after the caret"
+msgstr "после курсора нема цитата"
+
+msgid "Thesaurus"
+msgstr "Речник синонима"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Ове ознаке се приказују и када је Прикажи/сакриј ¶ искључено."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Ова поља за спајање нису у листи прималаца:"
+
+msgid "These settings will be used for new documents."
+msgstr "Ова подешавања ће се користити за нове документе."
+
+msgid "Thick"
+msgstr "Дебело"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "овај графикон је направљен у другом програму: WordCraft га приказује, али не може да га уређује"
+
+msgid "this diagram can't be edited"
+msgstr "овај дијаграм не може да се уређује"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "овај дијаграм је направљен у другом програму: WordCraft га приказује, али не може да га уређује"
+
+msgid "This document"
+msgstr "Овај документ"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Само овај документ?"
+
+msgid "This field has no options."
+msgstr "Ово поље нема опција."
+
+msgid "This folder can't be read: {error}"
+msgstr "Ова фасцикла не може да се прочита: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Овај фонт нема знакове за приказ."
+
+msgid "this item is already at the top level"
+msgstr "ова ставка је већ на највишем нивоу"
+
+msgid "This page"
+msgstr "Ова страница"
+
+msgid "This password type isn't supported."
+msgstr "Ова врста лозинке није подржана."
+
+msgid "This point forward"
+msgstr "Од овог места надаље"
+
+msgid "This section"
+msgstr "Овај одељак"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "ова сесија нема шаблон „Нормално“ (без интерфејса или без подешавања)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "ова сесија нема шаблон „Нормално“ (без интерфејса или без подешавања): користите \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "овај SmartArt је направљен у другом програму: WordCraft га приказује, али не може да га уређује"
+
+msgid "this text box is already linked: break the link first"
+msgstr "овај оквир за текст је већ повезан: прво прекините везу"
+
+msgid "Three"
+msgstr "Три"
+
+msgid "Through"
+msgstr "Кроз"
+
+msgid "Tight"
+msgstr "Тесно"
+
+msgid "Tilde"
+msgstr ""
+
+msgid "Tip"
+msgstr "Савет"
+
+msgid "Tips ({n})"
+msgstr "Савети ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr "Насловна трака"
+
+msgid "Title from the document properties"
+msgstr "Наслов документа"
+
+msgid "Title:"
+msgstr "Наслов:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Да би се Word документи подразумевано отварали у WordCraft-у: изаберите један у Finder-у, изаберите Датотека › Прикажи информације, под „Отвори помоћу” изаберите WordCraft, па кликните „Промени све”."
+
+msgid "To:"
+msgstr "До:"
+
+msgid "TOA Heading"
+msgstr ""
+
+msgid "TOC Heading"
+msgstr ""
+
+msgid "TOC {n}"
+msgstr ""
+
+msgid "Today"
+msgstr "Данас"
+
+msgid "tOGGLE cASE"
+msgstr ""
+
+msgid "Toggle Check Box"
+msgstr "Промени поље за потврду"
+
+msgid "Toggle Field Codes"
+msgstr "Укључи/искључи кодове поља"
+
+msgid "Toggle Unicode Character"
+msgstr "Пребаци Unicode знак"
+
+msgid "Top and Bottom"
+msgstr "Изнад и испод"
+
+msgid "Top Border"
+msgstr "Горња ивица"
+
+msgid "Top Left Cell"
+msgstr "Горња лева ћелија"
+
+msgid "Top Margin"
+msgstr "Горња маргина"
+
+msgid "Top of Page"
+msgstr "Врх стране"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Горња десна ћелија"
+
+msgid "Total Row"
+msgstr "Ред укупно"
+
+msgid "Track Changes"
+msgstr "Праћење измена"
+
+msgid "Track Changes Options"
+msgstr "Опције праћења измена"
+
+msgid "Track Changes: On"
+msgstr "Праћење измена: укључено"
+
+msgid "Track formatting"
+msgstr "Прати обликовање"
+
+msgid "Track\nChanges"
+msgstr ""
+
+msgid "Track\nChanges ✓"
+msgstr ""
+
+msgid "Tracked changes"
+msgstr "Праћене измене"
+
+msgid "Trademark"
+msgstr "Жиг"
+
+msgid "Trademark Sign"
+msgstr "Знак жига"
+
+msgid "Transparency:"
+msgstr "Транспарентност:"
+
+msgid "Transport"
+msgstr "Превоз"
+
+msgid "Triangle Down"
+msgstr "Троугао надоле"
+
+msgid "Triangle Up"
+msgstr "Троугао нагоре"
+
+msgid "Trigonometric Functions"
+msgstr ""
+
+msgid "Triple"
+msgstr "Троструко"
+
+msgid "Triple Dot"
+msgstr ""
+
+msgid "Triple Integral"
+msgstr ""
+
+msgid "Triple Integral with Limits"
+msgstr ""
+
+msgid "Triple Integral with Stacked Limits"
+msgstr ""
+
+msgid "Trust Center"
+msgstr "Центар за безбедност"
+
+msgid "Tue"
+msgstr "Уто"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "Турски"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Два"
+
+msgid "Two-sided printing"
+msgstr "Двострано штампање"
+
+msgid "Two-sided: long edge"
+msgstr "Двострано: дужа ивица"
+
+msgid "Two-sided: short edge"
+msgstr "Двострано: краћа ивица"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Унесите +2 или -1 да бисте се померили од стране на којој сте."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Унесите наредбу, нпр. \"уметни табелу\""
+
+msgid "Type a New List…"
+msgstr "Унеси нову листу…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Унесите величину у било којој јединици, на пример 5 cm или 300 px. Друга страна се прилагођава, па слика задржава своје пропорције."
+
+msgid "Type at least one recipient."
+msgstr "Унесите бар једног примаоца."
+
+msgid "Type Character Code"
+msgstr "Унеси код знака"
+
+msgid "Type equations in LaTeX"
+msgstr ""
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr ""
+
+msgid "Type in Equation"
+msgstr "Унос у формули"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr ""
+
+msgid "Type Text"
+msgstr "Унеси текст"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Унесите категорије са стране и по једну колону вредности за сваку серију."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Унесите назив поља и његове прекидаче, на пример PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Унесите лозинку да бисте зауставили заштиту."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Унесите примаоце или их учитајте из фајла."
+
+msgid "Typing replaces selected text"
+msgstr "Откуцано замењује изабрани текст"
+
+msgid "U.A.E."
+msgstr "Уједињени Арапски Емирати"
+
+msgid "Ukraine"
+msgstr "Украјина"
+
+msgid "Ukrainian"
+msgstr "Украјински"
+
+msgid "Unchecked symbol"
+msgstr "Симбол за непотврђено"
+
+msgid "Underbar"
+msgstr ""
+
+msgid "Underbrace"
+msgstr ""
+
+msgid "Underline Color"
+msgstr "Боја подвлачења"
+
+msgid "Underline color"
+msgstr "Боја подвлачења"
+
+msgid "Underline Words Only"
+msgstr "Подвуци само речи"
+
+msgid "Undo 1 Action"
+msgstr "Опозови 1 радњу"
+
+msgid "Undo Actions"
+msgstr "Опозови радње"
+
+msgid "Undo History"
+msgstr "Историја опозивања"
+
+msgid "Undo {n} Actions"
+msgstr "Опозови радње: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Опозови, опозови, опозови… сада путујемо кроз време."
+
+msgid "Unformatted Text"
+msgstr "Неформатирани текст"
+
+msgid "Union of intersections"
+msgstr ""
+
+msgid "Union with Limits"
+msgstr ""
+
+msgid "Union with Lower Limit"
+msgstr ""
+
+msgid "Union with Plus"
+msgstr ""
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Unions and Intersections"
+msgstr ""
+
+msgid "United Kingdom"
+msgstr "Уједињено Краљевство"
+
+msgid "United States"
+msgstr "Сједињене Америчке Државе"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "непознат стил украсног текста `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Раскини везу поља"
+
+msgid "Unlink\nCitations"
+msgstr "Уклони везу\nса цитатима"
+
+msgid "Unlock Fields"
+msgstr "Откључај поља"
+
+msgid "Up Diagonal Dots"
+msgstr ""
+
+msgid "Up one level"
+msgstr "Један ниво горе"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Ажурирај поље"
+
+msgid "Update fields before printing"
+msgstr "Ажурирај поља пре штампања"
+
+msgid "Update Index"
+msgstr "Ажурирај индекс"
+
+msgid "Update Style to Match Selection"
+msgstr "Ажурирај стил према избору"
+
+msgid "Update Styles from Template"
+msgstr "Ажурирај стилове из шаблона"
+
+msgid "Update Table"
+msgstr "Ажурирај садржај"
+
+msgid "Update Table of Figures"
+msgstr "Ажурирај списак слика"
+
+msgid "Update to Match"
+msgstr "Ажурирај да одговара"
+
+msgid "Update to Match Selection"
+msgstr "Ажурирај према избору"
+
+msgid "URGENT"
+msgstr ""
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Уругвај"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr ""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr ""
+
+msgid "Use an Existing List…"
+msgstr "Користи постојећу листу…"
+
+msgid "Use system setting"
+msgstr "Према подешавању система"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Користите приказ преко целог екрана у прегледачу (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Користити тренутни скуп стилова и тему за све нове документе?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Тастер Insert укључује и искључује преписивање"
+
+msgid "Use this formatting as the default for:"
+msgstr "Користи ово обликовање као подразумевано за:"
+
+msgid "Use wildcards"
+msgstr "Користи џокер знаке"
+
+msgid "User Name"
+msgstr "Корисничко име"
+
+msgid "User name:"
+msgstr "Корисничко име:"
+
+msgid "User templates:"
+msgstr "Кориснички шаблони:"
+
+msgid "Vector A"
+msgstr ""
+
+msgid "Vector AB"
+msgstr ""
+
+msgid "Venezuela"
+msgstr "Венецуела"
+
+msgid "Version History"
+msgstr "Историја верзија"
+
+msgid "Version {version} ({build})"
+msgstr "Верзија {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Вертикално поравнање:"
+
+msgid "Vertical Bars"
+msgstr ""
+
+msgid "Vertical Dots"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr "вијетнамски"
+
+msgid "View Alt Text…"
+msgstr "Прикажи алтернативни текст…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Прикажи линије мреже"
+
+msgid "View State"
+msgstr "Стање приказа"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Приказ › Фокус скрива све осим ваших речи. Чекаћу напољу."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Прикази"
+
+msgid "Visual effects"
+msgstr "Визуелни ефекти"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Том"
+
+msgid "Volume Integral"
+msgstr ""
+
+msgid "Volume Integral with Limits"
+msgstr ""
+
+msgid "Volume Integral with Stacked Limits"
+msgstr ""
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "Чека се да се чување заврши…"
+
+msgid "Waiting for Zotero…"
+msgstr "Чека се Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Топли градијент са контуром"
+
+msgid "Warnings ({n})"
+msgstr "Упозорења ({n})"
+
+msgid "Washout"
+msgstr "Избледело"
+
+msgid "Weather"
+msgstr "Време"
+
+msgid "Web Layout"
+msgstr "Веб распоред"
+
+msgid "Web page (*.html)"
+msgstr "Веб страна (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Веб\nраспоред"
+
+msgid "Wed"
+msgstr "Сре"
+
+msgid "Welsh"
+msgstr "велшки"
+
+msgid "West"
+msgstr "Запад"
+
+msgid "When this document was first created"
+msgstr "Датум када је документ направљен"
+
+msgid "When this document was most recently printed"
+msgstr "Датум када је документ последњи пут одштампан"
+
+msgid "When this document was most recently saved"
+msgstr "Датум када је документ последњи пут сачуван"
+
+msgid "White Space"
+msgstr "Белина"
+
+msgid "White space"
+msgstr "Размаци"
+
+msgid "Who the document properties name as author"
+msgstr "Аутор документа"
+
+msgid "Whole document"
+msgstr "Цео документ"
+
+msgid "Whole page"
+msgstr "Цела страна"
+
+msgid "Whole Table"
+msgstr "Цела табела"
+
+msgid "Whole words"
+msgstr "Само целе речи"
+
+msgid "Wide"
+msgstr "Широко"
+
+msgid "Widow/Orphan Control"
+msgstr "Контрола усамљених редова"
+
+msgid "Widow/Orphan control"
+msgstr "Контрола усамљених редова"
+
+msgid "Width and spacing"
+msgstr "Ширина и размак"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "Са:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML документ (*.xml)"
+
+msgid "Word Count"
+msgstr "Број речи"
+
+msgid "Word document"
+msgstr "Word документ"
+
+msgid "Word document (*.docx)"
+msgstr "Word документ (*.docx)"
+
+msgid "Word Left"
+msgstr "Реч лево"
+
+msgid "Word level"
+msgstr "Ниво речи"
+
+msgid "Word Right"
+msgstr "Реч десно"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML документ (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt стилови"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft је сада подразумевана апликација за Word документе."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Само речи"
+
+msgid "Wrap Text"
+msgstr "Преломи текст"
+
+msgid "Wrap Text Sides"
+msgstr "Стране прелома текста"
+
+msgid "Wrap\nText"
+msgstr "Преломи\nтекст"
+
+msgid "Write & Insert Fields"
+msgstr "Писање и уметање поља"
+
+msgid "Write a reply"
+msgstr "Напишите одговор"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Блокада писца? Мени помаже да буљим у курсор. Трепће ми већ годинама."
+
+msgid "x bar"
+msgstr ""
+
+msgid "Year"
+msgstr "Година"
+
+msgid "Yields"
+msgstr ""
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Дуго нисте сачували, а аутоматско чување је искључено. Сачувати сада?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Започели сте листу. Притисните Enter двапут да је завршите или Backspace на почетку ставке да је поново претворите у текст."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Ваш документ је сада најсачуванији документ у историји."
+
+msgid "Your languages"
+msgstr "Ваши језици"
+
+msgid "Your own dictionary"
+msgstr "Ваш сопствени речник"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Систем не пријављује подешавање анимације, па ефекти анимације остају укључени."
+
+msgid "Your system has animation effects turned off."
+msgstr "У систему су ефекти анимације искључени."
+
+msgid "Your system has animation effects turned on."
+msgstr "У систему су ефекти анимације укључени."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: отказано"
+
+msgid "Zotero: done"
+msgstr "Zotero: завршено"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; није могуће прочитати ({count}): {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; прескочено: {n} (ограничење {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Табела {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Сарадника: {contributors} · commit-ова: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Истакнуто ставки: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Штампаће се {count} од {total} страница"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Прималаца за спајање: {count} од {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Подешавања за {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} проверава правопис и граматику целог документа."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} броји ваше речи, знакове и пасусе."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} проналази и замењује текст, обликовање и специјалне знакове."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} понавља последњу радњу. Форматирање десет наслова одједном постаје један клик и девет притисака."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} почиње нови ред без започињања новог пасуса."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} почиње нову страницу. Много уредније него притискати Enter док се не деси."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} претвара изабрани текст у везу."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+клик за отварање везе"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (подразумевано)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (нема речника)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} је сада подразумевани језик документа."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: речник није пронађен"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft још не проверава правопис ни граматику на овом језику."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} и још {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} инча"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} мм"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} већ постоји. Изаберите Сачувај поново да бисте заменили датотеку."
+
+msgid "{name} is protected with a password."
+msgstr "{name} је заштићен лозинком."
+
+msgid "{name} options"
+msgstr ""
+
+msgid "{name} wasn't found."
+msgstr "{name} није пронађен."
+
+msgid "{n} entries marked."
+msgstr "Означено ставки: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Редова: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} пт"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected} од {words} речи"
+
+msgid "{size} pt"
+msgstr "{size} пт"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} мм"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} пиксела"
+
+msgid "{words} words"
+msgstr "{words} речи"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "Речи: {words}, и бројим даље. Буквално. Ја бројим."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "Речи: {words}! Бацио бих конфете, али онда бих морао да их почистим."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "Речи: {words}. То је {words} више него што сам ја данас написао."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) није број."
+
+msgid "✓ None"
+msgstr ""
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Tümü)"
+
+msgid "(no style)"
+msgstr "(stil yok)"
+
+msgid "(no suggestions)"
+msgstr "(öneri yok)"
+
+msgid "(normal text)"
+msgstr "(normal metin)"
+
+msgid "(not matched)"
+msgstr "(eşleşmedi)"
+
+msgid "(picture or object)"
+msgstr "(resim veya nesne)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 veya Daha Fazla Karakter"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Biçimlendirme kısıtlamaları"
+
+msgid "1.5 Line Spacing"
+msgstr "1,5 Satır Aralığı"
+
+msgid "1/4 Em Space"
+msgstr "1/4 Em Boşluk"
+
+msgid "1×2 Empty Matrix"
+msgstr "1×2 Boş Matris"
+
+msgid "1×3 Empty Matrix"
+msgstr "1×3 Boş Matris"
+
+msgid "2. Editing restrictions"
+msgstr "2. Düzenleme kısıtlamaları"
+
+msgid "2×1 Empty Matrix"
+msgstr "2×1 Boş Matris"
+
+msgid "2×2 Determinant"
+msgstr "2×2 Determinant"
+
+msgid "2×2 Empty Matrix"
+msgstr "2×2 Boş Matris"
+
+msgid "2×2 Identity Matrix"
+msgstr "2×2 Birim Matris"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "2×2 Birim Matris (seyrek)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Köşeli Parantezli 2×2 Matris"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Çift Çubuklu 2×2 Matris"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Parantezli 2×2 Matris"
+
+msgid "2×3 Empty Matrix"
+msgstr "2×3 Boş Matris"
+
+msgid "3-D"
+msgstr "3B"
+
+msgid "3. Start enforcement"
+msgstr "3. Korumayı başlat"
+
+msgid "3×1 Empty Matrix"
+msgstr "3×1 Boş Matris"
+
+msgid "3×2 Empty Matrix"
+msgstr "3×2 Boş Matris"
+
+msgid "3×3 Empty Matrix"
+msgstr "3×3 Boş Matris"
+
+msgid "3×3 Identity Matrix"
+msgstr "3×3 Birim Matris"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "3×3 Birim Matris (seyrek)"
+
+msgid "<< Less"
+msgstr "<< Daha az"
+
+msgid "<< Remove"
+msgstr "<< Kaldır"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "bir diyagram en fazla {MAX_ITEMS} öğe içerebilir"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "çizim tuvalinin grubu çözülemez"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "çizim tuvali bir metin kutusunun içine konamaz"
+
+msgid "A file dialog is already open."
+msgstr "Bir dosya iletişim kutusu zaten açık."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Rust ile sıfırdan yazılmış ücretsiz, açık kaynak bir kelime işlemci.\nArtCraft ekibinin Crafting Apps ailesinin bir parçası."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "Word mürekkebi içeren bir grubun grubu henüz çözülemez"
+
+msgid "A mail merge field"
+msgstr "Bir posta birleştirme alanı"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Numaralı bir dizi (şekiller, tablolar…)"
+
+msgid "A password is required to open this document."
+msgstr "Bu belgeyi açmak için parola gerekiyor."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Bir içindekiler tablosu"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcÇç"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz ĞğİıŞş"
+
+msgid "About WordCraft"
+msgstr "WordCraft Hakkında"
+
+msgid "Above Chart"
+msgstr "Grafiğin Üstünde"
+
+msgid "Above the item"
+msgstr "Öğenin üstünde"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Mutlak Değer Durumları"
+
+msgid "Accent"
+msgstr "Vurgu İşareti"
+
+msgid "Accent Gradient"
+msgstr "Vurgu Geçişi"
+
+msgid "Accent with Reflection"
+msgstr "Yansımalı Vurgu"
+
+msgid "Accent {n}"
+msgstr "Vurgu {n}"
+
+msgid "Accents"
+msgstr "Vurgular"
+
+msgid "Accept"
+msgstr "Kabul Et"
+
+msgid "Accept All Changes"
+msgstr "Tüm Değişiklikleri Kabul Et"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Bu Değişikliği Kabul Et"
+
+msgid "Accessed on"
+msgstr "Erişim tarihi"
+
+msgid "Accessibility Pane"
+msgstr "Erişilebilirlik Bölmesi"
+
+msgid "Account"
+msgstr "Hesap"
+
+msgid "Acute"
+msgstr "Tiz Vurgu"
+
+msgid "Add >>"
+msgstr "Ekle >>"
+
+msgid "Add a language"
+msgstr "Dil ekle"
+
+msgid "Add a language…"
+msgstr "Dil ekle…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Tablo Ekle"
+
+msgid "Add at least one field."
+msgstr "En az bir alan ekleyin."
+
+msgid "Add Chart Element"
+msgstr "Grafik Öğesi Ekle"
+
+msgid "Add Condition"
+msgstr "Koşul ekle"
+
+msgid "Add Field"
+msgstr "Alan Ekle"
+
+msgid "Add Font…"
+msgstr "Yazı Tipi Ekle…"
+
+msgid "Add gradient stop"
+msgstr "Degrade durağı ekle"
+
+msgid "Add line numbering"
+msgstr "Satır numaralandırma ekle"
+
+msgid "Add New Source…"
+msgstr "Yeni Kaynak Ekle…"
+
+msgid "Add Object to Selection"
+msgstr "Nesneyi Seçime Ekle"
+
+msgid "Add Pen"
+msgstr "Kalem Ekle"
+
+msgid "Add Row"
+msgstr "Satır Ekle"
+
+msgid "Add Series"
+msgstr "Seri Ekle"
+
+msgid "Add Shape"
+msgstr "Şekil Ekle"
+
+msgid "Add Space Before Paragraph"
+msgstr "Paragraf Öncesine Boşluk Ekle"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Asya ve Latin metni arasına boşluk ekle"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Asya metni ile sayılar arasına boşluk ekle"
+
+msgid "Add tab stop at:"
+msgstr "Sekme durağı ekle:"
+
+msgid "Add Text"
+msgstr "Metin Ekle"
+
+msgid "Add the chapter number"
+msgstr "Bölüm numarasını ekle"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Belgeye Ekle"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğuna Ekle"
+
+msgid "Add to Style Gallery"
+msgstr "Stil Galerisine Ekle"
+
+msgid "Add whether it is above or below"
+msgstr "Yukarıda mı aşağıda mı olduğunu ekle"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Kaynakça\nEkle/Düzenle"
+
+msgid "Add/Edit\nCitation"
+msgstr "Atıf\nEkle/Düzenle"
+
+msgid "Add\nNote"
+msgstr "Not\nEkle"
+
+msgid "Add\nPen"
+msgstr "Kalem\nEkle"
+
+msgid "Add\nShape"
+msgstr "Şekil\nEkle"
+
+msgid "Added 1 font"
+msgstr "1 yazı tipi eklendi"
+
+msgid "Added Fonts"
+msgstr "Eklenen Yazı Tipleri"
+
+msgid "Added {n} fonts"
+msgstr "{n} yazı tipi eklendi"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Address Block"
+msgstr "Adres Bloğu"
+
+msgid "Address labels"
+msgstr "Adres etiketleri"
+
+msgid "Address:"
+msgstr "Adres:"
+
+msgid "Address\nBlock"
+msgstr "Adres\nBloğu"
+
+msgid "Advanced Find"
+msgstr "Gelişmiş Bul"
+
+msgid "Advanced Find…"
+msgstr "Gelişmiş Bul…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "Afrikanca"
+
+msgid "After:"
+msgstr "Sonra:"
+
+msgid "Agents"
+msgstr "Ajanlar"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "WordCraft'a bağlı aracılar, asistan aracılığıyla size mesaj gösterebilir. Sessize alındığında, bunu istemediğiniz kendilerine bildirilir."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ah, Latince. Ölü bir dil, tıpkı dünkü teslim tarihi gibi."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ah, düzenleme aşaması. En sevdiğim. Çok kararlı."
+
+msgid "Albanian"
+msgstr "Arnavutça"
+
+msgid "Align Bottom Center"
+msgstr "Alt Ortaya Hizala"
+
+msgid "Align Bottom Left"
+msgstr "Sol Alta Hizala"
+
+msgid "Align Bottom Right"
+msgstr "Sağ Alta Hizala"
+
+msgid "Align Center"
+msgstr "Ortaya Hizala"
+
+msgid "Align Center Left"
+msgstr "Sol Ortaya Hizala"
+
+msgid "Align Center Right"
+msgstr "Sağ Ortaya Hizala"
+
+msgid "Align Top Center"
+msgstr "Üst Ortaya Hizala"
+
+msgid "Align Top Left"
+msgstr "Sol Üste Hizala"
+
+msgid "Align Top Right"
+msgstr "Sağ Üste Hizala"
+
+msgid "Aligned at:"
+msgstr "Hizalama konumu:"
+
+msgid "All - Linear"
+msgstr "Tümü - Doğrusal"
+
+msgid "All - Professional"
+msgstr "Tümü - Profesyonel"
+
+msgid "All Borders"
+msgstr "Tüm Kenarlıklar"
+
+msgid "All caps"
+msgstr "Tümü büyük harf"
+
+msgid "All Commands"
+msgstr "Tüm Komutlar"
+
+msgid "All documents based on the Normal template?"
+msgstr "Normal şablonunu temel alan tüm belgeler mi?"
+
+msgid "All Fonts"
+msgstr "Tüm Yazı Tipleri"
+
+msgid "All Levels"
+msgstr "Tüm düzeyler"
+
+msgid "All Markup"
+msgstr "Tüm İşaretler"
+
+msgid "All pages in the range"
+msgstr "Aralıktaki tüm sayfalar"
+
+msgid "All symbol sets"
+msgstr "Tüm sembol kümeleri"
+
+msgid "All system fonts are already available."
+msgstr "Tüm sistem yazı tipleri zaten kullanılabilir."
+
+msgid "Allow hanging punctuation"
+msgstr "Asılı noktalamaya izin ver"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Latin metninin sözcük ortasında alt satıra geçmesine izin ver"
+
+msgid "Allow line breaks"
+msgstr "Satır sonlarına izin ver"
+
+msgid "Allow row to break across pages"
+msgstr "Satırın sayfalar arasında bölünmesine izin ver"
+
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+msgid "Alt Text"
+msgstr "Alternatif Metin"
+
+msgid "Alt text"
+msgstr "Alternatif metin"
+
+msgid "Alt Text Pane"
+msgstr "Alternatif Metin Bölmesi"
+
+msgid "Alt:"
+msgstr "Alt metin:"
+
+msgid "Alt\nText"
+msgstr "Alternatif\nMetin"
+
+msgid "an agent"
+msgstr "bir aracı"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Yüklü bir dil paketi bu klasörden sonra kullanılır."
+
+msgid "And"
+msgstr "Ve"
+
+msgid "Angle Brackets"
+msgstr "Açılı Parantezler"
+
+msgid "Angle Brackets with Separator"
+msgstr "Ayırıcılı Açılı Parantezler"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "İki Ayırıcılı Açılı Parantezler"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "İmleci canlandır (kayarak ilerler ve solarak yanıp söner)"
+
+msgid "Animation effects:"
+msgstr "Animasyon efektleri:"
+
+msgid "Annotation Reference"
+msgstr "Açıklama Başvurusu"
+
+msgid "Annotation Subject"
+msgstr "Açıklama Konusu"
+
+msgid "Annotation Text"
+msgstr "Açıklama Metni"
+
+msgid "Annoying"
+msgstr "Can sıkıcı"
+
+msgid "Another file"
+msgstr "Başka bir dosya"
+
+msgid "Any Character"
+msgstr "Herhangi Bir Karakter"
+
+msgid "Any Digit"
+msgstr "Herhangi Bir Rakam"
+
+msgid "Any field"
+msgstr "Herhangi bir alan"
+
+msgid "Any Letter"
+msgstr "Herhangi Bir Harf"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Bu belgeyi herkes açabilir. Gizli tutmak için parolayla şifreleyin."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Belgeyi açmak isteyen herkesin bu parolaya ihtiyacı olacak."
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Yazarken uygula"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Asya satır bölme kurallarını uygula (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Biçimlendirilecek alan:"
+
+msgid "Apply Style"
+msgstr "Stil Uygula"
+
+msgid "Apply Styles"
+msgstr "Stilleri Uygula"
+
+msgid "Arabic"
+msgstr "Arapça"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Aşağı Kemer"
+
+msgid "Arch Up"
+msgstr "Yukarı Kemer"
+
+msgid "Argentina"
+msgstr "Arjantin"
+
+msgid "Armenian"
+msgstr "Ermenice"
+
+msgid "Arrange\nAll"
+msgstr "Tümünü\nYerleştir"
+
+msgid "Article I."
+msgstr "Madde I."
+
+msgid "Artistic Effects"
+msgstr "Sanatsal Efektler"
+
+msgid "As Recommended"
+msgstr "Önerilen sırayla"
+
+msgid "As you type"
+msgstr "Yazarken"
+
+msgid "ASAP"
+msgstr "EN KISA SÜREDE"
+
+msgid "Asian text font:"
+msgstr "Asya metni yazı tipi:"
+
+msgid "Asian Typography"
+msgstr "Asya Tipografisi"
+
+msgid "Assistant"
+msgstr "Asistan"
+
+msgid "Assistant Suggestions"
+msgstr "Asistan önerileri"
+
+msgid "At least"
+msgstr "En az"
+
+msgid "At least {n}"
+msgstr "En az {n}"
+
+msgid "Atelier"
+msgstr "Atölye"
+
+msgid "Atmosphere"
+msgstr "Atmosfer"
+
+msgid "Attach Template"
+msgstr "Şablonu Ekle"
+
+msgid "Attach…"
+msgstr "Ekle…"
+
+msgid "Australia"
+msgstr "Avustralya"
+
+msgid "Austria"
+msgstr "Avusturya"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Otomatik Düzelt"
+
+msgid "AutoCorrect Options"
+msgstr "Otomatik Düzeltme Seçenekleri"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Otomatik Sığdır"
+
+msgid "AutoFit behavior"
+msgstr "Otomatik sığdırma"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Sütunu Çift Tıklayarak Otomatik Sığdır"
+
+msgid "AutoFit Contents"
+msgstr "İçeriğe Sığdır"
+
+msgid "AutoFit to contents"
+msgstr "İçeriğe sığdır"
+
+msgid "AutoFit to window"
+msgstr "Pencereye sığdır"
+
+msgid "AutoFit Window"
+msgstr "Pencereye Sığdır"
+
+msgid "AutoFormat As You Type"
+msgstr "Yazarken Otomatik Biçimlendir"
+
+msgid "Automatic ({language})"
+msgstr "Otomatik ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Otomatik ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Otomatik madde işaretli listeler"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Otomatik seçeneği sisteminizin dilini kullanır. Menüler ve komutlar değişir; belgeleriniz değişmez."
+
+msgid "Automatic numbered lists"
+msgstr "Otomatik numaralı listeler"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Otomatik Tablo 1 (3 düzey)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Otomatik Tablo 2 (2 düzey)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Belgede otomatik heceleme yap"
+
+msgid "Automatically Update Document Styles"
+msgstr "Belge Stillerini Otomatik Güncelle"
+
+msgid "Automatically update document styles"
+msgstr "Belge stillerini otomatik güncelle"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "WordCraft'ta kaydettiğiniz belgeleri otomatik kaydet"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Otomatik Kaydet başarısız oldu: {error}. Otomatik Kaydet'i yeniden açmak için belgeyi kaydedin."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Otomatik Kaydet tarayıcıda kullanılamaz: dosyalarınıza yazamaz. Kaydet komutu bir kopya indirir."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Otomatik Kaydet yalnızca .docx, .odt ve .rtf dosyalarıyla çalışır; {name} tüm biçimlendirmeyi koruyamaz. Otomatik Kaydet'i açmak için .docx olarak kaydedin."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Otomatik Kaydet, her değişikliği dosyaya kaydeder (belgenin önce kaydedilmesi gerekir)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Otomatik kaydetme, yazmayı bıraktıktan kısa süre sonra değişikliklerinizi dosyaya yazar."
+
+msgid "AutoText"
+msgstr "Otomatik Metin"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Balonlar"
+
+msgid "Banded Columns"
+msgstr "Şeritli Sütunlar"
+
+msgid "Banded Rows"
+msgstr "Şeritli Satırlar"
+
+msgid "Base text:"
+msgstr "Ana metin:"
+
+msgid "Based on: {style}"
+msgstr "Temel alınan: {style}"
+
+msgid "Baseline Dots"
+msgstr "Taban Çizgisinde Üç Nokta"
+
+msgid "Basic Cycle"
+msgstr "Temel Döngü"
+
+msgid "Basic List"
+msgstr "Temel Liste"
+
+msgid "Basic Math"
+msgstr "Temel Matematik"
+
+msgid "Basic Matrix"
+msgstr "Temel Matris"
+
+msgid "Basic Process"
+msgstr "Temel Süreç"
+
+msgid "Basic Pyramid"
+msgstr "Temel Piramit"
+
+msgid "Basic Radial"
+msgstr "Temel Radyal"
+
+msgid "Basic Venn"
+msgstr "Temel Venn"
+
+msgid "Bayes' rule"
+msgstr "Bayes Kuralı"
+
+msgid "Before:"
+msgstr "Önce:"
+
+msgid "Beginning of Word"
+msgstr "Sözcük Başı"
+
+msgid "Behind Text"
+msgstr "Metnin Arkasında"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belarusian"
+msgstr "Belarusça"
+
+msgid "Belgium"
+msgstr "Belçika"
+
+msgid "Below text"
+msgstr "Metnin altında"
+
+msgid "Below the item"
+msgstr "Öğenin altında"
+
+msgid "Between"
+msgstr "Paragraflar arası"
+
+msgid "Bibliography"
+msgstr "Kaynakça"
+
+msgid "Binomial Coefficient"
+msgstr "Binom Katsayısı"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binom Katsayısı (açılı)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Açılı Parantezli Binom Katsayısı"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "(x+a)ⁿ Binom Açılımı"
+
+msgid "Blank"
+msgstr "Boş"
+
+msgid "Blank (Three Columns)"
+msgstr "Boş (Üç Sütun)"
+
+msgid "Blank document"
+msgstr "Boş belge"
+
+msgid "Blank Page"
+msgstr "Boş Sayfa"
+
+msgid "Block\nAuthors"
+msgstr "Yazarları\nEngelle"
+
+msgid "Blue:"
+msgstr "Mavi:"
+
+msgid "Body Text"
+msgstr "Gövde Metni"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Aralığı göstermek için kısa bir paragrafta gövde metni."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Cesur seçim. Gerekirse Ctrl+Z hemen orada."
+
+msgid "Bolivia"
+msgstr "Bolivya"
+
+msgid "Book"
+msgstr "Kitap"
+
+msgid "Book Title"
+msgstr "Kitap Başlığı"
+
+msgid "Book title"
+msgstr "Kitap başlığı"
+
+msgid "Bookmark"
+msgstr "Yer İşareti"
+
+msgid "Bookmark name:"
+msgstr "Yer işareti adı:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Kenarlık çizgileri"
+
+msgid "Border Painter"
+msgstr "Kenarlık Fırçası"
+
+msgid "Border\nPainter"
+msgstr "Kenarlık\nFırçası"
+
+msgid "Borders and Shading"
+msgstr "Kenarlıklar ve Gölgelendirme"
+
+msgid "Borders and Shading…"
+msgstr "Kenarlıklar ve Gölgelendirme…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna-Hersek"
+
+msgid "Bosnian"
+msgstr "Boşnakça"
+
+msgid "Both Sides"
+msgstr "Her İki Kenar"
+
+msgid "Bottom Border"
+msgstr "Alt Kenarlık"
+
+msgid "Bottom Left Cell"
+msgstr "Sol Alt Hücre"
+
+msgid "Bottom Margin"
+msgstr "Alt Kenar Boşluğu"
+
+msgid "Bottom of Page"
+msgstr "Sayfa Altı"
+
+msgid "Bottom Right Cell"
+msgstr "Sağ Alt Hücre"
+
+msgid "Box"
+msgstr "Kutu"
+
+msgid "Boxed Formula"
+msgstr "Kutulu Formül"
+
+msgid "Boxed Formula (example)"
+msgstr "Kutulu Formül (örnek)"
+
+msgid "Boxed Formulas"
+msgstr "Kutulu Formüller"
+
+msgid "Braces"
+msgstr "Küme Parantezleri"
+
+msgid "Braces with Separator"
+msgstr "Ayırıcılı Küme Parantezleri"
+
+msgid "Bracket"
+msgstr "Parantez"
+
+msgid "Brackets"
+msgstr "Köşeli Parantezler"
+
+msgid "Brackets with Separators"
+msgstr "Ayırıcılı Köşeli Parantezler"
+
+msgid "Brazil"
+msgstr "Brezilya"
+
+msgid "Breaks"
+msgstr "Sonlar"
+
+msgid "Breve"
+msgstr "Kısa İşareti"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "WordCraft'ta Gözat…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Yapı Bloğu Galerisi İçerik Denetimi"
+
+msgid "Built in"
+msgstr "Yerleşik"
+
+msgid "Built-In"
+msgstr "Yerleşik"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Yerleşik stil"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Yerleşik stiller silinemez."
+
+msgid "Bulgarian"
+msgstr "Bulgarca"
+
+msgid "Bullet Library"
+msgstr "Madde İşareti Kitaplığı"
+
+msgid "Bullets"
+msgstr "Madde İşaretleri"
+
+msgid "By author"
+msgstr "Yazara göre"
+
+msgid "Cabo Verde"
+msgstr "Yeşil Burun Adaları"
+
+msgid "Calendar"
+msgstr "Takvim"
+
+msgid "Can't be deleted"
+msgstr "Silinemez"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Bir komutu bulamıyor musunuz? {key} tuşuna basın ve ne yapmak istediğinizi yazın."
+
+msgid "can't split at the first row"
+msgstr "tablo ilk satırdan bölünemez"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Canvas Member"
+msgstr "Tuval Öğesi"
+
+msgid "Capitalize Each Word"
+msgstr "Her Sözcüğün İlk Harfini Büyüt"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Cümlelerin ilk harfini büyük yap"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Tablo hücrelerinin ilk harfini büyük yap"
+
+msgid "Capitalize names of days"
+msgstr "Gün adlarını büyük harfle başlat"
+
+msgid "Capitalize the first word of a sentence"
+msgstr ""
+
+msgid "Caption Numbering"
+msgstr "Başlık Numaralandırma"
+
+msgid "Caption text"
+msgstr "Başlık metni"
+
+msgid "Caption:"
+msgstr "Başlık:"
+
+msgid "Captions"
+msgstr "Resim Yazıları"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Dikkat, biraz daha geri gidersek kâğıdın icadını geri alacağız."
+
+msgid "Caret Character"
+msgstr "Şapka Karakteri"
+
+msgid "Case changes"
+msgstr "Büyük/küçük harf değişiklikleri"
+
+msgid "Cases (Three Conditions)"
+msgstr "Koşul Grubu (Üç Koşul)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Koşul Grubu (İki Koşul)"
+
+msgid "Cases and Stacks"
+msgstr "Koşullar ve Yığınlar"
+
+msgid "Catalan"
+msgstr "Katalanca"
+
+msgid "Catalan (Valencian)"
+msgstr "Katalanca (Valensiyaca)"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+msgid "Category {n}"
+msgstr "Kategori {n}"
+
+msgid "Ceiling"
+msgstr "Yukarı Yuvarlama"
+
+msgid "Cell"
+msgstr "Hücre"
+
+msgid "Cell Margins"
+msgstr "Hücre Kenar Boşlukları"
+
+msgid "Cell\nMargins"
+msgstr "Hücre Kenar\nBoşlukları"
+
+msgid "Center Glow"
+msgstr "Merkez parıltısı"
+
+msgid "Centered as Group"
+msgstr "Grup Olarak Ortalanmış"
+
+msgid "Change Chart Type"
+msgstr "Grafik Türünü Değiştir"
+
+msgid "Change Colors"
+msgstr "Renkleri Değiştir"
+
+msgid "Change in y over change in x"
+msgstr "y'deki Değişimin x'teki Değişime Oranı"
+
+msgid "Change Layout"
+msgstr "Düzeni Değiştir"
+
+msgid "Change List Level"
+msgstr "Liste Düzeyini Değiştir"
+
+msgid "Change Password…"
+msgstr "Parolayı Değiştir…"
+
+msgid "Change Picture"
+msgstr "Resmi Değiştir"
+
+msgid "Change Picture…"
+msgstr "Resmi Değiştir…"
+
+msgid "Change Shape"
+msgstr "Şekli Değiştir"
+
+msgid "Change Structure"
+msgstr "Yapıyı Değiştir"
+
+msgid "Change to Display"
+msgstr "Ayrı Satıra Dönüştür"
+
+msgid "Change to Inline"
+msgstr "Satır İçine Dönüştür"
+
+msgid "Change to Level 1"
+msgstr "Düzey 1 Yap"
+
+msgid "Change to Level 2"
+msgstr "Düzey 2 Yap"
+
+msgid "Change to Level 3"
+msgstr "Düzey 3 Yap"
+
+msgid "Change to Level 4"
+msgstr "Düzey 4 Yap"
+
+msgid "Change to Level 5"
+msgstr "Düzey 5 Yap"
+
+msgid "Change to Level 6"
+msgstr ""
+
+msgid "Change to Level 7"
+msgstr ""
+
+msgid "Change to Level 8"
+msgstr ""
+
+msgid "Change to Level 9"
+msgstr ""
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Grafik Türünü\nDeğiştir"
+
+msgid "Change\nColors"
+msgstr "Renkleri\nDeğiştir"
+
+msgid "Changed lines:"
+msgstr "Değişen satırlar:"
+
+msgid "Changes"
+msgstr "Değişiklikler"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Bölüm 1"
+
+msgid "Chapter in a book"
+msgstr "Kitapta bölüm"
+
+msgid "Chapters begin at:"
+msgstr "Bölümler şunla başlar:"
+
+msgid "Character Border"
+msgstr "Karakter Kenarlığı"
+
+msgid "Character code:"
+msgstr "Karakter kodu:"
+
+msgid "Character in Range"
+msgstr "Aralıktaki Karakter"
+
+msgid "Character level"
+msgstr "Karakter düzeyi"
+
+msgid "Character Position"
+msgstr "Karakter Konumu"
+
+msgid "Character Scale"
+msgstr "Karakter Ölçeği"
+
+msgid "Character Shading"
+msgstr "Karakter Gölgelendirmesi"
+
+msgid "Character Spacing"
+msgstr "Karakter Aralığı"
+
+msgid "Character spacing"
+msgstr "Karakter aralığı"
+
+msgid "Character style"
+msgstr "Karakter stili"
+
+msgid "Characters (no spaces)"
+msgstr "Karakterler (boşluksuz)"
+
+msgid "Characters (with spaces)"
+msgstr "Karakterler (boşluklu)"
+
+msgid "Characters per line:"
+msgstr "Satır başına karakter:"
+
+msgid "Chart"
+msgstr "Grafik"
+
+msgid "Chart Design"
+msgstr "Grafik Tasarımı"
+
+msgid "Chart Layouts"
+msgstr "Grafik Düzenleri"
+
+msgid "Chart Title"
+msgstr "Grafik Başlığı"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "grafikler ve diyagramlar henüz taşınamaz veya yeniden boyutlandırılamaz"
+
+msgid "Check"
+msgstr "İşaret"
+
+msgid "Check Accessibility"
+msgstr "Erişilebilirliği Denetle"
+
+msgid "Check Box Content Control"
+msgstr "Onay Kutusu İçerik Denetimi"
+
+msgid "Check Compatibility"
+msgstr "Uyumluluğu Denetle"
+
+msgid "Check for Errors"
+msgstr "Hataları Denetle"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Yazarken Yazımı Denetle"
+
+msgid "Check spelling as you type"
+msgstr "Yazarken yazımı denetle"
+
+msgid "Check\nAccessibility"
+msgstr "Erişilebilirliği\nDenetle"
+
+msgid "Checked styles are allowed:"
+msgstr "İşaretli stillere izin verilir:"
+
+msgid "Checked symbol"
+msgstr "Seçili simge"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Aşağı Şevron"
+
+msgid "Chevron Up"
+msgstr "Yukarı Şevron"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "Şili"
+
+msgid "China"
+msgstr "Çin"
+
+msgid "Chinese (Simplified)"
+msgstr "Çince (Basitleştirilmiş)"
+
+msgid "Chinese (Traditional)"
+msgstr "Çince (Geleneksel)"
+
+msgid "Choose a command"
+msgstr "Bir komut seçin"
+
+msgid "Choose a shortcut"
+msgstr "Bir kısayol seçin"
+
+msgid "Choose List Item"
+msgstr "Liste Öğesi Seç"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Alıcıları içeren sayfayı seçin."
+
+msgid "Circle area from its radius"
+msgstr "Yarıçaptan Daire Alanı"
+
+msgid "Circled Dot"
+msgstr "Daire İçinde Nokta"
+
+msgid "Circled Plus"
+msgstr "Daire İçinde Artı"
+
+msgid "Circled Times"
+msgstr "Daire İçinde Çarpı"
+
+msgid "Citation Style"
+msgstr "Atıf Stili"
+
+msgid "Citations"
+msgstr "Atıflar"
+
+msgid "Citations & Bibliography"
+msgstr "Atıflar ve Kaynakça"
+
+msgid "Clear All Formatting"
+msgstr "Tüm Biçimlendirmeyi Temizle"
+
+msgid "Clear Character Formatting"
+msgstr "Karakter Biçimlendirmesini Temizle"
+
+msgid "Clear Character Style"
+msgstr "Karakter Stilini Temizle"
+
+msgid "Clear Formatting Level"
+msgstr "Biçimlendirme Düzeyini Temizle"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Paragraf Biçimlendirmesini Temizle"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "İki hücreyi birleştirmek için aradaki kenarlığa tıklayın. Esc ile bitirin."
+
+msgid "Click an item to paste it."
+msgstr "Yapıştırmak için bir öğeye tıklayın."
+
+msgid "Click level to modify:"
+msgstr "Değiştirilecek düzeye tıklayın:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Metnin devam edeceği boş metin kutusuna tıklayın (Esc iptal eder)"
+
+msgid "Click to switch back to inserting"
+msgstr "Eklemeye geri dönmek için tıklayın"
+
+msgid "Clipboard Contents"
+msgstr "Pano İçeriği"
+
+msgid "Clipboard Items"
+msgstr "Pano Öğeleri"
+
+msgid "Clipboard Pane"
+msgstr "Pano Bölmesi"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Denklemi Kapat"
+
+msgid "Close Header and Footer"
+msgstr "Üstbilgi ve Altbilgiyi Kapat"
+
+msgid "Close Outline View"
+msgstr "Anahat görünümünü kapat"
+
+msgid "Close Outline\nView"
+msgstr "Anahat görünümünü\nkapat"
+
+msgid "Clustered Bar"
+msgstr "Kümelenmiş Çubuk"
+
+msgid "Clustered Column"
+msgstr "Kümelenmiş Sütun"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Sütun no.:"
+
+msgid "Collapse Selection"
+msgstr "Seçimi Daralt"
+
+msgid "Collate copies"
+msgstr "Kopyaları harmanla"
+
+msgid "Collect entries from:"
+msgstr "Girdileri şuradan topla:"
+
+msgid "Colombia"
+msgstr "Kolombiya"
+
+msgid "Colon Equal"
+msgstr "İki Nokta Üst Üste Eşittir"
+
+msgid "Color model:"
+msgstr "Renk modeli:"
+
+msgid "Color only"
+msgstr "Yalnızca renk"
+
+msgid "Color: {color}"
+msgstr "Renk: {color}"
+
+msgid "Colorful"
+msgstr "Renkli"
+
+msgid "Column"
+msgstr "Sütun"
+
+msgid "Column Break"
+msgstr "Sütun Sonu"
+
+msgid "Column Selection"
+msgstr "Sütun Seçimi"
+
+msgid "Column {n}"
+msgstr "Sütun {n}"
+
+msgid "Column:"
+msgstr "Sütun:"
+
+msgid "Combine Documents"
+msgstr "Belgeleri Birleştir"
+
+msgid "Combo Box Content Control"
+msgstr "Açılan Kutu İçerik Denetimi"
+
+msgid "Commands"
+msgstr "Komutlar"
+
+msgid "Commas"
+msgstr "Virgüller"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "PDF'lerde, baskılarda ve görüntülerde her sayfanın yanında açıklamalar ve izlenen değişiklikler; web sayfalarının, Markdown ve metnin sonunda açıklama listesi."
+
+msgid "Comments Pane"
+msgstr "Yorumlar Bölmesi"
+
+msgid "Common Accent Objects"
+msgstr "Sık Kullanılan Vurgulu Nesneler"
+
+msgid "Common Brackets"
+msgstr "Sık Kullanılan Parantezler"
+
+msgid "Common Fractions"
+msgstr "Sık Kullanılan Kesirler"
+
+msgid "Common Functions"
+msgstr "Sık Kullanılan Fonksiyonlar"
+
+msgid "Common Large Operators"
+msgstr "Sık Kullanılan Büyük İşleçler"
+
+msgid "Common Operator Structures"
+msgstr "Sık Kullanılan İşleç Yapıları"
+
+msgid "Common Operators"
+msgstr "Sık Kullanılan İşleçler"
+
+msgid "Common Radicals"
+msgstr "Sık Kullanılan Kökler"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Sık Kullanılan Alt ve Üst İndisler"
+
+msgid "Communication"
+msgstr "İletişim"
+
+msgid "Community\nDiscord"
+msgstr "Topluluk\nDiscord'u"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Compare Documents"
+msgstr "Belgeleri Karşılaştır"
+
+msgid "Compare to"
+msgstr "Karşılaştırılacak değer"
+
+msgid "Compared: {changes} changes"
+msgstr "Karşılaştırıldı: {changes} değişiklik"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Başka bir dosyayla karşılaştırma için masaüstü uygulaması gerekir."
+
+msgid "Comparison settings"
+msgstr "Karşılaştırma ayarları"
+
+msgid "Compress Pictures"
+msgstr "Resimleri Sıkıştır"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Satır başındaki noktalamayı sıkıştır"
+
+msgid "Conference"
+msgstr "Konferans"
+
+msgid "Conference paper"
+msgstr "Konferans bildirisi"
+
+msgid "CONFIDENTIAL"
+msgstr "GİZLİ"
+
+msgid "Confirm password:"
+msgstr "Parolayı onaylayın:"
+
+msgid "Connect Shapes"
+msgstr "Şekilleri Bağla"
+
+msgid "Container Title"
+msgstr "Kapsayıcı Başlığı"
+
+msgid "Content Control at Selection"
+msgstr "Seçimdeki İçerik Denetimi"
+
+msgid "Content Control Properties"
+msgstr "İçerik Denetimi Özellikleri"
+
+msgid "Contents can't be edited"
+msgstr "İçerik düzenlenemez"
+
+msgid "Context"
+msgstr "Bağlam"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Önceki bölümden devam et"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Sürekli"
+
+msgid "Continuous numbering"
+msgstr "Sürekli numaralandırma"
+
+msgid "Contour Integral"
+msgstr "Çevre İntegrali"
+
+msgid "Contour Integral with Limits"
+msgstr "Sınırlı Çevre İntegrali"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı Çevre İntegrali"
+
+msgid "Contour Integrals"
+msgstr "Çevre İntegralleri"
+
+msgid "Controls"
+msgstr "Denetimler"
+
+msgid "Conversions"
+msgstr "Dönüşümler"
+
+msgid "Convert between built-up and linear form"
+msgstr "Biçimlendirilmiş ve doğrusal biçim arasında dönüştür"
+
+msgid "Convert Notes"
+msgstr "Notları Dönüştür"
+
+msgid "Convert Text to Table"
+msgstr "Metni Tabloya Dönüştür"
+
+msgid "Convert Text to Table…"
+msgstr "Metni Tabloya Dönüştür…"
+
+msgid "Convert to Shapes"
+msgstr "Şekillere Dönüştür"
+
+msgid "Convert to Text"
+msgstr "Metne Dönüştür"
+
+msgid "Coproduct"
+msgstr "Eşçarpım"
+
+msgid "Coproduct with Limits"
+msgstr "Sınırlı Eşçarpım"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Alt Sınırlı Eşçarpım"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Alt ve Üst İndis Sınırlı Eşçarpım"
+
+msgid "Copy Formatting"
+msgstr "Biçimlendirmeyi Kopyala"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Yer işaretinin kapsadığı metnin kopyası"
+
+msgid "Copy Styles"
+msgstr "Stilleri Kopyala"
+
+msgid "Copy to"
+msgstr "Şuraya kopyala"
+
+msgid "Copyright Sign"
+msgstr "Telif Hakkı İşareti"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "cAPS LOCK tuşunun yanlışlıkla kullanımını düzelt"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "İKi BAşharfi büyük olan sözcükleri düzelt"
+
+msgid "Corrections"
+msgstr "Düzeltmeler"
+
+msgid "Cosecant Function"
+msgstr "Kosekant Fonksiyonu"
+
+msgid "Cosine 2x"
+msgstr "Kosinüs 2x"
+
+msgid "Cosine Function"
+msgstr "Kosinüs Fonksiyonu"
+
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+msgid "Cotangent Function"
+msgstr "Kotanjant Fonksiyonu"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "{name} indirilemedi: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "WordCraft varsayılan yapılamadı: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "{path} açılamadı: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Artış:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Metin kutularındaki ve notlardaki sözcükleri say"
+
+msgid "Courtesy Title"
+msgstr "Hitap"
+
+msgid "Cover Page"
+msgstr "Kapak Sayfası"
+
+msgid "Craft"
+msgstr "Zanaat"
+
+msgid "Create a Style"
+msgstr "Stil Oluştur"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Belgenizin etkileşimli ana hattını oluşturun.\n\nKonumunuzu takip etmek veya içeriğinizi hızla taşımak için kullanabilirsiniz.\n\nBaşlamak için Giriş sekmesine gidin ve belgenizin başlıklarına Başlık stillerini uygulayın."
+
+msgid "Create Graphic"
+msgstr "Grafik Oluştur"
+
+msgid "Create Link"
+msgstr "Bağlantı Oluştur"
+
+msgid "Create New Style"
+msgstr "Yeni Stil Oluştur"
+
+msgid "Create Source"
+msgstr "Kaynak Oluştur"
+
+msgid "Croatian"
+msgstr "Hırvatça"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Çapraz Başvuru"
+
+msgid "Cross-reference:"
+msgstr "Çapraz başvuru:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Küba"
+
+msgid "Cube Root"
+msgstr "Küp Kök"
+
+msgid "Current - Linear"
+msgstr "Geçerli - Doğrusal"
+
+msgid "Current - Professional"
+msgstr "Geçerli - Profesyonel"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Geçerli Konum"
+
+msgid "Current record"
+msgstr "Geçerli kayıt"
+
+msgid "Current style: {style}"
+msgstr "Geçerli stil: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Eğri Oklu Bağlayıcı"
+
+msgid "Curved Connector"
+msgstr "Eğri Bağlayıcı"
+
+msgid "Custom dictionary"
+msgstr "Özel sözlük"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Özel Kenar Boşlukları…"
+
+msgid "Custom mark:"
+msgstr "Özel işaret:"
+
+msgid "Custom range"
+msgstr "Özel aralık"
+
+msgid "Custom size"
+msgstr "Özel boyut"
+
+msgid "Custom Table of Contents…"
+msgstr "Özel İçindekiler Tablosu…"
+
+msgid "Custom Watermark"
+msgstr "Özel Filigran"
+
+msgid "Custom Watermark…"
+msgstr "Özel Filigran…"
+
+msgid "Customize"
+msgstr "Özelleştir"
+
+msgid "Customize Keyboard"
+msgstr "Klavyeyi Özelleştir"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğunu Özelleştir"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Hızlı Erişim Araç Çubuğunu Özelleştir…"
+
+msgid "Customize Ribbon"
+msgstr "Şeridi Özelleştir"
+
+msgid "Customize the Ribbon…"
+msgstr "Şeridi Özelleştir…"
+
+msgid "Cycle"
+msgstr "Döngü"
+
+msgid "Cyprus"
+msgstr "Kıbrıs"
+
+msgid "Czech"
+msgstr "Çekçe"
+
+msgid "Danish"
+msgstr "Danca"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Koyu Mod"
+
+msgid "Dark page (white text on black)"
+msgstr "Koyu sayfa (siyah üzerine beyaz metin)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Koyu çeşitler"
+
+msgid "Dark with Shadow"
+msgstr "Gölgeli Koyu"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Karanlık Oda"
+
+msgid "Data Labels"
+msgstr "Veri Etiketleri"
+
+msgid "Date & Time"
+msgstr "Tarih ve Saat"
+
+msgid "Date formats:"
+msgstr "Tarih biçimleri:"
+
+msgid "Date Picker Content Control"
+msgstr "Tarih Seçici İçerik Denetimi"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Decimal"
+msgstr "Ondalık"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Dekoratif nesneler yalnızca görsel çekicilik katar: ekran okuyucular bunları atlar."
+
+msgid "Decorative Text"
+msgstr "Dekoratif Metin"
+
+msgid "Decorative Text Styles"
+msgstr "Dekoratif Metin Stilleri"
+
+msgid "Decrease Indent"
+msgstr "Girintiyi Azalt"
+
+msgid "Deep"
+msgstr "Koyu"
+
+msgid "Default formatting"
+msgstr "Varsayılan biçimlendirme"
+
+msgid "Default Paragraph Font"
+msgstr "Varsayılan Paragraf Yazı Tipi"
+
+msgid "Default tab stops:"
+msgstr "Varsayılan sekme durakları:"
+
+msgid "Define New Bullet"
+msgstr "Yeni Madde İşareti Tanımla"
+
+msgid "Define New Multilevel List"
+msgstr "Yeni Çok Düzeyli Liste Tanımla"
+
+msgid "Define New Multilevel List…"
+msgstr "Yeni Çok Düzeyli Liste Tanımla…"
+
+msgid "Define New Number Format"
+msgstr "Yeni Numara Biçimi Tanımla"
+
+msgid "Deflate"
+msgstr "Söndür"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Denklemde İmlecin Çevresini Sil"
+
+msgid "Delete Back in Equation"
+msgstr "Denklemde Geri Sil"
+
+msgid "Delete Bookmark"
+msgstr "Yer İşaretini Sil"
+
+msgid "Delete Cells"
+msgstr "Hücreleri Sil"
+
+msgid "Delete Clipboard Item"
+msgstr "Pano Öğesini Sil"
+
+msgid "Delete Columns"
+msgstr "Sütunları Sil"
+
+msgid "Delete Comment"
+msgstr "Yorumu Sil"
+
+msgid "Delete in Equation"
+msgstr "Denklemde Sil"
+
+msgid "Delete Label"
+msgstr "Etiketi Sil"
+
+msgid "Delete Next Word"
+msgstr "Sonraki Sözcüğü Sil"
+
+msgid "Delete Previous Word"
+msgstr "Önceki Sözcüğü Sil"
+
+msgid "Delete Rows"
+msgstr "Satırları Sil"
+
+msgid "Delete Selected Ink"
+msgstr "Seçili Mürekkebi Sil"
+
+msgid "Delete Table"
+msgstr "Tabloyu Sil"
+
+msgid "Delete Table Style"
+msgstr "Tablo Stilini Sil"
+
+msgid "Deletions:"
+msgstr "Silmeler:"
+
+msgid "Delivery address:"
+msgstr "Teslimat adresi:"
+
+msgid "Delta Equal To"
+msgstr "Delta Eşittir"
+
+msgid "Delta over arrow"
+msgstr "Ok Üzerinde Delta"
+
+msgid "Demote"
+msgstr "Düzey Düşür"
+
+msgid "Demote to Body Text"
+msgstr "Gövde metnine düşür"
+
+msgid "Derivative as a limit"
+msgstr "Limit Olarak Türev"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Bu nesnenin neyi gösterdiğini, göremeyenler için açıklayın."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Bu tablonun neyi gösterdiğini, göremeyenler için açıklayın."
+
+msgid "Design"
+msgstr "Tasarım"
+
+msgid "Design Mode"
+msgstr "Tasarım Modu"
+
+msgid "Detach Template"
+msgstr "Şablonu Ayır"
+
+msgid "Detect language automatically"
+msgstr "Dili otomatik algıla"
+
+msgid "Developer"
+msgstr "Geliştirici"
+
+msgid "development build"
+msgstr "geliştirme derlemesi"
+
+msgid "Diagonal Dots"
+msgstr "Köşegen Üç Nokta"
+
+msgid "Diagram"
+msgstr "Diyagram"
+
+msgid "Diagram Design"
+msgstr "Diyagram Tasarımı"
+
+msgid "Diagram Styles"
+msgstr "Diyagram Stilleri"
+
+msgid "Dictate"
+msgstr "Dikte Et"
+
+msgid "Dictionaries"
+msgstr "Sözlükler"
+
+msgid "Dictionaries folder:"
+msgstr "Sözlük klasörü:"
+
+msgid "Dictionary files"
+msgstr "Sözlük dosyaları"
+
+msgid "Different First Page"
+msgstr "İlk Sayfa Farklı"
+
+msgid "Different Odd & Even Pages"
+msgstr "Tek ve Çift Sayfalar Farklı"
+
+msgid "Differential"
+msgstr "Diferansiyel"
+
+msgid "Differential theta"
+msgstr "Teta Diferansiyeli"
+
+msgid "Differential x"
+msgstr "x Diferansiyeli"
+
+msgid "Differential y"
+msgstr "y Diferansiyeli"
+
+msgid "Differentials"
+msgstr "Diferansiyeller"
+
+msgid "Direct formatting"
+msgstr "Doğrudan biçimlendirme"
+
+msgid "Directory"
+msgstr "Katalog"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord topluluğu"
+
+msgid "Display for Review"
+msgstr "İnceleme Görünümü"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Görünen metin"
+
+msgid "Distance from text"
+msgstr "Metinden uzaklık"
+
+msgid "Distance from text:"
+msgstr "Metinden uzaklık:"
+
+msgid "Distribute Columns"
+msgstr "Sütunları Eşit Dağıt"
+
+msgid "Distribute letters"
+msgstr "Harfleri dağıt"
+
+msgid "Distribute Rows"
+msgstr "Satırları Eşit Dağıt"
+
+msgid "Distribute spacing"
+msgstr "Aralığı dağıt"
+
+msgid "Distributed"
+msgstr "Dağıtılmış"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Yazım veya dilbilgisini denetleme"
+
+msgid "Do not check spelling or grammar"
+msgstr "Yazım ve dil bilgisini denetleme"
+
+msgid "DO NOT COPY"
+msgstr "KOPYALAMAYIN"
+
+msgid "Do Not Show in TOC"
+msgstr "İçindekilerde Gösterme"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "{name} içindeki değişiklikleri kaydetmek istiyor musunuz?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Belge Sonu"
+
+msgid "Document Formatting"
+msgstr "Belge Biçimlendirmesi"
+
+msgid "Document Grid"
+msgstr "Belge Kılavuzu"
+
+msgid "Document Information"
+msgstr "Belge Bilgileri"
+
+msgid "Document name"
+msgstr "Belge adı"
+
+msgid "Document Property"
+msgstr "Belge Özelliği"
+
+msgid "Document Start"
+msgstr "Belge Başı"
+
+msgid "Document template:"
+msgstr "Belge şablonu:"
+
+msgid "Document Text"
+msgstr "Belge Metni"
+
+msgid "Document1"
+msgstr "Belge1"
+
+msgid "Document\nPreferences"
+msgstr "Belge\nTercihleri"
+
+msgid "Documents you open will show up here."
+msgstr "Açtığınız belgeler burada görünür."
+
+msgid "Does not contain"
+msgstr "İçermez"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Dominik Cumhuriyeti"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Aynı stildeki paragraflar arasına boşluk ekleme"
+
+msgid "Don't capitalize after:"
+msgstr "Şundan sonra büyük harf yapma:"
+
+msgid "Don't hyphenate"
+msgstr "Heceleme yapma"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Zotero, Mendeley ve EndNote atıfları ile kaynakçaları okunmaz"
+
+msgid "Don't show me this tip again"
+msgstr "Bu ipucunu bir daha gösterme"
+
+msgid "Dot dash"
+msgstr "Nokta çizgi"
+
+msgid "Dot-dash"
+msgstr "Nokta-çizgi"
+
+msgid "Dot-dot-dash"
+msgstr "Nokta-nokta-çizgi"
+
+msgid "Double"
+msgstr "Çift"
+
+msgid "Double Bar"
+msgstr "Çift Çubuk"
+
+msgid "Double Closing Quote"
+msgstr "Çift Kapanış Tırnağı"
+
+msgid "Double Dot"
+msgstr "İki Nokta"
+
+msgid "Double Integral"
+msgstr "İkili İntegral"
+
+msgid "Double Integral with Limits"
+msgstr "Sınırlı İkili İntegral"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı İkili İntegral"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Üstünde Metin Olan Çift Sola Ok"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Altında Metin Olan Çift Sola Ok"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Üstünde Metin Olan Çift Yönlü Çift Ok"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Altında Metin Olan Çift Yönlü Çift Ok"
+
+msgid "Double Opening Quote"
+msgstr "Çift Açılış Tırnağı"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Üstünde Metin Olan Çift Sağa Ok"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Altında Metin Olan Çift Sağa Ok"
+
+msgid "Double Spacing"
+msgstr "Çift Satır Aralığı"
+
+msgid "Double Square Brackets"
+msgstr "Çift Köşeli Parantez"
+
+msgid "Double Strikethrough"
+msgstr "Çift Üstü Çizili"
+
+msgid "Double strikethrough"
+msgstr "Çift üstü çizili"
+
+msgid "Double summation"
+msgstr "Çift Toplam"
+
+msgid "Double Underline"
+msgstr "Çift Altı Çizili"
+
+msgid "Double Vertical Bars"
+msgstr "Çift Dikey Çubuk"
+
+msgid "Doughnut"
+msgstr "Halka"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "İndirme kapalı. “Dil ekle…” veya “Yükle” düğmesine tıklamak onu açar: WordCraft bundan sonra dil paketlerini ve yazı tiplerini GitHub’dan indirir."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "TASLAK"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Tablo çizmek için bir dikdörtgen, hücreleri bölmek için üzerlerinden bir çizgi sürükleyin. Esc ile bitirin."
+
+msgid "Draw Ink"
+msgstr "Mürekkeple Çiz"
+
+msgid "Draw Table"
+msgstr "Tablo Çiz"
+
+msgid "Draw\nTable"
+msgstr "Tablo\nÇiz"
+
+msgid "Drawing Canvas"
+msgstr "Çizim Tuvali"
+
+msgid "Drawing Tools"
+msgstr "Çizim Araçları"
+
+msgid "Drawing\nCanvas"
+msgstr "Çizim\nTuvali"
+
+msgid "Drop Cap"
+msgstr "Büyük Başlangıç Harfi"
+
+msgid "Drop cap"
+msgstr "Büyük başlangıç harfi"
+
+msgid "Drop Cap Options…"
+msgstr "Büyük başlangıç harfi seçenekleri…"
+
+msgid "drop caps can't go in a table"
+msgstr "tabloya büyük başlangıç harfi konamaz"
+
+msgid "Drop-Down List Content Control"
+msgstr "Açılır Liste İçerik Denetimi"
+
+msgid "Dropped"
+msgstr "Metin içinde"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Tüm biçimlendirmeyi kaldırır ve düz metin yapıştırır."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Felemenkçe, Nederlands veya nl"
+
+msgid "E-mail Messages"
+msgstr "E-posta İletileri"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ekvador"
+
+msgid "Edit Comment"
+msgstr "Yorumu Düzenle"
+
+msgid "Edit Data"
+msgstr "Verileri Düzenle"
+
+msgid "Edit Document"
+msgstr "Belgeyi Düzenle"
+
+msgid "Edit Equation"
+msgstr "Denklemi Düzenle"
+
+msgid "Edit Field Code"
+msgstr "Alan Kodunu Düzenle"
+
+msgid "Edit Field…"
+msgstr "Alanı Düzenle…"
+
+msgid "Edit Footer"
+msgstr "Altbilgiyi Düzenle"
+
+msgid "Edit Header"
+msgstr "Üstbilgiyi Düzenle"
+
+msgid "Edit Individual Documents…"
+msgstr "Belgeleri Ayrı Ayrı Düzenle…"
+
+msgid "Edit Items"
+msgstr "Öğeleri Düzenle"
+
+msgid "Edit Recipient List"
+msgstr "Alıcı Listesini Düzenle"
+
+msgid "Edit Source"
+msgstr "Kaynağı Düzenle"
+
+msgid "Edit\nData"
+msgstr "Verileri\nDüzenle"
+
+msgid "Edit\nRecipient List"
+msgstr "Alıcı Listesini\nDüzenle"
+
+msgid "Edited"
+msgstr "Düzenlendi"
+
+msgid "Editing endnote"
+msgstr "Sonnot düzenleniyor"
+
+msgid "Editing footnote"
+msgstr "Dipnot düzenleniyor"
+
+msgid "Editing header/footer"
+msgstr "Üstbilgi/altbilgi düzenleniyor"
+
+msgid "Editing in this document is restricted."
+msgstr "Bu belgede düzenleme kısıtlanmıştır."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Düzenleme — belgeyi doğrudan düzenleyin"
+
+msgid "Edition"
+msgstr "Baskı"
+
+msgid "Editor"
+msgstr "Düzenleyici"
+
+msgid "Egypt"
+msgstr "Mısır"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Dirsekli Oklu Bağlayıcı"
+
+msgid "Elbow Connector"
+msgstr "Dirsekli Bağlayıcı"
+
+msgid "Emphasis"
+msgstr "Vurgu"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Boş Matrisler"
+
+msgid "Enclose Characters"
+msgstr "Karakterleri Çevrele"
+
+msgid "Enclosure"
+msgstr "Çerçeve"
+
+msgid "Encrypt with Password"
+msgstr "Parolayla Şifrele"
+
+msgid "Encrypt with Password…"
+msgstr "Parolayla Şifrele…"
+
+msgid "End of document"
+msgstr "Belge sonu"
+
+msgid "End of section"
+msgstr "Bölüm sonu"
+
+msgid "End of Word"
+msgstr "Sözcük Sonu"
+
+msgid "Endnote Reference"
+msgstr "Sonnot Başvurusu"
+
+msgid "Endnote Text"
+msgstr "Sonnot Metni"
+
+msgid "Endnotes"
+msgstr "Son notlar"
+
+msgid "Endnotes to footnotes"
+msgstr "Son notlardan dipnotlara"
+
+msgid "English (Australia)"
+msgstr "İngilizce (Avustralya)"
+
+msgid "English (Canada)"
+msgstr "İngilizce (Kanada)"
+
+msgid "English (India)"
+msgstr "İngilizce (Hindistan)"
+
+msgid "English (Ireland)"
+msgstr "İngilizce (İrlanda)"
+
+msgid "English (New Zealand)"
+msgstr "İngilizce (Yeni Zelanda)"
+
+msgid "English (South Africa)"
+msgstr "İngilizce (Güney Afrika)"
+
+msgid "English (United Kingdom)"
+msgstr "İngilizce (Birleşik Krallık)"
+
+msgid "English (United States)"
+msgstr "İngilizce (Amerika Birleşik Devletleri)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "İngilizce, bu belgenin dilleri ve yüklü her dil paketi. Dil paketleri yazım sözlükleri ve heceleme ekler."
+
+msgid "Engrave"
+msgstr "Oyma"
+
+msgid "Enlarge symbol"
+msgstr "Simgeyi büyüt"
+
+msgid "Enter a number."
+msgstr "Bir sayı girin."
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "Numara biçimini girin:"
+
+msgid "Enter in Equation"
+msgstr "Denklemde Yeni Satır"
+
+msgid "Enter page number:"
+msgstr "Sayfa numarası girin:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Girdi işaretlendi."
+
+msgid "Envelope #10"
+msgstr "Zarf No. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Zarf Adresi"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Zarf İade Adresi"
+
+msgid "Envelope size:"
+msgstr "Zarf boyutu:"
+
+msgid "Envelopes"
+msgstr "Zarflar"
+
+msgid "Equal by Definition"
+msgstr "Tanım Gereği Eşittir"
+
+msgid "Equal column width"
+msgstr "Eşit sütun genişliği"
+
+msgid "Equal Equal"
+msgstr "Eşittir Eşittir"
+
+msgid "Equal to"
+msgstr "Eşittir"
+
+msgid "Equals:"
+msgstr "Eşittir:"
+
+msgid "Equation"
+msgstr "Denklem"
+
+msgid "Equation Gallery"
+msgstr "Denklem Galerisi"
+
+msgid "Equation Info"
+msgstr "Denklem Bilgisi"
+
+msgid "Equation Number"
+msgstr "Denklem Numarası"
+
+msgid "Equation Options"
+msgstr "Denklem Seçenekleri"
+
+msgid "Equatorial Guinea"
+msgstr "Ekvator Ginesi"
+
+msgid "Erase Ink"
+msgstr "Mürekkebi Sil"
+
+msgid "Errors ({n})"
+msgstr "Hatalar ({n})"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estonca"
+
+msgid "Euler's identity"
+msgstr "Euler Özdeşliği"
+
+msgid "Even Banded Columns"
+msgstr "Çift Şeritli Sütunlar"
+
+msgid "Even Banded Rows"
+msgstr "Çift Şeritli Satırlar"
+
+msgid "Even Page"
+msgstr "Çift Sayfa"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Her değişiklik izlenen değişiklik olarak kaydedilir."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Her komut betiklere ve AI ajanlarına açıktır: MCP sunucusu için `wordcraft-cli mcp` çalıştırın veya JSON denetim kanalı için uygulamayı `--control <port>` ile başlatın."
+
+msgid "Every field needs a name."
+msgstr "Her alanın bir adı olmalıdır."
+
+msgid "Everyone"
+msgstr "Herkes"
+
+msgid "Exactly"
+msgstr "Tam"
+
+msgid "Exactly {n}"
+msgstr "Tam {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Özel durumlar (isteğe bağlı)"
+
+msgid "Exceptions…"
+msgstr "Özel durumlar…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Varolan Dosya veya Web Sayfası"
+
+msgid "Expand or Collapse Heading"
+msgstr "Başlığı genişlet veya daralt"
+
+msgid "Exponential"
+msgstr "Üstel"
+
+msgid "Exponential series"
+msgstr "Üstel Seri"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Paylaşmak için bir kopya dışa aktarın (PDF, Word belgesi)"
+
+msgid "Export Page as PNG"
+msgstr "Sayfayı PNG Olarak Dışa Aktar"
+
+msgid "Extend Selection"
+msgstr "Seçimi Genişlet"
+
+msgid "Extend Selection by Units"
+msgstr "Seçimi Birimlere Göre Genişlet"
+
+msgid "Extra space"
+msgstr ""
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Daha hızlısı: {command} klavyede {key}."
+
+msgid "Field code:"
+msgstr "Alan kodu:"
+
+msgid "Field Codes"
+msgstr "Alan Kodları"
+
+msgid "Field codes:"
+msgstr "Alan kodları:"
+
+msgid "Field name"
+msgstr "Alan adı"
+
+msgid "Field name:"
+msgstr "Alan adı:"
+
+msgid "Field names must be different."
+msgstr "Alan adları farklı olmalıdır."
+
+msgid "Field names:"
+msgstr "Alan adları:"
+
+msgid "Field:"
+msgstr "Alan:"
+
+msgid "Field…"
+msgstr "Alan…"
+
+msgid "Figure"
+msgstr "Şekil"
+
+msgid "File locations"
+msgstr "Dosya konumları"
+
+msgid "File name:"
+msgstr "Dosya adı:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Dosya › Yeni, buradaki .dotx ve .dotm şablonlarını Kişisel altında listeler; Word şablonu olarak kaydet buradan başlar."
+
+msgid "Fill color:"
+msgstr "Dolgu rengi:"
+
+msgid "Filling in forms"
+msgstr "Form doldurma"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Filtrele ve sırala"
+
+msgid "Filter Recipients"
+msgstr "Alıcıları filtrele"
+
+msgid "Find in list:"
+msgstr "Listede bul:"
+
+msgid "Find Next Editable Region"
+msgstr "Sonraki Düzenlenebilir Bölgeyi Bul"
+
+msgid "Find Previous"
+msgstr "Öncekini Bul"
+
+msgid "Find Recipient"
+msgstr "Alıcı Bul"
+
+msgid "Find What Expression"
+msgstr "Aranan İfade"
+
+msgid "Find What Text"
+msgstr "Aranan Metin"
+
+msgid "Find what:"
+msgstr "Aranan:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "Yazıcılar aranıyor…"
+
+msgid "Finish & Merge"
+msgstr "Bitir ve Birleştir"
+
+msgid "Finish &\nMerge"
+msgstr "Bitir ve\nBirleştir"
+
+msgid "Finished"
+msgstr "Tamamlandı"
+
+msgid "Finland"
+msgstr "Finlandiya"
+
+msgid "Finnish"
+msgstr "Fince"
+
+msgid "First Column"
+msgstr "İlk Sütun"
+
+msgid "First line"
+msgstr "İlk satır"
+
+msgid "First line:"
+msgstr "İlk satır:"
+
+msgid "First Name"
+msgstr "Ad"
+
+msgid "First Record"
+msgstr "İlk Kayıt"
+
+msgid "First row of data contains column headers"
+msgstr "Verinin ilk satırı sütun başlıklarını içerir"
+
+msgid "Fix Position on Page"
+msgstr "Sayfadaki konumu sabitle"
+
+msgid "Fixed Column Width"
+msgstr "Sabit Sütun Genişliği"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Aşağı Yuvarlama"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Numaradan sonra:"
+
+msgid "Font Color"
+msgstr "Yazı Tipi Rengi"
+
+msgid "Font color"
+msgstr "Yazı tipi rengi"
+
+msgid "Font color:"
+msgstr "Yazı tipi rengi:"
+
+msgid "Font Dialog"
+msgstr "Yazı Tipi İletişim Kutusu"
+
+msgid "Font: {font}"
+msgstr "Yazı tipi: {font}"
+
+msgid "Font…"
+msgstr "Yazı Tipi…"
+
+msgid "Footer"
+msgstr "Altbilgi"
+
+msgid "Footnote and Endnote"
+msgstr "Dipnot ve Sonnot"
+
+msgid "Footnote Reference"
+msgstr "Dipnot Başvurusu"
+
+msgid "Footnote Text"
+msgstr "Dipnot Metni"
+
+msgid "Footnotes"
+msgstr "Dipnotlar"
+
+msgid "Footnotes and endnotes"
+msgstr "Dipnotlar ve sonnotlar"
+
+msgid "Footnotes to endnotes"
+msgstr "Dipnotlardan son notlara"
+
+msgid "For which item:"
+msgstr "Hangi öğe için:"
+
+msgid "Format Page Numbers"
+msgstr "Sayfa Numaralarını Biçimlendir"
+
+msgid "Format Page Numbers…"
+msgstr "Sayfa Numaralarını Biçimlendir…"
+
+msgid "Format Painter"
+msgstr "Biçim Fırçası"
+
+msgid "Format Shape"
+msgstr "Şekli Biçimlendir"
+
+msgid "Format Shape Pane"
+msgstr "Şekli Biçimlendir bölmesi"
+
+msgid "Format Shape…"
+msgstr "Şekli Biçimlendir…"
+
+msgid "Formatted"
+msgstr "Biçimlendirildi"
+
+msgid "Formatted Text"
+msgstr "Biçimlendirilmiş Metin"
+
+msgid "Formatting"
+msgstr "Biçimlendirme"
+
+msgid "Formatting at Selection"
+msgstr "Seçimdeki Biçimlendirme"
+
+msgid "Formatting exceptions"
+msgstr "Biçimlendirme özel durumları"
+
+msgid "Formatting marks"
+msgstr "Biçimlendirme işaretleri"
+
+msgid "Formatting saved for new documents:"
+msgstr "Yeni belgeler için kaydedilen biçimlendirme:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Biçimlendirme, harf büyüklüğü, boşluklar ve tablolar karşılaştırılır; diğer ayarlar daha sonra için saklanır."
+
+msgid "Formula"
+msgstr "Formül"
+
+msgid "Formula:"
+msgstr "Formül:"
+
+msgid "Forward"
+msgstr "İleri"
+
+msgid "Fraction"
+msgstr "Kesir"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Kesirleri (1/2) kesir karakteri (½) olarak yaz"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "Fransa"
+
+msgid "French (France)"
+msgstr "Fransızca (Fransa)"
+
+msgid "From Bottom Left Corner"
+msgstr "sol alt köşeden"
+
+msgid "From Bottom Right Corner"
+msgstr "sağ alt köşeden"
+
+msgid "From Center"
+msgstr "Merkezden"
+
+msgid "From text:"
+msgstr "Metinden:"
+
+msgid "From Top Left Corner"
+msgstr "sol üst köşeden"
+
+msgid "From Top Right Corner"
+msgstr "sağ üst köşeden"
+
+msgid "from Unicode (hex)"
+msgstr "Unicode'dan (onaltılık)"
+
+msgid "From {name}"
+msgstr "Gönderen: {name}"
+
+msgid "From:"
+msgstr "Başlangıç:"
+
+msgid "Full page of the same label"
+msgstr "Aynı etiketten tam sayfa"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Tam Ekran Görünümü"
+
+msgid "Full\nScreen"
+msgstr "Tam\nekran"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "İlginç bilgi: boş sayfa, henüz ne anlatacağı söylenmemiş bir taslaktır."
+
+msgid "Function"
+msgstr "Fonksiyon"
+
+msgid "Galician"
+msgstr "Galiçyaca"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "Gürcüce"
+
+msgid "German (Germany)"
+msgstr "Almanca (Almanya)"
+
+msgid "Germany"
+msgstr "Almanya"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Dil paketlerinin listesini, ardından varsa bu dilin paketini alır."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Parlama Renkleri"
+
+msgid "Go Back"
+msgstr "Geri Git"
+
+msgid "Go To"
+msgstr "Git"
+
+msgid "Go to"
+msgstr "Git"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Git (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Kayda Git"
+
+msgid "Go to what:"
+msgstr "Gidilecek yer:"
+
+msgid "Go To…"
+msgstr "Git…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Gitti! Hiç yazılmamış gibi. Çünkü artık gerçekten yazılmamış."
+
+msgid "Good afternoon"
+msgstr "Tünaydın"
+
+msgid "Good evening"
+msgstr "İyi akşamlar"
+
+msgid "Good morning"
+msgstr "Günaydın"
+
+msgid "GOST (name sort)"
+msgstr ""
+
+msgid "GOST (title sort)"
+msgstr ""
+
+msgid "Grab bag"
+msgstr "Çeşitli"
+
+msgid "Gradient fill"
+msgstr "Degrade dolgu"
+
+msgid "Gradient stops"
+msgstr "Degrade durakları"
+
+msgid "Grammar built in"
+msgstr "Dil bilgisi yerleşik"
+
+msgid "Grave"
+msgstr "Pes Vurgu"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Büyüktür"
+
+msgid "Greater than or equal"
+msgstr "Büyük veya eşittir"
+
+msgid "Greek"
+msgstr "Yunanca"
+
+msgid "Greek Letters"
+msgstr "Yunan Harfleri"
+
+msgid "Green:"
+msgstr "Yeşil:"
+
+msgid "Greeting Line"
+msgstr "Selamlama Satırı"
+
+msgid "Greeting\nLine"
+msgstr "Selamlama\nSatırı"
+
+msgid "Grid Table 1 Light"
+msgstr "Kılavuz Tablo 1 Açık"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Kılavuz Tablo 4 – Mavi"
+
+msgid "Grid Table 4 – Green"
+msgstr "Kılavuz Tablo 4 – Yeşil"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Kılavuz Tablo 4 – Turuncu"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Kılavuz Tablo 4 – Mor"
+
+msgid "Gridlines"
+msgstr "Kılavuz Çizgileri"
+
+msgid "Grouping Character Above"
+msgstr "Üstte Gruplandırma Karakteri"
+
+msgid "Grouping Character Below"
+msgstr "Altta Gruplandırma Karakteri"
+
+msgid "Grow Font 1 Point"
+msgstr "Yazı Tipini 1 Punto Büyüt"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "Y:"
+
+msgid "Hanging Indent"
+msgstr "Asılı Girinti"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr "Şapka"
+
+msgid "Header"
+msgstr "Üstbilgi"
+
+msgid "Header & Footer"
+msgstr "Üstbilgi ve Altbilgi"
+
+msgid "Header Row"
+msgstr "Başlık Satırı"
+
+msgid "Header row"
+msgstr "Başlık satırı"
+
+msgid "Header/Footer Position"
+msgstr "Üstbilgi/Altbilgi Konumu"
+
+msgid "Headers and footers"
+msgstr "Üst bilgiler ve alt bilgiler"
+
+msgid "Heading"
+msgstr "Başlık"
+
+msgid "Heading 1"
+msgstr "Başlık 1"
+
+msgid "Heading 2"
+msgstr "Başlık 2"
+
+msgid "Heading 3"
+msgstr "Başlık 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Başlık stilleri (1–{n}. düzeyler)"
+
+msgid "Heading text"
+msgstr "Başlık metni"
+
+msgid "Heading {n}"
+msgstr "Başlık {n}"
+
+msgid "Hebrew"
+msgstr "İbranice"
+
+msgid "Hex:"
+msgstr "Onaltılık:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Merhaba! Ben Nib, yazma asistanınız. İpuçları, kısayollar ve ara sıra kimsenin sormadığı fikirler sunarım. Ortalarda kalayım mı?"
+
+msgid "Hidden bookmarks"
+msgstr "Gizli yer işaretleri"
+
+msgid "Hide Codes"
+msgstr "Kodları Gizle"
+
+msgid "Hide from style lists"
+msgstr "Stil listelerinde gizle"
+
+msgid "Hide Ink"
+msgstr "Mürekkebi Gizle"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğunu Gizle"
+
+msgid "Hide White Space"
+msgstr "Boşluğu gizle"
+
+msgid "Hide\nInk"
+msgstr "Mürekkebi\nGizle"
+
+msgid "Hierarchy"
+msgstr "Hiyerarşi"
+
+msgid "Highlight"
+msgstr "Vurgu"
+
+msgid "Highlight Merge Fields"
+msgstr "Birleştirme Alanlarını Vurgula"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Birleştirme\nAlanlarını Vurgula"
+
+msgid "Highlighter"
+msgstr "Vurgulayıcı"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Ana klasör"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "Hong Kong ÖİB"
+
+msgid "Horizontal Line"
+msgstr "Yatay Çizgi"
+
+msgid "How many pages the whole document has"
+msgstr "Belgenin toplam sayfa sayısı"
+
+msgid "How many pages this section has"
+msgstr "Bu bölümün sayfa sayısı"
+
+msgid "How many words the document holds"
+msgstr "Belgedeki sözcük sayısı"
+
+msgid "HTML Format"
+msgstr "HTML Biçimi"
+
+msgid "Hue:"
+msgstr "Ton:"
+
+msgid "Hungarian"
+msgstr "Macarca"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Bu klasördeki Hunspell .aff ve .dic dosyaları (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) sistemdekilerden önce kullanılır."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hiperbolik Kosekant Fonksiyonu"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hiperbolik Kosinüs Fonksiyonu"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hiperbolik Kotanjant Fonksiyonu"
+
+msgid "Hyperbolic Functions"
+msgstr "Hiperbolik Fonksiyonlar"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hiperbolik Sekant Fonksiyonu"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hiperbolik Sinüs Fonksiyonu"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hiperbolik Tanjant Fonksiyonu"
+
+msgid "Hyperlink"
+msgstr "Köprü"
+
+msgid "Hyphenate at:"
+msgstr "Hecele:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "BÜYÜK HARFLİ sözcükleri hecele"
+
+msgid "Hyphenation Options…"
+msgstr "Heceleme Seçenekleri…"
+
+msgid "Hyphenation zone:"
+msgstr "Heceleme bölgesi:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Kısa çizgileri (--) uzun çizgi (—) olarak yaz"
+
+msgid "Hypotenuse"
+msgstr "Hipotenüs"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Söz veriyorum, kaydedildi. Kontrol ettim. İki kez."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Ben de bir şeyler yazardım ama sivri dilliyim, mürekkebim yok."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "İzlandaca"
+
+msgid "Icon Color"
+msgstr "Simge Rengi"
+
+msgid "Icons"
+msgstr "Simgeler"
+
+msgid "Identity Matrices"
+msgstr "Birim Matrisler"
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "Eğer…O Zaman…Yoksa"
+
+msgid "If…Then…Else…"
+msgstr "Eğer…O Zaman…Yoksa…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Noktalama karakterlerini yoksay"
+
+msgid "Ignore web and file addresses"
+msgstr "Web ve dosya adreslerini yoksay"
+
+msgid "Ignore white-space characters"
+msgstr "Boşluk karakterlerini yoksay"
+
+msgid "Ignore words in capitals"
+msgstr "Büyük harfli sözcükleri yoksay"
+
+msgid "Ignore words with numbers"
+msgstr "Rakam içeren sözcükleri yoksay"
+
+msgid "Illustrations"
+msgstr "Çizimler"
+
+msgid "Immersive"
+msgstr "Odaklı"
+
+msgid "Immersive Reader"
+msgstr "Odaklı Okuyucu"
+
+msgid "Immersive\nReader"
+msgstr "Odaklı\nOkuyucu"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Varsayılan uygulamalar bölümünde, WordCraft'ın açmasını istediğiniz belge türlerini seçin."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Denklemlerde ters eğik çizgiden sonra yazılan ad, simgesiyle değiştirilir."
+
+msgid "In Front of Text"
+msgstr "Metnin Önünde"
+
+msgid "In Line with Text"
+msgstr "Metinle Aynı Hizada"
+
+msgid "In margin"
+msgstr "Kenar boşluğunda"
+
+msgid "In the margin"
+msgstr "Kenarda"
+
+msgid "Include label and number"
+msgstr "Etiketi ve numarayı ekle"
+
+msgid "Include level number from:"
+msgstr "Şu düzeyin numarasını ekle:"
+
+msgid "Include page numbers"
+msgstr "Sayfa numaralarını ekle"
+
+msgid "Increase Indent"
+msgstr "Girintiyi Artır"
+
+msgid "Indent"
+msgstr "Girinti"
+
+msgid "Indent from left:"
+msgstr "Soldan girinti:"
+
+msgid "Indentation"
+msgstr "Girintileme"
+
+msgid "Indented"
+msgstr "Girintili"
+
+msgid "Indents"
+msgstr "Girintiler"
+
+msgid "Indents and Spacing"
+msgstr "Girintiler ve Aralık"
+
+msgid "Index and Tables"
+msgstr "Dizin ve Tablolar"
+
+msgid "Index Heading"
+msgstr "Dizin Başlığı"
+
+msgid "Index {n}"
+msgstr "Dizin {n}"
+
+msgid "India"
+msgstr "Hindistan"
+
+msgid "Indonesian"
+msgstr "Endonezyaca"
+
+msgid "Initial column width:"
+msgstr "Başlangıç sütun genişliği:"
+
+msgid "Initials:"
+msgstr "Baş harfler:"
+
+msgid "Ink"
+msgstr "Mürekkep"
+
+msgid "Ink Replay"
+msgstr "Mürekkep Yeniden Oynatma"
+
+msgid "Ink to Shape"
+msgstr "Mürekkepten Şekle"
+
+msgid "Ink to\nMath"
+msgstr "Mürekkebi\nMatematiğe Dönüştür"
+
+msgid "Ink to\nShape"
+msgstr "Mürekkebi\nŞekle Dönüştür"
+
+msgid "Ink\nReplay"
+msgstr "Mürekkebi\nYeniden Oynat"
+
+msgid "Inline"
+msgstr "Satır İçi"
+
+msgid "Input Format"
+msgstr "Girdi Biçimi"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Yeni denklem ekle (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Üste Ekle"
+
+msgid "Insert Below"
+msgstr "Alta Ekle"
+
+msgid "Insert Caption"
+msgstr "Resim Yazısı Ekle"
+
+msgid "Insert Caption…"
+msgstr "Resim Yazısı Ekle…"
+
+msgid "Insert Chart"
+msgstr "Grafik Ekle"
+
+msgid "Insert Citation"
+msgstr "Atıf Ekle"
+
+msgid "Insert Columns to the Left"
+msgstr "Sola Sütun Ekle"
+
+msgid "Insert Columns to the Right"
+msgstr "Sağa Sütun Ekle"
+
+msgid "Insert Date Field"
+msgstr "Tarih Alanı Ekle"
+
+msgid "Insert Diagram"
+msgstr "Diyagram Ekle"
+
+msgid "Insert Endnote"
+msgstr "Sonnot Ekle"
+
+msgid "Insert Footnote"
+msgstr "Dipnot Ekle"
+
+msgid "Insert Hyperlink"
+msgstr "Bağlantı Ekle"
+
+msgid "Insert Index"
+msgstr "Dizin Ekle"
+
+msgid "Insert Left"
+msgstr "Sola Ekle"
+
+msgid "Insert Merge Field"
+msgstr "Birleştirme Alanı Ekle"
+
+msgid "Insert Merge\nField"
+msgstr "Birleştirme\nAlanı Ekle"
+
+msgid "Insert New Equation"
+msgstr "Yeni Denklem Ekle"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Bir alanın değerine göre farklı bir metin ekler."
+
+msgid "Insert Page Field"
+msgstr "Sayfa Alanı Ekle"
+
+msgid "Insert reference to:"
+msgstr "Başvuru ekle:"
+
+msgid "Insert Right"
+msgstr "Sağa Ekle"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Tıklayarak Satır veya Sütun Ekle"
+
+msgid "Insert Rows Above"
+msgstr "Üste Satır Ekle"
+
+msgid "Insert Rows Below"
+msgstr "Alta Satır Ekle"
+
+msgid "Insert Shapes"
+msgstr "Şekil Ekle"
+
+msgid "Insert SmartArt"
+msgstr "SmartArt Ekle"
+
+msgid "Insert Spike"
+msgstr "Biriktiriciyi Ekle"
+
+msgid "Insert Structure"
+msgstr "Yapı Ekle"
+
+msgid "Insert Symbol"
+msgstr "Sembol Ekle"
+
+msgid "Insert Table"
+msgstr "Tablo Ekle"
+
+msgid "Insert Table of Authorities"
+msgstr "Hukuki Kaynaklar Tablosu Ekle"
+
+msgid "Insert Table of Figures"
+msgstr "Şekiller Listesi Ekle"
+
+msgid "Insert Table…"
+msgstr "Tablo Ekle…"
+
+msgid "Insert Time Field"
+msgstr "Saat Alanı Ekle"
+
+msgid "Insert\nAbove"
+msgstr "Üste\nEkle"
+
+msgid "Insert\nCaption"
+msgstr "Resim Yazısı\nEkle"
+
+msgid "Insert\nCitation"
+msgstr "Atıf\nEkle"
+
+msgid "Insert\nFootnote"
+msgstr "Dipnot\nEkle"
+
+msgid "Insertions and Deletions"
+msgstr "Eklemeler ve Silmeler"
+
+msgid "Insertions:"
+msgstr "Eklemeler:"
+
+msgid "Inside Borders"
+msgstr "İç Kenarlıklar"
+
+msgid "Inside Horizontal Border"
+msgstr "İç Yatay Kenarlık"
+
+msgid "Inside Vertical Border"
+msgstr "İç Dikey Kenarlık"
+
+msgid "Inside:"
+msgstr "İç:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Seçimdeki Stilleri İncele"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Yazımı yükle ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Kurum"
+
+msgid "Integral"
+msgstr "İntegral"
+
+msgid "Integral of e^(−x²)"
+msgstr "e^(−x²) İntegrali"
+
+msgid "Integral with Limits"
+msgstr "Sınırlı İntegral"
+
+msgid "Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı İntegral"
+
+msgid "Integrals"
+msgstr "İntegraller"
+
+msgid "Intense Emphasis"
+msgstr "Yoğun Vurgu"
+
+msgid "Intense Quote"
+msgstr "Yoğun Alıntı"
+
+msgid "Intense Reference"
+msgstr "Yoğun Başvuru"
+
+msgid "Interface language:"
+msgstr "Arayüz dili:"
+
+msgid "Interface size:"
+msgstr "Arabirim boyutu:"
+
+msgid "Interface theme:"
+msgstr "Arayüz teması:"
+
+msgid "Interface\nTheme"
+msgstr "Arayüz\nTeması"
+
+msgid "Internet addresses as links"
+msgstr "İnternet adreslerini bağlantı yap"
+
+msgid "Intersection with Limits"
+msgstr "Sınırlı Kesişim"
+
+msgid "Intersection with Lower Limit"
+msgstr "Alt Sınırlı Kesişim"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Alt ve Üst İndis Sınırlı Kesişim"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Ters Kosekant Fonksiyonu"
+
+msgid "Inverse Cosine Function"
+msgstr "Ters Kosinüs Fonksiyonu"
+
+msgid "Inverse Cotangent Function"
+msgstr "Ters Kotanjant Fonksiyonu"
+
+msgid "Inverse Functions"
+msgstr "Ters Fonksiyonlar"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Ters Hiperbolik Kosekant Fonksiyonu"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Ters Hiperbolik Kosinüs Fonksiyonu"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Ters Hiperbolik Kotanjant Fonksiyonu"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Ters Hiperbolik Fonksiyonlar"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Ters Hiperbolik Sekant Fonksiyonu"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Ters Hiperbolik Sinüs Fonksiyonu"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Ters Hiperbolik Tanjant Fonksiyonu"
+
+msgid "Inverse Secant Function"
+msgstr "Ters Sekant Fonksiyonu"
+
+msgid "Inverse Sine Function"
+msgstr "Ters Sinüs Fonksiyonu"
+
+msgid "Inverse Tangent Function"
+msgstr "Ters Tanjant Fonksiyonu"
+
+msgid "Ionosphere"
+msgstr "İyonosfer"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "İrlanda"
+
+msgid "Irish"
+msgstr "İrlandaca"
+
+msgid "Is blank"
+msgstr "Boştur"
+
+msgid "Is not blank"
+msgstr "Boş değildir"
+
+msgid "ISO 690 (author-date)"
+msgstr ""
+
+msgid "ISO 690 (numerical)"
+msgstr ""
+
+msgid "Issue"
+msgstr "Sayı"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Bir mektup yazıyorsunuz gibi görünüyor. Bunun için bir zarf mı istersiniz, yoksa başlamak için bir mektup şablonu mu?"
+
+msgid "Italy"
+msgstr "İtalya"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Sözlüğü okunamadı: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Discord'da ArtCraft topluluğuna katılın"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Discord'da bize katılın: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Ürdün"
+
+msgid "Journal"
+msgstr "Dergi"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "Denklemin hizalaması"
+
+msgid "Justified"
+msgstr "İki yana yaslanmış"
+
+msgid "Kazakhstan"
+msgstr "Kazakistan"
+
+msgid "Keep Lines Together"
+msgstr "Satırları Birlikte Tut"
+
+msgid "Keep lines together"
+msgstr "Satırları birlikte tut"
+
+msgid "Keep me around"
+msgstr "Kalabilirsin"
+
+msgid "Keep Text Only"
+msgstr "Yalnızca Metni Koru"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Parolayı güvenli bir yerde saklayın: parola olmadan WordCraft dahil hiç kimse belgeyi açamaz. Parolayı kaldırmak için iki kutuyu da boş bırakın."
+
+msgid "Keep with Next"
+msgstr "Sonrakiyle Birlikte Tut"
+
+msgid "Keep with next"
+msgstr "Sonrakiyle birlikte tut"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Kopyalanan metnin yazı tiplerini ve biçimlendirmesini korur."
+
+msgid "Kerning for fonts:"
+msgstr "Yazı tipi aralık ayarı:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Klavye kısayolları:"
+
+msgid "Keys for this command:"
+msgstr "Bu komutun tuşları:"
+
+msgid "Kuwait"
+msgstr "Kuveyt"
+
+msgid "Label changes with:"
+msgstr "Değişiklikleri şununla etiketle:"
+
+msgid "Label:"
+msgstr "Etiket:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Dil tercihleri…"
+
+msgid "Large\nOperator"
+msgstr "Büyük\nİşleç"
+
+msgid "Largest Only"
+msgstr "Yalnızca En Geniş"
+
+msgid "Lasso Select"
+msgstr "Kement Seçimi"
+
+msgid "Last Column"
+msgstr "Son Sütun"
+
+msgid "Last Name"
+msgstr "Soyad"
+
+msgid "Last Record"
+msgstr "Son Kayıt"
+
+msgid "Last, First; Last, First"
+msgstr "Soyadı, Adı; Soyadı, Adı"
+
+msgid "Latin text font:"
+msgstr "Latin metni yazı tipi:"
+
+msgid "Latvian"
+msgstr "Letonca"
+
+msgid "Layout Summary"
+msgstr "Düzen Özeti"
+
+msgid "Layouts"
+msgstr "Düzenler"
+
+msgid "Leader"
+msgstr "Dolgu karakteri"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Bir alan bu değere sahipse alıcıyı birleştirmeden çıkarır."
+
+msgid "Leave Equation"
+msgstr "Denklemden Çık"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Kaydederken açıklamaların ve izlenen değişikliklerin tarih ve saatini dahil etme"
+
+msgid "Leave the equation (Esc)"
+msgstr "Denklemden çık (Esc)"
+
+msgid "leave the equation first"
+msgstr "önce denklemden çıkın"
+
+msgid "Leave the label out of the caption"
+msgstr "Etiketi başlıktan çıkar"
+
+msgid "Lebanon"
+msgstr "Lübnan"
+
+msgid "Left Arrow with Text Above"
+msgstr "Üstünde Metin Olan Sola Ok"
+
+msgid "Left Arrow with Text Below"
+msgstr "Altında Metin Olan Sola Ok"
+
+msgid "Left Border"
+msgstr "Sol Kenarlık"
+
+msgid "Left border"
+msgstr "Sol kenarlık"
+
+msgid "Left Bracket Twice"
+msgstr "İki Sol Köşeli Parantez"
+
+msgid "Left indent"
+msgstr "Sol girinti"
+
+msgid "Left Margin"
+msgstr "Sol Kenar Boşluğu"
+
+msgid "Left Only"
+msgstr "Yalnızca Sol"
+
+msgid "Left Right Arrow Above"
+msgstr "Üstte Çift Yönlü Ok"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Üstünde Metin Olan Çift Yönlü Ok"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Altında Metin Olan Çift Yönlü Ok"
+
+msgid "Left Subscript-Superscript"
+msgstr "Sol Alt ve Üst İndis"
+
+msgid "Left-to-right"
+msgstr "Soldan sağa"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Soldan Sağa Metin Yönü"
+
+msgid "Leftwards Arrow Above"
+msgstr "Üstte Sola Ok"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Üstte Sola Zıpkın"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Hukuki stilde numaralandırma"
+
+msgid "Legend"
+msgstr "Gösterge"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Küçüktür"
+
+msgid "Less than or equal"
+msgstr "Küçük veya eşittir"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Harf başlıkları"
+
+msgid "Letter template"
+msgstr "Mektup şablonu"
+
+msgid "Letter-Like Symbols"
+msgstr "Harf Benzeri Semboller"
+
+msgid "Letters"
+msgstr "Mektuplar"
+
+msgid "Level 5"
+msgstr "Düzey 5"
+
+msgid "Level 6"
+msgstr "Düzey 6"
+
+msgid "Level 7"
+msgstr "Düzey 7"
+
+msgid "Level 8"
+msgstr "Düzey 8"
+
+msgid "Level 9"
+msgstr "Düzey 9"
+
+msgid "Level {n}"
+msgstr "Düzey {n}"
+
+msgid "Levels:"
+msgstr "Düzeyler:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Lihtenştayn"
+
+msgid "Light Variations"
+msgstr "Açık çeşitler"
+
+msgid "Light with Outline"
+msgstr "Anahatlı Açık"
+
+msgid "Limit"
+msgstr "Limit"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Limit ve\nLogaritma"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Ardışık tireleri şununla sınırla:"
+
+msgid "Limit Example"
+msgstr "Limit Örneği"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Biçimlendirmeyi seçili stillerle sınırla"
+
+msgid "Line and Page Breaks"
+msgstr "Satır ve Sayfa Sonları"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Satır ve Paragraf Aralığı"
+
+msgid "Line between"
+msgstr "Sütunlar arasında çizgi"
+
+msgid "Line Break"
+msgstr "Satır Sonu"
+
+msgid "Line breaking"
+msgstr "Satır bölme"
+
+msgid "Line End"
+msgstr "Satırın Sonu"
+
+msgid "Line Number"
+msgstr "Satır Numarası"
+
+msgid "Line Numbering Options…"
+msgstr "Satır Numaralandırma Seçenekleri…"
+
+msgid "Line Numbers"
+msgstr "Satır Numaraları"
+
+msgid "Line Spacing"
+msgstr "Satır Aralığı"
+
+msgid "Line Spacing Options…"
+msgstr "Satır Aralığı Seçenekleri…"
+
+msgid "Line spacing:"
+msgstr "Satır aralığı:"
+
+msgid "Line Start"
+msgstr "Satırın Başı"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Doğrusal çapraz – sol alt köşeden sağ üst köşeye"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Doğrusal çapraz – sağ alt köşeden sol üst köşeye"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Doğrusal çapraz – sol üst köşeden sağ alt köşeye"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Doğrusal çapraz – sağ üst köşeden sol alt köşeye"
+
+msgid "Linear Down"
+msgstr "Doğrusal aşağı"
+
+msgid "Linear Fraction"
+msgstr "Doğrusal Kesir"
+
+msgid "Linear Left"
+msgstr "Doğrusal sola"
+
+msgid "Linear Right"
+msgstr "Doğrusal sağa"
+
+msgid "Linear Up"
+msgstr "Doğrusal yukarı"
+
+msgid "Lines and characters"
+msgstr "Satırlar ve karakterler"
+
+msgid "Lines only"
+msgstr "Yalnızca satırlar"
+
+msgid "Lines per page:"
+msgstr "Sayfa başına satır:"
+
+msgid "Lines to drop:"
+msgstr "Kaplayacağı satır:"
+
+msgid "Link entries to their headings"
+msgstr "Girdileri başlıklarına bağla"
+
+msgid "Link level to style:"
+msgstr "Düzeyi stile bağla:"
+
+msgid "Link to Previous"
+msgstr "Öncekine Bağla"
+
+msgid "Link to:"
+msgstr "Bağlantı:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Bağlantılı stil (paragraf ve karakter)"
+
+msgid "Links and References"
+msgstr "Bağlantılar ve Başvurular"
+
+msgid "Link…"
+msgstr "Bağlantı…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Liste Tanımı"
+
+msgid "List entries"
+msgstr "Liste girdileri"
+
+msgid "List Paragraph"
+msgstr "Liste Paragrafı"
+
+msgid "List Table 3 – Blue"
+msgstr "Liste Tablosu 3 – Mavi"
+
+msgid "List Table 3 – Green"
+msgstr "Liste Tablosu 3 – Yeşil"
+
+msgid "List Table 3 – Orange"
+msgstr "Liste Tablosu 3 – Turuncu"
+
+msgid "List Table 3 – Purple"
+msgstr "Liste Tablosu 3 – Mor"
+
+msgid "Lit from Bottom"
+msgstr "Alttan aydınlatılmış"
+
+msgid "Lit from Top"
+msgstr "Üstten aydınlatılmış"
+
+msgid "Lithuanian"
+msgstr "Litvanca"
+
+msgid "Load System Installed Fonts…"
+msgstr "Yüklü Sistem Yazı Tiplerini Yükle…"
+
+msgid "Loaded {count} system fonts."
+msgstr "{count} sistem yazı tipi yüklendi."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Tarayıcınız yerel yazı tipi erişimini desteklemiyor."
+
+msgid "Local font access was denied."
+msgstr "Yerel yazı tipi erişimi reddedildi."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Konum: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "En boy oranını kilitle"
+
+msgid "Lock Fields"
+msgstr "Alanları Kilitle"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Logaritma"
+
+msgid "Logarithm with Base"
+msgstr "Tabanlı Logaritma"
+
+msgid "Logical AND"
+msgstr "Mantıksal VE"
+
+msgid "Logical AND with Limits"
+msgstr "Sınırlı Mantıksal VE"
+
+msgid "Logical OR"
+msgstr "Mantıksal VEYA"
+
+msgid "Logical OR with Limits"
+msgstr "Sınırlı Mantıksal VEYA"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: çünkü gerçek sözcükler hâlâ kafede oturuyor."
+
+msgid "Lum:"
+msgstr "Parlaklık:"
+
+msgid "Luxembourg"
+msgstr "Lüksemburg"
+
+msgid "Macao SAR"
+msgstr "Makao ÖİB"
+
+msgid "Macedonian"
+msgstr "Makedonca"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Makrolar"
+
+msgid "Made from the author and year when empty"
+msgstr "Boşsa yazardan ve yıldan oluşturulur"
+
+msgid "Magazine or newspaper article"
+msgstr "Dergi veya gazete makalesi"
+
+msgid "Mail Merge"
+msgstr "Posta Birleştirme"
+
+msgid "Mailings"
+msgstr "Postalar"
+
+msgid "Main entry:"
+msgstr "Ana girdi:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "WordCraft'ı Word belgeleri için varsayılan yap…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Şeridi, menüleri ve iletişim kutularını büyütür veya küçültür. Otomatik, sisteminizin ekran ölçeklendirmesini izler; %100, nokta başına bir ekran pikselidir. Belge yakınlaştırması ayrıdır."
+
+msgid "Malaysia"
+msgstr "Malezya"
+
+msgid "Manage Sources"
+msgstr "Kaynakları Yönet"
+
+msgid "Manage Styles"
+msgstr "Stilleri Yönet"
+
+msgid "Manage Styles…"
+msgstr "Stilleri Yönet…"
+
+msgid "Manual Hyphenation"
+msgstr "El ile Heceleme"
+
+msgid "Manual hyphenation is complete."
+msgstr "El ile heceleme tamamlandı."
+
+msgid "Manual Line Break"
+msgstr "El ile Satır Sonu"
+
+msgid "Manual Page Break"
+msgstr "El ile Sayfa Sonu"
+
+msgid "Manual…"
+msgstr "El ile…"
+
+msgid "Many pages"
+msgstr "Çok sayfa"
+
+msgid "Mark"
+msgstr "İşaretle"
+
+msgid "Mark All"
+msgstr "Tümünü İşaretle"
+
+msgid "Mark as decorative"
+msgstr "Dekoratif olarak işaretle"
+
+msgid "Mark Citation"
+msgstr "Atıfı İşaretle"
+
+msgid "Mark Entry"
+msgstr "Girdiyi İşaretle"
+
+msgid "Mark Entry…"
+msgstr "Girdiyi İşaretle…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Yazarken dil bilgisi hatalarını işaretle"
+
+msgid "Mark Index Entry"
+msgstr "Dizin Girdisini İşaretle"
+
+msgid "Mark selected text as:"
+msgstr "Seçili metni şu olarak işaretle:"
+
+msgid "Mark\nCitation"
+msgstr "Atıfı\nİşaretle"
+
+msgid "Mark\nEntry"
+msgstr "Girdiyi\nİşaretle"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Büyük/küçük harfe duyarlı"
+
+msgid "Match Fields"
+msgstr "Alanları Eşleştir"
+
+msgid "Match prefix"
+msgstr "Ön eke uy"
+
+msgid "Match suffix"
+msgstr "Son eke uy"
+
+msgid "Matches: {count}"
+msgstr "Eşleşme: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Matematik Otomatik Düzelt"
+
+msgid "Matrices with Brackets"
+msgstr "Parantezli Matrisler"
+
+msgid "Matrix"
+msgstr "Matris"
+
+msgid "Maximum Example"
+msgstr "Maksimum Örneği"
+
+msgid "Measured By"
+msgstr "Ölçüm Birimi"
+
+msgid "Measurement units:"
+msgstr "Ölçü birimleri:"
+
+msgid "Merge cells before split"
+msgstr "Bölmeden önce hücreleri birleştir"
+
+msgid "Merge Formatting"
+msgstr "Biçimlendirmeyi Birleştir"
+
+msgid "Merge Record #"
+msgstr "Birleştirme Kaydı No."
+
+msgid "Mesosphere"
+msgstr "Mezosfer"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Midline Dots"
+msgstr "Orta Çizgide Üç Nokta"
+
+msgid "Minus Equal"
+msgstr "Eksi Eşittir"
+
+msgid "Mirror indents"
+msgstr "Ayna girintiler"
+
+msgid "Mirror margins"
+msgstr "Yansıtılmış kenar boşlukları"
+
+msgid "Mirrored"
+msgstr "Aynalı"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Telif hakkı (c) 2026 ArtCraft ekibi ve WordCraft'a katkıda bulunanlar."
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Orta"
+
+msgid "Modify Style"
+msgstr "Stili Değiştir"
+
+msgid "Modify Table Style"
+msgstr "Tablo Stilini Değiştir"
+
+msgid "Modify Table Style…"
+msgstr "Tablo Stilini Değiştir…"
+
+msgid "Modify…"
+msgstr "Değiştir…"
+
+msgid "Mon"
+msgstr "Pzt"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Montenegro"
+msgstr "Karadağ"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "More >>"
+msgstr "Daha fazla >>"
+
+msgid "More Colors…"
+msgstr "Diğer Renkler…"
+
+msgid "More Columns…"
+msgstr "Diğer Sütunlar…"
+
+msgid "More Commands…"
+msgstr "Diğer Komutlar…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "Diğer degradeler…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Diğer Kağıt Boyutları…"
+
+msgid "More Symbols…"
+msgstr "Diğer Semboller…"
+
+msgid "More tabs"
+msgstr "Diğer sekmeler"
+
+msgid "More templates →"
+msgstr "Diğer şablonlar →"
+
+msgid "More Underlines…"
+msgstr "Diğer Alt Çizgiler…"
+
+msgid "Morocco"
+msgstr "Fas"
+
+msgid "Move in Equation"
+msgstr "Denklemde İmleci Taşı"
+
+msgid "Move or Resize"
+msgstr "Taşı veya Boyutlandır"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Paragrafı Aşağı Taşı"
+
+msgid "Move Paragraph Up"
+msgstr "Paragrafı Yukarı Taşı"
+
+msgid "Move Past Citation"
+msgstr "Atıf Sonrasına Git"
+
+msgid "Move Past\nCitation"
+msgstr "Atıf Sonrasına\nGit"
+
+msgid "Move Selected Ink"
+msgstr "Seçili Mürekkebi Taşı"
+
+msgid "Move Table by Dragging"
+msgstr "Tabloyu Sürükleyerek Taşı"
+
+msgid "Move with Text"
+msgstr "Metinle birlikte taşı"
+
+msgid "Moved from"
+msgstr "Taşındı (kaynak)"
+
+msgid "Moved from:"
+msgstr "Taşındı (kaynak):"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Taşınan nesneler sayfanın kenarlarına ve ortasına, kenar boşluklarına ve diğer nesnelere tutunur. Serbestçe taşımak için Alt tuşunu basılı tutun."
+
+msgid "Moved to"
+msgstr "Taşındı (hedef)"
+
+msgid "Moved to:"
+msgstr "Taşındı (hedef):"
+
+msgid "Moves"
+msgstr "Taşımalar"
+
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgid "Multilevel List"
+msgstr "Çok Düzeyli Liste"
+
+msgid "Multilevel List Library"
+msgstr "Çok Düzeyli Liste Kitaplığı"
+
+msgid "Multiple Pages"
+msgstr "Birden Çok Sayfa"
+
+msgid "Mute agent messages"
+msgstr "Aracı mesajlarını sessize al"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Listemde"
+
+msgid "Name of the file this document is saved as"
+msgstr "Belgenin kaydedildiği dosyanın adı"
+
+msgid "Narrow"
+msgstr "Dar"
+
+msgid "Narrow  {size} all"
+msgstr "Dar  her kenar {size}"
+
+msgid "Natural Logarithm"
+msgstr "Doğal Logaritma"
+
+msgid "Nature"
+msgstr "Doğa"
+
+msgid "Navigation Pane"
+msgstr "Gezinti Bölmesi"
+
+msgid "Negated Relations"
+msgstr "Olumsuzlanmış Bağıntılar"
+
+msgid "Netherlands"
+msgstr "Hollanda"
+
+msgid "New blank documents are written in this language"
+msgstr "Yeni boş belgeler bu dilde yazılır"
+
+msgid "New Comment"
+msgstr "Yeni Yorum"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir."
+
+msgid "New Documents Based on This Template"
+msgstr "Bu şablonu temel alan yeni belgeler"
+
+msgid "New documents based on this template"
+msgstr "Bu şablonu temel alan yeni belgeler"
+
+msgid "New documents will use this font."
+msgstr "Yeni belgeler bu yazı tipini kullanacak."
+
+msgid "New documents will use this page setup."
+msgstr "Yeni belgeler bu sayfa ayarlarını kullanacak."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Yeni belgeler bu paragraf biçimlendirmesini kullanacak."
+
+msgid "New documents will use this style."
+msgstr "Yeni belgeler bu stili kullanacak."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?"
+
+msgid "New Drawing Canvas"
+msgstr "Yeni Çizim Tuvali"
+
+msgid "New Entry"
+msgstr "Yeni Girdi"
+
+msgid "New Label"
+msgstr "Yeni Etiket"
+
+msgid "New Label…"
+msgstr "Yeni Etiket…"
+
+msgid "New Paragraph"
+msgstr "Yeni Paragraf"
+
+msgid "New shortcut:"
+msgstr "Yeni kısayol:"
+
+msgid "New Tab"
+msgstr "Yeni Sekme"
+
+msgid "New Table Style"
+msgstr "Yeni Tablo Stili"
+
+msgid "New Table Style…"
+msgstr "Yeni Tablo Stili…"
+
+msgid "New word"
+msgstr "Yeni sözcük"
+
+msgid "New Zealand"
+msgstr "Yeni Zelanda"
+
+msgid "New\nComment"
+msgstr "Yeni\nYorum"
+
+msgid "New\nWindow"
+msgstr "Yeni\nPencere"
+
+msgid "Next Comment"
+msgstr "Sonraki Yorum"
+
+msgid "Next Field"
+msgstr "Sonraki Alan"
+
+msgid "Next Footnote"
+msgstr "Sonraki Dipnot"
+
+msgid "Next Record"
+msgstr "Sonraki Kayıt"
+
+msgid "Next Section"
+msgstr "Sonraki Bölüm"
+
+msgid "Next Sentence"
+msgstr "Sonraki Cümle"
+
+msgid "Next sentence"
+msgstr "Sonraki cümle"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib, ipuçları ve ara sıra yorumlarla pencerenin üzerinde süzülür."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Asistanınız Nib. Taşımak için sürükleyin; seçenekler için sağ tıklayın."
+
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+msgid "No accessibility issues found."
+msgstr "Erişilebilirlik sorunu bulunamadı."
+
+msgid "No Border"
+msgstr "Kenarlık Yok"
+
+msgid "No changes (read only)"
+msgstr "Değişiklik yok (salt okunur)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Bu kopyaya katkıda bulunan verisi eklenmemiş."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Açık belge yok. Önce bir belge oluşturun veya açın."
+
+msgid "no equation at the caret"
+msgstr "imleçte denklem yok"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Hata bulunamadı: her birleştirme alanı alıcı listesinde var."
+
+msgid "No Fill"
+msgstr "Dolgu Yok"
+
+msgid "No fill"
+msgstr "Dolgu yok"
+
+msgid "No Glow"
+msgstr "Parlama Yok"
+
+msgid "No Gradient"
+msgstr "Degrade yok"
+
+msgid "No grid"
+msgstr "Kılavuz yok"
+
+msgid "No header row"
+msgstr "Başlık satırı yok"
+
+msgid "No icons match your search."
+msgstr "Aramanızla eşleşen simge yok."
+
+msgid "No items to show."
+msgstr "Gösterilecek öğe yok."
+
+msgid "No language matches your search."
+msgstr "Aramanızla eşleşen dil yok."
+
+msgid "No languages to show yet."
+msgstr "Henüz gösterilecek dil yok."
+
+msgid "No Markup"
+msgstr "İşaret Yok"
+
+msgid "No model credits were built into this copy."
+msgstr "Bu kopyaya model katkıları eklenmemiş."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "Anahat Yok"
+
+msgid "No Paragraph Space"
+msgstr "Paragraf Boşluğu Yok"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Yazıcı bulunamadı. Sistemde bir yazıcı yapılandırın veya PDF olarak dışa aktarın."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Yansıma Yok"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Gölge Yok"
+
+msgid "No Soft Edges"
+msgstr "Yumuşak Kenar Yok"
+
+msgid "No sources yet."
+msgstr "Henüz kaynak yok."
+
+msgid "No Spacing"
+msgstr "Aralık Yok"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "{language} için yüklü bir yazım sözlüğü yok, bu yüzden denetlenmiyor. WordCraft, {name} Hunspell sözlüğünü WORDCRAFT_DICTIONARIES klasöründe ve olağan sistem konumlarında arar."
+
+msgid "No templates match your search."
+msgstr "Aramanızla eşleşen şablon yok."
+
+msgid "No Transform"
+msgstr "Dönüşüm Yok"
+
+msgid "No watermark"
+msgstr "Filigran yok"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Henüz sözcük yok. Yanlış yazılmış bir sözcükte «Sözlüğe ekle» onu buraya koyar."
+
+msgid "No-Width Non Break"
+msgstr "Sıfır Genişlikli Bölünmez"
+
+msgid "No-Width Optional Break"
+msgstr "Sıfır Genişlikli İsteğe Bağlı Bölme"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Bölünemez Kısa Çizgi"
+
+msgid "Normal  {size} all"
+msgstr "Normal  her kenar {size}"
+
+msgid "Normal Indent"
+msgstr "Normal Girintili"
+
+msgid "Normal probability density"
+msgstr "Normal Olasılık Yoğunluğu"
+
+msgid "Normal speed"
+msgstr "Normal hız"
+
+msgid "Normal Style"
+msgstr "Normal Stil"
+
+msgid "Normal Table"
+msgstr "Normal Tablo"
+
+msgid "Normal Text"
+msgstr "Normal Metin"
+
+msgid "Normal Word Document"
+msgstr "Normal Word Belgesi"
+
+msgid "North"
+msgstr "Kuzey"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norveççe (Bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Norveççe (Nynorsk)"
+
+msgid "Not"
+msgstr "Değil"
+
+msgid "Not available right now"
+msgstr "Şu anda kullanılamıyor"
+
+msgid "Not available yet"
+msgstr "Henüz kullanılamıyor"
+
+msgid "not editing an equation"
+msgstr "düzenlenen bir denklem yok"
+
+msgid "Not equal to"
+msgstr "Eşit değildir"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Bağlı değil: bir metin kutusuna tıklayın"
+
+msgid "Not now"
+msgstr "Şimdi değil"
+
+msgid "Not saved"
+msgstr "Kaydedilmedi"
+
+msgid "Not saved yet"
+msgstr "Henüz kaydedilmedi"
+
+msgid "Not set"
+msgstr "Ayarlanmadı"
+
+msgid "Not set: the system's usual places"
+msgstr "Ayarlanmadı: sistemin olağan konumları"
+
+msgid "Not used by any command"
+msgstr "Hiçbir komut kullanmıyor"
+
+msgid "Not {name}"
+msgstr "{name} değil"
+
+msgid "Nothing"
+msgstr "Hiçbiri"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Henüz bir şey toplanmadı. Kopyaladığınız veya kestiğiniz öğeler burada görünür."
+
+msgid "nothing is selected"
+msgstr "hiçbir şey seçili değil"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Şu anda kullanan: {command}"
+
+msgid "Nudge"
+msgstr "Az Kaydır"
+
+msgid "Num Occurrences"
+msgstr "Tekrar Sayısı"
+
+msgid "Number alignment:"
+msgstr "Numara hizalaması:"
+
+msgid "Number format"
+msgstr "Numara biçimi"
+
+msgid "Number of columns:"
+msgstr "Sütun sayısı:"
+
+msgid "Number of rows:"
+msgstr "Satır sayısı:"
+
+msgid "Number of the page the field sits on"
+msgstr "Alanın bulunduğu sayfanın numarası"
+
+msgid "Number of the section the field sits in"
+msgstr "Alanın bulunduğu bölümün numarası"
+
+msgid "Number only, without the label's words"
+msgstr "Yalnızca numara, etiketin sözcükleri olmadan"
+
+msgid "Number style for this level:"
+msgstr "Bu düzeyin numara stili:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Denklemi numaralandır; numara sağ kenar boşluğunda yer alır (veya # yazıp numarayı girin)"
+
+msgid "Numbering"
+msgstr "Numaralandırma"
+
+msgid "Numbering:"
+msgstr "Numaralandırma:"
+
+msgid "Numbering…"
+msgstr "Numaralandırma…"
+
+msgid "Numerals"
+msgstr "Rakamlar"
+
+msgid "Numerals:"
+msgstr "Rakamlar:"
+
+msgid "n×n Identity Matrix"
+msgstr "n×n Birim Matris"
+
+msgid "n×n Matrix"
+msgstr "n×n Matris"
+
+msgid "Odd Banded Columns"
+msgstr "Tek Şeritli Sütunlar"
+
+msgid "Odd Banded Rows"
+msgstr "Tek Şeritli Satırlar"
+
+msgid "Odd Page"
+msgstr "Tek Sayfa"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 Varsayılanı"
+
+msgid "Offset (pt):"
+msgstr "Kaydırma (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Kaydırma: Alt"
+
+msgid "Offset: Bottom Left"
+msgstr "Kaydırma: Sol Alt"
+
+msgid "Offset: Bottom Right"
+msgstr "Kaydırma: Sağ Alt"
+
+msgid "Offset: Center"
+msgstr "Kaydırma: Orta"
+
+msgid "Offset: Left"
+msgstr "Kaydırma: Sol"
+
+msgid "Offset: Right"
+msgstr "Kaydırma: Sağ"
+
+msgid "Offset: Top"
+msgstr "Kaydırma: Üst"
+
+msgid "Offset: Top Left"
+msgstr "Kaydırma: Sol Üst"
+
+msgid "Offset: Top Right"
+msgstr "Kaydırma: Sağ Üst"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Eski menü tuşları: Alt, {keys}. Yazmaya devam edin ya da iptal etmek için Esc tuşuna basın."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Açık: yazarken veya ok tuşlarını kullanırken imleç yeni yerine kayarak gider ve yanıp sönerken solar. Kapalı: imleç yeni yerine atlar, keskin biçimde yanıp söner."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Açık: WordCraft, Dosya › Giriş sayfasında boş belge, şablonlar ve son belgelerinizle açılır. Kapalı: boş bir belge açar."
+
+msgid "One"
+msgstr "Bir"
+
+msgid "One half"
+msgstr "Bir Bölü İki"
+
+msgid "One label per recipient"
+msgstr "Alıcı başına bir etiket"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Öğe başına bir satır. Enter bir öğe ekler."
+
+msgid "One Page"
+msgstr "Bir Sayfa"
+
+msgid "One-sided"
+msgstr "Tek taraflı"
+
+msgid "Only allow this kind of editing:"
+msgstr "Yalnızca bu tür düzenlemeye izin ver:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Düzenlenebilir işaretli bölgeler dışında yalnızca yorum eklenebilir."
+
+msgid "Only for the selected text"
+msgstr "Yalnızca seçili metin için"
+
+msgid "Only form fields can be filled in."
+msgstr "Yalnızca form alanları doldurulabilir."
+
+msgid "only in Outline view"
+msgstr "yalnızca Ana Hat görünümünde"
+
+msgid "Only in this document"
+msgstr "Yalnızca bu belgede"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Yalnızca izin verilen stiller uygulanabilir."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Yalnızca web (http, https) ve e-posta (mailto) bağlantıları açılabilir"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Önce bir belge açın"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Sistemin dosya iletişim kutusu açılmadığında dosyayı WordCraft'ın kendi dosya tarayıcısıyla açın."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument Metni (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Yazdırma iletişim kutusu açılıyor…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Bundan sonra .docx, .doc, .rtf ve .odt dosyalarını ve Word şablonlarını WordCraft ile açar."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Ayarlar › Varsayılan uygulamalar bölümünü açar; burada .docx ve diğer belge türleri için WordCraft'ı seçersiniz."
+
+msgid "Operator"
+msgstr "İşleç"
+
+msgid "Operator Structures"
+msgstr "İşleç Yapıları"
+
+msgid "Operators"
+msgstr "İşleçler"
+
+msgid "Optional Hyphen"
+msgstr "İsteğe Bağlı Kısa Çizgi"
+
+msgid "Or"
+msgstr "Veya"
+
+msgid "Or save a copy in another format:"
+msgstr "Veya başka bir biçimde kopya kaydedin:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Sıra sayılarını (1st) üst simge yap"
+
+msgid "Organizer"
+msgstr "Düzenleyici"
+
+msgid "Organizer…"
+msgstr "Düzenleyici…"
+
+msgid "Original document"
+msgstr "Özgün belge"
+
+msgid "Original size"
+msgstr "Özgün boyut"
+
+msgid "Other Large Operators"
+msgstr "Diğer Büyük İşleçler"
+
+msgid "Other styles and their TOC level:"
+msgstr "Diğer stiller ve İçindekiler düzeyleri:"
+
+msgid "Other:"
+msgstr "Diğer:"
+
+msgid "Otherwise insert:"
+msgstr "Diğer durumda ekle:"
+
+msgid "Outline Level"
+msgstr "Ana Hat Düzeyi"
+
+msgid "Outline level"
+msgstr "Ana hat düzeyi"
+
+msgid "Outline levels"
+msgstr "Anahat düzeyleri"
+
+msgid "Outline State"
+msgstr "Anahat durumu"
+
+msgid "Outline Tools"
+msgstr "Anahat araçları"
+
+msgid "Outlining"
+msgstr "Anahat"
+
+msgid "Outside border"
+msgstr "Dış kenarlık"
+
+msgid "Outside Borders"
+msgstr "Dış Kenarlıklar"
+
+msgid "Outside:"
+msgstr "Dış:"
+
+msgid "Outward Brackets"
+msgstr "Dışa Bakan Köşeli Parantezler"
+
+msgid "Overbar"
+msgstr "Üst Çizgi"
+
+msgid "Overbars and Underbars"
+msgstr "Üst ve Alt Çizgiler"
+
+msgid "Overbrace"
+msgstr "Üst Küme Parantezi"
+
+msgid "Overtype"
+msgstr "Üzerine yaz"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Üzerine yazma (yazılan metin imleçten sonraki karakterlerin yerine geçer)"
+
+msgid "Page Background"
+msgstr "Sayfa Arka Planı"
+
+msgid "Page Border"
+msgstr "Sayfa Kenarlığı"
+
+msgid "Page Borders"
+msgstr "Sayfa Kenarlıkları"
+
+msgid "Page Break"
+msgstr "Sayfa Sonu"
+
+msgid "Page Break Before"
+msgstr "Öncesinde Sayfa Sonu"
+
+msgid "Page break before"
+msgstr "Öncesinde sayfa sonu"
+
+msgid "Page Breaks"
+msgstr "Sayfa Sonları"
+
+msgid "Page Color"
+msgstr "Sayfa Rengi"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Sayfa görünümü"
+
+msgid "Page Down"
+msgstr "Bir Sayfa Aşağı"
+
+msgid "Page image (*.png)"
+msgstr "Sayfa görüntüsü (*.png)"
+
+msgid "Page Movement"
+msgstr "Sayfa Geçişi"
+
+msgid "Page Number"
+msgstr "Sayfa Numarası"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Sayfa numarası biçimi"
+
+msgid "Page number style"
+msgstr "Sayfa numarası stili"
+
+msgid "Page numbering"
+msgstr "Sayfa numaralandırma"
+
+msgid "Page numbers at the right margin"
+msgstr "Sayfa numaraları sağ kenar boşluğunda"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Yer işaretli metnin bulunduğu sayfa"
+
+msgid "Page Setup"
+msgstr "Sayfa Ayarları"
+
+msgid "Page title"
+msgstr "Sayfa başlığı"
+
+msgid "Page Up"
+msgstr "Bir Sayfa Yukarı"
+
+msgid "Page Width"
+msgstr "Sayfa Genişliği"
+
+msgid "Page width"
+msgstr "Sayfa genişliği"
+
+msgid "Page X of Y"
+msgstr "Sayfa X / Y"
+
+msgid "Page {page}"
+msgstr "Sayfa {page}"
+
+msgid "Page\nBorders"
+msgstr "Sayfa\nKenarlıkları"
+
+msgid "Page\nColor"
+msgstr "Sayfa\nRengi"
+
+msgid "Page\nNumber"
+msgstr "Sayfa\nNumarası"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Sayfalar, örn. 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Yer işaretinin sayfaları:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Kağıt boyutu:"
+
+msgid "Paragraph Character"
+msgstr "Paragraf Karakteri"
+
+msgid "Paragraph Details"
+msgstr "Paragraf Ayrıntıları"
+
+msgid "Paragraph Down"
+msgstr "Sonraki Paragraf"
+
+msgid "Paragraph Mark"
+msgstr "Paragraf İşareti"
+
+msgid "Paragraph marks"
+msgstr "Paragraf işaretleri"
+
+msgid "Paragraph Settings"
+msgstr "Paragraf Ayarları"
+
+msgid "Paragraph Spacing"
+msgstr "Paragraf Aralığı"
+
+msgid "Paragraph style"
+msgstr "Paragraf stili"
+
+msgid "Paragraph Up"
+msgstr "Önceki Paragraf"
+
+msgid "Paragraphs"
+msgstr "Paragraflar"
+
+msgid "Paragraph…"
+msgstr "Paragraf…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Parantezler"
+
+msgid "Parentheses with Separator"
+msgstr "Ayırıcılı Parantezler"
+
+msgid "Partial Differential"
+msgstr "Kısmi Diferansiyel"
+
+msgid "Password:"
+msgstr "Parola:"
+
+msgid "Paste (⌘V)"
+msgstr "Yapıştır (⌘V)"
+
+msgid "Paste All"
+msgstr "Tümünü Yapıştır"
+
+msgid "Paste as:"
+msgstr "Yapıştırma biçimi:"
+
+msgid "Paste Clipboard Item"
+msgstr "Pano Öğesini Yapıştır"
+
+msgid "Paste Formatting"
+msgstr "Biçimlendirmeyi Yapıştır"
+
+msgid "Paste function:"
+msgstr "İşlev yapıştır:"
+
+msgid "Paste Special…"
+msgstr "Özel Yapıştır…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Yapıştır: Yalnızca Metni Koru"
+
+msgid "Paste: Merge Formatting"
+msgstr "Yapıştır: Biçimlendirmeyi Birleştir"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Panodaki resmi yapıştırır."
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF belgesi (*.pdf)"
+
+msgid "Pens"
+msgstr "Kalemler"
+
+msgid "People"
+msgstr "İnsanlar"
+
+msgid "Periodical"
+msgstr "Süreli yayın"
+
+msgid "Persian"
+msgstr "Farsça"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "Personal Templates"
+msgstr "Kişisel şablonlar"
+
+msgid "Personalize"
+msgstr "Kişiselleştir"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filipinler"
+
+msgid "Phonetic Guide"
+msgstr "Fonetik Kılavuz"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi Bölü 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Bir özel grup seçin (Yeni Grup bir tane oluşturur)"
+
+msgid "Pick a field from the list"
+msgstr "Listeden bir alan seçin"
+
+msgid "Picture"
+msgstr "Resim"
+
+msgid "Picture Border"
+msgstr "Resim Kenarlığı"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Resim İçerik Denetimi"
+
+msgid "Picture Format"
+msgstr "Resim Biçimi"
+
+msgid "Picture Styles"
+msgstr "Resim Stilleri"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "Resim filigranı"
+
+msgid "Pictures"
+msgstr "Resimler"
+
+msgid "Pie"
+msgstr "Pasta"
+
+msgid "Place in This Document"
+msgstr "Bu Belgede Bir Yer"
+
+msgid "Placeholder text"
+msgstr "Yer tutucu metin"
+
+msgid "Plain Table 1"
+msgstr "Düz Tablo 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Düz metin (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Düz Metin İçerik Denetimi"
+
+msgid "Play/Pause"
+msgstr "Oynat/Duraklat"
+
+msgid "Plus Equal"
+msgstr "Artı Eşittir"
+
+msgid "Points and above"
+msgstr "punto ve üzeri"
+
+msgid "Polish"
+msgstr "Lehçe"
+
+msgid "Portugal"
+msgstr "Portekiz"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portekizce (Brezilya)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portekizce (Portekiz)"
+
+msgid "Possible spelling mistake"
+msgstr "Olası yazım hatası"
+
+msgid "Postal Code"
+msgstr "Posta Kodu"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "(1+x)ⁿ Kuvvet Serisi"
+
+msgid "Preferred width:"
+msgstr "Tercih edilen genişlik:"
+
+msgid "Preserve formatting during updates"
+msgstr "Güncellemelerde biçimlendirmeyi koru"
+
+msgid "Preset gradients"
+msgstr "Hazır degradeler"
+
+msgid "Press a key combination"
+msgstr "Bir tuş birleşimine basın"
+
+msgid "Preview Results"
+msgstr "Sonuçları Önizle"
+
+msgid "Preview\nResults"
+msgstr "Sonuçları\nÖnizle"
+
+msgid "Previous 1 or More"
+msgstr "Öncekinin 1 veya Daha Fazlası"
+
+msgid "Previous Comment"
+msgstr "Önceki Yorum"
+
+msgid "Previous Field"
+msgstr "Önceki Alan"
+
+msgid "Previous Record"
+msgstr "Önceki Kayıt"
+
+msgid "Previous Section"
+msgstr "Önceki Bölüm"
+
+msgid "Previous Sentence"
+msgstr "Önceki Cümle"
+
+msgid "Previous sentence"
+msgstr "Önceki cümle"
+
+msgid "Print Documents"
+msgstr "Belgeleri Yazdır"
+
+msgid "Print Documents…"
+msgstr "Belgeleri Yazdır…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Yazdırma başarısız oldu: yazdırma işlemi durdu."
+
+msgid "Print failed: {error}"
+msgstr "Yazdırma başarısız: {error}"
+
+msgid "Print job submitted."
+msgstr "Yazdırma işi gönderildi."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Yazdırma işi gönderildi: {count} sayfa kuyruğa alındı"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Yazdırma işi gönderildi: {receipt}"
+
+msgid "Print Layout"
+msgstr "Baskı Düzeni"
+
+msgid "Print Markup"
+msgstr "İşaretlemeyi Yazdır"
+
+msgid "Print settings"
+msgstr "Yazdırma ayarları"
+
+msgid "Print the page color"
+msgstr "Sayfa rengini yazdır"
+
+msgid "Print to PDF"
+msgstr "PDF'ye yazdır"
+
+msgid "Print\nLayout"
+msgstr "Baskı\nDüzeni"
+
+msgid "Printer default"
+msgstr "Yazıcı varsayılanı"
+
+msgid "Printer discovery failed."
+msgstr "Yazıcı arama başarısız oldu."
+
+msgid "Privacy for this document"
+msgstr "Bu belgenin gizliliği"
+
+msgid "Privacy Options"
+msgstr "Gizlilik Seçenekleri"
+
+msgid "Privacy Settings"
+msgstr "Geçerli gizlilik ayarları"
+
+msgid "Process"
+msgstr "Süreç"
+
+msgid "Product"
+msgstr "Çarpım"
+
+msgid "Product of A"
+msgstr "A Çarpımı"
+
+msgid "Product with Limits"
+msgstr "Sınırlı Çarpım"
+
+msgid "Product with Lower Limit"
+msgstr "Alt Sınırlı Çarpım"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Alt ve Üst İndis Sınırlı Çarpım"
+
+msgid "Products and Coproducts"
+msgstr "Çarpımlar ve Eşçarpımlar"
+
+msgid "Professional"
+msgstr "Profesyonel"
+
+msgid "Promote"
+msgstr "Düzey Yükselt"
+
+msgid "Promote to Heading 1"
+msgstr "Başlık 1'e yükselt"
+
+msgid "Proofing"
+msgstr "Dil Denetimi"
+
+msgid "Proofing Issues"
+msgstr "Dil Denetimi Sorunları"
+
+msgid "Proofing language"
+msgstr "Yazım denetimi dili"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Belgeyi Koru"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Yayıncı"
+
+msgid "Puerto Rico"
+msgstr "Porto Riko"
+
+msgid "Put the caret in a content control first."
+msgstr "Önce imleci bir içerik denetiminin içine koyun."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Varsayılan komutlar Hızlı Erişim Araç Çubuğuna geri konsun mu?"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "Quadratic Root"
+msgstr "İkinci Dereceden Kök"
+
+msgid "Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğu"
+
+msgid "Quick Parts"
+msgstr "Hızlı Parçalar"
+
+msgid "Quick Tables"
+msgstr "Hızlı Tablolar"
+
+msgid "Quote"
+msgstr "Alıntı"
+
+msgid "Radical"
+msgstr "Kök"
+
+msgid "Radical with Degree"
+msgstr "Dereceli Kök"
+
+msgid "Radicals"
+msgstr "Kökler"
+
+msgid "Raised/lowered"
+msgstr "Yükseltilmiş/alçaltılmış"
+
+msgid "Read Aloud"
+msgstr "Sesli Oku"
+
+msgid "Read Aloud Status"
+msgstr "Sesli Okuma Durumu"
+
+msgid "Read Mode"
+msgstr "Okuma Modu"
+
+msgid "Read\nAloud"
+msgstr "Sesli\nOku"
+
+msgid "Read\nMode"
+msgstr "Okuma\nModu"
+
+msgid "Reading"
+msgstr "Okuma"
+
+msgid "Reading Column Width"
+msgstr "Okuma Sütunu Genişliği"
+
+msgid "Reading Highlight"
+msgstr "Okuma Vurgusu"
+
+msgid "Reading Line Spacing"
+msgstr "Okuma Satır Aralığı"
+
+msgid "Reading Mode"
+msgstr "Okuma Modu"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Okuma Hızı"
+
+msgid "Reading Text Size"
+msgstr "Okuma Metin Boyutu"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Panodaki zengin metni okur ve biçimlendirmesini korur."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Panodaki web içeriğini okur ve biçimlendirmesini korur."
+
+msgid "Recent documents to show:"
+msgstr "Gösterilecek son belge sayısı:"
+
+msgid "Recently Used Fonts"
+msgstr "Son Kullanılan Yazı Tipleri"
+
+msgid "Recently used symbols:"
+msgstr "Son kullanılan semboller:"
+
+msgid "Recipient List"
+msgstr "Alıcı Listesi"
+
+msgid "Recipient lists"
+msgstr "Alıcı listeleri"
+
+msgid "Recipients: {count}"
+msgstr "Alıcılar: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Simge gibi tek renkli bir resmi yeniden renklendir"
+
+msgid "Recolor Selected Ink"
+msgstr "Seçili Mürekkebi Yeniden Renklendir"
+
+msgid "Record Macro"
+msgstr "Makro Kaydet"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Kaydedilmemiş Belgeleri Kurtar"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Kırmızı:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Asılı Girintiyi Azalt"
+
+msgid "Reference type:"
+msgstr "Başvuru türü:"
+
+msgid "References"
+msgstr "Başvurular"
+
+msgid "Reflection"
+msgstr "Yansıma"
+
+msgid "Refresh printers"
+msgstr "Yazıcıları yenile"
+
+msgid "Region:"
+msgstr "Bölge:"
+
+msgid "Registered"
+msgstr "Tescilli Marka"
+
+msgid "Registered Sign"
+msgstr "Tescilli Marka İşareti"
+
+msgid "Regular expressions"
+msgstr "Düzenli ifadeler"
+
+msgid "Reject"
+msgstr "Reddet"
+
+msgid "Reject All Changes"
+msgstr "Tüm Değişiklikleri Reddet"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Değişikliği Reddet"
+
+msgid "Relationship"
+msgstr "İlişki"
+
+msgid "Relative to original picture size"
+msgstr "Özgün resim boyutuna göre"
+
+msgid "Remove Added Font"
+msgstr "Eklenen Yazı Tipini Kaldır"
+
+msgid "Remove condition"
+msgstr "Koşulu kaldır"
+
+msgid "Remove Content Control"
+msgstr "İçerik Denetimini Kaldır"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Tüm özel kısayollar kaldırılıp yerleşik tuşlar geri yüklensin mi?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Tüm özel sekmeler ve gruplar kaldırılıp tüm sekmeler yeniden gösterilsin mi?"
+
+msgid "Remove field"
+msgstr "Alanı kaldır"
+
+msgid "Remove Footer"
+msgstr "Altbilgiyi Kaldır"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğundan Kaldır"
+
+msgid "Remove gradient stop"
+msgstr "Degrade durağını kaldır"
+
+msgid "Remove Header"
+msgstr "Üstbilgiyi Kaldır"
+
+msgid "Remove Hyperlink"
+msgstr "Bağlantıyı Kaldır"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Kaydederken adımı açıklamalardan, değişikliklerden ve dosya özelliklerinden kaldır"
+
+msgid "Remove Password"
+msgstr "Parolayı Kaldır"
+
+msgid "Remove Pen"
+msgstr "Kalemi Kaldır"
+
+msgid "Remove recipient"
+msgstr "Alıcıyı kaldır"
+
+msgid "Remove row"
+msgstr "Satırı kaldır"
+
+msgid "Remove series"
+msgstr "Seriyi kaldır"
+
+msgid "Remove Space After Paragraph"
+msgstr "Paragraf Sonrası Boşluğu Kaldır"
+
+msgid "Remove Table of Contents"
+msgstr "İçindekiler Tablosunu Kaldır"
+
+msgid "Remove the control once edited"
+msgstr "Düzenlendikten sonra denetimi kaldır"
+
+msgid "Remove the space before the punctuation"
+msgstr ""
+
+msgid "Remove Watermark"
+msgstr "Filigranı Kaldır"
+
+msgid "Rename Document"
+msgstr "Belgeyi yeniden adlandır"
+
+msgid "Reopen"
+msgstr "Yeniden Aç"
+
+msgid "Repeat as header row on each page"
+msgstr "Her sayfada başlık satırı olarak tekrarla"
+
+msgid "Repeat Header Rows"
+msgstr "Başlık Satırlarını Tekrarla"
+
+msgid "Repeating Section Content Control"
+msgstr "Yinelenen Bölüm İçerik Denetimi"
+
+msgid "Replace All"
+msgstr "Tümünü Değiştir"
+
+msgid "Replace as you type"
+msgstr "Yazarken değiştir"
+
+msgid "Replace Document Text"
+msgstr "Belge Metnini Değiştir"
+
+msgid "Replace text as you type"
+msgstr "Yazarken metni değiştir"
+
+msgid "Replace with:"
+msgstr "Şununla değiştir:"
+
+msgid "Replay"
+msgstr "Yeniden Oynat"
+
+msgid "Research"
+msgstr "Araştırma"
+
+msgid "Researcher"
+msgstr "Araştırmacı"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Araştırmacı çevrimiçi bir hizmet gerektirir; WordCraft belgelerinizi çevrimdışı tutar."
+
+msgid "Reset All…"
+msgstr "Tümünü Sıfırla…"
+
+msgid "Reset Character Formatting"
+msgstr "Karakter Biçimlendirmesini Sıfırla"
+
+msgid "Reset Crop"
+msgstr "Kırpmayı Sıfırla"
+
+msgid "Reset Default Formatting"
+msgstr "Varsayılan Biçimlendirmeyi Sıfırla"
+
+msgid "Reset Graphic"
+msgstr "Grafiği Sıfırla"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Paragraf Biçimlendirmesini Sıfırla"
+
+msgid "Reset Picture"
+msgstr "Resmi Sıfırla"
+
+msgid "Reset tips"
+msgstr "İpuçlarını sıfırla"
+
+msgid "Reset to Normal"
+msgstr "Normale Sıfırla"
+
+msgid "Reset\nGraphic"
+msgstr "Grafiği\nSıfırla"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Tabloyu Sürükleyerek Yeniden Boyutlandır"
+
+msgid "Resolve"
+msgstr "Çöz"
+
+msgid "Resolved"
+msgstr "Çözüldü"
+
+msgid "Restart at 1"
+msgstr "1'den Yeniden Başlat"
+
+msgid "Restart Each Page"
+msgstr "Her Sayfada Yeniden Başlat"
+
+msgid "Restart Each Section"
+msgstr "Her Bölümde Yeniden Başlat"
+
+msgid "Restart list after:"
+msgstr "Listeyi şundan sonra yeniden başlat:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Düzenlemeyi Kısıtla"
+
+msgid "Restrict\nEditing"
+msgstr "Düzenlemeyi\nKısıtla"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Return address labels"
+msgstr "Gönderen adresi etiketleri"
+
+msgid "Return address:"
+msgstr "Gönderen adresi:"
+
+msgid "Reviewing"
+msgstr "İnceleme"
+
+msgid "Reviewing Pane"
+msgstr "İnceleme Bölmesi"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "İnceleme — düzenlemeler öneriye dönüşür"
+
+msgid "Revised document"
+msgstr "Düzeltilmiş belge"
+
+msgid "Rewind"
+msgstr "Geri Sar"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Geri sarıyorum. Ne zaman durayım, söyleyin."
+
+msgid "Ribbon"
+msgstr "Şerit"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Şerit ve Hızlı Erişim Araç Çubuğu:"
+
+msgid "Ribbon tabs"
+msgstr "Şerit sekmeleri"
+
+msgid "Rich Text Content Control"
+msgstr "Zengin Metin İçerik Denetimi"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Zengin Metin Biçimi (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Zengin Metin Biçimi (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Sağ (dikey)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Üstünde Metin Olan Sağa Ok"
+
+msgid "Right Arrow with Text Below"
+msgstr "Altında Metin Olan Sağa Ok"
+
+msgid "Right Border"
+msgstr "Sağ Kenarlık"
+
+msgid "Right border"
+msgstr "Sağ kenarlık"
+
+msgid "Right Bracket Twice"
+msgstr "İki Sağ Köşeli Parantez"
+
+msgid "Right indent"
+msgstr "Sağ girinti"
+
+msgid "Right Margin"
+msgstr "Sağ Kenar Boşluğu"
+
+msgid "Right Only"
+msgstr "Yalnızca Sağ"
+
+msgid "Right-to-left"
+msgstr "Sağdan sola"
+
+msgid "Right-to-Left Section"
+msgstr "Sağdan Sola Bölüm"
+
+msgid "Right-to-Left Table"
+msgstr "Sağdan Sola Tablo"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Sağdan Sola Metin Yönü"
+
+msgid "Rightwards Arrow Above"
+msgstr "Üstte Sağa Ok"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Üstte Sağa Zıpkın"
+
+msgid "Romanian"
+msgstr "Rumence"
+
+msgid "Roots of ax²+bx+c"
+msgstr "ax²+bx+c Kökleri"
+
+msgid "Rotate all text 270°"
+msgstr "Tüm metni 270° döndür"
+
+msgid "Rotate all text 90°"
+msgstr "Tüm metni 90° döndür"
+
+msgid "Rotate Left 90°"
+msgstr "Sola 90° Döndür"
+
+msgid "Rotate Right 90°"
+msgstr "Sağa 90° Döndür"
+
+msgid "Rotate with shape"
+msgstr "Şekille birlikte döndür"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Satır"
+
+msgid "Row:"
+msgstr "Satır:"
+
+msgid "Rows & Columns"
+msgstr "Satırlar ve Sütunlar"
+
+msgid "Ruby text:"
+msgstr "Ruby metni:"
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Yan yana"
+
+msgid "Russia"
+msgstr "Rusya"
+
+msgid "Résumé"
+msgstr "Özgeçmiş"
+
+msgid "SAMPLE"
+msgstr "ÖRNEK"
+
+msgid "Sat:"
+msgstr "Doygunluk:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Başka bir biçimde kopya kaydedin. Yazdırma, herhangi bir görüntüleyiciden yazdırabileceğiniz bir PDF üzerinden yapılır."
+
+msgid "Save as Word Template…"
+msgstr "Word şablonu olarak kaydet…"
+
+msgid "Save documents"
+msgstr "Belgeleri kaydet"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Otomatik Kaydet'i açmak için belgeyi kaydedin"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Otomatik Kaydet'i açmak için belgeyi kaydedin (yalnızca açtığınız bir dosya, siz kaydedene kadar yeniden yazılmaz)"
+
+msgid "Save these pages as PDF…"
+msgstr "Bu sayfaları PDF olarak kaydet…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Kaydedildi. Yine kaydedildi. Hâlâ kaydedildi. Epey kaydedildi."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Şablon klasörünüze bir .dotx şablonu kaydeder. Dosya › Yeni altında Kişisel bölümünde görünür."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "{name} kaydetme işlemi iptal edildi; belge hâlâ açık ve hiçbir şey kaybolmadı."
+
+msgid "Sayings"
+msgstr "Laf atmalar"
+
+msgid "Sayings:"
+msgstr "Sözler:"
+
+msgid "Scale Drawing"
+msgstr "Çizimi Ölçeklendir"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Dağılım"
+
+msgid "Script"
+msgstr "Üst/Alt Simge"
+
+msgid "Scroll ribbon left"
+msgstr "Şeridi sola kaydır"
+
+msgid "Scroll ribbon right"
+msgstr "Şeridi sağa kaydır"
+
+msgid "Search Commands"
+msgstr "Komut Ara"
+
+msgid "Search commands and help"
+msgstr "Komutlarda ve yardımda ara"
+
+msgid "Search document"
+msgstr "Belgede ara"
+
+msgid "Search for templates"
+msgstr "Şablon ara"
+
+msgid "Search icons"
+msgstr "Simgelerde ara"
+
+msgid "Search Options"
+msgstr "Arama Seçenekleri"
+
+msgid "Search:"
+msgstr "Ara:"
+
+msgid "Secant Function"
+msgstr "Sekant Fonksiyonu"
+
+msgid "Section 1.01"
+msgstr "Kısım 1.01"
+
+msgid "Section Break"
+msgstr "Bölüm Sonu"
+
+msgid "Section Breaks"
+msgstr "Bölüm Sonları"
+
+msgid "Section Character"
+msgstr "Bölüm Karakteri"
+
+msgid "Section direction:"
+msgstr "Bölüm yönü:"
+
+msgid "Section Mark"
+msgstr "Bölüm İşareti"
+
+msgid "Section Properties"
+msgstr "Bölüm Özellikleri"
+
+msgid "Sections"
+msgstr "Bölümler"
+
+msgid "See"
+msgstr "Bkz."
+
+msgid "select a chart first"
+msgstr "önce bir grafik seçin"
+
+msgid "select a connector first"
+msgstr "önce bir bağlayıcı seçin"
+
+msgid "select a diagram first"
+msgstr "önce bir diyagram seçin"
+
+msgid "select a drawing canvas first"
+msgstr "önce bir çizim tuvali seçin"
+
+msgid "select a floating picture or shape first"
+msgstr "önce kayan bir resim veya şekil seçin"
+
+msgid "select a group first"
+msgstr "önce bir grup seçin"
+
+msgid "select a picture first"
+msgstr "önce bir resim seçin"
+
+msgid "Select a picture first."
+msgstr "Önce bir resim seçin."
+
+msgid "select a picture or shape first"
+msgstr "önce bir resim veya şekil seçin"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Açıklamak için bir resim, şekil, grafik veya tablo seçin."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Bir yazıcı seçin"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "önce bir şekil seçin"
+
+msgid "select a shape or decorative text first"
+msgstr "önce bir şekil veya dekoratif metin seçin"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Dolgusunu biçimlendirmek için bir şekil, metin kutusu veya çizim tuvali seçin."
+
+msgid "select a SmartArt graphic first"
+msgstr "önce bir SmartArt grafiği seçin"
+
+msgid "select a text box first"
+msgstr "önce bir metin kutusu seçin"
+
+msgid "select a text box linked to another first"
+msgstr "önce başka bir kutuya bağlı bir metin kutusu seçin"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Hücre Seç"
+
+msgid "Select Column"
+msgstr "Tablo Sütunu Seç"
+
+msgid "Select Heading and Content"
+msgstr "Başlığı ve içeriğini seç"
+
+msgid "Select Line"
+msgstr "Satır Seç"
+
+msgid "Select Paragraph"
+msgstr "Paragraf Seç"
+
+msgid "Select Picture…"
+msgstr "Resim Seç…"
+
+msgid "Select Range"
+msgstr "Aralık Seç"
+
+msgid "Select Recipients"
+msgstr "Alıcıları Seç"
+
+msgid "select recipients first"
+msgstr "önce alıcıları seçin"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Alanlarından seçim yapmak için önce alıcıları seçin."
+
+msgid "Select recipients first to match their fields."
+msgstr "Alanları eşleştirmek için önce alıcıları seçin."
+
+msgid "Select Row"
+msgstr "Tablo Satırı Seç"
+
+msgid "Select Sentence"
+msgstr "Cümle Seç"
+
+msgid "Select Table"
+msgstr "Tablo Seç"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Tablo Hücrelerini Tıklayarak Seç"
+
+msgid "Select Text"
+msgstr "Metin Seç"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Benzer Biçimlendirilmiş Metni Seç"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Metni seçin, sonra kimlerin düzenleyebileceğini işaretleyin."
+
+msgid "select two or more cells to merge"
+msgstr "birleştirmek için iki veya daha fazla hücre seçin"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "iki veya daha fazla resim ya da şekil seçin (Shift+tıklama)"
+
+msgid "Select Word"
+msgstr "Sözcük Seç"
+
+msgid "Select\nRecipients"
+msgstr "Alıcıları\nSeç"
+
+msgid "Selected Fields"
+msgstr "Seçili Alanlar"
+
+msgid "Selected text"
+msgstr "Seçili metin"
+
+msgid "Selection Pane"
+msgstr "Seçim Bölmesi"
+
+msgid "Semitransparent"
+msgstr "Yarı saydam"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Belgeyi doğrudan sistem yazdırma iletişim kutusuna gönderin veya aşağıdan başka bir biçimde kopya kaydedin."
+
+msgid "Sentence"
+msgstr "Cümle"
+
+msgid "Sentence case."
+msgstr "Cümle düzeni."
+
+msgid "Separate text at"
+msgstr "Metni ayırma yeri"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Ayırıcı:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Dizi adı:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Sırpça (Kiril)"
+
+msgid "Serbian (Latin)"
+msgstr "Sırpça (Latin)"
+
+msgid "Series name"
+msgstr "Seri adı"
+
+msgid "Series {n}"
+msgstr "Seri {n}"
+
+msgid "Set As Default"
+msgstr "Varsayılan Olarak Ayarla"
+
+msgid "Set as default"
+msgstr "Varsayılan yap"
+
+msgid "Set As Default (Font)"
+msgstr "Varsayılan Olarak Ayarla (Yazı Tipi)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Varsayılan Olarak Ayarla (Sayfa Ayarları)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Varsayılan Olarak Ayarla (Paragraf)"
+
+msgid "Set as Default Language"
+msgstr "Varsayılan dil yap"
+
+msgid "Set Caret"
+msgstr "İmleci Konumlandır"
+
+msgid "Set Character Formatting"
+msgstr "Karakter Biçimlendirmesini Ayarla"
+
+msgid "Set Date"
+msgstr "Tarihi Ayarla"
+
+msgid "Set Equation"
+msgstr "Denklemi Ayarla"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Numaralandırma Değerini Ayarla"
+
+msgid "Set Paragraph Formatting"
+msgstr "Paragraf Biçimlendirmesini Ayarla"
+
+msgid "Set Proofing Language…"
+msgstr "Yazım denetimi dilini ayarla…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Ayar:"
+
+msgid "Shading"
+msgstr "Gölgelendirme"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Gölge, parlama ve yumuşak kenarlar"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Şekil Dolgusu"
+
+msgid "Shape Format"
+msgstr "Şekil Biçimi"
+
+msgid "Shape Outline"
+msgstr "Şekil Çizgisi"
+
+msgid "Shape Styles"
+msgstr "Şekil Stilleri"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Kargo etiketleri"
+
+msgid "Shortcut key:"
+msgstr "Kısayol tuşu:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Resimleri ve şekilleri taşırken hizalama kılavuzlarını göster"
+
+msgid "Show all formatting marks"
+msgstr "Tüm biçimlendirme işaretlerini göster"
+
+msgid "Show All Levels"
+msgstr "Tüm düzeyleri göster"
+
+msgid "Show all revisions inline"
+msgstr "Tüm düzeltmeleri satır içinde göster"
+
+msgid "Show changes at:"
+msgstr "Değişiklikleri göster:"
+
+msgid "Show changes in:"
+msgstr "Değişiklikleri şurada göster:"
+
+msgid "Show Comments"
+msgstr "Yorumları Göster"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Belgeleri, Görünüm › Mod Değiştir'deki gibi ters renklerle gösterir. Kaydetme, yazdırma ve PDF'ler değişmez."
+
+msgid "Show every bibliography field"
+msgstr "Tüm kaynakça alanlarını göster"
+
+msgid "Show First Line Only"
+msgstr "Yalnızca ilk satırı göster"
+
+msgid "Show in the Styles gallery"
+msgstr "Stiller galerisinde göster"
+
+msgid "Show its list number"
+msgstr "Liste numarasını göster"
+
+msgid "Show its number relative to this field"
+msgstr "Numarasını bu alana göre göster"
+
+msgid "Show its number with all higher levels"
+msgstr "Numarasını tüm üst düzeylerle göster"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Tuş ipuçlarını göster (Alt veya F10)"
+
+msgid "Show Level"
+msgstr "Düzeyi göster"
+
+msgid "Show Level 1"
+msgstr "Düzey 1'i göster"
+
+msgid "Show Level 2"
+msgstr "Düzey 2'yi göster"
+
+msgid "Show Level 3"
+msgstr "Düzey 3'ü göster"
+
+msgid "Show Level 4"
+msgstr "Düzey 4'ü göster"
+
+msgid "Show Level 5"
+msgstr "Düzey 5'i göster"
+
+msgid "Show Level 6"
+msgstr "Düzey 6'yı göster"
+
+msgid "Show Level 7"
+msgstr "Düzey 7'yi göster"
+
+msgid "Show Level 8"
+msgstr "Düzey 8'i göster"
+
+msgid "Show Level 9"
+msgstr "Düzey 9'u göster"
+
+msgid "Show Markup"
+msgstr "İşaretleri Göster"
+
+msgid "Show Notes"
+msgstr "Notları Göster"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Balonlarda yalnızca yorumları ve biçimlendirmeyi göster"
+
+msgid "Show only records that will be merged"
+msgstr "Yalnızca birleştirilecek kayıtları göster"
+
+msgid "Show or Hide Style"
+msgstr "Stili Göster veya Gizle"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Hızlı Erişim Araç Çubuğunu Göster"
+
+msgid "Show revisions in balloons"
+msgstr "Düzeltmeleri balonlarda göster"
+
+msgid "Show Text Formatting"
+msgstr "Metin biçimlendirmesini göster"
+
+msgid "Show the Assistant"
+msgstr "Asistanı göster"
+
+msgid "Show the community button in the title bar"
+msgstr "Başlık çubuğunda topluluk düğmesini göster"
+
+msgid "Show the equation in the line of text"
+msgstr "Denklemi metin satırı içinde göster"
+
+msgid "Show the equation on a line of its own"
+msgstr "Denklemi ayrı bir satırda göster"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Metin seçildiğinde mini araç çubuğunu göster"
+
+msgid "Show the ribbon"
+msgstr "Şeridi göster"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "WordCraft açılırken Başlangıç ekranını göster"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Bir daha görmek istemediğiniz ipuçlarını yeniden gösterir."
+
+msgid "Show/Hide ¶"
+msgstr "Göster/Gizle ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Göster/Gizle ¶ ({key}) metninizde saklanan boşlukları, sekmeleri ve sonları gösterir."
+
+msgid "Show\nComments"
+msgstr "Yorumları\nGöster"
+
+msgid "Showing the first {count} items."
+msgstr "İlk {count} öğe gösteriliyor."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Bir ağaç gösterir: her öğe ait olduğu öğenin altındadır."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Öğeleri merkezi bir fikrin çevresinde gösterir: ilk öğe merkezdedir."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Eşit ağırlıktaki öğeleri satırlar halinde bloklar olarak gösterir."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Örtüşen fikirleri iç içe geçen daireler olarak gösterir."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Bütünün parçalarını dörtte birlikler olarak gösterir."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Birbirinin üzerine kurulan parçaları, en büyüğü altta olacak şekilde gösterir."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Adımları soldan sağa sırayla, aralarında oklarla gösterir."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Yinelenen adımları daire etrafında gösterir."
+
+msgid "Shrink Font 1 Point"
+msgstr "Yazı Tipini 1 Punto Küçült"
+
+msgid "Shrink text"
+msgstr "Metni küçült"
+
+msgid "Side to Side"
+msgstr "Yan Yana"
+
+msgid "Side\nto Side"
+msgstr "Yan\nYana"
+
+msgid "Sides of a right triangle"
+msgstr "Dik Üçgen Kenarları"
+
+msgid "Signature Line"
+msgstr "İmza Satırı"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "f(x) Sinüs ve Kosinüs Serisi"
+
+msgid "Sine Function"
+msgstr "Sinüs Fonksiyonu"
+
+msgid "Sine theta"
+msgstr "Sinüs Teta"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Tek"
+
+msgid "Single Brackets"
+msgstr "Tekli Parantezler"
+
+msgid "Single Closing Quote"
+msgstr "Tek Kapanış Tırnağı"
+
+msgid "Single label"
+msgstr "Tek etiket"
+
+msgid "Single Left Angle"
+msgstr "Tekli Sol Açılı Parantez"
+
+msgid "Single Left Bar"
+msgstr "Tekli Sol Çubuk"
+
+msgid "Single Left Brace"
+msgstr "Tekli Sol Küme Parantezi"
+
+msgid "Single Left Bracket"
+msgstr "Tekli Sol Köşeli Parantez"
+
+msgid "Single Left Parenthesis"
+msgstr "Tekli Sol Parantez"
+
+msgid "Single Opening Quote"
+msgstr "Tek Açılış Tırnağı"
+
+msgid "Single Right Brace"
+msgstr "Tekli Sağ Küme Parantezi"
+
+msgid "Single Right Bracket"
+msgstr "Tekli Sağ Köşeli Parantez"
+
+msgid "Single Right Parenthesis"
+msgstr "Tekli Sağ Parantez"
+
+msgid "Single Spacing"
+msgstr "Tek Satır Aralığı"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "Site adı"
+
+msgid "Size (pt):"
+msgstr "Boyut (pt):"
+
+msgid "Size and Crop…"
+msgstr "Boyut ve Kırpma…"
+
+msgid "Sketchbook"
+msgstr "Eskiz Defteri"
+
+msgid "Skewed Fraction"
+msgstr "Eğik Kesir"
+
+msgid "Skip citations & bibliography"
+msgstr "Atıfları ve kaynakçayı atla"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Atıfları ve Kaynakçayı Atla"
+
+msgid "Skip Record If"
+msgstr "Koşula Göre Kaydı Atla"
+
+msgid "Skip Record If…"
+msgstr "Koşula Göre Kaydı Atla…"
+
+msgid "Slant Down"
+msgstr "Aşağı Eğim"
+
+msgid "Slant Up"
+msgstr "Yukarı Eğim"
+
+msgid "Slovak"
+msgstr "Slovakça"
+
+msgid "Slovenian"
+msgstr "Slovence"
+
+msgid "Small caps"
+msgstr "Küçük büyük harf"
+
+msgid "Small change"
+msgstr "Küçük Değişim"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Düz tırnak yerine akıllı tırnak"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt Tasarımı"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt Stilleri"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Yumuşak kaydırma ve yakınlaştırma ile menülerin ve düğmelerin yavaşça belirmesi. Kapalı seçildiğinde her değişiklik anında gösterilir."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Yumuşak Kenarlar"
+
+msgid "Soft Glow"
+msgstr "Yumuşak Parıltı"
+
+msgid "Solid Accent"
+msgstr "Düz Vurgu"
+
+msgid "Solid fill"
+msgstr "Düz dolgu"
+
+msgid "Sometimes"
+msgstr "Bazen"
+
+msgid "Sort by:"
+msgstr "Sıralama ölçütü:"
+
+msgid "Sort order:"
+msgstr "Sıralama:"
+
+msgid "Sort Recipients"
+msgstr "Alıcıları sırala"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Kaynak kod: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Kaynak Yöneticisi"
+
+msgid "Source type:"
+msgstr "Kaynak türü:"
+
+msgid "Sources in this document:"
+msgstr "Bu belgedeki kaynaklar:"
+
+msgid "South"
+msgstr "Güney"
+
+msgid "South Africa"
+msgstr "Güney Afrika"
+
+msgid "Space"
+msgstr "Boşluk"
+
+msgid "Space after"
+msgstr "Sonra boşluk"
+
+msgid "Space after: {pt} pt"
+msgstr "Sonra boşluk: {pt} pt"
+
+msgid "Space before"
+msgstr "Önce boşluk"
+
+msgid "Space before/after:"
+msgstr "Önce/sonra boşluk:"
+
+msgid "Space before: {pt} pt"
+msgstr "Önce boşluk: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Aralık (pt):"
+
+msgid "Spain"
+msgstr "İspanya"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "İspanyolca (Meksika)"
+
+msgid "Spanish (Spain)"
+msgstr "İspanyolca (İspanya)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Seyrek Matrisler"
+
+msgid "Special Characters"
+msgstr "Özel Karakterler"
+
+msgid "Specify height:"
+msgstr "Yüksekliği belirt:"
+
+msgid "Speech"
+msgstr "Konuşma"
+
+msgid "Spelling & Grammar"
+msgstr "Yazım ve Dilbilgisi"
+
+msgid "Spelling &\nGrammar"
+msgstr "Yazım ve\nDilbilgisi"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Yazım ve dil bilgisi denetimi dili: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Yazım Önerileri"
+
+msgid "Spike"
+msgstr "Biriktirici"
+
+msgid "Split Cells"
+msgstr "Hücreleri Böl"
+
+msgid "Split Table"
+msgstr "Tabloyu Böl"
+
+msgid "Spreadsheet Table"
+msgstr "Elektronik Tablo"
+
+msgid "Square Root"
+msgstr "Karekök"
+
+msgid "Square Root with Degree"
+msgstr "Dereceli Karekök"
+
+msgid "Square Union"
+msgstr "Kare Birleşim"
+
+msgid "Stack Object"
+msgstr "Yığın Nesnesi"
+
+msgid "Stack Object (Three)"
+msgstr "Yığın Nesnesi (Üçlü)"
+
+msgid "Stacked Bar"
+msgstr "Yığılmış Çubuk"
+
+msgid "Stacked Column"
+msgstr "Yığılmış Sütun"
+
+msgid "Stacked Fraction"
+msgstr "Dikey Kesir"
+
+msgid "Stacked, no bar"
+msgstr "Çizgisiz Yığın"
+
+msgid "Standard Colors"
+msgstr "Standart Renkler"
+
+msgid "Start Enforcing Protection"
+msgstr "Korumayı Başlat"
+
+msgid "Start Mail Merge"
+msgstr "Posta Birleştirmeyi Başlat"
+
+msgid "Start Mail\nMerge"
+msgstr "Posta\nBirleştirmeyi Başlat"
+
+msgid "Start-up"
+msgstr "Başlangıç"
+
+msgid "State"
+msgstr "İl/Eyalet"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Hâlâ orada mısınız? Düşündüğünüzü duyabiliyorum."
+
+msgid "Stop Protection"
+msgstr "Korumayı Durdur"
+
+msgid "Stop Reading"
+msgstr "Okumayı Durdur"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Straight Arrow Connector"
+msgstr "Düz Oklu Bağlayıcı"
+
+msgid "Straight Connector"
+msgstr "Düz Bağlayıcı"
+
+msgid "Stroke {n} of {total}"
+msgstr "Vuruş {n} / {total}"
+
+msgid "Strong"
+msgstr "Kalın Vurgu"
+
+msgid "Structure Actions"
+msgstr "Yapı İşlemleri"
+
+msgid "Structures"
+msgstr "Yapılar"
+
+msgid "Studio cover"
+msgstr "Stüdyo kapağı"
+
+msgid "Studio handbook (sample)"
+msgstr "Stüdyo el kitabı (örnek)"
+
+msgid "Style based on:"
+msgstr "Temel alınan stil:"
+
+msgid "Style Inspector"
+msgstr "Stil Denetçisi"
+
+msgid "Style name:"
+msgstr "Stil adı:"
+
+msgid "Style Set"
+msgstr "Stil Kümesi"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Stil: {style}"
+
+msgid "Styles Pane"
+msgstr "Stiller Bölmesi"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stiller:"
+
+msgid "Subentry:"
+msgstr "Alt girdi:"
+
+msgid "Submit print job"
+msgstr "Yazdırma işini gönder"
+
+msgid "Submitting print job…"
+msgstr "Yazdırma işi gönderiliyor…"
+
+msgid "Subscript-Superscript"
+msgstr "Alt ve Üst İndis"
+
+msgid "Subscripts and Superscripts"
+msgstr "Alt ve Üst İndisler"
+
+msgid "Subset:"
+msgstr "Alt küme:"
+
+msgid "Subtle Emphasis"
+msgstr "Hafif Vurgu"
+
+msgid "Subtle Reference"
+msgstr "Hafif Başvuru"
+
+msgid "Suggested"
+msgstr "Önerilenler"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Toplam"
+
+msgid "Sum of cosines"
+msgstr "Kosinüsler Toplamı"
+
+msgid "Sum or difference of sines"
+msgstr "Sinüsler Toplamı veya Farkı"
+
+msgid "Summation"
+msgstr "Toplam"
+
+msgid "Summation from 0 to n"
+msgstr "0'dan n'ye Toplam"
+
+msgid "Summation over binomials"
+msgstr "Binom Katsayıları Üzerinden Toplam"
+
+msgid "Summation with Limits"
+msgstr "Sınırlı Toplam"
+
+msgid "Summation with Lower Limit"
+msgstr "Alt Sınırlı Toplam"
+
+msgid "Summation with Subscript Limit"
+msgstr "Alt İndis Sınırlı Toplam"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Alt ve Üst İndis Sınırlı Toplam"
+
+msgid "Summations"
+msgstr "Toplamlar"
+
+msgid "Suppress line numbers"
+msgstr "Satır numaralarını gizle"
+
+msgid "Surface Integral"
+msgstr "Yüzey İntegrali"
+
+msgid "Surface Integral with Limits"
+msgstr "Sınırlı Yüzey İntegrali"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı Yüzey İntegrali"
+
+msgid "Swahili"
+msgstr "Svahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Dipnotları ve son notları değiştir"
+
+msgid "Swedish"
+msgstr "İsveççe"
+
+msgid "Switch Modes"
+msgstr "Mod Değiştir"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Mod\nDeğiştir"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "İsviçre"
+
+msgid "Synonyms"
+msgstr "Eş Anlamlılar"
+
+msgid "Syria"
+msgstr "Suriye"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "Sistem sözlüğü"
+
+msgid "Tab Character"
+msgstr "Sekme Karakteri"
+
+msgid "Tab character"
+msgstr "Sekme karakteri"
+
+msgid "Tab characters"
+msgstr "Sekme karakterleri"
+
+msgid "Tab leader:"
+msgstr "Sekme öncülü:"
+
+msgid "Tab stop position:"
+msgstr "Sekme durağı konumu:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Temizlenecek sekme durakları:"
+
+msgid "Table Column Width"
+msgstr "Tablo Sütun Genişliği"
+
+msgid "Table Design"
+msgstr "Tablo Tasarımı"
+
+msgid "Table direction:"
+msgstr "Tablo yönü:"
+
+msgid "Table Grid"
+msgstr "Tablo Kılavuzu"
+
+msgid "Table Layout"
+msgstr "Tablo Düzeni"
+
+msgid "Table of Authorities"
+msgstr "Hukuki Kaynaklar Tablosu"
+
+msgid "Table of Contents"
+msgstr "İçindekiler Tablosu"
+
+msgid "Table of Contents Options"
+msgstr "İçindekiler Tablosu Seçenekleri"
+
+msgid "Table of Contents Styles"
+msgstr "İçindekiler Tablosu Stilleri"
+
+msgid "Table of Figures"
+msgstr "Şekiller Tablosu"
+
+msgid "Table of\nContents"
+msgstr "İçindekiler\nTablosu"
+
+msgid "Table Properties"
+msgstr "Tablo Özellikleri"
+
+msgid "Table Properties…"
+msgstr "Tablo Özellikleri…"
+
+msgid "Table Row Height"
+msgstr "Tablo Satır Yüksekliği"
+
+msgid "Table size"
+msgstr "Tablo boyutu"
+
+msgid "Table Style Options"
+msgstr "Tablo Stili Seçenekleri"
+
+msgid "Table Styles"
+msgstr "Tablo Stilleri"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Sekmeler…"
+
+msgid "Tabular List"
+msgstr "Tablo Biçiminde Liste"
+
+msgid "Tag"
+msgstr "Etiket"
+
+msgid "Taiwan"
+msgstr "Tayvan"
+
+msgid "Take the last match on the page"
+msgstr "Sayfadaki son eşleşmeyi al"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Acele etmeyin. Sayfa hiçbir yere gitmiyor. Ben de. Asla."
+
+msgid "Tamil"
+msgstr "Tamilce"
+
+msgid "Tangent formula"
+msgstr "Tanjant Formülü"
+
+msgid "Tangent Function"
+msgstr "Tanjant Fonksiyonu"
+
+msgid "TC entry fields"
+msgstr "TC girdi alanları"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Teknoloji"
+
+msgid "Templates and Add-ins"
+msgstr "Şablonlar ve Eklentiler"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Şablon klasörünüze kaydettiğiniz şablonlar burada görünür."
+
+msgid "Text Box"
+msgstr "Metin Kutusu"
+
+msgid "Text boxes"
+msgstr "Metin kutuları"
+
+msgid "text boxes can't go inside a text box"
+msgstr "metin kutuları bir metin kutusunun içine konamaz"
+
+msgid "Text Direction"
+msgstr "Metin Yönü"
+
+msgid "Text Effects"
+msgstr "Metin Efektleri"
+
+msgid "Text Effects and Typography"
+msgstr "Metin Efektleri ve Tipografi"
+
+msgid "Text Fill"
+msgstr "Metin Dolgusu"
+
+msgid "Text from File"
+msgstr "Dosyadan Metin"
+
+msgid "Text Highlight Color"
+msgstr "Metin Vurgu Rengi"
+
+msgid "Text indent at:"
+msgstr "Metin girintisi:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Belirli bir stile sahip en yakın paragrafın metni (değişken üstbilgiler)"
+
+msgid "Text Outline"
+msgstr "Metin Anahattı"
+
+msgid "Text over Colon Equal"
+msgstr "İki Nokta Üst Üste Eşittir Üzerinde Metin"
+
+msgid "Text over Equal"
+msgstr "Eşittir Üzerinde Metin"
+
+msgid "Text Pane"
+msgstr "Metin Bölmesi"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Metin boyutu"
+
+msgid "Text snaps to characters"
+msgstr "Metin karakterlere yapışır"
+
+msgid "Text to display:"
+msgstr "Görüntülenecek metin:"
+
+msgid "Text watermark"
+msgstr "Metin filigranı"
+
+msgid "Text Wrapping"
+msgstr "Metin Kaydırma"
+
+msgid "Text\nBox"
+msgstr "Metin\nKutusu"
+
+msgid "Text\nDirection"
+msgstr "Metin\nYönü"
+
+msgid "Thai"
+msgstr "Tayca"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Bu biçim her şeyi korumaz; bu yüzden belge açık kalır. Devam etmek için Word belgesi (.docx) olarak kaydedin."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Parola yanlış. Kontrol edip yeniden deneyin (parolalar büyük/küçük harfe duyarlıdır)."
+
+msgid "The clipboard is empty."
+msgstr "Pano boş."
+
+msgid "the Clipboard pane is empty"
+msgstr "Pano bölmesi boş"
+
+msgid "the cursor isn't in a table"
+msgstr "imleç bir tabloda değil"
+
+msgid "The date it is today"
+msgstr "Bugünün tarihi"
+
+msgid "The document has no bookmarks yet."
+msgstr "Belgede henüz yer işareti yok."
+
+msgid "the document is protected"
+msgstr "belge korumalı"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Düzenlenebilir işaretli bölgeler dışında belge salt okunurdur."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Belge parolayla kaydedilecek. Korumak için belgeyi kaydedin."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Düzenlediğiniz belge adları ve tarihleri korur; yalnızca kaydedilen dosya bunları içermez."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Kenar boşlukları bu boyuttaki bir sayfaya sığmıyor; önce kenar boşluklarını küçültün."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Ölçü {min} ile {max} arasında olmalıdır."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Yeni stil, geçerli paragrafın biçimlendirmesini alır."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Normal şablonu okunamadı, bu nedenle bu belge WordCraft'ın yerleşik biçimlendirmesini kullanıyor."
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Sayı 1 ile {max} arasında olmalıdır."
+
+msgid "the paragraph is empty"
+msgstr "paragraf boş"
+
+msgid "the paragraph starts with a space"
+msgstr "paragraf boşlukla başlıyor"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Parola isteğe bağlıdır; olmadan herkes korumayı durdurabilir."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Parola kaldırıldı. Değişikliği korumak için belgeyi kaydedin."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Yazıcı, çift taraflı yazdırma ve yaprak başına sayfa sayısı o iletişim kutusunda seçilir."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Adres bloğunun ve selamlama satırının her bölümünü dolduran alıcı listesi alanı."
+
+msgid "The spelling and grammar check is complete."
+msgstr ""
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "biriktirici boş"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Sistemin dosya iletişim kutusu kullanılamadığı için WordCraft kendi iletişim kutusunu gösteriyor. Sistem iletişim kutusunu kullanmak için bir dosya seçici portalı (örneğin xdg-desktop-portal-gtk) ya da zenity yükleyin."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Ekleme noktasındaki metin şu şekilde işaretli: Yazım ve dil bilgisini denetleme."
+
+msgid "The time right now"
+msgstr "Şu anki saat"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Tema Renkleri"
+
+msgid "Theme Fonts"
+msgstr "Tema Yazı Tipleri"
+
+msgid "Theme List"
+msgstr "Tema Listesi"
+
+msgid "Themes"
+msgstr "Temalar"
+
+msgid "Then by"
+msgstr "Sonra"
+
+msgid "Then insert:"
+msgstr "Bu durumda ekle:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "yeniden oynatılacak mürekkep yok"
+
+msgid "there is nothing to undo"
+msgstr "geri alınacak bir şey yok"
+
+msgid "there's no citation after the caret"
+msgstr "imlecin sonrasında atıf yok"
+
+msgid "Thesaurus"
+msgstr "Eş Anlamlılar Sözlüğü"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Bu işaretler, Göster/Gizle ¶ kapalıyken de görünür."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Bu birleştirme alanları alıcı listesinde yok:"
+
+msgid "These settings will be used for new documents."
+msgstr "Bu ayarlar yeni belgeler için kullanılacak."
+
+msgid "Thick"
+msgstr "Kalın"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "bu grafik başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez"
+
+msgid "this diagram can't be edited"
+msgstr "bu diyagram düzenlenemez"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "bu diyagram başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez"
+
+msgid "This document"
+msgstr "Bu belge"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Yalnızca bu belge mi?"
+
+msgid "This field has no options."
+msgstr "Bu alanın seçeneği yok."
+
+msgid "This folder can't be read: {error}"
+msgstr "Bu klasör okunamıyor: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Bu yazı tipinde gösterilecek karakter yok."
+
+msgid "this item is already at the top level"
+msgstr "bu öğe zaten en üst düzeyde"
+
+msgid "This page"
+msgstr "Bu sayfa"
+
+msgid "This password type isn't supported."
+msgstr "Bu parola türü desteklenmiyor."
+
+msgid "This point forward"
+msgstr "Bu noktadan itibaren"
+
+msgid "This section"
+msgstr "Bu bölüm"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz): şunu kullanın \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "bu SmartArt başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez"
+
+msgid "this text box is already linked: break the link first"
+msgstr "bu metin kutusu zaten bağlı: önce bağlantıyı kesin"
+
+msgid "Three"
+msgstr "Üç"
+
+msgid "Through"
+msgstr "Geçişli"
+
+msgid "Tight"
+msgstr "Sıkı"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "İpucu"
+
+msgid "Tips ({n})"
+msgstr "İpuçları ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Örnek"
+
+msgid "Title Bar"
+msgstr "Başlık Çubuğu"
+
+msgid "Title from the document properties"
+msgstr "Belge özelliklerindeki başlık"
+
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Word belgelerini varsayılan olarak WordCraft ile açmak için: Finder'da bir belge seçin, Dosya › Bilgi Al'ı seçin, Birlikte aç altında WordCraft'ı seçin ve Tümünü Değiştir'e tıklayın."
+
+msgid "To:"
+msgstr "Bitiş:"
+
+msgid "TOA Heading"
+msgstr "Yetki Tablosu Başlığı"
+
+msgid "TOC Heading"
+msgstr "İçindekiler Başlığı"
+
+msgid "TOC {n}"
+msgstr "İçindekiler {n}"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "tOGGLE cASE"
+msgstr "bÜYÜK kÜÇÜK dÖNÜŞTÜR"
+
+msgid "Toggle Check Box"
+msgstr "Onay Kutusunu Değiştir"
+
+msgid "Toggle Field Codes"
+msgstr "Alan Kodlarını Aç/Kapat"
+
+msgid "Toggle Unicode Character"
+msgstr "Unicode Karakterini Değiştir"
+
+msgid "Top and Bottom"
+msgstr "Üst ve Alt"
+
+msgid "Top Border"
+msgstr "Üst Kenarlık"
+
+msgid "Top Left Cell"
+msgstr "Sol Üst Hücre"
+
+msgid "Top Margin"
+msgstr "Üst Kenar Boşluğu"
+
+msgid "Top of Page"
+msgstr "Sayfa Üstü"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Sağ Üst Hücre"
+
+msgid "Total Row"
+msgstr "Toplam Satırı"
+
+msgid "Track Changes"
+msgstr "Değişiklikleri İzle"
+
+msgid "Track Changes Options"
+msgstr "Değişiklikleri İzleme Seçenekleri"
+
+msgid "Track Changes: On"
+msgstr "Değişiklikleri İzle: Açık"
+
+msgid "Track formatting"
+msgstr "Biçimlendirmeyi izle"
+
+msgid "Track\nChanges"
+msgstr "Değişiklikleri\nİzle"
+
+msgid "Track\nChanges ✓"
+msgstr "Değişiklikleri\nİzle ✓"
+
+msgid "Tracked changes"
+msgstr "İzlenen değişiklikler"
+
+msgid "Trademark"
+msgstr "Ticari Marka"
+
+msgid "Trademark Sign"
+msgstr "Ticari Marka İşareti"
+
+msgid "Transparency:"
+msgstr "Saydamlık:"
+
+msgid "Transport"
+msgstr "Ulaşım"
+
+msgid "Triangle Down"
+msgstr "Aşağı Üçgen"
+
+msgid "Triangle Up"
+msgstr "Yukarı Üçgen"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometrik Fonksiyonlar"
+
+msgid "Triple"
+msgstr "Üçlü"
+
+msgid "Triple Dot"
+msgstr "Üç Nokta"
+
+msgid "Triple Integral"
+msgstr "Üçlü İntegral"
+
+msgid "Triple Integral with Limits"
+msgstr "Sınırlı Üçlü İntegral"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı Üçlü İntegral"
+
+msgid "Trust Center"
+msgstr "Güven Merkezi"
+
+msgid "Tue"
+msgstr "Sal"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "İki"
+
+msgid "Two-sided printing"
+msgstr "Çift taraflı yazdırma"
+
+msgid "Two-sided: long edge"
+msgstr "Çift taraflı: uzun kenar"
+
+msgid "Two-sided: short edge"
+msgstr "Çift taraflı: kısa kenar"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Bulunduğunuz sayfadan ilerlemek için +2, geri gitmek için -1 yazın."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Bir komut yazın, ör. \"tablo ekle\""
+
+msgid "Type a New List…"
+msgstr "Yeni Liste Yaz…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Herhangi bir birimde bir boyut yazın, örneğin 5 cm veya 300 px. Diğer kenar da buna uyar, böylece resim oranlarını korur."
+
+msgid "Type at least one recipient."
+msgstr "En az bir alıcı girin."
+
+msgid "Type Character Code"
+msgstr "Karakter Kodu Yaz"
+
+msgid "Type equations in LaTeX"
+msgstr "Denklemleri LaTeX biçiminde yazın"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Denklemleri doğrusal biçimde (UnicodeMath) yazın"
+
+msgid "Type in Equation"
+msgstr "Denklemde Yaz"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Denklem içinde normal (matematik dışı) metin yazın"
+
+msgid "Type Text"
+msgstr "Metin Yaz"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Kategorileri yan tarafa, her seri için bir değer sütunu yazın."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Alanın adını ve anahtarlarını yazın, örneğin PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Korumayı durdurmak için parolayı yazın."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Alıcıları yazın veya dosyadan yükleyin."
+
+msgid "Typing replaces selected text"
+msgstr "Yazmak seçili metnin yerine geçer"
+
+msgid "U.A.E."
+msgstr "Birleşik Arap Emirlikleri"
+
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+msgid "Ukrainian"
+msgstr "Ukraynaca"
+
+msgid "Unchecked symbol"
+msgstr "Seçili olmayan simge"
+
+msgid "Underbar"
+msgstr "Alt Çizgi"
+
+msgid "Underbrace"
+msgstr "Alt Küme Parantezi"
+
+msgid "Underline Color"
+msgstr "Alt Çizgi Rengi"
+
+msgid "Underline color"
+msgstr "Alt çizgi rengi"
+
+msgid "Underline Words Only"
+msgstr "Yalnızca Sözcüklerin Altını Çiz"
+
+msgid "Undo 1 Action"
+msgstr "1 Eylemi Geri Al"
+
+msgid "Undo Actions"
+msgstr "Eylemleri Geri Al"
+
+msgid "Undo History"
+msgstr "Geri Alma Geçmişi"
+
+msgid "Undo {n} Actions"
+msgstr "{n} Eylemi Geri Al"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Geri al, geri al, geri al… artık zamanda yolculuk yapıyoruz."
+
+msgid "Unformatted Text"
+msgstr "Biçimlendirilmemiş Metin"
+
+msgid "Union of intersections"
+msgstr "Kesişimlerin Birleşimi"
+
+msgid "Union with Limits"
+msgstr "Sınırlı Birleşim"
+
+msgid "Union with Lower Limit"
+msgstr "Alt Sınırlı Birleşim"
+
+msgid "Union with Plus"
+msgstr "Artılı Birleşim"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Alt ve Üst İndis Sınırlı Birleşim"
+
+msgid "Unions and Intersections"
+msgstr "Birleşimler ve Kesişimler"
+
+msgid "United Kingdom"
+msgstr "Birleşik Krallık"
+
+msgid "United States"
+msgstr "Amerika Birleşik Devletleri"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "bilinmeyen dekoratif metin stili `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Alan Bağlantılarını Kaldır"
+
+msgid "Unlink\nCitations"
+msgstr "Atıf Bağlarını\nKaldır"
+
+msgid "Unlock Fields"
+msgstr "Alanların Kilidini Aç"
+
+msgid "Up Diagonal Dots"
+msgstr "Yukarı Köşegen Üç Nokta"
+
+msgid "Up one level"
+msgstr "Bir düzey yukarı"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Alanı Güncelle"
+
+msgid "Update fields before printing"
+msgstr "Yazdırmadan önce alanları güncelle"
+
+msgid "Update Index"
+msgstr "Dizini Güncelle"
+
+msgid "Update Style to Match Selection"
+msgstr "Stili Seçime Göre Güncelle"
+
+msgid "Update Styles from Template"
+msgstr "Stilleri Şablondan Güncelle"
+
+msgid "Update Table"
+msgstr "Tabloyu Güncelle"
+
+msgid "Update Table of Figures"
+msgstr "Şekiller Listesini Güncelle"
+
+msgid "Update to Match"
+msgstr "Eşleşecek Şekilde Güncelle"
+
+msgid "Update to Match Selection"
+msgstr "Seçime Göre Güncelle"
+
+msgid "URGENT"
+msgstr "ACİL"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr ""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr ""
+
+msgid "Use an Existing List…"
+msgstr "Var Olan Listeyi Kullan…"
+
+msgid "Use system setting"
+msgstr "Sistem ayarını kullan"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Tarayıcının tam ekran modunu kullanın (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Geçerli stil kümesi ve tema tüm yeni belgeler için kullanılsın mı?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan"
+
+msgid "Use this formatting as the default for:"
+msgstr "Bu biçimlendirmeyi şunun için varsayılan olarak kullan:"
+
+msgid "Use wildcards"
+msgstr "Joker karakter kullan"
+
+msgid "User Name"
+msgstr "Kullanıcı Adı"
+
+msgid "User name:"
+msgstr "Kullanıcı adı:"
+
+msgid "User templates:"
+msgstr "Kullanıcı şablonları:"
+
+msgid "Vector A"
+msgstr "A Vektörü"
+
+msgid "Vector AB"
+msgstr "AB Vektörü"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Sürüm Geçmişi"
+
+msgid "Version {version} ({build})"
+msgstr "Sürüm {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Dikey hizalama:"
+
+msgid "Vertical Bars"
+msgstr "Dikey Çubuklar"
+
+msgid "Vertical Dots"
+msgstr "Dikey Üç Nokta"
+
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+msgid "View Alt Text…"
+msgstr "Alternatif Metni Görüntüle…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Kılavuz Çizgilerini Göster"
+
+msgid "View State"
+msgstr "Görünüm Durumu"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Görünüm › Odak, sözcükleriniz dışında her şeyi gizler. Ben dışarıda beklerim."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Görünümler"
+
+msgid "Visual effects"
+msgstr "Görsel efektler"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Cilt"
+
+msgid "Volume Integral"
+msgstr "Hacim İntegrali"
+
+msgid "Volume Integral with Limits"
+msgstr "Sınırlı Hacim İntegrali"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Üst Üste Sınırlı Hacim İntegrali"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "Kaydetme işleminin bitmesi bekleniyor…"
+
+msgid "Waiting for Zotero…"
+msgstr "Zotero bekleniyor…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Anahatlı Sıcak Geçiş"
+
+msgid "Warnings ({n})"
+msgstr "Uyarılar ({n})"
+
+msgid "Washout"
+msgstr "Soluk"
+
+msgid "Weather"
+msgstr "Hava Durumu"
+
+msgid "Web Layout"
+msgstr "Web Düzeni"
+
+msgid "Web page (*.html)"
+msgstr "Web sayfası (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Web\nDüzeni"
+
+msgid "Wed"
+msgstr "Çar"
+
+msgid "Welsh"
+msgstr "Galce"
+
+msgid "West"
+msgstr "Batı"
+
+msgid "When this document was first created"
+msgstr "Belgenin ilk oluşturulduğu tarih"
+
+msgid "When this document was most recently printed"
+msgstr "Belgenin en son yazdırıldığı tarih"
+
+msgid "When this document was most recently saved"
+msgstr "Belgenin en son kaydedildiği tarih"
+
+msgid "White Space"
+msgstr "Boşluk"
+
+msgid "White space"
+msgstr "Boşluk"
+
+msgid "Who the document properties name as author"
+msgstr "Belge özelliklerinde yazar olarak geçen kişi"
+
+msgid "Whole document"
+msgstr "Tüm belge"
+
+msgid "Whole page"
+msgstr "Tüm sayfa"
+
+msgid "Whole Table"
+msgstr "Tüm Tablo"
+
+msgid "Whole words"
+msgstr "Tam sözcükler"
+
+msgid "Wide"
+msgstr "Geniş"
+
+msgid "Widow/Orphan Control"
+msgstr "Tek Kalan Satır Denetimi"
+
+msgid "Widow/Orphan control"
+msgstr "Tek kalan satır denetimi"
+
+msgid "Width and spacing"
+msgstr "Genişlik ve aralık"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "Yeni:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML Belgesi (*.xml)"
+
+msgid "Word Count"
+msgstr "Sözcük Sayısı"
+
+msgid "Word document"
+msgstr "Word belgesi"
+
+msgid "Word document (*.docx)"
+msgstr "Word belgesi (*.docx)"
+
+msgid "Word Left"
+msgstr "Önceki Sözcük"
+
+msgid "Word level"
+msgstr "Sözcük düzeyi"
+
+msgid "Word Right"
+msgstr "Sonraki Sözcük"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML Belgesi (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt Stilleri"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft artık Word belgeleri için varsayılan uygulama."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Yalnızca sözcükler"
+
+msgid "Wrap Text"
+msgstr "Metni Kaydır"
+
+msgid "Wrap Text Sides"
+msgstr "Metin Kaydırma Kenarları"
+
+msgid "Wrap\nText"
+msgstr "Metni\nKaydır"
+
+msgid "Write & Insert Fields"
+msgstr "Alanları Yaz ve Ekle"
+
+msgid "Write a reply"
+msgstr "Yanıt yazın"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Yazar tıkanıklığı mı? Bana imlece bakmak iyi geliyor. Yıllardır bana göz kırpıp duruyor."
+
+msgid "x bar"
+msgstr "x Çizgisi"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "Yields"
+msgstr "Sonuç"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Bir süredir kaydetmediniz ve Otomatik Kaydet kapalı. Şimdi kaydedilsin mi?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Bir liste başlattınız. Bitirmek için Enter'a iki kez basın ya da bir öğeyi yeniden metne dönüştürmek için öğenin başında Backspace'e basın."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Belgeniz artık tarihin en çok kaydedilen belgesi."
+
+msgid "Your languages"
+msgstr "Dilleriniz"
+
+msgid "Your own dictionary"
+msgstr "Kendi sözlüğünüz"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Sisteminiz bir animasyon ayarı bildirmiyor, bu nedenle animasyon efektleri açık kalır."
+
+msgid "Your system has animation effects turned off."
+msgstr "Sisteminizde animasyon efektleri kapalı."
+
+msgid "Your system has animation effects turned on."
+msgstr "Sisteminizde animasyon efektleri açık."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: iptal edildi"
+
+msgid "Zotero: done"
+msgstr "Zotero: tamamlandı"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} okunamadı: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} atlandı (sınır {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} Tablo"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} katkıda bulunan · {commits} commit"
+
+msgid "{count} items highlighted"
+msgstr "{count} öğe vurgulandı"
+
+msgid "{count} of {total} pages will print"
+msgstr "{total} sayfadan {count} sayfa yazdırılacak"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Birleştirilecek alıcılar: {count} / {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group} ayarları"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} tüm belgenin yazım ve dil bilgisini denetler."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} sözcüklerinizi, karakterlerinizi ve paragraflarınızı sayar."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} metni, biçimlendirmeyi ve özel karakterleri bulur ve değiştirir."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} son eyleminizi yineler. On başlığı biçimlendirmek birden bir tıklama ve dokuz dokunuşa iner."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} yeni bir paragraf başlatmadan yeni bir satır başlatır."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} yeni bir sayfa başlatır. Sayfa gelene kadar Enter'a basmaktan çok daha düzenli."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} seçili metni bağlantıya dönüştürür."
+
+msgid "{key}+Click to follow link"
+msgstr "Bağlantıyı açmak için {key} tuşunu basılı tutup tıklayın"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (varsayılan)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (sözlük yok)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} artık belgenin varsayılan dili."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: sözlük bulunamadı"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft bu dilde henüz yazım ve dil bilgisi denetimi yapmıyor."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} ve {n} tane daha"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} inç"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} zaten var. Değiştirmek için Kaydet'i yeniden seçin."
+
+msgid "{name} is protected with a password."
+msgstr "{name} parolayla korunuyor."
+
+msgid "{name} options"
+msgstr "{name} seçenekleri"
+
+msgid "{name} wasn't found."
+msgstr "{name} bulunamadı."
+
+msgid "{n} entries marked."
+msgstr "{n} girdi işaretlendi."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} satır"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{words} sözcükten {selected} seçili"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} piksel"
+
+msgid "{words} words"
+msgstr "{words} sözcük"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} sözcük ve sayıyoruz. Gerçekten. Ben sayıyorum."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} sözcük! Konfeti atardım ama sonra temizlemem gerekirdi."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} sözcük. Bugün benim yazdığımdan {words} fazla."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "“{text}” ({row}, {series}) bir sayı değil."
+
+msgid "✓ None"
+msgstr "✓ Yok"
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

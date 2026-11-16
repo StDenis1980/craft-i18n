@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(ყველა)"
+
+msgid "(no style)"
+msgstr "(სტილის გარეშე)"
+
+msgid "(no suggestions)"
+msgstr "(შეთავაზებები არ არის)"
+
+msgid "(normal text)"
+msgstr "(ჩვეულებრივი ტექსტი)"
+
+msgid "(not matched)"
+msgstr "(შესაბამისობა არ არის)"
+
+msgid "(picture or object)"
+msgstr "(სურათი ან ობიექტი)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 ან მეტი სიმბოლო"
+
+msgid "1. Formatting restrictions"
+msgstr "1. ფორმატირების შეზღუდვები"
+
+msgid "1.5 Line Spacing"
+msgstr "სტრიქონთა დაშორება 1,5"
+
+msgid "1/4 Em Space"
+msgstr "მეოთხედი შორისი"
+
+msgid "1×2 Empty Matrix"
+msgstr "ცარიელი მატრიცა 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "ცარიელი მატრიცა 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. რედაქტირების შეზღუდვები"
+
+msgid "2×1 Empty Matrix"
+msgstr "ცარიელი მატრიცა 2×1"
+
+msgid "2×2 Determinant"
+msgstr "დეტერმინანტი 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "ცარიელი მატრიცა 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "ერთეულოვანი მატრიცა 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "ერთეულოვანი მატრიცა 2×2 (იშვიათი)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "მატრიცა 2×2 კვადრატულ ფრჩხილებში"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "მატრიცა 2×2 ორმაგ ვერტიკალურ ხაზებში"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "მატრიცა 2×2 მრგვალ ფრჩხილებში"
+
+msgid "2×3 Empty Matrix"
+msgstr "ცარიელი მატრიცა 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. დაცვის ჩართვა"
+
+msgid "3×1 Empty Matrix"
+msgstr "ცარიელი მატრიცა 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "ცარიელი მატრიცა 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "ცარიელი მატრიცა 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "ერთეულოვანი მატრიცა 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "ერთეულოვანი მატრიცა 3×3 (იშვიათი)"
+
+msgid "<< Less"
+msgstr "<< ნაკლები"
+
+msgid "<< Remove"
+msgstr "<< წაშლა"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "სახატავი ტილოს დაჯგუფების მოხსნა შეუძლებელია"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "ტექსტურ ბლოკში სახატავი ტილოს ჩასმა შეუძლებელია"
+
+msgid "A file dialog is already open."
+msgstr "ფაილის ფანჯარა უკვე გახსნილია."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "უფასო, ღია კოდის ტექსტური რედაქტორი, თავიდან დაწერილი Rust-ზე.\nArtCraft-ის გუნდის Crafting Apps-ის ნაწილი."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "Word-ის მელნის შემცველი ჯგუფის დაჯგუფების მოხსნა ჯერჯერობით შეუძლებელია"
+
+msgid "A mail merge field"
+msgstr "წერილების შერწყმის ველი"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "დანომრილი თანმიმდევრობა (ილუსტრაციები, ცხრილები…)"
+
+msgid "A password is required to open this document."
+msgstr "ამ დოკუმენტის გასახსნელად საჭიროა პაროლი."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "სარჩევი"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCc აბგდ"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz აბგდ"
+
+msgid "About WordCraft"
+msgstr "WordCraft-ის შესახებ"
+
+msgid "Above Chart"
+msgstr "დიაგრამის ზემოთ"
+
+msgid "Above the item"
+msgstr "ელემენტის ზემოთ"
+
+msgid "Above/below"
+msgstr "ზემოთ/ქვემოთ"
+
+msgid "Absolute value cases"
+msgstr "მოდულის შემთხვევები"
+
+msgid "Accent"
+msgstr "დიაკრიტიკული ნიშანი"
+
+msgid "Accent Gradient"
+msgstr "აქცენტური გრადიენტი"
+
+msgid "Accent with Reflection"
+msgstr "აქცენტი არეკვლით"
+
+msgid "Accent {n}"
+msgstr "აქცენტი {n}"
+
+msgid "Accents"
+msgstr "დიაკრიტიკული ნიშნები"
+
+msgid "Accept"
+msgstr "მიღება"
+
+msgid "Accept All Changes"
+msgstr "ყველა ცვლილების მიღება"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr "ყველა ცვლილების მიღება და თვალის დევნების შეწყვეტა"
+
+msgid "Accept and Move to Next"
+msgstr "მიღება და შემდეგზე გადასვლა"
+
+msgid "Accept This Change"
+msgstr "ამ ცვლილების მიღება"
+
+msgid "Accessed on"
+msgstr "ნანახია"
+
+msgid "Accessibility Pane"
+msgstr "ხელმისაწვდომობის პანელი"
+
+msgid "Account"
+msgstr "ანგარიში"
+
+msgid "Acute"
+msgstr "აკუტი"
+
+msgid "Add >>"
+msgstr "დამატება >>"
+
+msgid "Add a language"
+msgstr "ენის დამატება"
+
+msgid "Add a language…"
+msgstr "ენის დამატება…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "ცხრილის დამატება"
+
+msgid "Add at least one field."
+msgstr "დაამატეთ მინიმუმ ერთი ველი."
+
+msgid "Add Chart Element"
+msgstr "დიაგრამის ელემენტის დამატება"
+
+msgid "Add Condition"
+msgstr "პირობის დამატება"
+
+msgid "Add Field"
+msgstr "ველის დამატება"
+
+msgid "Add Font…"
+msgstr "შრიფტის დამატება…"
+
+msgid "Add gradient stop"
+msgstr "გრადიენტის გადასვლის წერტილის დამატება"
+
+msgid "Add line numbering"
+msgstr "სტრიქონების დანომვრის დამატება"
+
+msgid "Add New Source…"
+msgstr "ახალი წყაროს დამატება…"
+
+msgid "Add Object to Selection"
+msgstr "ობიექტის დამატება მონიშნულში"
+
+msgid "Add Pen"
+msgstr "კალმის დამატება"
+
+msgid "Add Row"
+msgstr "სტრიქონის დამატება"
+
+msgid "Add Series"
+msgstr "სერიის დამატება"
+
+msgid "Add Shape"
+msgstr "ფიგურის დამატება"
+
+msgid "Add Space Before Paragraph"
+msgstr "ინტერვალის დამატება აბზაცის წინ"
+
+msgid "Add space between Asian and Latin text"
+msgstr "ინტერვალის დამატება აზიურ და ლათინურ ტექსტს შორის"
+
+msgid "Add space between Asian text and numbers"
+msgstr "ინტერვალის დამატება აზიურ ტექსტსა და რიცხვებს შორის"
+
+msgid "Add tab stop at:"
+msgstr "ტაბულაციის გაჩერების დამატება პოზიციაზე:"
+
+msgid "Add Text"
+msgstr "ტექსტის დამატება"
+
+msgid "Add the chapter number"
+msgstr "თავის ნომრის დამატება"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "დოკუმენტში დამატება"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელზე დამატება"
+
+msgid "Add to Style Gallery"
+msgstr "სტილების გალერეაში დამატება"
+
+msgid "Add whether it is above or below"
+msgstr "ზემოთ თუ ქვემოთ მდებარეობის დამატება"
+
+msgid "Add/Edit\nBibliography"
+msgstr "ბიბლიოგრაფიის\nდამატება/რედაქტირება"
+
+msgid "Add/Edit\nCitation"
+msgstr "ციტატის დამატება/\nრედაქტირება"
+
+msgid "Add\nNote"
+msgstr "შენიშვნის\nდამატება"
+
+msgid "Add\nPen"
+msgstr "კალმის\nდამატება"
+
+msgid "Add\nShape"
+msgstr "ფიგურის\nდამატება"
+
+msgid "Added 1 font"
+msgstr "დაემატა 1 შრიფტი"
+
+msgid "Added Fonts"
+msgstr "დამატებული შრიფტები"
+
+msgid "Added {n} fonts"
+msgstr "დაემატა შრიფტი: {n}"
+
+msgid "Address"
+msgstr "მისამართი"
+
+msgid "Address Block"
+msgstr "მისამართის ბლოკი"
+
+msgid "Address labels"
+msgstr "მისამართის იარლიყები"
+
+msgid "Address:"
+msgstr "მისამართი:"
+
+msgid "Address\nBlock"
+msgstr "მისამართის\nბლოკი"
+
+msgid "Advanced Find"
+msgstr "გაფართოებული ძებნა"
+
+msgid "Advanced Find…"
+msgstr "გაფართოებული ძებნა…"
+
+msgid "Advanced Properties…"
+msgstr "დამატებითი თვისებები…"
+
+msgid "Afrikaans"
+msgstr "აფრიკაანსი"
+
+msgid "After:"
+msgstr "შემდეგ:"
+
+msgid "Agents"
+msgstr "აგენტები"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "WordCraft-თან დაკავშირებულ აგენტებს ასისტენტის მეშვეობით შეუძლიათ შეტყობინებების ჩვენება. დადუმებისას მათ ეცნობებათ, რომ ეს არ გსურთ."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "აჰ, ლათინური. მკვდარი ენა — როგორც ჩაშლილი ვადები."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "აჰ, რედაქტირების ეტაპი. ჩემი საყვარელი. ძალიან გადამწყვეტი."
+
+msgid "Albanian"
+msgstr "ალბანური"
+
+msgid "Align Bottom Center"
+msgstr "ქვემოთ ცენტრში სწორება"
+
+msgid "Align Bottom Left"
+msgstr "ქვემოთ მარცხნივ სწორება"
+
+msgid "Align Bottom Right"
+msgstr "ქვემოთ მარჯვნივ სწორება"
+
+msgid "Align Center"
+msgstr "ცენტრში სწორება"
+
+msgid "Align Center Left"
+msgstr "შუაში მარცხნივ სწორება"
+
+msgid "Align Center Right"
+msgstr "შუაში მარჯვნივ სწორება"
+
+msgid "Align Top Center"
+msgstr "ზემოთ ცენტრში სწორება"
+
+msgid "Align Top Left"
+msgstr "ზემოთ მარცხნივ სწორება"
+
+msgid "Align Top Right"
+msgstr "ზემოთ მარჯვნივ სწორება"
+
+msgid "Aligned at:"
+msgstr "სწორება პოზიციაზე:"
+
+msgid "All - Linear"
+msgstr "ყველა - წრფივი"
+
+msgid "All - Professional"
+msgstr "ყველა - პროფესიული"
+
+msgid "All Borders"
+msgstr "ყველა ჩარჩო"
+
+msgid "All caps"
+msgstr "მთავრული"
+
+msgid "All Commands"
+msgstr "ყველა ბრძანება"
+
+msgid "All documents based on the Normal template?"
+msgstr "ყველა დოკუმენტი, რომელიც „ძირითადი“ შაბლონს ეფუძნება?"
+
+msgid "All Fonts"
+msgstr "ყველა შრიფტი"
+
+msgid "All Levels"
+msgstr "ყველა დონე"
+
+msgid "All Markup"
+msgstr "ყველა მარკირება"
+
+msgid "All pages in the range"
+msgstr "დიაპაზონის ყველა გვერდი"
+
+msgid "All symbol sets"
+msgstr "სიმბოლოების ყველა ნაკრები"
+
+msgid "All system fonts are already available."
+msgstr "სისტემის ყველა შრიფტი უკვე ხელმისაწვდომია."
+
+msgid "Allow hanging punctuation"
+msgstr "გამოწეული პუნქტუაციის დაშვება"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "ლათინური ტექსტის სიტყვის შუაში გადატანის დაშვება"
+
+msgid "Allow line breaks"
+msgstr "სტრიქონის წყვეტის დაშვება"
+
+msgid "Allow row to break across pages"
+msgstr "სტრიქონის გვერდებზე გაყოფის დაშვება"
+
+msgid "Alphabetical"
+msgstr "ანბანის მიხედვით"
+
+msgid "Alt Text"
+msgstr "ალტერნატიული ტექსტი"
+
+msgid "Alt text"
+msgstr "ალტერნატიული ტექსტი"
+
+msgid "Alt Text Pane"
+msgstr "ალტერნატიული ტექსტის პანელი"
+
+msgid "Alt:"
+msgstr "ალტ.:"
+
+msgid "Alt\nText"
+msgstr "ალტერნატიული\nტექსტი"
+
+msgid "an agent"
+msgstr "აგენტი"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "დაინსტალირებული ენის პაკეტი გამოიყენება ამ საქაღალდის შემდეგ."
+
+msgid "And"
+msgstr "და"
+
+msgid "Angle Brackets"
+msgstr "კუთხოვანი ფრჩხილები"
+
+msgid "Angle Brackets with Separator"
+msgstr "კუთხოვანი ფრჩხილები გამყოფით"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "კუთხოვანი ფრჩხილები ორი გამყოფით"
+
+msgid "Angola"
+msgstr "ანგოლა"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "კურსორის ანიმაცია (სრიალებს და ქრება)"
+
+msgid "Animation effects:"
+msgstr "ანიმაციის ეფექტები:"
+
+msgid "Annotation Reference"
+msgstr "კომენტარის მითითება"
+
+msgid "Annotation Subject"
+msgstr "კომენტარის თემა"
+
+msgid "Annotation Text"
+msgstr "შენიშვნის ტექსტი"
+
+msgid "Annoying"
+msgstr "მომაბეზრებლად"
+
+msgid "Another file"
+msgstr "სხვა ფაილი"
+
+msgid "Any Character"
+msgstr "ნებისმიერი სიმბოლო"
+
+msgid "Any Digit"
+msgstr "ნებისმიერი ციფრი"
+
+msgid "Any field"
+msgstr "ნებისმიერი ველი"
+
+msgid "Any Letter"
+msgstr "ნებისმიერი ასო"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "ამ დოკუმენტის გახსნა ნებისმიერს შეუძლია. დაშიფრეთ პაროლით, რომ დაიცვათ."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "დოკუმენტის გამხსნელ ყველას ეს პაროლი დასჭირდება."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "ავტომატურად აკრეფისას"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "აზიური გადატანის წესების გამოყენება (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "ფორმატირების გამოყენება:"
+
+msgid "Apply Style"
+msgstr "სტილის გამოყენება"
+
+msgid "Apply Styles"
+msgstr "სტილების გამოყენება"
+
+msgid "Arabic"
+msgstr "არაბული"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "არაბული"
+
+msgid "Arch Down"
+msgstr "თაღი ქვემოთ"
+
+msgid "Arch Up"
+msgstr "თაღი ზემოთ"
+
+msgid "Argentina"
+msgstr "არგენტინა"
+
+msgid "Armenian"
+msgstr "სომხური"
+
+msgid "Arrange\nAll"
+msgstr "ყველას\nდალაგება"
+
+msgid "Article I."
+msgstr "მუხლი I."
+
+msgid "Artistic Effects"
+msgstr "მხატვრული ეფექტები"
+
+msgid "As Recommended"
+msgstr "რეკომენდებულის მიხედვით"
+
+msgid "As you type"
+msgstr "აკრეფისას"
+
+msgid "ASAP"
+msgstr "რაც შეიძლება მალე"
+
+msgid "Asian text font:"
+msgstr "აზიური ტექსტის შრიფტი:"
+
+msgid "Asian Typography"
+msgstr "აზიური ტიპოგრაფია"
+
+msgid "Assistant"
+msgstr "ასისტენტი"
+
+msgid "Assistant Suggestions"
+msgstr "ასისტენტის შეთავაზებები"
+
+msgid "At least"
+msgstr "მინიმუმ"
+
+msgid "At least {n}"
+msgstr "მინიმუმ {n}"
+
+msgid "Atelier"
+msgstr "ატელიე"
+
+msgid "Atmosphere"
+msgstr "ატმოსფერო"
+
+msgid "Attach Template"
+msgstr "შაბლონის მიმაგრება"
+
+msgid "Attach…"
+msgstr "მიმაგრება…"
+
+msgid "Australia"
+msgstr "ავსტრალია"
+
+msgid "Austria"
+msgstr "ავსტრია"
+
+msgid "Auto orientation"
+msgstr "ავტომატური ორიენტაცია"
+
+msgid "AutoCorrect"
+msgstr "ავტოშესწორება"
+
+msgid "AutoCorrect Options"
+msgstr "ავტოშესწორების პარამეტრები"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "ავტომორგება"
+
+msgid "AutoFit behavior"
+msgstr "ავტომორგების რეჟიმი"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "სვეტის ავტომორგება ორმაგი დაწკაპუნებით"
+
+msgid "AutoFit Contents"
+msgstr "შიგთავსზე მორგება"
+
+msgid "AutoFit to contents"
+msgstr "შიგთავსზე მორგება"
+
+msgid "AutoFit to window"
+msgstr "ფანჯარაში ჩატევა"
+
+msgid "AutoFit Window"
+msgstr "ფანჯარაში ჩატევა"
+
+msgid "AutoFormat As You Type"
+msgstr "ავტოფორმატირება აკრეფისას"
+
+msgid "Automatic ({language})"
+msgstr "ავტომატური ({language})"
+
+msgid "Automatic ({region})"
+msgstr "ავტომატური ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "ავტომატური ბურთულიანი სიები"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "ავტომატური რეჟიმი მიჰყვება სისტემის ენას. იცვლება მენიუები და ბრძანებები; დოკუმენტები უცვლელი რჩება."
+
+msgid "Automatic numbered lists"
+msgstr "ავტომატური დანომრილი სიები"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "ავტომატური სარჩევი 1 (3 დონე)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "ავტომატური სარჩევი 2 (2 დონე)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "სიტყვების სიაში ავტომატურად დამატება (პირველი ასო)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "სიტყვების სიაში ავტომატურად დამატება (ორი დიდი ასო)"
+
+msgid "Automatically hyphenate document"
+msgstr "დოკუმენტში სიტყვების ავტომატური გადატანა"
+
+msgid "Automatically Update Document Styles"
+msgstr "დოკუმენტის სტილების ავტომატური განახლება"
+
+msgid "Automatically update document styles"
+msgstr "დოკუმენტის სტილების ავტომატური განახლება"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "WordCraft-ში შენახული დოკუმენტების ავტოშენახვა"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "ავტოშენახვა ვერ მოხერხდა: {error}. ავტოშენახვის ხელახლა ჩასართავად შეინახეთ დოკუმენტი."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "ბრაუზერში ავტოშენახვა მიუწვდომელია: ის თქვენს ფაილებში ვერ წერს. შენახვა ასლს ჩამოტვირთავს."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "ავტოშენახვა მხოლოდ .docx, .odt და .rtf ფაილებს ინახავს; {name} მთელ ფორმატირებას ვერ შეინარჩუნებს. ავტოშენახვის ჩასართავად შეინახეთ .docx-ად."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "ავტოშენახვა ყოველ ცვლილებას ფაილში ინახავს (დოკუმენტი ჯერ უნდა იყოს შენახული)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "ავტოშენახვა ცვლილებებს ფაილში წერს აკრეფის შეწყვეტიდან ცოტა ხანში."
+
+msgid "AutoText"
+msgstr "ავტოტექსტი"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10,12\" × 14,33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7,17\" × 10,12\""
+
+msgid "Balloons"
+msgstr "ბუშტები"
+
+msgid "Banded Columns"
+msgstr "ზოლიანი სვეტები"
+
+msgid "Banded Rows"
+msgstr "ზოლიანი სტრიქონები"
+
+msgid "Base text:"
+msgstr "ძირითადი ტექსტი:"
+
+msgid "Based on: {style}"
+msgstr "ეფუძნება: {style}"
+
+msgid "Baseline Dots"
+msgstr "წერტილები საბაზისო ხაზზე"
+
+msgid "Basic Cycle"
+msgstr "მარტივი ციკლი"
+
+msgid "Basic List"
+msgstr "მარტივი სია"
+
+msgid "Basic Math"
+msgstr "ძირითადი მათემატიკა"
+
+msgid "Basic Matrix"
+msgstr "მარტივი მატრიცა"
+
+msgid "Basic Process"
+msgstr "მარტივი პროცესი"
+
+msgid "Basic Pyramid"
+msgstr "მარტივი პირამიდა"
+
+msgid "Basic Radial"
+msgstr "მარტივი რადიალური"
+
+msgid "Basic Venn"
+msgstr "მარტივი ვენის დიაგრამა"
+
+msgid "Bayes' rule"
+msgstr "ბაიესის წესი"
+
+msgid "Before:"
+msgstr "წინ:"
+
+msgid "Beginning of Word"
+msgstr "სიტყვის დასაწყისი"
+
+msgid "Behind Text"
+msgstr "ტექსტის უკან"
+
+msgid "Belarus"
+msgstr "ბელარუსი"
+
+msgid "Belarusian"
+msgstr "ბელარუსული"
+
+msgid "Belgium"
+msgstr "ბელგია"
+
+msgid "Below text"
+msgstr "ტექსტის ქვემოთ"
+
+msgid "Below the item"
+msgstr "ელემენტის ქვემოთ"
+
+msgid "Between"
+msgstr "შორის"
+
+msgid "Bibliography"
+msgstr "ბიბლიოგრაფია"
+
+msgid "Binomial Coefficient"
+msgstr "ბინომური კოეფიციენტი"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "ბინომური კოეფიციენტი (კუთხოვანი)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "ბინომური კოეფიციენტი კუთხოვანი ფრჩხილებით"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "(x+a)ⁿ-ის ბინომური გაშლა"
+
+msgid "Blank"
+msgstr "ცარიელი"
+
+msgid "Blank (Three Columns)"
+msgstr "ცარიელი (სამი სვეტი)"
+
+msgid "Blank document"
+msgstr "ცარიელი დოკუმენტი"
+
+msgid "Blank Page"
+msgstr "ცარიელი გვერდი"
+
+msgid "Block\nAuthors"
+msgstr "ავტორების\nდაბლოკვა"
+
+msgid "Blue:"
+msgstr "ლურჯი:"
+
+msgid "Body Text"
+msgstr "ძირითადი ტექსტი"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "მოკლე აბზაცის ძირითადი ტექსტი ინტერვალის საჩვენებლად."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "თამამი არჩევანია. Ctrl+Z სულ ახლოსაა, თუ დაგჭირდებათ."
+
+msgid "Bolivia"
+msgstr "ბოლივია"
+
+msgid "Book"
+msgstr "წიგნი"
+
+msgid "Book Title"
+msgstr "წიგნის სათაური"
+
+msgid "Book title"
+msgstr "წიგნის სათაური"
+
+msgid "Bookmark"
+msgstr "სანიშნე"
+
+msgid "Bookmark name:"
+msgstr "სანიშნის სახელი:"
+
+msgid "Bookmark text"
+msgstr "სანიშნის ტექსტი"
+
+msgid "Bookmarks"
+msgstr "სანიშნეები"
+
+msgid "Border lines"
+msgstr "ჩარჩოს ხაზები"
+
+msgid "Border Painter"
+msgstr "ჩარჩოს ფუნჯი"
+
+msgid "Border\nPainter"
+msgstr "ჩარჩოს\nფუნჯი"
+
+msgid "Borders and Shading"
+msgstr "ჩარჩოები და ფონი"
+
+msgid "Borders and Shading…"
+msgstr "ჩარჩოები და ფონი…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "ბოსნია და ჰერცეგოვინა"
+
+msgid "Bosnian"
+msgstr "ბოსნიური"
+
+msgid "Both Sides"
+msgstr "ორივე მხარე"
+
+msgid "Bottom Border"
+msgstr "ქვედა ჩარჩო"
+
+msgid "Bottom Left Cell"
+msgstr "ქვედა მარცხენა უჯრა"
+
+msgid "Bottom Margin"
+msgstr "ქვედა ველი"
+
+msgid "Bottom of Page"
+msgstr "გვერდის ბოლოში"
+
+msgid "Bottom Right Cell"
+msgstr "ქვედა მარჯვენა უჯრა"
+
+msgid "Box"
+msgstr "ჩარჩო"
+
+msgid "Boxed Formula"
+msgstr "ჩარჩოში ჩასმული ფორმულა"
+
+msgid "Boxed Formula (example)"
+msgstr "ჩარჩოში ჩასმული ფორმულა (მაგალითი)"
+
+msgid "Boxed Formulas"
+msgstr "ჩარჩოში ჩასმული ფორმულები"
+
+msgid "Braces"
+msgstr "ფიგურული ფრჩხილები"
+
+msgid "Braces with Separator"
+msgstr "ფიგურული ფრჩხილები გამყოფით"
+
+msgid "Bracket"
+msgstr "ფრჩხილი"
+
+msgid "Brackets"
+msgstr "კვადრატული ფრჩხილები"
+
+msgid "Brackets with Separators"
+msgstr "კვადრატული ფრჩხილები გამყოფებით"
+
+msgid "Brazil"
+msgstr "ბრაზილია"
+
+msgid "Breaks"
+msgstr "გამყოფები"
+
+msgid "Breve"
+msgstr "ბრევისი"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "უფრო ნათელი +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "სიკაშკაშე, კონტრასტი და სიმკვეთრე"
+
+msgid "Browse in WordCraft…"
+msgstr "WordCraft-ში დათვალიერება…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "სამშენებლო ბლოკების გალერეის შიგთავსის მართვის ელემენტი"
+
+msgid "Built in"
+msgstr "ჩაშენებული"
+
+msgid "Built-In"
+msgstr "ჩაშენებული"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "ჩაშენებული სტილი"
+
+msgid "Built-in styles can't be deleted."
+msgstr "ჩაშენებული სტილების წაშლა შეუძლებელია."
+
+msgid "Bulgarian"
+msgstr "ბულგარული"
+
+msgid "Bullet Library"
+msgstr "ბურთულების ნაკრები"
+
+msgid "Bullets"
+msgstr "ბურთულები"
+
+msgid "By author"
+msgstr "ავტორის მიხედვით"
+
+msgid "Cabo Verde"
+msgstr "კაბო-ვერდე"
+
+msgid "Calendar"
+msgstr "კალენდარი"
+
+msgid "Can't be deleted"
+msgstr "წაშლა შეუძლებელია"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "ბრძანებას ვერ პოულობთ? დააჭირეთ {key}-ს და აკრიფეთ, რისი გაკეთებაც გსურთ."
+
+msgid "can't split at the first row"
+msgstr "პირველ სტრიქონზე დაყოფა შეუძლებელია"
+
+msgid "Canada"
+msgstr "კანადა"
+
+msgid "Canvas Member"
+msgstr "ტილოს ელემენტი"
+
+msgid "Capitalize Each Word"
+msgstr "ყოველი სიტყვა მთავრულით"
+
+msgid "Capitalize first letter of sentences"
+msgstr "წინადადების დაწყება დიდი ასოთი"
+
+msgid "Capitalize first letter of table cells"
+msgstr "ცხრილის უჯრის დაწყება დიდი ასოთი"
+
+msgid "Capitalize names of days"
+msgstr "კვირის დღეების დიდი ასოთი დაწერა"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "წინადადების პირველი სიტყვა დაიწყეთ დიდი ასოთი"
+
+msgid "Caption Numbering"
+msgstr "წარწერის დანომვრა"
+
+msgid "Caption text"
+msgstr "წარწერის ტექსტი"
+
+msgid "Caption:"
+msgstr "წარწერა:"
+
+msgid "Captions"
+msgstr "წარწერები"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "ფრთხილად: კიდევ ცოტა უკან და ქაღალდის გამოგონებამდე დავბრუნდებით."
+
+msgid "Caret Character"
+msgstr "„^“ სიმბოლო"
+
+msgid "Case changes"
+msgstr "რეგისტრის ცვლილებები"
+
+msgid "Cases (Three Conditions)"
+msgstr "შემთხვევები (სამი პირობა)"
+
+msgid "Cases (Two Conditions)"
+msgstr "შემთხვევები (ორი პირობა)"
+
+msgid "Cases and Stacks"
+msgstr "შემთხვევები და დასტები"
+
+msgid "Catalan"
+msgstr "კატალანური"
+
+msgid "Catalan (Valencian)"
+msgstr "კატალანური (ვალენსიური)"
+
+msgid "Categories"
+msgstr "კატეგორიები"
+
+msgid "Categories:"
+msgstr "კატეგორიები:"
+
+msgid "Category {n}"
+msgstr "კატეგორია {n}"
+
+msgid "Ceiling"
+msgstr "ზედა მთელი ნაწილი"
+
+msgid "Cell"
+msgstr "უჯრა"
+
+msgid "Cell Margins"
+msgstr "უჯრის ველები"
+
+msgid "Cell\nMargins"
+msgstr "უჯრის\nველები"
+
+msgid "Center Glow"
+msgstr "ცენტრალური ნათება"
+
+msgid "Centered as Group"
+msgstr "ცენტრში ჯგუფურად"
+
+msgid "Change Chart Type"
+msgstr "დიაგრამის ტიპის შეცვლა"
+
+msgid "Change Colors"
+msgstr "ფერების შეცვლა"
+
+msgid "Change in y over change in x"
+msgstr "y-ის ცვლილება x-ის ცვლილებაზე"
+
+msgid "Change Layout"
+msgstr "განლაგების შეცვლა"
+
+msgid "Change List Level"
+msgstr "სიის დონის შეცვლა"
+
+msgid "Change Password…"
+msgstr "პაროლის შეცვლა…"
+
+msgid "Change Picture"
+msgstr "სურათის შეცვლა"
+
+msgid "Change Picture…"
+msgstr "სურათის შეცვლა…"
+
+msgid "Change Shape"
+msgstr "ფიგურის შეცვლა"
+
+msgid "Change Structure"
+msgstr "სტრუქტურის შეცვლა"
+
+msgid "Change to Display"
+msgstr "ცალკე სტრიქონად"
+
+msgid "Change to Inline"
+msgstr "ტექსტში ჩაშენება"
+
+msgid "Change to Level 1"
+msgstr "პირველ დონეზე გადატანა"
+
+msgid "Change to Level 2"
+msgstr "დონე 2-ზე გადატანა"
+
+msgid "Change to Level 3"
+msgstr "დონე 3-ზე გადატანა"
+
+msgid "Change to Level 4"
+msgstr "დონე 4-ზე გადატანა"
+
+msgid "Change to Level 5"
+msgstr "დონე 5-ზე გადატანა"
+
+msgid "Change to Level 6"
+msgstr "დონე 6-ზე გადატანა"
+
+msgid "Change to Level 7"
+msgstr "დონე 7-ზე გადატანა"
+
+msgid "Change to Level 8"
+msgstr "დონე 8-ზე გადატანა"
+
+msgid "Change to Level 9"
+msgstr "დონე 9-ზე გადატანა"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "დიაგრამის ტიპის\nშეცვლა"
+
+msgid "Change\nColors"
+msgstr "ფერების\nშეცვლა"
+
+msgid "Changed lines:"
+msgstr "შეცვლილი სტრიქონები:"
+
+msgid "Changes"
+msgstr "ცვლილებები"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "თავი 1"
+
+msgid "Chapter in a book"
+msgstr "თავი წიგნში"
+
+msgid "Chapters begin at:"
+msgstr "თავები იწყება:"
+
+msgid "Character Border"
+msgstr "სიმბოლოს ჩარჩო"
+
+msgid "Character code:"
+msgstr "სიმბოლოს კოდი:"
+
+msgid "Character in Range"
+msgstr "სიმბოლო დიაპაზონში"
+
+msgid "Character level"
+msgstr "სიმბოლოს დონეზე"
+
+msgid "Character Position"
+msgstr "სიმბოლოს პოზიცია"
+
+msgid "Character Scale"
+msgstr "სიმბოლოს მასშტაბი"
+
+msgid "Character Shading"
+msgstr "სიმბოლოს ფონი"
+
+msgid "Character Spacing"
+msgstr "სიმბოლოთა ინტერვალი"
+
+msgid "Character spacing"
+msgstr "სიმბოლოთა ინტერვალი"
+
+msgid "Character style"
+msgstr "სიმბოლოს სტილი"
+
+msgid "Characters (no spaces)"
+msgstr "სიმბოლოები (სივრცის გარეშე)"
+
+msgid "Characters (with spaces)"
+msgstr "სიმბოლოები (სივრცით)"
+
+msgid "Characters per line:"
+msgstr "სიმბოლო სტრიქონში:"
+
+msgid "Chart"
+msgstr "დიაგრამა"
+
+msgid "Chart Design"
+msgstr "დიაგრამის დიზაინი"
+
+msgid "Chart Layouts"
+msgstr "დიაგრამის განლაგებები"
+
+msgid "Chart Title"
+msgstr "დიაგრამის სათაური"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "დიაგრამებისა და სქემების გადაადგილება ან ზომის შეცვლა ჯერჯერობით შეუძლებელია"
+
+msgid "Check"
+msgstr "თოლია"
+
+msgid "Check Accessibility"
+msgstr "ხელმისაწვდომობის შემოწმება"
+
+msgid "Check Box Content Control"
+msgstr "მოსანიშნი ველის შიგთავსის მართვის ელემენტი"
+
+msgid "Check Compatibility"
+msgstr "თავსებადობის შემოწმება"
+
+msgid "Check for Errors"
+msgstr "შეცდომების შემოწმება"
+
+msgid "Check for\nUpdates…"
+msgstr "განახლებების\nშემოწმება…"
+
+msgid "Check Spelling as You Type"
+msgstr "მართლწერის შემოწმება აკრეფისას"
+
+msgid "Check spelling as you type"
+msgstr "მართლწერის შემოწმება აკრეფისას"
+
+msgid "Check\nAccessibility"
+msgstr "ხელმისაწვდომობის\nშემოწმება"
+
+msgid "Checked styles are allowed:"
+msgstr "დაშვებულია მონიშნული სტილები:"
+
+msgid "Checked symbol"
+msgstr "მონიშნულის სიმბოლო"
+
+msgid "Checking for updates…"
+msgstr "განახლებების შემოწმება…"
+
+msgid "Chevron Down"
+msgstr "შევრონი ქვემოთ"
+
+msgid "Chevron Up"
+msgstr "შევრონი ზემოთ"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "ჩილე"
+
+msgid "China"
+msgstr "ჩინეთი"
+
+msgid "Chinese (Simplified)"
+msgstr "ჩინური (გამარტივებული)"
+
+msgid "Chinese (Traditional)"
+msgstr "ჩინური (ტრადიციული)"
+
+msgid "Choose a command"
+msgstr "აირჩიეთ ბრძანება"
+
+msgid "Choose a shortcut"
+msgstr "აირჩიეთ კლავიშების კომბინაცია"
+
+msgid "Choose List Item"
+msgstr "სიის ელემენტის არჩევა"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "აირჩიეთ ფურცელი, რომელშიც მიმღებები არიან."
+
+msgid "Circle area from its radius"
+msgstr "წრის ფართობი რადიუსით"
+
+msgid "Circled Dot"
+msgstr "წრეში ჩასმული წერტილი"
+
+msgid "Circled Plus"
+msgstr "წრეში ჩასმული პლუსი"
+
+msgid "Circled Times"
+msgstr "წრეში ჩასმული გამრავლება"
+
+msgid "Citation Style"
+msgstr "ციტირების სტილი"
+
+msgid "Citations"
+msgstr "ციტატები"
+
+msgid "Citations & Bibliography"
+msgstr "ციტატები და ბიბლიოგრაფია"
+
+msgid "Clear All Formatting"
+msgstr "ფორმატირების გასუფთავება"
+
+msgid "Clear Character Formatting"
+msgstr "სიმბოლოს ფორმატირების გასუფთავება"
+
+msgid "Clear Character Style"
+msgstr "სიმბოლოს სტილის გასუფთავება"
+
+msgid "Clear Formatting Level"
+msgstr "ფორმატირების დონის გასუფთავება"
+
+msgid "Clear Paragraph Formatting"
+msgstr "აბზაცის ფორმატირების გასუფთავება"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "ორი უჯრის შესაერთებლად დაწკაპეთ მათ შორის საზღვარზე. Esc — შეწყვეტა."
+
+msgid "Click an item to paste it."
+msgstr "ჩასასმელად დაწკაპეთ ელემენტზე."
+
+msgid "Click level to modify:"
+msgstr "აირჩიეთ შესაცვლელი დონე:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "დაწკაპეთ ცარიელ ტექსტურ ბლოკზე, სადაც ტექსტი უნდა გაგრძელდეს (Esc — გაუქმება)"
+
+msgid "Click to switch back to inserting"
+msgstr "დაწკაპეთ ჩასმის რეჟიმზე დასაბრუნებლად"
+
+msgid "Clipboard Contents"
+msgstr "გაცვლის ბუფერის შიგთავსი"
+
+msgid "Clipboard Items"
+msgstr "გაცვლის ბუფერის ელემენტები"
+
+msgid "Clipboard Pane"
+msgstr "გაცვლის ბუფერის პანელი"
+
+msgid "Close Document"
+msgstr "დოკუმენტის დახურვა"
+
+msgid "Close Equation"
+msgstr "განტოლების დახურვა"
+
+msgid "Close Header and Footer"
+msgstr "კოლონტიტულების დახურვა"
+
+msgid "Close Outline View"
+msgstr "სტრუქტურის ხედის დახურვა"
+
+msgid "Close Outline\nView"
+msgstr "სტრუქტურის\nხედის დახურვა"
+
+msgid "Clustered Bar"
+msgstr "დაჯგუფებული ზოლოვანი"
+
+msgid "Clustered Column"
+msgstr "დაჯგუფებული სვეტოვანი"
+
+msgid "cm"
+msgstr "სმ"
+
+msgid "Col #:"
+msgstr "სვეტი №:"
+
+msgid "Collapse Selection"
+msgstr "მონიშვნის მოხსნა"
+
+msgid "Collate copies"
+msgstr "ასლების დაკომპლექტება"
+
+msgid "Collect entries from:"
+msgstr "ჩანაწერების შეგროვება:"
+
+msgid "Colombia"
+msgstr "კოლუმბია"
+
+msgid "Colon Equal"
+msgstr "ორწერტილი-ტოლობა"
+
+msgid "Color model:"
+msgstr "ფერის მოდელი:"
+
+msgid "Color only"
+msgstr "მხოლოდ ფერი"
+
+msgid "Color: {color}"
+msgstr "ფერი: {color}"
+
+msgid "Colorful"
+msgstr "ფერადი"
+
+msgid "Column"
+msgstr "სვეტი"
+
+msgid "Column Break"
+msgstr "სვეტის გამყოფი"
+
+msgid "Column Selection"
+msgstr "სვეტის მონიშვნა"
+
+msgid "Column {n}"
+msgstr "სვეტი {n}"
+
+msgid "Column:"
+msgstr "სვეტი:"
+
+msgid "Combine Documents"
+msgstr "დოკუმენტების გაერთიანება"
+
+msgid "Combo Box Content Control"
+msgstr "კომბინირებული ველის შიგთავსის მართვის ელემენტი"
+
+msgid "Commands"
+msgstr "ბრძანებები"
+
+msgid "Commas"
+msgstr "მძიმეები"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "კომენტარები ყოველი გვერდის გვერდით და ჩაწერილი ცვლილებები PDF-ში, ამონაბეჭდსა და სურათებში; კომენტარების სია ვებგვერდების, Markdown-ისა და ტექსტის ბოლოს."
+
+msgid "Comments Pane"
+msgstr "კომენტარების პანელი"
+
+msgid "Common Accent Objects"
+msgstr "ხშირი დიაკრიტიკული ობიექტები"
+
+msgid "Common Brackets"
+msgstr "ხშირი ფრჩხილები"
+
+msgid "Common Fractions"
+msgstr "ხშირი წილადები"
+
+msgid "Common Functions"
+msgstr "ხშირი ფუნქციები"
+
+msgid "Common Large Operators"
+msgstr "ხშირი დიდი ოპერატორები"
+
+msgid "Common Operator Structures"
+msgstr "ოპერატორების ხშირი სტრუქტურები"
+
+msgid "Common Operators"
+msgstr "ხშირი ოპერატორები"
+
+msgid "Common Radicals"
+msgstr "ხშირი ფესვები"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "ხშირი ქვედა და ზედა ინდექსები"
+
+msgid "Communication"
+msgstr "კომუნიკაცია"
+
+msgid "Community\nDiscord"
+msgstr "Discord\nსაზოგადოება"
+
+msgid "Compact"
+msgstr "კომპაქტური"
+
+msgid "Compare Documents"
+msgstr "დოკუმენტების შედარება"
+
+msgid "Compare to"
+msgstr "შესადარებელი მნიშვნელობა"
+
+msgid "Compared: {changes} changes"
+msgstr "შედარებულია; ცვლილება: {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "სხვა ფაილთან შედარებისთვის საჭიროა დესკტოპის პროგრამა."
+
+msgid "Comparison settings"
+msgstr "შედარების პარამეტრები"
+
+msgid "Compress Pictures"
+msgstr "სურათების შეკუმშვა"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "სტრიქონის დასაწყისში პუნქტუაციის შეკუმშვა"
+
+msgid "Conference"
+msgstr "კონფერენცია"
+
+msgid "Conference paper"
+msgstr "კონფერენციის მოხსენება"
+
+msgid "CONFIDENTIAL"
+msgstr "კონფიდენციალური"
+
+msgid "Confirm password:"
+msgstr "გაიმეორეთ პაროლი:"
+
+msgid "Connect Shapes"
+msgstr "ფიგურების დაკავშირება"
+
+msgid "Container Title"
+msgstr "კრებულის სათაური"
+
+msgid "Content Control at Selection"
+msgstr "შიგთავსის მართვის ელემენტი მონიშნულში"
+
+msgid "Content Control Properties"
+msgstr "შიგთავსის მართვის ელემენტის პარამეტრები"
+
+msgid "Contents can't be edited"
+msgstr "შიგთავსის რედაქტირება შეუძლებელია"
+
+msgid "Context"
+msgstr "კონტექსტური"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "კონტექსტური"
+
+msgid "Continue from previous section"
+msgstr "წინა სექციიდან გაგრძელება"
+
+msgid "Continue without restoring"
+msgstr "გაგრძელება აღდგენის გარეშე"
+
+msgid "Continuous"
+msgstr "უწყვეტი"
+
+msgid "Continuous numbering"
+msgstr "უწყვეტი დანომვრა"
+
+msgid "Contour Integral"
+msgstr "კონტურული ინტეგრალი"
+
+msgid "Contour Integral with Limits"
+msgstr "კონტურული ინტეგრალი ზღვრებით"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "კონტურული ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Contour Integrals"
+msgstr "კონტურული ინტეგრალები"
+
+msgid "Controls"
+msgstr "მართვის ელემენტები"
+
+msgid "Conversions"
+msgstr "გარდაქმნები"
+
+msgid "Convert between built-up and linear form"
+msgstr "პროფესიულ და წრფივ ფორმებს შორის გარდაქმნა"
+
+msgid "Convert Notes"
+msgstr "სქოლიოების გარდაქმნა"
+
+msgid "Convert Text to Table"
+msgstr "ტექსტის ცხრილად გარდაქმნა"
+
+msgid "Convert Text to Table…"
+msgstr "ტექსტის ცხრილად გარდაქმნა…"
+
+msgid "Convert to Shapes"
+msgstr "ფიგურებად გარდაქმნა"
+
+msgid "Convert to Text"
+msgstr "ტექსტად გარდაქმნა"
+
+msgid "Coproduct"
+msgstr "კონამრავლი"
+
+msgid "Coproduct with Limits"
+msgstr "კონამრავლი ზღვრებით"
+
+msgid "Coproduct with Lower Limit"
+msgstr "კონამრავლი ქვედა საზღვრით"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "კონამრავლი ინდექსური ზღვრებით"
+
+msgid "Copy Formatting"
+msgstr "ფორმატის კოპირება"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "სანიშნით აღნიშნული ტექსტის ასლი"
+
+msgid "Copy Styles"
+msgstr "სტილების კოპირება"
+
+msgid "Copy to"
+msgstr "კოპირება სხვა ადგილას"
+
+msgid "Copyright Sign"
+msgstr "საავტორო უფლების ნიშანი"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "შემთხვევით ჩართული CAPS LOCK-ის შესწორება"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "ორი დიდი ასოს შესწორება სიტყვის დასაწყისში"
+
+msgid "Corrections"
+msgstr "შესწორებები"
+
+msgid "Cosecant Function"
+msgstr "კოსეკანსის ფუნქცია"
+
+msgid "Cosine 2x"
+msgstr "კოსინუსი 2x"
+
+msgid "Cosine Function"
+msgstr "კოსინუსის ფუნქცია"
+
+msgid "Costa Rica"
+msgstr "კოსტა-რიკა"
+
+msgid "Cotangent Function"
+msgstr "კოტანგენსის ფუნქცია"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "{name} ვერ ჩამოიტვირთა: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "WordCraft ნაგულისხმევ პროგრამად ვერ დაყენდა: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "{path} ვერ გაიხსნა: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "{name} ვერ შეინახა, ამიტომ ის ისევ ღიაა და არაფერი დაკარგულა: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "დანომვრის ბიჯი:"
+
+msgid "Count words in text boxes and notes"
+msgstr "სიტყვების დათვლა ტექსტურ ბლოკებსა და სქოლიოებში"
+
+msgid "Courtesy Title"
+msgstr "მიმართვა"
+
+msgid "Cover Page"
+msgstr "თავფურცელი"
+
+msgid "Craft"
+msgstr "ხელობა"
+
+msgid "Create a Style"
+msgstr "სტილის შექმნა"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "შექმენით დოკუმენტის ინტერაქტიული სტრუქტურა.\n\nასე ყოველთვის გეცოდინებათ, სად ხართ, და შიგთავსს სწრაფად გადააადგილებთ.\n\nდასაწყებად გახსენით მთავარი ჩანართი და დოკუმენტის სათაურებს მიანიჭეთ სათაურის სტილები."
+
+msgid "Create Graphic"
+msgstr "გრაფიკის შექმნა"
+
+msgid "Create Link"
+msgstr "ბმულის შექმნა"
+
+msgid "Create New Style"
+msgstr "ახალი სტილის შექმნა"
+
+msgid "Create Source"
+msgstr "წყაროს შექმნა"
+
+msgid "Croatian"
+msgstr "ხორვატული"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "გვერდზე ჩამოჭრა მხოლოდ შემოუბრუნებელ სურათებზე მუშაობს: ჯერ შემობრუნება 0°-ზე დააყენეთ ან ჩამოჭრის ველები გამოიყენეთ"
+
+msgid "Cross-reference"
+msgstr "ჯვარედინი ბმული"
+
+msgid "Cross-reference:"
+msgstr "ჯვარედინი ბმული:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "კუბა"
+
+msgid "Cube Root"
+msgstr "კუბური ფესვი"
+
+msgid "Current - Linear"
+msgstr "მიმდინარე - წრფივი"
+
+msgid "Current - Professional"
+msgstr "მიმდინარე - პროფესიული"
+
+msgid "Current Document"
+msgstr "მიმდინარე დოკუმენტი"
+
+msgid "Current Position"
+msgstr "მიმდინარე პოზიცია"
+
+msgid "Current record"
+msgstr "მიმდინარე ჩანაწერი"
+
+msgid "Current style: {style}"
+msgstr "მიმდინარე სტილი: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "მრუდი ისრიანი შემაერთებელი"
+
+msgid "Curved Connector"
+msgstr "მრუდი შემაერთებელი"
+
+msgid "Custom dictionary"
+msgstr "მომხმარებლის ლექსიკონი"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "საკუთარი ველები…"
+
+msgid "Custom mark:"
+msgstr "მორგებული ნიშანი:"
+
+msgid "Custom range"
+msgstr "მორგებული დიაპაზონი"
+
+msgid "Custom size"
+msgstr "მორგებული ზომა"
+
+msgid "Custom Table of Contents…"
+msgstr "მორგებული სარჩევი…"
+
+msgid "Custom Watermark"
+msgstr "საკუთარი ჭვირნიშანი"
+
+msgid "Custom Watermark…"
+msgstr "საკუთარი ჭვირნიშანი…"
+
+msgid "Customize"
+msgstr "მორგება"
+
+msgid "Customize Keyboard"
+msgstr "კლავიატურის მორგება"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელის მორგება"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "სწრაფი წვდომის პანელის მორგება…"
+
+msgid "Customize Ribbon"
+msgstr "ლენტის მორგება"
+
+msgid "Customize the Ribbon…"
+msgstr "ლენტის მორგება…"
+
+msgid "Cycle"
+msgstr "ციკლი"
+
+msgid "Cyprus"
+msgstr "კვიპროსი"
+
+msgid "Czech"
+msgstr "ჩეხური"
+
+msgid "Danish"
+msgstr "დანიური"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "ბნელი რეჟიმი"
+
+msgid "Dark page (white text on black)"
+msgstr "მუქი გვერდი (თეთრი ტექსტი შავზე)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "მუქი ვარიაციები"
+
+msgid "Dark with Shadow"
+msgstr "მუქი, ჩრდილით"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "უფრო მუქი −20%"
+
+msgid "Darkroom"
+msgstr "ბნელი ოთახი"
+
+msgid "Data Labels"
+msgstr "მონაცემთა წარწერები"
+
+msgid "Date & Time"
+msgstr "თარიღი და დრო"
+
+msgid "Date formats:"
+msgstr "თარიღის ფორმატები:"
+
+msgid "Date Picker Content Control"
+msgstr "თარიღის ამრჩევის შიგთავსის მართვის ელემენტი"
+
+msgid "Day"
+msgstr "დღე"
+
+msgid "Decimal"
+msgstr "ათწილადის მძიმეზე"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "დეკორატიული ობიექტები მხოლოდ ვიზუალურ ინტერესს მატებს: ეკრანის წამკითხველები მათ გამოტოვებს."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "შეწევის შემცირება"
+
+msgid "Deep"
+msgstr "ღრმა"
+
+msgid "Default formatting"
+msgstr "ნაგულისხმევი ფორმატირება"
+
+msgid "Default Paragraph Font"
+msgstr "აბზაცის ნაგულისხმევი შრიფტი"
+
+msgid "Default tab stops:"
+msgstr "ნაგულისხმევი ტაბულაციის გაჩერებები:"
+
+msgid "Define New Bullet"
+msgstr "ახალი ბურთულის განსაზღვრა"
+
+msgid "Define New Multilevel List"
+msgstr "ახალი მრავალდონიანი სიის განსაზღვრა"
+
+msgid "Define New Multilevel List…"
+msgstr "ახალი მრავალდონიანი სიის განსაზღვრა…"
+
+msgid "Define New Number Format"
+msgstr "ახალი ნუმერაციის ფორმატის განსაზღვრა"
+
+msgid "Deflate"
+msgstr "შეკუმშვა"
+
+msgid "Delete Around Caret in Equation"
+msgstr "განტოლებაში კურსორის გარშემო წაშლა"
+
+msgid "Delete Back in Equation"
+msgstr "უკან წაშლა განტოლებაში"
+
+msgid "Delete Bookmark"
+msgstr "სანიშნის წაშლა"
+
+msgid "Delete Cells"
+msgstr "უჯრების წაშლა"
+
+msgid "Delete Clipboard Item"
+msgstr "ბუფერის ელემენტის წაშლა"
+
+msgid "Delete Columns"
+msgstr "სვეტების წაშლა"
+
+msgid "Delete Comment"
+msgstr "კომენტარის წაშლა"
+
+msgid "Delete in Equation"
+msgstr "წაშლა განტოლებაში"
+
+msgid "Delete Label"
+msgstr "იარლიყის წაშლა"
+
+msgid "Delete Next Word"
+msgstr "შემდეგი სიტყვის წაშლა"
+
+msgid "Delete Previous Word"
+msgstr "წინა სიტყვის წაშლა"
+
+msgid "Delete Rows"
+msgstr "სტრიქონების წაშლა"
+
+msgid "Delete Selected Ink"
+msgstr "მონიშნული მელნის წაშლა"
+
+msgid "Delete Table"
+msgstr "ცხრილის წაშლა"
+
+msgid "Delete Table Style"
+msgstr "ცხრილის სტილის წაშლა"
+
+msgid "Deletions:"
+msgstr "წაშლილი:"
+
+msgid "Delivery address:"
+msgstr "მიწოდების მისამართი:"
+
+msgid "Delta Equal To"
+msgstr "დელტა-ტოლობა"
+
+msgid "Delta over arrow"
+msgstr "დელტა ისრის ზემოთ"
+
+msgid "Demote"
+msgstr "დონით დაწევა"
+
+msgid "Demote to Body Text"
+msgstr "ძირითად ტექსტად დაქვეითება"
+
+msgid "Derivative as a limit"
+msgstr "წარმოებული, როგორც ზღვარი"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "აღწერეთ, რას აჩვენებს ეს ობიექტი, მათთვის, ვინც მას ვერ ხედავს."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "აღწერეთ, რას აჩვენებს ეს ცხრილი, მათთვის, ვინც მას ვერ ხედავს."
+
+msgid "Design"
+msgstr "დიზაინი"
+
+msgid "Design Mode"
+msgstr "დიზაინის რეჟიმი"
+
+msgid "Detach Template"
+msgstr "შაბლონის მოხსნა"
+
+msgid "Detect language automatically"
+msgstr "ენის ავტომატური ამოცნობა"
+
+msgid "Developer"
+msgstr "დეველოპერი"
+
+msgid "development build"
+msgstr "დეველოპერული ვერსია"
+
+msgid "Diagonal Dots"
+msgstr "დიაგონალური წერტილები"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "კარნახი"
+
+msgid "Dictionaries"
+msgstr "ლექსიკონები"
+
+msgid "Dictionaries folder:"
+msgstr "ლექსიკონების საქაღალდე:"
+
+msgid "Dictionary files"
+msgstr "ლექსიკონის ფაილები"
+
+msgid "Different First Page"
+msgstr "განსხვავებული პირველი გვერდი"
+
+msgid "Different Odd & Even Pages"
+msgstr "განსხვავებული ლუწი და კენტი გვერდები"
+
+msgid "Differential"
+msgstr "დიფერენციალი"
+
+msgid "Differential theta"
+msgstr "თეტას დიფერენციალი"
+
+msgid "Differential x"
+msgstr "x-ის დიფერენციალი"
+
+msgid "Differential y"
+msgstr "y-ის დიფერენციალი"
+
+msgid "Differentials"
+msgstr "დიფერენციალები"
+
+msgid "Direct formatting"
+msgstr "პირდაპირი ფორმატირება"
+
+msgid "Directory"
+msgstr "ცნობარი"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "უგულებელვყოთ აღდგენის ასლი: {name}?"
+
+msgid "Discard…"
+msgstr "უგულებელყოფა…"
+
+msgid "Discord community"
+msgstr "Discord საზოგადოება"
+
+msgid "Display for Review"
+msgstr "ჩვენება განხილვისთვის"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "საჩვენებელი ტექსტი"
+
+msgid "Distance from text"
+msgstr "დაშორება ტექსტიდან"
+
+msgid "Distance from text:"
+msgstr "დაშორება ტექსტიდან:"
+
+msgid "Distribute Columns"
+msgstr "სვეტების თანაბრად განაწილება"
+
+msgid "Distribute letters"
+msgstr "ასოების თანაბრად განაწილება"
+
+msgid "Distribute Rows"
+msgstr "სტრიქონების თანაბრად განაწილება"
+
+msgid "Distribute spacing"
+msgstr "ინტერვალის თანაბრად განაწილება"
+
+msgid "Distributed"
+msgstr "თანაბრად განაწილებული"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "მართლწერისა და გრამატიკის შემოწმების გარეშე"
+
+msgid "Do not check spelling or grammar"
+msgstr "მართლწერისა და გრამატიკის შემოწმების გარეშე"
+
+msgid "DO NOT COPY"
+msgstr "არ დააკოპიროთ"
+
+msgid "Do Not Show in TOC"
+msgstr "სარჩევში არ აჩვენო"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "შევინახო ცვლილებები ფაილში {name}?"
+
+msgid "Dock Left"
+msgstr "მარცხნივ მიმაგრება"
+
+msgid "Dock Right"
+msgstr "მარჯვნივ მიმაგრება"
+
+msgid "Document End"
+msgstr "დოკუმენტის ბოლო"
+
+msgid "Document Formatting"
+msgstr "დოკუმენტის ფორმატირება"
+
+msgid "Document Grid"
+msgstr "დოკუმენტის ბადე"
+
+msgid "Document Information"
+msgstr "დოკუმენტის ინფორმაცია"
+
+msgid "Document name"
+msgstr "დოკუმენტის სახელი"
+
+msgid "Document Property"
+msgstr "დოკუმენტის თვისება"
+
+msgid "Document Start"
+msgstr "დოკუმენტის დასაწყისი"
+
+msgid "Document template:"
+msgstr "დოკუმენტის შაბლონი:"
+
+msgid "Document Text"
+msgstr "დოკუმენტის ტექსტი"
+
+msgid "Document1"
+msgstr "დოკუმენტი1"
+
+msgid "Document\nPreferences"
+msgstr "დოკუმენტის\nპარამეტრები"
+
+msgid "Documents you open will show up here."
+msgstr "აქ გამოჩნდება თქვენ მიერ გახსნილი დოკუმენტები."
+
+msgid "Does not contain"
+msgstr "არ შეიცავს"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "დომინიკის რესპუბლიკა"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "ერთი სტილის აბზაცებს შორის ინტერვალი არ დაემატოს"
+
+msgid "Don't capitalize after:"
+msgstr "დიდი ასო არ დაიწეროს შემდეგის შემდეგ:"
+
+msgid "Don't hyphenate"
+msgstr "სიტყვების გადატანის გარეშე"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Zotero-ს, Mendeley-ს ან EndNote-ის ციტატებისა და ბიბლიოგრაფიის არ წაკითხვა"
+
+msgid "Don't show me this tip again"
+msgstr "ეს რჩევა აღარ მაჩვენო"
+
+msgid "Dot dash"
+msgstr "წერტილ-ტირე"
+
+msgid "Dot-dash"
+msgstr "წერტილ-ტირე"
+
+msgid "Dot-dot-dash"
+msgstr "წერტილ-წერტილ-ტირე"
+
+msgid "Double"
+msgstr "ორმაგი"
+
+msgid "Double Bar"
+msgstr "ორმაგი ხაზი"
+
+msgid "Double Closing Quote"
+msgstr "ორმაგი დამხურავი ბრჭყალი"
+
+msgid "Double Dot"
+msgstr "ორი წერტილი"
+
+msgid "Double Integral"
+msgstr "ორმაგი ინტეგრალი"
+
+msgid "Double Integral with Limits"
+msgstr "ორმაგი ინტეგრალი ზღვრებით"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "ორმაგი ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "ორმაგი ისარი მარცხნივ, ტექსტი ზემოთ"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "ორმაგი ისარი მარცხნივ, ტექსტი ქვემოთ"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "ორმაგი ორმხრივი ისარი, ტექსტი ზემოთ"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "ორმაგი ორმხრივი ისარი, ტექსტი ქვემოთ"
+
+msgid "Double Opening Quote"
+msgstr "ორმაგი გამხსნელი ბრჭყალი"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "ორმაგი ისარი მარჯვნივ, ტექსტი ზემოთ"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "ორმაგი ისარი მარჯვნივ, ტექსტი ქვემოთ"
+
+msgid "Double Spacing"
+msgstr "სტრიქონთა ორმაგი დაშორება"
+
+msgid "Double Square Brackets"
+msgstr "ორმაგი კვადრატული ფრჩხილები"
+
+msgid "Double Strikethrough"
+msgstr "ორმაგი გადახაზვა"
+
+msgid "Double strikethrough"
+msgstr "ორმაგი გადახაზვა"
+
+msgid "Double summation"
+msgstr "ორმაგი ჯამი"
+
+msgid "Double Underline"
+msgstr "ორმაგი ხაზგასმა"
+
+msgid "Double Vertical Bars"
+msgstr "ორმაგი ვერტიკალური ხაზები"
+
+msgid "Doughnut"
+msgstr "რგოლოვანი"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "ჩამოტვირთვა გამორთულია. „ენის დამატება…“ ან „დაინსტალირება“ დაწკაპუნებით ის ირთვება: მაშინ WordCraft GitHub-იდან ჩამოტვირთავს ენის პაკეტებსა და შრიფტებს."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "მონახაზი"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "ცხრილის დასახატად გაავლეთ მართკუთხედი, უჯრების დასაყოფად კი — ხაზი მათზე. Esc — შეწყვეტა."
+
+msgid "Draw Ink"
+msgstr "მელნით ხატვა"
+
+msgid "Draw Table"
+msgstr "ცხრილის დახატვა"
+
+msgid "Draw\nTable"
+msgstr "ცხრილის\nდახატვა"
+
+msgid "Drawing Canvas"
+msgstr "სახატავი ტილო"
+
+msgid "Drawing Tools"
+msgstr "ხატვის ხელსაწყოები"
+
+msgid "Drawing\nCanvas"
+msgstr "სახატავი\nტილო"
+
+msgid "Drop Cap"
+msgstr "ინიციალი"
+
+msgid "Drop cap"
+msgstr "ინიციალი"
+
+msgid "Drop Cap Options…"
+msgstr "ინიციალის პარამეტრები…"
+
+msgid "drop caps can't go in a table"
+msgstr "ცხრილში ინიციალის ჩასმა შეუძლებელია"
+
+msgid "Drop-Down List Content Control"
+msgstr "ჩამოსაშლელი სიის შიგთავსის მართვის ელემენტი"
+
+msgid "Dropped"
+msgstr "ტექსტში"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "აშორებს მთელ ფორმატირებას და სვამს უბრალო ტექსტს."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "ნიდერლანდური, Nederlands ან nl"
+
+msgid "E-mail Messages"
+msgstr "ელფოსტის შეტყობინებები"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "ეკვადორი"
+
+msgid "Edit Comment"
+msgstr "კომენტარის რედაქტირება"
+
+msgid "Edit Data"
+msgstr "მონაცემების რედაქტირება"
+
+msgid "Edit Document"
+msgstr "დოკუმენტის რედაქტირება"
+
+msgid "Edit Equation"
+msgstr "განტოლების რედაქტირება"
+
+msgid "Edit Field Code"
+msgstr "ველის კოდის რედაქტირება"
+
+msgid "Edit Field…"
+msgstr "ველის რედაქტირება…"
+
+msgid "Edit Footer"
+msgstr "ქვედა კოლონტიტულის რედაქტირება"
+
+msgid "Edit Header"
+msgstr "ზედა კოლონტიტულის რედაქტირება"
+
+msgid "Edit Individual Documents…"
+msgstr "ცალკეული დოკუმენტების რედაქტირება…"
+
+msgid "Edit Items"
+msgstr "ელემენტების რედაქტირება"
+
+msgid "Edit Recipient List"
+msgstr "მიმღებთა სიის რედაქტირება"
+
+msgid "Edit Source"
+msgstr "წყაროს რედაქტირება"
+
+msgid "Edit\nData"
+msgstr "მონაცემების\nრედაქტირება"
+
+msgid "Edit\nRecipient List"
+msgstr "მიმღებთა\nსიის რედაქტირება"
+
+msgid "Edited"
+msgstr "შეცვლილია"
+
+msgid "Editing endnote"
+msgstr "დოკუმენტის სქოლიოს რედაქტირება"
+
+msgid "Editing footnote"
+msgstr "სქოლიოს რედაქტირება"
+
+msgid "Editing header/footer"
+msgstr "კოლონტიტულის რედაქტირება"
+
+msgid "Editing in this document is restricted."
+msgstr "ამ დოკუმენტში რედაქტირება შეზღუდულია."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "რედაქტირება — დოკუმენტის პირდაპირ შეცვლა"
+
+msgid "Edition"
+msgstr "გამოცემა"
+
+msgid "Editor"
+msgstr "რედაქტორი"
+
+msgid "Egypt"
+msgstr "ეგვიპტე"
+
+msgid "El Salvador"
+msgstr "სალვადორი"
+
+msgid "Elbow Arrow Connector"
+msgstr "მუხლისებრი ისრიანი შემაერთებელი"
+
+msgid "Elbow Connector"
+msgstr "მუხლისებრი შემაერთებელი"
+
+msgid "Emphasis"
+msgstr "აქცენტირება"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "ცარიელი მატრიცები"
+
+msgid "Enclose Characters"
+msgstr "სიმბოლოების ჩარჩოში ჩასმა"
+
+msgid "Enclosure"
+msgstr "ჩარჩო"
+
+msgid "Encrypt with Password"
+msgstr "პაროლით დაშიფვრა"
+
+msgid "Encrypt with Password…"
+msgstr "პაროლით დაშიფვრა…"
+
+msgid "End of document"
+msgstr "დოკუმენტის ბოლოს"
+
+msgid "End of section"
+msgstr "სექციის ბოლოს"
+
+msgid "End of Word"
+msgstr "სიტყვის ბოლო"
+
+msgid "Endnote Reference"
+msgstr "დოკუმენტის სქოლიოს მითითება"
+
+msgid "Endnote Text"
+msgstr "დოკუმენტის სქოლიოს ტექსტი"
+
+msgid "Endnotes"
+msgstr "დოკუმენტის სქოლიოები"
+
+msgid "Endnotes to footnotes"
+msgstr "დოკუმენტის სქოლიოები სქოლიოებად"
+
+msgid "English (Australia)"
+msgstr "ინგლისური (ავსტრალია)"
+
+msgid "English (Canada)"
+msgstr "ინგლისური (კანადა)"
+
+msgid "English (India)"
+msgstr "ინგლისური (ინდოეთი)"
+
+msgid "English (Ireland)"
+msgstr "ინგლისური (ირლანდია)"
+
+msgid "English (New Zealand)"
+msgstr "ინგლისური (ახალი ზელანდია)"
+
+msgid "English (South Africa)"
+msgstr "ინგლისური (სამხრეთ აფრიკა)"
+
+msgid "English (United Kingdom)"
+msgstr "ინგლისური (გაერთიანებული სამეფო)"
+
+msgid "English (United States)"
+msgstr "ინგლისური (აშშ)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "ინგლისური, ამ დოკუმენტის ენები და ყველა დაინსტალირებული ენის პაკეტი. ენის პაკეტები ამატებს მართლწერის ლექსიკონებს და დამარცვლას."
+
+msgid "Engrave"
+msgstr "გრავირება"
+
+msgid "Enlarge symbol"
+msgstr "ნიშნის გადიდება"
+
+msgid "Enter a number."
+msgstr "შეიყვანეთ რიცხვი."
+
+msgid "Enter bookmark name:"
+msgstr "შეიყვანეთ სანიშნის სახელი:"
+
+msgid "Enter formatting for number:"
+msgstr "ნომრის ფორმატი:"
+
+msgid "Enter in Equation"
+msgstr "Enter განტოლებაში"
+
+msgid "Enter page number:"
+msgstr "შეიყვანეთ გვერდის ნომერი:"
+
+msgid "Entire caption"
+msgstr "მთელი წარწერა"
+
+msgid "Entry marked."
+msgstr "ჩანაწერი მარკირებულია."
+
+msgid "Envelope #10"
+msgstr "კონვერტი #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "კონვერტი #10   4,12\" × 9,50\""
+
+msgid "Envelope Address"
+msgstr "კონვერტის მისამართი"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "კონვერტი DL   4,33\" × 8,66\""
+
+msgid "Envelope Return"
+msgstr "გამგზავნის მისამართი"
+
+msgid "Envelope size:"
+msgstr "კონვერტის ზომა:"
+
+msgid "Envelopes"
+msgstr "კონვერტები"
+
+msgid "Equal by Definition"
+msgstr "ტოლია განსაზღვრებით"
+
+msgid "Equal column width"
+msgstr "სვეტების თანაბარი სიგანე"
+
+msgid "Equal Equal"
+msgstr "ორმაგი ტოლობა"
+
+msgid "Equal to"
+msgstr "ტოლია"
+
+msgid "Equals:"
+msgstr "უდრის:"
+
+msgid "Equation"
+msgstr "განტოლება"
+
+msgid "Equation Gallery"
+msgstr "განტოლებების გალერეა"
+
+msgid "Equation Info"
+msgstr "განტოლების ინფორმაცია"
+
+msgid "Equation Number"
+msgstr "განტოლების ნომერი"
+
+msgid "Equation Options"
+msgstr "განტოლების პარამეტრები"
+
+msgid "Equatorial Guinea"
+msgstr "ეკვატორული გვინეა"
+
+msgid "Erase Ink"
+msgstr "მელნის წაშლა"
+
+msgid "Errors ({n})"
+msgstr "შეცდომები ({n})"
+
+msgid "Esperanto"
+msgstr "ესპერანტო"
+
+msgid "Estonian"
+msgstr "ესტონური"
+
+msgid "Euler's identity"
+msgstr "ეილერის იგივეობა"
+
+msgid "Even Banded Columns"
+msgstr "ლუწი ზოლიანი სვეტები"
+
+msgid "Even Banded Rows"
+msgstr "ლუწი ზოლიანი სტრიქონები"
+
+msgid "Even Page"
+msgstr "ლუწი გვერდი"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "ყოველი ცვლილება ჩაწერილ ცვლილებად აღირიცხება."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "ყველა ბრძანება ხელმისაწვდომია სკრიპტებისა და AI აგენტებისთვის: MCP სერვერისთვის გაუშვით `wordcraft-cli mcp`, ან JSON მართვის არხისთვის პროგრამა გახსენით `--control <port>`-ით."
+
+msgid "Every field needs a name."
+msgstr "ყველა ველს სახელი სჭირდება."
+
+msgid "Everyone"
+msgstr "ყველა"
+
+msgid "Exactly"
+msgstr "ზუსტად"
+
+msgid "Exactly {n}"
+msgstr "ზუსტად {n}"
+
+msgid "Exceptions (optional)"
+msgstr "გამონაკლისები (არასავალდებულო)"
+
+msgid "Exceptions…"
+msgstr "გამონაკლისები…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7,25\" × 10,50\""
+
+msgid "Existing File or Web Page"
+msgstr "არსებული ფაილი ან ვებგვერდი"
+
+msgid "Expand or Collapse Heading"
+msgstr "სათაურის გაშლა ან ჩაკეცვა"
+
+msgid "Exponential"
+msgstr "ექსპონენტა"
+
+msgid "Exponential series"
+msgstr "ექსპონენციალური მწკრივი"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "ასლის ექსპორტირება გასაზიარებლად (PDF, Word დოკუმენტი)"
+
+msgid "Export Page as PNG"
+msgstr "გვერდის PNG ფაილად ექსპორტირება"
+
+msgid "Extend Selection"
+msgstr "მონიშვნის გაფართოება"
+
+msgid "Extend Selection by Units"
+msgstr "მონიშვნის გაფართოება ერთეულებით"
+
+msgid "Extra space"
+msgstr "ზედმეტი სივრცე"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "უფრო სწრაფად: {command} — კლავიატურაზე {key}."
+
+msgid "Field code:"
+msgstr "ველის კოდი:"
+
+msgid "Field Codes"
+msgstr "ველის კოდები"
+
+msgid "Field codes:"
+msgstr "ველის კოდები:"
+
+msgid "Field name"
+msgstr "ველის დასახელება"
+
+msgid "Field name:"
+msgstr "ველის დასახელება:"
+
+msgid "Field names must be different."
+msgstr "ველების დასახელებები უნდა განსხვავდებოდეს."
+
+msgid "Field names:"
+msgstr "ველების დასახელებები:"
+
+msgid "Field:"
+msgstr "ველი:"
+
+msgid "Field…"
+msgstr "ველი…"
+
+msgid "Figure"
+msgstr "ილუსტრაცია"
+
+msgid "File locations"
+msgstr "ფაილების მდებარეობა"
+
+msgid "File name:"
+msgstr "ფაილის სახელი:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "ფაილი › ახალი აქ არსებულ .dotx და .dotm შაბლონებს „პირადში“ აჩვენებს; „Word-ის შაბლონად შენახვა“ აქედან იწყება."
+
+msgid "Fill color:"
+msgstr "შევსების ფერი:"
+
+msgid "Filling in forms"
+msgstr "ფორმების შევსება"
+
+msgid "Film"
+msgstr "ფილმი"
+
+msgid "Filter and Sort"
+msgstr "ფილტრი და სორტირება"
+
+msgid "Filter Recipients"
+msgstr "მიმღებთა ფილტრაცია"
+
+msgid "Find in list:"
+msgstr "სიაში ძებნა:"
+
+msgid "Find Next Editable Region"
+msgstr "შემდეგი რედაქტირებადი არის ძებნა"
+
+msgid "Find Previous"
+msgstr "წინას ძებნა"
+
+msgid "Find Recipient"
+msgstr "მიმღების ძებნა"
+
+msgid "Find What Expression"
+msgstr "საძიებო გამოსახულება"
+
+msgid "Find What Text"
+msgstr "საძიებო ტექსტი"
+
+msgid "Find what:"
+msgstr "რა მოიძებნოს:"
+
+msgid "Find “{text}” in the document"
+msgstr "დოკუმენტში ძებნა: „{text}“"
+
+msgid "Finding printers…"
+msgstr "პრინტერების ძებნა…"
+
+msgid "Finish & Merge"
+msgstr "დასრულება და შერწყმა"
+
+msgid "Finish &\nMerge"
+msgstr "დასრულება და\nშერწყმა"
+
+msgid "Finished"
+msgstr "დასრულდა"
+
+msgid "Finland"
+msgstr "ფინეთი"
+
+msgid "Finnish"
+msgstr "ფინური"
+
+msgid "First Column"
+msgstr "პირველი სვეტი"
+
+msgid "First line"
+msgstr "პირველი სტრიქონი"
+
+msgid "First line:"
+msgstr "პირველი სტრიქონი:"
+
+msgid "First Name"
+msgstr "სახელი"
+
+msgid "First Record"
+msgstr "პირველი ჩანაწერი"
+
+msgid "First row of data contains column headers"
+msgstr "მონაცემების პირველი სტრიქონი სვეტების სათაურებს შეიცავს"
+
+msgid "Fix Position on Page"
+msgstr "პოზიციის გვერდზე დაფიქსირება"
+
+msgid "Fixed Column Width"
+msgstr "სვეტის ფიქსირებული სიგანე"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr "მცურავი"
+
+msgid "Floor"
+msgstr "ქვედა მთელი ნაწილი"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "ნომრის შემდეგ:"
+
+msgid "Font Color"
+msgstr "შრიფტის ფერი"
+
+msgid "Font color"
+msgstr "შრიფტის ფერი"
+
+msgid "Font color:"
+msgstr "შრიფტის ფერი:"
+
+msgid "Font Dialog"
+msgstr "შრიფტის ფანჯარა"
+
+msgid "Font: {font}"
+msgstr "შრიფტი: {font}"
+
+msgid "Font…"
+msgstr "შრიფტი…"
+
+msgid "Footer"
+msgstr "ქვედა კოლონტიტული"
+
+msgid "Footnote and Endnote"
+msgstr "სქოლიო და დოკუმენტის სქოლიო"
+
+msgid "Footnote Reference"
+msgstr "სქოლიოს მითითება"
+
+msgid "Footnote Text"
+msgstr "სქოლიოს ტექსტი"
+
+msgid "Footnotes"
+msgstr "სქოლიოები"
+
+msgid "Footnotes and endnotes"
+msgstr "სქოლიოები და დოკუმენტის სქოლიოები"
+
+msgid "Footnotes to endnotes"
+msgstr "სქოლიოები დოკუმენტის სქოლიოებად"
+
+msgid "For which item:"
+msgstr "რომელი ელემენტისთვის:"
+
+msgid "Format Page Numbers"
+msgstr "გვერდის ნომრების ფორმატი"
+
+msgid "Format Page Numbers…"
+msgstr "გვერდის ნომრების ფორმატი…"
+
+msgid "Format Painter"
+msgstr "ფორმატის ფუნჯი"
+
+msgid "Format Shape"
+msgstr "ფიგურის ფორმატირება"
+
+msgid "Format Shape Pane"
+msgstr "ფიგურის ფორმატირების პანელი"
+
+msgid "Format Shape…"
+msgstr "ფიგურის ფორმატირება…"
+
+msgid "Formatted"
+msgstr "დაფორმატებული"
+
+msgid "Formatted Text"
+msgstr "ფორმატირებული ტექსტი"
+
+msgid "Formatting"
+msgstr "ფორმატირება"
+
+msgid "Formatting at Selection"
+msgstr "მონიშნულის ფორმატირება"
+
+msgid "Formatting exceptions"
+msgstr "ფორმატირების გამონაკლისები"
+
+msgid "Formatting marks"
+msgstr "ფორმატირების ნიშნები"
+
+msgid "Formatting saved for new documents:"
+msgstr "ახალი დოკუმენტებისთვის შენახული ფორმატირება:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "შედარდება ფორმატირება, რეგისტრის ცვლილებები, ცარიელი სივრცე და ცხრილები; დანარჩენი პარამეტრები შემდგომისთვის ინახება."
+
+msgid "Formula"
+msgstr "ფორმულა"
+
+msgid "Formula:"
+msgstr "ფორმულა:"
+
+msgid "Forward"
+msgstr "წინ"
+
+msgid "Fraction"
+msgstr "წილადი"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "წილადები (1/2) წილადის სიმბოლოებად (½)"
+
+msgid "Frames and effects"
+msgstr "ჩარჩოები და ეფექტები"
+
+msgid "France"
+msgstr "საფრანგეთი"
+
+msgid "French (France)"
+msgstr "ფრანგული (საფრანგეთი)"
+
+msgid "From Bottom Left Corner"
+msgstr "ქვედა მარცხენა კუთხიდან"
+
+msgid "From Bottom Right Corner"
+msgstr "ქვედა მარჯვენა კუთხიდან"
+
+msgid "From Center"
+msgstr "ცენტრიდან"
+
+msgid "From text:"
+msgstr "ტექსტიდან:"
+
+msgid "From Top Left Corner"
+msgstr "ზედა მარცხენა კუთხიდან"
+
+msgid "From Top Right Corner"
+msgstr "ზედა მარჯვენა კუთხიდან"
+
+msgid "from Unicode (hex)"
+msgstr "Unicode-დან (თექვსმეტობითი)"
+
+msgid "From {name}"
+msgstr "გამომგზავნი: {name}"
+
+msgid "From:"
+msgstr "საიდან:"
+
+msgid "Full page of the same label"
+msgstr "მთელი გვერდი ერთნაირი იარლიყით"
+
+msgid "Full Saturation 100%"
+msgstr "სრული გაჯერება 100%"
+
+msgid "Full Screen View"
+msgstr "მთელ ეკრანზე ხედი"
+
+msgid "Full\nScreen"
+msgstr "მთელ\nეკრანზე"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "საინტერესო ფაქტი: ცარიელი გვერდი უბრალოდ მონახაზია, რომელსაც ჯერ არ უთხრეს, რაზეა."
+
+msgid "Function"
+msgstr "ფუნქცია"
+
+msgid "Galician"
+msgstr "გალისიური"
+
+msgid "Gallery"
+msgstr "გალერეა"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "ქართული"
+
+msgid "German (Germany)"
+msgstr "გერმანული (გერმანია)"
+
+msgid "Germany"
+msgstr "გერმანია"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "იღებს ენის პაკეტების სიას, შემდეგ კი ამ ენის პაკეტს, თუ არსებობს."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "ნათების ფერები"
+
+msgid "Go Back"
+msgstr "უკან"
+
+msgid "Go To"
+msgstr "გადასვლა"
+
+msgid "Go to"
+msgstr "გადასვლა"
+
+msgid "Go To (⌘⌥G)"
+msgstr "გადასვლა (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "ჩანაწერზე გადასვლა"
+
+msgid "Go to what:"
+msgstr "რაზე გადავიდეს:"
+
+msgid "Go To…"
+msgstr "გადასვლა…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "გაქრა! თითქოს არც დაწერილა. ძირითადად იმიტომ, რომ ახლა მართლაც აღარ წერია."
+
+msgid "Good afternoon"
+msgstr "შუადღე მშვიდობისა"
+
+msgid "Good evening"
+msgstr "საღამო მშვიდობისა"
+
+msgid "Good morning"
+msgstr "დილა მშვიდობისა"
+
+msgid "GOST (name sort)"
+msgstr "GOST (სახელის მიხედვით)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (სათაურის მიხედვით)"
+
+msgid "Grab bag"
+msgstr "სხვადასხვა"
+
+msgid "Gradient fill"
+msgstr "გრადიენტული შევსება"
+
+msgid "Gradient stops"
+msgstr "გრადიენტის გადასვლის წერტილები"
+
+msgid "Grammar built in"
+msgstr "გრამატიკა ჩაშენებულია"
+
+msgid "Grave"
+msgstr "გრავისი"
+
+msgid "Gray 0%"
+msgstr "ნაცრისფერი 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "მეტია"
+
+msgid "Greater than or equal"
+msgstr "მეტია ან ტოლი"
+
+msgid "Greek"
+msgstr "ბერძნული"
+
+msgid "Greek Letters"
+msgstr "ბერძნული ასოები"
+
+msgid "Green:"
+msgstr "მწვანე:"
+
+msgid "Greeting Line"
+msgstr "მისალმების სტრიქონი"
+
+msgid "Greeting\nLine"
+msgstr "მისალმების\nსტრიქონი"
+
+msgid "Grid Table 1 Light"
+msgstr "ბადისებრი ცხრილი 1, ღია"
+
+msgid "Grid Table 4 – Blue"
+msgstr "ბადისებრი ცხრილი 4 – ლურჯი"
+
+msgid "Grid Table 4 – Green"
+msgstr "ბადისებრი ცხრილი 4 – მწვანე"
+
+msgid "Grid Table 4 – Orange"
+msgstr "ბადისებრი ცხრილი 4 – ნარინჯისფერი"
+
+msgid "Grid Table 4 – Purple"
+msgstr "ბადისებრი ცხრილი 4 – იისფერი"
+
+msgid "Gridlines"
+msgstr "ბადე"
+
+msgid "Grouping Character Above"
+msgstr "დამაჯგუფებელი სიმბოლო ზემოთ"
+
+msgid "Grouping Character Below"
+msgstr "დამაჯგუფებელი სიმბოლო ქვემოთ"
+
+msgid "Grow Font 1 Point"
+msgstr "შრიფტის 1 პუნქტით გაზრდა"
+
+msgid "Guatemala"
+msgstr "გვატემალა"
+
+msgid "H:"
+msgstr "სიმ.:"
+
+msgid "Hanging Indent"
+msgstr "გამოწეული სტრიქონი"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "ქუდი"
+
+msgid "Header"
+msgstr "ზედა კოლონტიტული"
+
+msgid "Header & Footer"
+msgstr "კოლონტიტულები"
+
+msgid "Header Row"
+msgstr "სათაურის სტრიქონი"
+
+msgid "Header row"
+msgstr "სათაურის სტრიქონი"
+
+msgid "Header/Footer Position"
+msgstr "კოლონტიტულის პოზიცია"
+
+msgid "Headers and footers"
+msgstr "კოლონტიტულები"
+
+msgid "Heading"
+msgstr "სათაური"
+
+msgid "Heading 1"
+msgstr "სათაური 1"
+
+msgid "Heading 2"
+msgstr "სათაური 2"
+
+msgid "Heading 3"
+msgstr "სათაური 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "სათაურის სტილები (დონეები 1–{n})"
+
+msgid "Heading text"
+msgstr "სათაურის ტექსტი"
+
+msgid "Heading {n}"
+msgstr "სათაური {n}"
+
+msgid "Hebrew"
+msgstr "ივრითი"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "გამარჯობა! მე ვარ ნიბი, თქვენი წერის ასისტენტი. გთავაზობთ რჩევებს, კლავიშების კომბინაციებს და ზოგჯერ დაუკითხავ აზრსაც. დავრჩე?"
+
+msgid "Hidden bookmarks"
+msgstr "დამალული სანიშნეები"
+
+msgid "Hide Codes"
+msgstr "კოდების დამალვა"
+
+msgid "Hide from style lists"
+msgstr "სტილების სიებიდან დამალვა"
+
+msgid "Hide Ink"
+msgstr "მელნის დამალვა"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელის დამალვა"
+
+msgid "Hide White Space"
+msgstr "ცარიელი სივრცის დამალვა"
+
+msgid "Hide\nInk"
+msgstr "მელნის\nდამალვა"
+
+msgid "Hierarchy"
+msgstr "იერარქია"
+
+msgid "Highlight"
+msgstr "მარკერი"
+
+msgid "Highlight Merge Fields"
+msgstr "შერწყმის ველების გამოკვეთა"
+
+msgid "Highlight\nMerge Fields"
+msgstr "შერწყმის ველების\nმონიშვნა"
+
+msgid "Highlighter"
+msgstr "მარკერი"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "ჰინდი"
+
+msgid "Home folder"
+msgstr "საწყისი საქაღალდე"
+
+msgid "Honduras"
+msgstr "ჰონდურასი"
+
+msgid "Hong Kong SAR"
+msgstr "ჰონკონგის სპეციალური ადმინისტრაციული რაიონი"
+
+msgid "Horizontal Line"
+msgstr "ჰორიზონტალური ხაზი"
+
+msgid "How many pages the whole document has"
+msgstr "დოკუმენტის გვერდების რაოდენობა"
+
+msgid "How many pages this section has"
+msgstr "სექციის გვერდების რაოდენობა"
+
+msgid "How many words the document holds"
+msgstr "დოკუმენტის სიტყვების რაოდენობა"
+
+msgid "HTML Format"
+msgstr "HTML ფორმატი"
+
+msgid "Hue:"
+msgstr "ფერის ტონი:"
+
+msgid "Hungarian"
+msgstr "უნგრული"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "ამ საქაღალდის Hunspell-ის .aff და .dic ფაილები (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) სისტემის ლექსიკონებზე ადრე გამოიყენება."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "ჰიპერბოლური კოსეკანსის ფუნქცია"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "ჰიპერბოლური კოსინუსის ფუნქცია"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "ჰიპერბოლური კოტანგენსის ფუნქცია"
+
+msgid "Hyperbolic Functions"
+msgstr "ჰიპერბოლური ფუნქციები"
+
+msgid "Hyperbolic Secant Function"
+msgstr "ჰიპერბოლური სეკანსის ფუნქცია"
+
+msgid "Hyperbolic Sine Function"
+msgstr "ჰიპერბოლური სინუსის ფუნქცია"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "ჰიპერბოლური ტანგენსის ფუნქცია"
+
+msgid "Hyperlink"
+msgstr "ბმული"
+
+msgid "Hyphenate at:"
+msgstr "გადატანა ადგილას:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "მთავრულით დაწერილი სიტყვების გადატანა"
+
+msgid "Hyphenation Options…"
+msgstr "სიტყვების გადატანის პარამეტრები…"
+
+msgid "Hyphenation zone:"
+msgstr "გადატანის ზონა:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "დეფისები (--) ტირეებად (—)"
+
+msgid "Hypotenuse"
+msgstr "ჰიპოტენუზა"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "გპირდებით, შენახულია. შევამოწმე. ორჯერ."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "თვითონაც დავწერდი რამეს, მაგრამ მხოლოდ კალმის წვერი ვარ — მელანი არ მაქვს."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "ისლანდიური"
+
+msgid "Icon Color"
+msgstr "ხატულის ფერი"
+
+msgid "Icons"
+msgstr "ხატულები"
+
+msgid "Identity Matrices"
+msgstr "ერთეულოვანი მატრიცები"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "თუ…მაშინ…სხვა შემთხვევაში"
+
+msgid "If…Then…Else…"
+msgstr "თუ…მაშინ…სხვა შემთხვევაში…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "პუნქტუაციის ნიშნების გამოტოვება"
+
+msgid "Ignore web and file addresses"
+msgstr "ვებ- და ფაილის მისამართების გამოტოვება"
+
+msgid "Ignore white-space characters"
+msgstr "ცარიელი სივრცის სიმბოლოების გამოტოვება"
+
+msgid "Ignore words in capitals"
+msgstr "მთავრულით დაწერილი სიტყვების გამოტოვება"
+
+msgid "Ignore words with numbers"
+msgstr "ციფრებიანი სიტყვების გამოტოვება"
+
+msgid "Illustrations"
+msgstr "ილუსტრაციები"
+
+msgid "Immersive"
+msgstr "იმერსიული"
+
+msgid "Immersive Reader"
+msgstr "იმერსიული წამკითხველი"
+
+msgid "Immersive\nReader"
+msgstr "იმერსიული\nწამკითხველი"
+
+msgid "Imported 1 source"
+msgstr "იმპორტირებული წყარო: 1"
+
+msgid "Imported {n} sources"
+msgstr "იმპორტირებული წყარო: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "„ნაგულისხმევ აპებში“ აირჩიეთ WordCraft იმ დოკუმენტის ტიპებისთვის, რომლებიც მისით გინდათ გახსნათ."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "განტოლებებში უკუდახრილი ხაზის შემდეგ აკრეფილი სახელი მისი სიმბოლოთი იცვლება."
+
+msgid "In Front of Text"
+msgstr "ტექსტის წინ"
+
+msgid "In Line with Text"
+msgstr "ტექსტთან ერთ ხაზზე"
+
+msgid "In margin"
+msgstr "ველზე"
+
+msgid "In the margin"
+msgstr "ველზე"
+
+msgid "Include label and number"
+msgstr "წარწერისა და ნომრის ჩართვა"
+
+msgid "Include level number from:"
+msgstr "დონის ნომრის ჩართვა:"
+
+msgid "Include page numbers"
+msgstr "გვერდის ნომრების ჩართვა"
+
+msgid "Increase Indent"
+msgstr "შეწევის გაზრდა"
+
+msgid "Indent"
+msgstr "შეწევა"
+
+msgid "Indent from left:"
+msgstr "შეწევა მარცხნიდან:"
+
+msgid "Indentation"
+msgstr "შეწევა"
+
+msgid "Indented"
+msgstr "შეწეული"
+
+msgid "Indents"
+msgstr "შეწევები"
+
+msgid "Indents and Spacing"
+msgstr "შეწევა და ინტერვალი"
+
+msgid "Index and Tables"
+msgstr "ინდექსები და ცხრილები"
+
+msgid "Index Heading"
+msgstr "ინდექსის სათაური"
+
+msgid "Index {n}"
+msgstr "ინდექსი {n}"
+
+msgid "India"
+msgstr "ინდოეთი"
+
+msgid "Indonesian"
+msgstr "ინდონეზიური"
+
+msgid "Initial column width:"
+msgstr "სვეტის საწყისი სიგანე:"
+
+msgid "Initials:"
+msgstr "ინიციალები:"
+
+msgid "Ink"
+msgstr "მელანი"
+
+msgid "Ink Replay"
+msgstr "მელნის დაკვრა"
+
+msgid "Ink to Shape"
+msgstr "მელნიდან ფიგურა"
+
+msgid "Ink to\nMath"
+msgstr "მელნიდან\nფორმულა"
+
+msgid "Ink to\nShape"
+msgstr "მელნიდან\nფიგურა"
+
+msgid "Ink\nReplay"
+msgstr "მელნის\nდაკვრა"
+
+msgid "Inline"
+msgstr "ტექსტში ჩაშენებული"
+
+msgid "Input Format"
+msgstr "შეყვანის ფორმატი"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "ახალი განტოლების ჩასმა (Alt+=)"
+
+msgid "Insert Above"
+msgstr "ზემოთ ჩასმა"
+
+msgid "Insert Below"
+msgstr "ქვემოთ ჩასმა"
+
+msgid "Insert Caption"
+msgstr "წარწერის ჩასმა"
+
+msgid "Insert Caption…"
+msgstr "წარწერის ჩასმა…"
+
+msgid "Insert Chart"
+msgstr "დიაგრამის ჩასმა"
+
+msgid "Insert Citation"
+msgstr "ციტატის ჩასმა"
+
+msgid "Insert Columns to the Left"
+msgstr "სვეტების მარცხნივ ჩასმა"
+
+msgid "Insert Columns to the Right"
+msgstr "სვეტების მარჯვნივ ჩასმა"
+
+msgid "Insert Date Field"
+msgstr "თარიღის ველის ჩასმა"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "დოკუმენტის სქოლიოს ჩასმა"
+
+msgid "Insert Footnote"
+msgstr "სქოლიოს ჩასმა"
+
+msgid "Insert Hyperlink"
+msgstr "ბმულის ჩასმა"
+
+msgid "Insert Index"
+msgstr "ინდექსის ჩასმა"
+
+msgid "Insert Left"
+msgstr "მარცხნივ ჩასმა"
+
+msgid "Insert Merge Field"
+msgstr "შერწყმის ველის ჩასმა"
+
+msgid "Insert Merge\nField"
+msgstr "შერწყმის ველის\nჩასმა"
+
+msgid "Insert New Equation"
+msgstr "ახალი განტოლების ჩასმა"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "ერთი ან მეორე ტექსტის ჩასმა ველის მნიშვნელობის მიხედვით."
+
+msgid "Insert Page Field"
+msgstr "გვერდის ველის ჩასმა"
+
+msgid "Insert reference to:"
+msgstr "ბმულის ჩასმა:"
+
+msgid "Insert Right"
+msgstr "მარჯვნივ ჩასმა"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "სტრიქონის ან სვეტის ჩასმა დაწკაპუნებით"
+
+msgid "Insert Rows Above"
+msgstr "სტრიქონების ზემოთ ჩასმა"
+
+msgid "Insert Rows Below"
+msgstr "სტრიქონების ქვემოთ ჩასმა"
+
+msgid "Insert Shapes"
+msgstr "ფიგურების ჩასმა"
+
+msgid "Insert SmartArt"
+msgstr "SmartArt-ის ჩასმა"
+
+msgid "Insert Spike"
+msgstr "კრებულის ჩასმა"
+
+msgid "Insert Structure"
+msgstr "სტრუქტურის ჩასმა"
+
+msgid "Insert Symbol"
+msgstr "სიმბოლოს ჩასმა"
+
+msgid "Insert Table"
+msgstr "ცხრილის ჩასმა"
+
+msgid "Insert Table of Authorities"
+msgstr "სამართლებრივი წყაროების სიის ჩასმა"
+
+msgid "Insert Table of Figures"
+msgstr "ილუსტრაციების სიის ჩასმა"
+
+msgid "Insert Table…"
+msgstr "ცხრილის ჩასმა…"
+
+msgid "Insert Time Field"
+msgstr "დროის ველის ჩასმა"
+
+msgid "Insert\nAbove"
+msgstr "ზემოთ\nჩასმა"
+
+msgid "Insert\nCaption"
+msgstr "წარწერის\nჩასმა"
+
+msgid "Insert\nCitation"
+msgstr "ციტატის\nჩასმა"
+
+msgid "Insert\nFootnote"
+msgstr "სქოლიოს\nჩასმა"
+
+msgid "Insertions and Deletions"
+msgstr "ჩასმული და წაშლილი"
+
+msgid "Insertions:"
+msgstr "ჩასმული:"
+
+msgid "Inside Borders"
+msgstr "შიდა ჩარჩოები"
+
+msgid "Inside Horizontal Border"
+msgstr "შიდა ჰორიზონტალური ჩარჩო"
+
+msgid "Inside Vertical Border"
+msgstr "შიდა ვერტიკალური ჩარჩო"
+
+msgid "Inside:"
+msgstr "შიგნით:"
+
+msgid "Inspect Styles at Selection"
+msgstr "მონიშნულის სტილების დათვალიერება"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "მართლწერის დაინსტალირება ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "დაწესებულება"
+
+msgid "Integral"
+msgstr "ინტეგრალი"
+
+msgid "Integral of e^(−x²)"
+msgstr "e^(−x²)-ის ინტეგრალი"
+
+msgid "Integral with Limits"
+msgstr "ინტეგრალი ზღვრებით"
+
+msgid "Integral with Stacked Limits"
+msgstr "ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Integrals"
+msgstr "ინტეგრალები"
+
+msgid "Intense Emphasis"
+msgstr "გამოკვეთილი აქცენტირება"
+
+msgid "Intense Quote"
+msgstr "გამოკვეთილი ციტატა"
+
+msgid "Intense Reference"
+msgstr "გამოკვეთილი მითითება"
+
+msgid "Interface language:"
+msgstr "ინტერფეისის ენა:"
+
+msgid "Interface size:"
+msgstr "ინტერფეისის ზომა:"
+
+msgid "Interface theme:"
+msgstr "ინტერფეისის თემა:"
+
+msgid "Interface\nTheme"
+msgstr "ინტერფეისის\nთემა"
+
+msgid "Internet addresses as links"
+msgstr "ინტერნეტ-მისამართები ბმულებად"
+
+msgid "Intersection with Limits"
+msgstr "გადაკვეთა ზღვრებით"
+
+msgid "Intersection with Lower Limit"
+msgstr "გადაკვეთა ქვედა საზღვრით"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "გადაკვეთა ინდექსური ზღვრებით"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "შებრუნებული კოსეკანსის ფუნქცია"
+
+msgid "Inverse Cosine Function"
+msgstr "შებრუნებული კოსინუსის ფუნქცია"
+
+msgid "Inverse Cotangent Function"
+msgstr "შებრუნებული კოტანგენსის ფუნქცია"
+
+msgid "Inverse Functions"
+msgstr "შებრუნებული ფუნქციები"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "შებრუნებული ჰიპერბოლური კოსეკანსის ფუნქცია"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "შებრუნებული ჰიპერბოლური კოსინუსის ფუნქცია"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "შებრუნებული ჰიპერბოლური კოტანგენსის ფუნქცია"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "შებრუნებული ჰიპერბოლური ფუნქციები"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "შებრუნებული ჰიპერბოლური სეკანსის ფუნქცია"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "შებრუნებული ჰიპერბოლური სინუსის ფუნქცია"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "შებრუნებული ჰიპერბოლური ტანგენსის ფუნქცია"
+
+msgid "Inverse Secant Function"
+msgstr "შებრუნებული სეკანსის ფუნქცია"
+
+msgid "Inverse Sine Function"
+msgstr "შებრუნებული სინუსის ფუნქცია"
+
+msgid "Inverse Tangent Function"
+msgstr "შებრუნებული ტანგენსის ფუნქცია"
+
+msgid "Ionosphere"
+msgstr "იონოსფერო"
+
+msgid "Iraq"
+msgstr "ერაყი"
+
+msgid "Ireland"
+msgstr "ირლანდია"
+
+msgid "Irish"
+msgstr "ირლანდიური"
+
+msgid "Is blank"
+msgstr "ცარიელია"
+
+msgid "Is not blank"
+msgstr "ცარიელი არ არის"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (ავტორი-თარიღი)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (რიცხვითი)"
+
+msgid "Issue"
+msgstr "ნომერი"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "როგორც ჩანს, წერილს წერთ. მოვამზადო კონვერტი, თუ წერილის შაბლონიდან დაიწყებთ?"
+
+msgid "Italy"
+msgstr "იტალია"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "მისი ლექსიკონის წაკითხვა ვერ მოხერხდა: {reason}"
+
+msgid "Jamaica"
+msgstr "იამაიკა"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "შემოუერთდით ArtCraft-ის საზოგადოებას Discord-ზე"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "შემოგვიერთდით Discord-ზე: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "იორდანია"
+
+msgid "Journal"
+msgstr "ჟურნალი"
+
+msgid "Journal article"
+msgstr "ჟურნალის სტატია"
+
+msgid "Justification of a display equation"
+msgstr "ცალკე სტრიქონზე მდგომი განტოლების სწორება"
+
+msgid "Justified"
+msgstr "ორმხრივი სწორება"
+
+msgid "Kazakhstan"
+msgstr "ყაზახეთი"
+
+msgid "Keep Lines Together"
+msgstr "სტრიქონების ერთად დატოვება"
+
+msgid "Keep lines together"
+msgstr "სტრიქონების ერთად დატოვება"
+
+msgid "Keep me around"
+msgstr "დარჩი"
+
+msgid "Keep Text Only"
+msgstr "მხოლოდ ტექსტის დატოვება"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "პაროლი უსაფრთხო ადგილას შეინახეთ: მის გარეშე დოკუმენტს ვერავინ გახსნის, მათ შორის WordCraft-იც. პაროლის მოსახსნელად ორივე ველი ცარიელი დატოვეთ."
+
+msgid "Keep with Next"
+msgstr "შემდეგთან ერთად"
+
+msgid "Keep with next"
+msgstr "შემდეგთან ერთად"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "ინარჩუნებს დაკოპირებული ტექსტის შრიფტებსა და ფორმატირებას."
+
+msgid "Kerning for fonts:"
+msgstr "შრიფტების კერნინგი:"
+
+msgid "Keyboard shortcuts:"
+msgstr "კლავიშების კომბინაციები:"
+
+msgid "Keys for this command:"
+msgstr "ამ ბრძანების კლავიშები:"
+
+msgid "Kuwait"
+msgstr "ქუვეითი"
+
+msgid "Label changes with:"
+msgstr "ცვლილებების აღნიშვნა სახელით:"
+
+msgid "Label:"
+msgstr "იარლიყი:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "ენის პარამეტრები…"
+
+msgid "Large\nOperator"
+msgstr "დიდი\nოპერატორი"
+
+msgid "Largest Only"
+msgstr "მხოლოდ უფრო ფართო მხარეს"
+
+msgid "Lasso Select"
+msgstr "ლასოთი მონიშვნა"
+
+msgid "Last Column"
+msgstr "ბოლო სვეტი"
+
+msgid "Last Name"
+msgstr "გვარი"
+
+msgid "Last Record"
+msgstr "ბოლო ჩანაწერი"
+
+msgid "Last, First; Last, First"
+msgstr "გვარი, სახელი; გვარი, სახელი"
+
+msgid "Latin text font:"
+msgstr "ლათინური ტექსტის შრიფტი:"
+
+msgid "Latvian"
+msgstr "ლატვიური"
+
+msgid "Layout Summary"
+msgstr "განლაგების მიმოხილვა"
+
+msgid "Layouts"
+msgstr "განლაგებები"
+
+msgid "Leader"
+msgstr "მიმთითებელი"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "მიმღების გამოტოვება შერწყმისას, როცა ველს ეს მნიშვნელობა აქვს."
+
+msgid "Leave Equation"
+msgstr "განტოლებიდან გასვლა"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "შენახვისას კომენტარებისა და ჩაწერილი ცვლილებების თარიღისა და დროის გამოტოვება"
+
+msgid "Leave the equation (Esc)"
+msgstr "განტოლებიდან გასვლა (Esc)"
+
+msgid "leave the equation first"
+msgstr "ჯერ გამოდით განტოლებიდან"
+
+msgid "Leave the label out of the caption"
+msgstr "იარლიყის გარეშე წარწერა"
+
+msgid "Lebanon"
+msgstr "ლიბანი"
+
+msgid "Left Arrow with Text Above"
+msgstr "ისარი მარცხნივ, ტექსტი ზემოთ"
+
+msgid "Left Arrow with Text Below"
+msgstr "ისარი მარცხნივ, ტექსტი ქვემოთ"
+
+msgid "Left Border"
+msgstr "მარცხენა ჩარჩო"
+
+msgid "Left border"
+msgstr "მარცხენა ჩარჩო"
+
+msgid "Left Bracket Twice"
+msgstr "ორი მარცხენა კვადრატული ფრჩხილი"
+
+msgid "Left indent"
+msgstr "მარცხენა შეწევა"
+
+msgid "Left Margin"
+msgstr "მარცხენა ველი"
+
+msgid "Left Only"
+msgstr "მხოლოდ მარცხნივ"
+
+msgid "Left Right Arrow Above"
+msgstr "ორმხრივი ისარი ზემოთ"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "ორმხრივი ისარი, ტექსტი ზემოთ"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "ორმხრივი ისარი, ტექსტი ქვემოთ"
+
+msgid "Left Subscript-Superscript"
+msgstr "მარცხენა ქვედა და ზედა ინდექსი"
+
+msgid "Left-to-right"
+msgstr "მარცხნიდან მარჯვნივ"
+
+msgid "Left-to-Right Text Direction"
+msgstr "ტექსტის მიმართულება მარცხნიდან მარჯვნივ"
+
+msgid "Leftwards Arrow Above"
+msgstr "მარცხნივ მიმართული ისარი ზემოთ"
+
+msgid "Leftwards Harpoon Above"
+msgstr "მარცხნივ მიმართული ცალფრთა ისარი ზემოთ"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8,50\" × 14,00\""
+
+msgid "Legal style numbering"
+msgstr "იურიდიული სტილის დანომვრა"
+
+msgid "Legend"
+msgstr "ლეგენდა"
+
+msgid "Less Contrast −20%"
+msgstr "ნაკლები კონტრასტი −20%"
+
+msgid "Less than"
+msgstr "ნაკლებია"
+
+msgid "Less than or equal"
+msgstr "ნაკლებია ან ტოლი"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "წერილი"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8,50\" × 11,00\""
+
+msgid "Letter headings"
+msgstr "ასოების სათაურები"
+
+msgid "Letter template"
+msgstr "წერილის შაბლონი"
+
+msgid "Letter-Like Symbols"
+msgstr "ასოს მსგავსი სიმბოლოები"
+
+msgid "Letters"
+msgstr "წერილები"
+
+msgid "Level 5"
+msgstr "დონე 5"
+
+msgid "Level 6"
+msgstr "დონე 6"
+
+msgid "Level 7"
+msgstr "დონე 7"
+
+msgid "Level 8"
+msgstr "დონე 8"
+
+msgid "Level 9"
+msgstr "დონე 9"
+
+msgid "Level {n}"
+msgstr "დონე {n}"
+
+msgid "Levels:"
+msgstr "დონეები:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "ლიხტენშტაინი"
+
+msgid "Light Variations"
+msgstr "ღია ვარიაციები"
+
+msgid "Light with Outline"
+msgstr "ღია, კონტურით"
+
+msgid "Limit"
+msgstr "ზღვარი"
+
+msgid "Limit and"
+msgstr "ზღვარი და"
+
+msgid "Limit and\nLog"
+msgstr "ზღვარი და\nლოგარითმი"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "ზედიზედ დეფისების ლიმიტი:"
+
+msgid "Limit Example"
+msgstr "ზღვრის მაგალითი"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "ფორმატირების შეზღუდვა არჩეული სტილებით"
+
+msgid "Line and Page Breaks"
+msgstr "სტრიქონისა და გვერდის გამყოფები"
+
+msgid "Line and Paragraph Spacing"
+msgstr "სტრიქონთა დაშორება და აბზაცთა ინტერვალი"
+
+msgid "Line between"
+msgstr "ხაზი სვეტებს შორის"
+
+msgid "Line Break"
+msgstr "სტრიქონის წყვეტა"
+
+msgid "Line breaking"
+msgstr "სტრიქონების წყვეტა"
+
+msgid "Line End"
+msgstr "სტრიქონის ბოლო"
+
+msgid "Line Number"
+msgstr "სტრიქონის ნომერი"
+
+msgid "Line Numbering Options…"
+msgstr "სტრიქონების დანომვრის პარამეტრები…"
+
+msgid "Line Numbers"
+msgstr "სტრიქონების ნომრები"
+
+msgid "Line Spacing"
+msgstr "სტრიქონთა დაშორება"
+
+msgid "Line Spacing Options…"
+msgstr "სტრიქონთა დაშორების პარამეტრები…"
+
+msgid "Line spacing:"
+msgstr "სტრიქონთა დაშორება:"
+
+msgid "Line Start"
+msgstr "სტრიქონის დასაწყისი"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "წრფივი დიაგონალური — ქვედა მარცხნიდან ზედა მარჯვნისკენ"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "წრფივი დიაგონალური — ქვედა მარჯვნიდან ზედა მარცხნისკენ"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "წრფივი დიაგონალური — ზედა მარცხნიდან ქვედა მარჯვნისკენ"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "წრფივი დიაგონალური — ზედა მარჯვნიდან ქვედა მარცხნისკენ"
+
+msgid "Linear Down"
+msgstr "წრფივი ქვემოთ"
+
+msgid "Linear Fraction"
+msgstr "წრფივი წილადი"
+
+msgid "Linear Left"
+msgstr "წრფივი მარცხნივ"
+
+msgid "Linear Right"
+msgstr "წრფივი მარჯვნივ"
+
+msgid "Linear Up"
+msgstr "წრფივი ზემოთ"
+
+msgid "Lines and characters"
+msgstr "სტრიქონები და სიმბოლოები"
+
+msgid "Lines only"
+msgstr "მხოლოდ სტრიქონები"
+
+msgid "Lines per page:"
+msgstr "სტრიქონი გვერდზე:"
+
+msgid "Lines to drop:"
+msgstr "სიმაღლე სტრიქონებში:"
+
+msgid "Link entries to their headings"
+msgstr "ჩანაწერების დაკავშირება მათ სათაურებთან"
+
+msgid "Link level to style:"
+msgstr "დონის დაკავშირება სტილთან:"
+
+msgid "Link to Previous"
+msgstr "წინასთან დაკავშირება"
+
+msgid "Link to:"
+msgstr "ბმული:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "დაკავშირებული სტილი (აბზაცი და სიმბოლო)"
+
+msgid "Links and References"
+msgstr "ბმულები და მითითებები"
+
+msgid "Link…"
+msgstr "ბმული…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "სიის განსაზღვრება"
+
+msgid "List entries"
+msgstr "სიის ჩანაწერები"
+
+msgid "List Paragraph"
+msgstr "სიის აბზაცი"
+
+msgid "List Table 3 – Blue"
+msgstr "სიის ცხრილი 3 – ლურჯი"
+
+msgid "List Table 3 – Green"
+msgstr "სიის ცხრილი 3 – მწვანე"
+
+msgid "List Table 3 – Orange"
+msgstr "სიის ცხრილი 3 – ნარინჯისფერი"
+
+msgid "List Table 3 – Purple"
+msgstr "სიის ცხრილი 3 – იისფერი"
+
+msgid "Lit from Bottom"
+msgstr "ქვემოდან განათებული"
+
+msgid "Lit from Top"
+msgstr "ზემოდან განათებული"
+
+msgid "Lithuanian"
+msgstr "ლიტვური"
+
+msgid "Load System Installed Fonts…"
+msgstr "სისტემაში დაყენებული შრიფტების ჩატვირთვა…"
+
+msgid "Loaded {count} system fonts."
+msgstr "ჩაიტვირთა სისტემის შრიფტი: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "თქვენი ბრაუზერი ლოკალურ შრიფტებზე წვდომას მხარს არ უჭერს."
+
+msgid "Local font access was denied."
+msgstr "ლოკალურ შრიფტებზე წვდომა უარყოფილია."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "ლოკალური აღდგენა მიუწვდომელია ან ჯერ კიდევ იტვირთება."
+
+msgid "Location: {path}"
+msgstr "მდებარეობა: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "თანაფარდობის ჩაკეტვა"
+
+msgid "Lock Fields"
+msgstr "ველების ჩაკეტვა"
+
+msgid "Log"
+msgstr "ლოგარითმი"
+
+msgid "Logarithm"
+msgstr "ლოგარითმი"
+
+msgid "Logarithm with Base"
+msgstr "ლოგარითმი ფუძით"
+
+msgid "Logical AND"
+msgstr "ლოგიკური „და“"
+
+msgid "Logical AND with Limits"
+msgstr "ლოგიკური „და“ ზღვრებით"
+
+msgid "Logical OR"
+msgstr "ლოგიკური „ან“"
+
+msgid "Logical OR with Limits"
+msgstr "ლოგიკური „ან“ ზღვრებით"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: რადგან ნამდვილი სიტყვები ჯერ ისევ კაფეში სხედან."
+
+msgid "Lum:"
+msgstr "სიკაშკ.:"
+
+msgid "Luxembourg"
+msgstr "ლუქსემბურგი"
+
+msgid "Macao SAR"
+msgstr "მაკაოს სპეციალური ადმინისტრაციული რაიონი"
+
+msgid "Macedonian"
+msgstr "მაკედონიური"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "მაკროსები"
+
+msgid "Made from the author and year when empty"
+msgstr "ცარიელისას — ავტორი და წელი"
+
+msgid "Magazine or newspaper article"
+msgstr "ჟურნალის ან გაზეთის სტატია"
+
+msgid "Mail Merge"
+msgstr "წერილების შერწყმა"
+
+msgid "Mailings"
+msgstr "დაგზავნა"
+
+msgid "Main entry:"
+msgstr "ძირითადი ჩანაწერი:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "WordCraft-ის დაყენება Word დოკუმენტების ნაგულისხმევ პროგრამად…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "ზრდის ან ამცირებს ლენტს, მენიუებსა და ფანჯრებს. „ავტომატური“ მიჰყვება სისტემის ეკრანის მასშტაბირებას; 100% ნიშნავს ეკრანის ერთ პიქსელს ერთ პუნქტზე. დოკუმენტის მასშტაბი ცალკე იცვლება."
+
+msgid "Malaysia"
+msgstr "მალაიზია"
+
+msgid "Manage Sources"
+msgstr "წყაროების მართვა"
+
+msgid "Manage Styles"
+msgstr "სტილების მართვა"
+
+msgid "Manage Styles…"
+msgstr "სტილების მართვა…"
+
+msgid "Manual Hyphenation"
+msgstr "ხელით გადატანა"
+
+msgid "Manual hyphenation is complete."
+msgstr "ხელით გადატანა დასრულდა."
+
+msgid "Manual Line Break"
+msgstr "სტრიქონის ხელით წყვეტა"
+
+msgid "Manual Page Break"
+msgstr "გვერდის ხელით გამყოფი"
+
+msgid "Manual…"
+msgstr "ხელით…"
+
+msgid "Many pages"
+msgstr "ბევრი გვერდი"
+
+msgid "Mark"
+msgstr "მარკირება"
+
+msgid "Mark All"
+msgstr "ყველას მარკირება"
+
+msgid "Mark as decorative"
+msgstr "დეკორატიულად მარკირება"
+
+msgid "Mark Citation"
+msgstr "ციტატის მარკირება"
+
+msgid "Mark Entry"
+msgstr "ჩანაწერის მარკირება"
+
+msgid "Mark Entry…"
+msgstr "ჩანაწერის მარკირება…"
+
+msgid "Mark grammar errors as you type"
+msgstr "გრამატიკული შეცდომების მონიშვნა აკრეფისას"
+
+msgid "Mark Index Entry"
+msgstr "ინდექსის ჩანაწერის მარკირება"
+
+msgid "Mark selected text as:"
+msgstr "მონიშნული ტექსტის ენა:"
+
+msgid "Mark\nCitation"
+msgstr "ციტატის\nმარკირება"
+
+msgid "Mark\nEntry"
+msgstr "ჩანაწერის\nმარკირება"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "რეგისტრის გათვალისწინება"
+
+msgid "Match Fields"
+msgstr "ველების შესაბამისობა"
+
+msgid "Match prefix"
+msgstr "პრეფიქსის დამთხვევა"
+
+msgid "Match suffix"
+msgstr "სუფიქსის დამთხვევა"
+
+msgid "Matches: {count}"
+msgstr "დამთხვევა: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "მათემატიკური ავტოშესწორება"
+
+msgid "Matrices with Brackets"
+msgstr "მატრიცები ფრჩხილებით"
+
+msgid "Matrix"
+msgstr "მატრიცა"
+
+msgid "Maximum Example"
+msgstr "მაქსიმუმის მაგალითი"
+
+msgid "Measured By"
+msgstr "იზომება"
+
+msgid "Measurement units:"
+msgstr "საზომი ერთეულები:"
+
+msgid "Merge cells before split"
+msgstr "უჯრების შერწყმა დაყოფამდე"
+
+msgid "Merge Formatting"
+msgstr "ფორმატირების შერწყმა"
+
+msgid "Merge Record #"
+msgstr "შერწყმის ჩანაწერის №"
+
+msgid "Mesosphere"
+msgstr "მეზოსფერო"
+
+msgid "Mexico"
+msgstr "მექსიკა"
+
+msgid "Midline Dots"
+msgstr "შუა ხაზის წერტილები"
+
+msgid "Minus Equal"
+msgstr "მინუს-ტოლობა"
+
+msgid "Mirror indents"
+msgstr "სარკისებური შეწევები"
+
+msgid "Mirror margins"
+msgstr "სარკისებური ველები"
+
+msgid "Mirrored"
+msgstr "სარკისებური"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. საავტორო უფლება (c) 2026 ArtCraft Team და WordCraft-ის მონაწილეები."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "მმ"
+
+msgid "Moderate"
+msgstr "ზომიერი"
+
+msgid "Modify Style"
+msgstr "სტილის შეცვლა"
+
+msgid "Modify Table Style"
+msgstr "ცხრილის სტილის შეცვლა"
+
+msgid "Modify Table Style…"
+msgstr "ცხრილის სტილის შეცვლა…"
+
+msgid "Modify…"
+msgstr "შეცვლა…"
+
+msgid "Mon"
+msgstr "ორშ"
+
+msgid "Monaco"
+msgstr "მონაკო"
+
+msgid "Montenegro"
+msgstr "მონტენეგრო"
+
+msgid "Month"
+msgstr "თვე"
+
+msgid "More >>"
+msgstr "მეტი >>"
+
+msgid "More Colors…"
+msgstr "სხვა ფერები…"
+
+msgid "More Columns…"
+msgstr "სხვა სვეტები…"
+
+msgid "More Commands…"
+msgstr "სხვა ბრძანებები…"
+
+msgid "More Contrast +20%"
+msgstr "მეტი კონტრასტი +20%"
+
+msgid "More Gradients…"
+msgstr "სხვა გრადიენტები…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "ფურცლის სხვა ზომები…"
+
+msgid "More Symbols…"
+msgstr "სხვა სიმბოლოები…"
+
+msgid "More tabs"
+msgstr "სხვა ჩანართები"
+
+msgid "More templates →"
+msgstr "მეტი შაბლონი →"
+
+msgid "More Underlines…"
+msgstr "ხაზგასმის სხვა სახეები…"
+
+msgid "Morocco"
+msgstr "მაროკო"
+
+msgid "Move in Equation"
+msgstr "გადაადგილება განტოლებაში"
+
+msgid "Move or Resize"
+msgstr "გადაადგილება ან ზომის შეცვლა"
+
+msgid "Move Pane: {title}"
+msgstr "პანელის გადაადგილება: {title}"
+
+msgid "Move Paragraph Down"
+msgstr "აბზაცის ჩამოწევა"
+
+msgid "Move Paragraph Up"
+msgstr "აბზაცის აწევა"
+
+msgid "Move Past Citation"
+msgstr "ციტატის გამოტოვება"
+
+msgid "Move Past\nCitation"
+msgstr "ციტატის\nგამოტოვება"
+
+msgid "Move Selected Ink"
+msgstr "მონიშნული მელნის გადატანა"
+
+msgid "Move Table by Dragging"
+msgstr "ცხრილის გადაადგილება გადათრევით"
+
+msgid "Move with Text"
+msgstr "ტექსტთან ერთად გადაადგილება"
+
+msgid "Moved from"
+msgstr "გადატანილია აქედან"
+
+msgid "Moved from:"
+msgstr "გადატანილია აქედან:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "გადაადგილებული ობიექტები ებმის გვერდის კიდეებს, ცენტრს, ველებს და სხვა ობიექტებს. თავისუფლად გადასაადგილებლად დააჭირეთ Alt-ს."
+
+msgid "Moved to"
+msgstr "გადატანილია აქ"
+
+msgid "Moved to:"
+msgstr "გადატანილია აქ:"
+
+msgid "Moves"
+msgstr "გადატანები"
+
+msgid "Mozambique"
+msgstr "მოზამბიკი"
+
+msgid "Multilevel List"
+msgstr "მრავალდონიანი სია"
+
+msgid "Multilevel List Library"
+msgstr "მრავალდონიანი სიების ნაკრები"
+
+msgid "Multiple Pages"
+msgstr "რამდენიმე გვერდი"
+
+msgid "Mute agent messages"
+msgstr "აგენტების შეტყობინებების დადუმება"
+
+msgid "Muted 50%"
+msgstr "მკრთალი 50%"
+
+msgid "My list has"
+msgstr "ჩემს სიას აქვს"
+
+msgid "Name of the file this document is saved as"
+msgstr "ფაილის სახელი, რომლითაც დოკუმენტია შენახული"
+
+msgid "Narrow"
+msgstr "ვიწრო"
+
+msgid "Narrow  {size} all"
+msgstr "ვიწრო  {size} ყოველ მხარეს"
+
+msgid "Natural Logarithm"
+msgstr "ნატურალური ლოგარითმი"
+
+msgid "Nature"
+msgstr "ბუნება"
+
+msgid "Navigation Pane"
+msgstr "ნავიგაციის პანელი"
+
+msgid "Negated Relations"
+msgstr "უარყოფილი მიმართებები"
+
+msgid "Netherlands"
+msgstr "ნიდერლანდები"
+
+msgid "New blank documents are written in this language"
+msgstr "ახალი ცარიელი დოკუმენტები ამ ენაზე იწერება"
+
+msgid "New Comment"
+msgstr "ახალი კომენტარი"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "ახალი კომენტარები და ჩაწერილი ცვლილებები ამ სახელითა და ინიციალებით აღირიცხება."
+
+msgid "New Documents Based on This Template"
+msgstr "ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები"
+
+msgid "New documents based on this template"
+msgstr "ამ შაბლონზე დაფუძნებული ახალი დოკუმენტები"
+
+msgid "New documents will use this font."
+msgstr "ახალი დოკუმენტები ამ შრიფტს გამოიყენებს."
+
+msgid "New documents will use this page setup."
+msgstr "ახალი დოკუმენტები გვერდის ამ პარამეტრებს გამოიყენებს."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "ახალი დოკუმენტები აბზაცის ამ ფორმატირებას გამოიყენებს."
+
+msgid "New documents will use this style."
+msgstr "ახალი დოკუმენტები ამ სტილს გამოიყენებს."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "ახალი დოკუმენტები WordCraft-ის ჩაშენებულ ფორმატირებას გამოიყენებს. შენახული ნაგულისხმევი პარამეტრების აღდგენა შეუძლებელი იქნება. ჩამოვყაროთ?"
+
+msgid "New Drawing Canvas"
+msgstr "ახალი სახატავი ტილო"
+
+msgid "New Entry"
+msgstr "ახალი ჩანაწერი"
+
+msgid "New Label"
+msgstr "ახალი იარლიყი"
+
+msgid "New Label…"
+msgstr "ახალი იარლიყი…"
+
+msgid "New Paragraph"
+msgstr "ახალი აბზაცი"
+
+msgid "New shortcut:"
+msgstr "ახალი კლავიშების კომბინაცია:"
+
+msgid "New Tab"
+msgstr "ახალი ჩანართი"
+
+msgid "New Table Style"
+msgstr "ცხრილის ახალი სტილი"
+
+msgid "New Table Style…"
+msgstr "ცხრილის ახალი სტილი…"
+
+msgid "New word"
+msgstr "ახალი სიტყვა"
+
+msgid "New Zealand"
+msgstr "ახალი ზელანდია"
+
+msgid "New\nComment"
+msgstr "ახალი\nკომენტარი"
+
+msgid "New\nWindow"
+msgstr "ახალი\nფანჯარა"
+
+msgid "Next Comment"
+msgstr "შემდეგი კომენტარი"
+
+msgid "Next Field"
+msgstr "შემდეგი ველი"
+
+msgid "Next Footnote"
+msgstr "შემდეგი სქოლიო"
+
+msgid "Next Record"
+msgstr "შემდეგი ჩანაწერი"
+
+msgid "Next Section"
+msgstr "შემდეგი სექცია"
+
+msgid "Next Sentence"
+msgstr "შემდეგი წინადადება"
+
+msgid "Next sentence"
+msgstr "შემდეგი წინადადება"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "ნიბი ფანჯრის თავზე დაფრინავს რჩევებითა და დროდადრო შენიშვნებით."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "ნიბი, თქვენი ასისტენტი. გადასატანად გადაათრიეთ; პარამეტრებისთვის მარჯვენა ღილაკით დაწკაპეთ."
+
+msgid "Nicaragua"
+msgstr "ნიკარაგუა"
+
+msgid "No accessibility issues found."
+msgstr "ხელმისაწვდომობის პრობლემები არ მოიძებნა."
+
+msgid "No Border"
+msgstr "ჩარჩოს გარეშე"
+
+msgid "No changes (read only)"
+msgstr "ცვლილებების გარეშე (მხოლოდ წაკითხვა)"
+
+msgid "No contributor data was built into this copy."
+msgstr "ამ ასლში მონაწილეების მონაცემები არ არის ჩაშენებული."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "გახსნილი დოკუმენტი არ არის. ჯერ შექმენით ან გახსენით დოკუმენტი."
+
+msgid "no equation at the caret"
+msgstr "კურსორთან განტოლება არ არის"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "შეცდომა არ მოიძებნა: შერწყმის ყველა ველი მიმღებთა სიაშია."
+
+msgid "No Fill"
+msgstr "შევსების გარეშე"
+
+msgid "No fill"
+msgstr "შევსების გარეშე"
+
+msgid "No Glow"
+msgstr "ნათების გარეშე"
+
+msgid "No Gradient"
+msgstr "გრადიენტის გარეშე"
+
+msgid "No grid"
+msgstr "ბადის გარეშე"
+
+msgid "No header row"
+msgstr "სათაურის სტრიქონის გარეშე"
+
+msgid "No icons match your search."
+msgstr "ძიების შესაბამისი ხატულა არ მოიძებნა."
+
+msgid "No items to show."
+msgstr "საჩვენებელი არაფერია."
+
+msgid "No language matches your search."
+msgstr "თქვენს ძიებას არც ერთი ენა არ ემთხვევა."
+
+msgid "No languages to show yet."
+msgstr "ჩვენებისთვის ენები ჯერ არ არის."
+
+msgid "No Markup"
+msgstr "მარკირების გარეშე"
+
+msgid "No model credits were built into this copy."
+msgstr "ამ ასლში მოდელების მონაცემები არ არის ჩაშენებული."
+
+msgid "No new sources in that file"
+msgstr "იმ ფაილში ახალი წყაროები არ არის"
+
+msgid "No Outline"
+msgstr "კონტურის გარეშე"
+
+msgid "No Paragraph Space"
+msgstr "აბზაცთაშორისი ინტერვალის გარეშე"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "პრინტერი ვერ მოიძებნა. დააყენეთ სისტემის პრინტერი ან გააკეთეთ PDF ექსპორტი."
+
+msgid "No recovery copies."
+msgstr "აღდგენის ასლები არ არის."
+
+msgid "No Reflection"
+msgstr "არეკვლის გარეშე"
+
+msgid "No Scaling"
+msgstr "მასშტაბირების გარეშე"
+
+msgid "No Shadow"
+msgstr "ჩრდილის გარეშე"
+
+msgid "No Soft Edges"
+msgstr "რბილი კიდეების გარეშე"
+
+msgid "No sources yet."
+msgstr "წყაროები ჯერ არ არის."
+
+msgid "No Spacing"
+msgstr "მჭიდრო"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "მართლწერის ლექსიკონი ({language}) დაყენებული არ არის, ამიტომ ტექსტი არ მოწმდება. WordCraft Hunspell-ის ლექსიკონს {name} ეძებს WORDCRAFT_DICTIONARIES საქაღალდეში და სისტემის ჩვეულებრივ მდებარეობებში."
+
+msgid "No templates match your search."
+msgstr "ძიების შესაბამისი შაბლონი არ მოიძებნა."
+
+msgid "No Transform"
+msgstr "გარდაქმნის გარეშე"
+
+msgid "No watermark"
+msgstr "ჭვირნიშანი არ არის"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "სიტყვები ჯერ არ არის. შეცდომით დაწერილ სიტყვაზე „ლექსიკონში დამატება“ მას აქ დაამატებს."
+
+msgid "No-Width Non Break"
+msgstr "ნულოვანი სიგანის განუყოფელი"
+
+msgid "No-Width Optional Break"
+msgstr "ნულოვანი სიგანის არჩევითი გადატანა"
+
+msgid "Nonbreaking Hyphen"
+msgstr "უწყვეტი დეფისი"
+
+msgid "Normal  {size} all"
+msgstr "ჩვეულებრივი  {size} ყოველ მხარეს"
+
+msgid "Normal Indent"
+msgstr "ძირითადი შეწევა"
+
+msgid "Normal probability density"
+msgstr "ნორმალური განაწილების სიმკვრივე"
+
+msgid "Normal speed"
+msgstr "ჩვეულებრივი სიჩქარე"
+
+msgid "Normal Style"
+msgstr "ძირითადი სტილი"
+
+msgid "Normal Table"
+msgstr "ძირითადი ცხრილი"
+
+msgid "Normal Text"
+msgstr "ჩვეულებრივი ტექსტი"
+
+msgid "Normal Word Document"
+msgstr "ჩვეულებრივი Word დოკუმენტი"
+
+msgid "North"
+msgstr "ჩრდილოეთი"
+
+msgid "Norwegian (Bokmål)"
+msgstr "ნორვეგიული (ბუკმოლი)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "ნორვეგიული (ნინორსკი)"
+
+msgid "Not"
+msgstr "არა"
+
+msgid "Not available right now"
+msgstr "ახლა მიუწვდომელია"
+
+msgid "Not available yet"
+msgstr "ჯერ არ არის ხელმისაწვდომი"
+
+msgid "not editing an equation"
+msgstr "განტოლების რედაქტირება არ მიმდინარეობს"
+
+msgid "Not equal to"
+msgstr "არ არის ტოლი"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "არ არის დაკავშირებული: დაწკაპეთ ტექსტურ ბლოკზე"
+
+msgid "Not now"
+msgstr "ახლა არა"
+
+msgid "Not saved"
+msgstr "არ არის შენახული"
+
+msgid "Not saved yet"
+msgstr "ჯერ არ არის შენახული"
+
+msgid "Not set"
+msgstr "არ არის დაყენებული"
+
+msgid "Not set: the system's usual places"
+msgstr "მითითებული არ არის (სისტემის ადგილები)"
+
+msgid "Not used by any command"
+msgstr "არცერთი ბრძანება არ იყენებს"
+
+msgid "Not {name}"
+msgstr "არა {name}"
+
+msgid "Nothing"
+msgstr "არაფერი"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "ჯერ არაფერია შეგროვებული. აქ გამოჩნდება ის, რასაც დააკოპირებთ ან ამოჭრით."
+
+msgid "nothing is selected"
+msgstr "არაფერია მონიშნული"
+
+msgid "Nothing of this type in the document."
+msgstr "დოკუმენტში ამ ტიპის არაფერია."
+
+msgid "Now used by {command}"
+msgstr "ახლა იყენებს: {command}"
+
+msgid "Nudge"
+msgstr "მცირედ გადაწევა"
+
+msgid "Num Occurrences"
+msgstr "გამეორებების რაოდენობა"
+
+msgid "Number alignment:"
+msgstr "ნომრის სწორება:"
+
+msgid "Number format"
+msgstr "ნომრის ფორმატი"
+
+msgid "Number of columns:"
+msgstr "სვეტების რაოდენობა:"
+
+msgid "Number of rows:"
+msgstr "სტრიქონების რაოდენობა:"
+
+msgid "Number of the page the field sits on"
+msgstr "გვერდის ნომერი, სადაც ველია"
+
+msgid "Number of the section the field sits in"
+msgstr "სექციის ნომერი, სადაც ველია"
+
+msgid "Number only, without the label's words"
+msgstr "მხოლოდ ნომერი, იარლიყის სიტყვების გარეშე"
+
+msgid "Number style for this level:"
+msgstr "ამ დონის ნომრის სტილი:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "განტოლების დანომვრა; ნომერი მარჯვენა ველთან დგას (ან აკრიფეთ #, შემდეგ ნომერი)"
+
+msgid "Numbering"
+msgstr "დანომვრა"
+
+msgid "Numbering:"
+msgstr "დანომვრა:"
+
+msgid "Numbering…"
+msgstr "დანომვრა…"
+
+msgid "Numerals"
+msgstr "ციფრები"
+
+msgid "Numerals:"
+msgstr "ციფრები:"
+
+msgid "n×n Identity Matrix"
+msgstr "ერთეულოვანი მატრიცა n×n"
+
+msgid "n×n Matrix"
+msgstr "მატრიცა n×n"
+
+msgid "Odd Banded Columns"
+msgstr "კენტი ზოლიანი სვეტები"
+
+msgid "Odd Banded Rows"
+msgstr "კენტი ზოლიანი სტრიქონები"
+
+msgid "Odd Page"
+msgstr "კენტი გვერდი"
+
+msgid "Office"
+msgstr "ოფისი"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 ნაგულისხმევი"
+
+msgid "Offset (pt):"
+msgstr "წანაცვლება (პტ):"
+
+msgid "Offset: Bottom"
+msgstr "წანაცვლება: ქვემოთ"
+
+msgid "Offset: Bottom Left"
+msgstr "წანაცვლება: ქვემოთ მარცხნივ"
+
+msgid "Offset: Bottom Right"
+msgstr "წანაცვლება: ქვემოთ მარჯვნივ"
+
+msgid "Offset: Center"
+msgstr "წანაცვლება: ცენტრში"
+
+msgid "Offset: Left"
+msgstr "წანაცვლება: მარცხნივ"
+
+msgid "Offset: Right"
+msgstr "წანაცვლება: მარჯვნივ"
+
+msgid "Offset: Top"
+msgstr "წანაცვლება: ზემოთ"
+
+msgid "Offset: Top Left"
+msgstr "წანაცვლება: ზემოთ მარცხნივ"
+
+msgid "Offset: Top Right"
+msgstr "წანაცვლება: ზემოთ მარჯვნივ"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "ძველი მენიუს კლავიშები: Alt, {keys}. განაგრძეთ აკრეფა ან გასაუქმებლად დააჭირეთ Esc-ს."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "ჩართული: აკრეფისას ან ისრიანი კლავიშებით მოძრაობისას კურსორი ახალ ადგილას გადასრიალდება, მისი ციმციმი კი რბილად ქრება და ჩნდება. გამორთული: კურსორი გადახტება და ციმციმებს."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "ჩართული: WordCraft იხსნება ფაილი › მთავარი გვერდზე, ცარიელი დოკუმენტით, შაბლონებითა და ბოლოს გახსნილი დოკუმენტებით. გამორთული: იხსნება ცარიელი დოკუმენტი."
+
+msgid "One"
+msgstr "ერთი"
+
+msgid "One half"
+msgstr "ერთი მეორედი"
+
+msgid "One label per recipient"
+msgstr "თითო იარლიყი თითო მიმღებზე"
+
+msgid "One line per item. Enter adds an item."
+msgstr "თითო სტრიქონი თითო ელემენტზე. Enter ახალ ელემენტს ამატებს."
+
+msgid "One Page"
+msgstr "ერთი გვერდი"
+
+msgid "One-sided"
+msgstr "ცალმხრივი"
+
+msgid "Only allow this kind of editing:"
+msgstr "დაშვებულია მხოლოდ ამგვარი რედაქტირება:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "შესაძლებელია მხოლოდ კომენტარების დამატება, გარდა რედაქტირებადად მონიშნული არეებისა."
+
+msgid "Only for the selected text"
+msgstr "მხოლოდ მონიშნული ტექსტისთვის"
+
+msgid "Only form fields can be filled in."
+msgstr "შესაძლებელია მხოლოდ ფორმის ველების შევსება."
+
+msgid "only in Outline view"
+msgstr "მხოლოდ სტრუქტურის ხედში"
+
+msgid "Only in this document"
+msgstr "მხოლოდ ამ დოკუმენტში"
+
+msgid "Only label and number"
+msgstr "მხოლოდ იარლიყი და ნომერი"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "შესაძლებელია მხოლოდ დაშვებული სტილების გამოყენება."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "გადასვლა შესაძლებელია მხოლოდ ვებ (http, https) და ელფოსტის (mailto) ბმულებზე"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "ჯერ გახსენით დოკუმენტი"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "ფაილის გახსნა WordCraft-ის საკუთარი ბრაუზერით, როცა სისტემის ფაილის ფანჯარა არ ჩნდება."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument ტექსტი (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "ბეჭდვის ფანჯარა იხსნება…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "ამიერიდან .docx, .doc, .rtf და .odt ფაილები და Word შაბლონები WordCraft-ით გაიხსნება."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "ხსნის Settings › Default apps-ს, სადაც .docx-ისა და დოკუმენტის სხვა ტიპებისთვის WordCraft-ს აირჩევთ."
+
+msgid "Operator"
+msgstr "ოპერატორი"
+
+msgid "Operator Structures"
+msgstr "ოპერატორების სტრუქტურები"
+
+msgid "Operators"
+msgstr "ოპერატორები"
+
+msgid "Optional Hyphen"
+msgstr "არჩევითი დეფისი"
+
+msgid "Or"
+msgstr "ან"
+
+msgid "Or save a copy in another format:"
+msgstr "ან შეინახეთ ასლი სხვა ფორმატში:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "რიგობითები (1st) ზედა ინდექსით"
+
+msgid "Organizer"
+msgstr "ორგანაიზერი"
+
+msgid "Organizer…"
+msgstr "ორგანაიზერი…"
+
+msgid "Original document"
+msgstr "საწყისი დოკუმენტი"
+
+msgid "Original size"
+msgstr "საწყისი ზომა"
+
+msgid "Other Large Operators"
+msgstr "სხვა დიდი ოპერატორები"
+
+msgid "Other styles and their TOC level:"
+msgstr "სხვა სტილები და მათი სარჩევის დონე:"
+
+msgid "Other:"
+msgstr "სხვა:"
+
+msgid "Otherwise insert:"
+msgstr "სხვა შემთხვევაში ჩაისვას:"
+
+msgid "Outline Level"
+msgstr "სტრუქტურის დონე"
+
+msgid "Outline level"
+msgstr "სტრუქტურის დონე"
+
+msgid "Outline levels"
+msgstr "სტრუქტურის დონეები"
+
+msgid "Outline State"
+msgstr "სტრუქტურის მდგომარეობა"
+
+msgid "Outline Tools"
+msgstr "სტრუქტურის ხელსაწყოები"
+
+msgid "Outlining"
+msgstr "სტრუქტურირება"
+
+msgid "Outside border"
+msgstr "გარე ჩარჩო"
+
+msgid "Outside Borders"
+msgstr "გარე ჩარჩოები"
+
+msgid "Outside:"
+msgstr "გარეთ:"
+
+msgid "Outward Brackets"
+msgstr "გარეთ მიმართული კვადრატული ფრჩხილები"
+
+msgid "Overbar"
+msgstr "ზედა ხაზი"
+
+msgid "Overbars and Underbars"
+msgstr "ზედა და ქვედა ხაზები"
+
+msgid "Overbrace"
+msgstr "ზედა ფიგურული ფრჩხილი"
+
+msgid "Overtype"
+msgstr "გადაწერა"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "გადაწერა (აკრეფილი ტექსტი კურსორის შემდეგ სიმბოლოებს ანაცვლებს)"
+
+msgid "Page Background"
+msgstr "გვერდის ფონი"
+
+msgid "Page Border"
+msgstr "გვერდის ჩარჩო"
+
+msgid "Page Borders"
+msgstr "გვერდის ჩარჩოები"
+
+msgid "Page Break"
+msgstr "გვერდის გამყოფი"
+
+msgid "Page Break Before"
+msgstr "გვერდის გამყოფი წინ"
+
+msgid "Page break before"
+msgstr "გვერდის გამყოფი წინ"
+
+msgid "Page Breaks"
+msgstr "გვერდის გამყოფები"
+
+msgid "Page Color"
+msgstr "გვერდის ფერი"
+
+msgid "Page color"
+msgstr "გვერდის ფერი"
+
+msgid "Page display"
+msgstr "გვერდების ჩვენება"
+
+msgid "Page Down"
+msgstr "გვერდით ქვემოთ"
+
+msgid "Page image (*.png)"
+msgstr "გვერდის სურათი (*.png)"
+
+msgid "Page Movement"
+msgstr "გვერდების გადაადგილება"
+
+msgid "Page Number"
+msgstr "გვერდის ნომერი"
+
+msgid "Page number"
+msgstr "გვერდის ნომერი"
+
+msgid "Page Number Format"
+msgstr "გვერდის ნომრის ფორმატი"
+
+msgid "Page number style"
+msgstr "გვერდის ნომრის სტილი"
+
+msgid "Page numbering"
+msgstr "გვერდების დანომვრა"
+
+msgid "Page numbers at the right margin"
+msgstr "გვერდის ნომრები მარჯვენა ველთან"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "გვერდი, სადაც სანიშნით აღნიშნული ფრაგმენტია"
+
+msgid "Page Setup"
+msgstr "გვერდის პარამეტრები"
+
+msgid "Page title"
+msgstr "გვერდის სათაური"
+
+msgid "Page Up"
+msgstr "გვერდით ზემოთ"
+
+msgid "Page Width"
+msgstr "გვერდის სიგანე"
+
+msgid "Page width"
+msgstr "გვერდის სიგანე"
+
+msgid "Page X of Y"
+msgstr "გვერდი X / Y"
+
+msgid "Page {page}"
+msgstr "გვერდი {page}"
+
+msgid "Page\nBorders"
+msgstr "გვერდის\nჩარჩოები"
+
+msgid "Page\nColor"
+msgstr "გვერდის\nფერი"
+
+msgid "Page\nNumber"
+msgstr "გვერდის\nნომერი"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "გვერდები, მაგ. 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "სანიშნის გვერდები:"
+
+msgid "Panama"
+msgstr "პანამა"
+
+msgid "Pane Options"
+msgstr "პანელის პარამეტრები"
+
+msgid "Paper size:"
+msgstr "ფურცლის ზომა:"
+
+msgid "Paragraph Character"
+msgstr "აბზაცის სიმბოლო"
+
+msgid "Paragraph Details"
+msgstr "აბზაცის დეტალები"
+
+msgid "Paragraph Down"
+msgstr "აბზაცით ქვემოთ"
+
+msgid "Paragraph Mark"
+msgstr "აბზაცის ნიშანი"
+
+msgid "Paragraph marks"
+msgstr "აბზაცის ნიშნები"
+
+msgid "Paragraph Settings"
+msgstr "აბზაცის პარამეტრები"
+
+msgid "Paragraph Spacing"
+msgstr "აბზაცთა ინტერვალი"
+
+msgid "Paragraph style"
+msgstr "აბზაცის სტილი"
+
+msgid "Paragraph Up"
+msgstr "აბზაცით ზემოთ"
+
+msgid "Paragraphs"
+msgstr "აბზაცები"
+
+msgid "Paragraph…"
+msgstr "აბზაცი…"
+
+msgid "Paraguay"
+msgstr "პარაგვაი"
+
+msgid "Parentheses"
+msgstr "მრგვალი ფრჩხილები"
+
+msgid "Parentheses with Separator"
+msgstr "მრგვალი ფრჩხილები გამყოფით"
+
+msgid "Partial Differential"
+msgstr "კერძო დიფერენციალი"
+
+msgid "Password:"
+msgstr "პაროლი:"
+
+msgid "Paste (⌘V)"
+msgstr "ჩასმა (⌘V)"
+
+msgid "Paste All"
+msgstr "ყველას ჩასმა"
+
+msgid "Paste as:"
+msgstr "ჩასმა როგორც:"
+
+msgid "Paste Clipboard Item"
+msgstr "ბუფერის ელემენტის ჩასმა"
+
+msgid "Paste Formatting"
+msgstr "ფორმატის ჩასმა"
+
+msgid "Paste function:"
+msgstr "ფუნქციის ჩასმა:"
+
+msgid "Paste Special…"
+msgstr "სპეციალური ჩასმა…"
+
+msgid "Paste: Keep Text Only"
+msgstr "ჩასმა: მხოლოდ ტექსტი"
+
+msgid "Paste: Merge Formatting"
+msgstr "ჩასმა: ფორმატირების შერწყმა"
+
+msgid "Pastes the clipboard's picture."
+msgstr "სვამს ბუფერში არსებულ სურათს."
+
+msgid "Paused"
+msgstr "შეჩერებულია"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF დოკუმენტი (*.pdf)"
+
+msgid "Pens"
+msgstr "კალმები"
+
+msgid "People"
+msgstr "ადამიანები"
+
+msgid "Periodical"
+msgstr "პერიოდული გამოცემა"
+
+msgid "Persian"
+msgstr "სპარსული"
+
+msgid "Personal"
+msgstr "პირადი"
+
+msgid "Personal Templates"
+msgstr "პირადი შაბლონები"
+
+msgid "Personalize"
+msgstr "პერსონალიზაცია"
+
+msgid "Peru"
+msgstr "პერუ"
+
+msgid "Philippines"
+msgstr "ფილიპინები"
+
+msgid "Phonetic Guide"
+msgstr "ფონეტიკური გზამკვლევი"
+
+msgid "pi"
+msgstr "პკ"
+
+msgid "Pi Over 2"
+msgstr "პი გაყოფილი 2-ზე"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "აირჩიეთ მორგებული ჯგუფი (ახალს „ახალი ჯგუფი“ ქმნის)"
+
+msgid "Pick a field from the list"
+msgstr "აირჩიეთ ველი სიიდან"
+
+msgid "Picture"
+msgstr "სურათი"
+
+msgid "Picture Border"
+msgstr "სურათის ჩარჩო"
+
+msgid "Picture border"
+msgstr "სურათის ჩარჩო"
+
+msgid "Picture Content Control"
+msgstr "სურათის შიგთავსის მართვის ელემენტი"
+
+msgid "Picture Format"
+msgstr "სურათის ფორმატი"
+
+msgid "Picture Styles"
+msgstr "სურათის სტილები"
+
+msgid "Picture transparency"
+msgstr "სურათის გამჭვირვალობა"
+
+msgid "Picture watermark"
+msgstr "სურათის ჭვირნიშანი"
+
+msgid "Pictures"
+msgstr "სურათები"
+
+msgid "Pie"
+msgstr "წრიული"
+
+msgid "Place in This Document"
+msgstr "ადგილი ამ დოკუმენტში"
+
+msgid "Placeholder text"
+msgstr "ჩანაცვლების ტექსტი"
+
+msgid "Plain Table 1"
+msgstr "უბრალო ცხრილი 1"
+
+msgid "Plain text (*.txt)"
+msgstr "უბრალო ტექსტი (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "უბრალო ტექსტის შიგთავსის მართვის ელემენტი"
+
+msgid "Play/Pause"
+msgstr "დაკვრა/პაუზა"
+
+msgid "Plus Equal"
+msgstr "პლუს-ტოლობა"
+
+msgid "Points and above"
+msgstr "პუნქტი და მეტი"
+
+msgid "Polish"
+msgstr "პოლონური"
+
+msgid "Portugal"
+msgstr "პორტუგალია"
+
+msgid "Portuguese (Brazil)"
+msgstr "პორტუგალიური (ბრაზილია)"
+
+msgid "Portuguese (Portugal)"
+msgstr "პორტუგალიური (პორტუგალია)"
+
+msgid "Possible spelling mistake"
+msgstr "შესაძლო ორთოგრაფიული შეცდომა"
+
+msgid "Postal Code"
+msgstr "საფოსტო ინდექსი"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "(1+x)ⁿ-ის ხარისხოვანი მწკრივი"
+
+msgid "Preferred width:"
+msgstr "სასურველი სიგანე:"
+
+msgid "Preserve formatting during updates"
+msgstr "განახლებისას ფორმატირების შენარჩუნება"
+
+msgid "Preset gradients"
+msgstr "გრადიენტების პრესეტები"
+
+msgid "Press a key combination"
+msgstr "დააჭირეთ კლავიშების კომბინაციას"
+
+msgid "Preview Results"
+msgstr "შედეგების გადახედვა"
+
+msgid "Preview\nResults"
+msgstr "შედეგების\nგადახედვა"
+
+msgid "Previous 1 or More"
+msgstr "წინა 1 ან მეტი"
+
+msgid "Previous Comment"
+msgstr "წინა კომენტარი"
+
+msgid "Previous Field"
+msgstr "წინა ველი"
+
+msgid "Previous Record"
+msgstr "წინა ჩანაწერი"
+
+msgid "Previous Section"
+msgstr "წინა სექცია"
+
+msgid "Previous Sentence"
+msgstr "წინა წინადადება"
+
+msgid "Previous sentence"
+msgstr "წინა წინადადება"
+
+msgid "Print Documents"
+msgstr "დოკუმენტების დაბეჭდვა"
+
+msgid "Print Documents…"
+msgstr "დოკუმენტების დაბეჭდვა…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "ბეჭდვა ვერ მოხერხდა: ბეჭდვის პროცესი შეჩერდა."
+
+msgid "Print failed: {error}"
+msgstr "ბეჭდვა ვერ მოხერხდა: {error}"
+
+msgid "Print job submitted."
+msgstr "ბეჭდვის დავალება გაიგზავნა."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "ბეჭდვის დავალება გაიგზავნა; რიგში ჩაყენებული ფურცელი: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "ბეჭდვის დავალება გაიგზავნა: {receipt}"
+
+msgid "Print Layout"
+msgstr "ბეჭდვის განლაგება"
+
+msgid "Print Markup"
+msgstr "მარკირების ბეჭდვა"
+
+msgid "Print settings"
+msgstr "ბეჭდვის პარამეტრები"
+
+msgid "Print the page color"
+msgstr "გვერდის ფერის ბეჭდვა"
+
+msgid "Print to PDF"
+msgstr "PDF-ად დაბეჭდვა"
+
+msgid "Print\nLayout"
+msgstr "ბეჭდვის\nგანლაგება"
+
+msgid "Printer default"
+msgstr "პრინტერის ნაგულისხმევი"
+
+msgid "Printer discovery failed."
+msgstr "პრინტერების მოძებნა ვერ მოხერხდა."
+
+msgid "Privacy for this document"
+msgstr "ამ დოკუმენტის კონფიდენციალურობა"
+
+msgid "Privacy Options"
+msgstr "კონფიდენციალურობის პარამეტრები"
+
+msgid "Privacy Settings"
+msgstr "კონფიდენციალურობის მიმდინარე პარამეტრები"
+
+msgid "Process"
+msgstr "პროცესი"
+
+msgid "Product"
+msgstr "ნამრავლი"
+
+msgid "Product of A"
+msgstr "A-ს ნამრავლი"
+
+msgid "Product with Limits"
+msgstr "ნამრავლი ზღვრებით"
+
+msgid "Product with Lower Limit"
+msgstr "ნამრავლი ქვედა საზღვრით"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "ნამრავლი ინდექსური ზღვრებით"
+
+msgid "Products and Coproducts"
+msgstr "ნამრავლები და კონამრავლები"
+
+msgid "Professional"
+msgstr "პროფესიული"
+
+msgid "Promote"
+msgstr "დაწინაურება"
+
+msgid "Promote to Heading 1"
+msgstr "სათაური 1-ად დაწინაურება"
+
+msgid "Proofing"
+msgstr "კორექტურა"
+
+msgid "Proofing Issues"
+msgstr "კორექტურის შენიშვნები"
+
+msgid "Proofing language"
+msgstr "კორექტურის ენა"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "დოკუმენტის დაცვა"
+
+msgid "pt"
+msgstr "პტ"
+
+msgid "Publisher"
+msgstr "გამომცემელი"
+
+msgid "Puerto Rico"
+msgstr "პუერტო-რიკო"
+
+msgid "Put the caret in a content control first."
+msgstr "ჯერ კურსორი შიგთავსის მართვის ელემენტში მოათავსეთ."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "დაბრუნდეს ნაგულისხმევი ბრძანებები სწრაფი წვდომის პანელზე?"
+
+msgid "Qatar"
+msgstr "კატარი"
+
+msgid "Quadratic Root"
+msgstr "კვადრატული განტოლების ფესვი"
+
+msgid "Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელი"
+
+msgid "Quick Parts"
+msgstr "სწრაფი ფრაგმენტები"
+
+msgid "Quick Tables"
+msgstr "სწრაფი ცხრილები"
+
+msgid "Quote"
+msgstr "ციტატა"
+
+msgid "Radical"
+msgstr "ფესვი"
+
+msgid "Radical with Degree"
+msgstr "ფესვი მაჩვენებლით"
+
+msgid "Radicals"
+msgstr "ფესვები"
+
+msgid "Raised/lowered"
+msgstr "აწეული/დაწეული"
+
+msgid "Read Aloud"
+msgstr "ხმამაღლა წაკითხვა"
+
+msgid "Read Aloud Status"
+msgstr "ხმამაღლა წაკითხვის მდგომარეობა"
+
+msgid "Read Mode"
+msgstr "კითხვის რეჟიმი"
+
+msgid "Read\nAloud"
+msgstr "ხმამაღლა\nწაკითხვა"
+
+msgid "Read\nMode"
+msgstr "კითხვის\nრეჟიმი"
+
+msgid "Reading"
+msgstr "კითხვა"
+
+msgid "Reading Column Width"
+msgstr "კითხვის სვეტის სიგანე"
+
+msgid "Reading Highlight"
+msgstr "წაკითხვისას გამოკვეთა"
+
+msgid "Reading Line Spacing"
+msgstr "კითხვისას სტრიქონთა დაშორება"
+
+msgid "Reading Mode"
+msgstr "კითხვის რეჟიმი"
+
+msgid "Reading Page Color"
+msgstr "კითხვის გვერდის ფერი"
+
+msgid "Reading Speed"
+msgstr "კითხვის სიჩქარე"
+
+msgid "Reading Text Size"
+msgstr "კითხვისას ტექსტის ზომა"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "კითხულობს ბუფერის ფორმატირებულ ტექსტს (RTF) და ინარჩუნებს მის ფორმატირებას."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "კითხულობს ბუფერის ვებ-შიგთავსს და ინარჩუნებს მის ფორმატირებას."
+
+msgid "Recent documents to show:"
+msgstr "საჩვენებელი ბოლოს გახსნილი დოკუმენტები:"
+
+msgid "Recently Used Fonts"
+msgstr "ბოლოს გამოყენებული შრიფტები"
+
+msgid "Recently used symbols:"
+msgstr "ბოლოს გამოყენებული სიმბოლოები:"
+
+msgid "Recipient List"
+msgstr "მიმღებთა სია"
+
+msgid "Recipient lists"
+msgstr "მიმღებთა სიები"
+
+msgid "Recipients: {count}"
+msgstr "მიმღები: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "ერთფეროვანი სურათის, მაგალითად ხატულის, გადაფერადება"
+
+msgid "Recolor Selected Ink"
+msgstr "მონიშნული მელნის გადაფერადება"
+
+msgid "Record Macro"
+msgstr "მაკროსის ჩაწერა"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "დოკუმენტების აღდგენა"
+
+msgid "Recover Unsaved Documents"
+msgstr "შეუნახავი დოკუმენტების აღდგენა"
+
+msgid "Recovery copy"
+msgstr "აღდგენის ასლი"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "სანამ ამ დოკუმენტს პაროლი აქვს, აღდგენა გამორთულია."
+
+msgid "Red:"
+msgstr "წითელი:"
+
+msgid "Reduce Hanging Indent"
+msgstr "გამოწეული სტრიქონის შემცირება"
+
+msgid "Reference type:"
+msgstr "ბმულის ტიპი:"
+
+msgid "References"
+msgstr "ცნობარები"
+
+msgid "Reflection"
+msgstr "არეკვლა"
+
+msgid "Refresh printers"
+msgstr "პრინტერების განახლება"
+
+msgid "Region:"
+msgstr "რეგიონი:"
+
+msgid "Registered"
+msgstr "რეგისტრირებული"
+
+msgid "Registered Sign"
+msgstr "რეგისტრაციის ნიშანი"
+
+msgid "Regular expressions"
+msgstr "რეგულარული გამოსახულებები"
+
+msgid "Reject"
+msgstr "უარყოფა"
+
+msgid "Reject All Changes"
+msgstr "ყველა ცვლილების უარყოფა"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr "ყველა ცვლილების უარყოფა და თვალის დევნების შეწყვეტა"
+
+msgid "Reject and Move to Next"
+msgstr "უარყოფა და შემდეგზე გადასვლა"
+
+msgid "Reject Change"
+msgstr "ცვლილების უარყოფა"
+
+msgid "Relationship"
+msgstr "კავშირი"
+
+msgid "Relative to original picture size"
+msgstr "სურათის საწყის ზომასთან შეფარდებით"
+
+msgid "Remove Added Font"
+msgstr "დამატებული შრიფტის წაშლა"
+
+msgid "Remove condition"
+msgstr "პირობის წაშლა"
+
+msgid "Remove Content Control"
+msgstr "შიგთავსის მართვის ელემენტის წაშლა"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "წაიშალოს ყველა მორგებული კლავიშების კომბინაცია და აღდგეს ჩაშენებული კლავიშები?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "წაიშალოს ყველა მორგებული ჩანართი და ჯგუფი და ისევ გამოჩნდეს ყველა ჩანართი?"
+
+msgid "Remove field"
+msgstr "ველის წაშლა"
+
+msgid "Remove Footer"
+msgstr "ქვედა კოლონტიტულის წაშლა"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელიდან წაშლა"
+
+msgid "Remove gradient stop"
+msgstr "გრადიენტის გადასვლის წერტილის წაშლა"
+
+msgid "Remove Header"
+msgstr "ზედა კოლონტიტულის წაშლა"
+
+msgid "Remove Hyperlink"
+msgstr "ბმულის მოხსნა"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "შენახვისას ჩემი სახელის წაშლა კომენტარებიდან, ცვლილებებიდან და ფაილის თვისებებიდან"
+
+msgid "Remove Password"
+msgstr "პაროლის მოხსნა"
+
+msgid "Remove Pen"
+msgstr "კალმის წაშლა"
+
+msgid "Remove recipient"
+msgstr "მიმღების წაშლა"
+
+msgid "Remove row"
+msgstr "სტრიქონის წაშლა"
+
+msgid "Remove series"
+msgstr "სერიის წაშლა"
+
+msgid "Remove Space After Paragraph"
+msgstr "აბზაცის შემდეგ ინტერვალის მოხსნა"
+
+msgid "Remove Table of Contents"
+msgstr "სარჩევის წაშლა"
+
+msgid "Remove the control once edited"
+msgstr "ელემენტის მოშორება რედაქტირების შემდეგ"
+
+msgid "Remove the space before the punctuation"
+msgstr "წაშალეთ სივრცე პუნქტუაციის ნიშნის წინ"
+
+msgid "Remove Watermark"
+msgstr "ჭვირნიშნის წაშლა"
+
+msgid "Rename Document"
+msgstr "დოკუმენტის სახელის შეცვლა"
+
+msgid "Reopen"
+msgstr "ხელახლა გახსნა"
+
+msgid "Repeat as header row on each page"
+msgstr "სათაურის სტრიქონად გამეორება ყოველ გვერდზე"
+
+msgid "Repeat Header Rows"
+msgstr "სათაურის სტრიქონების გამეორება"
+
+msgid "Repeating Section Content Control"
+msgstr "განმეორებადი სექციის შიგთავსის მართვის ელემენტი"
+
+msgid "Replace All"
+msgstr "ყველას ჩანაცვლება"
+
+msgid "Replace as you type"
+msgstr "ჩანაცვლება აკრეფისას"
+
+msgid "Replace Document Text"
+msgstr "დოკუმენტის ტექსტის ჩანაცვლება"
+
+msgid "Replace text as you type"
+msgstr "ტექსტის ჩანაცვლება აკრეფისას"
+
+msgid "Replace with:"
+msgstr "ჩანაცვლება:"
+
+msgid "Replay"
+msgstr "ხელახლა დაკვრა"
+
+msgid "Research"
+msgstr "კვლევა"
+
+msgid "Researcher"
+msgstr "მკვლევარი"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "მკვლევარს ონლაინ სერვისი სჭირდება; WordCraft თქვენს დოკუმენტებს ოფლაინ ინახავს."
+
+msgid "Reset All…"
+msgstr "ყველაფრის ჩამოყრა…"
+
+msgid "Reset Character Formatting"
+msgstr "სიმბოლოს ფორმატირების ჩამოყრა"
+
+msgid "Reset Crop"
+msgstr "ჩამოჭრის გაუქმება"
+
+msgid "Reset Default Formatting"
+msgstr "ნაგულისხმევი ფორმატირების ჩამოყრა"
+
+msgid "Reset Graphic"
+msgstr "გრაფიკის ჩამოყრა"
+
+msgid "Reset Paragraph Formatting"
+msgstr "აბზაცის ფორმატირების ჩამოყრა"
+
+msgid "Reset Picture"
+msgstr "სურათის ჩამოყრა"
+
+msgid "Reset tips"
+msgstr "რჩევების ჩამოყრა"
+
+msgid "Reset to Normal"
+msgstr "ძირითადზე დაბრუნება"
+
+msgid "Reset\nGraphic"
+msgstr "გრაფიკის\nჩამოყრა"
+
+msgid "Resize Pane"
+msgstr "პანელის ზომის შეცვლა"
+
+msgid "Resize Table by Dragging"
+msgstr "ცხრილის ზომის შეცვლა გადათრევით"
+
+msgid "Resolve"
+msgstr "გადაწყვეტა"
+
+msgid "Resolved"
+msgstr "გადაწყვეტილია"
+
+msgid "Restart at 1"
+msgstr "თავიდან 1-დან"
+
+msgid "Restart Each Page"
+msgstr "თავიდან ყოველ გვერდზე"
+
+msgid "Restart Each Section"
+msgstr "თავიდან ყოველ სექციაში"
+
+msgid "Restart list after:"
+msgstr "სიის თავიდან დაწყება შემდეგის შემდეგ:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "აღდგენა შეუნახავ ასლს ხსნის. თქვენი ორიგინალი ფაილი უცვლელი რჩება."
+
+msgid "Restrict Editing"
+msgstr "რედაქტირების შეზღუდვა"
+
+msgid "Restrict\nEditing"
+msgstr "რედაქტირების\nშეზღუდვა"
+
+msgid "Results"
+msgstr "შედეგები"
+
+msgid "Return address labels"
+msgstr "გამგზავნის მისამართის იარლიყები"
+
+msgid "Return address:"
+msgstr "გამგზავნის მისამართი:"
+
+msgid "Reviewing"
+msgstr "განხილვა"
+
+msgid "Reviewing Pane"
+msgstr "განხილვის პანელი"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "განხილვა — ცვლილებები შეთავაზებებად იქცევა"
+
+msgid "Revised document"
+msgstr "შესწორებული დოკუმენტი"
+
+msgid "Rewind"
+msgstr "უკან გადახვევა"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "უკან ვახვევ. მითხარით, როდის გავჩერდე."
+
+msgid "Ribbon"
+msgstr "ლენტი"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "ლენტი და სწრაფი წვდომის პანელი:"
+
+msgid "Ribbon tabs"
+msgstr "ლენტის ჩანართები"
+
+msgid "Rich Text Content Control"
+msgstr "ფორმატირებული ტექსტის შიგთავსის მართვის ელემენტი"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "მარჯვნივ (ვერტიკალური)"
+
+msgid "Right Arrow with Text Above"
+msgstr "ისარი მარჯვნივ, ტექსტი ზემოთ"
+
+msgid "Right Arrow with Text Below"
+msgstr "ისარი მარჯვნივ, ტექსტი ქვემოთ"
+
+msgid "Right Border"
+msgstr "მარჯვენა ჩარჩო"
+
+msgid "Right border"
+msgstr "მარჯვენა ჩარჩო"
+
+msgid "Right Bracket Twice"
+msgstr "ორი მარჯვენა კვადრატული ფრჩხილი"
+
+msgid "Right indent"
+msgstr "მარჯვენა შეწევა"
+
+msgid "Right Margin"
+msgstr "მარჯვენა ველი"
+
+msgid "Right Only"
+msgstr "მხოლოდ მარჯვნივ"
+
+msgid "Right-to-left"
+msgstr "მარჯვნიდან მარცხნივ"
+
+msgid "Right-to-Left Section"
+msgstr "სექცია მარჯვნიდან მარცხნივ"
+
+msgid "Right-to-Left Table"
+msgstr "ცხრილი მარჯვნიდან მარცხნივ"
+
+msgid "Right-to-Left Text Direction"
+msgstr "ტექსტის მიმართულება მარჯვნიდან მარცხნივ"
+
+msgid "Rightwards Arrow Above"
+msgstr "მარჯვნივ მიმართული ისარი ზემოთ"
+
+msgid "Rightwards Harpoon Above"
+msgstr "მარჯვნივ მიმართული ცალფრთა ისარი ზემოთ"
+
+msgid "Romanian"
+msgstr "რუმინული"
+
+msgid "Roots of ax²+bx+c"
+msgstr "ax²+bx+c-ის ფესვები"
+
+msgid "Rotate all text 270°"
+msgstr "მთელი ტექსტის 270°-ით შემობრუნება"
+
+msgid "Rotate all text 90°"
+msgstr "მთელი ტექსტის 90°-ით შემობრუნება"
+
+msgid "Rotate Left 90°"
+msgstr "90°-ით მარცხნივ შემობრუნება"
+
+msgid "Rotate Right 90°"
+msgstr "90°-ით მარჯვნივ შემობრუნება"
+
+msgid "Rotate with shape"
+msgstr "ფიგურასთან ერთად შემობრუნება"
+
+msgid "Rounded"
+msgstr "მომრგვალებული"
+
+msgid "Row"
+msgstr "სტრიქონი"
+
+msgid "Row:"
+msgstr "სტრიქონი:"
+
+msgid "Rows & Columns"
+msgstr "სტრიქონები და სვეტები"
+
+msgid "Ruby text:"
+msgstr "ფურიგანას ტექსტი:"
+
+msgid "Rules"
+msgstr "წესები"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "ერთ აბზაცში"
+
+msgid "Russia"
+msgstr "რუსეთი"
+
+msgid "Résumé"
+msgstr "რეზიუმე"
+
+msgid "SAMPLE"
+msgstr "ნიმუში"
+
+msgid "Sat:"
+msgstr "გაჯერ.:"
+
+msgid "Saturation and recolor"
+msgstr "გაჯერება და გადაფერადება"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "შეინახეთ ასლი სხვა ფორმატში. ბეჭდვა ხდება PDF-ის მეშვეობით, რომლის დაბეჭდვაც ნებისმიერი მნახველიდან შეიძლება."
+
+msgid "Save as Word Template…"
+msgstr "Word-ის შაბლონად შენახვა…"
+
+msgid "Save documents"
+msgstr "დოკუმენტების შენახვა"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "ავტოშენახვის ჩასართავად შეინახეთ დოკუმენტი"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "ავტოშენახვის ჩასართავად შეინახეთ დოკუმენტი (მხოლოდ გახსნილი ფაილი შენახვამდე არ გადაიწერება)"
+
+msgid "Save these pages as PDF…"
+msgstr "ამ გვერდების PDF-ად შენახვა…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "შენახულია. ისევ შენახულია. ჯერაც შენახულია. ძალიან შენახულია."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "ინახავს .dotx შაბლონს თქვენი შაბლონების საქაღალდეში. ის გამოჩნდება ფაილი › ახალი-ში „პირადის“ ქვეშ."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "შენახვა გაუქმდა ({name}): დოკუმენტი ისევ ღიაა და არაფერი დაკარგულა."
+
+msgid "Sayings"
+msgstr "რეპლიკები"
+
+msgid "Sayings:"
+msgstr "რეპლიკები:"
+
+msgid "Scale Drawing"
+msgstr "ნახატის მასშტაბირება"
+
+msgid "Scale Font Sizes"
+msgstr "შრიფტის ზომების მასშტაბირება"
+
+msgid "Scale to paper size"
+msgstr "ფურცლის ზომაზე მასშტაბირება"
+
+msgid "Scatter"
+msgstr "წერტილოვანი"
+
+msgid "Script"
+msgstr "სკრიპტი"
+
+msgid "Scroll ribbon left"
+msgstr "ლენტის მარცხნივ გადახვევა"
+
+msgid "Scroll ribbon right"
+msgstr "ლენტის მარჯვნივ გადახვევა"
+
+msgid "Search Commands"
+msgstr "ბრძანებების ძიება"
+
+msgid "Search commands and help"
+msgstr "ბრძანებებისა და დახმარების ძიება"
+
+msgid "Search document"
+msgstr "დოკუმენტში ძიება"
+
+msgid "Search for templates"
+msgstr "შაბლონების ძიება"
+
+msgid "Search icons"
+msgstr "ხატულების ძიება"
+
+msgid "Search Options"
+msgstr "ძებნის პარამეტრები"
+
+msgid "Search:"
+msgstr "ძიება:"
+
+msgid "Secant Function"
+msgstr "სეკანსის ფუნქცია"
+
+msgid "Section 1.01"
+msgstr "განყოფილება 1.01"
+
+msgid "Section Break"
+msgstr "სექციის გამყოფი"
+
+msgid "Section Breaks"
+msgstr "სექციის გამყოფები"
+
+msgid "Section Character"
+msgstr "სექციის სიმბოლო"
+
+msgid "Section direction:"
+msgstr "სექციის მიმართულება:"
+
+msgid "Section Mark"
+msgstr "სექციის ნიშანი"
+
+msgid "Section Properties"
+msgstr "სექციის თვისებები"
+
+msgid "Sections"
+msgstr "სექციები"
+
+msgid "See"
+msgstr "იხილეთ"
+
+msgid "select a chart first"
+msgstr "ჯერ მონიშნეთ დიაგრამა"
+
+msgid "select a connector first"
+msgstr "ჯერ მონიშნეთ შემაერთებელი"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "ჯერ მონიშნეთ სახატავი ტილო"
+
+msgid "select a floating picture or shape first"
+msgstr "ჯერ მონიშნეთ თავისუფლად განთავსებული სურათი ან ფიგურა"
+
+msgid "select a group first"
+msgstr "ჯერ მონიშნეთ ჯგუფი"
+
+msgid "select a picture first"
+msgstr "ჯერ მონიშნეთ სურათი"
+
+msgid "Select a picture first."
+msgstr "ჯერ აირჩიეთ სურათი."
+
+msgid "select a picture or shape first"
+msgstr "ჯერ მონიშნეთ სურათი ან ფიგურა"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "აღსაწერად მონიშნეთ სურათი, ფიგურა, დიაგრამა ან ცხრილი."
+
+msgid "Select a place in this document:"
+msgstr "აირჩიეთ ადგილი ამ დოკუმენტში:"
+
+msgid "Select a printer"
+msgstr "აირჩიეთ პრინტერი"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "ჯერ მონიშნეთ ფიგურა"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "შევსების ფორმატირებისთვის მონიშნეთ ფიგურა, ტექსტური ბლოკი ან სახატავი ტილო."
+
+msgid "select a SmartArt graphic first"
+msgstr "ჯერ მონიშნეთ SmartArt გრაფიკა"
+
+msgid "select a text box first"
+msgstr "ჯერ მონიშნეთ ტექსტური ბლოკი"
+
+msgid "select a text box linked to another first"
+msgstr "ჯერ მონიშნეთ სხვა ბლოკთან დაკავშირებული ტექსტური ბლოკი"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "უჯრის მონიშვნა"
+
+msgid "Select Column"
+msgstr "სვეტის მონიშვნა"
+
+msgid "Select Heading and Content"
+msgstr "სათაურისა და შიგთავსის მონიშვნა"
+
+msgid "Select Line"
+msgstr "სტრიქონის მონიშვნა"
+
+msgid "Select Paragraph"
+msgstr "აბზაცის მონიშვნა"
+
+msgid "Select Picture…"
+msgstr "სურათის არჩევა…"
+
+msgid "Select Range"
+msgstr "დიაპაზონის მონიშვნა"
+
+msgid "Select Recipients"
+msgstr "მიმღებთა არჩევა"
+
+msgid "select recipients first"
+msgstr "ჯერ აირჩიეთ მიმღებები"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "ველების ასარჩევად ჯერ აირჩიეთ მიმღებები."
+
+msgid "Select recipients first to match their fields."
+msgstr "ველების შესაბამისობისთვის ჯერ აირჩიეთ მიმღებები."
+
+msgid "Select Row"
+msgstr "ცხრილის სტრიქონის მონიშვნა"
+
+msgid "Select Sentence"
+msgstr "წინადადების მონიშვნა"
+
+msgid "Select Table"
+msgstr "ცხრილის მონიშვნა"
+
+msgid "Select Table Cells by Clicking"
+msgstr "ცხრილის უჯრების მონიშვნა დაწკაპუნებით"
+
+msgid "Select Text"
+msgstr "ტექსტის მონიშვნა"
+
+msgid "Select Text with Similar Formatting"
+msgstr "მსგავსი ფორმატირების ტექსტის მონიშვნა"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "მონიშნეთ ტექსტი, შემდეგ მონიშნეთ, ვისაც კვლავ შეუძლია მისი რედაქტირება."
+
+msgid "select two or more cells to merge"
+msgstr "შესაერთებლად მონიშნეთ ორი ან მეტი უჯრა"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "ჯერ მონიშნეთ ორი ან მეტი სურათი ან ფიგურა (Shift+დაწკაპუნება)"
+
+msgid "Select Word"
+msgstr "სიტყვის მონიშვნა"
+
+msgid "Select\nRecipients"
+msgstr "მიმღებთა\nარჩევა"
+
+msgid "Selected Fields"
+msgstr "მონიშნული ველები"
+
+msgid "Selected text"
+msgstr "მონიშნული ტექსტი"
+
+msgid "Selection Pane"
+msgstr "მონიშვნის პანელი"
+
+msgid "Semitransparent"
+msgstr "ნახევრად გამჭვირვალე"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "გაუგზავნეთ დოკუმენტი პირდაპირ სისტემის ბეჭდვის ფანჯარას, ან ქვემოთ შეინახეთ ასლი სხვა ფორმატში."
+
+msgid "Sentence"
+msgstr "წინადადება"
+
+msgid "Sentence case."
+msgstr "წინადადების რეგისტრი."
+
+msgid "Separate text at"
+msgstr "ტექსტის გამყოფი"
+
+msgid "Separate text with"
+msgstr "ტექსტის გამყოფი"
+
+msgid "Separator:"
+msgstr "გამყოფი:"
+
+msgid "Sepia"
+msgstr "სეპია"
+
+msgid "Sequence name:"
+msgstr "თანმიმდევრობის სახელი:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "სერბული (კირილიცა)"
+
+msgid "Serbian (Latin)"
+msgstr "სერბული (ლათინური)"
+
+msgid "Series name"
+msgstr "სერიის სახელი"
+
+msgid "Series {n}"
+msgstr "სერია {n}"
+
+msgid "Set As Default"
+msgstr "ნაგულისხმევად დაყენება"
+
+msgid "Set as default"
+msgstr "ნაგულისხმევად დაყენება"
+
+msgid "Set As Default (Font)"
+msgstr "ნაგულისხმევად დაყენება (შრიფტი)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "ნაგულისხმევად დაყენება (გვერდის პარამეტრები)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "ნაგულისხმევად დაყენება (აბზაცი)"
+
+msgid "Set as Default Language"
+msgstr "ნაგულისხმევ ენად დაყენება"
+
+msgid "Set Caret"
+msgstr "კურსორის დაყენება"
+
+msgid "Set Character Formatting"
+msgstr "სიმბოლოს ფორმატირების დაყენება"
+
+msgid "Set Date"
+msgstr "თარიღის დაყენება"
+
+msgid "Set Equation"
+msgstr "განტოლების დაყენება"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "ნუმერაციის მნიშვნელობის დაყენება"
+
+msgid "Set Paragraph Formatting"
+msgstr "აბზაცის ფორმატირების დაყენება"
+
+msgid "Set Proofing Language…"
+msgstr "კორექტურის ენის არჩევა…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "პარამეტრი:"
+
+msgid "Shading"
+msgstr "ფონი"
+
+msgid "Shadow, glow and soft edges"
+msgstr "ჩრდილი, ნათება და რბილი კიდეები"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "ფიგურის შევსება"
+
+msgid "Shape Format"
+msgstr "ფიგურის ფორმატი"
+
+msgid "Shape Outline"
+msgstr "ფიგურის კონტური"
+
+msgid "Shape Styles"
+msgstr "ფიგურის სტილები"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "გზავნილის იარლიყები"
+
+msgid "Shortcut key:"
+msgstr "კლავიშების კომბინაცია:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "გასწორების დამხმარე ხაზების ჩვენება სურათებისა და ფიგურების გადაადგილებისას"
+
+msgid "Show all formatting marks"
+msgstr "ფორმატირების ყველა ნიშნის ჩვენება"
+
+msgid "Show All Levels"
+msgstr "ყველა დონის ჩვენება"
+
+msgid "Show all revisions inline"
+msgstr "ყველა ცვლილების ტექსტში ჩვენება"
+
+msgid "Show changes at:"
+msgstr "ცვლილებების ჩვენება დონეზე:"
+
+msgid "Show changes in:"
+msgstr "ცვლილებების ჩვენება დოკუმენტში:"
+
+msgid "Show Comments"
+msgstr "კომენტარების ჩვენება"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "დოკუმენტების ჩვენება შებრუნებული ფერებით, როგორც ხედი › რეჟიმის გადართვა. შენახვა, ბეჭდვა და PDF არ იცვლება."
+
+msgid "Show every bibliography field"
+msgstr "ბიბლიოგრაფიის ყველა ველის ჩვენება"
+
+msgid "Show First Line Only"
+msgstr "მხოლოდ პირველი სტრიქონის ჩვენება"
+
+msgid "Show in the Styles gallery"
+msgstr "სტილების გალერეაში ჩვენება"
+
+msgid "Show its list number"
+msgstr "სიის ნომრის ჩვენება"
+
+msgid "Show its number relative to this field"
+msgstr "ნომრის ჩვენება ამ ველთან მიმართებით"
+
+msgid "Show its number with all higher levels"
+msgstr "ნომრის ჩვენება ყველა ზედა დონით"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "კლავიშების მინიშნებების ჩვენება (Alt ან F10)"
+
+msgid "Show Level"
+msgstr "დონის ჩვენება"
+
+msgid "Show Level 1"
+msgstr "დონე 1-ის ჩვენება"
+
+msgid "Show Level 2"
+msgstr "დონე 2-ის ჩვენება"
+
+msgid "Show Level 3"
+msgstr "დონე 3-ის ჩვენება"
+
+msgid "Show Level 4"
+msgstr "დონე 4-ის ჩვენება"
+
+msgid "Show Level 5"
+msgstr "დონე 5-ის ჩვენება"
+
+msgid "Show Level 6"
+msgstr "დონე 6-ის ჩვენება"
+
+msgid "Show Level 7"
+msgstr "დონე 7-ის ჩვენება"
+
+msgid "Show Level 8"
+msgstr "დონე 8-ის ჩვენება"
+
+msgid "Show Level 9"
+msgstr "დონე 9-ის ჩვენება"
+
+msgid "Show Markup"
+msgstr "მარკირების ჩვენება"
+
+msgid "Show Notes"
+msgstr "შენიშვნების ჩვენება"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "ბუშტებში მხოლოდ კომენტარებისა და ფორმატირების ჩვენება"
+
+msgid "Show only records that will be merged"
+msgstr "მხოლოდ შესარწყმელი ჩანაწერების ჩვენება"
+
+msgid "Show or Hide Style"
+msgstr "სტილის ჩვენება ან დამალვა"
+
+msgid "Show Quick Access Toolbar"
+msgstr "სწრაფი წვდომის პანელის ჩვენება"
+
+msgid "Show revisions in balloons"
+msgstr "ცვლილებების ბუშტებში ჩვენება"
+
+msgid "Show Text Formatting"
+msgstr "ტექსტის ფორმატირების ჩვენება"
+
+msgid "Show the Assistant"
+msgstr "ასისტენტის ჩვენება"
+
+msgid "Show the community button in the title bar"
+msgstr "საზოგადოების ღილაკის ჩვენება სათაურის ზოლში"
+
+msgid "Show the equation in the line of text"
+msgstr "განტოლების ჩვენება ტექსტის სტრიქონში"
+
+msgid "Show the equation on a line of its own"
+msgstr "განტოლების ჩვენება ცალკე სტრიქონზე"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "მინი-პანელის ჩვენება ტექსტის მონიშვნისას"
+
+msgid "Show the ribbon"
+msgstr "ლენტის ჩვენება"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "საწყისი ეკრანის ჩვენება WordCraft-ის გაშვებისას"
+
+msgid "Show the tips you asked not to see again."
+msgstr "კვლავ აჩვენებს რჩევებს, რომლებიც დამალეთ."
+
+msgid "Show/Hide ¶"
+msgstr "¶ ჩვენება/დამალვა"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "„¶ ჩვენება/დამალვა“ ({key}) აჩვენებს თქვენს ტექსტში დამალულ სივრცეებს, ტაბულაციებს და გამყოფებს."
+
+msgid "Show\nComments"
+msgstr "კომენტარების\nჩვენება"
+
+msgid "Showing the first {count} items."
+msgstr "ნაჩვენებია პირველი ელემენტები: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "ხის ჩვენება: თითოეული ელემენტი იმ ელემენტის ქვემოთაა, რომელსაც ეკუთვნის."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "ელემენტების ჩვენება ცენტრალური იდეის გარშემო: პირველი ელემენტი ცენტრშია."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "თანაბარი წონის ელემენტების ჩვენება ბლოკებად, რიგებში."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "ურთიერთგადამფარავი იდეების ჩვენება ურთიერთგადამფარავი წრეებით."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "მთელის ნაწილების ჩვენება კვადრანტებად."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "ერთმანეთზე დაშენებული ნაწილების ჩვენება, უდიდესი — ქვემოთ."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "ნაბიჯების ჩვენება თანმიმდევრობით, მარცხნიდან მარჯვნივ, მათ შორის ისრებით."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "განმეორებადი ნაბიჯების ჩვენება წრეზე."
+
+msgid "Shrink Font 1 Point"
+msgstr "შრიფტის 1 პუნქტით შემცირება"
+
+msgid "Shrink text"
+msgstr "ტექსტის შემცირება"
+
+msgid "Side to Side"
+msgstr "გვერდიგვერდ"
+
+msgid "Side\nto Side"
+msgstr "გვერდი-\nგვერდ"
+
+msgid "Sides of a right triangle"
+msgstr "მართკუთხა სამკუთხედის გვერდები"
+
+msgid "Signature Line"
+msgstr "ხელმოწერის სტრიქონი"
+
+msgid "Simple Frame"
+msgstr "მარტივი ჩარჩო"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "f(x)-ის სინუსებისა და კოსინუსების მწკრივი"
+
+msgid "Sine Function"
+msgstr "სინუსის ფუნქცია"
+
+msgid "Sine theta"
+msgstr "სინუს თეტა"
+
+msgid "Singapore"
+msgstr "სინგაპური"
+
+msgid "Single"
+msgstr "ერთმაგი"
+
+msgid "Single Brackets"
+msgstr "ცალი ფრჩხილები"
+
+msgid "Single Closing Quote"
+msgstr "ერთმაგი დამხურავი ბრჭყალი"
+
+msgid "Single label"
+msgstr "ერთი იარლიყი"
+
+msgid "Single Left Angle"
+msgstr "ცალი მარცხენა კუთხოვანი ფრჩხილი"
+
+msgid "Single Left Bar"
+msgstr "ცალი მარცხენა ვერტიკალური ხაზი"
+
+msgid "Single Left Brace"
+msgstr "ცალი მარცხენა ფიგურული ფრჩხილი"
+
+msgid "Single Left Bracket"
+msgstr "ცალი მარცხენა კვადრატული ფრჩხილი"
+
+msgid "Single Left Parenthesis"
+msgstr "ცალი მარცხენა მრგვალი ფრჩხილი"
+
+msgid "Single Opening Quote"
+msgstr "ერთმაგი გამხსნელი ბრჭყალი"
+
+msgid "Single Right Brace"
+msgstr "ცალი მარჯვენა ფიგურული ფრჩხილი"
+
+msgid "Single Right Bracket"
+msgstr "ცალი მარჯვენა კვადრატული ფრჩხილი"
+
+msgid "Single Right Parenthesis"
+msgstr "ცალი მარჯვენა მრგვალი ფრჩხილი"
+
+msgid "Single Spacing"
+msgstr "სტრიქონთა ერთმაგი დაშორება"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "საიტის სახელი"
+
+msgid "Size (pt):"
+msgstr "ზომა (პტ):"
+
+msgid "Size and Crop…"
+msgstr "ზომა და ჩამოჭრა…"
+
+msgid "Sketchbook"
+msgstr "ესკიზების რვეული"
+
+msgid "Skewed Fraction"
+msgstr "დახრილი წილადი"
+
+msgid "Skip citations & bibliography"
+msgstr "ციტატებისა და ბიბლიოგრაფიის გამოტოვება"
+
+msgid "Skip Citations and Bibliography"
+msgstr "ციტატებისა და ბიბლიოგრაფიის გამოტოვება"
+
+msgid "Skip Record If"
+msgstr "ჩანაწერის გამოტოვება, თუ"
+
+msgid "Skip Record If…"
+msgstr "ჩანაწერის გამოტოვება, თუ…"
+
+msgid "Slant Down"
+msgstr "დახრა ქვემოთ"
+
+msgid "Slant Up"
+msgstr "დახრა ზემოთ"
+
+msgid "Slovak"
+msgstr "სლოვაკური"
+
+msgid "Slovenian"
+msgstr "სლოვენური"
+
+msgid "Small caps"
+msgstr "პატარა მთავრული"
+
+msgid "Small change"
+msgstr "მცირე ცვლილება"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "ტიპოგრაფიული ბრჭყალები სწორი ბრჭყალების ნაცვლად"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt დიზაინი"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt სტილები"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "გლუვი გადახვევა და მასშტაბირება, რბილად გამოჩენადი მენიუები და ღილაკები. გამორთვისას ყველა ცვლილება მყისიერად ჩანს."
+
+msgid "Soft Edge"
+msgstr "რბილი კიდე"
+
+msgid "Soft Edges"
+msgstr "რბილი კიდეები"
+
+msgid "Soft Glow"
+msgstr "რბილი ნათება"
+
+msgid "Solid Accent"
+msgstr "მთლიანი აქცენტი"
+
+msgid "Solid fill"
+msgstr "ერთფეროვანი შევსება"
+
+msgid "Sometimes"
+msgstr "ხანდახან"
+
+msgid "Sort by:"
+msgstr "სორტირება:"
+
+msgid "Sort order:"
+msgstr "სორტირების წესი:"
+
+msgid "Sort Recipients"
+msgstr "მიმღებთა სორტირება"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "საწყისი კოდი: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "წყაროების მართვა"
+
+msgid "Source type:"
+msgstr "წყაროს ტიპი:"
+
+msgid "Sources in this document:"
+msgstr "ამ დოკუმენტის წყაროები:"
+
+msgid "South"
+msgstr "სამხრეთი"
+
+msgid "South Africa"
+msgstr "სამხრეთ აფრიკა"
+
+msgid "Space"
+msgstr "სივრცე"
+
+msgid "Space after"
+msgstr "ინტერვალი შემდეგ"
+
+msgid "Space after: {pt} pt"
+msgstr "ინტერვალი შემდეგ: {pt} პტ"
+
+msgid "Space before"
+msgstr "ინტერვალი წინ"
+
+msgid "Space before/after:"
+msgstr "ინტერვალი წინ/შემდეგ:"
+
+msgid "Space before: {pt} pt"
+msgstr "ინტერვალი წინ: {pt} პტ"
+
+msgid "Spacing (pt):"
+msgstr "ინტერვალი (პტ):"
+
+msgid "Spain"
+msgstr "ესპანეთი"
+
+msgid "Spanish (Latin America)"
+msgstr "ესპანური (ლათინური ამერიკა)"
+
+msgid "Spanish (Mexico)"
+msgstr "ესპანური (მექსიკა)"
+
+msgid "Spanish (Spain)"
+msgstr "ესპანური (ესპანეთი)"
+
+msgid "Spanish (Uruguay)"
+msgstr "ესპანური (ურუგვაი)"
+
+msgid "Sparse Matrices"
+msgstr "იშვიათი მატრიცები"
+
+msgid "Special Characters"
+msgstr "სპეციალური სიმბოლოები"
+
+msgid "Specify height:"
+msgstr "სიმაღლის მითითება:"
+
+msgid "Speech"
+msgstr "მეტყველება"
+
+msgid "Spelling & Grammar"
+msgstr "მართლწერა და გრამატიკა"
+
+msgid "Spelling &\nGrammar"
+msgstr "მართლწერა და\nგრამატიკა"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr "მართლწერისა და გრამატიკის შემოწმების ენა: ინგლისური (აშშ)."
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "მართლწერისა და გრამატიკის შემოწმების ენა: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "მართლწერის შეთავაზებები"
+
+msgid "Spike"
+msgstr "კრებულში ამოჭრა"
+
+msgid "Split Cells"
+msgstr "უჯრების დაყოფა"
+
+msgid "Split Table"
+msgstr "ცხრილის დაყოფა"
+
+msgid "Spreadsheet Table"
+msgstr "ელცხრილი"
+
+msgid "Square Root"
+msgstr "კვადრატული ფესვი"
+
+msgid "Square Root with Degree"
+msgstr "კვადრატული ფესვი მაჩვენებლით"
+
+msgid "Square Union"
+msgstr "კვადრატული გაერთიანება"
+
+msgid "Stack Object"
+msgstr "დასტის ობიექტი"
+
+msgid "Stack Object (Three)"
+msgstr "დასტის ობიექტი (სამი)"
+
+msgid "Stacked Bar"
+msgstr "დასტად ზოლოვანი"
+
+msgid "Stacked Column"
+msgstr "დასტად სვეტოვანი"
+
+msgid "Stacked Fraction"
+msgstr "ვერტიკალური წილადი"
+
+msgid "Stacked, no bar"
+msgstr "დასტად, ხაზის გარეშე"
+
+msgid "Standard Colors"
+msgstr "სტანდარტული ფერები"
+
+msgid "Start Enforcing Protection"
+msgstr "დაცვის ჩართვა"
+
+msgid "Start Mail Merge"
+msgstr "წერილების შერწყმის დაწყება"
+
+msgid "Start Mail\nMerge"
+msgstr "წერილების შერწყმის\nდაწყება"
+
+msgid "Start-up"
+msgstr "გაშვება"
+
+msgid "State"
+msgstr "შტატი"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "ჯერ ისევ აქ ხართ? მესმის, როგორ ფიქრობთ."
+
+msgid "Stop Protection"
+msgstr "დაცვის გამორთვა"
+
+msgid "Stop Reading"
+msgstr "კითხვის შეწყვეტა"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "შეწყდა"
+
+msgid "Straight Arrow Connector"
+msgstr "სწორი ისრიანი შემაერთებელი"
+
+msgid "Straight Connector"
+msgstr "სწორი შემაერთებელი"
+
+msgid "Stroke {n} of {total}"
+msgstr "შტრიხი {n} / {total}"
+
+msgid "Strong"
+msgstr "მუქი"
+
+msgid "Structure Actions"
+msgstr "სტრუქტურის მოქმედებები"
+
+msgid "Structures"
+msgstr "სტრუქტურები"
+
+msgid "Studio cover"
+msgstr "სტუდიის ყდა"
+
+msgid "Studio handbook (sample)"
+msgstr "სტუდიის სახელმძღვანელო (ნიმუში)"
+
+msgid "Style based on:"
+msgstr "სტილი, რომელსაც ეფუძნება:"
+
+msgid "Style Inspector"
+msgstr "სტილების ინსპექტორი"
+
+msgid "Style name:"
+msgstr "სტილის სახელი:"
+
+msgid "Style Set"
+msgstr "სტილების ნაკრები"
+
+msgid "Style: APA"
+msgstr "სტილი: APA"
+
+msgid "Style: {style}"
+msgstr "სტილი: {style}"
+
+msgid "Styles Pane"
+msgstr "სტილების პანელი"
+
+msgid "Styles Pane Position"
+msgstr "სტილების პანელის პოზიცია"
+
+msgid "Styles:"
+msgstr "სტილები:"
+
+msgid "Subentry:"
+msgstr "ქვეჩანაწერი:"
+
+msgid "Submit print job"
+msgstr "ბეჭდვის დავალების გაგზავნა"
+
+msgid "Submitting print job…"
+msgstr "ბეჭდვის დავალება იგზავნება…"
+
+msgid "Subscript-Superscript"
+msgstr "ქვედა და ზედა ინდექსი"
+
+msgid "Subscripts and Superscripts"
+msgstr "ქვედა და ზედა ინდექსები"
+
+msgid "Subset:"
+msgstr "ქვეჯგუფი:"
+
+msgid "Subtle Emphasis"
+msgstr "მსუბუქი აქცენტირება"
+
+msgid "Subtle Reference"
+msgstr "მსუბუქი მითითება"
+
+msgid "Suggested"
+msgstr "შემოთავაზებული"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "ჯამი"
+
+msgid "Sum of cosines"
+msgstr "კოსინუსების ჯამი"
+
+msgid "Sum or difference of sines"
+msgstr "სინუსების ჯამი ან სხვაობა"
+
+msgid "Summation"
+msgstr "ჯამი"
+
+msgid "Summation from 0 to n"
+msgstr "ჯამი 0-დან n-მდე"
+
+msgid "Summation over binomials"
+msgstr "ბინომური კოეფიციენტების ჯამი"
+
+msgid "Summation with Limits"
+msgstr "ჯამი ზღვრებით"
+
+msgid "Summation with Lower Limit"
+msgstr "ჯამი ქვედა საზღვრით"
+
+msgid "Summation with Subscript Limit"
+msgstr "ჯამი ინდექსური საზღვრით"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "ჯამი ინდექსური ზღვრებით"
+
+msgid "Summations"
+msgstr "ჯამები"
+
+msgid "Suppress line numbers"
+msgstr "სტრიქონების ნომრების გამორთვა"
+
+msgid "Surface Integral"
+msgstr "ზედაპირული ინტეგრალი"
+
+msgid "Surface Integral with Limits"
+msgstr "ზედაპირული ინტეგრალი ზღვრებით"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "ზედაპირული ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Swahili"
+msgstr "სუაჰილი"
+
+msgid "Swap footnotes and endnotes"
+msgstr "სქოლიოებისა და დოკუმენტის სქოლიოების ურთიერთშენაცვლება"
+
+msgid "Swedish"
+msgstr "შვედური"
+
+msgid "Switch Modes"
+msgstr "რეჟიმის გადართვა"
+
+msgid "Switch Windows"
+msgstr "ფანჯრების გადართვა"
+
+msgid "Switch\nModes"
+msgstr "რეჟიმის\nგადართვა"
+
+msgid "Switch\nWindows"
+msgstr "ფანჯრების\nგადართვა"
+
+msgid "Switzerland"
+msgstr "შვეიცარია"
+
+msgid "Synonyms"
+msgstr "სინონიმები"
+
+msgid "Syria"
+msgstr "სირია"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "სისტემა"
+
+msgid "System dictionary"
+msgstr "სისტემური ლექსიკონი"
+
+msgid "Tab Character"
+msgstr "ტაბულაციის სიმბოლო"
+
+msgid "Tab character"
+msgstr "ტაბულაციის სიმბოლო"
+
+msgid "Tab characters"
+msgstr "ტაბულაციის სიმბოლოები"
+
+msgid "Tab leader:"
+msgstr "ტაბულაციის მიმთითებელი:"
+
+msgid "Tab stop position:"
+msgstr "ტაბულაციის გაჩერების პოზიცია:"
+
+msgid "Tab stops to be cleared:"
+msgstr "წასაშლელი ტაბულაციის გაჩერებები:"
+
+msgid "Table Column Width"
+msgstr "ცხრილის სვეტის სიგანე"
+
+msgid "Table Design"
+msgstr "ცხრილის დიზაინი"
+
+msgid "Table direction:"
+msgstr "ცხრილის მიმართულება:"
+
+msgid "Table Grid"
+msgstr "ცხრილის ბადე"
+
+msgid "Table Layout"
+msgstr "ცხრილის განლაგება"
+
+msgid "Table of Authorities"
+msgstr "სამართლებრივი წყაროების სია"
+
+msgid "Table of Contents"
+msgstr "სარჩევი"
+
+msgid "Table of Contents Options"
+msgstr "სარჩევის პარამეტრები"
+
+msgid "Table of Contents Styles"
+msgstr "სარჩევის სტილები"
+
+msgid "Table of Figures"
+msgstr "ილუსტრაციების სია"
+
+msgid "Table of\nContents"
+msgstr "სარჩევი"
+
+msgid "Table Properties"
+msgstr "ცხრილის თვისებები"
+
+msgid "Table Properties…"
+msgstr "ცხრილის თვისებები…"
+
+msgid "Table Row Height"
+msgstr "ცხრილის სტრიქონის სიმაღლე"
+
+msgid "Table size"
+msgstr "ცხრილის ზომა"
+
+msgid "Table Style Options"
+msgstr "ცხრილის სტილის პარამეტრები"
+
+msgid "Table Styles"
+msgstr "ცხრილის სტილები"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11,00\" × 17,00\""
+
+msgid "Tabs…"
+msgstr "ტაბულაცია…"
+
+msgid "Tabular List"
+msgstr "ცხრილური სია"
+
+msgid "Tag"
+msgstr "ტეგი"
+
+msgid "Taiwan"
+msgstr "ტაივანი"
+
+msgid "Take the last match on the page"
+msgstr "გვერდზე ბოლო დამთხვევის აღება"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "ნუ იჩქარებთ. გვერდი არსად წავა. არც მე. არასდროს."
+
+msgid "Tamil"
+msgstr "ტამილური"
+
+msgid "Tangent formula"
+msgstr "ტანგენსის ფორმულა"
+
+msgid "Tangent Function"
+msgstr "ტანგენსის ფუნქცია"
+
+msgid "TC entry fields"
+msgstr "TC ჩანაწერის ველები"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "ტექნოლოგია"
+
+msgid "Templates and Add-ins"
+msgstr "შაბლონები და დანამატები"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "თქვენი შაბლონების საქაღალდეში შენახული შაბლონები აქ გამოჩნდება."
+
+msgid "Text Box"
+msgstr "ტექსტური ბლოკი"
+
+msgid "Text boxes"
+msgstr "ტექსტური ბლოკები"
+
+msgid "text boxes can't go inside a text box"
+msgstr "ტექსტურ ბლოკში ტექსტური ბლოკის ჩასმა შეუძლებელია"
+
+msgid "Text Direction"
+msgstr "ტექსტის მიმართულება"
+
+msgid "Text Effects"
+msgstr "ტექსტის ეფექტები"
+
+msgid "Text Effects and Typography"
+msgstr "ტექსტის ეფექტები და ტიპოგრაფია"
+
+msgid "Text Fill"
+msgstr "ტექსტის შევსება"
+
+msgid "Text from File"
+msgstr "ტექსტი ფაილიდან"
+
+msgid "Text Highlight Color"
+msgstr "მარკერის ფერი"
+
+msgid "Text indent at:"
+msgstr "ტექსტის შეწევა:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "მითითებული სტილის უახლოესი აბზაცის ტექსტი (ცოცხალი კოლონტიტულები)"
+
+msgid "Text Outline"
+msgstr "ტექსტის კონტური"
+
+msgid "Text over Colon Equal"
+msgstr "ტექსტი ორწერტილი-ტოლობის ზემოთ"
+
+msgid "Text over Equal"
+msgstr "ტექსტი ტოლობის ზემოთ"
+
+msgid "Text Pane"
+msgstr "ტექსტის პანელი"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "ტექსტის ზომა"
+
+msgid "Text snaps to characters"
+msgstr "ტექსტის მიბმა სიმბოლოებზე"
+
+msgid "Text to display:"
+msgstr "საჩვენებელი ტექსტი:"
+
+msgid "Text watermark"
+msgstr "ტექსტის ჭვირნიშანი"
+
+msgid "Text Wrapping"
+msgstr "ტექსტით გარშემოვლება"
+
+msgid "Text\nBox"
+msgstr "ტექსტური\nბლოკი"
+
+msgid "Text\nDirection"
+msgstr "ტექსტის\nმიმართულება"
+
+msgid "Thai"
+msgstr "ტაილანდური"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "ეს ფორმატი ყველაფერს ვერ ინახავს, ამიტომ დოკუმენტი ისევ ღიაა. გასაგრძელებლად შეინახეთ Word დოკუმენტად (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "პაროლი არასწორია. შეამოწმეთ (პაროლში დიდი და პატარა ასოები განსხვავდება) და სცადეთ ხელახლა."
+
+msgid "The clipboard is empty."
+msgstr "გაცვლის ბუფერი ცარიელია."
+
+msgid "the Clipboard pane is empty"
+msgstr "გაცვლის ბუფერის პანელი ცარიელია"
+
+msgid "the cursor isn't in a table"
+msgstr "კურსორი ცხრილში არ არის"
+
+msgid "The date it is today"
+msgstr "დღევანდელი თარიღი"
+
+msgid "The document has no bookmarks yet."
+msgstr "დოკუმენტში ჯერ სანიშნეები არ არის."
+
+msgid "the document is protected"
+msgstr "დოკუმენტი დაცულია"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "დოკუმენტი მხოლოდ წასაკითხია, გარდა რედაქტირებადად მონიშნული არეებისა."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "დოკუმენტი პაროლით შეინახება. შეინახეთ, რომ დაიცვათ."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "რედაქტირებად დოკუმენტში სახელები და თარიღები რჩება; მათ მხოლოდ შენახული ფაილი არ შეიცავს."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "ველები ამ ზომის გვერდზე არ ეტევა; ჯერ ველები შეამცირეთ."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "ზომა უნდა იყოს {min}–{max} შუალედში."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "ახალი სტილი მიმდინარე აბზაცის ფორმატირებას იღებს."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "„ძირითადი“ შაბლონის წაკითხვა ვერ მოხერხდა, ამიტომ ეს დოკუმენტი WordCraft-ის ჩაშენებულ ფორმატირებას იყენებს."
+
+msgid "The number must be a divisor of {max}."
+msgstr "რიცხვი უნდა იყოს {max}-ის გამყოფი."
+
+msgid "The number must be between 1 and {max}."
+msgstr "რიცხვი უნდა იყოს 1–{max} შუალედში."
+
+msgid "the paragraph is empty"
+msgstr "აბზაცი ცარიელია"
+
+msgid "the paragraph starts with a space"
+msgstr "აბზაცი ჰარით იწყება"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "პაროლი არასავალდებულოა; მის გარეშე დაცვის გამორთვა ნებისმიერს შეუძლია."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "პაროლი მოხსნილია. ცვლილების შესანარჩუნებლად შეინახეთ დოკუმენტი."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "პრინტერი, ორმხრივი ბეჭდვა და ფურცელზე გვერდების რაოდენობა იმ ფანჯარაში აირჩევა."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "მიმღებთა სიის ველი, რომელიც ავსებს მისამართის ბლოკისა და მისალმების სტრიქონის თითოეულ ნაწილს."
+
+msgid "The spelling and grammar check is complete."
+msgstr "მართლწერისა და გრამატიკის შემოწმება დასრულდა."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "მართლწერის ლექსიკონი ({language}) ვერ იკითხება, ამიტომ ტექსტი არ მოწმდება. ფაილი: {file}. მიზეზი: {reason}"
+
+msgid "the Spike is empty"
+msgstr "კრებული ცარიელია"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "სისტემის ფაილის ფანჯარა მიუწვდომელია, ამიტომ WordCraft საკუთარს აჩვენებს. სისტემის ფანჯრისთვის დააინსტალირეთ ფაილის არჩევის პორტალი (მაგალითად, xdg-desktop-portal-gtk) ან zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "კურსორთან მდებარე ტექსტი მონიშნულია, როგორც „მართლწერისა და გრამატიკის შემოწმების გარეშე“."
+
+msgid "The time right now"
+msgstr "მიმდინარე დრო"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "თემის ფერები"
+
+msgid "Theme Fonts"
+msgstr "თემის შრიფტები"
+
+msgid "Theme List"
+msgstr "თემების სია"
+
+msgid "Themes"
+msgstr "თემები"
+
+msgid "Then by"
+msgstr "შემდეგ:"
+
+msgid "Then insert:"
+msgstr "მაშინ ჩაისვას:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "დასაკრავი მელანი არ არის"
+
+msgid "there is nothing to undo"
+msgstr "დასაბრუნებელი არაფერია"
+
+msgid "there's no citation after the caret"
+msgstr "კურსორის შემდეგ ციტატა არ არის"
+
+msgid "Thesaurus"
+msgstr "თეზაურუსი"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "ეს ნიშნები ჩანს მაშინაც, როცა „¶ ჩვენება/დამალვა“ გამორთულია."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "შერწყმის ეს ველები მიმღებთა სიაში არ არის:"
+
+msgid "These settings will be used for new documents."
+msgstr "ეს პარამეტრები ახალი დოკუმენტებისთვის გამოიყენება."
+
+msgid "Thick"
+msgstr "სქელი"
+
+msgid "Thick Frame"
+msgstr "სქელი ჩარჩო"
+
+msgid "Thin"
+msgstr "თხელი"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "ამის დაბრუნება შეუძლებელია. თქვენი ორიგინალი ფაილი უცვლელი რჩება."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "ეს დიაგრამა სხვა პროგრამაშია შექმნილი: WordCraft მას აჩვენებს, მაგრამ ვერ არედაქტირებს"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "ეს დოკუმენტი"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "მხოლოდ ეს დოკუმენტი?"
+
+msgid "This field has no options."
+msgstr "ამ ველს პარამეტრები არ აქვს."
+
+msgid "This folder can't be read: {error}"
+msgstr "ამ საქაღალდის წაკითხვა ვერ მოხერხდა: {error}"
+
+msgid "This font has no characters to show."
+msgstr "ამ შრიფტს საჩვენებელი სიმბოლოები არ აქვს."
+
+msgid "this item is already at the top level"
+msgstr "ეს ელემენტი უკვე ზედა დონეზეა"
+
+msgid "This page"
+msgstr "ეს გვერდი"
+
+msgid "This password type isn't supported."
+msgstr "პაროლის ეს ტიპი მხარდაჭერილი არ არის."
+
+msgid "This point forward"
+msgstr "აქედან მოყოლებული"
+
+msgid "This section"
+msgstr "ეს სექცია"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "ამ სესიას „ძირითადი“ შაბლონი არ აქვს (ინტერფეისის ან პარამეტრების გარეშე)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "ამ სესიას „ძირითადი“ შაბლონი არ აქვს (ინტერფეისის ან პარამეტრების გარეშე): გამოიყენეთ \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "ეს SmartArt სხვა პროგრამაშია შექმნილი: WordCraft მას აჩვენებს, მაგრამ ვერ არედაქტირებს"
+
+msgid "this text box is already linked: break the link first"
+msgstr "ეს ტექსტური ბლოკი უკვე დაკავშირებულია: ჯერ გაწყვიტეთ ბმული"
+
+msgid "Three"
+msgstr "სამი"
+
+msgid "Through"
+msgstr "გამჭოლი"
+
+msgid "Tight"
+msgstr "მჭიდრო"
+
+msgid "Tilde"
+msgstr "ტილდა"
+
+msgid "Tip"
+msgstr "რჩევა"
+
+msgid "Tips ({n})"
+msgstr "რჩევები ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "სათაური"
+
+msgid "Title Bar"
+msgstr "სათაურის ზოლი"
+
+msgid "Title from the document properties"
+msgstr "სათაური დოკუმენტის თვისებებიდან"
+
+msgid "Title:"
+msgstr "სათაური:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Word დოკუმენტების WordCraft-ით ნაგულისხმევად გასახსნელად: Finder-ში მონიშნეთ ერთ-ერთი, აირჩიეთ File › Get Info, „Open with“-ში აირჩიეთ WordCraft და დაწკაპეთ Change All."
+
+msgid "To:"
+msgstr "სადამდე:"
+
+msgid "TOA Heading"
+msgstr "სამართლებრივი წყაროების სიის სათაური"
+
+msgid "TOC Heading"
+msgstr "სარჩევის სათაური"
+
+msgid "TOC {n}"
+msgstr "სარჩევი {n}"
+
+msgid "Today"
+msgstr "დღეს"
+
+msgid "tOGGLE cASE"
+msgstr "რეგისტრის შებრუნება"
+
+msgid "Toggle Check Box"
+msgstr "მოსანიშნი ველის გადართვა"
+
+msgid "Toggle Field Codes"
+msgstr "ველის კოდების გადართვა"
+
+msgid "Toggle Unicode Character"
+msgstr "Unicode სიმბოლოს გადართვა"
+
+msgid "Top and Bottom"
+msgstr "ზემოთ და ქვემოთ"
+
+msgid "Top Border"
+msgstr "ზედა ჩარჩო"
+
+msgid "Top Left Cell"
+msgstr "ზედა მარცხენა უჯრა"
+
+msgid "Top Margin"
+msgstr "ზედა ველი"
+
+msgid "Top of Page"
+msgstr "გვერდის თავში"
+
+msgid "Top of the Document"
+msgstr "დოკუმენტის დასაწყისი"
+
+msgid "Top Right Cell"
+msgstr "ზედა მარჯვენა უჯრა"
+
+msgid "Total Row"
+msgstr "ჯამის სტრიქონი"
+
+msgid "Track Changes"
+msgstr "ცვლილებების ჩაწერა"
+
+msgid "Track Changes Options"
+msgstr "ცვლილებების ჩაწერის პარამეტრები"
+
+msgid "Track Changes: On"
+msgstr "ცვლილებების ჩაწერა: ჩართულია"
+
+msgid "Track formatting"
+msgstr "ფორმატირების ჩაწერა"
+
+msgid "Track\nChanges"
+msgstr "ცვლილებების\nჩაწერა"
+
+msgid "Track\nChanges ✓"
+msgstr "ცვლილებების\nჩაწერა ✓"
+
+msgid "Tracked changes"
+msgstr "ჩაწერილი ცვლილებები"
+
+msgid "Trademark"
+msgstr "სავაჭრო ნიშანი"
+
+msgid "Trademark Sign"
+msgstr "სავაჭრო ნიშნის სიმბოლო"
+
+msgid "Transparency:"
+msgstr "გამჭვირვალობა:"
+
+msgid "Transport"
+msgstr "ტრანსპორტი"
+
+msgid "Triangle Down"
+msgstr "სამკუთხედი ქვემოთ"
+
+msgid "Triangle Up"
+msgstr "სამკუთხედი ზემოთ"
+
+msgid "Trigonometric Functions"
+msgstr "ტრიგონომეტრიული ფუნქციები"
+
+msgid "Triple"
+msgstr "სამმაგი"
+
+msgid "Triple Dot"
+msgstr "სამი წერტილი"
+
+msgid "Triple Integral"
+msgstr "სამმაგი ინტეგრალი"
+
+msgid "Triple Integral with Limits"
+msgstr "სამმაგი ინტეგრალი ზღვრებით"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "სამმაგი ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Trust Center"
+msgstr "ნდობის ცენტრი"
+
+msgid "Tue"
+msgstr "სამ"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "თურქული"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "ორი"
+
+msgid "Two-sided printing"
+msgstr "ორმხრივი ბეჭდვა"
+
+msgid "Two-sided: long edge"
+msgstr "ორმხრივი: გრძელი კიდე"
+
+msgid "Two-sided: short edge"
+msgstr "ორმხრივი: მოკლე კიდე"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "მიმდინარე გვერდიდან გადასაადგილებლად აკრიფეთ +2 ან -1."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "აკრიფეთ ბრძანება, მაგ. „ცხრილის ჩასმა“"
+
+msgid "Type a New List…"
+msgstr "ახალი სიის აკრეფა…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "აკრიფეთ გვერდის ნომერი ან +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "შეიყვანეთ ზომა ნებისმიერ ერთეულში, მაგალითად 5 cm ან 300 px. მეორე მხარე თავად შეიცვლება, ასე რომ სურათი პროპორციებს შეინარჩუნებს."
+
+msgid "Type at least one recipient."
+msgstr "აკრიფეთ მინიმუმ ერთი მიმღები."
+
+msgid "Type Character Code"
+msgstr "სიმბოლოს კოდის აკრეფა"
+
+msgid "Type equations in LaTeX"
+msgstr "განტოლებების აკრეფა LaTeX-ში"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "განტოლებების აკრეფა წრფივ ფორმატში (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "აკრეფა განტოლებაში"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "ჩვეულებრივი (არამათემატიკური) ტექსტის აკრეფა განტოლებაში"
+
+msgid "Type Text"
+msgstr "ტექსტის აკრეფა"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "აკრიფეთ კატეგორიები სვეტად გვერდზე, ხოლო თითოეული სერიისთვის — მნიშვნელობების სვეტი."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "აკრიფეთ ველის დასახელება და მისი პარამეტრები, მაგალითად PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "დაცვის გამოსართავად აკრიფეთ პაროლი."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "აკრიფეთ მიმღებები ან ჩატვირთეთ ფაილიდან."
+
+msgid "Typing replaces selected text"
+msgstr "აკრეფილი ტექსტი მონიშნულს ანაცვლებს"
+
+msgid "U.A.E."
+msgstr "არაბთა გაერთიანებული საემიროები"
+
+msgid "Ukraine"
+msgstr "უკრაინა"
+
+msgid "Ukrainian"
+msgstr "უკრაინული"
+
+msgid "Unchecked symbol"
+msgstr "მოუნიშნავის სიმბოლო"
+
+msgid "Underbar"
+msgstr "ქვედა ხაზი"
+
+msgid "Underbrace"
+msgstr "ქვედა ფიგურული ფრჩხილი"
+
+msgid "Underline Color"
+msgstr "ხაზგასმის ფერი"
+
+msgid "Underline color"
+msgstr "ხაზგასმის ფერი"
+
+msgid "Underline Words Only"
+msgstr "მხოლოდ სიტყვების ხაზგასმა"
+
+msgid "Undo 1 Action"
+msgstr "1 მოქმედების დაბრუნება"
+
+msgid "Undo Actions"
+msgstr "მოქმედებების დაბრუნება"
+
+msgid "Undo History"
+msgstr "დაბრუნების ისტორია"
+
+msgid "Undo {n} Actions"
+msgstr "მოქმედებების დაბრუნება: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "დაბრუნება, დაბრუნება, დაბრუნება… უკვე დროში ვმოგზაურობთ."
+
+msgid "Unformatted Text"
+msgstr "დაუფორმატებელი ტექსტი"
+
+msgid "Union of intersections"
+msgstr "გადაკვეთების გაერთიანება"
+
+msgid "Union with Limits"
+msgstr "გაერთიანება ზღვრებით"
+
+msgid "Union with Lower Limit"
+msgstr "გაერთიანება ქვედა საზღვრით"
+
+msgid "Union with Plus"
+msgstr "გაერთიანება პლუსით"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "გაერთიანება ინდექსური ზღვრებით"
+
+msgid "Unions and Intersections"
+msgstr "გაერთიანებები და გადაკვეთები"
+
+msgid "United Kingdom"
+msgstr "გაერთიანებული სამეფო"
+
+msgid "United States"
+msgstr "ამერიკის შეერთებული შტატები"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "ველების გათიშვა"
+
+msgid "Unlink\nCitations"
+msgstr "ციტატების\nგათიშვა"
+
+msgid "Unlock Fields"
+msgstr "ველების განბლოკვა"
+
+msgid "Up Diagonal Dots"
+msgstr "ზემოთ დიაგონალური წერტილები"
+
+msgid "Up one level"
+msgstr "ერთი დონით ზემოთ"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "ველის განახლება"
+
+msgid "Update fields before printing"
+msgstr "ველების განახლება ბეჭდვამდე"
+
+msgid "Update Index"
+msgstr "ინდექსის განახლება"
+
+msgid "Update Style to Match Selection"
+msgstr "სტილის განახლება მონიშნულის მიხედვით"
+
+msgid "Update Styles from Template"
+msgstr "სტილების განახლება შაბლონიდან"
+
+msgid "Update Table"
+msgstr "ცხრილის განახლება"
+
+msgid "Update Table of Figures"
+msgstr "ილუსტრაციების სიის განახლება"
+
+msgid "Update to Match"
+msgstr "ნიმუშის მიხედვით განახლება"
+
+msgid "Update to Match Selection"
+msgstr "მონიშნულის მიხედვით განახლება"
+
+msgid "URGENT"
+msgstr "სასწრაფო"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "ურუგვაი"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "თანხმოვანი ბგერის წინ გამოიყენეთ „a“"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "ხმოვანი ბგერის წინ გამოიყენეთ „an“"
+
+msgid "Use an Existing List…"
+msgstr "არსებული სიის გამოყენება…"
+
+msgid "Use system setting"
+msgstr "სისტემის პარამეტრის მიხედვით"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "გამოიყენეთ ბრაუზერის სრულეკრანიანი რეჟიმი (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "გამოვიყენოთ მიმდინარე სტილების ნაკრები და თემა ყველა ახალ დოკუმენტში?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "გადაწერის ჩართვა და გამორთვა Insert კლავიშით"
+
+msgid "Use this formatting as the default for:"
+msgstr "ამ ფორმატირების ნაგულისხმევად გამოყენება:"
+
+msgid "Use wildcards"
+msgstr "შაბლონების გამოყენება"
+
+msgid "User Name"
+msgstr "მომხმარებლის სახელი"
+
+msgid "User name:"
+msgstr "მომხმარებლის სახელი:"
+
+msgid "User templates:"
+msgstr "მომხმარებლის შაბლონები:"
+
+msgid "Vector A"
+msgstr "ვექტორი A"
+
+msgid "Vector AB"
+msgstr "ვექტორი AB"
+
+msgid "Venezuela"
+msgstr "ვენესუელა"
+
+msgid "Version History"
+msgstr "ვერსიების ისტორია"
+
+msgid "Version {version} ({build})"
+msgstr "ვერსია {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "ვერტიკალური სწორება:"
+
+msgid "Vertical Bars"
+msgstr "ვერტიკალური ხაზები"
+
+msgid "Vertical Dots"
+msgstr "ვერტიკალური წერტილები"
+
+msgid "Vietnamese"
+msgstr "ვიეტნამური"
+
+msgid "View Alt Text…"
+msgstr "ალტერნატიული ტექსტის ნახვა…"
+
+msgid "View and edit the document's custom properties."
+msgstr "დოკუმენტის მორგებული თვისებების ნახვა და რედაქტირება."
+
+msgid "View Gridlines"
+msgstr "ბადის ჩვენება"
+
+msgid "View State"
+msgstr "ხედის მდგომარეობა"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "ხედი › ფოკუსი ყველაფერს მალავს თქვენი სიტყვების გარდა. გარეთ დაგელოდებით."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "ხედები"
+
+msgid "Visual effects"
+msgstr "ვიზუალური ეფექტები"
+
+msgid "Vivid 200%"
+msgstr "ცოცხალი 200%"
+
+msgid "Volume"
+msgstr "ტომი"
+
+msgid "Volume Integral"
+msgstr "მოცულობითი ინტეგრალი"
+
+msgid "Volume Integral with Limits"
+msgstr "მოცულობითი ინტეგრალი ზღვრებით"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "მოცულობითი ინტეგრალი დაწყობილი ზღვრებით"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "დახურვამდე დაელოდეთ ბეჭდვის დავალების გაგზავნის დასრულებას."
+
+msgid "Waiting for the save to finish…"
+msgstr "შენახვის დასრულების მოლოდინი…"
+
+msgid "Waiting for Zotero…"
+msgstr "Zotero-ს ლოდინი…"
+
+msgid "Warm Gradient with Outline"
+msgstr "თბილი გრადიენტი კონტურით"
+
+msgid "Warnings ({n})"
+msgstr "გაფრთხილებები ({n})"
+
+msgid "Washout"
+msgstr "გაუფერულება"
+
+msgid "Weather"
+msgstr "ამინდი"
+
+msgid "Web Layout"
+msgstr "ვებ-განლაგება"
+
+msgid "Web page (*.html)"
+msgstr "ვებგვერდი (*.html)"
+
+msgid "Web\nLayout"
+msgstr "ვებ-\nგანლაგება"
+
+msgid "Wed"
+msgstr "ოთხ"
+
+msgid "Welsh"
+msgstr "უელსური"
+
+msgid "West"
+msgstr "დასავლეთი"
+
+msgid "When this document was first created"
+msgstr "დოკუმენტის შექმნის დრო"
+
+msgid "When this document was most recently printed"
+msgstr "დოკუმენტის ბოლო ბეჭდვის დრო"
+
+msgid "When this document was most recently saved"
+msgstr "დოკუმენტის ბოლო შენახვის დრო"
+
+msgid "White Space"
+msgstr "ცარიელი სივრცე"
+
+msgid "White space"
+msgstr "ცარიელი სივრცე"
+
+msgid "Who the document properties name as author"
+msgstr "დოკუმენტის თვისებებში მითითებული ავტორი"
+
+msgid "Whole document"
+msgstr "მთელი დოკუმენტი"
+
+msgid "Whole page"
+msgstr "მთელი გვერდი"
+
+msgid "Whole Table"
+msgstr "მთელი ცხრილი"
+
+msgid "Whole words"
+msgstr "მთლიანი სიტყვები"
+
+msgid "Wide"
+msgstr "ფართო"
+
+msgid "Widow/Orphan Control"
+msgstr "ცალი სტრიქონების კონტროლი"
+
+msgid "Widow/Orphan control"
+msgstr "ცალი სტრიქონების კონტროლი"
+
+msgid "Width and spacing"
+msgstr "სიგანე და ინტერვალი"
+
+msgid "Wildcards (regex)"
+msgstr "შაბლონები (regex)"
+
+msgid "With:"
+msgstr "ამით:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML დოკუმენტი (*.xml)"
+
+msgid "Word Count"
+msgstr "სიტყვების რაოდენობა"
+
+msgid "Word document"
+msgstr "Word დოკუმენტი"
+
+msgid "Word document (*.docx)"
+msgstr "Word დოკუმენტი (*.docx)"
+
+msgid "Word Left"
+msgstr "სიტყვით მარცხნივ"
+
+msgid "Word level"
+msgstr "სიტყვის დონეზე"
+
+msgid "Word Right"
+msgstr "სიტყვით მარჯვნივ"
+
+msgid "Word sources"
+msgstr "Word-ის წყაროები"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML დოკუმენტი (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt სტილები"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft ახლა Word დოკუმენტების ნაგულისხმევი პროგრამაა."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "მხოლოდ სიტყვები"
+
+msgid "Wrap Text"
+msgstr "ტექსტით გარშემოვლება"
+
+msgid "Wrap Text Sides"
+msgstr "გარშემოვლების მხარეები"
+
+msgid "Wrap\nText"
+msgstr "ტექსტით\nგარშემოვლება"
+
+msgid "Write & Insert Fields"
+msgstr "ველების წერა და ჩასმა"
+
+msgid "Write a reply"
+msgstr "დაწერეთ პასუხი"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "შემოქმედებითი კრიზისი? მე კურსორისთვის ყურება მეხმარება. წლებია, ჩემკენ ციმციმებს."
+
+msgid "x bar"
+msgstr "x ზედა ხაზით"
+
+msgid "Year"
+msgstr "წელი"
+
+msgid "Yields"
+msgstr "იძლევა"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "დიდი ხანია არ შეგინახავთ, ავტოშენახვა კი გამორთულია. შევინახო ახლა?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "სია დაიწყეთ. მის დასასრულებლად ორჯერ დააჭირეთ Enter-ს, ან პუნქტის დასაწყისში დააჭირეთ Backspace-ს, რომ ისევ ჩვეულებრივ ტექსტად აქციოთ."
+
+msgid "Your document is now the most saved document in history."
+msgstr "თქვენი დოკუმენტი ახლა ისტორიაში ყველაზე მეტჯერ შენახული დოკუმენტია."
+
+msgid "Your languages"
+msgstr "თქვენი ენები"
+
+msgid "Your own dictionary"
+msgstr "თქვენი საკუთარი ლექსიკონი"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "თქვენი სისტემა ანიმაციის პარამეტრს არ გვატყობინებს, ამიტომ ანიმაციის ეფექტები ჩართული რჩება."
+
+msgid "Your system has animation effects turned off."
+msgstr "თქვენს სისტემაში ანიმაციის ეფექტები გამორთულია."
+
+msgid "Your system has animation effects turned on."
+msgstr "თქვენს სისტემაში ანიმაციის ეფექტები ჩართულია."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: გაუქმდა"
+
+msgid "Zotero: done"
+msgstr "Zotero: დასრულდა"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; ვერ წაიკითხა ({count}): {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; გამოტოვებულია {n} (ზღვარი: {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "ცხრილი {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "მონაწილე: {contributors} · კომიტი: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "გამოკვეთილი ელემენტები: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "დაიბეჭდება გვერდი: {count} / {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "შეირწყმება მიმღები: {count} / {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group}: პარამეტრები"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} მთელი დოკუმენტის მართლწერასა და გრამატიკას ამოწმებს."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} ითვლის თქვენს სიტყვებს, სიმბოლოებს და აბზაცებს."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} პოულობს და ანაცვლებს ტექსტს, ფორმატირებას და სპეციალურ სიმბოლოებს."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} ბოლო მოქმედებას იმეორებს. ათი სათაურის დაფორმატება უცებ ერთ დაწკაპებად და ცხრა დაჭერად იქცევა."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} ახალ სტრიქონს იწყებს ახალი აბზაცის დაწყების გარეშე."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} ახალ გვერდს იწყებს. ბევრად უფრო მოწესრიგებულია, ვიდრე Enter-ის მანამდე დაჭერა, სანამ ახალი გვერდი თავად არ დაიწყება."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} მონიშნულ ტექსტს ბმულად აქცევს."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+დაწკაპუნება ბმულზე გადასასვლელად"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (ნაგულისხმევი)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (ლექსიკონი ვერ იკითხება)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (ლექსიკონის გარეშე)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} ახლა დოკუმენტის ნაგულისხმევი ენაა."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: ლექსიკონი ვერ მოიძებნა"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft ამ ენაზე მართლწერასა და გრამატიკას ჯერ არ ამოწმებს."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (ვერ იკითხება: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} და კიდევ {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} დუიმი"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} მმ"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} უკვე არსებობს. ჩასანაცვლებლად კვლავ აირჩიეთ „შენახვა“."
+
+msgid "{name} is protected with a password."
+msgstr "{name} პაროლით არის დაცული."
+
+msgid "{name} options"
+msgstr "{name}: პარამეტრები"
+
+msgid "{name} wasn't found."
+msgstr "{name} ვერ მოიძებნა."
+
+msgid "{n} entries marked."
+msgstr "მარკირებული ჩანაწერი: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "სტრიქონი: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} პტ"
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "სიტყვა: {words}; მონიშნული: {selected}"
+
+msgid "{size} pt"
+msgstr "{size} პტ"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} მმ"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} პიქსელი"
+
+msgid "{words} words"
+msgstr "სიტყვა: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "სიტყვა: {words}, და რიცხვი ისევ იზრდება. პირდაპირი მნიშვნელობით: მე ვითვლი."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "სიტყვა: {words}! კონფეტს ავყრიდი, მაგრამ მერე დალაგება მომიწევდა."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "სიტყვა: {words}. ეს {words}-ით მეტია, ვიდრე მე დღეს დავწერე."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}“ ({row}, {series}) რიცხვი არ არის."
+
+msgid "✓ None"
+msgstr "✓ არცერთი"
+
+msgid "➕ New comment"
+msgstr "➕ ახალი კომენტარი"
+
+msgid "📂  Browse…"
+msgstr "📂  არჩევა…"

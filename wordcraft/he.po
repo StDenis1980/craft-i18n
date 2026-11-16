@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==2 ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(הכול)"
+
+msgid "(no style)"
+msgstr "(ללא סגנון)"
+
+msgid "(no suggestions)"
+msgstr "(אין הצעות)"
+
+msgid "(normal text)"
+msgstr "(טקסט רגיל)"
+
+msgid "(not matched)"
+msgstr "(אין התאמה)"
+
+msgid "(picture or object)"
+msgstr "(תמונה או אובייקט)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 תווים או יותר"
+
+msgid "1. Formatting restrictions"
+msgstr "1. הגבלות עיצוב"
+
+msgid "1.5 Line Spacing"
+msgstr "מרווח שורות 1.5"
+
+msgid "1/4 Em Space"
+msgstr "רווח של 1/4 Em"
+
+msgid "1×2 Empty Matrix"
+msgstr "מטריצה ריקה 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "מטריצה ריקה 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. הגבלות עריכה"
+
+msgid "2×1 Empty Matrix"
+msgstr "מטריצה ריקה 2×1"
+
+msgid "2×2 Determinant"
+msgstr "דטרמיננטה 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "מטריצה ריקה 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "מטריצת יחידה 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "מטריצת יחידה 2×2 (דלילה)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "מטריצה 2×2 בסוגריים מרובעים"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "מטריצה 2×2 בקווים כפולים"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "מטריצה 2×2 בסוגריים עגולים"
+
+msgid "2×3 Empty Matrix"
+msgstr "מטריצה ריקה 2×3"
+
+msgid "3-D"
+msgstr "תלת-ממד"
+
+msgid "3. Start enforcement"
+msgstr "3. הפעלת האכיפה"
+
+msgid "3×1 Empty Matrix"
+msgstr "מטריצה ריקה 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "מטריצה ריקה 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "מטריצה ריקה 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "מטריצת יחידה 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "מטריצת יחידה 3×3 (דלילה)"
+
+msgid "<< Less"
+msgstr "<< פחות"
+
+msgid "<< Remove"
+msgstr "<< הסרה"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "אי אפשר לפרק קבוצה של בד ציור"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "אי אפשר להכניס בד ציור לתיבת טקסט"
+
+msgid "A file dialog is already open."
+msgstr "חלון בחירת קבצים כבר פתוח."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "מעבד תמלילים חינמי בקוד פתוח, שנכתב מאפס ב-Rust.\nחלק מ-Crafting Apps של צוות ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "עדיין אי אפשר לפרק קבוצה שיש בה דיו של Word"
+
+msgid "A mail merge field"
+msgstr "שדה של מיזוג דואר"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "רצף ממוספר (איורים, טבלאות…)"
+
+msgid "A password is required to open this document."
+msgstr "נדרשת סיסמה כדי לפתוח מסמך זה."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "תוכן עניינים"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "אודות WordCraft"
+
+msgid "Above Chart"
+msgstr "מעל התרשים"
+
+msgid "Above the item"
+msgstr "מעל הפריט"
+
+msgid "Above/below"
+msgstr "מעל/מתחת"
+
+msgid "Absolute value cases"
+msgstr "מקרים עם ערך מוחלט"
+
+msgid "Accent"
+msgstr "הדגשה"
+
+msgid "Accent Gradient"
+msgstr "הדגשה עם מעבר צבע"
+
+msgid "Accent with Reflection"
+msgstr "הדגשה עם השתקפות"
+
+msgid "Accent {n}"
+msgstr "הדגשה {n}"
+
+msgid "Accents"
+msgstr "סימני ניקוד"
+
+msgid "Accept"
+msgstr "קבלה"
+
+msgid "Accept All Changes"
+msgstr "קבלת כל השינויים"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "קבלת שינוי זה"
+
+msgid "Accessed on"
+msgstr "תאריך גישה"
+
+msgid "Accessibility Pane"
+msgstr "חלונית נגישות"
+
+msgid "Account"
+msgstr "חשבון"
+
+msgid "Acute"
+msgstr "חד"
+
+msgid "Add >>"
+msgstr "הוספה >>"
+
+msgid "Add a language"
+msgstr "הוסף שפה"
+
+msgid "Add a language…"
+msgstr "הוסף שפה…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "הוספת טבלה"
+
+msgid "Add at least one field."
+msgstr "יש להוסיף שדה אחד לפחות."
+
+msgid "Add Chart Element"
+msgstr "הוספת רכיב תרשים"
+
+msgid "Add Condition"
+msgstr "הוספת תנאי"
+
+msgid "Add Field"
+msgstr "הוספת שדה"
+
+msgid "Add Font…"
+msgstr "הוספת גופן…"
+
+msgid "Add gradient stop"
+msgstr "הוספת נקודת מעבר צבע"
+
+msgid "Add line numbering"
+msgstr "הוספת מספור שורות"
+
+msgid "Add New Source…"
+msgstr "הוספת מקור חדש…"
+
+msgid "Add Object to Selection"
+msgstr "הוספת אובייקט לבחירה"
+
+msgid "Add Pen"
+msgstr "הוספת עט"
+
+msgid "Add Row"
+msgstr "הוספת שורה"
+
+msgid "Add Series"
+msgstr "הוספת סדרה"
+
+msgid "Add Shape"
+msgstr "הוספת צורה"
+
+msgid "Add Space Before Paragraph"
+msgstr "הוספת רווח לפני פסקה"
+
+msgid "Add space between Asian and Latin text"
+msgstr "הוספת רווח בין טקסט אסייתי לטקסט לטיני"
+
+msgid "Add space between Asian text and numbers"
+msgstr "הוספת רווח בין טקסט אסייתי למספרים"
+
+msgid "Add tab stop at:"
+msgstr "הוספת טאב בנקודה:"
+
+msgid "Add Text"
+msgstr "הוספת טקסט"
+
+msgid "Add the chapter number"
+msgstr "הוספת מספר הפרק"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "הוספה למסמך"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "הוספה לסרגל הכלים לגישה מהירה"
+
+msgid "Add to Style Gallery"
+msgstr "הוספה לגלריית הסגנונות"
+
+msgid "Add whether it is above or below"
+msgstr "הוספת ציון אם הוא מעל או מתחת"
+
+msgid "Add/Edit\nBibliography"
+msgstr "הוספה/עריכה של\nביבליוגרפיה"
+
+msgid "Add/Edit\nCitation"
+msgstr "הוספה/עריכה של\nציטוט"
+
+msgid "Add\nNote"
+msgstr "הוספת\nהערה"
+
+msgid "Add\nPen"
+msgstr "הוספת\nעט"
+
+msgid "Add\nShape"
+msgstr "הוספת\nצורה"
+
+msgid "Added 1 font"
+msgstr "נוסף גופן אחד"
+
+msgid "Added Fonts"
+msgstr "גופנים שנוספו"
+
+msgid "Added {n} fonts"
+msgstr "נוספו גופנים: {n}"
+
+msgid "Address"
+msgstr "כתובת"
+
+msgid "Address Block"
+msgstr "גוש כתובת"
+
+msgid "Address labels"
+msgstr "מדבקות כתובת"
+
+msgid "Address:"
+msgstr "כתובת:"
+
+msgid "Address\nBlock"
+msgstr "גוש\nכתובת"
+
+msgid "Advanced Find"
+msgstr "חיפוש מתקדם"
+
+msgid "Advanced Find…"
+msgstr "חיפוש מתקדם…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "אפריקאנס"
+
+msgid "After:"
+msgstr "אחרי:"
+
+msgid "Agents"
+msgstr "סוכנים"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "סוכנים המחוברים ל-WordCraft יכולים להציג לך הודעות דרך העוזר. כשההודעות מושתקות, הם יודעים שעדיף לך בלעדיהן."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "אה, לטינית. שפת הדדליינים."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "אה, שלב העריכה. האהוב עליי. מאוד החלטי."
+
+msgid "Albanian"
+msgstr "אלבנית"
+
+msgid "Align Bottom Center"
+msgstr "יישור למטה במרכז"
+
+msgid "Align Bottom Left"
+msgstr "יישור למטה משמאל"
+
+msgid "Align Bottom Right"
+msgstr "יישור למטה מימין"
+
+msgid "Align Center"
+msgstr "יישור למרכז"
+
+msgid "Align Center Left"
+msgstr "יישור למרכז משמאל"
+
+msgid "Align Center Right"
+msgstr "יישור למרכז מימין"
+
+msgid "Align Top Center"
+msgstr "יישור למעלה במרכז"
+
+msgid "Align Top Left"
+msgstr "יישור למעלה משמאל"
+
+msgid "Align Top Right"
+msgstr "יישור למעלה מימין"
+
+msgid "Aligned at:"
+msgstr "מיושר ב:"
+
+msgid "All - Linear"
+msgstr "הכול - ליניארי"
+
+msgid "All - Professional"
+msgstr "הכול - מקצועי"
+
+msgid "All Borders"
+msgstr "כל הגבולות"
+
+msgid "All caps"
+msgstr "אותיות רישיות בלבד"
+
+msgid "All Commands"
+msgstr "כל הפקודות"
+
+msgid "All documents based on the Normal template?"
+msgstr ""
+
+msgid "All Fonts"
+msgstr "כל הגופנים"
+
+msgid "All Levels"
+msgstr "כל הרמות"
+
+msgid "All Markup"
+msgstr "כל הסימונים"
+
+msgid "All pages in the range"
+msgstr "כל העמודים בטווח"
+
+msgid "All symbol sets"
+msgstr "כל ערכות הסמלים"
+
+msgid "All system fonts are already available."
+msgstr "כל הגופנים של המערכת כבר זמינים."
+
+msgid "Allow hanging punctuation"
+msgstr "התרת פיסוק תלוי"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "התרת גלישה של טקסט לטיני באמצע מילה"
+
+msgid "Allow line breaks"
+msgstr "התרת מעברי שורה"
+
+msgid "Allow row to break across pages"
+msgstr "התרת פיצול שורה בין עמודים"
+
+msgid "Alphabetical"
+msgstr "אלפביתי"
+
+msgid "Alt Text"
+msgstr "טקסט חלופי"
+
+msgid "Alt text"
+msgstr "טקסט חלופי"
+
+msgid "Alt Text Pane"
+msgstr "חלונית טקסט חלופי"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "טקסט\nחלופי"
+
+msgid "an agent"
+msgstr "סוכן"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "חבילת שפה מותקנת משמשת אחרי תיקייה זו."
+
+msgid "And"
+msgstr "וגם"
+
+msgid "Angle Brackets"
+msgstr "סוגריים זוויתיים"
+
+msgid "Angle Brackets with Separator"
+msgstr "סוגריים זוויתיים עם מפריד"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "סוגריים זוויתיים עם שני מפרידים"
+
+msgid "Angola"
+msgstr "אנגולה"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "הנפשת הסמן (גולש ודוהה)"
+
+msgid "Animation effects:"
+msgstr "אפקטי הנפשה:"
+
+msgid "Annotation Reference"
+msgstr "הפניה להערה"
+
+msgid "Annotation Subject"
+msgstr "נושא ההערה"
+
+msgid "Annotation Text"
+msgstr "טקסט הערה"
+
+msgid "Annoying"
+msgstr "מעצבן"
+
+msgid "Another file"
+msgstr "קובץ אחר"
+
+msgid "Any Character"
+msgstr "תו כלשהו"
+
+msgid "Any Digit"
+msgstr "ספרה כלשהי"
+
+msgid "Any field"
+msgstr "כל שדה"
+
+msgid "Any Letter"
+msgstr "אות כלשהי"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "כל אחד יכול לפתוח מסמך זה. הצפנה בסיסמה תשמור עליו פרטי."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "כל מי שיפתח את המסמך יזדקק לסיסמה זו."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "החלה תוך כדי הקלדה"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "החלת כללי שבירת שורות אסייתיים (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "החלת עיצוב על:"
+
+msgid "Apply Style"
+msgstr "החלת סגנון"
+
+msgid "Apply Styles"
+msgstr "החלת סגנונות"
+
+msgid "Arabic"
+msgstr "ערבית"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "ערביות"
+
+msgid "Arch Down"
+msgstr "קשת כלפי מטה"
+
+msgid "Arch Up"
+msgstr "קשת כלפי מעלה"
+
+msgid "Argentina"
+msgstr "ארגנטינה"
+
+msgid "Armenian"
+msgstr "ארמנית"
+
+msgid "Arrange\nAll"
+msgstr "סידור\nהכול"
+
+msgid "Article I."
+msgstr "סעיף I."
+
+msgid "Artistic Effects"
+msgstr "אפקטים אומנותיים"
+
+msgid "As Recommended"
+msgstr "כמומלץ"
+
+msgid "As you type"
+msgstr "תוך כדי הקלדה"
+
+msgid "ASAP"
+msgstr "בהקדם האפשרי"
+
+msgid "Asian text font:"
+msgstr "גופן לטקסט אסייתי:"
+
+msgid "Asian Typography"
+msgstr "טיפוגרפיה אסייתית"
+
+msgid "Assistant"
+msgstr "עוזר"
+
+msgid "Assistant Suggestions"
+msgstr "הצעות העוזר"
+
+msgid "At least"
+msgstr "לפחות"
+
+msgid "At least {n}"
+msgstr "לפחות {n}"
+
+msgid "Atelier"
+msgstr "סטודיו"
+
+msgid "Atmosphere"
+msgstr "אווירה"
+
+msgid "Attach Template"
+msgstr "צירוף תבנית"
+
+msgid "Attach…"
+msgstr "צירוף…"
+
+msgid "Australia"
+msgstr "אוסטרליה"
+
+msgid "Austria"
+msgstr "אוסטריה"
+
+msgid "Auto orientation"
+msgstr "כיוון אוטומטי"
+
+msgid "AutoCorrect"
+msgstr "תיקון אוטומטי"
+
+msgid "AutoCorrect Options"
+msgstr "אפשרויות תיקון אוטומטי"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "התאמה אוטומטית"
+
+msgid "AutoFit behavior"
+msgstr "התאמה אוטומטית"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "התאמה אוטומטית של עמודה בלחיצה כפולה"
+
+msgid "AutoFit Contents"
+msgstr "התאמה אוטומטית לתוכן"
+
+msgid "AutoFit to contents"
+msgstr "התאמה אוטומטית לתוכן"
+
+msgid "AutoFit to window"
+msgstr "התאמה אוטומטית לחלון"
+
+msgid "AutoFit Window"
+msgstr "התאמה אוטומטית לחלון"
+
+msgid "AutoFormat As You Type"
+msgstr "עיצוב אוטומטי בעת ההקלדה"
+
+msgid "Automatic ({language})"
+msgstr "אוטומטי ({language})"
+
+msgid "Automatic ({region})"
+msgstr "אוטומטי ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "רשימות תבליטים אוטומטיות"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "המצב האוטומטי עוקב אחר שפת המערכת. התפריטים והפקודות משתנים; המסמכים שלך לא."
+
+msgid "Automatic numbered lists"
+msgstr "רשימות ממוספרות אוטומטיות"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "טבלה אוטומטית 1 (3 רמות)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "טבלה אוטומטית 2 (2 רמות)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "הוספה אוטומטית של מילים לרשימה (אות ראשונה)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "הוספה אוטומטית של מילים לרשימה (שתי אותיות רישיות)"
+
+msgid "Automatically hyphenate document"
+msgstr "מיקוף אוטומטי של המסמך"
+
+msgid "Automatically Update Document Styles"
+msgstr "עדכון אוטומטי של סגנונות המסמך"
+
+msgid "Automatically update document styles"
+msgstr "עדכון אוטומטי של סגנונות המסמך"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "שמירה אוטומטית של מסמכים ששמרת ב-WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "השמירה האוטומטית נכשלה: {error}. יש לשמור את המסמך כדי להפעיל שוב את השמירה האוטומטית."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "שמירה אוטומטית אינה זמינה בדפדפן: אין לה אפשרות לכתוב לקבצים שלך. שמירה מורידה עותק."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "שמירה אוטומטית נתמכת רק בקובצי .docx, .odt ו-.rtf; הקובץ {name} אינו יכול לשמור את כל העיצוב. יש לשמור בתבנית .docx כדי להפעיל שמירה אוטומטית."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "שמירה אוטומטית שומרת כל שינוי בקובץ (נדרש מסמך שמור)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "שמירה אוטומטית כותבת את השינויים לקובץ רגע אחרי שמפסיקים להקליד."
+
+msgid "AutoText"
+msgstr "טקסט אוטומטי"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10.12\" × 14.33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7.17\" × 10.12\""
+
+msgid "Balloons"
+msgstr "בועות"
+
+msgid "Banded Columns"
+msgstr "עמודות מפוספסות"
+
+msgid "Banded Rows"
+msgstr "שורות מפוספסות"
+
+msgid "Base text:"
+msgstr "טקסט בסיס:"
+
+msgid "Based on: {style}"
+msgstr "מבוסס על: {style}"
+
+msgid "Baseline Dots"
+msgstr "נקודות בקו הבסיס"
+
+msgid "Basic Cycle"
+msgstr "מחזור בסיסי"
+
+msgid "Basic List"
+msgstr "רשימה בסיסית"
+
+msgid "Basic Math"
+msgstr "מתמטיקה בסיסית"
+
+msgid "Basic Matrix"
+msgstr "מטריצה בסיסית"
+
+msgid "Basic Process"
+msgstr "תהליך בסיסי"
+
+msgid "Basic Pyramid"
+msgstr "פירמידה בסיסית"
+
+msgid "Basic Radial"
+msgstr "רדיאלי בסיסי"
+
+msgid "Basic Venn"
+msgstr "ון בסיסי"
+
+msgid "Bayes' rule"
+msgstr "כלל בייס"
+
+msgid "Before:"
+msgstr "לפני:"
+
+msgid "Beginning of Word"
+msgstr "תחילת מילה"
+
+msgid "Behind Text"
+msgstr "מאחורי הטקסט"
+
+msgid "Belarus"
+msgstr "בלארוס"
+
+msgid "Belarusian"
+msgstr "בלארוסית"
+
+msgid "Belgium"
+msgstr "בלגיה"
+
+msgid "Below text"
+msgstr "מתחת לטקסט"
+
+msgid "Below the item"
+msgstr "מתחת לפריט"
+
+msgid "Between"
+msgstr "בין"
+
+msgid "Bibliography"
+msgstr "ביבליוגרפיה"
+
+msgid "Binomial Coefficient"
+msgstr "מקדם בינומי"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "מקדם בינומי (זוויתי)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "מקדם בינומי עם סוגריים זוויתיים"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "פיתוח בינומי של (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "ריק"
+
+msgid "Blank (Three Columns)"
+msgstr "ריק (שלוש עמודות)"
+
+msgid "Blank document"
+msgstr "מסמך ריק"
+
+msgid "Blank Page"
+msgstr "עמוד ריק"
+
+msgid "Block\nAuthors"
+msgstr "חסימת\nמחברים"
+
+msgid "Blue:"
+msgstr "כחול:"
+
+msgid "Body Text"
+msgstr "גוף הטקסט"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "טקסט גוף בפסקה קצרה להמחשת הריווח."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "בחירה נועזת. Ctrl+Z ממש כאן אם צריך."
+
+msgid "Bolivia"
+msgstr "בוליביה"
+
+msgid "Book"
+msgstr "ספר"
+
+msgid "Book Title"
+msgstr "כותר ספר"
+
+msgid "Book title"
+msgstr "כותר הספר"
+
+msgid "Bookmark"
+msgstr "סימנייה"
+
+msgid "Bookmark name:"
+msgstr "שם הסימנייה:"
+
+msgid "Bookmark text"
+msgstr "טקסט הסימנייה"
+
+msgid "Bookmarks"
+msgstr "סימניות"
+
+msgid "Border lines"
+msgstr "קווי גבול"
+
+msgid "Border Painter"
+msgstr "צייר גבולות"
+
+msgid "Border\nPainter"
+msgstr "צייר\nגבולות"
+
+msgid "Borders and Shading"
+msgstr "גבולות והצללה"
+
+msgid "Borders and Shading…"
+msgstr "גבולות והצללה…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "בוסניה והרצגובינה"
+
+msgid "Bosnian"
+msgstr "בוסנית"
+
+msgid "Both Sides"
+msgstr "שני הצדדים"
+
+msgid "Bottom Border"
+msgstr "גבול תחתון"
+
+msgid "Bottom Left Cell"
+msgstr "תא שמאלי תחתון"
+
+msgid "Bottom Margin"
+msgstr "שוליים תחתונים"
+
+msgid "Bottom of Page"
+msgstr "תחתית העמוד"
+
+msgid "Bottom Right Cell"
+msgstr "תא ימני תחתון"
+
+msgid "Box"
+msgstr "תיבה"
+
+msgid "Boxed Formula"
+msgstr "נוסחה ממוסגרת"
+
+msgid "Boxed Formula (example)"
+msgstr "נוסחה ממוסגרת (דוגמה)"
+
+msgid "Boxed Formulas"
+msgstr "נוסחאות ממוסגרות"
+
+msgid "Braces"
+msgstr "סוגריים מסולסלים"
+
+msgid "Braces with Separator"
+msgstr "סוגריים מסולסלים עם מפריד"
+
+msgid "Bracket"
+msgstr "סוגר"
+
+msgid "Brackets"
+msgstr "סוגריים"
+
+msgid "Brackets with Separators"
+msgstr "סוגריים עם מפרידים"
+
+msgid "Brazil"
+msgstr "ברזיל"
+
+msgid "Breaks"
+msgstr "מעברים"
+
+msgid "Breve"
+msgstr "קשת קצרה"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "בהיר יותר +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "בהירות, ניגודיות וחדות"
+
+msgid "Browse in WordCraft…"
+msgstr "עיון ב-WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "פקד תוכן של גלריית אבני בניין"
+
+msgid "Built in"
+msgstr "מובנה"
+
+msgid "Built-In"
+msgstr "מובנה"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "סגנון מובנה"
+
+msgid "Built-in styles can't be deleted."
+msgstr "לא ניתן למחוק סגנונות מובנים."
+
+msgid "Bulgarian"
+msgstr "בולגרית"
+
+msgid "Bullet Library"
+msgstr "ספריית תבליטים"
+
+msgid "Bullets"
+msgstr "תבליטים"
+
+msgid "By author"
+msgstr "לפי מחבר"
+
+msgid "Cabo Verde"
+msgstr "כף ורדה"
+
+msgid "Calendar"
+msgstr "לוח שנה"
+
+msgid "Can't be deleted"
+msgstr "לא ניתן למחיקה"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "לא מוצאים פקודה? לוחצים {key} ומקלידים מה רוצים לעשות."
+
+msgid "can't split at the first row"
+msgstr "אי אפשר לפצל בשורה הראשונה"
+
+msgid "Canada"
+msgstr "קנדה"
+
+msgid "Canvas Member"
+msgstr "רכיב בקנבס"
+
+msgid "Capitalize Each Word"
+msgstr "אות ראשונה רישית בכל מילה"
+
+msgid "Capitalize first letter of sentences"
+msgstr "אות ראשונה רישית במשפטים"
+
+msgid "Capitalize first letter of table cells"
+msgstr "אות ראשונה רישית בתאי טבלה"
+
+msgid "Capitalize names of days"
+msgstr "אות רישית בשמות ימים"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "אות רישית במילה הראשונה במשפט"
+
+msgid "Caption Numbering"
+msgstr "מספור כיתובים"
+
+msgid "Caption text"
+msgstr "טקסט הכיתוב"
+
+msgid "Caption:"
+msgstr "כיתוב:"
+
+msgid "Captions"
+msgstr "כיתובים"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "זהירות, עוד צעד אחורה ונבטל את המצאת הנייר."
+
+msgid "Caret Character"
+msgstr "תו גג"
+
+msgid "Case changes"
+msgstr "שינויי רישיות"
+
+msgid "Cases (Three Conditions)"
+msgstr "מקרים (שלושה תנאים)"
+
+msgid "Cases (Two Conditions)"
+msgstr "מקרים (שני תנאים)"
+
+msgid "Cases and Stacks"
+msgstr "מקרים וערימות"
+
+msgid "Catalan"
+msgstr "קטלאנית"
+
+msgid "Catalan (Valencian)"
+msgstr "קטלאנית (ולנסיאנית)"
+
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgid "Categories:"
+msgstr "קטגוריות:"
+
+msgid "Category {n}"
+msgstr "קטגוריה {n}"
+
+msgid "Ceiling"
+msgstr "עיגול כלפי מעלה"
+
+msgid "Cell"
+msgstr "תא"
+
+msgid "Cell Margins"
+msgstr "שולי תא"
+
+msgid "Cell\nMargins"
+msgstr "שולי\nתא"
+
+msgid "Center Glow"
+msgstr "זוהר במרכז"
+
+msgid "Centered as Group"
+msgstr "ממורכז כקבוצה"
+
+msgid "Change Chart Type"
+msgstr "שינוי סוג תרשים"
+
+msgid "Change Colors"
+msgstr "שינוי צבעים"
+
+msgid "Change in y over change in x"
+msgstr "השינוי ב-y חלקי השינוי ב-x"
+
+msgid "Change Layout"
+msgstr "שינוי פריסה"
+
+msgid "Change List Level"
+msgstr "שינוי רמת רשימה"
+
+msgid "Change Password…"
+msgstr "שינוי סיסמה…"
+
+msgid "Change Picture"
+msgstr "שינוי תמונה"
+
+msgid "Change Picture…"
+msgstr "שינוי תמונה…"
+
+msgid "Change Shape"
+msgstr "שינוי צורה"
+
+msgid "Change Structure"
+msgstr "שינוי מבנה"
+
+msgid "Change to Display"
+msgstr "שינוי לתצוגה"
+
+msgid "Change to Inline"
+msgstr "שינוי לשורה"
+
+msgid "Change to Level 1"
+msgstr "שינוי לרמה 1"
+
+msgid "Change to Level 2"
+msgstr "שינוי לרמה 2"
+
+msgid "Change to Level 3"
+msgstr "שינוי לרמה 3"
+
+msgid "Change to Level 4"
+msgstr "שינוי לרמה 4"
+
+msgid "Change to Level 5"
+msgstr "שינוי לרמה 5"
+
+msgid "Change to Level 6"
+msgstr "שינוי לרמה 6"
+
+msgid "Change to Level 7"
+msgstr "שינוי לרמה 7"
+
+msgid "Change to Level 8"
+msgstr "שינוי לרמה 8"
+
+msgid "Change to Level 9"
+msgstr "שינוי לרמה 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "שינוי\nסוג תרשים"
+
+msgid "Change\nColors"
+msgstr "שינוי\nצבעים"
+
+msgid "Changed lines:"
+msgstr "שורות ששונו:"
+
+msgid "Changes"
+msgstr "שינויים"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "פרק 1"
+
+msgid "Chapter in a book"
+msgstr "פרק בספר"
+
+msgid "Chapters begin at:"
+msgstr "הפרקים מתחילים ב:"
+
+msgid "Character Border"
+msgstr "גבול תווים"
+
+msgid "Character code:"
+msgstr "קוד תו:"
+
+msgid "Character in Range"
+msgstr "תו בטווח"
+
+msgid "Character level"
+msgstr "רמת תו"
+
+msgid "Character Position"
+msgstr "מיקום תווים"
+
+msgid "Character Scale"
+msgstr "קנה מידה של תווים"
+
+msgid "Character Shading"
+msgstr "הצללת תווים"
+
+msgid "Character Spacing"
+msgstr "ריווח תווים"
+
+msgid "Character spacing"
+msgstr "ריווח תווים"
+
+msgid "Character style"
+msgstr "סגנון תווים"
+
+msgid "Characters (no spaces)"
+msgstr "תווים (ללא רווחים)"
+
+msgid "Characters (with spaces)"
+msgstr "תווים (כולל רווחים)"
+
+msgid "Characters per line:"
+msgstr "תווים בשורה:"
+
+msgid "Chart"
+msgstr "תרשים"
+
+msgid "Chart Design"
+msgstr "עיצוב תרשים"
+
+msgid "Chart Layouts"
+msgstr "פריסות תרשים"
+
+msgid "Chart Title"
+msgstr "כותרת תרשים"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "עדיין אי אפשר להזיז תרשימים ודיאגרמות או לשנות את גודלם"
+
+msgid "Check"
+msgstr "בדיקה"
+
+msgid "Check Accessibility"
+msgstr "בדיקת נגישות"
+
+msgid "Check Box Content Control"
+msgstr "פקד תוכן של תיבת סימון"
+
+msgid "Check Compatibility"
+msgstr "בדיקת תאימות"
+
+msgid "Check for Errors"
+msgstr "בדיקת שגיאות"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "בדיקת איות תוך כדי הקלדה"
+
+msgid "Check spelling as you type"
+msgstr "בדיקת איות תוך כדי הקלדה"
+
+msgid "Check\nAccessibility"
+msgstr "בדיקת\nנגישות"
+
+msgid "Checked styles are allowed:"
+msgstr "הסגנונות המסומנים מותרים:"
+
+msgid "Checked symbol"
+msgstr "סמל מסומן"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "שברון למטה"
+
+msgid "Chevron Up"
+msgstr "שברון למעלה"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "צ'ילה"
+
+msgid "China"
+msgstr "סין"
+
+msgid "Chinese (Simplified)"
+msgstr "סינית (פשוטה)"
+
+msgid "Chinese (Traditional)"
+msgstr "סינית (מסורתית)"
+
+msgid "Choose a command"
+msgstr "בחירת פקודה"
+
+msgid "Choose a shortcut"
+msgstr "בחירת קיצור דרך"
+
+msgid "Choose List Item"
+msgstr "בחירת פריט ברשימה"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "יש לבחור את הגיליון שמכיל את הנמענים."
+
+msgid "Circle area from its radius"
+msgstr "שטח עיגול לפי הרדיוס"
+
+msgid "Circled Dot"
+msgstr "נקודה בעיגול"
+
+msgid "Circled Plus"
+msgstr "פלוס בעיגול"
+
+msgid "Circled Times"
+msgstr "כפל בעיגול"
+
+msgid "Citation Style"
+msgstr "סגנון ציטוט"
+
+msgid "Citations"
+msgstr "ציטוטים"
+
+msgid "Citations & Bibliography"
+msgstr "ציטוטים וביבליוגרפיה"
+
+msgid "Clear All Formatting"
+msgstr "ניקוי כל העיצוב"
+
+msgid "Clear Character Formatting"
+msgstr "ניקוי עיצוב תווים"
+
+msgid "Clear Character Style"
+msgstr "ניקוי סגנון תווים"
+
+msgid "Clear Formatting Level"
+msgstr "רמת ניקוי עיצוב"
+
+msgid "Clear Paragraph Formatting"
+msgstr "ניקוי עיצוב פסקה"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "יש ללחוץ על גבול בין שני תאים כדי למזג אותם. Esc מפסיק."
+
+msgid "Click an item to paste it."
+msgstr "יש ללחוץ על פריט כדי להדביק אותו."
+
+msgid "Click level to modify:"
+msgstr "יש ללחוץ על הרמה לשינוי:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "יש ללחוץ על תיבת הטקסט הריקה שבה הטקסט אמור להמשיך (Esc לביטול)"
+
+msgid "Click to switch back to inserting"
+msgstr "יש ללחוץ כדי לחזור למצב הוספה"
+
+msgid "Clipboard Contents"
+msgstr "תוכן הלוח"
+
+msgid "Clipboard Items"
+msgstr "פריטי הלוח"
+
+msgid "Clipboard Pane"
+msgstr "חלונית הלוח"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "סגירת המשוואה"
+
+msgid "Close Header and Footer"
+msgstr "סגירת כותרת עליונה ותחתונה"
+
+msgid "Close Outline View"
+msgstr "סגירת תצוגת חלוקה לרמות"
+
+msgid "Close Outline\nView"
+msgstr "סגירת תצוגת\nחלוקה לרמות"
+
+msgid "Clustered Bar"
+msgstr "פסים מקובצים"
+
+msgid "Clustered Column"
+msgstr "עמודות מקובצות"
+
+msgid "cm"
+msgstr "ס\"מ"
+
+msgid "Col #:"
+msgstr "מס' עמודה:"
+
+msgid "Collapse Selection"
+msgstr "כיווץ הבחירה"
+
+msgid "Collate copies"
+msgstr "איסוף עותקים"
+
+msgid "Collect entries from:"
+msgstr "איסוף ערכים מ:"
+
+msgid "Colombia"
+msgstr "קולומביה"
+
+msgid "Colon Equal"
+msgstr "נקודתיים שווה"
+
+msgid "Color model:"
+msgstr "מודל צבע:"
+
+msgid "Color only"
+msgstr "צבע בלבד"
+
+msgid "Color: {color}"
+msgstr "צבע: {color}"
+
+msgid "Colorful"
+msgstr "צבעוני"
+
+msgid "Column"
+msgstr "עמודה"
+
+msgid "Column Break"
+msgstr "מעבר עמודה"
+
+msgid "Column Selection"
+msgstr "בחירת עמודה"
+
+msgid "Column {n}"
+msgstr "עמודה {n}"
+
+msgid "Column:"
+msgstr "עמודה:"
+
+msgid "Combine Documents"
+msgstr "שילוב מסמכים"
+
+msgid "Combo Box Content Control"
+msgstr "פקד תוכן של תיבה משולבת"
+
+msgid "Commands"
+msgstr "פקודות"
+
+msgid "Commas"
+msgstr "פסיקים"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "הערות לצד כל עמוד ושינויים במעקב בקובצי PDF, בהדפסות ובתמונות; רשימת הערות בסוף דפי אינטרנט, Markdown וטקסט."
+
+msgid "Comments Pane"
+msgstr "חלונית הערות"
+
+msgid "Common Accent Objects"
+msgstr "אובייקטי ניקוד נפוצים"
+
+msgid "Common Brackets"
+msgstr "סוגריים נפוצים"
+
+msgid "Common Fractions"
+msgstr "שברים נפוצים"
+
+msgid "Common Functions"
+msgstr "פונקציות נפוצות"
+
+msgid "Common Large Operators"
+msgstr "אופרטורים גדולים נפוצים"
+
+msgid "Common Operator Structures"
+msgstr "מבני אופרטורים נפוצים"
+
+msgid "Common Operators"
+msgstr "אופרטורים נפוצים"
+
+msgid "Common Radicals"
+msgstr "שורשים נפוצים"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "כתב תחתי וכתב עילי נפוצים"
+
+msgid "Communication"
+msgstr "תקשורת"
+
+msgid "Community\nDiscord"
+msgstr "קהילת\nDiscord"
+
+msgid "Compact"
+msgstr "דחוס"
+
+msgid "Compare Documents"
+msgstr "השוואת מסמכים"
+
+msgid "Compare to"
+msgstr "השוואה אל"
+
+msgid "Compared: {changes} changes"
+msgstr "הושוו: {changes} שינויים"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "השוואה עם קובץ אחר דורשת את היישום למחשב."
+
+msgid "Comparison settings"
+msgstr "הגדרות השוואה"
+
+msgid "Compress Pictures"
+msgstr "דחיסת תמונות"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "דחיסת פיסוק בתחילת שורה"
+
+msgid "Conference"
+msgstr "כנס"
+
+msgid "Conference paper"
+msgstr "מאמר בכנס"
+
+msgid "CONFIDENTIAL"
+msgstr "חסוי"
+
+msgid "Confirm password:"
+msgstr "אישור סיסמה:"
+
+msgid "Connect Shapes"
+msgstr "חיבור צורות"
+
+msgid "Container Title"
+msgstr "כותר המכיל"
+
+msgid "Content Control at Selection"
+msgstr "פקד תוכן בבחירה"
+
+msgid "Content Control Properties"
+msgstr "מאפייני פקד תוכן"
+
+msgid "Contents can't be edited"
+msgstr "לא ניתן לערוך את התוכן"
+
+msgid "Context"
+msgstr "הקשר"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "לפי ההקשר"
+
+msgid "Continue from previous section"
+msgstr "המשך מהמקטע הקודם"
+
+msgid "Continue without restoring"
+msgstr "המשך בלי שחזור"
+
+msgid "Continuous"
+msgstr "רציף"
+
+msgid "Continuous numbering"
+msgstr "מספור רציף"
+
+msgid "Contour Integral"
+msgstr "אינטגרל מסלולי"
+
+msgid "Contour Integral with Limits"
+msgstr "אינטגרל מסלולי עם גבולות"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "אינטגרל מסלולי עם גבולות מוערמים"
+
+msgid "Contour Integrals"
+msgstr "אינטגרלים מסלוליים"
+
+msgid "Controls"
+msgstr "פקדים"
+
+msgid "Conversions"
+msgstr "המרות"
+
+msgid "Convert between built-up and linear form"
+msgstr "המרה בין צורה בנויה לצורה ליניארית"
+
+msgid "Convert Notes"
+msgstr "המרת הערות"
+
+msgid "Convert Text to Table"
+msgstr "המרת טקסט לטבלה"
+
+msgid "Convert Text to Table…"
+msgstr "המרת טקסט לטבלה…"
+
+msgid "Convert to Shapes"
+msgstr "המרה לצורות"
+
+msgid "Convert to Text"
+msgstr "המרה לטקסט"
+
+msgid "Coproduct"
+msgstr "קו-מכפלה"
+
+msgid "Coproduct with Limits"
+msgstr "קו-מכפלה עם גבולות"
+
+msgid "Coproduct with Lower Limit"
+msgstr "קו-מכפלה עם גבול תחתון"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "קו-מכפלה עם גבולות בכתב תחתי ועילי"
+
+msgid "Copy Formatting"
+msgstr "העתקת עיצוב"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "עותק של הטקסט שסימנייה מסמנת"
+
+msgid "Copy Styles"
+msgstr "העתקת סגנונות"
+
+msgid "Copy to"
+msgstr "העתקה אל"
+
+msgid "Copyright Sign"
+msgstr "סימן זכויות יוצרים"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "תיקון שימוש מקרי במקש cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "תיקון שתי אותיות רישיות בתחילת מילה"
+
+msgid "Corrections"
+msgstr "תיקונים"
+
+msgid "Cosecant Function"
+msgstr "פונקציית קוסקאנס"
+
+msgid "Cosine 2x"
+msgstr "קוסינוס 2x"
+
+msgid "Cosine Function"
+msgstr "פונקציית קוסינוס"
+
+msgid "Costa Rica"
+msgstr "קוסטה ריקה"
+
+msgid "Cotangent Function"
+msgstr "פונקציית קוטנגנס"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "לא ניתן היה להוריד את {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "לא ניתן היה להגדיר את WordCraft כברירת מחדל: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "לא ניתן היה לפתוח את {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "לא ניתן היה לשמור את {name}, ולכן הוא עדיין פתוח ושום דבר לא אבד: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "ספירה בקפיצות של:"
+
+msgid "Count words in text boxes and notes"
+msgstr "ספירת מילים בתיבות טקסט ובהערות"
+
+msgid "Courtesy Title"
+msgstr "תואר נימוס"
+
+msgid "Cover Page"
+msgstr "עמוד שער"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "יצירת סגנון"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "יצירת מתאר אינטראקטיבי של המסמך.\n\nזו דרך מצוינת לדעת איפה נמצאים ולהזיז תוכן במהירות.\n\nכדי להתחיל, יש לעבור ללשונית 'בית' ולהחיל סגנונות כותרת על הכותרות במסמך."
+
+msgid "Create Graphic"
+msgstr "יצירת גרפיקה"
+
+msgid "Create Link"
+msgstr "יצירת קישור"
+
+msgid "Create New Style"
+msgstr "יצירת סגנון חדש"
+
+msgid "Create Source"
+msgstr "יצירת מקור"
+
+msgid "Croatian"
+msgstr "קרואטית"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "חיתוך על הדף עובד רק בתמונות שאינן מסובבות: יש לקבוע קודם סיבוב של 0°, או להשתמש בתיבות החיתוך"
+
+msgid "Cross-reference"
+msgstr "הפניה צולבת"
+
+msgid "Cross-reference:"
+msgstr "הפניה צולבת:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "קובה"
+
+msgid "Cube Root"
+msgstr "שורש שלישי"
+
+msgid "Current - Linear"
+msgstr "נוכחי - ליניארי"
+
+msgid "Current - Professional"
+msgstr "נוכחי - מקצועי"
+
+msgid "Current Document"
+msgstr "המסמך הנוכחי"
+
+msgid "Current Position"
+msgstr "המיקום הנוכחי"
+
+msgid "Current record"
+msgstr "הרשומה הנוכחית"
+
+msgid "Current style: {style}"
+msgstr "הסגנון הנוכחי: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "מחבר חץ מעוקל"
+
+msgid "Curved Connector"
+msgstr "מחבר מעוקל"
+
+msgid "Custom dictionary"
+msgstr "מילון מותאם אישית"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "שוליים מותאמים אישית…"
+
+msgid "Custom mark:"
+msgstr "סימן מותאם אישית:"
+
+msgid "Custom range"
+msgstr "טווח מותאם אישית"
+
+msgid "Custom size"
+msgstr "גודל מותאם אישית"
+
+msgid "Custom Table of Contents…"
+msgstr "תוכן עניינים מותאם אישית…"
+
+msgid "Custom Watermark"
+msgstr "סימן מים מותאם אישית"
+
+msgid "Custom Watermark…"
+msgstr "סימן מים מותאם אישית…"
+
+msgid "Customize"
+msgstr "התאמה אישית"
+
+msgid "Customize Keyboard"
+msgstr "התאמה אישית של המקלדת"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "התאמה אישית של סרגל הכלים לגישה מהירה"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "התאמה אישית של סרגל הכלים לגישה מהירה…"
+
+msgid "Customize Ribbon"
+msgstr "התאמה אישית של רצועת הכלים"
+
+msgid "Customize the Ribbon…"
+msgstr "התאמה אישית של רצועת הכלים…"
+
+msgid "Cycle"
+msgstr "מחזור"
+
+msgid "Cyprus"
+msgstr "קפריסין"
+
+msgid "Czech"
+msgstr "צ'כית"
+
+msgid "Danish"
+msgstr "דנית"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "מצב כהה"
+
+msgid "Dark page (white text on black)"
+msgstr "עמוד כהה (טקסט לבן על שחור)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "וריאציות כהות"
+
+msgid "Dark with Shadow"
+msgstr "כהה עם צל"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "כהה יותר −20%"
+
+msgid "Darkroom"
+msgstr "חדר חושך"
+
+msgid "Data Labels"
+msgstr "תוויות נתונים"
+
+msgid "Date & Time"
+msgstr "תאריך ושעה"
+
+msgid "Date formats:"
+msgstr "תבניות תאריך:"
+
+msgid "Date Picker Content Control"
+msgstr "פקד תוכן של בורר תאריכים"
+
+msgid "Day"
+msgstr "יום"
+
+msgid "Decimal"
+msgstr "עשרוני"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "אובייקטים דקורטיביים מוסיפים עניין חזותי בלבד: קוראי מסך מדלגים עליהם."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "הקטנת כניסה"
+
+msgid "Deep"
+msgstr "עמוק"
+
+msgid "Default formatting"
+msgstr ""
+
+msgid "Default Paragraph Font"
+msgstr "גופן פסקה המוגדר כברירת מחדל"
+
+msgid "Default tab stops:"
+msgstr "טאבים המוגדרים כברירת מחדל:"
+
+msgid "Define New Bullet"
+msgstr "הגדרת תבליט חדש"
+
+msgid "Define New Multilevel List"
+msgstr "הגדרת רשימה חדשה מרובת רמות"
+
+msgid "Define New Multilevel List…"
+msgstr "הגדרת רשימה חדשה מרובת רמות…"
+
+msgid "Define New Number Format"
+msgstr "הגדרת תבנית מספר חדשה"
+
+msgid "Deflate"
+msgstr "ניפוח לפנים"
+
+msgid "Delete Around Caret in Equation"
+msgstr "מחיקה סביב הסמן במשוואה"
+
+msgid "Delete Back in Equation"
+msgstr "מחיקה לאחור במשוואה"
+
+msgid "Delete Bookmark"
+msgstr "מחיקת סימנייה"
+
+msgid "Delete Cells"
+msgstr "מחיקת תאים"
+
+msgid "Delete Clipboard Item"
+msgstr "מחיקת פריט מהלוח"
+
+msgid "Delete Columns"
+msgstr "מחיקת עמודות"
+
+msgid "Delete Comment"
+msgstr "מחיקת הערה"
+
+msgid "Delete in Equation"
+msgstr "מחיקה במשוואה"
+
+msgid "Delete Label"
+msgstr "מחיקת תווית"
+
+msgid "Delete Next Word"
+msgstr "מחיקת המילה הבאה"
+
+msgid "Delete Previous Word"
+msgstr "מחיקת המילה הקודמת"
+
+msgid "Delete Rows"
+msgstr "מחיקת שורות"
+
+msgid "Delete Selected Ink"
+msgstr "מחיקת דיו שנבחר"
+
+msgid "Delete Table"
+msgstr "מחיקת טבלה"
+
+msgid "Delete Table Style"
+msgstr "מחיקת סגנון טבלה"
+
+msgid "Deletions:"
+msgstr "מחיקות:"
+
+msgid "Delivery address:"
+msgstr "כתובת למשלוח:"
+
+msgid "Delta Equal To"
+msgstr "דלתא שווה ל"
+
+msgid "Delta over arrow"
+msgstr "דלתא מעל חץ"
+
+msgid "Demote"
+msgstr "הורדת רמה"
+
+msgid "Demote to Body Text"
+msgstr "הורדה לטקסט גוף"
+
+msgid "Derivative as a limit"
+msgstr "נגזרת כגבול"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "תארו מה מציג אובייקט זה, עבור אנשים שאינם יכולים לראות אותו."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "תארו מה מציגה טבלה זו, עבור אנשים שאינם יכולים לראות אותה."
+
+msgid "Design"
+msgstr "עיצוב"
+
+msgid "Design Mode"
+msgstr "מצב עיצוב"
+
+msgid "Detach Template"
+msgstr "ניתוק תבנית"
+
+msgid "Detect language automatically"
+msgstr "זיהוי שפה אוטומטי"
+
+msgid "Developer"
+msgstr "מפתחים"
+
+msgid "development build"
+msgstr "גרסת פיתוח"
+
+msgid "Diagonal Dots"
+msgstr "נקודות באלכסון"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "הכתבה"
+
+msgid "Dictionaries"
+msgstr "מילונים"
+
+msgid "Dictionaries folder:"
+msgstr "תיקיית מילונים:"
+
+msgid "Dictionary files"
+msgstr "קובצי מילון"
+
+msgid "Different First Page"
+msgstr "עמוד ראשון שונה"
+
+msgid "Different Odd & Even Pages"
+msgstr "עמודים זוגיים ואי-זוגיים שונים"
+
+msgid "Differential"
+msgstr "דיפרנציאל"
+
+msgid "Differential theta"
+msgstr "דיפרנציאל תטא"
+
+msgid "Differential x"
+msgstr "דיפרנציאל x"
+
+msgid "Differential y"
+msgstr "דיפרנציאל y"
+
+msgid "Differentials"
+msgstr "דיפרנציאלים"
+
+msgid "Direct formatting"
+msgstr "עיצוב ישיר"
+
+msgid "Directory"
+msgstr "מדריך"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "למחוק את עותק השחזור של {name}?"
+
+msgid "Discard…"
+msgstr "מחיקה…"
+
+msgid "Discord community"
+msgstr "קהילת Discord"
+
+msgid "Display for Review"
+msgstr "תצוגה לסקירה"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "טקסט לתצוגה"
+
+msgid "Distance from text"
+msgstr "מרחק מהטקסט"
+
+msgid "Distance from text:"
+msgstr "מרחק מהטקסט:"
+
+msgid "Distribute Columns"
+msgstr "פיזור עמודות"
+
+msgid "Distribute letters"
+msgstr "פיזור אותיות"
+
+msgid "Distribute Rows"
+msgstr "פיזור שורות"
+
+msgid "Distribute spacing"
+msgstr "פיזור ריווח"
+
+msgid "Distributed"
+msgstr "מפוזר"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "ללא בדיקת איות ודקדוק"
+
+msgid "Do not check spelling or grammar"
+msgstr "ללא בדיקת איות ודקדוק"
+
+msgid "DO NOT COPY"
+msgstr "אין להעתיק"
+
+msgid "Do Not Show in TOC"
+msgstr "לא להציג בתוכן העניינים"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "לשמור את השינויים ב-{name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "סוף המסמך"
+
+msgid "Document Formatting"
+msgstr "עיצוב מסמך"
+
+msgid "Document Grid"
+msgstr "רשת מסמך"
+
+msgid "Document Information"
+msgstr "מידע על המסמך"
+
+msgid "Document name"
+msgstr "שם המסמך"
+
+msgid "Document Property"
+msgstr "מאפיין מסמך"
+
+msgid "Document Start"
+msgstr "תחילת המסמך"
+
+msgid "Document template:"
+msgstr "תבנית מסמך:"
+
+msgid "Document Text"
+msgstr "טקסט המסמך"
+
+msgid "Document1"
+msgstr "מסמך1"
+
+msgid "Document\nPreferences"
+msgstr "העדפות\nמסמך"
+
+msgid "Documents you open will show up here."
+msgstr "מסמכים שתפתחו יופיעו כאן."
+
+msgid "Does not contain"
+msgstr "אינו מכיל"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "הרפובליקה הדומיניקנית"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "ללא הוספת רווח בין פסקאות באותו סגנון"
+
+msgid "Don't capitalize after:"
+msgstr "ללא אות רישית אחרי:"
+
+msgid "Don't hyphenate"
+msgstr "ללא מיקוף"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "ללא קריאת ציטוטים וביבליוגרפיות של Zotero, Mendeley או EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "לא להציג לי שוב את העצה הזו"
+
+msgid "Dot dash"
+msgstr "נקודה-קו"
+
+msgid "Dot-dash"
+msgstr "נקודה-קו"
+
+msgid "Dot-dot-dash"
+msgstr "נקודה-נקודה-קו"
+
+msgid "Double"
+msgstr "כפול"
+
+msgid "Double Bar"
+msgstr "קו כפול"
+
+msgid "Double Closing Quote"
+msgstr "מירכאות כפולות סוגרות"
+
+msgid "Double Dot"
+msgstr "נקודה כפולה"
+
+msgid "Double Integral"
+msgstr "אינטגרל כפול"
+
+msgid "Double Integral with Limits"
+msgstr "אינטגרל כפול עם גבולות"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "אינטגרל כפול עם גבולות מוערמים"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "חץ כפול שמאלה עם טקסט מעל"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "חץ כפול שמאלה עם טקסט מתחת"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "חץ כפול דו-כיווני עם טקסט מעל"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "חץ כפול דו-כיווני עם טקסט מתחת"
+
+msgid "Double Opening Quote"
+msgstr "מירכאות כפולות פותחות"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "חץ כפול ימינה עם טקסט מעל"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "חץ כפול ימינה עם טקסט מתחת"
+
+msgid "Double Spacing"
+msgstr "ריווח כפול"
+
+msgid "Double Square Brackets"
+msgstr "סוגריים מרובעים כפולים"
+
+msgid "Double Strikethrough"
+msgstr "קו חוצה כפול"
+
+msgid "Double strikethrough"
+msgstr "קו חוצה כפול"
+
+msgid "Double summation"
+msgstr "סכום כפול"
+
+msgid "Double Underline"
+msgstr "קו תחתון כפול"
+
+msgid "Double Vertical Bars"
+msgstr "קווים אנכיים כפולים"
+
+msgid "Doughnut"
+msgstr "טבעת"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "ההורדה כבויה. לחיצה על ״הוסף שפה…״ או ״התקן״ מפעילה אותה: אז WordCraft מוריד חבילות שפה וגופנים מ-GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "טיוטה"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "גררו מלבן כדי לצייר טבלה, או קו לרוחב תאים כדי לפצל אותם. Esc מפסיק."
+
+msgid "Draw Ink"
+msgstr "ציור בדיו"
+
+msgid "Draw Table"
+msgstr "ציור טבלה"
+
+msgid "Draw\nTable"
+msgstr "ציור\nטבלה"
+
+msgid "Drawing Canvas"
+msgstr "משטח ציור"
+
+msgid "Drawing Tools"
+msgstr "כלי ציור"
+
+msgid "Drawing\nCanvas"
+msgstr "משטח\nציור"
+
+msgid "Drop Cap"
+msgstr "אות פתיח"
+
+msgid "Drop cap"
+msgstr "אות פתיח"
+
+msgid "Drop Cap Options…"
+msgstr "אפשרויות אות פתיחה…"
+
+msgid "drop caps can't go in a table"
+msgstr "אי אפשר להוסיף אות פתיח בטבלה"
+
+msgid "Drop-Down List Content Control"
+msgstr "פקד תוכן של רשימה נפתחת"
+
+msgid "Dropped"
+msgstr "בטקסט"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "מסיר את כל העיצוב ומדביק טקסט פשוט."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "הולנדית, Nederlands או nl"
+
+msgid "E-mail Messages"
+msgstr "הודעות דואר אלקטרוני"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "אקוודור"
+
+msgid "Edit Comment"
+msgstr "עריכת הערה"
+
+msgid "Edit Data"
+msgstr "עריכת נתונים"
+
+msgid "Edit Document"
+msgstr "עריכת המסמך"
+
+msgid "Edit Equation"
+msgstr "עריכת משוואה"
+
+msgid "Edit Field Code"
+msgstr "עריכת קוד שדה"
+
+msgid "Edit Field…"
+msgstr "עריכת שדה…"
+
+msgid "Edit Footer"
+msgstr "עריכת כותרת תחתונה"
+
+msgid "Edit Header"
+msgstr "עריכת כותרת עליונה"
+
+msgid "Edit Individual Documents…"
+msgstr "עריכת מסמכים בודדים…"
+
+msgid "Edit Items"
+msgstr "עריכת פריטים"
+
+msgid "Edit Recipient List"
+msgstr "עריכת רשימת נמענים"
+
+msgid "Edit Source"
+msgstr "עריכת מקור"
+
+msgid "Edit\nData"
+msgstr "עריכת\nנתונים"
+
+msgid "Edit\nRecipient List"
+msgstr "עריכת\nרשימת נמענים"
+
+msgid "Edited"
+msgstr "נערך"
+
+msgid "Editing endnote"
+msgstr "עריכת הערת סיום"
+
+msgid "Editing footnote"
+msgstr "עריכת הערת שוליים"
+
+msgid "Editing header/footer"
+msgstr "עריכת כותרת עליונה/תחתונה"
+
+msgid "Editing in this document is restricted."
+msgstr "העריכה במסמך זה מוגבלת."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "עריכה — עריכת המסמך ישירות"
+
+msgid "Edition"
+msgstr "מהדורה"
+
+msgid "Editor"
+msgstr "עורך"
+
+msgid "Egypt"
+msgstr "מצרים"
+
+msgid "El Salvador"
+msgstr "אל סלבדור"
+
+msgid "Elbow Arrow Connector"
+msgstr "מחבר חץ מרפקי"
+
+msgid "Elbow Connector"
+msgstr "מחבר מרפקי"
+
+msgid "Emphasis"
+msgstr "הדגשה"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "מטריצות ריקות"
+
+msgid "Enclose Characters"
+msgstr "תיחום תווים"
+
+msgid "Enclosure"
+msgstr "מסגרת"
+
+msgid "Encrypt with Password"
+msgstr "הצפנה באמצעות סיסמה"
+
+msgid "Encrypt with Password…"
+msgstr "הצפנה באמצעות סיסמה…"
+
+msgid "End of document"
+msgstr "סוף המסמך"
+
+msgid "End of section"
+msgstr "סוף המקטע"
+
+msgid "End of Word"
+msgstr "סוף המילה"
+
+msgid "Endnote Reference"
+msgstr "הפניה להערת סיום"
+
+msgid "Endnote Text"
+msgstr "טקסט הערת סיום"
+
+msgid "Endnotes"
+msgstr "הערות סיום"
+
+msgid "Endnotes to footnotes"
+msgstr "הערות סיום להערות שוליים"
+
+msgid "English (Australia)"
+msgstr "אנגלית (אוסטרליה)"
+
+msgid "English (Canada)"
+msgstr "אנגלית (קנדה)"
+
+msgid "English (India)"
+msgstr "אנגלית (הודו)"
+
+msgid "English (Ireland)"
+msgstr "אנגלית (אירלנד)"
+
+msgid "English (New Zealand)"
+msgstr "אנגלית (ניו זילנד)"
+
+msgid "English (South Africa)"
+msgstr "אנגלית (דרום אפריקה)"
+
+msgid "English (United Kingdom)"
+msgstr "אנגלית (בריטניה)"
+
+msgid "English (United States)"
+msgstr "אנגלית (ארצות הברית)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "אנגלית, השפות של מסמך זה וכל חבילת שפה מותקנת. חבילות שפה מוסיפות מילוני איות והיפוך מילים."
+
+msgid "Engrave"
+msgstr "חריטה"
+
+msgid "Enlarge symbol"
+msgstr "הגדלת סמל"
+
+msgid "Enter a number."
+msgstr "יש להזין מספר."
+
+msgid "Enter bookmark name:"
+msgstr "יש להזין שם סימנייה:"
+
+msgid "Enter formatting for number:"
+msgstr "הזינו עיצוב למספר:"
+
+msgid "Enter in Equation"
+msgstr "כניסה למשוואה"
+
+msgid "Enter page number:"
+msgstr "הזינו מספר עמוד:"
+
+msgid "Entire caption"
+msgstr "הכיתוב כולו"
+
+msgid "Entry marked."
+msgstr "הערך סומן."
+
+msgid "Envelope #10"
+msgstr "מעטפה #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "מעטפה #10   4.12\" × 9.50\""
+
+msgid "Envelope Address"
+msgstr "כתובת על מעטפה"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "מעטפה DL   4.33\" × 8.66\""
+
+msgid "Envelope Return"
+msgstr "כתובת השולח על מעטפה"
+
+msgid "Envelope size:"
+msgstr "גודל מעטפה:"
+
+msgid "Envelopes"
+msgstr "מעטפות"
+
+msgid "Equal by Definition"
+msgstr "שווה בהגדרה"
+
+msgid "Equal column width"
+msgstr "רוחב עמודות שווה"
+
+msgid "Equal Equal"
+msgstr "שווה שווה"
+
+msgid "Equal to"
+msgstr "שווה ל"
+
+msgid "Equals:"
+msgstr "שווה ל:"
+
+msgid "Equation"
+msgstr "משוואה"
+
+msgid "Equation Gallery"
+msgstr "גלריית משוואות"
+
+msgid "Equation Info"
+msgstr "מידע על המשוואה"
+
+msgid "Equation Number"
+msgstr "מספר משוואה"
+
+msgid "Equation Options"
+msgstr "אפשרויות משוואה"
+
+msgid "Equatorial Guinea"
+msgstr "גינאה המשוונית"
+
+msgid "Erase Ink"
+msgstr "מחיקת דיו"
+
+msgid "Errors ({n})"
+msgstr "שגיאות ({n})"
+
+msgid "Esperanto"
+msgstr "אספרנטו"
+
+msgid "Estonian"
+msgstr "אסטונית"
+
+msgid "Euler's identity"
+msgstr "זהות אוילר"
+
+msgid "Even Banded Columns"
+msgstr "עמודות מפוספסות זוגיות"
+
+msgid "Even Banded Rows"
+msgstr "שורות מפוספסות זוגיות"
+
+msgid "Even Page"
+msgstr "עמוד זוגי"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "כל שינוי מתועד כשינוי במעקב."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "כל פקודה זמינה לסקריפטים ולסוכני AI: הריצו `wordcraft-cli mcp` לשרת MCP, או הפעילו את היישום עם `--control <port>` לערוץ הבקרה JSON."
+
+msgid "Every field needs a name."
+msgstr "לכל שדה נדרש שם."
+
+msgid "Everyone"
+msgstr "כולם"
+
+msgid "Exactly"
+msgstr "בדיוק"
+
+msgid "Exactly {n}"
+msgstr "בדיוק {n}"
+
+msgid "Exceptions (optional)"
+msgstr "חריגים (אופציונלי)"
+
+msgid "Exceptions…"
+msgstr "חריגים…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7.25\" × 10.50\""
+
+msgid "Existing File or Web Page"
+msgstr "קובץ או דף אינטרנט קיים"
+
+msgid "Expand or Collapse Heading"
+msgstr "הרחבה או כיווץ של כותרת"
+
+msgid "Exponential"
+msgstr "מעריכי"
+
+msgid "Exponential series"
+msgstr "טור מעריכי"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "ייצוא עותק לשיתוף (PDF, מסמך Word)"
+
+msgid "Export Page as PNG"
+msgstr "ייצוא עמוד כ-PNG"
+
+msgid "Extend Selection"
+msgstr "הרחבת הבחירה"
+
+msgid "Extend Selection by Units"
+msgstr "הרחבת הבחירה ביחידות"
+
+msgid "Extra space"
+msgstr "רווח נוסף"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "מהר יותר: {command} הוא {key} במקלדת."
+
+msgid "Field code:"
+msgstr "קוד שדה:"
+
+msgid "Field Codes"
+msgstr "קודי שדות"
+
+msgid "Field codes:"
+msgstr "קודי שדות:"
+
+msgid "Field name"
+msgstr "שם שדה"
+
+msgid "Field name:"
+msgstr "שם שדה:"
+
+msgid "Field names must be different."
+msgstr "שמות השדות חייבים להיות שונים."
+
+msgid "Field names:"
+msgstr "שמות שדות:"
+
+msgid "Field:"
+msgstr "שדה:"
+
+msgid "Field…"
+msgstr "שדה…"
+
+msgid "Figure"
+msgstr "איור"
+
+msgid "File locations"
+msgstr "מיקומי קבצים"
+
+msgid "File name:"
+msgstr "שם קובץ:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "קובץ › חדש מציג את תבניות ה-.dotx וה-.dotm שכאן תחת 'אישי'; שמירה כתבנית Word מתחילה כאן."
+
+msgid "Fill color:"
+msgstr "צבע מילוי:"
+
+msgid "Filling in forms"
+msgstr "מילוי טפסים"
+
+msgid "Film"
+msgstr "סרט"
+
+msgid "Filter and Sort"
+msgstr "סינון ומיון"
+
+msgid "Filter Recipients"
+msgstr "סינון נמענים"
+
+msgid "Find in list:"
+msgstr "חיפוש ברשימה:"
+
+msgid "Find Next Editable Region"
+msgstr "חיפוש האזור הבא הניתן לעריכה"
+
+msgid "Find Previous"
+msgstr "חיפוש הקודם"
+
+msgid "Find Recipient"
+msgstr "חיפוש נמען"
+
+msgid "Find What Expression"
+msgstr "ביטוי לחיפוש"
+
+msgid "Find What Text"
+msgstr "טקסט לחיפוש"
+
+msgid "Find what:"
+msgstr "טקסט לחיפוש:"
+
+msgid "Find “{text}” in the document"
+msgstr "חיפוש \"{text}\" במסמך"
+
+msgid "Finding printers…"
+msgstr "מחפש מדפסות…"
+
+msgid "Finish & Merge"
+msgstr "סיום ומיזוג"
+
+msgid "Finish &\nMerge"
+msgstr "סיום\nומיזוג"
+
+msgid "Finished"
+msgstr "הסתיים"
+
+msgid "Finland"
+msgstr "פינלנד"
+
+msgid "Finnish"
+msgstr "פינית"
+
+msgid "First Column"
+msgstr "עמודה ראשונה"
+
+msgid "First line"
+msgstr "שורה ראשונה"
+
+msgid "First line:"
+msgstr "שורה ראשונה:"
+
+msgid "First Name"
+msgstr "שם פרטי"
+
+msgid "First Record"
+msgstr "הרשומה הראשונה"
+
+msgid "First row of data contains column headers"
+msgstr "השורה הראשונה בנתונים מכילה כותרות עמודות"
+
+msgid "Fix Position on Page"
+msgstr "קיבוע מיקום בעמוד"
+
+msgid "Fixed Column Width"
+msgstr "רוחב עמודה קבוע"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "רצפה"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "אחרי המספר:"
+
+msgid "Font Color"
+msgstr "צבע גופן"
+
+msgid "Font color"
+msgstr "צבע גופן"
+
+msgid "Font color:"
+msgstr "צבע גופן:"
+
+msgid "Font Dialog"
+msgstr "חלון גופן"
+
+msgid "Font: {font}"
+msgstr "גופן: {font}"
+
+msgid "Font…"
+msgstr "גופן…"
+
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+msgid "Footnote and Endnote"
+msgstr "הערת שוליים והערת סיום"
+
+msgid "Footnote Reference"
+msgstr "הפניה להערת שוליים"
+
+msgid "Footnote Text"
+msgstr "טקסט הערת שוליים"
+
+msgid "Footnotes"
+msgstr "הערות שוליים"
+
+msgid "Footnotes and endnotes"
+msgstr "הערות שוליים והערות סיום"
+
+msgid "Footnotes to endnotes"
+msgstr "הערות שוליים להערות סיום"
+
+msgid "For which item:"
+msgstr "עבור איזה פריט:"
+
+msgid "Format Page Numbers"
+msgstr "עיצוב מספרי עמודים"
+
+msgid "Format Page Numbers…"
+msgstr "עיצוב מספרי עמודים…"
+
+msgid "Format Painter"
+msgstr "מברשת עיצוב"
+
+msgid "Format Shape"
+msgstr "עיצוב צורה"
+
+msgid "Format Shape Pane"
+msgstr "חלונית עיצוב צורה"
+
+msgid "Format Shape…"
+msgstr "עיצוב צורה…"
+
+msgid "Formatted"
+msgstr "מעוצב"
+
+msgid "Formatted Text"
+msgstr "טקסט מעוצב"
+
+msgid "Formatting"
+msgstr "עיצוב"
+
+msgid "Formatting at Selection"
+msgstr "העיצוב בבחירה"
+
+msgid "Formatting exceptions"
+msgstr "חריגי עיצוב"
+
+msgid "Formatting marks"
+msgstr "סימני עיצוב"
+
+msgid "Formatting saved for new documents:"
+msgstr ""
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "עיצוב, שינויי רישיות, רווחים לבנים וטבלאות מושווים; שאר ההגדרות נשמרות לשימוש מאוחר יותר."
+
+msgid "Formula"
+msgstr "נוסחה"
+
+msgid "Formula:"
+msgstr "נוסחה:"
+
+msgid "Forward"
+msgstr "קדימה"
+
+msgid "Fraction"
+msgstr "שבר"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "שברים (1/2) כתווי שבר (½)"
+
+msgid "Frames and effects"
+msgstr "מסגרות ואפקטים"
+
+msgid "France"
+msgstr "צרפת"
+
+msgid "French (France)"
+msgstr "צרפתית (צרפת)"
+
+msgid "From Bottom Left Corner"
+msgstr "מהפינה השמאלית התחתונה"
+
+msgid "From Bottom Right Corner"
+msgstr "מהפינה הימנית התחתונה"
+
+msgid "From Center"
+msgstr "מהמרכז"
+
+msgid "From text:"
+msgstr "מהטקסט:"
+
+msgid "From Top Left Corner"
+msgstr "מהפינה השמאלית העליונה"
+
+msgid "From Top Right Corner"
+msgstr "מהפינה הימנית העליונה"
+
+msgid "from Unicode (hex)"
+msgstr "מ-Unicode (הקס)"
+
+msgid "From {name}"
+msgstr "מתוך {name}"
+
+msgid "From:"
+msgstr "מ:"
+
+msgid "Full page of the same label"
+msgstr "עמוד מלא של אותה תווית"
+
+msgid "Full Saturation 100%"
+msgstr "רוויה מלאה 100%"
+
+msgid "Full Screen View"
+msgstr "תצוגת מסך מלא"
+
+msgid "Full\nScreen"
+msgstr "מסך\nמלא"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "עובדה משעשעת: דף ריק הוא פשוט טיוטה שעוד לא סיפרו לה."
+
+msgid "Function"
+msgstr "פונקציה"
+
+msgid "Galician"
+msgstr "גליסית"
+
+msgid "Gallery"
+msgstr "גלריה"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "גאורגית"
+
+msgid "German (Germany)"
+msgstr "גרמנית (גרמניה)"
+
+msgid "Germany"
+msgstr "גרמניה"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "מביא את רשימת חבילות השפה, ואז את חבילת השפה הזו אם קיימת."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "צבעי זוהר"
+
+msgid "Go Back"
+msgstr "חזרה"
+
+msgid "Go To"
+msgstr "מעבר אל"
+
+msgid "Go to"
+msgstr "מעבר אל"
+
+msgid "Go To (⌘⌥G)"
+msgstr "מעבר אל (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "מעבר לרשומה"
+
+msgid "Go to what:"
+msgstr "מעבר אל:"
+
+msgid "Go To…"
+msgstr "מעבר אל…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "נעלם! כאילו לא נכתב מעולם. בעיקר כי עכשיו באמת לא."
+
+msgid "Good afternoon"
+msgstr "צהריים טובים"
+
+msgid "Good evening"
+msgstr "ערב טוב"
+
+msgid "Good morning"
+msgstr "בוקר טוב"
+
+msgid "GOST (name sort)"
+msgstr "GOST (מיון לפי שם)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (מיון לפי כותרת)"
+
+msgid "Grab bag"
+msgstr "שונות"
+
+msgid "Gradient fill"
+msgstr "מילוי מדורג"
+
+msgid "Gradient stops"
+msgstr "נקודות מעבר צבע"
+
+msgid "Grammar built in"
+msgstr "דקדוק מובנה"
+
+msgid "Grave"
+msgstr "גרב"
+
+msgid "Gray 0%"
+msgstr "אפור 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "גדול מ"
+
+msgid "Greater than or equal"
+msgstr "גדול או שווה ל"
+
+msgid "Greek"
+msgstr "יוונית"
+
+msgid "Greek Letters"
+msgstr "אותיות יווניות"
+
+msgid "Green:"
+msgstr "ירוק:"
+
+msgid "Greeting Line"
+msgstr "שורת פתיחה"
+
+msgid "Greeting\nLine"
+msgstr "שורת\nפתיחה"
+
+msgid "Grid Table 1 Light"
+msgstr "טבלת רשת 1 בהירה"
+
+msgid "Grid Table 4 – Blue"
+msgstr "טבלת רשת 4 – כחול"
+
+msgid "Grid Table 4 – Green"
+msgstr "טבלת רשת 4 – ירוק"
+
+msgid "Grid Table 4 – Orange"
+msgstr "טבלת רשת 4 – כתום"
+
+msgid "Grid Table 4 – Purple"
+msgstr "טבלת רשת 4 – סגול"
+
+msgid "Gridlines"
+msgstr "קווי רשת"
+
+msgid "Grouping Character Above"
+msgstr "תו קיבוץ מעל"
+
+msgid "Grouping Character Below"
+msgstr "תו קיבוץ מתחת"
+
+msgid "Grow Font 1 Point"
+msgstr "הגדלת גופן בנקודה אחת"
+
+msgid "Guatemala"
+msgstr "גואטמלה"
+
+msgid "H:"
+msgstr "ג:"
+
+msgid "Hanging Indent"
+msgstr "כניסה תלויה"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "כובע"
+
+msgid "Header"
+msgstr "כותרת עליונה"
+
+msgid "Header & Footer"
+msgstr "כותרת עליונה ותחתונה"
+
+msgid "Header Row"
+msgstr "שורת כותרת"
+
+msgid "Header row"
+msgstr "שורת כותרת"
+
+msgid "Header/Footer Position"
+msgstr "מיקום כותרת עליונה/תחתונה"
+
+msgid "Headers and footers"
+msgstr "כותרות עליונות ותחתונות"
+
+msgid "Heading"
+msgstr "כותרת"
+
+msgid "Heading 1"
+msgstr "כותרת 1"
+
+msgid "Heading 2"
+msgstr "כותרת 2"
+
+msgid "Heading 3"
+msgstr "כותרת 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "סגנונות כותרת (רמות 1–{n})"
+
+msgid "Heading text"
+msgstr "טקסט הכותרת"
+
+msgid "Heading {n}"
+msgstr "כותרת {n}"
+
+msgid "Hebrew"
+msgstr "עברית"
+
+msgid "Hex:"
+msgstr "הקס:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "היי! אני Nib, עוזר הכתיבה שלך. אני מציע עצות, קיצורי דרך ומדי פעם גם דעה שלא ביקשו. להישאר?"
+
+msgid "Hidden bookmarks"
+msgstr "סימניות מוסתרות"
+
+msgid "Hide Codes"
+msgstr "הסתרת קודים"
+
+msgid "Hide from style lists"
+msgstr "הסתרה מרשימות הסגנונות"
+
+msgid "Hide Ink"
+msgstr "הסתרת דיו"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "הסתרת סרגל הכלים לגישה מהירה"
+
+msgid "Hide White Space"
+msgstr "הסתרת רווח לבן"
+
+msgid "Hide\nInk"
+msgstr "הסתרת\nדיו"
+
+msgid "Hierarchy"
+msgstr "היררכיה"
+
+msgid "Highlight"
+msgstr "סימון"
+
+msgid "Highlight Merge Fields"
+msgstr "סימון שדות מיזוג"
+
+msgid "Highlight\nMerge Fields"
+msgstr "סימון\nשדות מיזוג"
+
+msgid "Highlighter"
+msgstr "מרקר"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "הודיות"
+
+msgid "Home folder"
+msgstr "תיקיית הבית"
+
+msgid "Honduras"
+msgstr "הונדורס"
+
+msgid "Hong Kong SAR"
+msgstr "אזור מנהלי מיוחד הונג קונג"
+
+msgid "Horizontal Line"
+msgstr "קו אופקי"
+
+msgid "How many pages the whole document has"
+msgstr "מספר העמודים במסמך כולו"
+
+msgid "How many pages this section has"
+msgstr "מספר העמודים במקטע זה"
+
+msgid "How many words the document holds"
+msgstr "מספר המילים במסמך"
+
+msgid "HTML Format"
+msgstr "תבנית HTML"
+
+msgid "Hue:"
+msgstr "גוון:"
+
+msgid "Hungarian"
+msgstr "הונגרית"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "קובצי aff. ו-dic. של Hunspell שבתיקייה זו (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) משמשים לפני אלה של המערכת."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "פונקציית קוסקנס היפרבולי"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "פונקציית קוסינוס היפרבולי"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "פונקציית קוטנגנס היפרבולי"
+
+msgid "Hyperbolic Functions"
+msgstr "פונקציות היפרבוליות"
+
+msgid "Hyperbolic Secant Function"
+msgstr "פונקציית סקנס היפרבולי"
+
+msgid "Hyperbolic Sine Function"
+msgstr "פונקציית סינוס היפרבולי"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "פונקציית טנגנס היפרבולי"
+
+msgid "Hyperlink"
+msgstr "היפר-קישור"
+
+msgid "Hyphenate at:"
+msgstr "הוספת מקף ב:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "מיקוף מילים באותיות רישיות"
+
+msgid "Hyphenation Options…"
+msgstr "אפשרויות מיקוף…"
+
+msgid "Hyphenation zone:"
+msgstr "אזור מיקוף:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "מקפים (--) כקווים מפרידים (—)"
+
+msgid "Hypotenuse"
+msgstr "יתר"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "אני מבטיח שזה שמור. בדקתי. פעמיים."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "הייתי כותב משהו בעצמי, אבל אני כולי חוד ובלי טיפת דיו."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "איסלנדית"
+
+msgid "Icon Color"
+msgstr "צבע סמל"
+
+msgid "Icons"
+msgstr "סמלים"
+
+msgid "Identity Matrices"
+msgstr "מטריצות יחידה"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "אם…אז…אחרת"
+
+msgid "If…Then…Else…"
+msgstr "אם…אז…אחרת…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "התעלמות מסימני פיסוק"
+
+msgid "Ignore web and file addresses"
+msgstr "התעלמות מכתובות אינטרנט וקבצים"
+
+msgid "Ignore white-space characters"
+msgstr "התעלמות מתווי רווח לבן"
+
+msgid "Ignore words in capitals"
+msgstr "התעלמות ממילים באותיות רישיות"
+
+msgid "Ignore words with numbers"
+msgstr "התעלמות ממילים עם מספרים"
+
+msgid "Illustrations"
+msgstr "איורים"
+
+msgid "Immersive"
+msgstr "סוחף"
+
+msgid "Immersive Reader"
+msgstr "קורא סוחף"
+
+msgid "Immersive\nReader"
+msgstr "קורא\nסוחף"
+
+msgid "Imported 1 source"
+msgstr "מקורות שיובאו: 1"
+
+msgid "Imported {n} sources"
+msgstr "מקורות שיובאו: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "ב'אפליקציות ברירת מחדל', בחרו ב-WordCraft עבור סוגי המסמכים שברצונכם שייפתחו בו."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "במשוואות, הקלדת שם אחרי לוכסן הפוך מחליפה אותו בסמל שלו."
+
+msgid "In Front of Text"
+msgstr "לפני הטקסט"
+
+msgid "In Line with Text"
+msgstr "בשורה עם הטקסט"
+
+msgid "In margin"
+msgstr "בשוליים"
+
+msgid "In the margin"
+msgstr "בשוליים"
+
+msgid "Include label and number"
+msgstr "כולל תווית ומספר"
+
+msgid "Include level number from:"
+msgstr "הכללת מספר רמה מתוך:"
+
+msgid "Include page numbers"
+msgstr "הכללת מספרי עמודים"
+
+msgid "Increase Indent"
+msgstr "הגדלת כניסה"
+
+msgid "Indent"
+msgstr "כניסה"
+
+msgid "Indent from left:"
+msgstr "כניסה משמאל:"
+
+msgid "Indentation"
+msgstr "כניסה"
+
+msgid "Indented"
+msgstr "עם כניסה"
+
+msgid "Indents"
+msgstr "כניסות"
+
+msgid "Indents and Spacing"
+msgstr "כניסות וריווח"
+
+msgid "Index and Tables"
+msgstr "אינדקס וטבלאות"
+
+msgid "Index Heading"
+msgstr "כותרת אינדקס"
+
+msgid "Index {n}"
+msgstr "אינדקס {n}"
+
+msgid "India"
+msgstr "הודו"
+
+msgid "Indonesian"
+msgstr "אינדונזית"
+
+msgid "Initial column width:"
+msgstr "רוחב עמודה התחלתי:"
+
+msgid "Initials:"
+msgstr "ראשי תיבות:"
+
+msgid "Ink"
+msgstr "דיו"
+
+msgid "Ink Replay"
+msgstr "הפעלה חוזרת של דיו"
+
+msgid "Ink to Shape"
+msgstr "דיו לצורה"
+
+msgid "Ink to\nMath"
+msgstr "דיו\nלמתמטיקה"
+
+msgid "Ink to\nShape"
+msgstr "דיו\nלצורה"
+
+msgid "Ink\nReplay"
+msgstr "הפעלה חוזרת\nשל דיו"
+
+msgid "Inline"
+msgstr "בשורה"
+
+msgid "Input Format"
+msgstr "תבנית קלט"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "הוספת משוואה חדשה (Alt+=)"
+
+msgid "Insert Above"
+msgstr "הוספה מעל"
+
+msgid "Insert Below"
+msgstr "הוספה מתחת"
+
+msgid "Insert Caption"
+msgstr "הוספת כיתוב"
+
+msgid "Insert Caption…"
+msgstr "הוספת כיתוב…"
+
+msgid "Insert Chart"
+msgstr "הוספת תרשים"
+
+msgid "Insert Citation"
+msgstr "הוספת ציטוט"
+
+msgid "Insert Columns to the Left"
+msgstr "הוספת עמודות משמאל"
+
+msgid "Insert Columns to the Right"
+msgstr "הוספת עמודות מימין"
+
+msgid "Insert Date Field"
+msgstr "הוספת שדה תאריך"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "הוספת הערת סיום"
+
+msgid "Insert Footnote"
+msgstr "הוספת הערת שוליים"
+
+msgid "Insert Hyperlink"
+msgstr "הוספת היפר-קישור"
+
+msgid "Insert Index"
+msgstr "הוספת אינדקס"
+
+msgid "Insert Left"
+msgstr "הוספה משמאל"
+
+msgid "Insert Merge Field"
+msgstr "הוספת שדה מיזוג"
+
+msgid "Insert Merge\nField"
+msgstr "הוספת שדה\nמיזוג"
+
+msgid "Insert New Equation"
+msgstr "הוספת משוואה חדשה"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "הוספת טקסט אחד או אחר, בהתאם לערך של שדה."
+
+msgid "Insert Page Field"
+msgstr "הוספת שדה עמוד"
+
+msgid "Insert reference to:"
+msgstr "הוספת הפניה אל:"
+
+msgid "Insert Right"
+msgstr "הוספה מימין"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "הוספת שורה או עמודה בלחיצה"
+
+msgid "Insert Rows Above"
+msgstr "הוספת שורות מעל"
+
+msgid "Insert Rows Below"
+msgstr "הוספת שורות מתחת"
+
+msgid "Insert Shapes"
+msgstr "הוספת צורות"
+
+msgid "Insert SmartArt"
+msgstr "הוספת SmartArt"
+
+msgid "Insert Spike"
+msgstr "הוספת אוסף הגזירות"
+
+msgid "Insert Structure"
+msgstr "הוספת מבנה"
+
+msgid "Insert Symbol"
+msgstr "הוספת סמל"
+
+msgid "Insert Table"
+msgstr "הוספת טבלה"
+
+msgid "Insert Table of Authorities"
+msgstr "הוספת טבלת מקורות"
+
+msgid "Insert Table of Figures"
+msgstr "הוספת טבלת איורים"
+
+msgid "Insert Table…"
+msgstr "הוספת טבלה…"
+
+msgid "Insert Time Field"
+msgstr "הוספת שדה שעה"
+
+msgid "Insert\nAbove"
+msgstr "הוספה\nמעל"
+
+msgid "Insert\nCaption"
+msgstr "הוספת\nכיתוב"
+
+msgid "Insert\nCitation"
+msgstr "הוספת\nציטוט"
+
+msgid "Insert\nFootnote"
+msgstr "הוספת\nהערת שוליים"
+
+msgid "Insertions and Deletions"
+msgstr "הוספות ומחיקות"
+
+msgid "Insertions:"
+msgstr "הוספות:"
+
+msgid "Inside Borders"
+msgstr "גבולות פנימיים"
+
+msgid "Inside Horizontal Border"
+msgstr "גבול אופקי פנימי"
+
+msgid "Inside Vertical Border"
+msgstr "גבול אנכי פנימי"
+
+msgid "Inside:"
+msgstr "פנימי:"
+
+msgid "Inspect Styles at Selection"
+msgstr "בדיקת הסגנונות בבחירה"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "התקן איות ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "מוסד"
+
+msgid "Integral"
+msgstr "אינטגרל"
+
+msgid "Integral of e^(−x²)"
+msgstr "אינטגרל של e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "אינטגרל עם גבולות"
+
+msgid "Integral with Stacked Limits"
+msgstr "אינטגרל עם גבולות מוערמים"
+
+msgid "Integrals"
+msgstr "אינטגרלים"
+
+msgid "Intense Emphasis"
+msgstr "הדגשה חזקה"
+
+msgid "Intense Quote"
+msgstr "ציטוט חזק"
+
+msgid "Intense Reference"
+msgstr "הפניה חזקה"
+
+msgid "Interface language:"
+msgstr "שפת הממשק:"
+
+msgid "Interface size:"
+msgstr "גודל הממשק:"
+
+msgid "Interface theme:"
+msgstr "ערכת נושא לממשק:"
+
+msgid "Interface\nTheme"
+msgstr "ערכת נושא\nלממשק"
+
+msgid "Internet addresses as links"
+msgstr "כתובות אינטרנט כקישורים"
+
+msgid "Intersection with Limits"
+msgstr "חיתוך עם גבולות"
+
+msgid "Intersection with Lower Limit"
+msgstr "חיתוך עם גבול תחתון"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "חיתוך עם גבולות כתב תחתי ועילי"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "פונקציית קוסקנס הפוכה"
+
+msgid "Inverse Cosine Function"
+msgstr "פונקציית קוסינוס הפוכה"
+
+msgid "Inverse Cotangent Function"
+msgstr "פונקציית קוטנגנס הפוכה"
+
+msgid "Inverse Functions"
+msgstr "פונקציות הפוכות"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "פונקציית קוסקנס היפרבולי הפוכה"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "פונקציית קוסינוס היפרבולי הפוכה"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "פונקציית קוטנגנס היפרבולי הפוכה"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "פונקציות היפרבוליות הפוכות"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "פונקציית סקנס היפרבולי הפוכה"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "פונקציית סינוס היפרבולי הפוכה"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "פונקציית טנגנס היפרבולי הפוכה"
+
+msgid "Inverse Secant Function"
+msgstr "פונקציית סקנס הפוכה"
+
+msgid "Inverse Sine Function"
+msgstr "פונקציית סינוס הפוכה"
+
+msgid "Inverse Tangent Function"
+msgstr "פונקציית טנגנס הפוכה"
+
+msgid "Ionosphere"
+msgstr "יונוספרה"
+
+msgid "Iraq"
+msgstr "עיראק"
+
+msgid "Ireland"
+msgstr "אירלנד"
+
+msgid "Irish"
+msgstr "אירית"
+
+msgid "Is blank"
+msgstr "ריק"
+
+msgid "Is not blank"
+msgstr "אינו ריק"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (מחבר-תאריך)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (מספרי)"
+
+msgid "Issue"
+msgstr "גיליון"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "נראה שכותבים כאן מכתב. רוצים מעטפה בשבילו, או תבנית מכתב להתחיל ממנה?"
+
+msgid "Italy"
+msgstr "איטליה"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "לא ניתן היה לקרוא את המילון שלה: {reason}"
+
+msgid "Jamaica"
+msgstr "ג'מייקה"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "הצטרפו לקהילת ArtCraft ב-Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "הצטרפו אלינו ב-Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "ירדן"
+
+msgid "Journal"
+msgstr "כתב עת"
+
+msgid "Journal article"
+msgstr "מאמר בכתב עת"
+
+msgid "Justification of a display equation"
+msgstr "יישור של משוואת תצוגה"
+
+msgid "Justified"
+msgstr "מיושר לשני הצדדים"
+
+msgid "Kazakhstan"
+msgstr "קזחסטן"
+
+msgid "Keep Lines Together"
+msgstr "שמירת שורות יחד"
+
+msgid "Keep lines together"
+msgstr "שמירת שורות יחד"
+
+msgid "Keep me around"
+msgstr "שיישאר"
+
+msgid "Keep Text Only"
+msgstr "שמירת טקסט בלבד"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "שמרו את הסיסמה במקום בטוח: בלעדיה אף אחד, כולל WordCraft, לא יוכל לפתוח את המסמך. השאירו את שתי התיבות ריקות כדי להסיר את הסיסמה."
+
+msgid "Keep with Next"
+msgstr "שמירה עם הבא"
+
+msgid "Keep with next"
+msgstr "שמירה עם הבא"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "שומר על הגופנים והעיצוב של הטקסט שהועתק."
+
+msgid "Kerning for fonts:"
+msgstr "קירוב אותיות בגופנים:"
+
+msgid "Keyboard shortcuts:"
+msgstr "קיצורי מקשים:"
+
+msgid "Keys for this command:"
+msgstr "מקשים לפקודה זו:"
+
+msgid "Kuwait"
+msgstr "כווית"
+
+msgid "Label changes with:"
+msgstr "התווית משתנה עם:"
+
+msgid "Label:"
+msgstr "תווית:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "העדפות שפה…"
+
+msgid "Large\nOperator"
+msgstr "אופרטור\nגדול"
+
+msgid "Largest Only"
+msgstr "הגדול ביותר בלבד"
+
+msgid "Lasso Select"
+msgstr "בחירה בלאסו"
+
+msgid "Last Column"
+msgstr "עמודה אחרונה"
+
+msgid "Last Name"
+msgstr "שם משפחה"
+
+msgid "Last Record"
+msgstr "הרשומה האחרונה"
+
+msgid "Last, First; Last, First"
+msgstr "משפחה, פרטי; משפחה, פרטי"
+
+msgid "Latin text font:"
+msgstr "גופן לטקסט לטיני:"
+
+msgid "Latvian"
+msgstr "לטבית"
+
+msgid "Layout Summary"
+msgstr "סיכום פריסה"
+
+msgid "Layouts"
+msgstr "פריסות"
+
+msgid "Leader"
+msgstr "תו מילוי"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "השמטת נמען מהמיזוג כאשר לשדה יש ערך זה."
+
+msgid "Leave Equation"
+msgstr "יציאה מהמשוואה"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "השמטת התאריך והשעה של הערות ושינויים במעקב בעת השמירה"
+
+msgid "Leave the equation (Esc)"
+msgstr "יציאה מהמשוואה (Esc)"
+
+msgid "leave the equation first"
+msgstr "יש לצאת קודם מהמשוואה"
+
+msgid "Leave the label out of the caption"
+msgstr "השמטת התווית מהכיתוב"
+
+msgid "Lebanon"
+msgstr "לבנון"
+
+msgid "Left Arrow with Text Above"
+msgstr "חץ שמאלה עם טקסט מעל"
+
+msgid "Left Arrow with Text Below"
+msgstr "חץ שמאלה עם טקסט מתחת"
+
+msgid "Left Border"
+msgstr "גבול שמאלי"
+
+msgid "Left border"
+msgstr "גבול שמאלי"
+
+msgid "Left Bracket Twice"
+msgstr "סוגר שמאלי פעמיים"
+
+msgid "Left indent"
+msgstr "כניסה משמאל"
+
+msgid "Left Margin"
+msgstr "שוליים שמאליים"
+
+msgid "Left Only"
+msgstr "שמאל בלבד"
+
+msgid "Left Right Arrow Above"
+msgstr "חץ דו-כיווני מעל"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "חץ דו-כיווני עם טקסט מעל"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "חץ דו-כיווני עם טקסט מתחת"
+
+msgid "Left Subscript-Superscript"
+msgstr "כתב תחתי ועילי משמאל"
+
+msgid "Left-to-right"
+msgstr "משמאל לימין"
+
+msgid "Left-to-Right Text Direction"
+msgstr "כיוון טקסט משמאל לימין"
+
+msgid "Leftwards Arrow Above"
+msgstr "חץ שמאלה מעל"
+
+msgid "Leftwards Harpoon Above"
+msgstr "צלצל שמאלה מעל"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8.50\" × 14.00\""
+
+msgid "Legal style numbering"
+msgstr "מספור בסגנון משפטי"
+
+msgid "Legend"
+msgstr "מקרא"
+
+msgid "Less Contrast −20%"
+msgstr "פחות ניגודיות −20%"
+
+msgid "Less than"
+msgstr "קטן מ"
+
+msgid "Less than or equal"
+msgstr "קטן או שווה ל"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "מכתב"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8.50\" × 11.00\""
+
+msgid "Letter headings"
+msgstr "כותרות עם אותיות"
+
+msgid "Letter template"
+msgstr "תבנית מכתב"
+
+msgid "Letter-Like Symbols"
+msgstr "סמלים דמויי אותיות"
+
+msgid "Letters"
+msgstr "מכתבים"
+
+msgid "Level 5"
+msgstr "רמה 5"
+
+msgid "Level 6"
+msgstr "רמה 6"
+
+msgid "Level 7"
+msgstr "רמה 7"
+
+msgid "Level 8"
+msgstr "רמה 8"
+
+msgid "Level 9"
+msgstr "רמה 9"
+
+msgid "Level {n}"
+msgstr "רמה {n}"
+
+msgid "Levels:"
+msgstr "רמות:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "ליכטנשטיין"
+
+msgid "Light Variations"
+msgstr "וריאציות בהירות"
+
+msgid "Light with Outline"
+msgstr "בהיר עם קו מתאר"
+
+msgid "Limit"
+msgstr "גבול"
+
+msgid "Limit and"
+msgstr "גבול ו"
+
+msgid "Limit and\nLog"
+msgstr "גבול\nולוגריתם"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "הגבלת מקפים רצופים ל:"
+
+msgid "Limit Example"
+msgstr "דוגמת גבול"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "הגבלת העיצוב למבחר סגנונות"
+
+msgid "Line and Page Breaks"
+msgstr "מעברי שורה ועמוד"
+
+msgid "Line and Paragraph Spacing"
+msgstr "ריווח שורות ופסקאות"
+
+msgid "Line between"
+msgstr "קו מפריד"
+
+msgid "Line Break"
+msgstr "מעבר שורה"
+
+msgid "Line breaking"
+msgstr "שבירת שורות"
+
+msgid "Line End"
+msgstr "סוף השורה"
+
+msgid "Line Number"
+msgstr "מספר שורה"
+
+msgid "Line Numbering Options…"
+msgstr "אפשרויות מספור שורות…"
+
+msgid "Line Numbers"
+msgstr "מספרי שורות"
+
+msgid "Line Spacing"
+msgstr "ריווח שורות"
+
+msgid "Line Spacing Options…"
+msgstr "אפשרויות מרווח בין שורות…"
+
+msgid "Line spacing:"
+msgstr "מרווח בין שורות:"
+
+msgid "Line Start"
+msgstr "תחילת השורה"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "לינארי באלכסון - משמאל למטה לימין למעלה"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "לינארי באלכסון - מימין למטה לשמאל למעלה"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "לינארי באלכסון - משמאל למעלה לימין למטה"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "לינארי באלכסון - מימין למעלה לשמאל למטה"
+
+msgid "Linear Down"
+msgstr "לינארי למטה"
+
+msgid "Linear Fraction"
+msgstr "שבר לינארי"
+
+msgid "Linear Left"
+msgstr "לינארי שמאלה"
+
+msgid "Linear Right"
+msgstr "לינארי ימינה"
+
+msgid "Linear Up"
+msgstr "לינארי למעלה"
+
+msgid "Lines and characters"
+msgstr "שורות ותווים"
+
+msgid "Lines only"
+msgstr "שורות בלבד"
+
+msgid "Lines per page:"
+msgstr "שורות בעמוד:"
+
+msgid "Lines to drop:"
+msgstr "מספר שורות לאות:"
+
+msgid "Link entries to their headings"
+msgstr "קישור ערכים לכותרות שלהם"
+
+msgid "Link level to style:"
+msgstr "קישור רמה לסגנון:"
+
+msgid "Link to Previous"
+msgstr "קישור לקודם"
+
+msgid "Link to:"
+msgstr "קישור אל:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "סגנון מקושר (פסקה ותו)"
+
+msgid "Links and References"
+msgstr "קישורים והפניות"
+
+msgid "Link…"
+msgstr "קישור…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "הגדרת רשימה"
+
+msgid "List entries"
+msgstr "ערכי רשימה"
+
+msgid "List Paragraph"
+msgstr "פסקת רשימה"
+
+msgid "List Table 3 – Blue"
+msgstr "טבלת רשימה 3 – כחול"
+
+msgid "List Table 3 – Green"
+msgstr "טבלת רשימה 3 – ירוק"
+
+msgid "List Table 3 – Orange"
+msgstr "טבלת רשימה 3 – כתום"
+
+msgid "List Table 3 – Purple"
+msgstr "טבלת רשימה 3 – סגול"
+
+msgid "Lit from Bottom"
+msgstr "מואר מלמטה"
+
+msgid "Lit from Top"
+msgstr "מואר מלמעלה"
+
+msgid "Lithuanian"
+msgstr "ליטאית"
+
+msgid "Load System Installed Fonts…"
+msgstr "טעינת הגופנים המותקנים במערכת…"
+
+msgid "Loaded {count} system fonts."
+msgstr "נטענו גופני מערכת: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "הדפדפן אינו תומך בגישה לגופנים מקומיים."
+
+msgid "Local font access was denied."
+msgstr "הגישה לגופנים מקומיים נדחתה."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "השחזור המקומי אינו זמין או שהוא עדיין נטען."
+
+msgid "Location: {path}"
+msgstr "מיקום: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "נעילת יחס גובה-רוחב"
+
+msgid "Lock Fields"
+msgstr "נעילת שדות"
+
+msgid "Log"
+msgstr "יומן"
+
+msgid "Logarithm"
+msgstr "לוגריתם"
+
+msgid "Logarithm with Base"
+msgstr "לוגריתם עם בסיס"
+
+msgid "Logical AND"
+msgstr "AND לוגי"
+
+msgid "Logical AND with Limits"
+msgstr "AND לוגי עם גבולות"
+
+msgid "Logical OR"
+msgstr "OR לוגי"
+
+msgid "Logical OR with Limits"
+msgstr "OR לוגי עם גבולות"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: כי המילים האמיתיות עדיין בבית הקפה."
+
+msgid "Lum:"
+msgstr "בהירות:"
+
+msgid "Luxembourg"
+msgstr "לוקסמבורג"
+
+msgid "Macao SAR"
+msgstr "אזור מנהלי מיוחד מקאו"
+
+msgid "Macedonian"
+msgstr "מקדונית"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "פקודות מאקרו"
+
+msgid "Made from the author and year when empty"
+msgstr "נוצר מהמחבר והשנה כאשר השדה ריק"
+
+msgid "Magazine or newspaper article"
+msgstr "מאמר בכתב עת או בעיתון"
+
+msgid "Mail Merge"
+msgstr "מיזוג דואר"
+
+msgid "Mailings"
+msgstr "דברי דואר"
+
+msgid "Main entry:"
+msgstr "ערך ראשי:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "הגדרת WordCraft כברירת המחדל למסמכי Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "הגדלה או הקטנה של רצועת הכלים, התפריטים ותיבות הדו-שיח. \"אוטומטי\" פועל לפי קנה המידה של התצוגה במערכת; 100% הם פיקסל מסך אחד לכל נקודה. התקריב של המסמך נפרד."
+
+msgid "Malaysia"
+msgstr "מלזיה"
+
+msgid "Manage Sources"
+msgstr "ניהול מקורות"
+
+msgid "Manage Styles"
+msgstr "ניהול סגנונות"
+
+msgid "Manage Styles…"
+msgstr "ניהול סגנונות…"
+
+msgid "Manual Hyphenation"
+msgstr "מיקוף ידני"
+
+msgid "Manual hyphenation is complete."
+msgstr "המיקוף הידני הושלם."
+
+msgid "Manual Line Break"
+msgstr "מעבר שורה ידני"
+
+msgid "Manual Page Break"
+msgstr "מעבר עמוד ידני"
+
+msgid "Manual…"
+msgstr "ידני…"
+
+msgid "Many pages"
+msgstr "עמודים רבים"
+
+msgid "Mark"
+msgstr "סימון"
+
+msgid "Mark All"
+msgstr "סימון הכול"
+
+msgid "Mark as decorative"
+msgstr "סימון כדקורטיבי"
+
+msgid "Mark Citation"
+msgstr "סימון ציטוט"
+
+msgid "Mark Entry"
+msgstr "סימון ערך"
+
+msgid "Mark Entry…"
+msgstr "סימון ערך…"
+
+msgid "Mark grammar errors as you type"
+msgstr "סימון שגיאות דקדוק בזמן ההקלדה"
+
+msgid "Mark Index Entry"
+msgstr "סימון ערך אינדקס"
+
+msgid "Mark selected text as:"
+msgstr "סימון הטקסט הנבחר כ:"
+
+msgid "Mark\nCitation"
+msgstr "סימון\nציטוט"
+
+msgid "Mark\nEntry"
+msgstr "סימון\nערך"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "התאמת רישיות"
+
+msgid "Match Fields"
+msgstr "התאמת שדות"
+
+msgid "Match prefix"
+msgstr "התאמת תחילית"
+
+msgid "Match suffix"
+msgstr "התאמת סיומת"
+
+msgid "Matches: {count}"
+msgstr "התאמות: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "תיקון אוטומטי במתמטיקה"
+
+msgid "Matrices with Brackets"
+msgstr "מטריצות עם סוגריים"
+
+msgid "Matrix"
+msgstr "מטריצה"
+
+msgid "Maximum Example"
+msgstr "דוגמת מקסימום"
+
+msgid "Measured By"
+msgstr "נמדד לפי"
+
+msgid "Measurement units:"
+msgstr "יחידות מידה:"
+
+msgid "Merge cells before split"
+msgstr "מיזוג תאים לפני הפיצול"
+
+msgid "Merge Formatting"
+msgstr "מיזוג עיצוב"
+
+msgid "Merge Record #"
+msgstr "רשומת מיזוג מס'"
+
+msgid "Mesosphere"
+msgstr "מזוספרה"
+
+msgid "Mexico"
+msgstr "מקסיקו"
+
+msgid "Midline Dots"
+msgstr "נקודות באמצע השורה"
+
+msgid "Minus Equal"
+msgstr "מינוס שווה"
+
+msgid "Mirror indents"
+msgstr "כניסות במראה"
+
+msgid "Mirror margins"
+msgstr "שוליים במראה"
+
+msgid "Mirrored"
+msgstr "מראה"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "מ\"מ"
+
+msgid "Moderate"
+msgstr "בינוני"
+
+msgid "Modify Style"
+msgstr "שינוי סגנון"
+
+msgid "Modify Table Style"
+msgstr "שינוי סגנון טבלה"
+
+msgid "Modify Table Style…"
+msgstr "שינוי סגנון טבלה…"
+
+msgid "Modify…"
+msgstr "שינוי…"
+
+msgid "Mon"
+msgstr "ב'"
+
+msgid "Monaco"
+msgstr "מונקו"
+
+msgid "Montenegro"
+msgstr "מונטנגרו"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "More >>"
+msgstr "עוד >>"
+
+msgid "More Colors…"
+msgstr "צבעים נוספים…"
+
+msgid "More Columns…"
+msgstr "עמודות נוספות…"
+
+msgid "More Commands…"
+msgstr "פקודות נוספות…"
+
+msgid "More Contrast +20%"
+msgstr "יותר ניגודיות +20%"
+
+msgid "More Gradients…"
+msgstr "מעברי צבע נוספים…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "גודלי נייר נוספים…"
+
+msgid "More Symbols…"
+msgstr "סמלים נוספים…"
+
+msgid "More tabs"
+msgstr "כרטיסיות נוספות"
+
+msgid "More templates →"
+msgstr "תבניות נוספות →"
+
+msgid "More Underlines…"
+msgstr "קווים תחתונים נוספים…"
+
+msgid "Morocco"
+msgstr "מרוקו"
+
+msgid "Move in Equation"
+msgstr "הזזה בתוך המשוואה"
+
+msgid "Move or Resize"
+msgstr "הזזה או שינוי גודל"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "הזזת פסקה למטה"
+
+msgid "Move Paragraph Up"
+msgstr "הזזת פסקה למעלה"
+
+msgid "Move Past Citation"
+msgstr "מעבר אל מעבר לציטוט"
+
+msgid "Move Past\nCitation"
+msgstr "מעבר אל מעבר\nלציטוט"
+
+msgid "Move Selected Ink"
+msgstr "הזזת דיו נבחר"
+
+msgid "Move Table by Dragging"
+msgstr "הזזת טבלה בגרירה"
+
+msgid "Move with Text"
+msgstr "הזזה עם הטקסט"
+
+msgid "Moved from"
+msgstr "הועבר מ-"
+
+msgid "Moved from:"
+msgstr "הועבר מ:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "אובייקטים שמוזזים נצמדים לקצוות העמוד ולמרכזו, לשוליים ולאובייקטים אחרים. יש להחזיק את Alt כדי להזיז בחופשיות."
+
+msgid "Moved to"
+msgstr "הועבר אל"
+
+msgid "Moved to:"
+msgstr "הועבר אל:"
+
+msgid "Moves"
+msgstr "העברות"
+
+msgid "Mozambique"
+msgstr "מוזמביק"
+
+msgid "Multilevel List"
+msgstr "רשימה מרובת רמות"
+
+msgid "Multilevel List Library"
+msgstr "ספריית רשימות מרובות רמות"
+
+msgid "Multiple Pages"
+msgstr "עמודים מרובים"
+
+msgid "Mute agent messages"
+msgstr "השתקת הודעות סוכנים"
+
+msgid "Muted 50%"
+msgstr "מעומעם 50%"
+
+msgid "My list has"
+msgstr "ברשימה שלי יש"
+
+msgid "Name of the file this document is saved as"
+msgstr "שם הקובץ שבו נשמר מסמך זה"
+
+msgid "Narrow"
+msgstr "צר"
+
+msgid "Narrow  {size} all"
+msgstr "צר  {size} מכל הצדדים"
+
+msgid "Natural Logarithm"
+msgstr "לוגריתם טבעי"
+
+msgid "Nature"
+msgstr "טבע"
+
+msgid "Navigation Pane"
+msgstr "חלונית ניווט"
+
+msgid "Negated Relations"
+msgstr "יחסים שליליים"
+
+msgid "Netherlands"
+msgstr "הולנד"
+
+msgid "New blank documents are written in this language"
+msgstr "מסמכים ריקים חדשים נכתבים בשפה זו"
+
+msgid "New Comment"
+msgstr "הערה חדשה"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "הערות חדשות ושינויים במעקב נרשמים תחת שם זה וראשי תיבות אלה."
+
+msgid "New Documents Based on This Template"
+msgstr ""
+
+msgid "New documents based on this template"
+msgstr ""
+
+msgid "New documents will use this font."
+msgstr ""
+
+msgid "New documents will use this page setup."
+msgstr ""
+
+msgid "New documents will use this paragraph formatting."
+msgstr ""
+
+msgid "New documents will use this style."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr ""
+
+msgid "New Drawing Canvas"
+msgstr "בד ציור חדש"
+
+msgid "New Entry"
+msgstr "ערך חדש"
+
+msgid "New Label"
+msgstr "תווית חדשה"
+
+msgid "New Label…"
+msgstr "תווית חדשה…"
+
+msgid "New Paragraph"
+msgstr "פסקה חדשה"
+
+msgid "New shortcut:"
+msgstr "קיצור דרך חדש:"
+
+msgid "New Tab"
+msgstr "כרטיסייה חדשה"
+
+msgid "New Table Style"
+msgstr "סגנון טבלה חדש"
+
+msgid "New Table Style…"
+msgstr "סגנון טבלה חדש…"
+
+msgid "New word"
+msgstr "מילה חדשה"
+
+msgid "New Zealand"
+msgstr "ניו זילנד"
+
+msgid "New\nComment"
+msgstr "הערה\nחדשה"
+
+msgid "New\nWindow"
+msgstr "חלון\nחדש"
+
+msgid "Next Comment"
+msgstr "ההערה הבאה"
+
+msgid "Next Field"
+msgstr "השדה הבא"
+
+msgid "Next Footnote"
+msgstr "הערת השוליים הבאה"
+
+msgid "Next Record"
+msgstr "הרשומה הבאה"
+
+msgid "Next Section"
+msgstr "המקטע הבא"
+
+msgid "Next Sentence"
+msgstr "המשפט הבא"
+
+msgid "Next sentence"
+msgstr "המשפט הבא"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib מרחף מעל החלון עם עצות והערה פה ושם."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, העוזר שלך. גרירה מזיזה; לחיצה ימנית פותחת אפשרויות."
+
+msgid "Nicaragua"
+msgstr "ניקרגואה"
+
+msgid "No accessibility issues found."
+msgstr "לא נמצאו בעיות נגישות."
+
+msgid "No Border"
+msgstr "ללא גבול"
+
+msgid "No changes (read only)"
+msgstr "ללא שינויים (קריאה בלבד)"
+
+msgid "No contributor data was built into this copy."
+msgstr "לא נכללו נתוני תורמים בעותק זה."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "אין מסמך פתוח. יש ליצור מסמך או לפתוח מסמך קיים תחילה."
+
+msgid "no equation at the caret"
+msgstr "אין משוואה במקום הסמן"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "לא נמצאו שגיאות: כל שדה מיזוג קיים ברשימת הנמענים."
+
+msgid "No Fill"
+msgstr "ללא מילוי"
+
+msgid "No fill"
+msgstr "ללא מילוי"
+
+msgid "No Glow"
+msgstr "ללא זוהר"
+
+msgid "No Gradient"
+msgstr "ללא מעבר צבע"
+
+msgid "No grid"
+msgstr "ללא רשת"
+
+msgid "No header row"
+msgstr "אין שורת כותרת"
+
+msgid "No icons match your search."
+msgstr "אין סמלים התואמים לחיפוש."
+
+msgid "No items to show."
+msgstr "אין פריטים להצגה."
+
+msgid "No language matches your search."
+msgstr "אף שפה אינה תואמת את החיפוש שלך."
+
+msgid "No languages to show yet."
+msgstr "עדיין אין שפות להצגה."
+
+msgid "No Markup"
+msgstr "ללא סימון"
+
+msgid "No model credits were built into this copy."
+msgstr "לא נכללו קרדיטים למודלים בעותק זה."
+
+msgid "No new sources in that file"
+msgstr "אין מקורות חדשים בקובץ הזה"
+
+msgid "No Outline"
+msgstr "ללא קו מתאר"
+
+msgid "No Paragraph Space"
+msgstr "ללא רווח בין פסקאות"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "לא נמצאו מדפסות. יש להגדיר מדפסת במערכת או לייצא קובץ PDF."
+
+msgid "No recovery copies."
+msgstr "אין עותקי שחזור."
+
+msgid "No Reflection"
+msgstr "ללא השתקפות"
+
+msgid "No Scaling"
+msgstr "ללא שינוי קנה מידה"
+
+msgid "No Shadow"
+msgstr "ללא צל"
+
+msgid "No Soft Edges"
+msgstr "ללא קצוות רכים"
+
+msgid "No sources yet."
+msgstr "אין עדיין מקורות."
+
+msgid "No Spacing"
+msgstr "ללא מרווח"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "לא מותקן מילון איות עבור {language}, ולכן האיות בשפה זו אינו נבדק. WordCraft מחפש את מילון Hunspell {name} בתיקייה WORDCRAFT_DICTIONARIES ובמיקומים הרגילים של המערכת."
+
+msgid "No templates match your search."
+msgstr "אין תבניות התואמות לחיפוש."
+
+msgid "No Transform"
+msgstr "ללא המרה"
+
+msgid "No watermark"
+msgstr "ללא סימן מים"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "אין עדיין מילים. \"הוספה למילון\" על מילה שגויה מוסיפה אותה לכאן."
+
+msgid "No-Width Non Break"
+msgstr "מחבר ברוחב אפס"
+
+msgid "No-Width Optional Break"
+msgstr "מעבר אופציונלי ברוחב אפס"
+
+msgid "Nonbreaking Hyphen"
+msgstr "מקף בלתי ניתן לשבירה"
+
+msgid "Normal  {size} all"
+msgstr "רגיל  {size} מכל הצדדים"
+
+msgid "Normal Indent"
+msgstr "כניסה רגילה"
+
+msgid "Normal probability density"
+msgstr "צפיפות הסתברות נורמלית"
+
+msgid "Normal speed"
+msgstr "מהירות רגילה"
+
+msgid "Normal Style"
+msgstr "סגנון רגיל"
+
+msgid "Normal Table"
+msgstr "טבלה רגילה"
+
+msgid "Normal Text"
+msgstr "טקסט רגיל"
+
+msgid "Normal Word Document"
+msgstr "מסמך Word רגיל"
+
+msgid "North"
+msgstr "צפון"
+
+msgid "Norwegian (Bokmål)"
+msgstr "נורווגית (בוקמול)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "נורווגית (נינורסק)"
+
+msgid "Not"
+msgstr "לא"
+
+msgid "Not available right now"
+msgstr "לא זמין כרגע"
+
+msgid "Not available yet"
+msgstr "עדיין לא זמין"
+
+msgid "not editing an equation"
+msgstr "לא בעריכת משוואה"
+
+msgid "Not equal to"
+msgstr "שונה מ"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "לא מקושר: יש ללחוץ על תיבת טקסט"
+
+msgid "Not now"
+msgstr "לא עכשיו"
+
+msgid "Not saved"
+msgstr "לא נשמר"
+
+msgid "Not saved yet"
+msgstr "טרם נשמר"
+
+msgid "Not set"
+msgstr "לא הוגדר"
+
+msgid "Not set: the system's usual places"
+msgstr "לא הוגדרה: המיקומים הרגילים של המערכת"
+
+msgid "Not used by any command"
+msgstr "לא בשימוש על ידי אף פקודה"
+
+msgid "Not {name}"
+msgstr "לא {name}"
+
+msgid "Nothing"
+msgstr "כלום"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "לא נאסף דבר עדיין. פריטים שמעתיקים או גוזרים יופיעו כאן."
+
+msgid "nothing is selected"
+msgstr "לא נבחר דבר"
+
+msgid "Nothing of this type in the document."
+msgstr "אין במסמך שום דבר מהסוג הזה."
+
+msgid "Now used by {command}"
+msgstr "בשימוש כעת על ידי {command}"
+
+msgid "Nudge"
+msgstr "דחיפה"
+
+msgid "Num Occurrences"
+msgstr "מספר מופעים"
+
+msgid "Number alignment:"
+msgstr "יישור מספר:"
+
+msgid "Number format"
+msgstr "תבנית מספר"
+
+msgid "Number of columns:"
+msgstr "מספר עמודות:"
+
+msgid "Number of rows:"
+msgstr "מספר שורות:"
+
+msgid "Number of the page the field sits on"
+msgstr "מספר העמוד שבו נמצא השדה"
+
+msgid "Number of the section the field sits in"
+msgstr "מספר המקטע שבו נמצא השדה"
+
+msgid "Number only, without the label's words"
+msgstr "המספר בלבד, בלי מילות התווית"
+
+msgid "Number style for this level:"
+msgstr "סגנון מספור לרמה זו:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "מספור המשוואה; המספר ממוקם בשוליים הימניים (או הקלדת # ואחריו המספר)"
+
+msgid "Numbering"
+msgstr "מספור"
+
+msgid "Numbering:"
+msgstr "מספור:"
+
+msgid "Numbering…"
+msgstr "מספור…"
+
+msgid "Numerals"
+msgstr "ספרות"
+
+msgid "Numerals:"
+msgstr "ספרות:"
+
+msgid "n×n Identity Matrix"
+msgstr "מטריצת יחידה n×n"
+
+msgid "n×n Matrix"
+msgstr "מטריצה n×n"
+
+msgid "Odd Banded Columns"
+msgstr "עמודות מפוספסות אי-זוגיות"
+
+msgid "Odd Banded Rows"
+msgstr "שורות מפוספסות אי-זוגיות"
+
+msgid "Odd Page"
+msgstr "עמוד אי-זוגי"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Office 2003 Default"
+msgstr "ברירת המחדל של Office 2003"
+
+msgid "Offset (pt):"
+msgstr "היסט (נק'):"
+
+msgid "Offset: Bottom"
+msgstr "היסט: למטה"
+
+msgid "Offset: Bottom Left"
+msgstr "היסט: למטה משמאל"
+
+msgid "Offset: Bottom Right"
+msgstr "היסט: למטה מימין"
+
+msgid "Offset: Center"
+msgstr "היסט: מרכז"
+
+msgid "Offset: Left"
+msgstr "היסט: שמאל"
+
+msgid "Offset: Right"
+msgstr "היסט: ימין"
+
+msgid "Offset: Top"
+msgstr "היסט: למעלה"
+
+msgid "Offset: Top Left"
+msgstr "היסט: למעלה משמאל"
+
+msgid "Offset: Top Right"
+msgstr "היסט: למעלה מימין"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "מקשי התפריט הישנים: Alt, {keys}. אפשר להמשיך להקליד, או ללחוץ Esc לביטול."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "מופעל: הסמן גולש למקומו החדש בעת הקלדה או שימוש במקשי החצים, והבהוב שלו דועך. כבוי: הסמן קופץ ומהבהב."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "מופעל: WordCraft נפתח בקובץ › בית, עם מסמך ריק, התבניות והמסמכים האחרונים שלך. כבוי: נפתח מסמך ריק."
+
+msgid "One"
+msgstr "אחד"
+
+msgid "One half"
+msgstr "חצי"
+
+msgid "One label per recipient"
+msgstr "תווית אחת לכל נמען"
+
+msgid "One line per item. Enter adds an item."
+msgstr "שורה אחת לכל פריט. Enter מוסיף פריט."
+
+msgid "One Page"
+msgstr "עמוד אחד"
+
+msgid "One-sided"
+msgstr "חד-צדדית"
+
+msgid "Only allow this kind of editing:"
+msgstr "אפשר רק סוג עריכה זה:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "ניתן להוסיף הערות בלבד, למעט באזורים שסומנו כניתנים לעריכה."
+
+msgid "Only for the selected text"
+msgstr "רק עבור הטקסט שנבחר"
+
+msgid "Only form fields can be filled in."
+msgstr "ניתן למלא שדות טופס בלבד."
+
+msgid "only in Outline view"
+msgstr "רק בתצוגת חלוקה לרמות"
+
+msgid "Only in this document"
+msgstr ""
+
+msgid "Only label and number"
+msgstr "תווית ומספר בלבד"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "ניתן להחיל רק את הסגנונות המותרים."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "ניתן לפתוח רק קישורי אינטרנט (http, https) ודואר אלקטרוני (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "יש לפתוח קודם מסמך"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "פתיחת קובץ בדפדפן הקבצים של WordCraft כאשר תיבת הדו-שיח של המערכת אינה מופיעה."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument Text (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "פתיחת תיבת הדו-שיח של ההדפסה…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "מעתה פותח קבצי .docx, .doc, .rtf ו-.odt ותבניות Word באמצעות WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "פותח את הגדרות › אפליקציות ברירת מחדל, שם בוחרים את WordCraft עבור .docx וסוגי המסמכים האחרים."
+
+msgid "Operator"
+msgstr "אופרטור"
+
+msgid "Operator Structures"
+msgstr "מבני אופרטורים"
+
+msgid "Operators"
+msgstr "אופרטורים"
+
+msgid "Optional Hyphen"
+msgstr "מקף אופציונלי"
+
+msgid "Or"
+msgstr "או"
+
+msgid "Or save a copy in another format:"
+msgstr "או שמירת עותק בתבנית אחרת:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "מספרים סודרים (1st) ככתב עילי"
+
+msgid "Organizer"
+msgstr "מארגן"
+
+msgid "Organizer…"
+msgstr "מארגן…"
+
+msgid "Original document"
+msgstr "מסמך מקורי"
+
+msgid "Original size"
+msgstr "גודל מקורי"
+
+msgid "Other Large Operators"
+msgstr "אופרטורים גדולים אחרים"
+
+msgid "Other styles and their TOC level:"
+msgstr "סגנונות אחרים ורמת תוכן העניינים שלהם:"
+
+msgid "Other:"
+msgstr "אחר:"
+
+msgid "Otherwise insert:"
+msgstr "אחרת להוסיף:"
+
+msgid "Outline Level"
+msgstr "רמת חלוקה"
+
+msgid "Outline level"
+msgstr "רמת חלוקה"
+
+msgid "Outline levels"
+msgstr "רמות חלוקה"
+
+msgid "Outline State"
+msgstr "מצב החלוקה לרמות"
+
+msgid "Outline Tools"
+msgstr "כלי חלוקה לרמות"
+
+msgid "Outlining"
+msgstr "חלוקה לרמות"
+
+msgid "Outside border"
+msgstr "גבול חיצוני"
+
+msgid "Outside Borders"
+msgstr "גבולות חיצוניים"
+
+msgid "Outside:"
+msgstr "חיצוני:"
+
+msgid "Outward Brackets"
+msgstr "סוגריים כלפי חוץ"
+
+msgid "Overbar"
+msgstr "קו עליון"
+
+msgid "Overbars and Underbars"
+msgstr "קווים עליונים ותחתונים"
+
+msgid "Overbrace"
+msgstr "סוגר מסולסל עליון"
+
+msgid "Overtype"
+msgstr "החלפה"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "החלפה (ההקלדה מחליפה את התווים שאחרי הסמן)"
+
+msgid "Page Background"
+msgstr "רקע עמוד"
+
+msgid "Page Border"
+msgstr "גבול עמוד"
+
+msgid "Page Borders"
+msgstr "גבולות עמוד"
+
+msgid "Page Break"
+msgstr "מעבר עמוד"
+
+msgid "Page Break Before"
+msgstr "מעבר עמוד לפני"
+
+msgid "Page break before"
+msgstr "מעבר עמוד לפני"
+
+msgid "Page Breaks"
+msgstr "מעברי עמוד"
+
+msgid "Page Color"
+msgstr "צבע עמוד"
+
+msgid "Page color"
+msgstr "צבע עמוד"
+
+msgid "Page display"
+msgstr "תצוגת עמוד"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page image (*.png)"
+msgstr "תמונת עמוד (*.png)"
+
+msgid "Page Movement"
+msgstr "מעבר בין עמודים"
+
+msgid "Page Number"
+msgstr "מספר עמוד"
+
+msgid "Page number"
+msgstr "מספר עמוד"
+
+msgid "Page Number Format"
+msgstr "תבנית מספרי עמודים"
+
+msgid "Page number style"
+msgstr "סגנון מספר עמוד"
+
+msgid "Page numbering"
+msgstr "מספור עמודים"
+
+msgid "Page numbers at the right margin"
+msgstr "מספרי עמודים בשוליים הימניים"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "העמוד שבו נמצא קטע מסומן בסימנייה"
+
+msgid "Page Setup"
+msgstr "הגדרת עמוד"
+
+msgid "Page title"
+msgstr "כותרת העמוד"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Width"
+msgstr "רוחב עמוד"
+
+msgid "Page width"
+msgstr "רוחב עמוד"
+
+msgid "Page X of Y"
+msgstr "עמוד X מתוך Y"
+
+msgid "Page {page}"
+msgstr "עמוד {page}"
+
+msgid "Page\nBorders"
+msgstr "גבולות\nעמוד"
+
+msgid "Page\nColor"
+msgstr "צבע\nעמוד"
+
+msgid "Page\nNumber"
+msgstr "מספר\nעמוד"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "עמודים כגון 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "עמודים של סימנייה:"
+
+msgid "Panama"
+msgstr "פנמה"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "גודל נייר:"
+
+msgid "Paragraph Character"
+msgstr "תו פסקה"
+
+msgid "Paragraph Details"
+msgstr "פרטי פסקה"
+
+msgid "Paragraph Down"
+msgstr "פסקה למטה"
+
+msgid "Paragraph Mark"
+msgstr "סימן פסקה"
+
+msgid "Paragraph marks"
+msgstr "סימני פסקה"
+
+msgid "Paragraph Settings"
+msgstr "הגדרות פסקה"
+
+msgid "Paragraph Spacing"
+msgstr "מרווח בין פסקאות"
+
+msgid "Paragraph style"
+msgstr "סגנון פסקה"
+
+msgid "Paragraph Up"
+msgstr "פסקה למעלה"
+
+msgid "Paragraphs"
+msgstr "פסקאות"
+
+msgid "Paragraph…"
+msgstr "פסקה…"
+
+msgid "Paraguay"
+msgstr "פרגוואי"
+
+msgid "Parentheses"
+msgstr "סוגריים עגולים"
+
+msgid "Parentheses with Separator"
+msgstr "סוגריים עגולים עם מפריד"
+
+msgid "Partial Differential"
+msgstr "נגזרת חלקית"
+
+msgid "Password:"
+msgstr "סיסמה:"
+
+msgid "Paste (⌘V)"
+msgstr "הדבקה (⌘V)"
+
+msgid "Paste All"
+msgstr "הדבקת הכול"
+
+msgid "Paste as:"
+msgstr "הדבקה כ:"
+
+msgid "Paste Clipboard Item"
+msgstr "הדבקת פריט מלוח העריכה"
+
+msgid "Paste Formatting"
+msgstr "הדבקת עיצוב"
+
+msgid "Paste function:"
+msgstr "הדבקת פונקציה:"
+
+msgid "Paste Special…"
+msgstr "הדבקה מיוחדת…"
+
+msgid "Paste: Keep Text Only"
+msgstr "הדבקה: שמירת טקסט בלבד"
+
+msgid "Paste: Merge Formatting"
+msgstr "הדבקה: מיזוג עיצוב"
+
+msgid "Pastes the clipboard's picture."
+msgstr "מדביק את התמונה שבלוח העריכה."
+
+msgid "Paused"
+msgstr "מושהה"
+
+msgid "PDF document (*.pdf)"
+msgstr "מסמך PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "עטים"
+
+msgid "People"
+msgstr "אנשים"
+
+msgid "Periodical"
+msgstr "כתב עת"
+
+msgid "Persian"
+msgstr "פרסית"
+
+msgid "Personal"
+msgstr "אישי"
+
+msgid "Personal Templates"
+msgstr "תבניות אישיות"
+
+msgid "Personalize"
+msgstr "התאמה אישית"
+
+msgid "Peru"
+msgstr "פרו"
+
+msgid "Philippines"
+msgstr "הפיליפינים"
+
+msgid "Phonetic Guide"
+msgstr "מדריך פונטי"
+
+msgid "pi"
+msgstr ""
+
+msgid "Pi Over 2"
+msgstr "פאי חלקי 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "יש לבחור קבוצה מותאמת אישית (קבוצה חדשה יוצרת אחת)"
+
+msgid "Pick a field from the list"
+msgstr "יש לבחור שדה מהרשימה"
+
+msgid "Picture"
+msgstr "תמונה"
+
+msgid "Picture Border"
+msgstr "גבול תמונה"
+
+msgid "Picture border"
+msgstr "גבול תמונה"
+
+msgid "Picture Content Control"
+msgstr "פקד תוכן תמונה"
+
+msgid "Picture Format"
+msgstr "עיצוב תמונה"
+
+msgid "Picture Styles"
+msgstr "סגנונות תמונה"
+
+msgid "Picture transparency"
+msgstr "שקיפות תמונה"
+
+msgid "Picture watermark"
+msgstr "סימן מים של תמונה"
+
+msgid "Pictures"
+msgstr "תמונות"
+
+msgid "Pie"
+msgstr "עוגה"
+
+msgid "Place in This Document"
+msgstr "מקום במסמך זה"
+
+msgid "Placeholder text"
+msgstr "טקסט מציין מיקום"
+
+msgid "Plain Table 1"
+msgstr "טבלה פשוטה 1"
+
+msgid "Plain text (*.txt)"
+msgstr "טקסט פשוט (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "פקד תוכן טקסט פשוט"
+
+msgid "Play/Pause"
+msgstr "הפעלה/השהיה"
+
+msgid "Plus Equal"
+msgstr "פלוס שווה"
+
+msgid "Points and above"
+msgstr "נקודות ומעלה"
+
+msgid "Polish"
+msgstr "פולנית"
+
+msgid "Portugal"
+msgstr "פורטוגל"
+
+msgid "Portuguese (Brazil)"
+msgstr "פורטוגזית (ברזיל)"
+
+msgid "Portuguese (Portugal)"
+msgstr "פורטוגזית (פורטוגל)"
+
+msgid "Possible spelling mistake"
+msgstr "שגיאת איות אפשרית"
+
+msgid "Postal Code"
+msgstr "מיקוד"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "טור חזקות של (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "רוחב מועדף:"
+
+msgid "Preserve formatting during updates"
+msgstr "שמירה על העיצוב בעת עדכון"
+
+msgid "Preset gradients"
+msgstr "מעברי צבע מוכנים"
+
+msgid "Press a key combination"
+msgstr "יש להקיש צירוף מקשים"
+
+msgid "Preview Results"
+msgstr "תצוגה מקדימה של התוצאות"
+
+msgid "Preview\nResults"
+msgstr "תצוגה מקדימה\nשל התוצאות"
+
+msgid "Previous 1 or More"
+msgstr "הקודם 1 או יותר"
+
+msgid "Previous Comment"
+msgstr "ההערה הקודמת"
+
+msgid "Previous Field"
+msgstr "השדה הקודם"
+
+msgid "Previous Record"
+msgstr "הרשומה הקודמת"
+
+msgid "Previous Section"
+msgstr "המקטע הקודם"
+
+msgid "Previous Sentence"
+msgstr "המשפט הקודם"
+
+msgid "Previous sentence"
+msgstr "המשפט הקודם"
+
+msgid "Print Documents"
+msgstr "הדפסת מסמכים"
+
+msgid "Print Documents…"
+msgstr "הדפסת מסמכים…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "ההדפסה נכשלה: תהליך ההדפסה נעצר."
+
+msgid "Print failed: {error}"
+msgstr "ההדפסה נכשלה: {error}"
+
+msgid "Print job submitted."
+msgstr "עבודת ההדפסה נשלחה."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "עבודת ההדפסה נשלחה: גיליונות במאגר ההדפסה: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "עבודת ההדפסה נשלחה: {receipt}"
+
+msgid "Print Layout"
+msgstr "פריסת הדפסה"
+
+msgid "Print Markup"
+msgstr "הדפסת סימון"
+
+msgid "Print settings"
+msgstr "הגדרות הדפסה"
+
+msgid "Print the page color"
+msgstr "הדפסת צבע העמוד"
+
+msgid "Print to PDF"
+msgstr "הדפסה ל-PDF"
+
+msgid "Print\nLayout"
+msgstr "פריסת\nהדפסה"
+
+msgid "Printer default"
+msgstr "ברירת המחדל של המדפסת"
+
+msgid "Printer discovery failed."
+msgstr "חיפוש המדפסות נכשל."
+
+msgid "Privacy for this document"
+msgstr "פרטיות עבור מסמך זה"
+
+msgid "Privacy Options"
+msgstr "אפשרויות פרטיות"
+
+msgid "Privacy Settings"
+msgstr "הגדרות פרטיות"
+
+msgid "Process"
+msgstr "תהליך"
+
+msgid "Product"
+msgstr "מכפלה"
+
+msgid "Product of A"
+msgstr "מכפלה של A"
+
+msgid "Product with Limits"
+msgstr "מכפלה עם גבולות"
+
+msgid "Product with Lower Limit"
+msgstr "מכפלה עם גבול תחתון"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "מכפלה עם גבולות בכתב תחתי ועילי"
+
+msgid "Products and Coproducts"
+msgstr "מכפלות וקו-מכפלות"
+
+msgid "Professional"
+msgstr "מקצועי"
+
+msgid "Promote"
+msgstr "קידום"
+
+msgid "Promote to Heading 1"
+msgstr "קידום לכותרת 1"
+
+msgid "Proofing"
+msgstr "הגהה"
+
+msgid "Proofing Issues"
+msgstr "בעיות הגהה"
+
+msgid "Proofing language"
+msgstr "שפת הגהה"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "הגנה על המסמך"
+
+msgid "pt"
+msgstr "נק'"
+
+msgid "Publisher"
+msgstr "מוציא לאור"
+
+msgid "Puerto Rico"
+msgstr "פוארטו ריקו"
+
+msgid "Put the caret in a content control first."
+msgstr "יש למקם קודם את הסמן בתוך פקד תוכן."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "להחזיר את פקודות ברירת המחדל לסרגל הכלים לגישה מהירה?"
+
+msgid "Qatar"
+msgstr "קטאר"
+
+msgid "Quadratic Root"
+msgstr "שורש ריבועי"
+
+msgid "Quick Access Toolbar"
+msgstr "סרגל כלים לגישה מהירה"
+
+msgid "Quick Parts"
+msgstr "חלקים מהירים"
+
+msgid "Quick Tables"
+msgstr "טבלאות מהירות"
+
+msgid "Quote"
+msgstr "ציטוט"
+
+msgid "Radical"
+msgstr "שורש"
+
+msgid "Radical with Degree"
+msgstr "שורש עם מעלה"
+
+msgid "Radicals"
+msgstr "שורשים"
+
+msgid "Raised/lowered"
+msgstr "מוגבה/מונמך"
+
+msgid "Read Aloud"
+msgstr "הקראה"
+
+msgid "Read Aloud Status"
+msgstr "מצב הקראה"
+
+msgid "Read Mode"
+msgstr "מצב קריאה"
+
+msgid "Read\nAloud"
+msgstr "הקראה"
+
+msgid "Read\nMode"
+msgstr "מצב\nקריאה"
+
+msgid "Reading"
+msgstr "קריאה"
+
+msgid "Reading Column Width"
+msgstr "רוחב עמודת קריאה"
+
+msgid "Reading Highlight"
+msgstr "הדגשת קריאה"
+
+msgid "Reading Line Spacing"
+msgstr "מרווח שורות בקריאה"
+
+msgid "Reading Mode"
+msgstr "מצב קריאה"
+
+msgid "Reading Page Color"
+msgstr "צבע עמוד הקריאה"
+
+msgid "Reading Speed"
+msgstr "מהירות קריאה"
+
+msgid "Reading Text Size"
+msgstr "גודל טקסט בקריאה"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "קורא את הטקסט העשיר שבלוח העריכה ושומר על העיצוב שלו."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "קורא את תוכן האינטרנט שבלוח העריכה ושומר על העיצוב שלו."
+
+msgid "Recent documents to show:"
+msgstr "מספר המסמכים האחרונים להצגה:"
+
+msgid "Recently Used Fonts"
+msgstr "גופנים שהיו בשימוש לאחרונה"
+
+msgid "Recently used symbols:"
+msgstr "סמלים שהיו בשימוש לאחרונה:"
+
+msgid "Recipient List"
+msgstr "רשימת נמענים"
+
+msgid "Recipient lists"
+msgstr "רשימות נמענים"
+
+msgid "Recipients: {count}"
+msgstr "נמענים: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "צביעה מחדש של תמונה חד-צבעית, כגון סמל"
+
+msgid "Recolor Selected Ink"
+msgstr "צביעה מחדש של דיו נבחר"
+
+msgid "Record Macro"
+msgstr "הקלטת מאקרו"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "שחזור מסמכים"
+
+msgid "Recover Unsaved Documents"
+msgstr "שחזור מסמכים שלא נשמרו"
+
+msgid "Recovery copy"
+msgstr "עותק שחזור"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "השחזור מושבת כל עוד יש למסמך סיסמה."
+
+msgid "Red:"
+msgstr "אדום:"
+
+msgid "Reduce Hanging Indent"
+msgstr "הקטנת כניסה תלויה"
+
+msgid "Reference type:"
+msgstr "סוג ההפניה:"
+
+msgid "References"
+msgstr "הפניות"
+
+msgid "Reflection"
+msgstr "השתקפות"
+
+msgid "Refresh printers"
+msgstr "רענון רשימת המדפסות"
+
+msgid "Region:"
+msgstr "אזור:"
+
+msgid "Registered"
+msgstr "רשום"
+
+msgid "Registered Sign"
+msgstr "סימן רשום"
+
+msgid "Regular expressions"
+msgstr "ביטויים רגולריים"
+
+msgid "Reject"
+msgstr "דחייה"
+
+msgid "Reject All Changes"
+msgstr "דחיית כל השינויים"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "דחיית השינוי"
+
+msgid "Relationship"
+msgstr "קשר"
+
+msgid "Relative to original picture size"
+msgstr "ביחס לגודל המקורי של התמונה"
+
+msgid "Remove Added Font"
+msgstr "הסרת גופן שנוסף"
+
+msgid "Remove condition"
+msgstr "הסרת תנאי"
+
+msgid "Remove Content Control"
+msgstr "הסרת פקד תוכן"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "להסיר את כל קיצורי הדרך המותאמים אישית ולשחזר את המקשים המובנים?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "להסיר את כל הכרטיסיות והקבוצות המותאמות אישית ולהציג שוב את כל הכרטיסיות?"
+
+msgid "Remove field"
+msgstr "הסרת שדה"
+
+msgid "Remove Footer"
+msgstr "הסרת כותרת תחתונה"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "הסרה מסרגל הכלים לגישה מהירה"
+
+msgid "Remove gradient stop"
+msgstr "הסרת נקודת מעבר צבע"
+
+msgid "Remove Header"
+msgstr "הסרת כותרת עליונה"
+
+msgid "Remove Hyperlink"
+msgstr "הסרת היפר-קישור"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "הסרת השם שלי מהערות, משינויים וממאפייני הקובץ בעת השמירה"
+
+msgid "Remove Password"
+msgstr "הסרת סיסמה"
+
+msgid "Remove Pen"
+msgstr "הסרת עט"
+
+msgid "Remove recipient"
+msgstr "הסרת נמען"
+
+msgid "Remove row"
+msgstr "הסרת שורה"
+
+msgid "Remove series"
+msgstr "הסרת סדרה"
+
+msgid "Remove Space After Paragraph"
+msgstr "הסרת רווח אחרי פסקה"
+
+msgid "Remove Table of Contents"
+msgstr "הסרת תוכן העניינים"
+
+msgid "Remove the control once edited"
+msgstr "הסרת הפקד לאחר העריכה"
+
+msgid "Remove the space before the punctuation"
+msgstr "הסרת הרווח שלפני סימן הפיסוק"
+
+msgid "Remove Watermark"
+msgstr "הסרת סימן מים"
+
+msgid "Rename Document"
+msgstr "שינוי שם המסמך"
+
+msgid "Reopen"
+msgstr "פתיחה מחדש"
+
+msgid "Repeat as header row on each page"
+msgstr "חזרה כשורת כותרת בכל עמוד"
+
+msgid "Repeat Header Rows"
+msgstr "חזרה על שורות כותרת"
+
+msgid "Repeating Section Content Control"
+msgstr "פקד תוכן של מקטע חוזר"
+
+msgid "Replace All"
+msgstr "החלפת הכול"
+
+msgid "Replace as you type"
+msgstr "החלפה בזמן ההקלדה"
+
+msgid "Replace Document Text"
+msgstr "החלפת טקסט המסמך"
+
+msgid "Replace text as you type"
+msgstr "החלפת טקסט בזמן ההקלדה"
+
+msgid "Replace with:"
+msgstr "החלפה ב:"
+
+msgid "Replay"
+msgstr "הפעלה חוזרת"
+
+msgid "Research"
+msgstr "מחקר"
+
+msgid "Researcher"
+msgstr "חוקר"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "החוקר זקוק לשירות מקוון; WordCraft שומר את המסמכים שלך במצב לא מקוון."
+
+msgid "Reset All…"
+msgstr "איפוס הכול…"
+
+msgid "Reset Character Formatting"
+msgstr "איפוס עיצוב תווים"
+
+msgid "Reset Crop"
+msgstr "איפוס חיתוך"
+
+msgid "Reset Default Formatting"
+msgstr ""
+
+msgid "Reset Graphic"
+msgstr "איפוס גרפיקה"
+
+msgid "Reset Paragraph Formatting"
+msgstr "איפוס עיצוב פסקה"
+
+msgid "Reset Picture"
+msgstr "איפוס תמונה"
+
+msgid "Reset tips"
+msgstr "איפוס עצות"
+
+msgid "Reset to Normal"
+msgstr "איפוס לרגיל"
+
+msgid "Reset\nGraphic"
+msgstr "איפוס\nגרפיקה"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "שינוי גודל טבלה בגרירה"
+
+msgid "Resolve"
+msgstr "פתרון"
+
+msgid "Resolved"
+msgstr "נפתר"
+
+msgid "Restart at 1"
+msgstr "התחלה מחדש מ-1"
+
+msgid "Restart Each Page"
+msgstr "התחלה מחדש בכל עמוד"
+
+msgid "Restart Each Section"
+msgstr "התחלה מחדש בכל מקטע"
+
+msgid "Restart list after:"
+msgstr "התחלת הרשימה מחדש אחרי:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "שחזור פותח עותק שלא נשמר. הקובץ המקורי נשאר ללא שינוי."
+
+msgid "Restrict Editing"
+msgstr "הגבלת עריכה"
+
+msgid "Restrict\nEditing"
+msgstr "הגבלת\nעריכה"
+
+msgid "Results"
+msgstr "תוצאות"
+
+msgid "Return address labels"
+msgstr "תוויות כתובת השולח"
+
+msgid "Return address:"
+msgstr "כתובת השולח:"
+
+msgid "Reviewing"
+msgstr "סקירה"
+
+msgid "Reviewing Pane"
+msgstr "חלונית סקירה"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "סקירה — עריכות הופכות להצעות"
+
+msgid "Revised document"
+msgstr "מסמך מתוקן"
+
+msgid "Rewind"
+msgstr "הרצה אחורה"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "מריץ אחורה. תגידו לי מתי לעצור."
+
+msgid "Ribbon"
+msgstr "רצועת הכלים"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "רצועת הכלים וסרגל הכלים לגישה מהירה:"
+
+msgid "Ribbon tabs"
+msgstr "כרטיסיות רצועת הכלים"
+
+msgid "Rich Text Content Control"
+msgstr "פקד תוכן טקסט עשיר"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "ימין (אנכי)"
+
+msgid "Right Arrow with Text Above"
+msgstr "חץ ימינה עם טקסט מעל"
+
+msgid "Right Arrow with Text Below"
+msgstr "חץ ימינה עם טקסט מתחת"
+
+msgid "Right Border"
+msgstr "גבול ימני"
+
+msgid "Right border"
+msgstr "גבול ימני"
+
+msgid "Right Bracket Twice"
+msgstr "סוגר ימני כפול"
+
+msgid "Right indent"
+msgstr "כניסה מימין"
+
+msgid "Right Margin"
+msgstr "שוליים ימניים"
+
+msgid "Right Only"
+msgstr "ימין בלבד"
+
+msgid "Right-to-left"
+msgstr "מימין לשמאל"
+
+msgid "Right-to-Left Section"
+msgstr "מקטע מימין לשמאל"
+
+msgid "Right-to-Left Table"
+msgstr "טבלה מימין לשמאל"
+
+msgid "Right-to-Left Text Direction"
+msgstr "כיוון טקסט מימין לשמאל"
+
+msgid "Rightwards Arrow Above"
+msgstr "חץ ימינה מעל"
+
+msgid "Rightwards Harpoon Above"
+msgstr "צלצל ימינה מעל"
+
+msgid "Romanian"
+msgstr "רומנית"
+
+msgid "Roots of ax²+bx+c"
+msgstr "שורשים של ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "סיבוב כל הטקסט ב-270°"
+
+msgid "Rotate all text 90°"
+msgstr "סיבוב כל הטקסט ב-90°"
+
+msgid "Rotate Left 90°"
+msgstr "סיבוב שמאלה ב-90°"
+
+msgid "Rotate Right 90°"
+msgstr "סיבוב ימינה ב-90°"
+
+msgid "Rotate with shape"
+msgstr "סיבוב עם הצורה"
+
+msgid "Rounded"
+msgstr "מעוגל"
+
+msgid "Row"
+msgstr "שורה"
+
+msgid "Row:"
+msgstr "שורה:"
+
+msgid "Rows & Columns"
+msgstr "שורות ועמודות"
+
+msgid "Ruby text:"
+msgstr "טקסט רובי:"
+
+msgid "Rules"
+msgstr "כללים"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "בתוך השורה"
+
+msgid "Russia"
+msgstr "רוסיה"
+
+msgid "Résumé"
+msgstr "קורות חיים"
+
+msgid "SAMPLE"
+msgstr "דוגמה"
+
+msgid "Sat:"
+msgstr "ש':"
+
+msgid "Saturation and recolor"
+msgstr "רוויה וצביעה מחדש"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "שמירת עותק בתבנית אחרת. ההדפסה מתבצעת דרך קובץ PDF שאפשר להדפיס מכל מציג."
+
+msgid "Save as Word Template…"
+msgstr "שמירה כתבנית Word…"
+
+msgid "Save documents"
+msgstr "שמירת מסמכים"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "יש לשמור את המסמך כדי להפעיל שמירה אוטומטית"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "יש לשמור את המסמך כדי להפעיל שמירה אוטומטית (קובץ שרק נפתח אינו נכתב מחדש עד שהוא נשמר)"
+
+msgid "Save these pages as PDF…"
+msgstr "שמירת העמודים האלה כ-PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "נשמר. נשמר שוב. עדיין שמור. זה מאוד שמור."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "שומר תבנית .dotx בתיקיית התבניות. היא מופיעה בקובץ › חדש תחת 'אישי'."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "השמירה של {name} בוטלה, ולכן הוא עדיין פתוח ושום דבר לא אבד."
+
+msgid "Sayings"
+msgstr "אמרות"
+
+msgid "Sayings:"
+msgstr "אמרות:"
+
+msgid "Scale Drawing"
+msgstr "שינוי קנה המידה של הציור"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "התאמה לגודל הנייר"
+
+msgid "Scatter"
+msgstr "פיזור"
+
+msgid "Script"
+msgstr "כתב"
+
+msgid "Scroll ribbon left"
+msgstr "גלילת רצועת הכלים שמאלה"
+
+msgid "Scroll ribbon right"
+msgstr "גלילת רצועת הכלים ימינה"
+
+msgid "Search Commands"
+msgstr "חיפוש פקודות"
+
+msgid "Search commands and help"
+msgstr "חיפוש פקודות ועזרה"
+
+msgid "Search document"
+msgstr "חיפוש במסמך"
+
+msgid "Search for templates"
+msgstr "חיפוש תבניות"
+
+msgid "Search icons"
+msgstr "חיפוש סמלים"
+
+msgid "Search Options"
+msgstr "אפשרויות חיפוש"
+
+msgid "Search:"
+msgstr "חיפוש:"
+
+msgid "Secant Function"
+msgstr "פונקציית סקנס"
+
+msgid "Section 1.01"
+msgstr "מקטע 1.01"
+
+msgid "Section Break"
+msgstr "מעבר מקטע"
+
+msgid "Section Breaks"
+msgstr "מעברי מקטע"
+
+msgid "Section Character"
+msgstr "תו מקטע"
+
+msgid "Section direction:"
+msgstr "כיוון המקטע:"
+
+msgid "Section Mark"
+msgstr "סימן מקטע"
+
+msgid "Section Properties"
+msgstr "מאפייני מקטע"
+
+msgid "Sections"
+msgstr "מקטעים"
+
+msgid "See"
+msgstr "ראו"
+
+msgid "select a chart first"
+msgstr "יש לבחור קודם תרשים"
+
+msgid "select a connector first"
+msgstr "יש לבחור קודם מחבר"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "יש לבחור קודם בד ציור"
+
+msgid "select a floating picture or shape first"
+msgstr "יש לבחור קודם תמונה או צורה צפה"
+
+msgid "select a group first"
+msgstr "יש לבחור קודם קבוצה"
+
+msgid "select a picture first"
+msgstr "יש לבחור קודם תמונה"
+
+msgid "Select a picture first."
+msgstr "יש לבחור תמונה תחילה."
+
+msgid "select a picture or shape first"
+msgstr "יש לבחור תחילה תמונה או צורה"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "יש לבחור תמונה, צורה, תרשים או טבלה כדי לתאר אותם."
+
+msgid "Select a place in this document:"
+msgstr "בחירת מקום במסמך זה:"
+
+msgid "Select a printer"
+msgstr "יש לבחור מדפסת"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "יש לבחור קודם צורה"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "יש לבחור צורה, תיבת טקסט או בד ציור כדי לעצב את המילוי שלהם."
+
+msgid "select a SmartArt graphic first"
+msgstr "יש לבחור קודם גרפיקת SmartArt"
+
+msgid "select a text box first"
+msgstr "יש לבחור קודם תיבת טקסט"
+
+msgid "select a text box linked to another first"
+msgstr "יש לבחור קודם תיבת טקסט המקושרת לתיבה אחרת"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "בחירת תא"
+
+msgid "Select Column"
+msgstr "בחירת עמודה"
+
+msgid "Select Heading and Content"
+msgstr "בחירת כותרת ותוכן"
+
+msgid "Select Line"
+msgstr "בחירת שורת טקסט"
+
+msgid "Select Paragraph"
+msgstr "בחירת פסקה"
+
+msgid "Select Picture…"
+msgstr "בחירת תמונה…"
+
+msgid "Select Range"
+msgstr "בחירת טווח"
+
+msgid "Select Recipients"
+msgstr "בחירת נמענים"
+
+msgid "select recipients first"
+msgstr "יש לבחור נמענים תחילה"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "יש לבחור תחילה נמענים כדי לבחור מתוך השדות שלהם."
+
+msgid "Select recipients first to match their fields."
+msgstr "יש לבחור תחילה נמענים כדי להתאים את השדות שלהם."
+
+msgid "Select Row"
+msgstr "בחירת שורה"
+
+msgid "Select Sentence"
+msgstr "בחירת משפט"
+
+msgid "Select Table"
+msgstr "בחירת טבלה"
+
+msgid "Select Table Cells by Clicking"
+msgstr "בחירת תאי טבלה בלחיצה"
+
+msgid "Select Text"
+msgstr "בחירת טקסט"
+
+msgid "Select Text with Similar Formatting"
+msgstr "בחירת טקסט בעל עיצוב דומה"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "יש לבחור טקסט ולסמן מי עדיין יכול לערוך אותו."
+
+msgid "select two or more cells to merge"
+msgstr "יש לבחור שני תאים או יותר כדי למזג"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "יש לבחור תחילה שתי תמונות או צורות או יותר (Shift+לחיצה)"
+
+msgid "Select Word"
+msgstr "בחירת מילה"
+
+msgid "Select\nRecipients"
+msgstr "בחירת\nנמענים"
+
+msgid "Selected Fields"
+msgstr "שדות נבחרים"
+
+msgid "Selected text"
+msgstr "הטקסט שנבחר"
+
+msgid "Selection Pane"
+msgstr "חלונית הבחירה"
+
+msgid "Semitransparent"
+msgstr "שקוף למחצה"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "שליחת המסמך ישירות לתיבת הדו-שיח של ההדפסה במערכת, או שמירת עותק בתבנית אחרת למטה."
+
+msgid "Sentence"
+msgstr "משפט"
+
+msgid "Sentence case."
+msgstr "אות גדולה בתחילת משפט."
+
+msgid "Separate text at"
+msgstr "הפרדת הטקסט ב"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "מפריד:"
+
+msgid "Sepia"
+msgstr "ספיה"
+
+msgid "Sequence name:"
+msgstr "שם הרצף:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "סרבית (קירילית)"
+
+msgid "Serbian (Latin)"
+msgstr "סרבית (לטינית)"
+
+msgid "Series name"
+msgstr "שם הסדרה"
+
+msgid "Series {n}"
+msgstr "סדרה {n}"
+
+msgid "Set As Default"
+msgstr "הגדרה כברירת מחדל"
+
+msgid "Set as default"
+msgstr "הגדר כברירת מחדל"
+
+msgid "Set As Default (Font)"
+msgstr ""
+
+msgid "Set As Default (Page Setup)"
+msgstr ""
+
+msgid "Set As Default (Paragraph)"
+msgstr ""
+
+msgid "Set as Default Language"
+msgstr "הגדר כשפת ברירת מחדל"
+
+msgid "Set Caret"
+msgstr "מיקום הסמן"
+
+msgid "Set Character Formatting"
+msgstr "הגדרת עיצוב תווים"
+
+msgid "Set Date"
+msgstr "הגדרת תאריך"
+
+msgid "Set Equation"
+msgstr "הגדרת משוואה"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "הגדרת ערך מספור"
+
+msgid "Set Paragraph Formatting"
+msgstr "הגדרת עיצוב פסקה"
+
+msgid "Set Proofing Language…"
+msgstr "הגדרת שפת הגהה…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "הגדרה:"
+
+msgid "Shading"
+msgstr "הצללה"
+
+msgid "Shadow, glow and soft edges"
+msgstr "צל, זוהר וקצוות רכים"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "מילוי צורה"
+
+msgid "Shape Format"
+msgstr "עיצוב צורה"
+
+msgid "Shape Outline"
+msgstr "קו מתאר של צורה"
+
+msgid "Shape Styles"
+msgstr "סגנונות צורה"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "תוויות משלוח"
+
+msgid "Shortcut key:"
+msgstr "מקש קיצור:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "הצגת קווי יישור בעת הזזת תמונות וצורות"
+
+msgid "Show all formatting marks"
+msgstr "הצגת כל סימני העיצוב"
+
+msgid "Show All Levels"
+msgstr "הצגת כל הרמות"
+
+msgid "Show all revisions inline"
+msgstr "הצגת כל השינויים בתוך הטקסט"
+
+msgid "Show changes at:"
+msgstr "מיקום הצגת השינויים:"
+
+msgid "Show changes in:"
+msgstr "הצגת השינויים ב:"
+
+msgid "Show Comments"
+msgstr "הצגת הערות"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "הצגת מסמכים בצבעים הפוכים, כמו תצוגה › החלפת מצבים. השמירה, ההדפסה וקובצי ה-PDF אינם משתנים."
+
+msgid "Show every bibliography field"
+msgstr "הצגת כל שדות הביבליוגרפיה"
+
+msgid "Show First Line Only"
+msgstr "הצגת השורה הראשונה בלבד"
+
+msgid "Show in the Styles gallery"
+msgstr "הצגה בגלריית הסגנונות"
+
+msgid "Show its list number"
+msgstr "הצגת מספר הרשימה שלו"
+
+msgid "Show its number relative to this field"
+msgstr "הצגת המספר שלו ביחס לשדה זה"
+
+msgid "Show its number with all higher levels"
+msgstr "הצגת המספר שלו עם כל הרמות הגבוהות יותר"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "הצגת רמזי מקשים (Alt או F10)"
+
+msgid "Show Level"
+msgstr "הצגת רמה"
+
+msgid "Show Level 1"
+msgstr "הצגת רמה 1"
+
+msgid "Show Level 2"
+msgstr "הצגת רמה 2"
+
+msgid "Show Level 3"
+msgstr "הצגת רמה 3"
+
+msgid "Show Level 4"
+msgstr "הצגת רמה 4"
+
+msgid "Show Level 5"
+msgstr "הצגת רמה 5"
+
+msgid "Show Level 6"
+msgstr "הצגת רמה 6"
+
+msgid "Show Level 7"
+msgstr "הצגת רמה 7"
+
+msgid "Show Level 8"
+msgstr "הצגת רמה 8"
+
+msgid "Show Level 9"
+msgstr "הצגת רמה 9"
+
+msgid "Show Markup"
+msgstr "הצגת סימון"
+
+msgid "Show Notes"
+msgstr "הצגת הערות"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "הצגת הערות ועיצוב בלבד בבלונים"
+
+msgid "Show only records that will be merged"
+msgstr "הצגת הרשומות שימוזגו בלבד"
+
+msgid "Show or Hide Style"
+msgstr "הצגה או הסתרה של סגנון"
+
+msgid "Show Quick Access Toolbar"
+msgstr "הצגת סרגל הכלים לגישה מהירה"
+
+msgid "Show revisions in balloons"
+msgstr "הצגת שינויים בבלונים"
+
+msgid "Show Text Formatting"
+msgstr "הצגת עיצוב טקסט"
+
+msgid "Show the Assistant"
+msgstr "הצגת העוזר"
+
+msgid "Show the community button in the title bar"
+msgstr "הצגת לחצן הקהילה בשורת הכותרת"
+
+msgid "Show the equation in the line of text"
+msgstr "הצגת המשוואה בתוך שורת הטקסט"
+
+msgid "Show the equation on a line of its own"
+msgstr "הצגת המשוואה בשורה נפרדת"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "הצגת סרגל הכלים המוקטן כשנבחר טקסט"
+
+msgid "Show the ribbon"
+msgstr "הצגת רצועת הכלים"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "הצגת מסך הפתיחה עם הפעלת WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "הצגת העצות שביקשת לא לראות שוב."
+
+msgid "Show/Hide ¶"
+msgstr "הצגה/הסתרה של ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "הצגה/הסתרה של ¶ ({key}) מראה את הרווחים, הטאבים והמעברים שמסתתרים בטקסט."
+
+msgid "Show\nComments"
+msgstr "הצגת\nהערות"
+
+msgid "Showing the first {count} items."
+msgstr "מוצגים {count} הפריטים הראשונים."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "מציג עץ: כל פריט מתחת לפריט שאליו הוא שייך."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "מציג פריטים סביב רעיון מרכזי: הפריט הראשון הוא המרכז."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "מציג פריטים בעלי משקל שווה כגושים בשורות."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "מציג רעיונות חופפים כעיגולים חופפים."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "מציג חלקים של שלם כרבעים."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "מציג חלקים הנבנים זה על זה, הגדול ביותר בתחתית."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "מציג שלבים לפי הסדר, משמאל לימין, עם חיצים ביניהם."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "מציג שלבים שחוזרים על עצמם, סביב מעגל."
+
+msgid "Shrink Font 1 Point"
+msgstr "הקטנת הגופן בנקודה אחת"
+
+msgid "Shrink text"
+msgstr "כיווץ טקסט"
+
+msgid "Side to Side"
+msgstr "זה לצד זה"
+
+msgid "Side\nto Side"
+msgstr "זה לצד\nזה"
+
+msgid "Sides of a right triangle"
+msgstr "צלעות משולש ישר-זווית"
+
+msgid "Signature Line"
+msgstr "שורת חתימה"
+
+msgid "Simple Frame"
+msgstr "מסגרת פשוטה"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "טור סינוסים וקוסינוסים של f(x)"
+
+msgid "Sine Function"
+msgstr "פונקציית סינוס"
+
+msgid "Sine theta"
+msgstr "סינוס תטא"
+
+msgid "Singapore"
+msgstr "סינגפור"
+
+msgid "Single"
+msgstr "יחיד"
+
+msgid "Single Brackets"
+msgstr "סוגריים בודדים"
+
+msgid "Single Closing Quote"
+msgstr "מירכה בודדת סוגרת"
+
+msgid "Single label"
+msgstr "תווית בודדת"
+
+msgid "Single Left Angle"
+msgstr "זווית שמאלית בודדת"
+
+msgid "Single Left Bar"
+msgstr "קו שמאלי בודד"
+
+msgid "Single Left Brace"
+msgstr "סוגר מסולסל שמאלי בודד"
+
+msgid "Single Left Bracket"
+msgstr "סוגר מרובע שמאלי בודד"
+
+msgid "Single Left Parenthesis"
+msgstr "סוגר עגול שמאלי בודד"
+
+msgid "Single Opening Quote"
+msgstr "מירכה בודדת פותחת"
+
+msgid "Single Right Brace"
+msgstr "סוגר מסולסל ימני בודד"
+
+msgid "Single Right Bracket"
+msgstr "סוגר מרובע ימני בודד"
+
+msgid "Single Right Parenthesis"
+msgstr "סוגר עגול ימני בודד"
+
+msgid "Single Spacing"
+msgstr "ריווח בודד"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "שם האתר"
+
+msgid "Size (pt):"
+msgstr "גודל (נק'):"
+
+msgid "Size and Crop…"
+msgstr "גודל וחיתוך…"
+
+msgid "Sketchbook"
+msgstr "מחברת סקיצות"
+
+msgid "Skewed Fraction"
+msgstr "שבר נטוי"
+
+msgid "Skip citations & bibliography"
+msgstr "דילוג על ציטוטים וביבליוגרפיה"
+
+msgid "Skip Citations and Bibliography"
+msgstr "דילוג על ציטוטים וביבליוגרפיה"
+
+msgid "Skip Record If"
+msgstr "דילוג על רשומה אם"
+
+msgid "Skip Record If…"
+msgstr "דילוג על רשומה אם…"
+
+msgid "Slant Down"
+msgstr "נטייה כלפי מטה"
+
+msgid "Slant Up"
+msgstr "נטייה כלפי מעלה"
+
+msgid "Slovak"
+msgstr "סלובקית"
+
+msgid "Slovenian"
+msgstr "סלובנית"
+
+msgid "Small caps"
+msgstr "אותיות רישיות קטנות"
+
+msgid "Small change"
+msgstr "שינוי קטן"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "מירכאות חכמות במקום מירכאות ישרות"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "עיצוב SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "סגנונות SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "גלילה והגדלה חלקות, ותפריטים ולחצנים שמופיעים בהדרגה. כשהאפשרות כבויה, כל שינוי מוצג מיד."
+
+msgid "Soft Edge"
+msgstr "קצה רך"
+
+msgid "Soft Edges"
+msgstr "קצוות רכים"
+
+msgid "Soft Glow"
+msgstr "זוהר רך"
+
+msgid "Solid Accent"
+msgstr "הדגשה מלאה"
+
+msgid "Solid fill"
+msgstr "מילוי אחיד"
+
+msgid "Sometimes"
+msgstr "לפעמים"
+
+msgid "Sort by:"
+msgstr "מיון לפי:"
+
+msgid "Sort order:"
+msgstr "סדר מיון:"
+
+msgid "Sort Recipients"
+msgstr "מיון נמענים"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "קוד מקור: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "מנהל המקורות"
+
+msgid "Source type:"
+msgstr "סוג המקור:"
+
+msgid "Sources in this document:"
+msgstr "מקורות במסמך זה:"
+
+msgid "South"
+msgstr "דרום"
+
+msgid "South Africa"
+msgstr "דרום אפריקה"
+
+msgid "Space"
+msgstr "רווח"
+
+msgid "Space after"
+msgstr "ריווח אחרי"
+
+msgid "Space after: {pt} pt"
+msgstr "ריווח אחרי: {pt} נק'"
+
+msgid "Space before"
+msgstr "ריווח לפני"
+
+msgid "Space before/after:"
+msgstr "ריווח לפני/אחרי:"
+
+msgid "Space before: {pt} pt"
+msgstr "ריווח לפני: {pt} נק'"
+
+msgid "Spacing (pt):"
+msgstr "ריווח (נק'):"
+
+msgid "Spain"
+msgstr "ספרד"
+
+msgid "Spanish (Latin America)"
+msgstr "ספרדית (אמריקה הלטינית)"
+
+msgid "Spanish (Mexico)"
+msgstr "ספרדית (מקסיקו)"
+
+msgid "Spanish (Spain)"
+msgstr "ספרדית (ספרד)"
+
+msgid "Spanish (Uruguay)"
+msgstr "ספרדית (אורוגוואי)"
+
+msgid "Sparse Matrices"
+msgstr "מטריצות דלילות"
+
+msgid "Special Characters"
+msgstr "תווים מיוחדים"
+
+msgid "Specify height:"
+msgstr "ציון גובה:"
+
+msgid "Speech"
+msgstr "דיבור"
+
+msgid "Spelling & Grammar"
+msgstr "איות ודקדוק"
+
+msgid "Spelling &\nGrammar"
+msgstr "איות\nודקדוק"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr "האיות והדקדוק נבדקים באנגלית (ארצות הברית)."
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "האיות והדקדוק נבדקים ב{language}."
+
+msgid "Spelling Suggestions"
+msgstr "הצעות איות"
+
+msgid "Spike"
+msgstr "אוסף גזירות"
+
+msgid "Split Cells"
+msgstr "פיצול תאים"
+
+msgid "Split Table"
+msgstr "פיצול טבלה"
+
+msgid "Spreadsheet Table"
+msgstr "טבלת גיליון אלקטרוני"
+
+msgid "Square Root"
+msgstr "שורש ריבועי"
+
+msgid "Square Root with Degree"
+msgstr "שורש עם מעלה"
+
+msgid "Square Union"
+msgstr "איחוד מרובע"
+
+msgid "Stack Object"
+msgstr "אובייקט מוערם"
+
+msgid "Stack Object (Three)"
+msgstr "אובייקט מוערם (שלושה)"
+
+msgid "Stacked Bar"
+msgstr "פסים מוערמים"
+
+msgid "Stacked Column"
+msgstr "עמודות מוערמות"
+
+msgid "Stacked Fraction"
+msgstr "שבר מוערם"
+
+msgid "Stacked, no bar"
+msgstr "מוערם, ללא קו"
+
+msgid "Standard Colors"
+msgstr "צבעים סטנדרטיים"
+
+msgid "Start Enforcing Protection"
+msgstr "התחלת אכיפת ההגנה"
+
+msgid "Start Mail Merge"
+msgstr "התחלת מיזוג דואר"
+
+msgid "Start Mail\nMerge"
+msgstr "התחלת מיזוג\nדואר"
+
+msgid "Start-up"
+msgstr "הפעלה"
+
+msgid "State"
+msgstr "מדינה"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "עדיין שם? אני שומע אותך חושב."
+
+msgid "Stop Protection"
+msgstr "הפסקת ההגנה"
+
+msgid "Stop Reading"
+msgstr "הפסקת הקריאה"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "נעצר"
+
+msgid "Straight Arrow Connector"
+msgstr "מחבר חץ ישר"
+
+msgid "Straight Connector"
+msgstr "מחבר ישר"
+
+msgid "Stroke {n} of {total}"
+msgstr "משיחה {n} מתוך {total}"
+
+msgid "Strong"
+msgstr "חזק"
+
+msgid "Structure Actions"
+msgstr "פעולות מבנה"
+
+msgid "Structures"
+msgstr "מבנים"
+
+msgid "Studio cover"
+msgstr "כריכת סטודיו"
+
+msgid "Studio handbook (sample)"
+msgstr "מדריך הסטודיו (דוגמה)"
+
+msgid "Style based on:"
+msgstr "סגנון מבוסס על:"
+
+msgid "Style Inspector"
+msgstr "בודק הסגנונות"
+
+msgid "Style name:"
+msgstr "שם הסגנון:"
+
+msgid "Style Set"
+msgstr "ערכת סגנונות"
+
+msgid "Style: APA"
+msgstr "סגנון: APA"
+
+msgid "Style: {style}"
+msgstr "סגנון: {style}"
+
+msgid "Styles Pane"
+msgstr "חלונית הסגנונות"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "סגנונות:"
+
+msgid "Subentry:"
+msgstr "ערך משנה:"
+
+msgid "Submit print job"
+msgstr "שליחת עבודת הדפסה"
+
+msgid "Submitting print job…"
+msgstr "שולח עבודת הדפסה…"
+
+msgid "Subscript-Superscript"
+msgstr "כתב תחתי-עילי"
+
+msgid "Subscripts and Superscripts"
+msgstr "כתב תחתי וכתב עילי"
+
+msgid "Subset:"
+msgstr "קבוצת משנה:"
+
+msgid "Subtle Emphasis"
+msgstr "הדגשה עדינה"
+
+msgid "Subtle Reference"
+msgstr "הפניה עדינה"
+
+msgid "Suggested"
+msgstr "הצעות"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "סכום"
+
+msgid "Sum of cosines"
+msgstr "סכום קוסינוסים"
+
+msgid "Sum or difference of sines"
+msgstr "סכום או הפרש של סינוסים"
+
+msgid "Summation"
+msgstr "סכימה"
+
+msgid "Summation from 0 to n"
+msgstr "סכימה מ-0 עד n"
+
+msgid "Summation over binomials"
+msgstr "סכימה על מקדמים בינומיים"
+
+msgid "Summation with Limits"
+msgstr "סכימה עם גבולות"
+
+msgid "Summation with Lower Limit"
+msgstr "סכימה עם גבול תחתון"
+
+msgid "Summation with Subscript Limit"
+msgstr "סכימה עם גבול בכתב תחתי"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "סכימה עם גבולות בכתב תחתי ועילי"
+
+msgid "Summations"
+msgstr "סכימות"
+
+msgid "Suppress line numbers"
+msgstr "ביטול מספרי שורות"
+
+msgid "Surface Integral"
+msgstr "אינטגרל משטח"
+
+msgid "Surface Integral with Limits"
+msgstr "אינטגרל משטח עם גבולות"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "אינטגרל משטח עם גבולות מוערמים"
+
+msgid "Swahili"
+msgstr "סוואהילי"
+
+msgid "Swap footnotes and endnotes"
+msgstr "החלפה בין הערות שוליים להערות סיום"
+
+msgid "Swedish"
+msgstr "שוודית"
+
+msgid "Switch Modes"
+msgstr "החלפת מצבים"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "החלפת\nמצבים"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "שווייץ"
+
+msgid "Synonyms"
+msgstr "מילים נרדפות"
+
+msgid "Syria"
+msgstr "סוריה"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "לפי המערכת"
+
+msgid "System dictionary"
+msgstr "מילון המערכת"
+
+msgid "Tab Character"
+msgstr "תו טאב"
+
+msgid "Tab character"
+msgstr "תו טאב"
+
+msgid "Tab characters"
+msgstr "תווי טאב"
+
+msgid "Tab leader:"
+msgstr "תו מוביל:"
+
+msgid "Tab stop position:"
+msgstr "מיקום עצירת הטאב:"
+
+msgid "Tab stops to be cleared:"
+msgstr "עצירות טאב לניקוי:"
+
+msgid "Table Column Width"
+msgstr "רוחב עמודת טבלה"
+
+msgid "Table Design"
+msgstr "עיצוב טבלה"
+
+msgid "Table direction:"
+msgstr "כיוון הטבלה:"
+
+msgid "Table Grid"
+msgstr "רשת טבלה"
+
+msgid "Table Layout"
+msgstr "פריסת טבלה"
+
+msgid "Table of Authorities"
+msgstr "טבלת מקורות משפטיים"
+
+msgid "Table of Contents"
+msgstr "תוכן עניינים"
+
+msgid "Table of Contents Options"
+msgstr "אפשרויות תוכן עניינים"
+
+msgid "Table of Contents Styles"
+msgstr "סגנונות תוכן עניינים"
+
+msgid "Table of Figures"
+msgstr "רשימת איורים"
+
+msgid "Table of\nContents"
+msgstr "תוכן\nעניינים"
+
+msgid "Table Properties"
+msgstr "מאפייני טבלה"
+
+msgid "Table Properties…"
+msgstr "מאפייני טבלה…"
+
+msgid "Table Row Height"
+msgstr "גובה שורת טבלה"
+
+msgid "Table size"
+msgstr "גודל הטבלה"
+
+msgid "Table Style Options"
+msgstr "אפשרויות סגנון טבלה"
+
+msgid "Table Styles"
+msgstr "סגנונות טבלה"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11.00\" × 17.00\""
+
+msgid "Tabs…"
+msgstr "טאבים…"
+
+msgid "Tabular List"
+msgstr "רשימה טבלאית"
+
+msgid "Tag"
+msgstr "תג"
+
+msgid "Taiwan"
+msgstr "טאיוואן"
+
+msgid "Take the last match on the page"
+msgstr "שימוש בהתאמה האחרונה בעמוד"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "קחו את הזמן. הדף לא הולך לשום מקום. גם אני לא. אף פעם."
+
+msgid "Tamil"
+msgstr "טמילית"
+
+msgid "Tangent formula"
+msgstr "נוסחת טנגנס"
+
+msgid "Tangent Function"
+msgstr "פונקציית טנגנס"
+
+msgid "TC entry fields"
+msgstr "שדות ערכי TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "טכנולוגיה"
+
+msgid "Templates and Add-ins"
+msgstr "תבניות ותוספות"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "תבניות שנשמרות בתיקיית התבניות מופיעות כאן."
+
+msgid "Text Box"
+msgstr "תיבת טקסט"
+
+msgid "Text boxes"
+msgstr "תיבות טקסט"
+
+msgid "text boxes can't go inside a text box"
+msgstr "אי אפשר למקם תיבת טקסט בתוך תיבת טקסט"
+
+msgid "Text Direction"
+msgstr "כיוון טקסט"
+
+msgid "Text Effects"
+msgstr "אפקטים של טקסט"
+
+msgid "Text Effects and Typography"
+msgstr "אפקטים של טקסט וטיפוגרפיה"
+
+msgid "Text Fill"
+msgstr "מילוי טקסט"
+
+msgid "Text from File"
+msgstr "טקסט מקובץ"
+
+msgid "Text Highlight Color"
+msgstr "צבע סימון טקסט"
+
+msgid "Text indent at:"
+msgstr "כניסת טקסט ב:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "הטקסט של הפסקה הקרובה בסגנון נתון (כותרות רצות)"
+
+msgid "Text Outline"
+msgstr "קו מתאר של טקסט"
+
+msgid "Text over Colon Equal"
+msgstr "טקסט מעל נקודתיים-שווה"
+
+msgid "Text over Equal"
+msgstr "טקסט מעל שווה"
+
+msgid "Text Pane"
+msgstr "חלונית טקסט"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "גודל טקסט"
+
+msgid "Text snaps to characters"
+msgstr "הצמדת טקסט לתווים"
+
+msgid "Text to display:"
+msgstr "טקסט להצגה:"
+
+msgid "Text watermark"
+msgstr "סימן מים של טקסט"
+
+msgid "Text Wrapping"
+msgstr "גלישת טקסט"
+
+msgid "Text\nBox"
+msgstr "תיבת\nטקסט"
+
+msgid "Text\nDirection"
+msgstr "כיוון\nטקסט"
+
+msgid "Thai"
+msgstr "תאית"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "תבנית זו אינה שומרת הכול, ולכן המסמך עדיין פתוח. כדי להמשיך, יש לשמור אותו כמסמך Word (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "הסיסמה שגויה. יש לבדוק אותה (בסיסמאות יש הבחנה בין אותיות רישיות לקטנות) ולנסות שוב."
+
+msgid "The clipboard is empty."
+msgstr "הלוח ריק."
+
+msgid "the Clipboard pane is empty"
+msgstr "חלונית הלוח ריקה"
+
+msgid "the cursor isn't in a table"
+msgstr "הסמן אינו נמצא בטבלה"
+
+msgid "The date it is today"
+msgstr "התאריך של היום"
+
+msgid "The document has no bookmarks yet."
+msgstr "אין עדיין סימניות במסמך."
+
+msgid "the document is protected"
+msgstr "המסמך מוגן"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "המסמך לקריאה בלבד, מלבד אזורים שסומנו כניתנים לעריכה."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "המסמך יישמר עם סיסמה. יש לשמור אותו כדי להגן עליו."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "המסמך שבעריכה שומר על השמות והתאריכים; רק הקובץ השמור משמיט אותם."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "השוליים אינם נכנסים בעמוד בגודל זה; יש להקטין את השוליים תחילה."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "המידה חייבת להיות בין {min} ל-{max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "הסגנון החדש מקבל את העיצוב של הפסקה הנוכחית."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr ""
+
+msgid "The number must be a divisor of {max}."
+msgstr "המספר חייב להיות מחלק של {max}."
+
+msgid "The number must be between 1 and {max}."
+msgstr "המספר חייב להיות בין 1 ל-{max}."
+
+msgid "the paragraph is empty"
+msgstr "הפסקה ריקה"
+
+msgid "the paragraph starts with a space"
+msgstr "הפסקה מתחילה ברווח"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "הסיסמה אינה חובה; בלעדיה כל אחד יכול להפסיק את ההגנה."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "הסיסמה הוסרה. יש לשמור את המסמך כדי לשמור את השינוי."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "המדפסת, ההדפסה הדו-צדדית ומספר העמודים לגיליון נבחרים בתיבת הדו-שיח הזו."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "השדה ברשימת הנמענים שממלא כל חלק של בלוק כתובת ושל שורת פתיחה."
+
+msgid "The spelling and grammar check is complete."
+msgstr "בדיקת האיות והדקדוק הושלמה."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "לא ניתן היה לקרוא את מילון האיות של {language}, ולכן האיות לא נבדק. קובץ: {file}. סיבה: {reason}"
+
+msgid "the Spike is empty"
+msgstr "ה-Spike ריק"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "תיבת הדו-שיח של הקבצים במערכת אינה זמינה, ולכן WordCraft מציג תיבה משלו. כדי לקבל את תיבת הדו-שיח של המערכת, יש להתקין פורטל לבחירת קבצים (כגון xdg-desktop-portal-gtk) או את zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "הטקסט בנקודת ההוספה מסומן 'לא לבדוק איות או דקדוק'."
+
+msgid "The time right now"
+msgstr "השעה כעת"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "צבעי ערכת נושא"
+
+msgid "Theme Fonts"
+msgstr "גופני ערכת נושא"
+
+msgid "Theme List"
+msgstr "רשימת ערכות נושא"
+
+msgid "Themes"
+msgstr "ערכות נושא"
+
+msgid "Then by"
+msgstr "ואחר כך לפי"
+
+msgid "Then insert:"
+msgstr "ולאחר מכן להוסיף:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "אין דיו להפעלה חוזרת"
+
+msgid "there is nothing to undo"
+msgstr "אין מה לבטל"
+
+msgid "there's no citation after the caret"
+msgstr "אין ציטוט אחרי הסמן"
+
+msgid "Thesaurus"
+msgstr "אוצר מילים"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "סימנים אלה מוצגים גם כשהצגה/הסתרה של ¶ כבויה."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "שדות המיזוג האלה אינם ברשימת הנמענים:"
+
+msgid "These settings will be used for new documents."
+msgstr "הגדרות אלה ישמשו עבור מסמכים חדשים."
+
+msgid "Thick"
+msgstr "עבה"
+
+msgid "Thick Frame"
+msgstr "מסגרת עבה"
+
+msgid "Thin"
+msgstr "דק"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "אי אפשר לבטל את הפעולה. הקובץ המקורי נשאר ללא שינוי."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "התרשים נוצר בתוכנה אחרת: WordCraft מציג אותו אבל לא יכול לערוך אותו"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "מסמך זה"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr ""
+
+msgid "This field has no options."
+msgstr "לשדה זה אין אפשרויות."
+
+msgid "This folder can't be read: {error}"
+msgstr "לא ניתן לקרוא את התיקייה הזו: {error}"
+
+msgid "This font has no characters to show."
+msgstr "אין בגופן זה תווים להצגה."
+
+msgid "this item is already at the top level"
+msgstr "פריט זה כבר נמצא ברמה העליונה"
+
+msgid "This page"
+msgstr "עמוד זה"
+
+msgid "This password type isn't supported."
+msgstr "סוג סיסמה זה אינו נתמך."
+
+msgid "This point forward"
+msgstr "מנקודה זו והלאה"
+
+msgid "This section"
+msgstr "מקטע זה"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr ""
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr ""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "גרפיקת ה-SmartArt נוצרה בתוכנה אחרת: WordCraft מציג אותה אבל לא יכול לערוך אותה"
+
+msgid "this text box is already linked: break the link first"
+msgstr "תיבת הטקסט כבר מקושרת: יש לנתק קודם את הקישור"
+
+msgid "Three"
+msgstr "שלושה"
+
+msgid "Through"
+msgstr "דרך"
+
+msgid "Tight"
+msgstr "צמוד"
+
+msgid "Tilde"
+msgstr "טילדה"
+
+msgid "Tip"
+msgstr "עצה"
+
+msgid "Tips ({n})"
+msgstr "עצות ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "כותרת"
+
+msgid "Title Bar"
+msgstr "שורת הכותרת"
+
+msgid "Title from the document properties"
+msgstr "כותרת ממאפייני המסמך"
+
+msgid "Title:"
+msgstr "כותרת:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "כדי לפתוח מסמכי Word עם WordCraft כברירת מחדל: יש לבחור מסמך כזה ב-Finder, לבחור קובץ › קבלת מידע, לבחור ב-WordCraft תחת \"פתיחה באמצעות\" וללחוץ על \"שינוי הכול\"."
+
+msgid "To:"
+msgstr "אל:"
+
+msgid "TOA Heading"
+msgstr "כותרת טבלת מקורות משפטיים"
+
+msgid "TOC Heading"
+msgstr "כותרת תוכן עניינים"
+
+msgid "TOC {n}"
+msgstr "תוכן עניינים {n}"
+
+msgid "Today"
+msgstr "היום"
+
+msgid "tOGGLE cASE"
+msgstr "הפיכת רישיות"
+
+msgid "Toggle Check Box"
+msgstr "החלפת מצב תיבת סימון"
+
+msgid "Toggle Field Codes"
+msgstr "החלפת מצב קודי שדות"
+
+msgid "Toggle Unicode Character"
+msgstr "החלפת מצב תו Unicode"
+
+msgid "Top and Bottom"
+msgstr "למעלה ולמטה"
+
+msgid "Top Border"
+msgstr "גבול עליון"
+
+msgid "Top Left Cell"
+msgstr "תא שמאלי עליון"
+
+msgid "Top Margin"
+msgstr "שוליים עליונים"
+
+msgid "Top of Page"
+msgstr "ראש העמוד"
+
+msgid "Top of the Document"
+msgstr "ראש המסמך"
+
+msgid "Top Right Cell"
+msgstr "תא ימני עליון"
+
+msgid "Total Row"
+msgstr "שורת סיכום"
+
+msgid "Track Changes"
+msgstr "מעקב אחר שינויים"
+
+msgid "Track Changes Options"
+msgstr "אפשרויות מעקב אחר שינויים"
+
+msgid "Track Changes: On"
+msgstr "מעקב אחר שינויים: מופעל"
+
+msgid "Track formatting"
+msgstr "מעקב אחר עיצוב"
+
+msgid "Track\nChanges"
+msgstr "מעקב אחר\nשינויים"
+
+msgid "Track\nChanges ✓"
+msgstr "מעקב אחר\nשינויים ✓"
+
+msgid "Tracked changes"
+msgstr "שינויים במעקב"
+
+msgid "Trademark"
+msgstr "סימן מסחרי"
+
+msgid "Trademark Sign"
+msgstr "סמל סימן מסחרי"
+
+msgid "Transparency:"
+msgstr "שקיפות:"
+
+msgid "Transport"
+msgstr "תחבורה"
+
+msgid "Triangle Down"
+msgstr "משולש כלפי מטה"
+
+msgid "Triangle Up"
+msgstr "משולש כלפי מעלה"
+
+msgid "Trigonometric Functions"
+msgstr "פונקציות טריגונומטריות"
+
+msgid "Triple"
+msgstr "קו משולש"
+
+msgid "Triple Dot"
+msgstr "שלוש נקודות"
+
+msgid "Triple Integral"
+msgstr "אינטגרל משולש"
+
+msgid "Triple Integral with Limits"
+msgstr "אינטגרל משולש עם גבולות"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "אינטגרל משולש עם גבולות מוערמים"
+
+msgid "Trust Center"
+msgstr "מרכז האמון"
+
+msgid "Tue"
+msgstr "ג'"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "טורקית"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "שניים"
+
+msgid "Two-sided printing"
+msgstr "הדפסה דו-צדדית"
+
+msgid "Two-sided: long edge"
+msgstr "דו-צדדית: הקצה הארוך"
+
+msgid "Two-sided: short edge"
+msgstr "דו-צדדית: הקצה הקצר"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "יש להקליד +2 או -1 כדי לזוז מהעמוד הנוכחי."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "יש להקליד פקודה, למשל \"הוספת טבלה\""
+
+msgid "Type a New List…"
+msgstr "הקלדת רשימה חדשה…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "יש להקליד מספר עמוד, או +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "יש להקליד גודל בכל יחידה, כגון 5 cm או 300 px. הצד השני משתנה בהתאם, כך שהתמונה שומרת על היחס בין מידותיה."
+
+msgid "Type at least one recipient."
+msgstr "יש להקליד נמען אחד לפחות."
+
+msgid "Type Character Code"
+msgstr "הקלדת קוד תו"
+
+msgid "Type equations in LaTeX"
+msgstr "הקלדת משוואות ב-LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "הקלדת משוואות בתבנית הליניארית (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "הקלדה במשוואה"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "הקלדת טקסט רגיל (לא מתמטי) במשוואה"
+
+msgid "Type Text"
+msgstr "הקלדת טקסט"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "יש להקליד את הקטגוריות לאורך הצד ועמודת ערכים לכל סדרה."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "יש להקליד את שם השדה ואת המתגים שלו, לדוגמה PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "יש להקליד את הסיסמה כדי להפסיק את ההגנה."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "יש להקליד את הנמענים או לטעון אותם מקובץ."
+
+msgid "Typing replaces selected text"
+msgstr "הקלדה מחליפה את הטקסט הנבחר"
+
+msgid "U.A.E."
+msgstr "איחוד האמירויות"
+
+msgid "Ukraine"
+msgstr "אוקראינה"
+
+msgid "Ukrainian"
+msgstr "אוקראינית"
+
+msgid "Unchecked symbol"
+msgstr "סמל לא מסומן"
+
+msgid "Underbar"
+msgstr "קו מתחת"
+
+msgid "Underbrace"
+msgstr "סוגר מסולסל תחתון"
+
+msgid "Underline Color"
+msgstr "צבע קו תחתון"
+
+msgid "Underline color"
+msgstr "צבע קו תחתון"
+
+msgid "Underline Words Only"
+msgstr "קו תחתון למילים בלבד"
+
+msgid "Undo 1 Action"
+msgstr "ביטול פעולה אחת"
+
+msgid "Undo Actions"
+msgstr "ביטול פעולות"
+
+msgid "Undo History"
+msgstr "היסטוריית ביטול"
+
+msgid "Undo {n} Actions"
+msgstr "ביטול {n} פעולות"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "ביטול, ביטול, ביטול… עכשיו אנחנו נוסעים בזמן."
+
+msgid "Unformatted Text"
+msgstr "טקסט לא מעוצב"
+
+msgid "Union of intersections"
+msgstr "איחוד של חיתוכים"
+
+msgid "Union with Limits"
+msgstr "איחוד עם גבולות"
+
+msgid "Union with Lower Limit"
+msgstr "איחוד עם גבול תחתון"
+
+msgid "Union with Plus"
+msgstr "איחוד עם פלוס"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "איחוד עם גבולות בכתב תחתי ועילי"
+
+msgid "Unions and Intersections"
+msgstr "איחודים וחיתוכים"
+
+msgid "United Kingdom"
+msgstr "הממלכה המאוחדת"
+
+msgid "United States"
+msgstr "ארצות הברית"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "ניתוק קישור שדות"
+
+msgid "Unlink\nCitations"
+msgstr "ניתוק\nציטוטים"
+
+msgid "Unlock Fields"
+msgstr "ביטול נעילת שדות"
+
+msgid "Up Diagonal Dots"
+msgstr "נקודות באלכסון עולה"
+
+msgid "Up one level"
+msgstr "רמה אחת למעלה"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "עדכון שדה"
+
+msgid "Update fields before printing"
+msgstr "עדכון שדות לפני הדפסה"
+
+msgid "Update Index"
+msgstr "עדכון אינדקס"
+
+msgid "Update Style to Match Selection"
+msgstr "עדכון הסגנון בהתאם לבחירה"
+
+msgid "Update Styles from Template"
+msgstr "עדכון סגנונות מהתבנית"
+
+msgid "Update Table"
+msgstr "עדכון טבלה"
+
+msgid "Update Table of Figures"
+msgstr "עדכון רשימת האיורים"
+
+msgid "Update to Match"
+msgstr "עדכון להתאמה"
+
+msgid "Update to Match Selection"
+msgstr "עדכון בהתאם לבחירה"
+
+msgid "URGENT"
+msgstr "דחוף"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "אורוגוואי"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "שימוש ב-\"a\" לפני צליל עיצורי"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "שימוש ב-\"an\" לפני צליל תנועה"
+
+msgid "Use an Existing List…"
+msgstr "שימוש ברשימה קיימת…"
+
+msgid "Use system setting"
+msgstr "שימוש בהגדרת המערכת"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "שימוש במסך המלא של הדפדפן (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr ""
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "שימוש במקש Insert להפעלה ולכיבוי של מצב החלפה"
+
+msgid "Use this formatting as the default for:"
+msgstr ""
+
+msgid "Use wildcards"
+msgstr "שימוש בתווים כלליים"
+
+msgid "User Name"
+msgstr "שם משתמש"
+
+msgid "User name:"
+msgstr "שם משתמש:"
+
+msgid "User templates:"
+msgstr "תבניות משתמש:"
+
+msgid "Vector A"
+msgstr "וקטור A"
+
+msgid "Vector AB"
+msgstr "וקטור AB"
+
+msgid "Venezuela"
+msgstr "ונצואלה"
+
+msgid "Version History"
+msgstr "היסטוריית גרסאות"
+
+msgid "Version {version} ({build})"
+msgstr "גרסה {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "יישור אנכי:"
+
+msgid "Vertical Bars"
+msgstr "קווים אנכיים"
+
+msgid "Vertical Dots"
+msgstr "נקודות אנכיות"
+
+msgid "Vietnamese"
+msgstr "וייטנאמית"
+
+msgid "View Alt Text…"
+msgstr "הצגת טקסט חלופי…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "הצגת קווי רשת"
+
+msgid "View State"
+msgstr "מצב תצוגה"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "תצוגה › מיקוד מסתירה הכול חוץ מהמילים שלך. אני אחכה בחוץ."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "תצוגות"
+
+msgid "Visual effects"
+msgstr "אפקטים חזותיים"
+
+msgid "Vivid 200%"
+msgstr "עז 200%"
+
+msgid "Volume"
+msgstr "כרך"
+
+msgid "Volume Integral"
+msgstr "אינטגרל נפח"
+
+msgid "Volume Integral with Limits"
+msgstr "אינטגרל נפח עם גבולות"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "אינטגרל נפח עם גבולות מוערמים"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "יש להמתין לסיום שליחת עבודת ההדפסה לפני הסגירה."
+
+msgid "Waiting for the save to finish…"
+msgstr "ממתין לסיום השמירה…"
+
+msgid "Waiting for Zotero…"
+msgstr "ממתין ל-Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "מעבר צבע חם עם קו מתאר"
+
+msgid "Warnings ({n})"
+msgstr "אזהרות ({n})"
+
+msgid "Washout"
+msgstr "דהוי"
+
+msgid "Weather"
+msgstr "מזג אוויר"
+
+msgid "Web Layout"
+msgstr "פריסת אינטרנט"
+
+msgid "Web page (*.html)"
+msgstr "דף אינטרנט (*.html)"
+
+msgid "Web\nLayout"
+msgstr "פריסת\nאינטרנט"
+
+msgid "Wed"
+msgstr "ד'"
+
+msgid "Welsh"
+msgstr "וולשית"
+
+msgid "West"
+msgstr "מערב"
+
+msgid "When this document was first created"
+msgstr "מתי מסמך זה נוצר לראשונה"
+
+msgid "When this document was most recently printed"
+msgstr "מתי מסמך זה הודפס לאחרונה"
+
+msgid "When this document was most recently saved"
+msgstr "מתי מסמך זה נשמר לאחרונה"
+
+msgid "White Space"
+msgstr "רווח לבן"
+
+msgid "White space"
+msgstr "רווח לבן"
+
+msgid "Who the document properties name as author"
+msgstr "מי שמאפייני המסמך מציינים כמחבר"
+
+msgid "Whole document"
+msgstr "המסמך כולו"
+
+msgid "Whole page"
+msgstr "עמוד שלם"
+
+msgid "Whole Table"
+msgstr "הטבלה כולה"
+
+msgid "Whole words"
+msgstr "מילים שלמות"
+
+msgid "Wide"
+msgstr "רחב"
+
+msgid "Widow/Orphan Control"
+msgstr "בקרת שורות יתומות ואלמנות"
+
+msgid "Widow/Orphan control"
+msgstr "בקרת שורות יתומות ואלמנות"
+
+msgid "Width and spacing"
+msgstr "רוחב וריווח"
+
+msgid "Wildcards (regex)"
+msgstr "תווים כלליים (ביטוי רגולרי)"
+
+msgid "With:"
+msgstr "עם:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "מסמך XML של Word 2003 (*.xml)"
+
+msgid "Word Count"
+msgstr "ספירת מילים"
+
+msgid "Word document"
+msgstr "מסמך Word"
+
+msgid "Word document (*.docx)"
+msgstr "מסמך Word (*.docx)"
+
+msgid "Word Left"
+msgstr "מילה שמאלה"
+
+msgid "Word level"
+msgstr "רמת מילה"
+
+msgid "Word Right"
+msgstr "מילה ימינה"
+
+msgid "Word sources"
+msgstr "מקורות Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "מסמך Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "סגנונות WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft הוא כעת יישום ברירת המחדל למסמכי Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "מילים בלבד"
+
+msgid "Wrap Text"
+msgstr "גלישת טקסט"
+
+msgid "Wrap Text Sides"
+msgstr "צדי גלישת הטקסט"
+
+msgid "Wrap\nText"
+msgstr "גלישת\nטקסט"
+
+msgid "Write & Insert Fields"
+msgstr "כתיבה והוספה של שדות"
+
+msgid "Write a reply"
+msgstr "כתיבת תשובה"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "מחסום כתיבה? מבחינתי, לבהות בסמן עוזר. הוא מהבהב אליי כבר שנים."
+
+msgid "x bar"
+msgstr "x עם קו עליון"
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "Yields"
+msgstr "מניב"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "עבר זמן מאז השמירה האחרונה, והשמירה האוטומטית כבויה. לשמור עכשיו?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "התחלת רשימה. לחיצה כפולה על Enter מסיימת אותה, ו-Backspace בתחילת פריט הופך אותו חזרה לטקסט."
+
+msgid "Your document is now the most saved document in history."
+msgstr "המסמך שלך הוא עכשיו המסמך השמור ביותר בהיסטוריה."
+
+msgid "Your languages"
+msgstr "השפות שלך"
+
+msgid "Your own dictionary"
+msgstr "המילון האישי שלך"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "המערכת אינה מדווחת על הגדרת הנפשה, ולכן אפקטי ההנפשה נשארים מופעלים."
+
+msgid "Your system has animation effects turned off."
+msgstr "אפקטי ההנפשה כבויים במערכת."
+
+msgid "Your system has animation effects turned on."
+msgstr "אפקטי ההנפשה מופעלים במערכת."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: בוטל"
+
+msgid "Zotero: done"
+msgstr "Zotero: הסתיים"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; לא ניתן היה לקרוא {count}: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; דולגו {n} (המגבלה היא {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "טבלה {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "תורמים: {contributors} · שינויים: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "פריטים מסומנים: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "יודפסו {count} מתוך {total} עמודים"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "ימוזגו {count} מתוך {total} נמענים."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "הגדרות {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} בודק איות ודקדוק בכל המסמך."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} סופר מילים, תווים ופסקאות."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} מוצא ומחליף טקסט, עיצוב ותווים מיוחדים."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} חוזר על הפעולה האחרונה. פתאום עיצוב של עשר כותרות הוא לחיצה אחת ותשע הקשות."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} מתחיל שורה חדשה בלי להתחיל פסקה חדשה."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} פותח עמוד חדש. הרבה יותר מסודר מללחוץ Enter עד שזה קורה."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} הופך את הטקסט הנבחר לקישור."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+לחיצה למעבר לקישור"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (ברירת מחדל)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (המילון לא קריא)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (אין מילון)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} היא כעת שפת ברירת המחדל של המסמך."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: לא נמצא מילון"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft עדיין לא בודק איות או דקדוק בשפה הזו."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (לא קריא: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} ועוד {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} אינץ'"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} מ\"מ"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} כבר קיים. יש לבחור שוב \"שמירה\" כדי להחליף אותו."
+
+msgid "{name} is protected with a password."
+msgstr "{name} מוגן בסיסמה."
+
+msgid "{name} options"
+msgstr "אפשרויות {name}"
+
+msgid "{name} wasn't found."
+msgstr "{name} לא נמצא."
+
+msgid "{n} entries marked."
+msgstr "ערכים שסומנו: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "שורות: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} נק'"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "מילים: {selected} מתוך {words}"
+
+msgid "{size} pt"
+msgstr "{size} נק'"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} מ\"מ"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} פיקסלים"
+
+msgid "{words} words"
+msgstr "מילים: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "מילים: {words}, והמספר עולה. ממש. אני סופר."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "מילים: {words}! הייתי זורק קונפטי, אבל אז הייתי צריך לנקות."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "מילים: {words}. זה {words} יותר ממה שאני כתבתי היום."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "“{text}” ({row}, {series}) אינו מספר."
+
+msgid "✓ None"
+msgstr "✓ ללא"
+
+msgid "➕ New comment"
+msgstr "➕ הערה חדשה"
+
+msgid "📂  Browse…"
+msgstr "📂  עיון…"

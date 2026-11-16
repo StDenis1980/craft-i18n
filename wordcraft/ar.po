@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+
+msgid "(All)"
+msgstr "(الكل)"
+
+msgid "(no style)"
+msgstr "(بلا نمط)"
+
+msgid "(no suggestions)"
+msgstr "(لا توجد اقتراحات)"
+
+msgid "(normal text)"
+msgstr "(نص عادي)"
+
+msgid "(not matched)"
+msgstr "(غير مطابق)"
+
+msgid "(picture or object)"
+msgstr "(صورة أو كائن)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr "*غامق* و_مائل_ كتنسيق فعلي"
+
+msgid "0 or More Characters"
+msgstr "0 أحرف أو أكثر"
+
+msgid "1. Formatting restrictions"
+msgstr "1. قيود التنسيق"
+
+msgid "1.5 Line Spacing"
+msgstr "تباعد أسطر 1.5"
+
+msgid "1/4 Em Space"
+msgstr "مسافة ربع Em"
+
+msgid "1×2 Empty Matrix"
+msgstr "مصفوفة فارغة 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "مصفوفة فارغة 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. قيود التحرير"
+
+msgid "2×1 Empty Matrix"
+msgstr "مصفوفة فارغة 2×1"
+
+msgid "2×2 Determinant"
+msgstr "محدِّد 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "مصفوفة فارغة 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "مصفوفة وحدة 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "مصفوفة وحدة 2×2 (متفرقة)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "مصفوفة 2×2 بين قوسين معقوفين"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "مصفوفة 2×2 بين خطين مزدوجين"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "مصفوفة 2×2 بين قوسين"
+
+msgid "2×3 Empty Matrix"
+msgstr "مصفوفة فارغة 2×3"
+
+msgid "3-D"
+msgstr "ثلاثي الأبعاد"
+
+msgid "3. Start enforcement"
+msgstr "3. بدء الفرض"
+
+msgid "3×1 Empty Matrix"
+msgstr "مصفوفة فارغة 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "مصفوفة فارغة 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "مصفوفة فارغة 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "مصفوفة وحدة 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "مصفوفة وحدة 3×3 (متفرقة)"
+
+msgid "<< Less"
+msgstr "<< أقل"
+
+msgid "<< Remove"
+msgstr "<< إزالة"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "يحتوي الرسم التخطيطي على {MAX_ITEMS} عنصرًا كحد أقصى"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "لا يمكن فك تجميع لوحة الرسم"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "لا يمكن وضع لوحة رسم داخل مربع نص"
+
+msgid "A file dialog is already open."
+msgstr "مربع حوار اختيار ملف مفتوح بالفعل."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "معالج نصوص مجاني مفتوح المصدر، مكتوب من الصفر بلغة Rust.\nجزء من تطبيقات Crafting Apps من فريق ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "لا يمكن بعد فك تجميع مجموعة تحتوي على حبر Word"
+
+msgid "A mail merge field"
+msgstr "حقل دمج مراسلات"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "تسلسل مرقّم (أشكال، جداول…)"
+
+msgid "A password is required to open this document."
+msgstr "يلزم إدخال كلمة مرور لفتح هذا المستند."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "جدول محتويات"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A، B، C، …"
+
+msgid "a, b, c, …"
+msgstr "a، b، c، …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "حول WordCraft"
+
+msgid "Above Chart"
+msgstr "فوق المخطط"
+
+msgid "Above the item"
+msgstr "فوق العنصر"
+
+msgid "Above/below"
+msgstr "أعلى/أسفل"
+
+msgid "Absolute value cases"
+msgstr "حالات القيمة المطلقة"
+
+msgid "Accent"
+msgstr "علامة تشكيل"
+
+msgid "Accent Gradient"
+msgstr "تدرّج لون التمييز"
+
+msgid "Accent with Reflection"
+msgstr "لون التمييز مع انعكاس"
+
+msgid "Accent {n}"
+msgstr "لون التمييز {n}"
+
+msgid "Accents"
+msgstr "علامات التشكيل"
+
+msgid "Accept"
+msgstr "قبول"
+
+msgid "Accept All Changes"
+msgstr "قبول كل التغييرات"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr "قبول كل التغييرات وإيقاف التتبع"
+
+msgid "Accept and Move to Next"
+msgstr "قبول والانتقال إلى التالي"
+
+msgid "Accept This Change"
+msgstr "قبول هذا التغيير"
+
+msgid "Accessed on"
+msgstr "تاريخ الاطلاع"
+
+msgid "Accessibility Pane"
+msgstr "جزء إمكانية الوصول"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Acute"
+msgstr "علامة حادة"
+
+msgid "Add >>"
+msgstr "إضافة >>"
+
+msgid "Add a language"
+msgstr "إضافة لغة"
+
+msgid "Add a language…"
+msgstr "إضافة لغة…"
+
+msgid "Add a period with double-space"
+msgstr "إضافة نقطة عند الضغط على المسافة مرتين"
+
+msgid "Add a Table"
+msgstr "إضافة جدول"
+
+msgid "Add at least one field."
+msgstr "أضف حقلًا واحدًا على الأقل."
+
+msgid "Add Chart Element"
+msgstr "إضافة عنصر مخطط"
+
+msgid "Add Condition"
+msgstr "إضافة شرط"
+
+msgid "Add Field"
+msgstr "إضافة حقل"
+
+msgid "Add Font…"
+msgstr "إضافة خط…"
+
+msgid "Add gradient stop"
+msgstr "إضافة نقطة تدرّج"
+
+msgid "Add line numbering"
+msgstr "إضافة ترقيم الأسطر"
+
+msgid "Add New Source…"
+msgstr "إضافة مصدر جديد…"
+
+msgid "Add Object to Selection"
+msgstr "إضافة كائن إلى التحديد"
+
+msgid "Add Pen"
+msgstr "إضافة قلم"
+
+msgid "Add Row"
+msgstr "إضافة صف"
+
+msgid "Add Series"
+msgstr "إضافة سلسلة"
+
+msgid "Add Shape"
+msgstr "إضافة شكل"
+
+msgid "Add Space Before Paragraph"
+msgstr "إضافة مسافة قبل الفقرة"
+
+msgid "Add space between Asian and Latin text"
+msgstr "إضافة مسافة بين النص الآسيوي والنص اللاتيني"
+
+msgid "Add space between Asian text and numbers"
+msgstr "إضافة مسافة بين النص الآسيوي والأرقام"
+
+msgid "Add tab stop at:"
+msgstr "إضافة موضع جدولة عند:"
+
+msgid "Add Text"
+msgstr "إضافة نص"
+
+msgid "Add the chapter number"
+msgstr "إضافة رقم الفصل"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "إضافة إلى المستند"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "إضافة إلى شريط أدوات الوصول السريع"
+
+msgid "Add to Style Gallery"
+msgstr "إضافة إلى معرض الأنماط"
+
+msgid "Add whether it is above or below"
+msgstr "إضافة «فوق» أو «تحت»"
+
+msgid "Add/Edit\nBibliography"
+msgstr "إضافة/تحرير\nالمراجع"
+
+msgid "Add/Edit\nCitation"
+msgstr "إضافة/تحرير\nاستشهاد"
+
+msgid "Add\nNote"
+msgstr "إضافة\nملاحظة"
+
+msgid "Add\nPen"
+msgstr "إضافة\nقلم"
+
+msgid "Add\nShape"
+msgstr "إضافة\nشكل"
+
+msgid "Added 1 font"
+msgstr "أُضيف خط واحد"
+
+msgid "Added Fonts"
+msgstr "الخطوط المضافة"
+
+msgid "Added {n} fonts"
+msgstr "أُضيف {n} من الخطوط"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Address Block"
+msgstr "كتلة العنوان"
+
+msgid "Address labels"
+msgstr "ملصقات العناوين"
+
+msgid "Address:"
+msgstr "العنوان:"
+
+msgid "Address\nBlock"
+msgstr "كتلة\nالعنوان"
+
+msgid "Advanced Find"
+msgstr "بحث متقدم"
+
+msgid "Advanced Find…"
+msgstr "بحث متقدم…"
+
+msgid "Advanced Properties…"
+msgstr "خصائص متقدمة…"
+
+msgid "Afrikaans"
+msgstr "الأفريكانية"
+
+msgid "After:"
+msgstr "بعد:"
+
+msgid "Agents"
+msgstr "الوكلاء"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "يمكن للوكلاء المتصلين بـ WordCraft أن يعرضوا لك رسائل عبر المساعد. وإذا كتمتها، يُبلَّغون بأنك لا ترغب فيها."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "آه، اللاتينية. لغة المواعيد النهائية."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "آه، مرحلة التحرير. مرحلتي المفضلة. حاسمة جدًا."
+
+msgid "Albanian"
+msgstr "الألبانية"
+
+msgid "Align Bottom Center"
+msgstr "محاذاة للأسفل في الوسط"
+
+msgid "Align Bottom Left"
+msgstr "محاذاة للأسفل يسارًا"
+
+msgid "Align Bottom Right"
+msgstr "محاذاة للأسفل يمينًا"
+
+msgid "Align Center"
+msgstr "توسيط"
+
+msgid "Align Center Left"
+msgstr "محاذاة للوسط يسارًا"
+
+msgid "Align Center Right"
+msgstr "محاذاة للوسط يمينًا"
+
+msgid "Align Top Center"
+msgstr "محاذاة للأعلى في الوسط"
+
+msgid "Align Top Left"
+msgstr "محاذاة للأعلى يسارًا"
+
+msgid "Align Top Right"
+msgstr "محاذاة للأعلى يمينًا"
+
+msgid "Aligned at:"
+msgstr "المحاذاة عند:"
+
+msgid "All - Linear"
+msgstr "الكل - خطي"
+
+msgid "All - Professional"
+msgstr "الكل - احترافي"
+
+msgid "All Borders"
+msgstr "كل الحدود"
+
+msgid "All caps"
+msgstr "أحرف كبيرة بالكامل"
+
+msgid "All Commands"
+msgstr "كل الأوامر"
+
+msgid "All documents based on the Normal template?"
+msgstr "كل المستندات المستندة إلى القالب «عادي»؟"
+
+msgid "All Fonts"
+msgstr "كل الخطوط"
+
+msgid "All Levels"
+msgstr "كل المستويات"
+
+msgid "All Markup"
+msgstr "كل العلامات"
+
+msgid "All pages in the range"
+msgstr "كل الصفحات في النطاق"
+
+msgid "All symbol sets"
+msgstr "كل مجموعات الرموز"
+
+msgid "All system fonts are already available."
+msgstr "كل خطوط النظام متاحة بالفعل."
+
+msgid "Allow hanging punctuation"
+msgstr "السماح بعلامات الترقيم المعلّقة"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "السماح بالتفاف النص اللاتيني في منتصف الكلمة"
+
+msgid "Allow line breaks"
+msgstr "السماح بفواصل الأسطر"
+
+msgid "Allow row to break across pages"
+msgstr "السماح بانقسام الصف عبر الصفحات"
+
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+msgid "Alt Text"
+msgstr "نص بديل"
+
+msgid "Alt text"
+msgstr "نص بديل"
+
+msgid "Alt Text Pane"
+msgstr "جزء النص البديل"
+
+msgid "Alt:"
+msgstr "بديل:"
+
+msgid "Alt\nText"
+msgstr "نص\nبديل"
+
+msgid "an agent"
+msgstr "وكيل"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "تُستخدم حزمة اللغة المثبّتة بعد هذا المجلد."
+
+msgid "And"
+msgstr "و"
+
+msgid "Angle Brackets"
+msgstr "أقواس زاوية"
+
+msgid "Angle Brackets with Separator"
+msgstr "أقواس زاوية مع فاصل"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "أقواس زاوية مع فاصلين"
+
+msgid "Angola"
+msgstr "أنغولا"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "تحريك مؤشر الكتابة (ينزلق ويتلاشى)"
+
+msgid "Animation effects:"
+msgstr "تأثيرات الحركة:"
+
+msgid "Annotation Reference"
+msgstr "مرجع التعليق التوضيحي"
+
+msgid "Annotation Subject"
+msgstr "موضوع التعليق التوضيحي"
+
+msgid "Annotation Text"
+msgstr "نص التعليق التوضيحي"
+
+msgid "Annoying"
+msgstr "مزعج"
+
+msgid "Another file"
+msgstr "ملف آخر"
+
+msgid "Any Character"
+msgstr "أي حرف"
+
+msgid "Any Digit"
+msgstr "أي رقم"
+
+msgid "Any field"
+msgstr "أي حقل"
+
+msgid "Any Letter"
+msgstr "أي حرف أبجدي"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "يمكن لأي شخص فتح هذا المستند. شفّره بكلمة مرور ليبقى خاصًا."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "كل من يفتح المستند سيحتاج إلى كلمة المرور هذه."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "التطبيق أثناء الكتابة"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "تطبيق قواعد فصل الأسطر الآسيوية (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "تطبيق التنسيق على:"
+
+msgid "Apply Style"
+msgstr "تطبيق نمط"
+
+msgid "Apply Styles"
+msgstr "تطبيق الأنماط"
+
+msgid "Arabic"
+msgstr "العربية"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "قوس للأسفل"
+
+msgid "Arch Up"
+msgstr "قوس للأعلى"
+
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+msgid "Armenian"
+msgstr "الأرمنية"
+
+msgid "Arrange\nAll"
+msgstr "ترتيب\nالكل"
+
+msgid "Article I."
+msgstr "المادة I."
+
+msgid "Artistic Effects"
+msgstr "تأثيرات فنية"
+
+msgid "As Recommended"
+msgstr "حسب التوصية"
+
+msgid "As you type"
+msgstr "أثناء الكتابة"
+
+msgid "ASAP"
+msgstr "ASAP"
+
+msgid "Asian text font:"
+msgstr "خط النص الآسيوي:"
+
+msgid "Asian Typography"
+msgstr "الطباعة الآسيوية"
+
+msgid "Assistant"
+msgstr "المساعد"
+
+msgid "Assistant Suggestions"
+msgstr "اقتراحات المساعد"
+
+msgid "At least"
+msgstr "على الأقل"
+
+msgid "At least {n}"
+msgstr "{n} على الأقل"
+
+msgid "Atelier"
+msgstr "المرسم"
+
+msgid "Atmosphere"
+msgstr "الأجواء"
+
+msgid "Attach Template"
+msgstr "إرفاق قالب"
+
+msgid "Attach…"
+msgstr "إرفاق…"
+
+msgid "Australia"
+msgstr "أستراليا"
+
+msgid "Austria"
+msgstr "النمسا"
+
+msgid "Auto orientation"
+msgstr "اتجاه تلقائي"
+
+msgid "AutoCorrect"
+msgstr "التصحيح التلقائي"
+
+msgid "AutoCorrect Options"
+msgstr "خيارات التصحيح التلقائي"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "احتواء تلقائي"
+
+msgid "AutoFit behavior"
+msgstr "سلوك الاحتواء التلقائي"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "احتواء العمود تلقائيًا بالنقر المزدوج"
+
+msgid "AutoFit Contents"
+msgstr "احتواء تلقائي للمحتوى"
+
+msgid "AutoFit to contents"
+msgstr "احتواء تلقائي للمحتوى"
+
+msgid "AutoFit to window"
+msgstr "احتواء تلقائي للنافذة"
+
+msgid "AutoFit Window"
+msgstr "احتواء تلقائي للنافذة"
+
+msgid "AutoFormat As You Type"
+msgstr "التنسيق التلقائي أثناء الكتابة"
+
+msgid "Automatic ({language})"
+msgstr "تلقائي ({language})"
+
+msgid "Automatic ({region})"
+msgstr "تلقائي ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "قوائم نقطية تلقائية"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "الوضع التلقائي يتبع لغة نظامك. تتغير القوائم والأوامر، ولا تتغير مستنداتك."
+
+msgid "Automatic numbered lists"
+msgstr "قوائم مرقّمة تلقائية"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "جدول تلقائي 1 (3 مستويات)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "جدول تلقائي 2 (مستويان)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "إضافة الكلمات إلى القائمة تلقائيًا (الحرف الأول)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "إضافة الكلمات إلى القائمة تلقائيًا (حرفان كبيران في البداية)"
+
+msgid "Automatically hyphenate document"
+msgstr "تقسيم كلمات المستند تلقائيًا"
+
+msgid "Automatically Update Document Styles"
+msgstr "تحديث أنماط المستند تلقائيًا"
+
+msgid "Automatically update document styles"
+msgstr "تحديث أنماط المستند تلقائيًا"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "الحفظ التلقائي للمستندات التي حفظتها في WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "فشل الحفظ التلقائي: {error}. احفظ المستند لإعادة تشغيل الحفظ التلقائي."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "الحفظ التلقائي غير متاح في المتصفح لأنه لا يستطيع الكتابة إلى ملفاتك. الحفظ يُنزّل نسخة."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "الحفظ التلقائي يدعم ملفات .docx و.odt و.rtf فقط؛ لا يحتفظ {name} بكل التنسيق. احفظ بصيغة .docx لتشغيل الحفظ التلقائي."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "الحفظ التلقائي يحفظ كل تغيير في الملف (يتطلب مستندًا محفوظًا)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "الحفظ التلقائي يكتب تغييراتك في الملف بعد لحظة من توقفك عن الكتابة."
+
+msgid "AutoText"
+msgstr "نص تلقائي"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10.12\" × 14.33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7.17\" × 10.12\""
+
+msgid "Balloons"
+msgstr "البالونات"
+
+msgid "Banded Columns"
+msgstr "أعمدة مخططة"
+
+msgid "Banded Rows"
+msgstr "صفوف مخططة"
+
+msgid "Base text:"
+msgstr "النص الأساسي:"
+
+msgid "Based on: {style}"
+msgstr "مبني على: {style}"
+
+msgid "Baseline Dots"
+msgstr "نقاط خط الأساس"
+
+msgid "Basic Cycle"
+msgstr "دورة أساسية"
+
+msgid "Basic List"
+msgstr "قائمة أساسية"
+
+msgid "Basic Math"
+msgstr "رياضيات أساسية"
+
+msgid "Basic Matrix"
+msgstr "مصفوفة أساسية"
+
+msgid "Basic Process"
+msgstr "عملية أساسية"
+
+msgid "Basic Pyramid"
+msgstr "هرم أساسي"
+
+msgid "Basic Radial"
+msgstr "شعاعي أساسي"
+
+msgid "Basic Venn"
+msgstr "مخطط فِن أساسي"
+
+msgid "Bayes' rule"
+msgstr "قاعدة بايز"
+
+msgid "Before:"
+msgstr "قبل:"
+
+msgid "Beginning of Word"
+msgstr "بداية الكلمة"
+
+msgid "Behind Text"
+msgstr "خلف النص"
+
+msgid "Belarus"
+msgstr "بيلاروس"
+
+msgid "Belarusian"
+msgstr "البيلاروسية"
+
+msgid "Belgium"
+msgstr "بلجيكا"
+
+msgid "Below text"
+msgstr "أسفل النص"
+
+msgid "Below the item"
+msgstr "أسفل العنصر"
+
+msgid "Between"
+msgstr "بين"
+
+msgid "Bibliography"
+msgstr "قائمة المراجع"
+
+msgid "Binomial Coefficient"
+msgstr "معامل ذي الحدين"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "معامل ذي الحدين (زاوية)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "معامل ذي الحدين بأقواس زاوية"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "مفكوك ذي الحدين لـ (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "فارغ"
+
+msgid "Blank (Three Columns)"
+msgstr "فارغ (ثلاثة أعمدة)"
+
+msgid "Blank document"
+msgstr "مستند فارغ"
+
+msgid "Blank Page"
+msgstr "صفحة فارغة"
+
+msgid "Block\nAuthors"
+msgstr "حظر\nالمؤلفين"
+
+msgid "Blue:"
+msgstr "الأزرق:"
+
+msgid "Body Text"
+msgstr "نص أساسي"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "نص أساسي في فقرة قصيرة لعرض التباعد."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "اختيار جريء. Ctrl+Z في متناولك إن احتجت إليه."
+
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+msgid "Book"
+msgstr "كتاب"
+
+msgid "Book Title"
+msgstr "عنوان كتاب"
+
+msgid "Book title"
+msgstr "عنوان الكتاب"
+
+msgid "Bookmark"
+msgstr "إشارة مرجعية"
+
+msgid "Bookmark name:"
+msgstr "اسم الإشارة المرجعية:"
+
+msgid "Bookmark text"
+msgstr "نص الإشارة المرجعية"
+
+msgid "Bookmarks"
+msgstr "الإشارات المرجعية"
+
+msgid "Border lines"
+msgstr "خطوط الحدود"
+
+msgid "Border Painter"
+msgstr "رسام الحدود"
+
+msgid "Border\nPainter"
+msgstr "رسام\nالحدود"
+
+msgid "Borders and Shading"
+msgstr "الحدود والتظليل"
+
+msgid "Borders and Shading…"
+msgstr "الحدود والتظليل…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "البوسنة والهرسك"
+
+msgid "Bosnian"
+msgstr "البوسنية"
+
+msgid "Both Sides"
+msgstr "الجانبان"
+
+msgid "Bottom Border"
+msgstr "الحد السفلي"
+
+msgid "Bottom Left Cell"
+msgstr "الخلية السفلية اليسرى"
+
+msgid "Bottom Margin"
+msgstr "الهامش السفلي"
+
+msgid "Bottom of Page"
+msgstr "أسفل الصفحة"
+
+msgid "Bottom Right Cell"
+msgstr "الخلية السفلية اليمنى"
+
+msgid "Box"
+msgstr "مربع"
+
+msgid "Boxed Formula"
+msgstr "صيغة داخل مربع"
+
+msgid "Boxed Formula (example)"
+msgstr "صيغة داخل مربع (مثال)"
+
+msgid "Boxed Formulas"
+msgstr "صيغ داخل مربعات"
+
+msgid "Braces"
+msgstr "أقواس معقوصة"
+
+msgid "Braces with Separator"
+msgstr "أقواس معقوصة مع فاصل"
+
+msgid "Bracket"
+msgstr "قوس معقوف"
+
+msgid "Brackets"
+msgstr "أقواس معقوفة"
+
+msgid "Brackets with Separators"
+msgstr "أقواس معقوفة مع فواصل"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Breaks"
+msgstr "الفواصل"
+
+msgid "Breve"
+msgstr "علامة قصيرة"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "أكثر سطوعًا +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "السطوع والتباين والحدة"
+
+msgid "Browse in WordCraft…"
+msgstr "الاستعراض في WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "عنصر تحكم في المحتوى (معرض الكتل الإنشائية)"
+
+msgid "Built in"
+msgstr "مدمجة"
+
+msgid "Built-In"
+msgstr "مضمّن"
+
+msgid "Built-in Heading styles"
+msgstr "أنماط العناوين المضمّنة"
+
+msgid "Built-in style"
+msgstr "نمط مضمّن"
+
+msgid "Built-in styles can't be deleted."
+msgstr "لا يمكن حذف الأنماط المضمّنة."
+
+msgid "Bulgarian"
+msgstr "البلغارية"
+
+msgid "Bullet Library"
+msgstr "مكتبة التعداد النقطي"
+
+msgid "Bullets"
+msgstr "تعداد نقطي"
+
+msgid "By author"
+msgstr "حسب المؤلف"
+
+msgid "Cabo Verde"
+msgstr "الرأس الأخضر"
+
+msgid "Calendar"
+msgstr "التقويم"
+
+msgid "Can't be deleted"
+msgstr "لا يمكن حذفه"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "لا تجد أمرًا؟ اضغط {key} واكتب ما تريد فعله."
+
+msgid "can't split at the first row"
+msgstr "لا يمكن التقسيم عند الصف الأول"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Canvas Member"
+msgstr "عضو اللوحة"
+
+msgid "Capitalize Each Word"
+msgstr "تكبير أول حرف من كل كلمة"
+
+msgid "Capitalize first letter of sentences"
+msgstr "تكبير أول حرف في الجمل"
+
+msgid "Capitalize first letter of table cells"
+msgstr "تكبير أول حرف في خلايا الجدول"
+
+msgid "Capitalize names of days"
+msgstr "تكبير أول حرف في أسماء الأيام"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "تكبير أول كلمة في الجملة"
+
+msgid "Caption Numbering"
+msgstr "ترقيم التسميات التوضيحية"
+
+msgid "Caption text"
+msgstr "نص التسمية التوضيحية"
+
+msgid "Caption:"
+msgstr "التسمية التوضيحية:"
+
+msgid "Captions"
+msgstr "التسميات التوضيحية"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "انتبه، خطوة أخرى إلى الوراء ونتراجع عن اختراع الورق."
+
+msgid "Caret Character"
+msgstr "حرف ^"
+
+msgid "Case changes"
+msgstr "تغييرات حالة الأحرف"
+
+msgid "Cases (Three Conditions)"
+msgstr "حالات (ثلاثة شروط)"
+
+msgid "Cases (Two Conditions)"
+msgstr "حالات (شرطان)"
+
+msgid "Cases and Stacks"
+msgstr "الحالات والتكديس"
+
+msgid "Catalan"
+msgstr "الكتالونية"
+
+msgid "Catalan (Valencian)"
+msgstr "الكتالونية (البلنسية)"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Categories:"
+msgstr "الفئات:"
+
+msgid "Category {n}"
+msgstr "الفئة {n}"
+
+msgid "Ceiling"
+msgstr "السقف"
+
+msgid "Cell"
+msgstr "خلية"
+
+msgid "Cell Margins"
+msgstr "هوامش الخلية"
+
+msgid "Cell\nMargins"
+msgstr "هوامش\nالخلية"
+
+msgid "Center Glow"
+msgstr "توهج في الوسط"
+
+msgid "Centered as Group"
+msgstr "توسيط كمجموعة"
+
+msgid "Change Chart Type"
+msgstr "تغيير نوع المخطط"
+
+msgid "Change Colors"
+msgstr "تغيير الألوان"
+
+msgid "Change in y over change in x"
+msgstr "التغير في y على التغير في x"
+
+msgid "Change Layout"
+msgstr "تغيير التخطيط"
+
+msgid "Change List Level"
+msgstr "تغيير مستوى القائمة"
+
+msgid "Change Password…"
+msgstr "تغيير كلمة المرور…"
+
+msgid "Change Picture"
+msgstr "تغيير الصورة"
+
+msgid "Change Picture…"
+msgstr "تغيير الصورة…"
+
+msgid "Change Shape"
+msgstr "تغيير الشكل"
+
+msgid "Change Structure"
+msgstr "تغيير البنية"
+
+msgid "Change to Display"
+msgstr "التحويل إلى عرض مستقل"
+
+msgid "Change to Inline"
+msgstr "التحويل إلى ضمن السطر"
+
+msgid "Change to Level 1"
+msgstr "التغيير إلى المستوى 1"
+
+msgid "Change to Level 2"
+msgstr "التغيير إلى المستوى 2"
+
+msgid "Change to Level 3"
+msgstr "التغيير إلى المستوى 3"
+
+msgid "Change to Level 4"
+msgstr "التغيير إلى المستوى 4"
+
+msgid "Change to Level 5"
+msgstr "التغيير إلى المستوى 5"
+
+msgid "Change to Level 6"
+msgstr "التغيير إلى المستوى 6"
+
+msgid "Change to Level 7"
+msgstr "التغيير إلى المستوى 7"
+
+msgid "Change to Level 8"
+msgstr "التغيير إلى المستوى 8"
+
+msgid "Change to Level 9"
+msgstr "التغيير إلى المستوى 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "تغيير\nنوع المخطط"
+
+msgid "Change\nColors"
+msgstr "تغيير\nالألوان"
+
+msgid "Changed lines:"
+msgstr "الأسطر المتغيرة:"
+
+msgid "Changes"
+msgstr "التغييرات"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "الفصل 1"
+
+msgid "Chapter in a book"
+msgstr "فصل في كتاب"
+
+msgid "Chapters begin at:"
+msgstr "تبدأ الفصول عند:"
+
+msgid "Character Border"
+msgstr "حدود الأحرف"
+
+msgid "Character code:"
+msgstr "رمز الحرف:"
+
+msgid "Character in Range"
+msgstr "حرف ضمن نطاق"
+
+msgid "Character level"
+msgstr "مستوى الأحرف"
+
+msgid "Character Position"
+msgstr "موضع الحرف"
+
+msgid "Character Scale"
+msgstr "مقياس الأحرف"
+
+msgid "Character Shading"
+msgstr "تظليل الأحرف"
+
+msgid "Character Spacing"
+msgstr "تباعد الأحرف"
+
+msgid "Character spacing"
+msgstr "تباعد الأحرف"
+
+msgid "Character style"
+msgstr "نمط أحرف"
+
+msgid "Characters (no spaces)"
+msgstr "الأحرف (دون مسافات)"
+
+msgid "Characters (with spaces)"
+msgstr "الأحرف (مع المسافات)"
+
+msgid "Characters per line:"
+msgstr "عدد الأحرف في السطر:"
+
+msgid "Chart"
+msgstr "مخطط"
+
+msgid "Chart Design"
+msgstr "تصميم المخطط"
+
+msgid "Chart Layouts"
+msgstr "تخطيطات المخطط"
+
+msgid "Chart Title"
+msgstr "عنوان المخطط"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "لا يمكن بعد نقل المخططات والرسوم التخطيطية أو تغيير حجمها"
+
+msgid "Check"
+msgstr "تحديد"
+
+msgid "Check Accessibility"
+msgstr "فحص إمكانية الوصول"
+
+msgid "Check Box Content Control"
+msgstr "عنصر تحكم في المحتوى (خانة اختيار)"
+
+msgid "Check Compatibility"
+msgstr "فحص التوافق"
+
+msgid "Check for Errors"
+msgstr "البحث عن أخطاء"
+
+msgid "Check for\nUpdates…"
+msgstr "البحث عن\nتحديثات…"
+
+msgid "Check Spelling as You Type"
+msgstr "تدقيق الإملاء أثناء الكتابة"
+
+msgid "Check spelling as you type"
+msgstr "تدقيق الإملاء أثناء الكتابة"
+
+msgid "Check\nAccessibility"
+msgstr "فحص إمكانية\nالوصول"
+
+msgid "Checked styles are allowed:"
+msgstr "الأنماط المحددة مسموح بها:"
+
+msgid "Checked symbol"
+msgstr "رمز التحديد"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "شيفرون للأسفل"
+
+msgid "Chevron Up"
+msgstr "شيفرون للأعلى"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "تشيلي"
+
+msgid "China"
+msgstr "الصين"
+
+msgid "Chinese (Simplified)"
+msgstr "الصينية (المبسطة)"
+
+msgid "Chinese (Traditional)"
+msgstr "الصينية (التقليدية)"
+
+msgid "Choose a command"
+msgstr "اختر أمرًا"
+
+msgid "Choose a shortcut"
+msgstr "اختر اختصارًا"
+
+msgid "Choose List Item"
+msgstr "اختر عنصرًا من القائمة"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "اختر الورقة التي تحوي المستلمين."
+
+msgid "Circle area from its radius"
+msgstr "مساحة الدائرة من نصف قطرها"
+
+msgid "Circled Dot"
+msgstr "نقطة داخل دائرة"
+
+msgid "Circled Plus"
+msgstr "علامة زائد داخل دائرة"
+
+msgid "Circled Times"
+msgstr "علامة ضرب داخل دائرة"
+
+msgid "Citation Style"
+msgstr "نمط الاستشهاد"
+
+msgid "Citations"
+msgstr "الاستشهادات"
+
+msgid "Citations & Bibliography"
+msgstr "الاستشهادات والمراجع"
+
+msgid "Clear All Formatting"
+msgstr "مسح كل التنسيق"
+
+msgid "Clear Character Formatting"
+msgstr "مسح تنسيق الأحرف"
+
+msgid "Clear Character Style"
+msgstr "مسح نمط الأحرف"
+
+msgid "Clear Formatting Level"
+msgstr "مستوى مسح التنسيق"
+
+msgid "Clear Paragraph Formatting"
+msgstr "مسح تنسيق الفقرة"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "انقر الحد بين خليتين لدمجهما. Esc للإيقاف."
+
+msgid "Click an item to paste it."
+msgstr "انقر عنصرًا للصقه."
+
+msgid "Click level to modify:"
+msgstr "انقر المستوى المراد تعديله:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "انقر مربع النص الفارغ الذي سيكمل فيه النص (Esc للإلغاء)"
+
+msgid "Click to switch back to inserting"
+msgstr "انقر للعودة إلى الإدراج"
+
+msgid "Clipboard Contents"
+msgstr "محتويات الحافظة"
+
+msgid "Clipboard Items"
+msgstr "عناصر الحافظة"
+
+msgid "Clipboard Pane"
+msgstr "جزء الحافظة"
+
+msgid "Close Document"
+msgstr "إغلاق المستند"
+
+msgid "Close Equation"
+msgstr "إغلاق المعادلة"
+
+msgid "Close Header and Footer"
+msgstr "إغلاق الرأس والتذييل"
+
+msgid "Close Outline View"
+msgstr "إغلاق طريقة عرض المخطط التفصيلي"
+
+msgid "Close Outline\nView"
+msgstr "إغلاق عرض\nالمخطط التفصيلي"
+
+msgid "Clustered Bar"
+msgstr "شريطي متجمع"
+
+msgid "Clustered Column"
+msgstr "عمودي متجمع"
+
+msgid "cm"
+msgstr "سم"
+
+msgid "Col #:"
+msgstr "رقم العمود:"
+
+msgid "Collapse Selection"
+msgstr "تقليص التحديد"
+
+msgid "Collate copies"
+msgstr "ترتيب النسخ"
+
+msgid "Collect entries from:"
+msgstr "جمع الإدخالات من:"
+
+msgid "Colombia"
+msgstr "كولومبيا"
+
+msgid "Colon Equal"
+msgstr "نقطتان ويساوي"
+
+msgid "Color model:"
+msgstr "نموذج الألوان:"
+
+msgid "Color only"
+msgstr "اللون فقط"
+
+msgid "Color: {color}"
+msgstr "اللون: {color}"
+
+msgid "Colorful"
+msgstr "ملوّن"
+
+msgid "Column"
+msgstr "عمود"
+
+msgid "Column Break"
+msgstr "فاصل أعمدة"
+
+msgid "Column Selection"
+msgstr "تحديد عمود"
+
+msgid "Column {n}"
+msgstr "العمود {n}"
+
+msgid "Column:"
+msgstr "العمود:"
+
+msgid "Combine Documents"
+msgstr "دمج المستندات"
+
+msgid "Combo Box Content Control"
+msgstr "عنصر تحكم في المحتوى (مربع تحرير وسرد)"
+
+msgid "Commands"
+msgstr "الأوامر"
+
+msgid "Commas"
+msgstr "الفواصل"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "التعليقات بجانب كل صفحة والتغييرات المتعقَّبة في ملفات PDF والطباعة والصور؛ وقائمة تعليقات في نهاية صفحات الويب وMarkdown والنص."
+
+msgid "Comments Pane"
+msgstr "جزء التعليقات"
+
+msgid "Common Accent Objects"
+msgstr "كائنات التشكيل الشائعة"
+
+msgid "Common Brackets"
+msgstr "الأقواس الشائعة"
+
+msgid "Common Fractions"
+msgstr "الكسور الشائعة"
+
+msgid "Common Functions"
+msgstr "الدوال الشائعة"
+
+msgid "Common Large Operators"
+msgstr "العوامل الكبيرة الشائعة"
+
+msgid "Common Operator Structures"
+msgstr "بنى العوامل الشائعة"
+
+msgid "Common Operators"
+msgstr "العوامل الشائعة"
+
+msgid "Common Radicals"
+msgstr "الجذور الشائعة"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "الأدلة السفلية والعلوية الشائعة"
+
+msgid "Communication"
+msgstr "التواصل"
+
+msgid "Community\nDiscord"
+msgstr "مجتمع\nDiscord"
+
+msgid "Compact"
+msgstr "مضغوط"
+
+msgid "Compare Documents"
+msgstr "مقارنة المستندات"
+
+msgid "Compare to"
+msgstr "مقارنة مع"
+
+msgid "Compared: {changes} changes"
+msgstr "تمت المقارنة: {changes} من التغييرات"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "المقارنة مع ملف آخر تحتاج إلى تطبيق سطح المكتب."
+
+msgid "Comparison settings"
+msgstr "إعدادات المقارنة"
+
+msgid "Compress Pictures"
+msgstr "ضغط الصور"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "ضغط علامات الترقيم في بداية السطر"
+
+msgid "Conference"
+msgstr "المؤتمر"
+
+msgid "Conference paper"
+msgstr "ورقة مؤتمر"
+
+msgid "CONFIDENTIAL"
+msgstr "CONFIDENTIAL"
+
+msgid "Confirm password:"
+msgstr "تأكيد كلمة المرور:"
+
+msgid "Connect Shapes"
+msgstr "وصل الأشكال"
+
+msgid "Container Title"
+msgstr "عنوان الحاوية"
+
+msgid "Content Control at Selection"
+msgstr "عنصر التحكم في المحتوى عند التحديد"
+
+msgid "Content Control Properties"
+msgstr "خصائص عنصر التحكم في المحتوى"
+
+msgid "Contents can't be edited"
+msgstr "لا يمكن تحرير المحتويات"
+
+msgid "Context"
+msgstr "السياق"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "حسب السياق"
+
+msgid "Continue from previous section"
+msgstr "المتابعة من القسم السابق"
+
+msgid "Continue without restoring"
+msgstr "المتابعة دون استعادة"
+
+msgid "Continuous"
+msgstr "متصل"
+
+msgid "Continuous numbering"
+msgstr "ترقيم متصل"
+
+msgid "Contour Integral"
+msgstr "تكامل كفافي"
+
+msgid "Contour Integral with Limits"
+msgstr "تكامل كفافي بحدود"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "تكامل كفافي بحدود مكدّسة"
+
+msgid "Contour Integrals"
+msgstr "التكاملات الكفافية"
+
+msgid "Controls"
+msgstr "عناصر التحكم"
+
+msgid "Conversions"
+msgstr "التحويلات"
+
+msgid "Convert between built-up and linear form"
+msgstr "التحويل بين الصيغة المبنية والصيغة الخطية"
+
+msgid "Convert Notes"
+msgstr "تحويل الحواشي"
+
+msgid "Convert Text to Table"
+msgstr "تحويل النص إلى جدول"
+
+msgid "Convert Text to Table…"
+msgstr "تحويل النص إلى جدول…"
+
+msgid "Convert to Shapes"
+msgstr "تحويل إلى أشكال"
+
+msgid "Convert to Text"
+msgstr "تحويل إلى نص"
+
+msgid "Coproduct"
+msgstr "الجداء المرافق"
+
+msgid "Coproduct with Limits"
+msgstr "الجداء المرافق بحدود"
+
+msgid "Coproduct with Lower Limit"
+msgstr "الجداء المرافق بحد سفلي"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "الجداء المرافق بحدود سفلية وعلوية"
+
+msgid "Copy Formatting"
+msgstr "نسخ التنسيق"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "نسخة من النص الذي تحدده إشارة مرجعية"
+
+msgid "Copy Styles"
+msgstr "نسخ الأنماط"
+
+msgid "Copy to"
+msgstr "نسخ إلى"
+
+msgid "Copyright Sign"
+msgstr "رمز حقوق النشر"
+
+msgid "Corporate Author"
+msgstr "المؤلف المؤسسي"
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "تصحيح الاستخدام غير المقصود لمفتاح cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "تصحيح حرفين كبيرين في بداية الكلمة"
+
+msgid "Corrections"
+msgstr "التصحيحات"
+
+msgid "Cosecant Function"
+msgstr "دالة قاطع التمام"
+
+msgid "Cosine 2x"
+msgstr "جيب تمام 2x"
+
+msgid "Cosine Function"
+msgstr "دالة جيب التمام"
+
+msgid "Costa Rica"
+msgstr "كوستاريكا"
+
+msgid "Cotangent Function"
+msgstr "دالة ظل التمام"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "تعذّر تنزيل {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "تعذّر جعل WordCraft التطبيق الافتراضي: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "تعذّر فتح {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "تعذّر حفظ {name}، لذا بقي مفتوحًا ولم يُفقد شيء: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "العدّ بمقدار:"
+
+msgid "Count words in text boxes and notes"
+msgstr "عدّ الكلمات في مربعات النص والحواشي"
+
+msgid "Courtesy Title"
+msgstr "لقب المجاملة"
+
+msgid "Cover Page"
+msgstr "صفحة الغلاف"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "إنشاء نمط"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "أنشئ مخططًا تفصيليًا تفاعليًا لمستندك.\n\nإنه طريقة رائعة لمعرفة موضعك أو نقل محتواك بسرعة.\n\nللبدء، انتقل إلى علامة التبويب «الرئيسية» وطبّق أنماط العناوين على عناوين مستندك."
+
+msgid "Create Graphic"
+msgstr "إنشاء رسم"
+
+msgid "Create Link"
+msgstr "إنشاء ارتباط"
+
+msgid "Create New Style"
+msgstr "إنشاء نمط جديد"
+
+msgid "Create Source"
+msgstr "إنشاء مصدر"
+
+msgid "Croatian"
+msgstr "الكرواتية"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "يعمل القص على الصفحة مع الصور غير المدوَّرة: اضبط التدوير على 0° أولًا، أو استخدم مربعات القص"
+
+msgid "Cross-reference"
+msgstr "إحالة مرجعية"
+
+msgid "Cross-reference:"
+msgstr "إحالة مرجعية:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "كوبا"
+
+msgid "Cube Root"
+msgstr "جذر تكعيبي"
+
+msgid "Current - Linear"
+msgstr "الحالي - خطي"
+
+msgid "Current - Professional"
+msgstr "الحالي - احترافي"
+
+msgid "Current Document"
+msgstr "المستند الحالي"
+
+msgid "Current Position"
+msgstr "الموضع الحالي"
+
+msgid "Current record"
+msgstr "السجل الحالي"
+
+msgid "Current style: {style}"
+msgstr "النمط الحالي: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "موصل سهم منحنٍ"
+
+msgid "Curved Connector"
+msgstr "موصل منحنٍ"
+
+msgid "Custom dictionary"
+msgstr "قاموس مخصص"
+
+msgid "Custom Document Properties"
+msgstr "خصائص المستند المخصصة"
+
+msgid "Custom Margins…"
+msgstr "هوامش مخصصة…"
+
+msgid "Custom mark:"
+msgstr "علامة مخصصة:"
+
+msgid "Custom range"
+msgstr "نطاق مخصص"
+
+msgid "Custom size"
+msgstr "حجم مخصص"
+
+msgid "Custom Table of Contents…"
+msgstr "جدول محتويات مخصص…"
+
+msgid "Custom Watermark"
+msgstr "علامة مائية مخصصة"
+
+msgid "Custom Watermark…"
+msgstr "علامة مائية مخصصة…"
+
+msgid "Customize"
+msgstr "تخصيص"
+
+msgid "Customize Keyboard"
+msgstr "تخصيص لوحة المفاتيح"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "تخصيص شريط أدوات الوصول السريع"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "تخصيص شريط أدوات الوصول السريع…"
+
+msgid "Customize Ribbon"
+msgstr "تخصيص الشريط"
+
+msgid "Customize the Ribbon…"
+msgstr "تخصيص الشريط…"
+
+msgid "Cycle"
+msgstr "دورة"
+
+msgid "Cyprus"
+msgstr "قبرص"
+
+msgid "Czech"
+msgstr "التشيكية"
+
+msgid "Danish"
+msgstr "الدنماركية"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "الوضع الداكن"
+
+msgid "Dark page (white text on black)"
+msgstr "صفحة داكنة (نص أبيض على أسود)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "تنويعات داكنة"
+
+msgid "Dark with Shadow"
+msgstr "داكن مع ظل"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "أكثر قتامة −20%"
+
+msgid "Darkroom"
+msgstr "الغرفة المظلمة"
+
+msgid "Data Labels"
+msgstr "تسميات البيانات"
+
+msgid "Date & Time"
+msgstr "التاريخ والوقت"
+
+msgid "Date formats:"
+msgstr "تنسيقات التاريخ:"
+
+msgid "Date Picker Content Control"
+msgstr "عنصر تحكم في المحتوى (منتقي التاريخ)"
+
+msgid "Day"
+msgstr "اليوم"
+
+msgid "Decimal"
+msgstr "عشري"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "الكائنات الزخرفية للزينة فقط: تتخطاها قارئات الشاشة."
+
+msgid "Decorative Text"
+msgstr "نص مزخرف"
+
+msgid "Decorative Text Styles"
+msgstr "أنماط النص المزخرف"
+
+msgid "Decrease Indent"
+msgstr "إنقاص المسافة البادئة"
+
+msgid "Deep"
+msgstr "عميق"
+
+msgid "Default formatting"
+msgstr "التنسيق الافتراضي"
+
+msgid "Default Paragraph Font"
+msgstr "خط الفقرة الافتراضي"
+
+msgid "Default tab stops:"
+msgstr "مواضع الجدولة الافتراضية:"
+
+msgid "Define New Bullet"
+msgstr "تعريف تعداد نقطي جديد"
+
+msgid "Define New Multilevel List"
+msgstr "تعريف قائمة متعددة المستويات جديدة"
+
+msgid "Define New Multilevel List…"
+msgstr "تعريف قائمة متعددة المستويات جديدة…"
+
+msgid "Define New Number Format"
+msgstr "تعريف تنسيق أرقام جديد"
+
+msgid "Deflate"
+msgstr "انكماش"
+
+msgid "Delete Around Caret in Equation"
+msgstr "حذف حول مؤشر الكتابة في المعادلة"
+
+msgid "Delete Back in Equation"
+msgstr "حذف للخلف في المعادلة"
+
+msgid "Delete Bookmark"
+msgstr "حذف الإشارة المرجعية"
+
+msgid "Delete Cells"
+msgstr "حذف الخلايا"
+
+msgid "Delete Clipboard Item"
+msgstr "حذف عنصر الحافظة"
+
+msgid "Delete Columns"
+msgstr "حذف الأعمدة"
+
+msgid "Delete Comment"
+msgstr "حذف التعليق"
+
+msgid "Delete in Equation"
+msgstr "حذف في المعادلة"
+
+msgid "Delete Label"
+msgstr "حذف الملصق"
+
+msgid "Delete Next Word"
+msgstr "حذف الكلمة التالية"
+
+msgid "Delete Previous Word"
+msgstr "حذف الكلمة السابقة"
+
+msgid "Delete Rows"
+msgstr "حذف الصفوف"
+
+msgid "Delete Selected Ink"
+msgstr "حذف الحبر المحدد"
+
+msgid "Delete Table"
+msgstr "حذف الجدول"
+
+msgid "Delete Table Style"
+msgstr "حذف نمط الجدول"
+
+msgid "Deletions:"
+msgstr "المحذوفات:"
+
+msgid "Delivery address:"
+msgstr "عنوان التسليم:"
+
+msgid "Delta Equal To"
+msgstr "دلتا يساوي"
+
+msgid "Delta over arrow"
+msgstr "دلتا فوق سهم"
+
+msgid "Demote"
+msgstr "خفض المستوى"
+
+msgid "Demote to Body Text"
+msgstr "خفض إلى نص أساسي"
+
+msgid "Derivative as a limit"
+msgstr "المشتقة كنهاية"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "صف ما يعرضه هذا الكائن، لمن لا يستطيع رؤيته."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "صف ما يعرضه هذا الجدول، لمن لا يستطيع رؤيته."
+
+msgid "Design"
+msgstr "التصميم"
+
+msgid "Design Mode"
+msgstr "وضع التصميم"
+
+msgid "Detach Template"
+msgstr "فصل القالب"
+
+msgid "Detect language automatically"
+msgstr "اكتشاف اللغة تلقائيًا"
+
+msgid "Developer"
+msgstr "المطوّر"
+
+msgid "development build"
+msgstr "نسخة تطوير"
+
+msgid "Diagonal Dots"
+msgstr "نقاط قطرية"
+
+msgid "Diagram"
+msgstr "رسم تخطيطي"
+
+msgid "Diagram Design"
+msgstr "تصميم الرسم التخطيطي"
+
+msgid "Diagram Styles"
+msgstr "أنماط الرسم التخطيطي"
+
+msgid "Dictate"
+msgstr "إملاء صوتي"
+
+msgid "Dictionaries"
+msgstr "القواميس"
+
+msgid "Dictionaries folder:"
+msgstr "مجلد القواميس:"
+
+msgid "Dictionary files"
+msgstr "ملفات القواميس"
+
+msgid "Different First Page"
+msgstr "صفحة أولى مختلفة"
+
+msgid "Different Odd & Even Pages"
+msgstr "صفحات فردية وزوجية مختلفة"
+
+msgid "Differential"
+msgstr "تفاضل"
+
+msgid "Differential theta"
+msgstr "تفاضل ثيتا"
+
+msgid "Differential x"
+msgstr "تفاضل x"
+
+msgid "Differential y"
+msgstr "تفاضل y"
+
+msgid "Differentials"
+msgstr "التفاضلات"
+
+msgid "Direct formatting"
+msgstr "تنسيق مباشر"
+
+msgid "Directory"
+msgstr "دليل"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "هل تريد حذف نسخة الاسترداد الخاصة بـ{name}؟"
+
+msgid "Discard…"
+msgstr "حذف…"
+
+msgid "Discord community"
+msgstr "مجتمع Discord"
+
+msgid "Display for Review"
+msgstr "العرض للمراجعة"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "النص المعروض"
+
+msgid "Distance from text"
+msgstr "المسافة من النص"
+
+msgid "Distance from text:"
+msgstr "المسافة من النص:"
+
+msgid "Distribute Columns"
+msgstr "توزيع الأعمدة"
+
+msgid "Distribute letters"
+msgstr "توزيع الأحرف"
+
+msgid "Distribute Rows"
+msgstr "توزيع الصفوف"
+
+msgid "Distribute spacing"
+msgstr "توزيع التباعد"
+
+msgid "Distributed"
+msgstr "موزّع"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "عدم تدقيق الإملاء أو القواعد"
+
+msgid "Do not check spelling or grammar"
+msgstr "عدم تدقيق الإملاء أو القواعد"
+
+msgid "DO NOT COPY"
+msgstr "DO NOT COPY"
+
+msgid "Do Not Show in TOC"
+msgstr "عدم الإظهار في جدول المحتويات"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "هل تريد حفظ التغييرات في {name}؟"
+
+msgid "Dock Left"
+msgstr "تثبيت على اليسار"
+
+msgid "Dock Right"
+msgstr "تثبيت على اليمين"
+
+msgid "Document End"
+msgstr "نهاية المستند"
+
+msgid "Document Formatting"
+msgstr "تنسيق المستند"
+
+msgid "Document Grid"
+msgstr "شبكة المستند"
+
+msgid "Document Information"
+msgstr "معلومات المستند"
+
+msgid "Document name"
+msgstr "اسم المستند"
+
+msgid "Document Property"
+msgstr "خاصية المستند"
+
+msgid "Document Start"
+msgstr "بداية المستند"
+
+msgid "Document template:"
+msgstr "قالب المستند:"
+
+msgid "Document Text"
+msgstr "نص المستند"
+
+msgid "Document1"
+msgstr "مستند1"
+
+msgid "Document\nPreferences"
+msgstr "تفضيلات\nالمستند"
+
+msgid "Documents you open will show up here."
+msgstr "ستظهر هنا المستندات التي تفتحها."
+
+msgid "Does not contain"
+msgstr "لا يحتوي على"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "جمهورية الدومينيكان"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "عدم إضافة مسافة بين فقرات النمط نفسه"
+
+msgid "Don't capitalize after:"
+msgstr "عدم تكبير الحرف بعد:"
+
+msgid "Don't hyphenate"
+msgstr "عدم تقسيم الكلمات"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "عدم قراءة استشهادات Zotero أو Mendeley أو EndNote وقوائم مراجعها"
+
+msgid "Don't show me this tip again"
+msgstr "لا تُظهر هذا التلميح مرة أخرى"
+
+msgid "Dot dash"
+msgstr "نقطة وشرطة"
+
+msgid "Dot-dash"
+msgstr "نقطة وشرطة"
+
+msgid "Dot-dot-dash"
+msgstr "نقطة نقطة شرطة"
+
+msgid "Double"
+msgstr "مزدوج"
+
+msgid "Double Bar"
+msgstr "شريط مزدوج"
+
+msgid "Double Closing Quote"
+msgstr "علامة اقتباس مزدوجة للإغلاق"
+
+msgid "Double Dot"
+msgstr "نقطتان"
+
+msgid "Double Integral"
+msgstr "تكامل مزدوج"
+
+msgid "Double Integral with Limits"
+msgstr "تكامل مزدوج بحدود"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "تكامل مزدوج بحدود مكدّسة"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "سهم مزدوج لليسار مع نص فوقه"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "سهم مزدوج لليسار مع نص تحته"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "سهم مزدوج يسار-يمين مع نص فوقه"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "سهم مزدوج يسار-يمين مع نص تحته"
+
+msgid "Double Opening Quote"
+msgstr "علامة اقتباس مزدوجة للفتح"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "سهم مزدوج لليمين مع نص فوقه"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "سهم مزدوج لليمين مع نص تحته"
+
+msgid "Double Spacing"
+msgstr "تباعد مزدوج"
+
+msgid "Double Square Brackets"
+msgstr "أقواس معقوفة مزدوجة"
+
+msgid "Double Strikethrough"
+msgstr "يتوسطه خطان"
+
+msgid "Double strikethrough"
+msgstr "يتوسطه خطان"
+
+msgid "Double summation"
+msgstr "مجموع مزدوج"
+
+msgid "Double Underline"
+msgstr "تسطير مزدوج"
+
+msgid "Double Vertical Bars"
+msgstr "خطان عموديان مزدوجان"
+
+msgid "Doughnut"
+msgstr "دائري مجوّف"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "التنزيل متوقف. النقر على إضافة لغة… أو تثبيت يشغّله: عندئذٍ ينزّل WordCraft حزم اللغة والخطوط من GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "DRAFT"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "اسحب مستطيلًا لرسم جدول، أو خطًا عبر الخلايا لتقسيمها. Esc للإيقاف."
+
+msgid "Draw Ink"
+msgstr "رسم بالحبر"
+
+msgid "Draw Table"
+msgstr "رسم جدول"
+
+msgid "Draw\nTable"
+msgstr "رسم\nجدول"
+
+msgid "Drawing Canvas"
+msgstr "لوحة الرسم"
+
+msgid "Drawing Tools"
+msgstr "أدوات الرسم"
+
+msgid "Drawing\nCanvas"
+msgstr "لوحة\nالرسم"
+
+msgid "Drop Cap"
+msgstr "حرف استهلالي"
+
+msgid "Drop cap"
+msgstr "حرف استهلالي"
+
+msgid "Drop Cap Options…"
+msgstr "خيارات الحرف الاستهلالي…"
+
+msgid "drop caps can't go in a table"
+msgstr "لا يمكن وضع حرف استهلالي داخل جدول"
+
+msgid "Drop-Down List Content Control"
+msgstr "عنصر تحكم في المحتوى (قائمة منسدلة)"
+
+msgid "Dropped"
+msgstr "منسدل"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "يتجاهل كل التنسيق ويلصق نصًا عاديًا."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "الهولندية أو Nederlands أو nl"
+
+msgid "E-mail Messages"
+msgstr "رسائل البريد الإلكتروني"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "الإكوادور"
+
+msgid "Edit Comment"
+msgstr "تحرير التعليق"
+
+msgid "Edit Data"
+msgstr "تحرير البيانات"
+
+msgid "Edit Document"
+msgstr "تحرير المستند"
+
+msgid "Edit Equation"
+msgstr "تحرير المعادلة"
+
+msgid "Edit Field Code"
+msgstr "تحرير رمز الحقل"
+
+msgid "Edit Field…"
+msgstr "تحرير الحقل…"
+
+msgid "Edit Footer"
+msgstr "تحرير التذييل"
+
+msgid "Edit Header"
+msgstr "تحرير الرأس"
+
+msgid "Edit Individual Documents…"
+msgstr "تحرير المستندات الفردية…"
+
+msgid "Edit Items"
+msgstr "تحرير العناصر"
+
+msgid "Edit Recipient List"
+msgstr "تحرير قائمة المستلمين"
+
+msgid "Edit Source"
+msgstr "تحرير المصدر"
+
+msgid "Edit\nData"
+msgstr "تحرير\nالبيانات"
+
+msgid "Edit\nRecipient List"
+msgstr "تحرير\nقائمة المستلمين"
+
+msgid "Edited"
+msgstr "معدَّل"
+
+msgid "Editing endnote"
+msgstr "تحرير حاشية ختامية"
+
+msgid "Editing footnote"
+msgstr "تحرير حاشية سفلية"
+
+msgid "Editing header/footer"
+msgstr "تحرير الرأس/التذييل"
+
+msgid "Editing in this document is restricted."
+msgstr "التحرير في هذا المستند مقيّد."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "التحرير — حرّر المستند مباشرة"
+
+msgid "Edition"
+msgstr "الطبعة"
+
+msgid "Editor"
+msgstr "المحرّر"
+
+msgid "Egypt"
+msgstr "مصر"
+
+msgid "El Salvador"
+msgstr "السلفادور"
+
+msgid "Elbow Arrow Connector"
+msgstr "موصل سهم بزاوية"
+
+msgid "Elbow Connector"
+msgstr "موصل بزاوية"
+
+msgid "Emphasis"
+msgstr "توكيد"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "المصفوفات الفارغة"
+
+msgid "Enclose Characters"
+msgstr "إحاطة الأحرف"
+
+msgid "Enclosure"
+msgstr "الإحاطة"
+
+msgid "Encrypt with Password"
+msgstr "التشفير بكلمة مرور"
+
+msgid "Encrypt with Password…"
+msgstr "التشفير بكلمة مرور…"
+
+msgid "End of document"
+msgstr "نهاية المستند"
+
+msgid "End of section"
+msgstr "نهاية القسم"
+
+msgid "End of Word"
+msgstr "نهاية الكلمة"
+
+msgid "Endnote Reference"
+msgstr "مرجع حاشية ختامية"
+
+msgid "Endnote Text"
+msgstr "نص حاشية ختامية"
+
+msgid "Endnotes"
+msgstr "الحواشي الختامية"
+
+msgid "Endnotes to footnotes"
+msgstr "الحواشي الختامية إلى حواشٍ سفلية"
+
+msgid "English (Australia)"
+msgstr "الإنجليزية (أستراليا)"
+
+msgid "English (Canada)"
+msgstr "الإنجليزية (كندا)"
+
+msgid "English (India)"
+msgstr "الإنجليزية (الهند)"
+
+msgid "English (Ireland)"
+msgstr "الإنجليزية (أيرلندا)"
+
+msgid "English (New Zealand)"
+msgstr "الإنجليزية (نيوزيلندا)"
+
+msgid "English (South Africa)"
+msgstr "الإنجليزية (جنوب أفريقيا)"
+
+msgid "English (United Kingdom)"
+msgstr "الإنجليزية (المملكة المتحدة)"
+
+msgid "English (United States)"
+msgstr "الإنجليزية (الولايات المتحدة)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "الإنجليزية، ولغات هذا المستند، وكل حزمة لغة مثبّتة. تضيف حزم اللغة قواميس الإملاء وقواعد تقسيم الكلمات."
+
+msgid "Engrave"
+msgstr "محفور"
+
+msgid "Enlarge symbol"
+msgstr "تكبير الرمز"
+
+msgid "Enter a number."
+msgstr "أدخل رقمًا."
+
+msgid "Enter bookmark name:"
+msgstr "أدخل اسم الإشارة المرجعية:"
+
+msgid "Enter formatting for number:"
+msgstr "أدخل تنسيق الرقم:"
+
+msgid "Enter in Equation"
+msgstr "إدخال في المعادلة"
+
+msgid "Enter page number:"
+msgstr "أدخل رقم الصفحة:"
+
+msgid "Entire caption"
+msgstr "التسمية التوضيحية بأكملها"
+
+msgid "Entry marked."
+msgstr "وُضعت علامة على الإدخال."
+
+msgid "Envelope #10"
+msgstr "ظرف رقم 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "ظرف رقم 10   4.12\" × 9.50\""
+
+msgid "Envelope Address"
+msgstr "عنوان الظرف"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "ظرف DL   4.33\" × 8.66\""
+
+msgid "Envelope Return"
+msgstr "عنوان المرسل على الظرف"
+
+msgid "Envelope size:"
+msgstr "حجم الظرف:"
+
+msgid "Envelopes"
+msgstr "الأظرف"
+
+msgid "Equal by Definition"
+msgstr "يساوي بالتعريف"
+
+msgid "Equal column width"
+msgstr "عرض أعمدة متساوٍ"
+
+msgid "Equal Equal"
+msgstr "يساوي يساوي"
+
+msgid "Equal to"
+msgstr "يساوي"
+
+msgid "Equals:"
+msgstr "يساوي:"
+
+msgid "Equation"
+msgstr "معادلة"
+
+msgid "Equation Gallery"
+msgstr "معرض المعادلات"
+
+msgid "Equation Info"
+msgstr "معلومات المعادلة"
+
+msgid "Equation Number"
+msgstr "رقم المعادلة"
+
+msgid "Equation Options"
+msgstr "خيارات المعادلة"
+
+msgid "Equatorial Guinea"
+msgstr "غينيا الاستوائية"
+
+msgid "Erase Ink"
+msgstr "مسح الحبر"
+
+msgid "Errors ({n})"
+msgstr "الأخطاء ({n})"
+
+msgid "Esperanto"
+msgstr "الإسبرانتو"
+
+msgid "Estonian"
+msgstr "الإستونية"
+
+msgid "Euler's identity"
+msgstr "متطابقة أويلر"
+
+msgid "Even Banded Columns"
+msgstr "أعمدة زوجية مخططة"
+
+msgid "Even Banded Rows"
+msgstr "صفوف زوجية مخططة"
+
+msgid "Even Page"
+msgstr "الصفحة الزوجية"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "يُسجَّل كل تغيير كتغيير متعقَّب."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "كل الأوامر متاحة للبرامج النصية ووكلاء الذكاء الاصطناعي: شغّل `wordcraft-cli mcp` للحصول على خادم MCP، أو ابدأ التطبيق بالخيار `--control <port>` لقناة التحكم JSON."
+
+msgid "Every field needs a name."
+msgstr "كل حقل يحتاج إلى اسم."
+
+msgid "Everyone"
+msgstr "الجميع"
+
+msgid "Exactly"
+msgstr "بالضبط"
+
+msgid "Exactly {n}"
+msgstr "{n} بالضبط"
+
+msgid "Exceptions (optional)"
+msgstr "الاستثناءات (اختياري)"
+
+msgid "Exceptions…"
+msgstr "الاستثناءات…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7.25\" × 10.50\""
+
+msgid "Existing File or Web Page"
+msgstr "ملف موجود أو صفحة ويب"
+
+msgid "Expand or Collapse Heading"
+msgstr "توسيع العنوان أو طيّه"
+
+msgid "Exponential"
+msgstr "أُسّي"
+
+msgid "Exponential series"
+msgstr "متسلسلة أُسّية"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "تصدير نسخة للمشاركة (PDF، مستند Word)"
+
+msgid "Export Page as PNG"
+msgstr "تصدير الصفحة كصورة PNG"
+
+msgid "Extend Selection"
+msgstr "توسيع التحديد"
+
+msgid "Extend Selection by Units"
+msgstr "توسيع التحديد بالوحدات"
+
+msgid "Extra space"
+msgstr "مسافة إضافية"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "أسرع: {command} هو {key} على لوحة المفاتيح."
+
+msgid "Field code:"
+msgstr "رمز الحقل:"
+
+msgid "Field Codes"
+msgstr "رموز الحقول"
+
+msgid "Field codes:"
+msgstr "رموز الحقول:"
+
+msgid "Field name"
+msgstr "اسم الحقل"
+
+msgid "Field name:"
+msgstr "اسم الحقل:"
+
+msgid "Field names must be different."
+msgstr "يجب أن تختلف أسماء الحقول."
+
+msgid "Field names:"
+msgstr "أسماء الحقول:"
+
+msgid "Field:"
+msgstr "الحقل:"
+
+msgid "Field…"
+msgstr "حقل…"
+
+msgid "Figure"
+msgstr "شكل توضيحي"
+
+msgid "File locations"
+msgstr "مواقع الملفات"
+
+msgid "File name:"
+msgstr "اسم الملف:"
+
+msgid "File type"
+msgstr "نوع الملف"
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "يعرض ملف › جديد قوالب .dotx و.dotm الموجودة هنا تحت «شخصي»؛ ويبدأ «حفظ كقالب Word» من هنا."
+
+msgid "Fill color:"
+msgstr "لون التعبئة:"
+
+msgid "Filling in forms"
+msgstr "تعبئة النماذج"
+
+msgid "Film"
+msgstr "فيلم"
+
+msgid "Filter and Sort"
+msgstr "التصفية والفرز"
+
+msgid "Filter Recipients"
+msgstr "تصفية المستلمين"
+
+msgid "Find in list:"
+msgstr "البحث في القائمة:"
+
+msgid "Find Next Editable Region"
+msgstr "البحث عن المنطقة القابلة للتحرير التالية"
+
+msgid "Find Previous"
+msgstr "البحث عن السابق"
+
+msgid "Find Recipient"
+msgstr "البحث عن مستلم"
+
+msgid "Find What Expression"
+msgstr "تعبير البحث"
+
+msgid "Find What Text"
+msgstr "نص البحث"
+
+msgid "Find what:"
+msgstr "البحث عن:"
+
+msgid "Find “{text}” in the document"
+msgstr "البحث عن «{text}» في المستند"
+
+msgid "Finding printers…"
+msgstr "جارٍ البحث عن الطابعات…"
+
+msgid "Finish & Merge"
+msgstr "إنهاء ودمج"
+
+msgid "Finish &\nMerge"
+msgstr "إنهاء\nودمج"
+
+msgid "Finished"
+msgstr "منتهٍ"
+
+msgid "Finland"
+msgstr "فنلندا"
+
+msgid "Finnish"
+msgstr "الفنلندية"
+
+msgid "First Column"
+msgstr "العمود الأول"
+
+msgid "First line"
+msgstr "السطر الأول"
+
+msgid "First line:"
+msgstr "السطر الأول:"
+
+msgid "First Name"
+msgstr "الاسم الأول"
+
+msgid "First Record"
+msgstr "السجل الأول"
+
+msgid "First row of data contains column headers"
+msgstr "الصف الأول من البيانات يحتوي على رؤوس الأعمدة"
+
+msgid "Fix Position on Page"
+msgstr "تثبيت الموضع في الصفحة"
+
+msgid "Fixed Column Width"
+msgstr "عرض عمود ثابت"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr "عائم"
+
+msgid "Floor"
+msgstr "الأرضية"
+
+msgid "Folder path"
+msgstr "مسار المجلد"
+
+msgid "Follow number with:"
+msgstr "إتباع الرقم بـ:"
+
+msgid "Font Color"
+msgstr "لون الخط"
+
+msgid "Font color"
+msgstr "لون الخط"
+
+msgid "Font color:"
+msgstr "لون الخط:"
+
+msgid "Font Dialog"
+msgstr "مربع حوار الخط"
+
+msgid "Font: {font}"
+msgstr "الخط: {font}"
+
+msgid "Font…"
+msgstr "الخط…"
+
+msgid "Footer"
+msgstr "التذييل"
+
+msgid "Footnote and Endnote"
+msgstr "الحاشية السفلية والحاشية الختامية"
+
+msgid "Footnote Reference"
+msgstr "مرجع حاشية سفلية"
+
+msgid "Footnote Text"
+msgstr "نص حاشية سفلية"
+
+msgid "Footnotes"
+msgstr "الحواشي السفلية"
+
+msgid "Footnotes and endnotes"
+msgstr "الحواشي السفلية والختامية"
+
+msgid "Footnotes to endnotes"
+msgstr "الحواشي السفلية إلى حواشٍ ختامية"
+
+msgid "For which item:"
+msgstr "لأي عنصر:"
+
+msgid "Format Page Numbers"
+msgstr "تنسيق أرقام الصفحات"
+
+msgid "Format Page Numbers…"
+msgstr "تنسيق أرقام الصفحات…"
+
+msgid "Format Painter"
+msgstr "نسخ التنسيق"
+
+msgid "Format Shape"
+msgstr "تنسيق الشكل"
+
+msgid "Format Shape Pane"
+msgstr "جزء تنسيق الشكل"
+
+msgid "Format Shape…"
+msgstr "تنسيق الشكل…"
+
+msgid "Formatted"
+msgstr "منسَّق"
+
+msgid "Formatted Text"
+msgstr "نص منسَّق"
+
+msgid "Formatting"
+msgstr "التنسيق"
+
+msgid "Formatting at Selection"
+msgstr "التنسيق عند التحديد"
+
+msgid "Formatting exceptions"
+msgstr "استثناءات التنسيق"
+
+msgid "Formatting marks"
+msgstr "علامات التنسيق"
+
+msgid "Formatting saved for new documents:"
+msgstr "التنسيق المحفوظ للمستندات الجديدة:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "تُقارن التنسيقات وتغييرات حالة الأحرف والمسافات البيضاء والجداول؛ وتُحفظ الإعدادات الأخرى لاحقًا."
+
+msgid "Formula"
+msgstr "صيغة"
+
+msgid "Formula:"
+msgstr "الصيغة:"
+
+msgid "Forward"
+msgstr "للأمام"
+
+msgid "Fraction"
+msgstr "كسر"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "الكسور (1/2) كأحرف كسور (½)"
+
+msgid "Frames and effects"
+msgstr "الإطارات والتأثيرات"
+
+msgid "France"
+msgstr "فرنسا"
+
+msgid "French (France)"
+msgstr "الفرنسية (فرنسا)"
+
+msgid "From Bottom Left Corner"
+msgstr "من الزاوية السفلية اليسرى"
+
+msgid "From Bottom Right Corner"
+msgstr "من الزاوية السفلية اليمنى"
+
+msgid "From Center"
+msgstr "من الوسط"
+
+msgid "From text:"
+msgstr "من النص:"
+
+msgid "From Top Left Corner"
+msgstr "من الزاوية العلوية اليسرى"
+
+msgid "From Top Right Corner"
+msgstr "من الزاوية العلوية اليمنى"
+
+msgid "from Unicode (hex)"
+msgstr "من Unicode (ست عشري)"
+
+msgid "From {name}"
+msgstr "من {name}"
+
+msgid "From:"
+msgstr "من:"
+
+msgid "Full page of the same label"
+msgstr "صفحة كاملة من الملصق نفسه"
+
+msgid "Full Saturation 100%"
+msgstr "تشبع كامل 100%"
+
+msgid "Full Screen View"
+msgstr "عرض ملء الشاشة"
+
+msgid "Full\nScreen"
+msgstr "ملء\nالشاشة"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "معلومة طريفة: الصفحة الفارغة مسودة لم يخبرها أحد بعد."
+
+msgid "Function"
+msgstr "دالة"
+
+msgid "Galician"
+msgstr "الجاليكية"
+
+msgid "Gallery"
+msgstr "المعرض"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "الجورجية"
+
+msgid "German (Germany)"
+msgstr "الألمانية (ألمانيا)"
+
+msgid "Germany"
+msgstr "ألمانيا"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "يجلب قائمة حزم اللغة، ثم حزمة هذه اللغة إن وُجدت."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "ألوان التوهج"
+
+msgid "Go Back"
+msgstr "رجوع"
+
+msgid "Go To"
+msgstr "انتقال إلى"
+
+msgid "Go to"
+msgstr "انتقال إلى"
+
+msgid "Go To (⌘⌥G)"
+msgstr "انتقال إلى (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "الانتقال إلى السجل"
+
+msgid "Go to what:"
+msgstr "الانتقال إلى:"
+
+msgid "Go To…"
+msgstr "انتقال إلى…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "اختفى! كأنه لم يُكتب قط. والسبب في الغالب أنه لم يعد مكتوبًا."
+
+msgid "Good afternoon"
+msgstr "نهارك سعيد"
+
+msgid "Good evening"
+msgstr "مساء الخير"
+
+msgid "Good morning"
+msgstr "صباح الخير"
+
+msgid "GOST (name sort)"
+msgstr "GOST (فرز بالاسم)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (فرز بالعنوان)"
+
+msgid "Grab bag"
+msgstr "متنوعات"
+
+msgid "Gradient fill"
+msgstr "تعبئة متدرجة"
+
+msgid "Gradient stops"
+msgstr "نقاط التدرّج"
+
+msgid "Grammar built in"
+msgstr "التدقيق النحوي مدمج"
+
+msgid "Grave"
+msgstr "علامة منخفضة"
+
+msgid "Gray 0%"
+msgstr "رمادي 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "أكبر من"
+
+msgid "Greater than or equal"
+msgstr "أكبر من أو يساوي"
+
+msgid "Greek"
+msgstr "اليونانية"
+
+msgid "Greek Letters"
+msgstr "الحروف اليونانية"
+
+msgid "Green:"
+msgstr "الأخضر:"
+
+msgid "Greeting Line"
+msgstr "سطر التحية"
+
+msgid "Greeting\nLine"
+msgstr "سطر\nالتحية"
+
+msgid "Grid Table 1 Light"
+msgstr "جدول شبكي 1 فاتح"
+
+msgid "Grid Table 4 – Blue"
+msgstr "جدول شبكي 4 – أزرق"
+
+msgid "Grid Table 4 – Green"
+msgstr "جدول شبكي 4 – أخضر"
+
+msgid "Grid Table 4 – Orange"
+msgstr "جدول شبكي 4 – برتقالي"
+
+msgid "Grid Table 4 – Purple"
+msgstr "جدول شبكي 4 – بنفسجي"
+
+msgid "Gridlines"
+msgstr "خطوط الشبكة"
+
+msgid "Grouping Character Above"
+msgstr "حرف تجميع فوق"
+
+msgid "Grouping Character Below"
+msgstr "حرف تجميع تحت"
+
+msgid "Grow Font 1 Point"
+msgstr "تكبير الخط نقطة واحدة"
+
+msgid "Guatemala"
+msgstr "غواتيمالا"
+
+msgid "H:"
+msgstr "ع:"
+
+msgid "Hanging Indent"
+msgstr "مسافة بادئة معلّقة"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "قبعة"
+
+msgid "Header"
+msgstr "الرأس"
+
+msgid "Header & Footer"
+msgstr "الرأس والتذييل"
+
+msgid "Header Row"
+msgstr "صف الرأس"
+
+msgid "Header row"
+msgstr "صف الرأس"
+
+msgid "Header/Footer Position"
+msgstr "موضع الرأس/التذييل"
+
+msgid "Headers and footers"
+msgstr "الرؤوس والتذييلات"
+
+msgid "Heading"
+msgstr "عنوان"
+
+msgid "Heading 1"
+msgstr "عنوان 1"
+
+msgid "Heading 2"
+msgstr "عنوان 2"
+
+msgid "Heading 3"
+msgstr "عنوان 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "أنماط العناوين (المستويات 1–{n})"
+
+msgid "Heading text"
+msgstr "نص العنوان"
+
+msgid "Heading {n}"
+msgstr "عنوان {n}"
+
+msgid "Hebrew"
+msgstr "العبرية"
+
+msgid "Hex:"
+msgstr "ست عشري:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "مرحبًا! أنا Nib، مساعدك في الكتابة. أقدّم تلميحات واختصارات، ورأيًا لم يطلبه أحد بين حين وآخر. هل أبقى معك؟"
+
+msgid "Hidden bookmarks"
+msgstr "إشارات مرجعية مخفية"
+
+msgid "Hide Codes"
+msgstr "إخفاء الرموز"
+
+msgid "Hide from style lists"
+msgstr "إخفاء من قوائم الأنماط"
+
+msgid "Hide Ink"
+msgstr "إخفاء الحبر"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "إخفاء شريط أدوات الوصول السريع"
+
+msgid "Hide White Space"
+msgstr "إخفاء المسافة البيضاء"
+
+msgid "Hide\nInk"
+msgstr "إخفاء\nالحبر"
+
+msgid "Hierarchy"
+msgstr "تسلسل هرمي"
+
+msgid "Highlight"
+msgstr "تمييز"
+
+msgid "Highlight Merge Fields"
+msgstr "تمييز حقول الدمج"
+
+msgid "Highlight\nMerge Fields"
+msgstr "تمييز\nحقول الدمج"
+
+msgid "Highlighter"
+msgstr "قلم التمييز"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "المجلد الرئيسي"
+
+msgid "Honduras"
+msgstr "هندوراس"
+
+msgid "Hong Kong SAR"
+msgstr "منطقة هونغ كونغ الإدارية الخاصة"
+
+msgid "Horizontal Line"
+msgstr "خط أفقي"
+
+msgid "How many pages the whole document has"
+msgstr "عدد صفحات المستند كله"
+
+msgid "How many pages this section has"
+msgstr "عدد صفحات هذا القسم"
+
+msgid "How many words the document holds"
+msgstr "عدد كلمات المستند"
+
+msgid "HTML Format"
+msgstr "تنسيق HTML"
+
+msgid "Hue:"
+msgstr "تدرج اللون:"
+
+msgid "Hungarian"
+msgstr "المجرية"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "ملفات Hunspell .aff و.dic الموجودة هنا (pl_PL، pt_BR، it_IT، hr_HR، tr_TR) تُستخدم قبل ملفات النظام."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "دالة قاطع التمام الزائدية"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "دالة جيب التمام الزائدية"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "دالة ظل التمام الزائدية"
+
+msgid "Hyperbolic Functions"
+msgstr "الدوال الزائدية"
+
+msgid "Hyperbolic Secant Function"
+msgstr "دالة القاطع الزائدية"
+
+msgid "Hyperbolic Sine Function"
+msgstr "دالة الجيب الزائدية"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "دالة الظل الزائدية"
+
+msgid "Hyperlink"
+msgstr "ارتباط تشعبي"
+
+msgid "Hyphenate at:"
+msgstr "تقسيم الكلمة عند:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "تقسيم الكلمات المكتوبة بأحرف كبيرة"
+
+msgid "Hyphenation Options…"
+msgstr "خيارات تقسيم الكلمات…"
+
+msgid "Hyphenation zone:"
+msgstr "منطقة تقسيم الكلمات:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "الشرطات (--) كشرطات طويلة (—)"
+
+msgid "Hypotenuse"
+msgstr "الوتر"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "أعدك أنه محفوظ. تحققت بنفسي. مرتين."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "كنت سأكتب شيئًا بنفسي، لكنني سنّ قلم بلا حبر."
+
+msgid "I, II, III, …"
+msgstr "I، II، III، …"
+
+msgid "i, ii, iii, …"
+msgstr "i، ii، iii، …"
+
+msgid "Icelandic"
+msgstr "الآيسلندية"
+
+msgid "Icon Color"
+msgstr "لون الأيقونة"
+
+msgid "Icons"
+msgstr "الأيقونات"
+
+msgid "Identity Matrices"
+msgstr "مصفوفات الوحدة"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "إذا…إذن…وإلا"
+
+msgid "If…Then…Else…"
+msgstr "إذا…إذن…وإلا…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "تجاهل علامات الترقيم"
+
+msgid "Ignore web and file addresses"
+msgstr "تجاهل عناوين الويب والملفات"
+
+msgid "Ignore white-space characters"
+msgstr "تجاهل أحرف المسافات البيضاء"
+
+msgid "Ignore words in capitals"
+msgstr "تجاهل الكلمات المكتوبة بأحرف كبيرة"
+
+msgid "Ignore words with numbers"
+msgstr "تجاهل الكلمات التي تحتوي على أرقام"
+
+msgid "Illustrations"
+msgstr "الرسومات التوضيحية"
+
+msgid "Immersive"
+msgstr "غامر"
+
+msgid "Immersive Reader"
+msgstr "القارئ الغامر"
+
+msgid "Immersive\nReader"
+msgstr "القارئ\nالغامر"
+
+msgid "Imported 1 source"
+msgstr "تم استيراد مصدر واحد"
+
+msgid "Imported {n} sources"
+msgstr "تم استيراد {n} من المصادر"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "في «التطبيقات الافتراضية»، اختر WordCraft لأنواع المستندات التي تريد أن يفتحها."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "في المعادلات، كتابة اسم بعد شرطة مائلة عكسية تستبدله برمزه."
+
+msgid "In Front of Text"
+msgstr "أمام النص"
+
+msgid "In Line with Text"
+msgstr "على سطر واحد مع النص"
+
+msgid "In margin"
+msgstr "في الهامش"
+
+msgid "In the margin"
+msgstr "في الهامش"
+
+msgid "Include label and number"
+msgstr "تضمين الملصق والرقم"
+
+msgid "Include level number from:"
+msgstr "تضمين رقم المستوى من:"
+
+msgid "Include page numbers"
+msgstr "تضمين أرقام الصفحات"
+
+msgid "Increase Indent"
+msgstr "زيادة المسافة البادئة"
+
+msgid "Indent"
+msgstr "مسافة بادئة"
+
+msgid "Indent from left:"
+msgstr "المسافة البادئة من اليسار:"
+
+msgid "Indentation"
+msgstr "المسافات البادئة"
+
+msgid "Indented"
+msgstr "بمسافة بادئة"
+
+msgid "Indents"
+msgstr "المسافات البادئة"
+
+msgid "Indents and Spacing"
+msgstr "المسافات البادئة والتباعد"
+
+msgid "Index and Tables"
+msgstr "الفهرس والجداول"
+
+msgid "Index Heading"
+msgstr "عنوان الفهرس"
+
+msgid "Index {n}"
+msgstr "الفهرس {n}"
+
+msgid "India"
+msgstr "الهند"
+
+msgid "Indonesian"
+msgstr "الإندونيسية"
+
+msgid "Initial column width:"
+msgstr "عرض العمود الأولي:"
+
+msgid "Initials:"
+msgstr "الأحرف الأولى:"
+
+msgid "Ink"
+msgstr "الحبر"
+
+msgid "Ink Replay"
+msgstr "إعادة تشغيل الحبر"
+
+msgid "Ink to Shape"
+msgstr "تحويل الحبر إلى شكل"
+
+msgid "Ink to\nMath"
+msgstr "تحويل الحبر\nإلى رياضيات"
+
+msgid "Ink to\nShape"
+msgstr "تحويل الحبر\nإلى شكل"
+
+msgid "Ink\nReplay"
+msgstr "إعادة تشغيل\nالحبر"
+
+msgid "Inline"
+msgstr "ضمن السطر"
+
+msgid "Input Format"
+msgstr "تنسيق الإدخال"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "إدراج معادلة جديدة (Alt+=)"
+
+msgid "Insert Above"
+msgstr "إدراج أعلى"
+
+msgid "Insert Below"
+msgstr "إدراج أسفل"
+
+msgid "Insert Caption"
+msgstr "إدراج تسمية توضيحية"
+
+msgid "Insert Caption…"
+msgstr "إدراج تسمية توضيحية…"
+
+msgid "Insert Chart"
+msgstr "إدراج مخطط"
+
+msgid "Insert Citation"
+msgstr "إدراج استشهاد"
+
+msgid "Insert Columns to the Left"
+msgstr "إدراج أعمدة إلى اليسار"
+
+msgid "Insert Columns to the Right"
+msgstr "إدراج أعمدة إلى اليمين"
+
+msgid "Insert Date Field"
+msgstr "إدراج حقل التاريخ"
+
+msgid "Insert Diagram"
+msgstr "إدراج رسم تخطيطي"
+
+msgid "Insert Endnote"
+msgstr "إدراج حاشية ختامية"
+
+msgid "Insert Footnote"
+msgstr "إدراج حاشية سفلية"
+
+msgid "Insert Hyperlink"
+msgstr "إدراج ارتباط تشعبي"
+
+msgid "Insert Index"
+msgstr "إدراج فهرس"
+
+msgid "Insert Left"
+msgstr "إدراج إلى اليسار"
+
+msgid "Insert Merge Field"
+msgstr "إدراج حقل دمج"
+
+msgid "Insert Merge\nField"
+msgstr "إدراج حقل\nدمج"
+
+msgid "Insert New Equation"
+msgstr "إدراج معادلة جديدة"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "إدراج نص أو آخر حسب قيمة حقل."
+
+msgid "Insert Page Field"
+msgstr "إدراج حقل الصفحة"
+
+msgid "Insert reference to:"
+msgstr "إدراج مرجع إلى:"
+
+msgid "Insert Right"
+msgstr "إدراج إلى اليمين"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "إدراج صف أو عمود بالنقر"
+
+msgid "Insert Rows Above"
+msgstr "إدراج صفوف أعلى"
+
+msgid "Insert Rows Below"
+msgstr "إدراج صفوف أسفل"
+
+msgid "Insert Shapes"
+msgstr "إدراج أشكال"
+
+msgid "Insert SmartArt"
+msgstr "إدراج SmartArt"
+
+msgid "Insert Spike"
+msgstr "إدراج حافظة التجميع"
+
+msgid "Insert Structure"
+msgstr "إدراج بنية"
+
+msgid "Insert Symbol"
+msgstr "إدراج رمز"
+
+msgid "Insert Table"
+msgstr "إدراج جدول"
+
+msgid "Insert Table of Authorities"
+msgstr "إدراج جدول المصادر القانونية"
+
+msgid "Insert Table of Figures"
+msgstr "إدراج جدول الأشكال التوضيحية"
+
+msgid "Insert Table…"
+msgstr "إدراج جدول…"
+
+msgid "Insert Time Field"
+msgstr "إدراج حقل الوقت"
+
+msgid "Insert\nAbove"
+msgstr "إدراج\nأعلى"
+
+msgid "Insert\nCaption"
+msgstr "إدراج تسمية\nتوضيحية"
+
+msgid "Insert\nCitation"
+msgstr "إدراج\nاستشهاد"
+
+msgid "Insert\nFootnote"
+msgstr "إدراج حاشية\nسفلية"
+
+msgid "Insertions and Deletions"
+msgstr "الإدراجات والحذوفات"
+
+msgid "Insertions:"
+msgstr "الإدراجات:"
+
+msgid "Inside Borders"
+msgstr "الحدود الداخلية"
+
+msgid "Inside Horizontal Border"
+msgstr "الحد الأفقي الداخلي"
+
+msgid "Inside Vertical Border"
+msgstr "الحد العمودي الداخلي"
+
+msgid "Inside:"
+msgstr "الداخل:"
+
+msgid "Inspect Styles at Selection"
+msgstr "فحص الأنماط عند التحديد"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr "تثبيت حزمة لغة"
+
+msgid "Install spelling ({size})"
+msgstr "تثبيت الإملاء ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "المؤسسة"
+
+msgid "Integral"
+msgstr "تكامل"
+
+msgid "Integral of e^(−x²)"
+msgstr "تكامل e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "تكامل بحدود"
+
+msgid "Integral with Stacked Limits"
+msgstr "تكامل بحدود مكدّسة"
+
+msgid "Integrals"
+msgstr "التكاملات"
+
+msgid "Intense Emphasis"
+msgstr "توكيد مكثّف"
+
+msgid "Intense Quote"
+msgstr "اقتباس مكثّف"
+
+msgid "Intense Reference"
+msgstr "مرجع مكثّف"
+
+msgid "Interface language:"
+msgstr "لغة الواجهة:"
+
+msgid "Interface size:"
+msgstr "حجم الواجهة:"
+
+msgid "Interface theme:"
+msgstr "سمة الواجهة:"
+
+msgid "Interface\nTheme"
+msgstr "سمة\nالواجهة"
+
+msgid "Internet addresses as links"
+msgstr "عناوين الإنترنت كارتباطات"
+
+msgid "Intersection with Limits"
+msgstr "تقاطع بحدود"
+
+msgid "Intersection with Lower Limit"
+msgstr "تقاطع بحد سفلي"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "تقاطع بحدود سفلية وعلوية"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "دالة قاطع التمام العكسية"
+
+msgid "Inverse Cosine Function"
+msgstr "دالة جيب التمام العكسية"
+
+msgid "Inverse Cotangent Function"
+msgstr "دالة ظل التمام العكسية"
+
+msgid "Inverse Functions"
+msgstr "الدوال العكسية"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "دالة قاطع التمام الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "دالة جيب التمام الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "دالة ظل التمام الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "الدوال الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "دالة القاطع الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "دالة الجيب الزائدية العكسية"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "دالة الظل الزائدية العكسية"
+
+msgid "Inverse Secant Function"
+msgstr "دالة القاطع العكسية"
+
+msgid "Inverse Sine Function"
+msgstr "دالة الجيب العكسية"
+
+msgid "Inverse Tangent Function"
+msgstr "دالة الظل العكسية"
+
+msgid "Ionosphere"
+msgstr "الأيونوسفير"
+
+msgid "Iraq"
+msgstr "العراق"
+
+msgid "Ireland"
+msgstr "أيرلندا"
+
+msgid "Irish"
+msgstr "الأيرلندية"
+
+msgid "Is blank"
+msgstr "فارغ"
+
+msgid "Is not blank"
+msgstr "غير فارغ"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (المؤلف والتاريخ)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (رقمي)"
+
+msgid "Issue"
+msgstr "العدد"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "يبدو أنك تكتب رسالة. أتريد ظرفًا لها، أم قالب رسالة تبدأ منه؟"
+
+msgid "Italy"
+msgstr "إيطاليا"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "تعذّرت قراءة قاموسها: {reason}"
+
+msgid "Jamaica"
+msgstr "جامايكا"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "انضم إلى مجتمع ArtCraft على Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "انضم إلينا على Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "الأردن"
+
+msgid "Journal"
+msgstr "مجلة علمية"
+
+msgid "Journal article"
+msgstr "مقال في مجلة علمية"
+
+msgid "Justification of a display equation"
+msgstr "محاذاة معادلة العرض"
+
+msgid "Justified"
+msgstr "مضبوط"
+
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+msgid "Keep Lines Together"
+msgstr "إبقاء الأسطر معًا"
+
+msgid "Keep lines together"
+msgstr "إبقاء الأسطر معًا"
+
+msgid "Keep me around"
+msgstr "ابقَ معي"
+
+msgid "Keep Text Only"
+msgstr "الاحتفاظ بالنص فقط"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "احفظ كلمة المرور في مكان آمن: لا يستطيع أحد فتح المستند بدونها، ولا WordCraft نفسه. اترك المربعين فارغين لإزالة كلمة المرور."
+
+msgid "Keep with Next"
+msgstr "الربط مع التالي"
+
+msgid "Keep with next"
+msgstr "الربط مع التالي"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "يحتفظ بخطوط النص المنسوخ وتنسيقه."
+
+msgid "Kerning for fonts:"
+msgstr "ضبط المسافات بين الأحرف للخطوط:"
+
+msgid "Keyboard shortcuts:"
+msgstr "اختصارات لوحة المفاتيح:"
+
+msgid "Keys for this command:"
+msgstr "مفاتيح هذا الأمر:"
+
+msgid "Kuwait"
+msgstr "الكويت"
+
+msgid "Label changes with:"
+msgstr "يتغير الملصق مع:"
+
+msgid "Label:"
+msgstr "الملصق:"
+
+msgid "Language data"
+msgstr "بيانات اللغة"
+
+msgid "Language Packs"
+msgstr "حزم اللغات"
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "تفضيلات اللغة…"
+
+msgid "Large\nOperator"
+msgstr "عامل\nكبير"
+
+msgid "Largest Only"
+msgstr "الأكبر فقط"
+
+msgid "Lasso Select"
+msgstr "التحديد الحر"
+
+msgid "Last Column"
+msgstr "العمود الأخير"
+
+msgid "Last Name"
+msgstr "اسم العائلة"
+
+msgid "Last Record"
+msgstr "السجل الأخير"
+
+msgid "Last, First; Last, First"
+msgstr "العائلة، الأول؛ العائلة، الأول"
+
+msgid "Latin text font:"
+msgstr "خط النص اللاتيني:"
+
+msgid "Latvian"
+msgstr "اللاتفية"
+
+msgid "Layout Summary"
+msgstr "ملخص التخطيط"
+
+msgid "Layouts"
+msgstr "التخطيطات"
+
+msgid "Leader"
+msgstr "الأحرف السابقة"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "استبعاد المستلم من الدمج عندما تكون للحقل هذه القيمة."
+
+msgid "Leave Equation"
+msgstr "مغادرة المعادلة"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "حذف تاريخ التعليقات والتغييرات المتعقَّبة ووقتها عند الحفظ"
+
+msgid "Leave the equation (Esc)"
+msgstr "مغادرة المعادلة (Esc)"
+
+msgid "leave the equation first"
+msgstr "غادر المعادلة أولًا"
+
+msgid "Leave the label out of the caption"
+msgstr "حذف الملصق من التسمية التوضيحية"
+
+msgid "Lebanon"
+msgstr "لبنان"
+
+msgid "Left Arrow with Text Above"
+msgstr "سهم لليسار مع نص فوقه"
+
+msgid "Left Arrow with Text Below"
+msgstr "سهم لليسار مع نص تحته"
+
+msgid "Left Border"
+msgstr "الحد الأيسر"
+
+msgid "Left border"
+msgstr "الحد الأيسر"
+
+msgid "Left Bracket Twice"
+msgstr "قوس أيسر مرتين"
+
+msgid "Left indent"
+msgstr "المسافة البادئة اليسرى"
+
+msgid "Left Margin"
+msgstr "الهامش الأيسر"
+
+msgid "Left Only"
+msgstr "اليسار فقط"
+
+msgid "Left Right Arrow Above"
+msgstr "سهم يسار-يمين فوق"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "سهم يسار-يمين مع نص فوقه"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "سهم يسار-يمين مع نص تحته"
+
+msgid "Left Subscript-Superscript"
+msgstr "دليل سفلي وعلوي يساري"
+
+msgid "Left-to-right"
+msgstr "من اليسار لليمين"
+
+msgid "Left-to-Right Text Direction"
+msgstr "اتجاه النص من اليسار لليمين"
+
+msgid "Leftwards Arrow Above"
+msgstr "سهم لليسار فوق"
+
+msgid "Leftwards Harpoon Above"
+msgstr "حربة لليسار فوق"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8.50\" × 14.00\""
+
+msgid "Legal style numbering"
+msgstr "ترقيم بالأسلوب القانوني"
+
+msgid "Legend"
+msgstr "وسيلة الإيضاح"
+
+msgid "Less Contrast −20%"
+msgstr "تباين أقل −20%"
+
+msgid "Less than"
+msgstr "أصغر من"
+
+msgid "Less than or equal"
+msgstr "أصغر من أو يساوي"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "رسالة"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8.50\" × 11.00\""
+
+msgid "Letter headings"
+msgstr "عناوين الحروف"
+
+msgid "Letter template"
+msgstr "قالب رسالة"
+
+msgid "Letter-Like Symbols"
+msgstr "رموز شبيهة بالحروف"
+
+msgid "Letters"
+msgstr "الرسائل"
+
+msgid "Level 5"
+msgstr "المستوى 5"
+
+msgid "Level 6"
+msgstr "المستوى 6"
+
+msgid "Level 7"
+msgstr "المستوى 7"
+
+msgid "Level 8"
+msgstr "المستوى 8"
+
+msgid "Level 9"
+msgstr "المستوى 9"
+
+msgid "Level {n}"
+msgstr "المستوى {n}"
+
+msgid "Levels:"
+msgstr "المستويات:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "ليختنشتاين"
+
+msgid "Light Variations"
+msgstr "تنويعات فاتحة"
+
+msgid "Light with Outline"
+msgstr "فاتح مع حد خارجي"
+
+msgid "Limit"
+msgstr "النهاية"
+
+msgid "Limit and"
+msgstr "النهاية و"
+
+msgid "Limit and\nLog"
+msgstr "النهاية\nواللوغاريتم"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "الحد الأقصى للواصلات المتتالية:"
+
+msgid "Limit Example"
+msgstr "مثال على النهاية"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "قصر التنسيق على أنماط محددة"
+
+msgid "Line and Page Breaks"
+msgstr "فواصل الأسطر والصفحات"
+
+msgid "Line and Paragraph Spacing"
+msgstr "تباعد الأسطر والفقرات"
+
+msgid "Line between"
+msgstr "خط بينها"
+
+msgid "Line Break"
+msgstr "فاصل سطر"
+
+msgid "Line breaking"
+msgstr "فصل الأسطر"
+
+msgid "Line End"
+msgstr "نهاية السطر"
+
+msgid "Line Number"
+msgstr "رقم السطر"
+
+msgid "Line Numbering Options…"
+msgstr "خيارات ترقيم الأسطر…"
+
+msgid "Line Numbers"
+msgstr "أرقام الأسطر"
+
+msgid "Line Spacing"
+msgstr "تباعد الأسطر"
+
+msgid "Line Spacing Options…"
+msgstr "خيارات تباعد الأسطر…"
+
+msgid "Line spacing:"
+msgstr "تباعد الأسطر:"
+
+msgid "Line Start"
+msgstr "بداية السطر"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "خطي قطري - من أسفل اليسار إلى أعلى اليمين"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "خطي قطري - من أسفل اليمين إلى أعلى اليسار"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "خطي قطري - من أعلى اليسار إلى أسفل اليمين"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "خطي قطري - من أعلى اليمين إلى أسفل اليسار"
+
+msgid "Linear Down"
+msgstr "خطي للأسفل"
+
+msgid "Linear Fraction"
+msgstr "كسر خطي"
+
+msgid "Linear Left"
+msgstr "خطي لليسار"
+
+msgid "Linear Right"
+msgstr "خطي لليمين"
+
+msgid "Linear Up"
+msgstr "خطي للأعلى"
+
+msgid "Lines and characters"
+msgstr "الأسطر والأحرف"
+
+msgid "Lines only"
+msgstr "الأسطر فقط"
+
+msgid "Lines per page:"
+msgstr "عدد الأسطر في الصفحة:"
+
+msgid "Lines to drop:"
+msgstr "عدد أسطر الانسدال:"
+
+msgid "Link entries to their headings"
+msgstr "ربط الإدخالات بعناوينها"
+
+msgid "Link level to style:"
+msgstr "ربط المستوى بالنمط:"
+
+msgid "Link to Previous"
+msgstr "ربط بالسابق"
+
+msgid "Link to:"
+msgstr "ربط بـ:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "نمط مرتبط (فقرة وأحرف)"
+
+msgid "Links and References"
+msgstr "الارتباطات والمراجع"
+
+msgid "Link…"
+msgstr "ارتباط…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "تعريف القائمة"
+
+msgid "List entries"
+msgstr "إدخالات القائمة"
+
+msgid "List Paragraph"
+msgstr "فقرة القائمة"
+
+msgid "List Table 3 – Blue"
+msgstr "جدول قائمة 3 – أزرق"
+
+msgid "List Table 3 – Green"
+msgstr "جدول قائمة 3 – أخضر"
+
+msgid "List Table 3 – Orange"
+msgstr "جدول قائمة 3 – برتقالي"
+
+msgid "List Table 3 – Purple"
+msgstr "جدول قائمة 3 – بنفسجي"
+
+msgid "Lit from Bottom"
+msgstr "مضاء من الأسفل"
+
+msgid "Lit from Top"
+msgstr "مضاء من الأعلى"
+
+msgid "Lithuanian"
+msgstr "الليتوانية"
+
+msgid "Load System Installed Fonts…"
+msgstr "تحميل خطوط النظام المثبتة…"
+
+msgid "Loaded {count} system fonts."
+msgstr "تم تحميل {count} من خطوط النظام."
+
+msgid "Local font access is not supported by your browser."
+msgstr "متصفحك لا يدعم الوصول إلى الخطوط المحلية."
+
+msgid "Local font access was denied."
+msgstr "تم رفض الوصول إلى الخطوط المحلية."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "الاسترداد المحلي غير متاح أو ما زال قيد التحميل."
+
+msgid "Location: {path}"
+msgstr "الموقع: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "تأمين نسبة العرض إلى الارتفاع"
+
+msgid "Lock Fields"
+msgstr "تأمين الحقول"
+
+msgid "Log"
+msgstr "لوغاريتم"
+
+msgid "Logarithm"
+msgstr "اللوغاريتم"
+
+msgid "Logarithm with Base"
+msgstr "لوغاريتم بأساس"
+
+msgid "Logical AND"
+msgstr "AND منطقي"
+
+msgid "Logical AND with Limits"
+msgstr "AND منطقي بحدود"
+
+msgid "Logical OR"
+msgstr "OR منطقي"
+
+msgid "Logical OR with Limits"
+msgstr "OR منطقي بحدود"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: لأن الكلمات الحقيقية ما زالت في المقهى."
+
+msgid "Lum:"
+msgstr "الإضاءة:"
+
+msgid "Luxembourg"
+msgstr "لوكسمبورغ"
+
+msgid "Macao SAR"
+msgstr "منطقة ماكاو الإدارية الخاصة"
+
+msgid "Macedonian"
+msgstr "المقدونية"
+
+msgid "Macro name:"
+msgstr "اسم الماكرو:"
+
+msgid "Macros"
+msgstr "وحدات الماكرو"
+
+msgid "Made from the author and year when empty"
+msgstr "يُنشأ من المؤلف والسنة عندما يكون فارغًا"
+
+msgid "Magazine or newspaper article"
+msgstr "مقال في مجلة أو صحيفة"
+
+msgid "Mail Merge"
+msgstr "دمج المراسلات"
+
+msgid "Mailings"
+msgstr "المراسلات"
+
+msgid "Main entry:"
+msgstr "الإدخال الرئيسي:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "جعل WordCraft التطبيق الافتراضي لمستندات Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "يكبّر الشريط والقوائم ونوافذ الحوار أو يصغّرها. الوضع التلقائي يتبع تحجيم شاشة نظامك؛ و100% تعني بكسل شاشة واحدًا لكل نقطة. تكبير المستند منفصل."
+
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+msgid "Manage Sources"
+msgstr "إدارة المصادر"
+
+msgid "Manage Styles"
+msgstr "إدارة الأنماط"
+
+msgid "Manage Styles…"
+msgstr "إدارة الأنماط…"
+
+msgid "Manual Hyphenation"
+msgstr "تقسيم الكلمات يدويًا"
+
+msgid "Manual hyphenation is complete."
+msgstr "اكتمل تقسيم الكلمات يدويًا."
+
+msgid "Manual Line Break"
+msgstr "فاصل سطر يدوي"
+
+msgid "Manual Page Break"
+msgstr "فاصل صفحة يدوي"
+
+msgid "Manual…"
+msgstr "يدوي…"
+
+msgid "Many pages"
+msgstr "صفحات عديدة"
+
+msgid "Mark"
+msgstr "وضع علامة"
+
+msgid "Mark All"
+msgstr "وضع علامة على الكل"
+
+msgid "Mark as decorative"
+msgstr "وضع علامة كزخرفي"
+
+msgid "Mark Citation"
+msgstr "وضع علامة على الاستشهاد"
+
+msgid "Mark Entry"
+msgstr "وضع علامة على إدخال الفهرس"
+
+msgid "Mark Entry…"
+msgstr "وضع علامة على إدخال الفهرس…"
+
+msgid "Mark grammar errors as you type"
+msgstr "وضع علامة على الأخطاء النحوية أثناء الكتابة"
+
+msgid "Mark Index Entry"
+msgstr "وضع علامة على إدخال الفهرس"
+
+msgid "Mark selected text as:"
+msgstr "وضع علامة على النص المحدد كـ:"
+
+msgid "Mark\nCitation"
+msgstr "وضع علامة على\nالاستشهاد"
+
+msgid "Mark\nEntry"
+msgstr "وضع علامة على\nإدخال الفهرس"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "مطابقة حالة الأحرف"
+
+msgid "Match Fields"
+msgstr "مطابقة الحقول"
+
+msgid "Match prefix"
+msgstr "مطابقة البادئة"
+
+msgid "Match suffix"
+msgstr "مطابقة اللاحقة"
+
+msgid "Matches: {count}"
+msgstr "التطابقات: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "التصحيح التلقائي للرياضيات"
+
+msgid "Matrices with Brackets"
+msgstr "مصفوفات بأقواس"
+
+msgid "Matrix"
+msgstr "مصفوفة"
+
+msgid "Maximum Example"
+msgstr "مثال على القيمة العظمى"
+
+msgid "Measured By"
+msgstr "القياس حسب"
+
+msgid "Measurement units:"
+msgstr "وحدات القياس:"
+
+msgid "Merge cells before split"
+msgstr "دمج الخلايا قبل التقسيم"
+
+msgid "Merge Formatting"
+msgstr "دمج التنسيق"
+
+msgid "Merge Record #"
+msgstr "رقم سجل الدمج"
+
+msgid "Mesosphere"
+msgstr "الميزوسفير"
+
+msgid "Mexico"
+msgstr "المكسيك"
+
+msgid "Midline Dots"
+msgstr "نقاط منتصف السطر"
+
+msgid "Minus Equal"
+msgstr "ناقص يساوي"
+
+msgid "Mirror indents"
+msgstr "عكس المسافات البادئة"
+
+msgid "Mirror margins"
+msgstr "هوامش معكوسة"
+
+msgid "Mirrored"
+msgstr "معكوس"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. حقوق النشر (c) 2026 فريق ArtCraft والمساهمون في WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "مم"
+
+msgid "Moderate"
+msgstr "متوسط"
+
+msgid "Modify Style"
+msgstr "تعديل النمط"
+
+msgid "Modify Table Style"
+msgstr "تعديل نمط الجدول"
+
+msgid "Modify Table Style…"
+msgstr "تعديل نمط الجدول…"
+
+msgid "Modify…"
+msgstr "تعديل…"
+
+msgid "Mon"
+msgstr "الاثنين"
+
+msgid "Monaco"
+msgstr "موناكو"
+
+msgid "Montenegro"
+msgstr "الجبل الأسود"
+
+msgid "Month"
+msgstr "الشهر"
+
+msgid "More >>"
+msgstr "المزيد >>"
+
+msgid "More Colors…"
+msgstr "ألوان إضافية…"
+
+msgid "More Columns…"
+msgstr "أعمدة إضافية…"
+
+msgid "More Commands…"
+msgstr "أوامر إضافية…"
+
+msgid "More Contrast +20%"
+msgstr "تباين أعلى +20%"
+
+msgid "More Gradients…"
+msgstr "تدرّجات إضافية…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "أحجام ورق إضافية…"
+
+msgid "More Symbols…"
+msgstr "رموز إضافية…"
+
+msgid "More tabs"
+msgstr "علامات تبويب إضافية"
+
+msgid "More templates →"
+msgstr "قوالب إضافية ←"
+
+msgid "More Underlines…"
+msgstr "أنماط تسطير إضافية…"
+
+msgid "Morocco"
+msgstr "المغرب"
+
+msgid "Move in Equation"
+msgstr "التنقل في المعادلة"
+
+msgid "Move or Resize"
+msgstr "نقل أو تغيير الحجم"
+
+msgid "Move Pane: {title}"
+msgstr "نقل الجزء: {title}"
+
+msgid "Move Paragraph Down"
+msgstr "نقل الفقرة للأسفل"
+
+msgid "Move Paragraph Up"
+msgstr "نقل الفقرة للأعلى"
+
+msgid "Move Past Citation"
+msgstr "تجاوز الاستشهاد"
+
+msgid "Move Past\nCitation"
+msgstr "تجاوز\nالاستشهاد"
+
+msgid "Move Selected Ink"
+msgstr "نقل الحبر المحدد"
+
+msgid "Move Table by Dragging"
+msgstr "نقل الجدول بالسحب"
+
+msgid "Move with Text"
+msgstr "التحرك مع النص"
+
+msgid "Moved from"
+msgstr "نُقل من"
+
+msgid "Moved from:"
+msgstr "نُقل من:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "تلتصق الكائنات المنقولة بحواف الصفحة ووسطها والهوامش والكائنات الأخرى. اضغط Alt للتحريك بحرية."
+
+msgid "Moved to"
+msgstr "نُقل إلى"
+
+msgid "Moved to:"
+msgstr "نُقل إلى:"
+
+msgid "Moves"
+msgstr "عمليات النقل"
+
+msgid "Mozambique"
+msgstr "موزمبيق"
+
+msgid "Multilevel List"
+msgstr "قائمة متعددة المستويات"
+
+msgid "Multilevel List Library"
+msgstr "مكتبة القوائم متعددة المستويات"
+
+msgid "Multiple Pages"
+msgstr "صفحات متعددة"
+
+msgid "Mute agent messages"
+msgstr "كتم رسائل الوكلاء"
+
+msgid "Muted 50%"
+msgstr "خافت 50%"
+
+msgid "My list has"
+msgstr "قائمتي تحتوي على"
+
+msgid "Name of the file this document is saved as"
+msgstr "اسم الملف المحفوظ به هذا المستند"
+
+msgid "Narrow"
+msgstr "ضيق"
+
+msgid "Narrow  {size} all"
+msgstr "ضيق  {size} للكل"
+
+msgid "Natural Logarithm"
+msgstr "اللوغاريتم الطبيعي"
+
+msgid "Nature"
+msgstr "الطبيعة"
+
+msgid "Navigation Pane"
+msgstr "جزء التنقل"
+
+msgid "Negated Relations"
+msgstr "العلاقات المنفية"
+
+msgid "Netherlands"
+msgstr "هولندا"
+
+msgid "New blank documents are written in this language"
+msgstr "تُكتب المستندات الفارغة الجديدة بهذه اللغة"
+
+msgid "New Comment"
+msgstr "تعليق جديد"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "تُسجَّل التعليقات والتغييرات المتعقَّبة الجديدة بهذا الاسم وهذه الأحرف الأولى."
+
+msgid "New Documents Based on This Template"
+msgstr "المستندات الجديدة المستندة إلى هذا القالب"
+
+msgid "New documents based on this template"
+msgstr "المستندات الجديدة المستندة إلى هذا القالب"
+
+msgid "New documents will use this font."
+msgstr "ستستخدم المستندات الجديدة هذا الخط."
+
+msgid "New documents will use this page setup."
+msgstr "ستستخدم المستندات الجديدة إعداد الصفحة هذا."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "ستستخدم المستندات الجديدة تنسيق الفقرة هذا."
+
+msgid "New documents will use this style."
+msgstr "ستستخدم المستندات الجديدة هذا النمط."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "ستستخدم المستندات الجديدة التنسيق المضمّن في WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "ستستخدم المستندات الجديدة التنسيق المضمّن في WordCraft. لا يمكن استرداد الإعدادات الافتراضية المحفوظة. هل تريد إعادة التعيين؟"
+
+msgid "New Drawing Canvas"
+msgstr "لوحة رسم جديدة"
+
+msgid "New Entry"
+msgstr "إدخال جديد"
+
+msgid "New Label"
+msgstr "ملصق جديد"
+
+msgid "New Label…"
+msgstr "ملصق جديد…"
+
+msgid "New Paragraph"
+msgstr "فقرة جديدة"
+
+msgid "New shortcut:"
+msgstr "اختصار جديد:"
+
+msgid "New Tab"
+msgstr "علامة تبويب جديدة"
+
+msgid "New Table Style"
+msgstr "نمط جدول جديد"
+
+msgid "New Table Style…"
+msgstr "نمط جدول جديد…"
+
+msgid "New word"
+msgstr "كلمة جديدة"
+
+msgid "New Zealand"
+msgstr "نيوزيلندا"
+
+msgid "New\nComment"
+msgstr "تعليق\nجديد"
+
+msgid "New\nWindow"
+msgstr "نافذة\nجديدة"
+
+msgid "Next Comment"
+msgstr "التعليق التالي"
+
+msgid "Next Field"
+msgstr "الحقل التالي"
+
+msgid "Next Footnote"
+msgstr "الحاشية السفلية التالية"
+
+msgid "Next Record"
+msgstr "السجل التالي"
+
+msgid "Next Section"
+msgstr "القسم التالي"
+
+msgid "Next Sentence"
+msgstr "الجملة التالية"
+
+msgid "Next sentence"
+msgstr "الجملة التالية"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "يطفو Nib فوق النافذة بتلميحات وتعليق بين حين وآخر."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib، مساعدك. اسحبه لتحريكه، وانقر بزر الماوس الأيمن لعرض الخيارات."
+
+msgid "Nicaragua"
+msgstr "نيكاراغوا"
+
+msgid "No accessibility issues found."
+msgstr "لم يُعثر على مشكلات في إمكانية الوصول."
+
+msgid "No Border"
+msgstr "بلا حدود"
+
+msgid "No changes (read only)"
+msgstr "لا تغييرات (للقراءة فقط)"
+
+msgid "No contributor data was built into this copy."
+msgstr "لم تُضمَّن بيانات المساهمين في هذه النسخة."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "لا يوجد مستند مفتوح. أنشئ مستندًا أو افتح واحدًا أولًا."
+
+msgid "no equation at the caret"
+msgstr "لا توجد معادلة عند مؤشر الكتابة"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "لم يُعثر على أخطاء: كل حقول الدمج موجودة في قائمة المستلمين."
+
+msgid "No Fill"
+msgstr "بلا تعبئة"
+
+msgid "No fill"
+msgstr "بلا تعبئة"
+
+msgid "No Glow"
+msgstr "بلا توهج"
+
+msgid "No Gradient"
+msgstr "بلا تدرّج"
+
+msgid "No grid"
+msgstr "بلا شبكة"
+
+msgid "No header row"
+msgstr "بلا صف رأس"
+
+msgid "No icons match your search."
+msgstr "لا توجد أيقونات تطابق بحثك."
+
+msgid "No items to show."
+msgstr "لا توجد عناصر لعرضها."
+
+msgid "No language matches your search."
+msgstr "لا توجد لغة تطابق بحثك."
+
+msgid "No languages to show yet."
+msgstr "لا توجد لغات لعرضها بعد."
+
+msgid "No Markup"
+msgstr "بلا علامات"
+
+msgid "No model credits were built into this copy."
+msgstr "لم تُضمَّن بيانات النماذج في هذه النسخة."
+
+msgid "No new sources in that file"
+msgstr "لا توجد مصادر جديدة في ذلك الملف"
+
+msgid "No Outline"
+msgstr "بلا حد خارجي"
+
+msgid "No Paragraph Space"
+msgstr "بلا تباعد بين الفقرات"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "لم يُعثر على طابعات. اضبط طابعة في النظام أو صدّر ملف PDF."
+
+msgid "No recovery copies."
+msgstr "لا توجد نسخ استرداد."
+
+msgid "No Reflection"
+msgstr "بلا انعكاس"
+
+msgid "No Scaling"
+msgstr "بلا تحجيم"
+
+msgid "No Shadow"
+msgstr "بلا ظل"
+
+msgid "No Soft Edges"
+msgstr "بلا حواف ناعمة"
+
+msgid "No sources yet."
+msgstr "لا توجد مصادر بعد."
+
+msgid "No Spacing"
+msgstr "بلا تباعد"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "لا يوجد قاموس إملائي مثبت للغة {language}، لذا لا تُدقَّق. يبحث WordCraft عن قاموس Hunspell {name} في مجلد WORDCRAFT_DICTIONARIES وفي مواقع النظام المعتادة."
+
+msgid "No templates match your search."
+msgstr "لا توجد قوالب تطابق بحثك."
+
+msgid "No Transform"
+msgstr "بلا تحويل"
+
+msgid "No watermark"
+msgstr "بدون علامة مائية"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "لا توجد كلمات بعد. أمر «إضافة إلى القاموس» على كلمة خاطئة الإملاء يضعها هنا."
+
+msgid "No-Width Non Break"
+msgstr "فاصل بلا عرض غير منقسم"
+
+msgid "No-Width Optional Break"
+msgstr "فاصل اختياري بلا عرض"
+
+msgid "Nonbreaking Hyphen"
+msgstr "واصلة غير منقسمة"
+
+msgid "Normal  {size} all"
+msgstr "عادي  {size} للكل"
+
+msgid "Normal Indent"
+msgstr "مسافة بادئة عادية"
+
+msgid "Normal probability density"
+msgstr "دالة الكثافة الاحتمالية الطبيعية"
+
+msgid "Normal speed"
+msgstr "سرعة عادية"
+
+msgid "Normal Style"
+msgstr "النمط العادي"
+
+msgid "Normal Table"
+msgstr "جدول عادي"
+
+msgid "Normal Text"
+msgstr "نص عادي"
+
+msgid "Normal Word Document"
+msgstr "مستند Word عادي"
+
+msgid "North"
+msgstr "الشمال"
+
+msgid "Norwegian (Bokmål)"
+msgstr "النرويجية (بوكمول)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "النرويجية (نينورسك)"
+
+msgid "Not"
+msgstr "ليس"
+
+msgid "Not available right now"
+msgstr "غير متاح حاليًا"
+
+msgid "Not available yet"
+msgstr "غير متاحة بعد"
+
+msgid "not editing an equation"
+msgstr "لا يجري تحرير معادلة"
+
+msgid "Not equal to"
+msgstr "لا يساوي"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "غير مرتبط: انقر مربع نص"
+
+msgid "Not now"
+msgstr "ليس الآن"
+
+msgid "Not saved"
+msgstr "غير محفوظ"
+
+msgid "Not saved yet"
+msgstr "لم يُحفظ بعد"
+
+msgid "Not set"
+msgstr "غير محدد"
+
+msgid "Not set: the system's usual places"
+msgstr "غير محدد: مواقع النظام المعتادة"
+
+msgid "Not used by any command"
+msgstr "لا يستخدمه أي أمر"
+
+msgid "Not {name}"
+msgstr "ليس {name}"
+
+msgid "Nothing"
+msgstr "لا شيء"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "لم يُجمع شيء بعد. تظهر هنا العناصر التي تنسخها أو تقصها."
+
+msgid "nothing is selected"
+msgstr "لم يُحدَّد شيء"
+
+msgid "Nothing of this type in the document."
+msgstr "لا شيء من هذا النوع في المستند."
+
+msgid "Now used by {command}"
+msgstr "يستخدمه الآن {command}"
+
+msgid "Nudge"
+msgstr "دفع بسيط"
+
+msgid "Num Occurrences"
+msgstr "عدد التكرارات"
+
+msgid "Number alignment:"
+msgstr "محاذاة الرقم:"
+
+msgid "Number format"
+msgstr "تنسيق الأرقام"
+
+msgid "Number of columns:"
+msgstr "عدد الأعمدة:"
+
+msgid "Number of rows:"
+msgstr "عدد الصفوف:"
+
+msgid "Number of the page the field sits on"
+msgstr "رقم الصفحة التي يقع فيها الحقل"
+
+msgid "Number of the section the field sits in"
+msgstr "رقم القسم الذي يقع فيه الحقل"
+
+msgid "Number only, without the label's words"
+msgstr "الرقم فقط، دون كلمات الملصق"
+
+msgid "Number style for this level:"
+msgstr "نمط الترقيم لهذا المستوى:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "رقّم المعادلة؛ يظهر الرقم عند الهامش الأيمن (أو اكتب # ثم الرقم)"
+
+msgid "Numbering"
+msgstr "الترقيم"
+
+msgid "Numbering:"
+msgstr "الترقيم:"
+
+msgid "Numbering…"
+msgstr "الترقيم…"
+
+msgid "Numerals"
+msgstr "الأرقام"
+
+msgid "Numerals:"
+msgstr "الأرقام:"
+
+msgid "n×n Identity Matrix"
+msgstr "مصفوفة وحدة n×n"
+
+msgid "n×n Matrix"
+msgstr "مصفوفة n×n"
+
+msgid "Odd Banded Columns"
+msgstr "أعمدة فردية مخططة"
+
+msgid "Odd Banded Rows"
+msgstr "صفوف فردية مخططة"
+
+msgid "Odd Page"
+msgstr "الصفحة الفردية"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Office 2003 Default"
+msgstr "افتراضي Office 2003"
+
+msgid "Offset (pt):"
+msgstr "الإزاحة (نقطة):"
+
+msgid "Offset: Bottom"
+msgstr "إزاحة: للأسفل"
+
+msgid "Offset: Bottom Left"
+msgstr "إزاحة: للأسفل يسارًا"
+
+msgid "Offset: Bottom Right"
+msgstr "إزاحة: للأسفل يمينًا"
+
+msgid "Offset: Center"
+msgstr "إزاحة: للوسط"
+
+msgid "Offset: Left"
+msgstr "إزاحة: لليسار"
+
+msgid "Offset: Right"
+msgstr "إزاحة: لليمين"
+
+msgid "Offset: Top"
+msgstr "إزاحة: للأعلى"
+
+msgid "Offset: Top Left"
+msgstr "إزاحة: للأعلى يسارًا"
+
+msgid "Offset: Top Right"
+msgstr "إزاحة: للأعلى يمينًا"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "مفاتيح القوائم القديمة: Alt، {keys}. تابع الكتابة، أو اضغط Esc للإلغاء."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "تشغيل: ينزلق مؤشر الكتابة إلى موضعه الجديد عند الكتابة أو استخدام مفاتيح الأسهم، ويتلاشى وميضه. إيقاف: يقفز ويومض."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "تشغيل: يفتح WordCraft على ملف › الرئيسية، مع مستند فارغ والقوالب ومستنداتك الأخيرة. إيقاف: يفتح مستندًا فارغًا."
+
+msgid "One"
+msgstr "واحد"
+
+msgid "One half"
+msgstr "نصف"
+
+msgid "One label per recipient"
+msgstr "ملصق واحد لكل مستلم"
+
+msgid "One line per item. Enter adds an item."
+msgstr "سطر واحد لكل عنصر. Enter يضيف عنصرًا."
+
+msgid "One Page"
+msgstr "صفحة واحدة"
+
+msgid "One-sided"
+msgstr "وجه واحد"
+
+msgid "Only allow this kind of editing:"
+msgstr "السماح بهذا النوع من التحرير فقط:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "يمكن إضافة التعليقات فقط، إلا في المناطق المعلَّمة كقابلة للتحرير."
+
+msgid "Only for the selected text"
+msgstr "للنص المحدد فقط"
+
+msgid "Only form fields can be filled in."
+msgstr "يمكن تعبئة حقول النماذج فقط."
+
+msgid "only in Outline view"
+msgstr "في طريقة عرض المخطط التفصيلي فقط"
+
+msgid "Only in this document"
+msgstr "في هذا المستند فقط"
+
+msgid "Only label and number"
+msgstr "التسمية والرقم فقط"
+
+msgid "Only text properties can be changed."
+msgstr "يمكن تغيير الخصائص النصية فقط."
+
+msgid "Only the allowed styles can be applied."
+msgstr "يمكن تطبيق الأنماط المسموح بها فقط."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "يمكن فتح ارتباطات الويب (http، https) والبريد (mailto) فقط"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr "متباعد"
+
+msgid "Open a document first"
+msgstr "افتح مستندًا أولًا"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "فتح ملف بمستعرض WordCraft الخاص عندما لا يظهر مربع حوار الملفات في النظام."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "نص OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "جارٍ فتح مربع حوار الطباعة…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "يفتح ملفات .docx و.doc و.rtf و.odt وقوالب Word بـ WordCraft من الآن."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "يفتح الإعدادات › التطبيقات الافتراضية، حيث تختار WordCraft لـ .docx وأنواع المستندات الأخرى."
+
+msgid "Operator"
+msgstr "عامل"
+
+msgid "Operator Structures"
+msgstr "بنى العوامل"
+
+msgid "Operators"
+msgstr "العوامل"
+
+msgid "Optional Hyphen"
+msgstr "واصلة اختيارية"
+
+msgid "Or"
+msgstr "أو"
+
+msgid "Or save a copy in another format:"
+msgstr "أو احفظ نسخة بتنسيق آخر:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "الأعداد الترتيبية (1st) كنص مرتفع"
+
+msgid "Organizer"
+msgstr "المنظِّم"
+
+msgid "Organizer…"
+msgstr "المنظِّم…"
+
+msgid "Original document"
+msgstr "المستند الأصلي"
+
+msgid "Original size"
+msgstr "الحجم الأصلي"
+
+msgid "Other Large Operators"
+msgstr "عوامل كبيرة أخرى"
+
+msgid "Other styles and their TOC level:"
+msgstr "الأنماط الأخرى ومستواها في جدول المحتويات:"
+
+msgid "Other:"
+msgstr "أخرى:"
+
+msgid "Otherwise insert:"
+msgstr "وإلا أدرج:"
+
+msgid "Outline Level"
+msgstr "مستوى المخطط التفصيلي"
+
+msgid "Outline level"
+msgstr "مستوى المخطط التفصيلي"
+
+msgid "Outline levels"
+msgstr "مستويات المخطط التفصيلي"
+
+msgid "Outline State"
+msgstr "حالة المخطط التفصيلي"
+
+msgid "Outline Tools"
+msgstr "أدوات المخطط التفصيلي"
+
+msgid "Outlining"
+msgstr "المخطط التفصيلي"
+
+msgid "Outside border"
+msgstr "الحد الخارجي"
+
+msgid "Outside Borders"
+msgstr "الحدود الخارجية"
+
+msgid "Outside:"
+msgstr "الخارج:"
+
+msgid "Outward Brackets"
+msgstr "أقواس للخارج"
+
+msgid "Overbar"
+msgstr "شريط علوي"
+
+msgid "Overbars and Underbars"
+msgstr "الأشرطة العلوية والسفلية"
+
+msgid "Overbrace"
+msgstr "قوس معقوص علوي"
+
+msgid "Overtype"
+msgstr "الكتابة الاستبدالية"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "الكتابة الاستبدالية (الكتابة تستبدل الأحرف بعد مؤشر الكتابة)"
+
+msgid "Page Background"
+msgstr "خلفية الصفحة"
+
+msgid "Page Border"
+msgstr "حد الصفحة"
+
+msgid "Page Borders"
+msgstr "حدود الصفحة"
+
+msgid "Page Break"
+msgstr "فاصل صفحة"
+
+msgid "Page Break Before"
+msgstr "فاصل صفحة قبل"
+
+msgid "Page break before"
+msgstr "فاصل صفحة قبل"
+
+msgid "Page Breaks"
+msgstr "فواصل الصفحات"
+
+msgid "Page Color"
+msgstr "لون الصفحة"
+
+msgid "Page color"
+msgstr "لون الصفحة"
+
+msgid "Page display"
+msgstr "طريقة عرض الصفحة"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page image (*.png)"
+msgstr "صورة الصفحة (*.png)"
+
+msgid "Page Movement"
+msgstr "تنقل الصفحة"
+
+msgid "Page Number"
+msgstr "رقم الصفحة"
+
+msgid "Page number"
+msgstr "رقم الصفحة"
+
+msgid "Page Number Format"
+msgstr "تنسيق رقم الصفحة"
+
+msgid "Page number style"
+msgstr "نمط رقم الصفحة"
+
+msgid "Page numbering"
+msgstr "ترقيم الصفحات"
+
+msgid "Page numbers at the right margin"
+msgstr "أرقام الصفحات عند الهامش الأيمن"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "الصفحة التي يقع فيها مقطع مُعلَّم بإشارة مرجعية"
+
+msgid "Page Setup"
+msgstr "إعداد الصفحة"
+
+msgid "Page title"
+msgstr "عنوان الصفحة"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Width"
+msgstr "بعرض الصفحة"
+
+msgid "Page width"
+msgstr "عرض الصفحة"
+
+msgid "Page X of Y"
+msgstr "الصفحة X من Y"
+
+msgid "Page {page}"
+msgstr "الصفحة {page}"
+
+msgid "Page\nBorders"
+msgstr "حدود\nالصفحة"
+
+msgid "Page\nColor"
+msgstr "لون\nالصفحة"
+
+msgid "Page\nNumber"
+msgstr "رقم\nالصفحة"
+
+msgid "Pages in the range"
+msgstr "الصفحات في النطاق"
+
+msgid "Pages like 1-3, 5"
+msgstr "صفحات مثل 1-3، 5"
+
+msgid "Pages of bookmark:"
+msgstr "صفحات الإشارة المرجعية:"
+
+msgid "Panama"
+msgstr "بنما"
+
+msgid "Pane Options"
+msgstr "خيارات الجزء"
+
+msgid "Paper size:"
+msgstr "حجم الورق:"
+
+msgid "Paragraph Character"
+msgstr "حرف الفقرة"
+
+msgid "Paragraph Details"
+msgstr "تفاصيل الفقرة"
+
+msgid "Paragraph Down"
+msgstr "فقرة للأسفل"
+
+msgid "Paragraph Mark"
+msgstr "علامة الفقرة"
+
+msgid "Paragraph marks"
+msgstr "علامات الفقرات"
+
+msgid "Paragraph Settings"
+msgstr "إعدادات الفقرة"
+
+msgid "Paragraph Spacing"
+msgstr "تباعد الفقرات"
+
+msgid "Paragraph style"
+msgstr "نمط فقرة"
+
+msgid "Paragraph Up"
+msgstr "فقرة للأعلى"
+
+msgid "Paragraphs"
+msgstr "الفقرات"
+
+msgid "Paragraph…"
+msgstr "فقرة…"
+
+msgid "Paraguay"
+msgstr "باراغواي"
+
+msgid "Parentheses"
+msgstr "أقواس"
+
+msgid "Parentheses with Separator"
+msgstr "أقواس مع فاصل"
+
+msgid "Partial Differential"
+msgstr "تفاضل جزئي"
+
+msgid "Password:"
+msgstr "كلمة المرور:"
+
+msgid "Paste (⌘V)"
+msgstr "لصق (⌘V)"
+
+msgid "Paste All"
+msgstr "لصق الكل"
+
+msgid "Paste as:"
+msgstr "لصق كـ:"
+
+msgid "Paste Clipboard Item"
+msgstr "لصق عنصر الحافظة"
+
+msgid "Paste Formatting"
+msgstr "لصق التنسيق"
+
+msgid "Paste function:"
+msgstr "لصق دالة:"
+
+msgid "Paste Special…"
+msgstr "لصق خاص…"
+
+msgid "Paste: Keep Text Only"
+msgstr "لصق: الاحتفاظ بالنص فقط"
+
+msgid "Paste: Merge Formatting"
+msgstr "لصق: دمج التنسيق"
+
+msgid "Pastes the clipboard's picture."
+msgstr "يلصق صورة الحافظة."
+
+msgid "Paused"
+msgstr "متوقف مؤقتًا"
+
+msgid "PDF document (*.pdf)"
+msgstr "مستند PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "الأقلام"
+
+msgid "People"
+msgstr "الأشخاص"
+
+msgid "Periodical"
+msgstr "دورية"
+
+msgid "Persian"
+msgstr "الفارسية"
+
+msgid "Personal"
+msgstr "شخصي"
+
+msgid "Personal Templates"
+msgstr "القوالب الشخصية"
+
+msgid "Personalize"
+msgstr "التخصيص الشخصي"
+
+msgid "Peru"
+msgstr "بيرو"
+
+msgid "Philippines"
+msgstr "الفلبين"
+
+msgid "Phonetic Guide"
+msgstr "دليل النطق"
+
+msgid "pi"
+msgstr "بيكا"
+
+msgid "Pi Over 2"
+msgstr "باي على 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "اختر مجموعة مخصصة («مجموعة جديدة» تنشئ واحدة)"
+
+msgid "Pick a field from the list"
+msgstr "اختر حقلًا من القائمة"
+
+msgid "Picture"
+msgstr "صورة"
+
+msgid "Picture Border"
+msgstr "حد الصورة"
+
+msgid "Picture border"
+msgstr "حد الصورة"
+
+msgid "Picture Content Control"
+msgstr "عنصر تحكم في المحتوى (صورة)"
+
+msgid "Picture Format"
+msgstr "تنسيق الصورة"
+
+msgid "Picture Styles"
+msgstr "أنماط الصور"
+
+msgid "Picture transparency"
+msgstr "شفافية الصورة"
+
+msgid "Picture watermark"
+msgstr "علامة مائية من صورة"
+
+msgid "Pictures"
+msgstr "الصور"
+
+msgid "Pie"
+msgstr "دائري"
+
+msgid "Place in This Document"
+msgstr "موضع في هذا المستند"
+
+msgid "Placeholder text"
+msgstr "نص العنصر النائب"
+
+msgid "Plain Table 1"
+msgstr "جدول عادي 1"
+
+msgid "Plain text (*.txt)"
+msgstr "نص عادي (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "عنصر تحكم في المحتوى (نص عادي)"
+
+msgid "Play/Pause"
+msgstr "تشغيل/إيقاف مؤقت"
+
+msgid "Plus Equal"
+msgstr "زائد يساوي"
+
+msgid "Points and above"
+msgstr "نقطة فأكثر"
+
+msgid "Polish"
+msgstr "البولندية"
+
+msgid "Portugal"
+msgstr "البرتغال"
+
+msgid "Portuguese (Brazil)"
+msgstr "البرتغالية (البرازيل)"
+
+msgid "Portuguese (Portugal)"
+msgstr "البرتغالية (البرتغال)"
+
+msgid "Possible spelling mistake"
+msgstr "خطأ إملائي محتمل"
+
+msgid "Postal Code"
+msgstr "الرمز البريدي"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "متسلسلة القوى لـ (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "العرض المفضل:"
+
+msgid "Preserve formatting during updates"
+msgstr "الحفاظ على التنسيق أثناء التحديث"
+
+msgid "Preset gradients"
+msgstr "تدرّجات جاهزة"
+
+msgid "Press a key combination"
+msgstr "اضغط مجموعة مفاتيح"
+
+msgid "Preview Results"
+msgstr "معاينة النتائج"
+
+msgid "Preview\nResults"
+msgstr "معاينة\nالنتائج"
+
+msgid "Previous 1 or More"
+msgstr "السابق 1 أو أكثر"
+
+msgid "Previous Comment"
+msgstr "التعليق السابق"
+
+msgid "Previous Field"
+msgstr "الحقل السابق"
+
+msgid "Previous Record"
+msgstr "السجل السابق"
+
+msgid "Previous Section"
+msgstr "القسم السابق"
+
+msgid "Previous Sentence"
+msgstr "الجملة السابقة"
+
+msgid "Previous sentence"
+msgstr "الجملة السابقة"
+
+msgid "Print Documents"
+msgstr "طباعة المستندات"
+
+msgid "Print Documents…"
+msgstr "طباعة المستندات…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "فشلت الطباعة: توقفت عملية الطباعة."
+
+msgid "Print failed: {error}"
+msgstr "فشلت الطباعة: {error}"
+
+msgid "Print job submitted."
+msgstr "أُرسلت مهمة الطباعة."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "أُرسلت مهمة الطباعة: جُهّز للطباعة {count} من الأوراق"
+
+msgid "Print job submitted: {receipt}"
+msgstr "أُرسلت مهمة الطباعة: {receipt}"
+
+msgid "Print Layout"
+msgstr "تخطيط الطباعة"
+
+msgid "Print Markup"
+msgstr "طباعة العلامات"
+
+msgid "Print settings"
+msgstr "إعدادات الطباعة"
+
+msgid "Print the page color"
+msgstr "طباعة لون الصفحة"
+
+msgid "Print to PDF"
+msgstr "طباعة إلى PDF"
+
+msgid "Print\nLayout"
+msgstr "تخطيط\nالطباعة"
+
+msgid "Printer default"
+msgstr "افتراضي الطابعة"
+
+msgid "Printer discovery failed."
+msgstr "فشل البحث عن الطابعات."
+
+msgid "Privacy for this document"
+msgstr "الخصوصية لهذا المستند"
+
+msgid "Privacy Options"
+msgstr "خيارات الخصوصية"
+
+msgid "Privacy Settings"
+msgstr "إعدادات الخصوصية"
+
+msgid "Process"
+msgstr "عملية"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Product of A"
+msgstr "جداء A"
+
+msgid "Product with Limits"
+msgstr "جداء بحدود"
+
+msgid "Product with Lower Limit"
+msgstr "جداء بحد سفلي"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "جداء بحدود سفلية وعلوية"
+
+msgid "Products and Coproducts"
+msgstr "الجداءات والجداءات المرافقة"
+
+msgid "Professional"
+msgstr "احترافي"
+
+msgid "Promote"
+msgstr "رفع المستوى"
+
+msgid "Promote to Heading 1"
+msgstr "رفع إلى عنوان 1"
+
+msgid "Proofing"
+msgstr "التدقيق"
+
+msgid "Proofing Issues"
+msgstr "مشكلات التدقيق"
+
+msgid "Proofing language"
+msgstr "لغة التدقيق"
+
+msgid "Property names are 1–{max} characters."
+msgstr "تتكوّن أسماء الخصائص من 1 إلى {max} من الأحرف."
+
+msgid "Property values are at most {max} bytes."
+msgstr "قيم الخصائص لا تتجاوز {max} بايت."
+
+msgid "Protect Document"
+msgstr "حماية المستند"
+
+msgid "pt"
+msgstr "نقطة"
+
+msgid "Publisher"
+msgstr "الناشر"
+
+msgid "Puerto Rico"
+msgstr "بورتوريكو"
+
+msgid "Put the caret in a content control first."
+msgstr "ضع مؤشر الكتابة داخل عنصر تحكم في المحتوى أولًا."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "هل تريد إعادة الأوامر الافتراضية إلى شريط أدوات الوصول السريع؟"
+
+msgid "Qatar"
+msgstr "قطر"
+
+msgid "Quadratic Root"
+msgstr "جذر المعادلة التربيعية"
+
+msgid "Quick Access Toolbar"
+msgstr "شريط أدوات الوصول السريع"
+
+msgid "Quick Parts"
+msgstr "الأجزاء السريعة"
+
+msgid "Quick Tables"
+msgstr "الجداول السريعة"
+
+msgid "Quote"
+msgstr "اقتباس"
+
+msgid "Radical"
+msgstr "جذر"
+
+msgid "Radical with Degree"
+msgstr "جذر بدرجة"
+
+msgid "Radicals"
+msgstr "الجذور"
+
+msgid "Raised/lowered"
+msgstr "مرفوع/منخفض"
+
+msgid "Read Aloud"
+msgstr "القراءة بصوت عالٍ"
+
+msgid "Read Aloud Status"
+msgstr "حالة القراءة بصوت عالٍ"
+
+msgid "Read Mode"
+msgstr "وضع القراءة"
+
+msgid "Read\nAloud"
+msgstr "القراءة\nبصوت عالٍ"
+
+msgid "Read\nMode"
+msgstr "وضع\nالقراءة"
+
+msgid "Reading"
+msgstr "القراءة"
+
+msgid "Reading Column Width"
+msgstr "عرض عمود القراءة"
+
+msgid "Reading Highlight"
+msgstr "تمييز القراءة"
+
+msgid "Reading Line Spacing"
+msgstr "تباعد أسطر القراءة"
+
+msgid "Reading Mode"
+msgstr "وضع القراءة"
+
+msgid "Reading Page Color"
+msgstr "لون صفحة القراءة"
+
+msgid "Reading Speed"
+msgstr "سرعة القراءة"
+
+msgid "Reading Text Size"
+msgstr "حجم نص القراءة"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "يقرأ النص المنسق من الحافظة ويحتفظ بتنسيقه."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "يقرأ محتوى الويب من الحافظة ويحتفظ بتنسيقه."
+
+msgid "Recent documents to show:"
+msgstr "عدد المستندات الأخيرة المعروضة:"
+
+msgid "Recently Used Fonts"
+msgstr "الخطوط المستخدمة مؤخرًا"
+
+msgid "Recently used symbols:"
+msgstr "الرموز المستخدمة مؤخرًا:"
+
+msgid "Recipient List"
+msgstr "قائمة المستلمين"
+
+msgid "Recipient lists"
+msgstr "قوائم المستلمين"
+
+msgid "Recipients: {count}"
+msgstr "المستلمون: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "إعادة تلوين صورة ذات لون واحد، مثل أيقونة"
+
+msgid "Recolor Selected Ink"
+msgstr "إعادة تلوين الحبر المحدد"
+
+msgid "Record Macro"
+msgstr "تسجيل ماكرو"
+
+msgid "Record…"
+msgstr "تسجيل…"
+
+msgid "Recover documents"
+msgstr "استعادة المستندات"
+
+msgid "Recover Unsaved Documents"
+msgstr "استرداد المستندات غير المحفوظة"
+
+msgid "Recovery copy"
+msgstr "نسخة الاسترداد"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "الاسترداد معطّل ما دام للمستند كلمة مرور."
+
+msgid "Red:"
+msgstr "الأحمر:"
+
+msgid "Reduce Hanging Indent"
+msgstr "تقليل المسافة البادئة المعلّقة"
+
+msgid "Reference type:"
+msgstr "نوع المرجع:"
+
+msgid "References"
+msgstr "المراجع"
+
+msgid "Reflection"
+msgstr "انعكاس"
+
+msgid "Refresh printers"
+msgstr "تحديث الطابعات"
+
+msgid "Region:"
+msgstr "المنطقة:"
+
+msgid "Registered"
+msgstr "مسجَّل"
+
+msgid "Registered Sign"
+msgstr "رمز العلامة المسجلة"
+
+msgid "Regular expressions"
+msgstr "التعبيرات النمطية"
+
+msgid "Reject"
+msgstr "رفض"
+
+msgid "Reject All Changes"
+msgstr "رفض كل التغييرات"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr "رفض كل التغييرات وإيقاف التتبع"
+
+msgid "Reject and Move to Next"
+msgstr "رفض والانتقال إلى التالي"
+
+msgid "Reject Change"
+msgstr "رفض التغيير"
+
+msgid "Relationship"
+msgstr "العلاقة"
+
+msgid "Relative to original picture size"
+msgstr "نسبةً إلى حجم الصورة الأصلي"
+
+msgid "Remove Added Font"
+msgstr "إزالة الخط المضاف"
+
+msgid "Remove condition"
+msgstr "إزالة الشرط"
+
+msgid "Remove Content Control"
+msgstr "إزالة عنصر التحكم في المحتوى"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "هل تريد إزالة كل الاختصارات المخصصة واستعادة المفاتيح المضمّنة؟"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "هل تريد إزالة كل علامات التبويب والمجموعات المخصصة وإظهار كل علامات التبويب مجددًا؟"
+
+msgid "Remove field"
+msgstr "إزالة الحقل"
+
+msgid "Remove Footer"
+msgstr "إزالة التذييل"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "إزالة من شريط أدوات الوصول السريع"
+
+msgid "Remove gradient stop"
+msgstr "إزالة نقطة التدرّج"
+
+msgid "Remove Header"
+msgstr "إزالة الرأس"
+
+msgid "Remove Hyperlink"
+msgstr "إزالة الارتباط التشعبي"
+
+msgid "Remove Language Pack"
+msgstr "إزالة حزمة لغة"
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "إزالة اسمي من التعليقات والتغييرات وخصائص الملف عند الحفظ"
+
+msgid "Remove Password"
+msgstr "إزالة كلمة المرور"
+
+msgid "Remove Pen"
+msgstr "إزالة القلم"
+
+msgid "Remove recipient"
+msgstr "إزالة المستلم"
+
+msgid "Remove row"
+msgstr "إزالة الصف"
+
+msgid "Remove series"
+msgstr "إزالة السلسلة"
+
+msgid "Remove Space After Paragraph"
+msgstr "إزالة المسافة بعد الفقرة"
+
+msgid "Remove Table of Contents"
+msgstr "إزالة جدول المحتويات"
+
+msgid "Remove the control once edited"
+msgstr "إزالة عنصر التحكم بعد التحرير"
+
+msgid "Remove the space before the punctuation"
+msgstr "إزالة المسافة قبل علامة الترقيم"
+
+msgid "Remove Watermark"
+msgstr "إزالة العلامة المائية"
+
+msgid "Rename Document"
+msgstr "إعادة تسمية المستند"
+
+msgid "Reopen"
+msgstr "إعادة الفتح"
+
+msgid "Repeat as header row on each page"
+msgstr "التكرار كصف رأس في كل صفحة"
+
+msgid "Repeat Header Rows"
+msgstr "تكرار صفوف الرأس"
+
+msgid "Repeating Section Content Control"
+msgstr "عنصر تحكم في المحتوى (قسم مكرر)"
+
+msgid "Replace All"
+msgstr "استبدال الكل"
+
+msgid "Replace as you type"
+msgstr "الاستبدال أثناء الكتابة"
+
+msgid "Replace Document Text"
+msgstr "استبدال نص المستند"
+
+msgid "Replace text as you type"
+msgstr "استبدال النص أثناء الكتابة"
+
+msgid "Replace with:"
+msgstr "الاستبدال بـ:"
+
+msgid "Replay"
+msgstr "إعادة التشغيل"
+
+msgid "Research"
+msgstr "البحث العلمي"
+
+msgid "Researcher"
+msgstr "الباحث"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "«الباحث» يحتاج إلى خدمة عبر الإنترنت؛ ويحتفظ WordCraft بمستنداتك دون اتصال."
+
+msgid "Reset All…"
+msgstr "إعادة تعيين الكل…"
+
+msgid "Reset Character Formatting"
+msgstr "إعادة تعيين تنسيق الأحرف"
+
+msgid "Reset Crop"
+msgstr "إعادة تعيين الاقتصاص"
+
+msgid "Reset Default Formatting"
+msgstr "إعادة تعيين التنسيق الافتراضي"
+
+msgid "Reset Graphic"
+msgstr "إعادة تعيين الرسم"
+
+msgid "Reset Paragraph Formatting"
+msgstr "إعادة تعيين تنسيق الفقرة"
+
+msgid "Reset Picture"
+msgstr "إعادة تعيين الصورة"
+
+msgid "Reset tips"
+msgstr "إعادة تعيين التلميحات"
+
+msgid "Reset to Normal"
+msgstr "إعادة التعيين إلى عادي"
+
+msgid "Reset\nGraphic"
+msgstr "إعادة تعيين\nالرسم"
+
+msgid "Resize Pane"
+msgstr "تغيير حجم الجزء"
+
+msgid "Resize Table by Dragging"
+msgstr "تغيير حجم الجدول بالسحب"
+
+msgid "Resolve"
+msgstr "حل"
+
+msgid "Resolved"
+msgstr "محلول"
+
+msgid "Restart at 1"
+msgstr "البدء من 1 مجددًا"
+
+msgid "Restart Each Page"
+msgstr "إعادة البدء في كل صفحة"
+
+msgid "Restart Each Section"
+msgstr "إعادة البدء في كل قسم"
+
+msgid "Restart list after:"
+msgstr "إعادة بدء القائمة بعد:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "تفتح الاستعادة نسخة غير محفوظة. يبقى ملفك الأصلي دون تغيير."
+
+msgid "Restrict Editing"
+msgstr "تقييد التحرير"
+
+msgid "Restrict\nEditing"
+msgstr "تقييد\nالتحرير"
+
+msgid "Results"
+msgstr "النتائج"
+
+msgid "Return address labels"
+msgstr "ملصقات عنوان المرسل"
+
+msgid "Return address:"
+msgstr "عنوان المرسل:"
+
+msgid "Reviewing"
+msgstr "المراجعة"
+
+msgid "Reviewing Pane"
+msgstr "جزء المراجعة"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "المراجعة — تصبح التعديلات اقتراحات"
+
+msgid "Revised document"
+msgstr "المستند المعدَّل"
+
+msgid "Rewind"
+msgstr "ترجيع"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "أُرجع الشريط. أخبرني متى أتوقف."
+
+msgid "Ribbon"
+msgstr "الشريط"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "الشريط وشريط أدوات الوصول السريع:"
+
+msgid "Ribbon tabs"
+msgstr "علامات تبويب الشريط"
+
+msgid "Rich Text Content Control"
+msgstr "عنصر تحكم في المحتوى (نص منسق)"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "تنسيق النص المنسق (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "تنسيق النص المنسق (RTF)"
+
+msgid "Right (vertical)"
+msgstr "اليمين (عمودي)"
+
+msgid "Right Arrow with Text Above"
+msgstr "سهم لليمين مع نص فوقه"
+
+msgid "Right Arrow with Text Below"
+msgstr "سهم لليمين مع نص تحته"
+
+msgid "Right Border"
+msgstr "الحد الأيمن"
+
+msgid "Right border"
+msgstr "الحد الأيمن"
+
+msgid "Right Bracket Twice"
+msgstr "قوس أيمن مرتين"
+
+msgid "Right indent"
+msgstr "المسافة البادئة اليمنى"
+
+msgid "Right Margin"
+msgstr "الهامش الأيمن"
+
+msgid "Right Only"
+msgstr "اليمين فقط"
+
+msgid "Right-to-left"
+msgstr "من اليمين لليسار"
+
+msgid "Right-to-Left Section"
+msgstr "قسم من اليمين لليسار"
+
+msgid "Right-to-Left Table"
+msgstr "جدول من اليمين لليسار"
+
+msgid "Right-to-Left Text Direction"
+msgstr "اتجاه النص من اليمين لليسار"
+
+msgid "Rightwards Arrow Above"
+msgstr "سهم لليمين فوق"
+
+msgid "Rightwards Harpoon Above"
+msgstr "حربة لليمين فوق"
+
+msgid "Romanian"
+msgstr "الرومانية"
+
+msgid "Roots of ax²+bx+c"
+msgstr "جذور ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "تدوير النص كله 270°"
+
+msgid "Rotate all text 90°"
+msgstr "تدوير النص كله 90°"
+
+msgid "Rotate Left 90°"
+msgstr "تدوير 90° لليسار"
+
+msgid "Rotate Right 90°"
+msgstr "تدوير 90° لليمين"
+
+msgid "Rotate with shape"
+msgstr "التدوير مع الشكل"
+
+msgid "Rounded"
+msgstr "مستدير"
+
+msgid "Row"
+msgstr "صف"
+
+msgid "Row:"
+msgstr "الصف:"
+
+msgid "Rows & Columns"
+msgstr "الصفوف والأعمدة"
+
+msgid "Ruby text:"
+msgstr "نص التوضيح الصوتي:"
+
+msgid "Rules"
+msgstr "القواعد"
+
+msgid "Run"
+msgstr "تشغيل"
+
+msgid "Run-in"
+msgstr "متصل"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Résumé"
+msgstr "سيرة ذاتية"
+
+msgid "SAMPLE"
+msgstr "SAMPLE"
+
+msgid "Sat:"
+msgstr "التشبع:"
+
+msgid "Saturation and recolor"
+msgstr "التشبع وإعادة التلوين"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "احفظ نسخة بتنسيق آخر. الطباعة تمر عبر ملف PDF يمكنك طباعته من أي عارض."
+
+msgid "Save as Word Template…"
+msgstr "حفظ كقالب Word…"
+
+msgid "Save documents"
+msgstr "حفظ المستندات"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "احفظ المستند لتشغيل الحفظ التلقائي"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "احفظ المستند لتشغيل الحفظ التلقائي (الملف الذي فتحته فقط لا يُعاد كتابته حتى تحفظه)"
+
+msgid "Save these pages as PDF…"
+msgstr "حفظ هذه الصفحات كملف PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "حُفظ. حُفظ مرة أخرى. ما زال محفوظًا. إنه محفوظ جدًا."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "يحفظ قالب .dotx في مجلد قوالبك. ويظهر في ملف › جديد تحت «شخصي»."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "أُلغي حفظ {name}، لذا ما زال مفتوحًا ولم يُفقد شيء."
+
+msgid "Sayings"
+msgstr "العبارات"
+
+msgid "Sayings:"
+msgstr "العبارات:"
+
+msgid "Scale Drawing"
+msgstr "تحجيم الرسم"
+
+msgid "Scale Font Sizes"
+msgstr "تحجيم أحجام الخطوط"
+
+msgid "Scale to paper size"
+msgstr "تحجيم إلى حجم الورق"
+
+msgid "Scatter"
+msgstr "مبعثر"
+
+msgid "Script"
+msgstr "الخط الكتابي"
+
+msgid "Scroll ribbon left"
+msgstr "تمرير الشريط لليسار"
+
+msgid "Scroll ribbon right"
+msgstr "تمرير الشريط لليمين"
+
+msgid "Search Commands"
+msgstr "البحث في الأوامر"
+
+msgid "Search commands and help"
+msgstr "البحث في الأوامر والتعليمات"
+
+msgid "Search document"
+msgstr "البحث في المستند"
+
+msgid "Search for templates"
+msgstr "البحث عن قوالب"
+
+msgid "Search icons"
+msgstr "البحث عن أيقونات"
+
+msgid "Search Options"
+msgstr "خيارات البحث"
+
+msgid "Search:"
+msgstr "بحث:"
+
+msgid "Secant Function"
+msgstr "دالة القاطع"
+
+msgid "Section 1.01"
+msgstr "القسم 1.01"
+
+msgid "Section Break"
+msgstr "فاصل قسم"
+
+msgid "Section Breaks"
+msgstr "فواصل الأقسام"
+
+msgid "Section Character"
+msgstr "حرف القسم"
+
+msgid "Section direction:"
+msgstr "اتجاه القسم:"
+
+msgid "Section Mark"
+msgstr "علامة القسم"
+
+msgid "Section Properties"
+msgstr "خصائص القسم"
+
+msgid "Sections"
+msgstr "الأقسام"
+
+msgid "See"
+msgstr "انظر"
+
+msgid "select a chart first"
+msgstr "حدد مخططًا أولًا"
+
+msgid "select a connector first"
+msgstr "حدد موصلًا أولًا"
+
+msgid "select a diagram first"
+msgstr "حدد رسمًا تخطيطيًا أولًا"
+
+msgid "select a drawing canvas first"
+msgstr "حدد لوحة رسم أولًا"
+
+msgid "select a floating picture or shape first"
+msgstr "حدد صورة أو شكلًا عائمًا أولًا"
+
+msgid "select a group first"
+msgstr "حدد مجموعة أولًا"
+
+msgid "select a picture first"
+msgstr "حدد صورة أولًا"
+
+msgid "Select a picture first."
+msgstr "حدد صورة أولاً."
+
+msgid "select a picture or shape first"
+msgstr "حدد صورة أو شكلًا أولًا"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "حدد صورة أو شكلًا أو مخططًا أو جدولًا لوصفه."
+
+msgid "Select a place in this document:"
+msgstr "حدد موضعًا في هذا المستند:"
+
+msgid "Select a printer"
+msgstr "اختر طابعة"
+
+msgid "Select a property to change."
+msgstr "حدّد خاصية لتغييرها."
+
+msgid "select a shape first"
+msgstr "حدد شكلًا أولًا"
+
+msgid "select a shape or decorative text first"
+msgstr "حدد شكلًا أو نصًا مزخرفًا أولًا"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "حدد شكلًا أو مربع نص أو لوحة رسم لتنسيق تعبئته."
+
+msgid "select a SmartArt graphic first"
+msgstr "حدد رسم SmartArt أولًا"
+
+msgid "select a text box first"
+msgstr "حدد مربع نص أولًا"
+
+msgid "select a text box linked to another first"
+msgstr "حدد مربع نص مرتبطًا بآخر أولًا"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "تحديد الخلية"
+
+msgid "Select Column"
+msgstr "تحديد العمود"
+
+msgid "Select Heading and Content"
+msgstr "تحديد العنوان والمحتوى"
+
+msgid "Select Line"
+msgstr "تحديد السطر"
+
+msgid "Select Paragraph"
+msgstr "تحديد الفقرة"
+
+msgid "Select Picture…"
+msgstr "تحديد صورة…"
+
+msgid "Select Range"
+msgstr "تحديد نطاق"
+
+msgid "Select Recipients"
+msgstr "تحديد المستلمين"
+
+msgid "select recipients first"
+msgstr "حدد المستلمين أولًا"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "حدد المستلمين أولًا لتختار من حقولهم."
+
+msgid "Select recipients first to match their fields."
+msgstr "حدد المستلمين أولًا لمطابقة حقولهم."
+
+msgid "Select Row"
+msgstr "تحديد الصف"
+
+msgid "Select Sentence"
+msgstr "تحديد الجملة"
+
+msgid "Select Table"
+msgstr "تحديد الجدول"
+
+msgid "Select Table Cells by Clicking"
+msgstr "تحديد خلايا الجدول بالنقر"
+
+msgid "Select Text"
+msgstr "تحديد النص"
+
+msgid "Select Text with Similar Formatting"
+msgstr "تحديد نص بتنسيق مشابه"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "حدد نصًا، ثم أشّر على من يستطيع تحريره."
+
+msgid "select two or more cells to merge"
+msgstr "حدد خليتين أو أكثر للدمج"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "حدد صورتين أو شكلين أو أكثر أولًا (Shift+نقر)"
+
+msgid "Select Word"
+msgstr "تحديد الكلمة"
+
+msgid "Select\nRecipients"
+msgstr "تحديد\nالمستلمين"
+
+msgid "Selected Fields"
+msgstr "الحقول المحددة"
+
+msgid "Selected text"
+msgstr "النص المحدد"
+
+msgid "Selection Pane"
+msgstr "جزء التحديد"
+
+msgid "Semitransparent"
+msgstr "شبه شفاف"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "أرسل المستند مباشرة إلى مربع حوار الطباعة في النظام، أو احفظ نسخة بتنسيق آخر أدناه."
+
+msgid "Sentence"
+msgstr "جملة"
+
+msgid "Sentence case."
+msgstr "حالة الجملة."
+
+msgid "Separate text at"
+msgstr "فصل النص عند"
+
+msgid "Separate text with"
+msgstr "فصل النص بـ"
+
+msgid "Separator:"
+msgstr "الفاصل:"
+
+msgid "Sepia"
+msgstr "بني داكن"
+
+msgid "Sequence name:"
+msgstr "اسم التسلسل:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "الصربية (السيريلية)"
+
+msgid "Serbian (Latin)"
+msgstr "الصربية (اللاتينية)"
+
+msgid "Series name"
+msgstr "اسم السلسلة"
+
+msgid "Series {n}"
+msgstr "السلسلة {n}"
+
+msgid "Set As Default"
+msgstr "تعيين كافتراضي"
+
+msgid "Set as default"
+msgstr "تعيين كافتراضي"
+
+msgid "Set As Default (Font)"
+msgstr "تعيين كافتراضي (الخط)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "تعيين كافتراضي (إعداد الصفحة)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "تعيين كافتراضي (فقرة)"
+
+msgid "Set as Default Language"
+msgstr "تعيين كلغة افتراضية"
+
+msgid "Set Caret"
+msgstr "وضع مؤشر الكتابة"
+
+msgid "Set Character Formatting"
+msgstr "تعيين تنسيق الأحرف"
+
+msgid "Set Date"
+msgstr "تعيين التاريخ"
+
+msgid "Set Equation"
+msgstr "تعيين المعادلة"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr "ضبط المسافة البادئة اليسرى والأولى بالمفتاحين Tab وBackspace"
+
+msgid "Set Numbering Value"
+msgstr "تعيين قيمة الترقيم"
+
+msgid "Set Paragraph Formatting"
+msgstr "تعيين تنسيق الفقرة"
+
+msgid "Set Proofing Language…"
+msgstr "تعيين لغة التدقيق…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "الإعداد:"
+
+msgid "Shading"
+msgstr "التظليل"
+
+msgid "Shadow, glow and soft edges"
+msgstr "الظل والتوهج والحواف الناعمة"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "تعبئة الشكل"
+
+msgid "Shape Format"
+msgstr "تنسيق الشكل"
+
+msgid "Shape Outline"
+msgstr "حد الشكل الخارجي"
+
+msgid "Shape Styles"
+msgstr "أنماط الأشكال"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "ملصقات الشحن"
+
+msgid "Shortcut key:"
+msgstr "مفتاح الاختصار:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "إظهار أدلة المحاذاة عند تحريك الصور والأشكال"
+
+msgid "Show all formatting marks"
+msgstr "إظهار كل علامات التنسيق"
+
+msgid "Show All Levels"
+msgstr "إظهار كل المستويات"
+
+msgid "Show all revisions inline"
+msgstr "إظهار كل المراجعات ضمن النص"
+
+msgid "Show changes at:"
+msgstr "إظهار التغييرات عند:"
+
+msgid "Show changes in:"
+msgstr "إظهار التغييرات في:"
+
+msgid "Show Comments"
+msgstr "إظهار التعليقات"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "عرض المستندات بألوان معكوسة، مثل عرض › تبديل الأوضاع. الحفظ والطباعة وملفات PDF لا تتغير."
+
+msgid "Show every bibliography field"
+msgstr "إظهار كل حقول المراجع"
+
+msgid "Show First Line Only"
+msgstr "إظهار السطر الأول فقط"
+
+msgid "Show in the Styles gallery"
+msgstr "الإظهار في معرض الأنماط"
+
+msgid "Show its list number"
+msgstr "إظهار رقمه في القائمة"
+
+msgid "Show its number relative to this field"
+msgstr "إظهار رقمه نسبةً إلى هذا الحقل"
+
+msgid "Show its number with all higher levels"
+msgstr "إظهار رقمه مع كل المستويات الأعلى"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "إظهار تلميحات المفاتيح (Alt أو F10)"
+
+msgid "Show Level"
+msgstr "إظهار المستوى"
+
+msgid "Show Level 1"
+msgstr "إظهار المستوى 1"
+
+msgid "Show Level 2"
+msgstr "إظهار المستوى 2"
+
+msgid "Show Level 3"
+msgstr "إظهار المستوى 3"
+
+msgid "Show Level 4"
+msgstr "إظهار المستوى 4"
+
+msgid "Show Level 5"
+msgstr "إظهار المستوى 5"
+
+msgid "Show Level 6"
+msgstr "إظهار المستوى 6"
+
+msgid "Show Level 7"
+msgstr "إظهار المستوى 7"
+
+msgid "Show Level 8"
+msgstr "إظهار المستوى 8"
+
+msgid "Show Level 9"
+msgstr "إظهار المستوى 9"
+
+msgid "Show Markup"
+msgstr "إظهار العلامات"
+
+msgid "Show Notes"
+msgstr "إظهار الحواشي"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "إظهار التعليقات والتنسيق فقط في البالونات"
+
+msgid "Show only records that will be merged"
+msgstr "إظهار السجلات التي ستُدمج فقط"
+
+msgid "Show or Hide Style"
+msgstr "إظهار النمط أو إخفاؤه"
+
+msgid "Show Quick Access Toolbar"
+msgstr "إظهار شريط أدوات الوصول السريع"
+
+msgid "Show revisions in balloons"
+msgstr "إظهار المراجعات في البالونات"
+
+msgid "Show Text Formatting"
+msgstr "إظهار تنسيق النص"
+
+msgid "Show the Assistant"
+msgstr "إظهار المساعد"
+
+msgid "Show the community button in the title bar"
+msgstr "إظهار زر المجتمع في شريط العنوان"
+
+msgid "Show the equation in the line of text"
+msgstr "إظهار المعادلة ضمن سطر النص"
+
+msgid "Show the equation on a line of its own"
+msgstr "إظهار المعادلة في سطر مستقل"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "إظهار شريط الأدوات المصغّر عند تحديد نص"
+
+msgid "Show the ribbon"
+msgstr "إظهار الشريط"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "إظهار شاشة البدء عند تشغيل WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "يُظهر التلميحات التي طلبت عدم إظهارها مرة أخرى."
+
+msgid "Show/Hide ¶"
+msgstr "إظهار/إخفاء ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "يُظهر إظهار/إخفاء ¶ ({key}) المسافات وعلامات الجدولة والفواصل المختبئة في نصك."
+
+msgid "Show\nComments"
+msgstr "إظهار\nالتعليقات"
+
+msgid "Showing the first {count} items."
+msgstr "عرض أول {count} من العناصر."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "يعرض شجرة: كل عنصر تحت العنصر الذي ينتمي إليه."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "يعرض العناصر حول فكرة مركزية: العنصر الأول هو المركز."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "يعرض العناصر المتساوية في الأهمية كتلًا في صفوف."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "يعرض الأفكار المتداخلة كدوائر متداخلة."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "يعرض أجزاء الكل كأرباع."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "يعرض أجزاء يُبنى بعضها على بعض، والأكبر في الأسفل."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "يعرض الخطوات بالترتيب من اليسار لليمين، وبينها أسهم."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "يعرض خطوات متكررة حول دائرة."
+
+msgid "Shrink Font 1 Point"
+msgstr "تصغير الخط نقطة واحدة"
+
+msgid "Shrink text"
+msgstr "تصغير النص"
+
+msgid "Side to Side"
+msgstr "جنبًا إلى جنب"
+
+msgid "Side\nto Side"
+msgstr "جنبًا\nإلى جنب"
+
+msgid "Sides of a right triangle"
+msgstr "أضلاع المثلث القائم"
+
+msgid "Signature Line"
+msgstr "سطر التوقيع"
+
+msgid "Simple Frame"
+msgstr "إطار بسيط"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "متسلسلة الجيب وجيب التمام لـ f(x)"
+
+msgid "Sine Function"
+msgstr "دالة الجيب"
+
+msgid "Sine theta"
+msgstr "جيب ثيتا"
+
+msgid "Singapore"
+msgstr "سنغافورة"
+
+msgid "Single"
+msgstr "مفرد"
+
+msgid "Single Brackets"
+msgstr "أقواس معقوفة مفردة"
+
+msgid "Single Closing Quote"
+msgstr "علامة اقتباس مفردة للإغلاق"
+
+msgid "Single label"
+msgstr "ملصق واحد"
+
+msgid "Single Left Angle"
+msgstr "زاوية يسرى مفردة"
+
+msgid "Single Left Bar"
+msgstr "خط أيسر مفرد"
+
+msgid "Single Left Brace"
+msgstr "قوس معقوص أيسر مفرد"
+
+msgid "Single Left Bracket"
+msgstr "قوس معقوف أيسر مفرد"
+
+msgid "Single Left Parenthesis"
+msgstr "قوس أيسر مفرد"
+
+msgid "Single Opening Quote"
+msgstr "علامة اقتباس مفردة للفتح"
+
+msgid "Single Right Brace"
+msgstr "قوس معقوص أيمن مفرد"
+
+msgid "Single Right Bracket"
+msgstr "قوس معقوف أيمن مفرد"
+
+msgid "Single Right Parenthesis"
+msgstr "قوس أيمن مفرد"
+
+msgid "Single Spacing"
+msgstr "تباعد مفرد"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "اسم الموقع"
+
+msgid "Size (pt):"
+msgstr "الحجم (نقطة):"
+
+msgid "Size and Crop…"
+msgstr "الحجم والاقتصاص…"
+
+msgid "Sketchbook"
+msgstr "كراسة الرسم"
+
+msgid "Skewed Fraction"
+msgstr "كسر مائل"
+
+msgid "Skip citations & bibliography"
+msgstr "تخطي الاستشهادات والمراجع"
+
+msgid "Skip Citations and Bibliography"
+msgstr "تخطي الاستشهادات والمراجع"
+
+msgid "Skip Record If"
+msgstr "تخطي السجل إذا"
+
+msgid "Skip Record If…"
+msgstr "تخطي السجل إذا…"
+
+msgid "Slant Down"
+msgstr "ميل للأسفل"
+
+msgid "Slant Up"
+msgstr "ميل للأعلى"
+
+msgid "Slovak"
+msgstr "السلوفاكية"
+
+msgid "Slovenian"
+msgstr "السلوفينية"
+
+msgid "Small caps"
+msgstr "أحرف كبيرة مصغّرة"
+
+msgid "Small change"
+msgstr "تغيير صغير"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "علامات اقتباس ذكية بدل المستقيمة"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "تصميم SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "أنماط SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "تمرير وتكبير سلسان، وقوائم وأزرار تظهر تدريجيًا. الإيقاف يعرض كل تغيير فورًا."
+
+msgid "Soft Edge"
+msgstr "حافة ناعمة"
+
+msgid "Soft Edges"
+msgstr "حواف ناعمة"
+
+msgid "Soft Glow"
+msgstr "توهج ناعم"
+
+msgid "Solid Accent"
+msgstr "لون تمييز مصمت"
+
+msgid "Solid fill"
+msgstr "تعبئة مصمتة"
+
+msgid "Sometimes"
+msgstr "أحيانًا"
+
+msgid "Sort by:"
+msgstr "الفرز حسب:"
+
+msgid "Sort order:"
+msgstr "ترتيب الفرز:"
+
+msgid "Sort Recipients"
+msgstr "فرز المستلمين"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "الشيفرة المصدرية: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "مدير المصادر"
+
+msgid "Source type:"
+msgstr "نوع المصدر:"
+
+msgid "Sources in this document:"
+msgstr "المصادر في هذا المستند:"
+
+msgid "South"
+msgstr "الجنوب"
+
+msgid "South Africa"
+msgstr "جنوب أفريقيا"
+
+msgid "Space"
+msgstr "مسافة"
+
+msgid "Space after"
+msgstr "المسافة بعد"
+
+msgid "Space after: {pt} pt"
+msgstr "المسافة بعد: {pt} نقطة"
+
+msgid "Space before"
+msgstr "المسافة قبل"
+
+msgid "Space before/after:"
+msgstr "المسافة قبل/بعد:"
+
+msgid "Space before: {pt} pt"
+msgstr "المسافة قبل: {pt} نقطة"
+
+msgid "Spacing (pt):"
+msgstr "التباعد (نقطة):"
+
+msgid "Spain"
+msgstr "إسبانيا"
+
+msgid "Spanish (Latin America)"
+msgstr "الإسبانية (أمريكا اللاتينية)"
+
+msgid "Spanish (Mexico)"
+msgstr "الإسبانية (المكسيك)"
+
+msgid "Spanish (Spain)"
+msgstr "الإسبانية (إسبانيا)"
+
+msgid "Spanish (Uruguay)"
+msgstr "الإسبانية (الأوروغواي)"
+
+msgid "Sparse Matrices"
+msgstr "المصفوفات المتفرقة"
+
+msgid "Special Characters"
+msgstr "الأحرف الخاصة"
+
+msgid "Specify height:"
+msgstr "تحديد الارتفاع:"
+
+msgid "Speech"
+msgstr "الكلام"
+
+msgid "Spelling & Grammar"
+msgstr "الإملاء والقواعد"
+
+msgid "Spelling &\nGrammar"
+msgstr "الإملاء\nوالقواعد"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "يُدقَّق الإملاء والقواعد بلغة {language}."
+
+msgid "Spelling Suggestions"
+msgstr "اقتراحات الإملاء"
+
+msgid "Spike"
+msgstr "حافظة التجميع"
+
+msgid "Split Cells"
+msgstr "تقسيم الخلايا"
+
+msgid "Split Table"
+msgstr "تقسيم الجدول"
+
+msgid "Spreadsheet Table"
+msgstr "جدول بيانات"
+
+msgid "Square Root"
+msgstr "جذر تربيعي"
+
+msgid "Square Root with Degree"
+msgstr "جذر تربيعي بدرجة"
+
+msgid "Square Union"
+msgstr "اتحاد مربع"
+
+msgid "Stack Object"
+msgstr "كائن مكدّس"
+
+msgid "Stack Object (Three)"
+msgstr "كائن مكدّس (ثلاثة)"
+
+msgid "Stacked Bar"
+msgstr "شريطي مكدّس"
+
+msgid "Stacked Column"
+msgstr "عمودي مكدّس"
+
+msgid "Stacked Fraction"
+msgstr "كسر مكدّس"
+
+msgid "Stacked, no bar"
+msgstr "مكدّس، بلا خط"
+
+msgid "Standard Colors"
+msgstr "الألوان القياسية"
+
+msgid "Start Enforcing Protection"
+msgstr "بدء فرض الحماية"
+
+msgid "Start Mail Merge"
+msgstr "بدء دمج المراسلات"
+
+msgid "Start Mail\nMerge"
+msgstr "بدء دمج\nالمراسلات"
+
+msgid "Start-up"
+msgstr "بدء التشغيل"
+
+msgid "State"
+msgstr "الولاية"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "ما زلت هنا؟ أكاد أسمعك تفكر."
+
+msgid "Stop Protection"
+msgstr "إيقاف الحماية"
+
+msgid "Stop Reading"
+msgstr "إيقاف القراءة"
+
+msgid "Stop Recording"
+msgstr "إيقاف التسجيل"
+
+msgid "Stopped"
+msgstr "متوقف"
+
+msgid "Straight Arrow Connector"
+msgstr "موصل سهم مستقيم"
+
+msgid "Straight Connector"
+msgstr "موصل مستقيم"
+
+msgid "Stroke {n} of {total}"
+msgstr "الضربة {n} من {total}"
+
+msgid "Strong"
+msgstr "قوي"
+
+msgid "Structure Actions"
+msgstr "إجراءات البنية"
+
+msgid "Structures"
+msgstr "البنى"
+
+msgid "Studio cover"
+msgstr "غلاف الاستوديو"
+
+msgid "Studio handbook (sample)"
+msgstr "دليل الاستوديو (نموذج)"
+
+msgid "Style based on:"
+msgstr "النمط مبني على:"
+
+msgid "Style Inspector"
+msgstr "فاحص الأنماط"
+
+msgid "Style name:"
+msgstr "اسم النمط:"
+
+msgid "Style Set"
+msgstr "مجموعة الأنماط"
+
+msgid "Style: APA"
+msgstr "النمط: APA"
+
+msgid "Style: {style}"
+msgstr "النمط: {style}"
+
+msgid "Styles Pane"
+msgstr "جزء الأنماط"
+
+msgid "Styles Pane Position"
+msgstr "موضع جزء الأنماط"
+
+msgid "Styles:"
+msgstr "الأنماط:"
+
+msgid "Subentry:"
+msgstr "إدخال فرعي:"
+
+msgid "Submit print job"
+msgstr "إرسال مهمة الطباعة"
+
+msgid "Submitting print job…"
+msgstr "جارٍ إرسال مهمة الطباعة…"
+
+msgid "Subscript-Superscript"
+msgstr "دليل سفلي وعلوي"
+
+msgid "Subscripts and Superscripts"
+msgstr "الأدلة السفلية والعلوية"
+
+msgid "Subset:"
+msgstr "المجموعة الفرعية:"
+
+msgid "Subtle Emphasis"
+msgstr "توكيد خفيف"
+
+msgid "Subtle Reference"
+msgstr "مرجع خفيف"
+
+msgid "Suggested"
+msgstr "مقترح"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "المجموع"
+
+msgid "Sum of cosines"
+msgstr "مجموع جيوب التمام"
+
+msgid "Sum or difference of sines"
+msgstr "مجموع الجيوب أو فرقها"
+
+msgid "Summation"
+msgstr "المجموع"
+
+msgid "Summation from 0 to n"
+msgstr "المجموع من 0 إلى n"
+
+msgid "Summation over binomials"
+msgstr "المجموع على معاملات ذي الحدين"
+
+msgid "Summation with Limits"
+msgstr "مجموع بحدود"
+
+msgid "Summation with Lower Limit"
+msgstr "مجموع بحد سفلي"
+
+msgid "Summation with Subscript Limit"
+msgstr "مجموع بحد كدليل سفلي"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "مجموع بحدود سفلية وعلوية"
+
+msgid "Summations"
+msgstr "المجاميع"
+
+msgid "Suppress line numbers"
+msgstr "إخفاء أرقام الأسطر"
+
+msgid "Surface Integral"
+msgstr "تكامل سطحي"
+
+msgid "Surface Integral with Limits"
+msgstr "تكامل سطحي بحدود"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "تكامل سطحي بحدود مكدّسة"
+
+msgid "Swahili"
+msgstr "السواحيلية"
+
+msgid "Swap footnotes and endnotes"
+msgstr "تبديل الحواشي السفلية والختامية"
+
+msgid "Swedish"
+msgstr "السويدية"
+
+msgid "Switch Modes"
+msgstr "تبديل الأوضاع"
+
+msgid "Switch Windows"
+msgstr "تبديل النوافذ"
+
+msgid "Switch\nModes"
+msgstr "تبديل\nالأوضاع"
+
+msgid "Switch\nWindows"
+msgstr "تبديل\nالنوافذ"
+
+msgid "Switzerland"
+msgstr "سويسرا"
+
+msgid "Synonyms"
+msgstr "المرادفات"
+
+msgid "Syria"
+msgstr "سوريا"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "حسب النظام"
+
+msgid "System dictionary"
+msgstr "قاموس النظام"
+
+msgid "Tab Character"
+msgstr "حرف الجدولة"
+
+msgid "Tab character"
+msgstr "حرف الجدولة"
+
+msgid "Tab characters"
+msgstr "أحرف الجدولة"
+
+msgid "Tab leader:"
+msgstr "الأحرف السابقة للجدولة:"
+
+msgid "Tab stop position:"
+msgstr "موضع الجدولة:"
+
+msgid "Tab stops to be cleared:"
+msgstr "مواضع الجدولة المراد مسحها:"
+
+msgid "Table Column Width"
+msgstr "عرض عمود الجدول"
+
+msgid "Table Design"
+msgstr "تصميم الجدول"
+
+msgid "Table direction:"
+msgstr "اتجاه الجدول:"
+
+msgid "Table Grid"
+msgstr "شبكة الجدول"
+
+msgid "Table Layout"
+msgstr "تخطيط الجدول"
+
+msgid "Table of Authorities"
+msgstr "جدول المصادر القانونية"
+
+msgid "Table of Contents"
+msgstr "جدول المحتويات"
+
+msgid "Table of Contents Options"
+msgstr "خيارات جدول المحتويات"
+
+msgid "Table of Contents Styles"
+msgstr "أنماط جدول المحتويات"
+
+msgid "Table of Figures"
+msgstr "جدول الأشكال التوضيحية"
+
+msgid "Table of\nContents"
+msgstr "جدول\nالمحتويات"
+
+msgid "Table Properties"
+msgstr "خصائص الجدول"
+
+msgid "Table Properties…"
+msgstr "خصائص الجدول…"
+
+msgid "Table Row Height"
+msgstr "ارتفاع صف الجدول"
+
+msgid "Table size"
+msgstr "حجم الجدول"
+
+msgid "Table Style Options"
+msgstr "خيارات نمط الجدول"
+
+msgid "Table Styles"
+msgstr "أنماط الجدول"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11.00\" × 17.00\""
+
+msgid "Tabs…"
+msgstr "مواضع الجدولة…"
+
+msgid "Tabular List"
+msgstr "قائمة جدولية"
+
+msgid "Tag"
+msgstr "العلامة"
+
+msgid "Taiwan"
+msgstr "تايوان"
+
+msgid "Take the last match on the page"
+msgstr "أخذ آخر تطابق في الصفحة"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "خذ وقتك. الصفحة لن تذهب إلى أي مكان. ولا أنا. أبدًا."
+
+msgid "Tamil"
+msgstr "التاميلية"
+
+msgid "Tangent formula"
+msgstr "صيغة الظل"
+
+msgid "Tangent Function"
+msgstr "دالة الظل"
+
+msgid "TC entry fields"
+msgstr "حقول إدخال TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "التقنية"
+
+msgid "Templates and Add-ins"
+msgstr "القوالب والوظائف الإضافية"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "تظهر هنا القوالب التي تحفظها في مجلد قوالبك."
+
+msgid "Text Box"
+msgstr "مربع نص"
+
+msgid "Text boxes"
+msgstr "مربعات النص"
+
+msgid "text boxes can't go inside a text box"
+msgstr "لا يمكن وضع مربع نص داخل مربع نص"
+
+msgid "Text Direction"
+msgstr "اتجاه النص"
+
+msgid "Text Effects"
+msgstr "تأثيرات النص"
+
+msgid "Text Effects and Typography"
+msgstr "تأثيرات النص والطباعة"
+
+msgid "Text Fill"
+msgstr "تعبئة النص"
+
+msgid "Text from File"
+msgstr "نص من ملف"
+
+msgid "Text Highlight Color"
+msgstr "لون تمييز النص"
+
+msgid "Text indent at:"
+msgstr "المسافة البادئة للنص عند:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "نص أقرب فقرة بنمط محدد (رؤوس متغيرة)"
+
+msgid "Text Outline"
+msgstr "الحد الخارجي للنص"
+
+msgid "Text over Colon Equal"
+msgstr "نص فوق نقطتين ويساوي"
+
+msgid "Text over Equal"
+msgstr "نص فوق يساوي"
+
+msgid "Text Pane"
+msgstr "جزء النص"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr "الخصائص النصية فقط: لا تُتاح أنواع الرقم والتاريخ ونعم/لا الخاصة بـ Word."
+
+msgid "Text Size"
+msgstr "حجم النص"
+
+msgid "Text size"
+msgstr "حجم النص"
+
+msgid "Text snaps to characters"
+msgstr "محاذاة النص مع الأحرف"
+
+msgid "Text to display:"
+msgstr "النص المراد عرضه:"
+
+msgid "Text watermark"
+msgstr "علامة مائية نصية"
+
+msgid "Text Wrapping"
+msgstr "التفاف النص"
+
+msgid "Text\nBox"
+msgstr "مربع\nنص"
+
+msgid "Text\nDirection"
+msgstr "اتجاه\nالنص"
+
+msgid "Thai"
+msgstr "التايلاندية"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "هذا التنسيق لا يحتفظ بكل شيء، لذا ما زال المستند مفتوحًا. احفظه كمستند Word (.docx) للمتابعة."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "كلمة المرور غير صحيحة. تحقق منها (كلمات المرور تميّز حالة الأحرف) ثم حاول مجددًا."
+
+msgid "The clipboard is empty."
+msgstr "الحافظة فارغة."
+
+msgid "the Clipboard pane is empty"
+msgstr "جزء الحافظة فارغ"
+
+msgid "the cursor isn't in a table"
+msgstr "المؤشر ليس داخل جدول"
+
+msgid "The date it is today"
+msgstr "تاريخ اليوم"
+
+msgid "The document has no bookmarks yet."
+msgstr "لا يحتوي المستند على إشارات مرجعية بعد."
+
+msgid "the document is protected"
+msgstr "المستند محمي"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "المستند للقراءة فقط، باستثناء المناطق المعلَّمة كقابلة للتحرير."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "سيُحفظ المستند بكلمة مرور. احفظه لحمايته."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "المستند الذي تحرره يحتفظ بالأسماء والتواريخ؛ الملف المحفوظ وحده يحذفها."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "الهوامش لا تتسع في صفحة بهذا الحجم؛ صغّر الهوامش أولًا."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "يجب أن يكون القياس بين {min} و{max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "يأخذ النمط الجديد تنسيق الفقرة الحالية."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "تعذّرت قراءة القالب «عادي»، لذا يستخدم هذا المستند التنسيق المضمّن في WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr "يجب أن يكون العدد من قواسم {max}."
+
+msgid "The number must be between 1 and {max}."
+msgstr "يجب أن يكون الرقم بين 1 و{max}."
+
+msgid "the paragraph is empty"
+msgstr "الفقرة فارغة"
+
+msgid "the paragraph starts with a space"
+msgstr "الفقرة تبدأ بمسافة"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "كلمة المرور اختيارية؛ بدونها يستطيع أي شخص إيقاف الحماية."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "أُزيلت كلمة المرور. احفظ المستند للإبقاء على التغيير."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "تُختار الطابعة والطباعة على الوجهين وعدد الصفحات في الورقة في مربع الحوار ذلك."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "حقل قائمة المستلمين الذي يملأ كل جزء من كتلة العنوان وسطر التحية."
+
+msgid "The spelling and grammar check is complete."
+msgstr "اكتمل تدقيق الإملاء والقواعد."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "تعذّرت قراءة القاموس الإملائي للغة {language}، لذا لا يُدقَّق. الملف: {file}. السبب: {reason}"
+
+msgid "the Spike is empty"
+msgstr "حافظة التجميع فارغة"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "مربع حوار الملفات في النظام غير متاح، لذا يعرض WordCraft مربع حواره الخاص. للحصول على مربع حوار النظام، ثبّت بوابة اختيار ملفات (مثل xdg-desktop-portal-gtk) أو zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "النص عند نقطة الإدراج معلَّم بـ «عدم تدقيق الإملاء أو القواعد»."
+
+msgid "The time right now"
+msgstr "الوقت الآن"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "ألوان السمة"
+
+msgid "Theme Fonts"
+msgstr "خطوط السمة"
+
+msgid "Theme List"
+msgstr "قائمة السمات"
+
+msgid "Themes"
+msgstr "السمات"
+
+msgid "Then by"
+msgstr "ثم حسب"
+
+msgid "Then insert:"
+msgstr "ثم أدرج:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr "لا توجد وحدات ماكرو بعد. سجّل وحدة لإضافتها هنا."
+
+msgid "there is no ink to replay"
+msgstr "لا يوجد حبر لإعادة تشغيله"
+
+msgid "there is nothing to undo"
+msgstr "لا يوجد ما يُتراجع عنه"
+
+msgid "there's no citation after the caret"
+msgstr "لا يوجد استشهاد بعد مؤشر الكتابة"
+
+msgid "Thesaurus"
+msgstr "قاموس المرادفات"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "تظهر هذه العلامات حتى عند إيقاف إظهار/إخفاء ¶."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "حقول الدمج هذه غير موجودة في قائمة المستلمين:"
+
+msgid "These settings will be used for new documents."
+msgstr "ستُستخدم هذه الإعدادات للمستندات الجديدة."
+
+msgid "Thick"
+msgstr "سميك"
+
+msgid "Thick Frame"
+msgstr "إطار سميك"
+
+msgid "Thin"
+msgstr "رفيع"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "لا يمكن التراجع عن هذا. يبقى ملفك الأصلي دون تغيير."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "أُنشئ هذا المخطط في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره"
+
+msgid "this diagram can't be edited"
+msgstr "لا يمكن تحرير هذا الرسم التخطيطي"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "أُنشئ هذا الرسم التخطيطي في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره"
+
+msgid "This document"
+msgstr "هذا المستند"
+
+msgid "This document has no custom properties."
+msgstr "لا يحتوي هذا المستند على خصائص مخصصة."
+
+msgid "This document only?"
+msgstr "هذا المستند فقط؟"
+
+msgid "This field has no options."
+msgstr "لا توجد خيارات لهذا الحقل."
+
+msgid "This folder can't be read: {error}"
+msgstr "تعذّرت قراءة هذا المجلد: {error}"
+
+msgid "This font has no characters to show."
+msgstr "لا توجد أحرف في هذا الخط لعرضها."
+
+msgid "this item is already at the top level"
+msgstr "هذا العنصر في المستوى الأعلى بالفعل"
+
+msgid "This page"
+msgstr "هذه الصفحة"
+
+msgid "This password type isn't supported."
+msgstr "نوع كلمة المرور هذا غير مدعوم."
+
+msgid "This point forward"
+msgstr "من هذه النقطة فصاعدًا"
+
+msgid "This section"
+msgstr "هذا القسم"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "لا يوجد في هذه الجلسة قالب «عادي» (بدون واجهة أو بدون تفضيلات)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "لا يوجد في هذه الجلسة قالب «عادي» (بدون واجهة أو بدون تفضيلات): استخدم \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "أُنشئ رسم SmartArt هذا في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره"
+
+msgid "this text box is already linked: break the link first"
+msgstr "مربع النص هذا مرتبط بالفعل: اقطع الارتباط أولًا"
+
+msgid "Three"
+msgstr "ثلاثة"
+
+msgid "Through"
+msgstr "خلال"
+
+msgid "Tight"
+msgstr "متقارب"
+
+msgid "Tilde"
+msgstr "علامة التلدة"
+
+msgid "Tip"
+msgstr "تلميح"
+
+msgid "Tips ({n})"
+msgstr "تلميحات ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Title Bar"
+msgstr "شريط العنوان"
+
+msgid "Title from the document properties"
+msgstr "العنوان من خصائص المستند"
+
+msgid "Title:"
+msgstr "العنوان:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "لفتح مستندات Word بـ WordCraft افتراضيًا: حدد مستندًا في Finder، واختر ملف › الحصول على المعلومات، واختر WordCraft تحت «الفتح بواسطة»، ثم انقر «تغيير الكل»."
+
+msgid "To:"
+msgstr "إلى:"
+
+msgid "TOA Heading"
+msgstr "عنوان جدول المصادر القانونية"
+
+msgid "TOC Heading"
+msgstr "عنوان جدول المحتويات"
+
+msgid "TOC {n}"
+msgstr "جدول المحتويات {n}"
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "tOGGLE cASE"
+msgstr "تبديل حالة الأحرف"
+
+msgid "Toggle Check Box"
+msgstr "تبديل خانة الاختيار"
+
+msgid "Toggle Field Codes"
+msgstr "تبديل رموز الحقول"
+
+msgid "Toggle Unicode Character"
+msgstr "تبديل حرف Unicode"
+
+msgid "Top and Bottom"
+msgstr "الأعلى والأسفل"
+
+msgid "Top Border"
+msgstr "الحد العلوي"
+
+msgid "Top Left Cell"
+msgstr "الخلية العلوية اليسرى"
+
+msgid "Top Margin"
+msgstr "الهامش العلوي"
+
+msgid "Top of Page"
+msgstr "أعلى الصفحة"
+
+msgid "Top of the Document"
+msgstr "أعلى المستند"
+
+msgid "Top Right Cell"
+msgstr "الخلية العلوية اليمنى"
+
+msgid "Total Row"
+msgstr "صف الإجمالي"
+
+msgid "Track Changes"
+msgstr "تتبع التغييرات"
+
+msgid "Track Changes Options"
+msgstr "خيارات تتبع التغييرات"
+
+msgid "Track Changes: On"
+msgstr "تتبع التغييرات: مُشغَّل"
+
+msgid "Track formatting"
+msgstr "تتبع التنسيق"
+
+msgid "Track\nChanges"
+msgstr "تتبع\nالتغييرات"
+
+msgid "Track\nChanges ✓"
+msgstr "تتبع\nالتغييرات ✓"
+
+msgid "Tracked changes"
+msgstr "التغييرات المتعقَّبة"
+
+msgid "Trademark"
+msgstr "علامة تجارية"
+
+msgid "Trademark Sign"
+msgstr "رمز العلامة التجارية"
+
+msgid "Transparency:"
+msgstr "الشفافية:"
+
+msgid "Transport"
+msgstr "النقل"
+
+msgid "Triangle Down"
+msgstr "مثلث للأسفل"
+
+msgid "Triangle Up"
+msgstr "مثلث للأعلى"
+
+msgid "Trigonometric Functions"
+msgstr "الدوال المثلثية"
+
+msgid "Triple"
+msgstr "ثلاثي"
+
+msgid "Triple Dot"
+msgstr "ثلاث نقاط"
+
+msgid "Triple Integral"
+msgstr "تكامل ثلاثي"
+
+msgid "Triple Integral with Limits"
+msgstr "تكامل ثلاثي بحدود"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "تكامل ثلاثي بحدود مكدّسة"
+
+msgid "Trust Center"
+msgstr "مركز الثقة"
+
+msgid "Tue"
+msgstr "الثلاثاء"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "التركية"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "اثنان"
+
+msgid "Two-sided printing"
+msgstr "الطباعة على الوجهين"
+
+msgid "Two-sided: long edge"
+msgstr "على الوجهين: الحافة الطويلة"
+
+msgid "Two-sided: short edge"
+msgstr "على الوجهين: الحافة القصيرة"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "اكتب +2 أو -1 للانتقال من الصفحة الحالية."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "اكتب أمرًا، مثل «إدراج جدول»"
+
+msgid "Type a New List…"
+msgstr "كتابة قائمة جديدة…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "اكتب رقم صفحة، أو +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "اكتب الحجم بأي وحدة، مثل 5 cm أو 300 px. يتبعه الضلع الآخر، فتحتفظ الصورة بتناسبها."
+
+msgid "Type at least one recipient."
+msgstr "اكتب مستلمًا واحدًا على الأقل."
+
+msgid "Type Character Code"
+msgstr "كتابة رمز الحرف"
+
+msgid "Type equations in LaTeX"
+msgstr "كتابة المعادلات بصيغة LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "كتابة المعادلات بالصيغة الخطية (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "الكتابة في المعادلة"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "كتابة نص عادي (غير رياضي) في المعادلة"
+
+msgid "Type Text"
+msgstr "كتابة نص"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "اكتب الفئات على الجانب وعمودًا من القيم لكل سلسلة."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "اكتب اسم الحقل ومفاتيحه، مثل PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "اكتب كلمة المرور لإيقاف الحماية."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "اكتب المستلمين، أو حمّلهم من ملف."
+
+msgid "Typing replaces selected text"
+msgstr "الكتابة تستبدل النص المحدد"
+
+msgid "U.A.E."
+msgstr "الإمارات العربية المتحدة"
+
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+msgid "Ukrainian"
+msgstr "الأوكرانية"
+
+msgid "Unchecked symbol"
+msgstr "رمز عدم التحديد"
+
+msgid "Underbar"
+msgstr "شريط سفلي"
+
+msgid "Underbrace"
+msgstr "قوس معقوص سفلي"
+
+msgid "Underline Color"
+msgstr "لون التسطير"
+
+msgid "Underline color"
+msgstr "لون التسطير"
+
+msgid "Underline Words Only"
+msgstr "تسطير الكلمات فقط"
+
+msgid "Undo 1 Action"
+msgstr "التراجع عن إجراء واحد"
+
+msgid "Undo Actions"
+msgstr "التراجع عن إجراءات"
+
+msgid "Undo History"
+msgstr "سجل التراجع"
+
+msgid "Undo {n} Actions"
+msgstr "التراجع عن {n} من الإجراءات"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "تراجع، تراجع، تراجع… نحن نسافر عبر الزمن الآن."
+
+msgid "Unformatted Text"
+msgstr "نص غير منسق"
+
+msgid "Union of intersections"
+msgstr "اتحاد التقاطعات"
+
+msgid "Union with Limits"
+msgstr "اتحاد بحدود"
+
+msgid "Union with Lower Limit"
+msgstr "اتحاد بحد سفلي"
+
+msgid "Union with Plus"
+msgstr "اتحاد مع زائد"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "اتحاد بحدود سفلية وعلوية"
+
+msgid "Unions and Intersections"
+msgstr "الاتحادات والتقاطعات"
+
+msgid "United Kingdom"
+msgstr "المملكة المتحدة"
+
+msgid "United States"
+msgstr "الولايات المتحدة"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "نمط النص المزخرف `{id}` غير معروف"
+
+msgid "Unlink Fields"
+msgstr "فك ارتباط الحقول"
+
+msgid "Unlink\nCitations"
+msgstr "فك ارتباط\nالاستشهادات"
+
+msgid "Unlock Fields"
+msgstr "إلغاء تأمين الحقول"
+
+msgid "Up Diagonal Dots"
+msgstr "نقاط قطرية للأعلى"
+
+msgid "Up one level"
+msgstr "مستوى واحد للأعلى"
+
+msgid "Update check is not supported in the web browser."
+msgstr "البحث عن التحديثات غير مدعوم في متصفح الويب."
+
+msgid "Update Field"
+msgstr "تحديث الحقل"
+
+msgid "Update fields before printing"
+msgstr "تحديث الحقول قبل الطباعة"
+
+msgid "Update Index"
+msgstr "تحديث الفهرس"
+
+msgid "Update Style to Match Selection"
+msgstr "تحديث النمط ليطابق التحديد"
+
+msgid "Update Styles from Template"
+msgstr "تحديث الأنماط من القالب"
+
+msgid "Update Table"
+msgstr "تحديث الجدول"
+
+msgid "Update Table of Figures"
+msgstr "تحديث جدول الأشكال التوضيحية"
+
+msgid "Update to Match"
+msgstr "تحديث للمطابقة"
+
+msgid "Update to Match Selection"
+msgstr "تحديث ليطابق التحديد"
+
+msgid "URGENT"
+msgstr "URGENT"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "أوروغواي"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "استخدام \"a\" قبل الصوت الساكن (الإنجليزية)"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "استخدام \"an\" قبل الصوت المتحرك (الإنجليزية)"
+
+msgid "Use an Existing List…"
+msgstr "استخدام قائمة موجودة…"
+
+msgid "Use system setting"
+msgstr "استخدام إعداد النظام"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "استخدام ملء الشاشة في المتصفح (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "هل تريد استخدام مجموعة الأنماط والسمة الحاليتين لكل المستندات الجديدة؟"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "استخدام مفتاح Insert لتشغيل الكتابة الاستبدالية وإيقافها"
+
+msgid "Use this formatting as the default for:"
+msgstr "استخدام هذا التنسيق كافتراضي لـ:"
+
+msgid "Use wildcards"
+msgstr "استخدام أحرف البدل"
+
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+msgid "User name:"
+msgstr "اسم المستخدم:"
+
+msgid "User templates:"
+msgstr "قوالب المستخدم:"
+
+msgid "Vector A"
+msgstr "المتجه A"
+
+msgid "Vector AB"
+msgstr "المتجه AB"
+
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+msgid "Version History"
+msgstr "سجل الإصدارات"
+
+msgid "Version {version} ({build})"
+msgstr "الإصدار {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "المحاذاة العمودية:"
+
+msgid "Vertical Bars"
+msgstr "خطوط عمودية"
+
+msgid "Vertical Dots"
+msgstr "نقاط عمودية"
+
+msgid "Vietnamese"
+msgstr "الفيتنامية"
+
+msgid "View Alt Text…"
+msgstr "عرض النص البديل…"
+
+msgid "View and edit the document's custom properties."
+msgstr "عرض الخصائص المخصصة للمستند وتحريرها."
+
+msgid "View Gridlines"
+msgstr "عرض خطوط الشبكة"
+
+msgid "View State"
+msgstr "حالة العرض"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "يُخفي عرض › التركيز كل شيء ما عدا كلماتك. سأنتظر في الخارج."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "طرق العرض"
+
+msgid "Visual effects"
+msgstr "التأثيرات المرئية"
+
+msgid "Vivid 200%"
+msgstr "زاهٍ 200%"
+
+msgid "Volume"
+msgstr "المجلد"
+
+msgid "Volume Integral"
+msgstr "تكامل حجمي"
+
+msgid "Volume Integral with Limits"
+msgstr "تكامل حجمي بحدود"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "تكامل حجمي بحدود مكدّسة"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "انتظر حتى ينتهي إرسال مهمة الطباعة قبل الإغلاق."
+
+msgid "Waiting for the save to finish…"
+msgstr "جارٍ انتظار اكتمال الحفظ…"
+
+msgid "Waiting for Zotero…"
+msgstr "جارٍ انتظار Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "تدرّج دافئ مع حد خارجي"
+
+msgid "Warnings ({n})"
+msgstr "التحذيرات ({n})"
+
+msgid "Washout"
+msgstr "باهت"
+
+msgid "Weather"
+msgstr "الطقس"
+
+msgid "Web Layout"
+msgstr "تخطيط ويب"
+
+msgid "Web page (*.html)"
+msgstr "صفحة ويب (*.html)"
+
+msgid "Web\nLayout"
+msgstr "تخطيط\nويب"
+
+msgid "Wed"
+msgstr "الأربعاء"
+
+msgid "Welsh"
+msgstr "الويلزية"
+
+msgid "West"
+msgstr "الغرب"
+
+msgid "When this document was first created"
+msgstr "تاريخ إنشاء هذا المستند لأول مرة"
+
+msgid "When this document was most recently printed"
+msgstr "آخر تاريخ طُبع فيه هذا المستند"
+
+msgid "When this document was most recently saved"
+msgstr "آخر تاريخ حُفظ فيه هذا المستند"
+
+msgid "White Space"
+msgstr "المسافة البيضاء"
+
+msgid "White space"
+msgstr "المسافة البيضاء"
+
+msgid "Who the document properties name as author"
+msgstr "المؤلف المذكور في خصائص المستند"
+
+msgid "Whole document"
+msgstr "المستند كله"
+
+msgid "Whole page"
+msgstr "الصفحة كاملة"
+
+msgid "Whole Table"
+msgstr "الجدول كله"
+
+msgid "Whole words"
+msgstr "الكلمات الكاملة"
+
+msgid "Wide"
+msgstr "عريض"
+
+msgid "Widow/Orphan Control"
+msgstr "التحكم في الأسطر الأرملة واليتيمة"
+
+msgid "Widow/Orphan control"
+msgstr "التحكم في الأسطر الأرملة واليتيمة"
+
+msgid "Width and spacing"
+msgstr "العرض والتباعد"
+
+msgid "Wildcards (regex)"
+msgstr "أحرف البدل (regex)"
+
+msgid "With:"
+msgstr "بـ:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "مستند Word 2003 XML (*.xml)"
+
+msgid "Word Count"
+msgstr "عدد الكلمات"
+
+msgid "Word document"
+msgstr "مستند Word"
+
+msgid "Word document (*.docx)"
+msgstr "مستند Word (*.docx)"
+
+msgid "Word Left"
+msgstr "كلمة لليسار"
+
+msgid "Word level"
+msgstr "مستوى الكلمة"
+
+msgid "Word Right"
+msgstr "كلمة لليمين"
+
+msgid "Word sources"
+msgstr "مصادر Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "مستند Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "أنماط WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "أصبح WordCraft التطبيق الافتراضي لمستندات Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "الكلمات فقط"
+
+msgid "Wrap Text"
+msgstr "التفاف النص"
+
+msgid "Wrap Text Sides"
+msgstr "جوانب التفاف النص"
+
+msgid "Wrap\nText"
+msgstr "التفاف\nالنص"
+
+msgid "Write & Insert Fields"
+msgstr "كتابة الحقول وإدراجها"
+
+msgid "Write a reply"
+msgstr "اكتب ردًا"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "حُبسة الكاتب؟ أجد أن التحديق في المؤشر يساعد. فهو يغمز لي منذ سنوات."
+
+msgid "x bar"
+msgstr "x بشرطة علوية"
+
+msgid "Year"
+msgstr "السنة"
+
+msgid "Yields"
+msgstr "ينتج"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "لم تحفظ منذ مدة، والحفظ التلقائي متوقف. أتحفظ الآن؟"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "بدأت قائمة. اضغط Enter مرتين لإنهائها، أو Backspace في بداية العنصر لإعادته نصًا عاديًا."
+
+msgid "Your document is now the most saved document in history."
+msgstr "أصبح مستندك الآن أكثر مستند حُفظ في التاريخ."
+
+msgid "Your languages"
+msgstr "لغاتك"
+
+msgid "Your own dictionary"
+msgstr "قاموسك الخاص"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "نظامك لا يحدد إعدادًا للحركة، لذا تبقى تأثيرات الحركة مشغَّلة."
+
+msgid "Your system has animation effects turned off."
+msgstr "تأثيرات الحركة متوقفة في نظامك."
+
+msgid "Your system has animation effects turned on."
+msgstr "تأثيرات الحركة مشغَّلة في نظامك."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: أُلغي"
+
+msgid "Zotero: done"
+msgstr "Zotero: تم"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}؛ تعذّرت قراءة {count}: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}؛ تُخطّي {n} (الحد {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "جدول {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "المساهمون: {contributors} · الإيداعات: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "تم تمييز {count} من العناصر"
+
+msgid "{count} of {total} pages will print"
+msgstr "الصفحات التي ستُطبع: {count} من {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "المستلمون الذين سيُدمجون: {count} من {total}."
+
+msgid "{field}, record {n}"
+msgstr "{field}، السجل {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "إعدادات {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "يدقق {key} الإملاء والقواعد في المستند كله."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "يعدّ {key} كلماتك وأحرفك وفقراتك."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "يبحث {key} عن النص والتنسيق والأحرف الخاصة ويستبدلها."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "يكرر {key} آخر إجراء قمت به. فيصبح تنسيق عشرة عناوين نقرةً واحدة وتسع ضغطات."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "يبدأ {key} سطرًا جديدًا دون أن يبدأ فقرة جديدة."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "يبدأ {key} صفحة جديدة. أرتب بكثير من الضغط على Enter حتى تظهر."
+
+msgid "{key} turns the selected text into a link."
+msgstr "يحوّل {key} النص المحدد إلى رابط."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+نقر لفتح الارتباط"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}، {columns} × {rows}، {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (افتراضية)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (القاموس غير قابل للقراءة)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (بلا قاموس)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "أصبحت {language} اللغة الافتراضية للمستند."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: لم يُعثر على قاموس"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: لا يدقق WordCraft الإملاء أو القواعد في هذه اللغة بعد."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (غير قابل للقراءة: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} و{n} غيرها"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} بوصة"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} مم"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} موجود بالفعل. اختر «حفظ» مرة أخرى لاستبداله."
+
+msgid "{name} is protected with a password."
+msgstr "{name} محمي بكلمة مرور."
+
+msgid "{name} options"
+msgstr "خيارات {name}"
+
+msgid "{name} wasn't found."
+msgstr "لم يُعثر على {name}."
+
+msgid "{n} entries marked."
+msgstr "وُضعت علامة على {n} من الإدخالات."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} سطر"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} نقطة"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "الكلمات: {selected} من {words}"
+
+msgid "{size} pt"
+msgstr "{size} نقطة"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} مم"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} بكسل"
+
+msgid "{words} words"
+msgstr "الكلمات: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} كلمة والعدد مستمر. حرفيًا. أنا أعدّ."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} كلمة! كنت سأنثر قصاصات الاحتفال، لكن عليّ أن أنظفها بعدها."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} كلمة. أي أكثر بـ{words} مما كتبته أنا اليوم."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "«{text}» ({row}، {series}) ليس رقمًا."
+
+msgid "✓ None"
+msgstr "✓ بلا"
+
+msgid "➕ New comment"
+msgstr "➕ تعليق جديد"
+
+msgid "📂  Browse…"
+msgstr "📂  استعراض…"

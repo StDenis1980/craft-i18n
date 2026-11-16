@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Vše)"
+
+msgid "(no style)"
+msgstr "(žádný styl)"
+
+msgid "(no suggestions)"
+msgstr "(žádné návrhy)"
+
+msgid "(normal text)"
+msgstr "(normální text)"
+
+msgid "(not matched)"
+msgstr "(nepřiřazeno)"
+
+msgid "(picture or object)"
+msgstr "(obrázek nebo objekt)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 nebo více znaků"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Omezení formátování"
+
+msgid "1.5 Line Spacing"
+msgstr "Řádkování 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Čtvrtčtverčíková mezera"
+
+msgid "1×2 Empty Matrix"
+msgstr "Prázdná matice 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Prázdná matice 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Omezení úprav"
+
+msgid "2×1 Empty Matrix"
+msgstr "Prázdná matice 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Determinant 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Prázdná matice 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Jednotková matice 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Jednotková matice 2×2 (řídká)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Matice 2×2 v hranatých závorkách"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Matice 2×2 mezi dvojitými svislými čarami"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Matice 2×2 v kulatých závorkách"
+
+msgid "2×3 Empty Matrix"
+msgstr "Prázdná matice 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Zahájení ochrany"
+
+msgid "3×1 Empty Matrix"
+msgstr "Prázdná matice 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Prázdná matice 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Prázdná matice 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Jednotková matice 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Jednotková matice 3×3 (řídká)"
+
+msgid "<< Less"
+msgstr "<< Méně"
+
+msgid "<< Remove"
+msgstr "<< Odebrat"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "diagram obsahuje nejvýše {MAX_ITEMS} položek"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "kreslicí plátno nelze oddělit"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "kreslicí plátno nelze vložit do textového pole"
+
+msgid "A file dialog is already open."
+msgstr "Dialogové okno souboru je již otevřené."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Bezplatný textový procesor s otevřeným zdrojovým kódem napsaný od základu v jazyce Rust.\nSoučást sady Crafting Apps od týmu ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "skupinu s rukopisem z Wordu zatím nelze zrušit"
+
+msgid "A mail merge field"
+msgstr "Pole hromadné korespondence"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Číslovaná posloupnost (obrázky, tabulky…)"
+
+msgid "A password is required to open this document."
+msgstr "K otevření tohoto dokumentu je vyžadováno heslo."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Obsah"
+
+msgid "A xor B"
+msgstr "A XOR B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaÁáBbCc"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz ČčŘřŽž"
+
+msgid "About WordCraft"
+msgstr "O aplikaci WordCraft"
+
+msgid "Above Chart"
+msgstr "Nad grafem"
+
+msgid "Above the item"
+msgstr "Nad položkou"
+
+msgid "Above/below"
+msgstr "Výše/níže"
+
+msgid "Absolute value cases"
+msgstr "Absolutní hodnota podle případů"
+
+msgid "Accent"
+msgstr "Diakritika"
+
+msgid "Accent Gradient"
+msgstr "Přechod barvy zvýraznění"
+
+msgid "Accent with Reflection"
+msgstr "Barva zvýraznění s odrazem"
+
+msgid "Accent {n}"
+msgstr "Zvýraznění {n}"
+
+msgid "Accents"
+msgstr "Diakritická znaménka"
+
+msgid "Accept"
+msgstr "Přijmout"
+
+msgid "Accept All Changes"
+msgstr "Přijmout všechny změny"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Přijmout tuto změnu"
+
+msgid "Accessed on"
+msgstr "Datum přístupu"
+
+msgid "Accessibility Pane"
+msgstr "Podokno přístupnosti"
+
+msgid "Account"
+msgstr "Účet"
+
+msgid "Acute"
+msgstr "Čárka"
+
+msgid "Add >>"
+msgstr "Přidat >>"
+
+msgid "Add a language"
+msgstr "Přidat jazyk"
+
+msgid "Add a language…"
+msgstr "Přidat jazyk…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Přidat tabulku"
+
+msgid "Add at least one field."
+msgstr "Přidejte alespoň jedno pole."
+
+msgid "Add Chart Element"
+msgstr "Přidat prvek grafu"
+
+msgid "Add Condition"
+msgstr "Přidat podmínku"
+
+msgid "Add Field"
+msgstr "Přidat pole"
+
+msgid "Add Font…"
+msgstr "Přidat písmo…"
+
+msgid "Add gradient stop"
+msgstr "Přidat zarážku přechodu"
+
+msgid "Add line numbering"
+msgstr "Přidat číslování řádků"
+
+msgid "Add New Source…"
+msgstr "Přidat nový pramen…"
+
+msgid "Add Object to Selection"
+msgstr "Přidat objekt do výběru"
+
+msgid "Add Pen"
+msgstr "Přidat pero"
+
+msgid "Add Row"
+msgstr "Přidat řádek"
+
+msgid "Add Series"
+msgstr "Přidat řadu"
+
+msgid "Add Shape"
+msgstr "Přidat tvar"
+
+msgid "Add Space Before Paragraph"
+msgstr "Přidat mezeru před odstavec"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Přidávat mezery mezi asijským textem a latinkou"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Přidávat mezery mezi asijským textem a čísly"
+
+msgid "Add tab stop at:"
+msgstr "Přidat zarážku tabulátoru na:"
+
+msgid "Add Text"
+msgstr "Přidat text"
+
+msgid "Add the chapter number"
+msgstr "Přidat číslo kapitoly"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Přidat do dokumentu"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Přidat na panel nástrojů Rychlý přístup"
+
+msgid "Add to Style Gallery"
+msgstr "Přidat do galerie stylů"
+
+msgid "Add whether it is above or below"
+msgstr "Doplnit, zda je výše, nebo níže"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Přidat/upravit\nbibliografii"
+
+msgid "Add/Edit\nCitation"
+msgstr "Přidat/upravit\ncitaci"
+
+msgid "Add\nNote"
+msgstr "Přidat\npoznámku"
+
+msgid "Add\nPen"
+msgstr "Přidat\npero"
+
+msgid "Add\nShape"
+msgstr "Přidat\ntvar"
+
+msgid "Added 1 font"
+msgstr "Přidáno 1 písmo"
+
+msgid "Added Fonts"
+msgstr "Přidaná písma"
+
+msgid "Added {n} fonts"
+msgstr "Přidaná písma: {n}"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Address Block"
+msgstr "Blok adresy"
+
+msgid "Address labels"
+msgstr "Adresní štítky"
+
+msgid "Address:"
+msgstr "Adresa:"
+
+msgid "Address\nBlock"
+msgstr "Blok\nadresy"
+
+msgid "Advanced Find"
+msgstr "Rozšířené hledání"
+
+msgid "Advanced Find…"
+msgstr "Rozšířené hledání…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "afrikánština"
+
+msgid "After:"
+msgstr "Za:"
+
+msgid "Agents"
+msgstr "Agenti"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Agenti připojení k WordCraftu vám mohou přes asistenta zobrazovat zprávy. Když je ztlumíte, dozvědí se, že o ně nestojíte."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Á, latina. Jazyk mrtvý jako včerejší uzávěrka."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Á, fáze úprav. Moje oblíbená. Velmi rázná."
+
+msgid "Albanian"
+msgstr "albánština"
+
+msgid "Align Bottom Center"
+msgstr "Zarovnat dolů na střed"
+
+msgid "Align Bottom Left"
+msgstr "Zarovnat dolů vlevo"
+
+msgid "Align Bottom Right"
+msgstr "Zarovnat dolů vpravo"
+
+msgid "Align Center"
+msgstr "Zarovnat na střed"
+
+msgid "Align Center Left"
+msgstr "Zarovnat na střed vlevo"
+
+msgid "Align Center Right"
+msgstr "Zarovnat na střed vpravo"
+
+msgid "Align Top Center"
+msgstr "Zarovnat nahoru na střed"
+
+msgid "Align Top Left"
+msgstr "Zarovnat nahoru vlevo"
+
+msgid "Align Top Right"
+msgstr "Zarovnat nahoru vpravo"
+
+msgid "Aligned at:"
+msgstr "Zarovnat na:"
+
+msgid "All - Linear"
+msgstr "Všechny – lineární"
+
+msgid "All - Professional"
+msgstr "Všechny – profesionální"
+
+msgid "All Borders"
+msgstr "Všechna ohraničení"
+
+msgid "All caps"
+msgstr "Všechna velká"
+
+msgid "All Commands"
+msgstr "Všechny příkazy"
+
+msgid "All documents based on the Normal template?"
+msgstr "Všechny dokumenty založené na šabloně Normální?"
+
+msgid "All Fonts"
+msgstr "Všechna písma"
+
+msgid "All Levels"
+msgstr "Všechny úrovně"
+
+msgid "All Markup"
+msgstr "Všechny revize"
+
+msgid "All pages in the range"
+msgstr "Všechny stránky v rozsahu"
+
+msgid "All symbol sets"
+msgstr "Všechny sady symbolů"
+
+msgid "All system fonts are already available."
+msgstr "Všechna systémová písma jsou již k dispozici."
+
+msgid "Allow hanging punctuation"
+msgstr "Povolit předsazenou interpunkci"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Povolit zalomení latinky uprostřed slova"
+
+msgid "Allow line breaks"
+msgstr "Povolit zalomení řádků"
+
+msgid "Allow row to break across pages"
+msgstr "Povolit zalomení řádku mezi stránkami"
+
+msgid "Alphabetical"
+msgstr "Abecedně"
+
+msgid "Alt Text"
+msgstr "Alternativní text"
+
+msgid "Alt text"
+msgstr "Alternativní text"
+
+msgid "Alt Text Pane"
+msgstr "Podokno alternativního textu"
+
+msgid "Alt:"
+msgstr "Alt. text:"
+
+msgid "Alt\nText"
+msgstr "Alternativní\ntext"
+
+msgid "an agent"
+msgstr "agent"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Nainstalovaný jazykový balíček se použije po této složce."
+
+msgid "And"
+msgstr "A"
+
+msgid "Angle Brackets"
+msgstr "Lomené závorky"
+
+msgid "Angle Brackets with Separator"
+msgstr "Lomené závorky s oddělovačem"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Lomené závorky se dvěma oddělovači"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animovat kurzor (plynule se přesouvá a prolíná)"
+
+msgid "Animation effects:"
+msgstr "Efekty animace:"
+
+msgid "Annotation Reference"
+msgstr "Odkaz na komentář"
+
+msgid "Annotation Subject"
+msgstr "Předmět komentáře"
+
+msgid "Annotation Text"
+msgstr "Text komentáře"
+
+msgid "Annoying"
+msgstr "Otravně"
+
+msgid "Another file"
+msgstr "Jiný soubor"
+
+msgid "Any Character"
+msgstr "Libovolný znak"
+
+msgid "Any Digit"
+msgstr "Libovolná číslice"
+
+msgid "Any field"
+msgstr "Libovolné pole"
+
+msgid "Any Letter"
+msgstr "Libovolné písmeno"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Tento dokument může otevřít kdokoli. Chcete-li jej chránit, zašifrujte jej heslem."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Toto heslo bude potřebovat každý, kdo dokument otevře."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Používat při psaní"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Používat asijská pravidla pro zalamování řádků (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Použít formátování na:"
+
+msgid "Apply Style"
+msgstr "Použít styl"
+
+msgid "Apply Styles"
+msgstr "Použít styly"
+
+msgid "Arabic"
+msgstr "Arabština"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "Západní číslice"
+
+msgid "Arch Down"
+msgstr "Oblouk dolů"
+
+msgid "Arch Up"
+msgstr "Oblouk nahoru"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenian"
+msgstr "arménština"
+
+msgid "Arrange\nAll"
+msgstr "Uspořádat\nvše"
+
+msgid "Article I."
+msgstr "Článek I."
+
+msgid "Artistic Effects"
+msgstr "Umělecké efekty"
+
+msgid "As Recommended"
+msgstr "Podle doporučení"
+
+msgid "As you type"
+msgstr "Při psaní"
+
+msgid "ASAP"
+msgstr "CO NEJDŘÍVE"
+
+msgid "Asian text font:"
+msgstr "Písmo pro asijský text:"
+
+msgid "Asian Typography"
+msgstr "Asijská typografie"
+
+msgid "Assistant"
+msgstr "Asistent"
+
+msgid "Assistant Suggestions"
+msgstr "Návrhy asistenta"
+
+msgid "At least"
+msgstr "Nejméně"
+
+msgid "At least {n}"
+msgstr "Nejméně {n}"
+
+msgid "Atelier"
+msgstr "Ateliér"
+
+msgid "Atmosphere"
+msgstr "Atmosféra"
+
+msgid "Attach Template"
+msgstr "Připojit šablonu"
+
+msgid "Attach…"
+msgstr "Připojit…"
+
+msgid "Australia"
+msgstr "Austrálie"
+
+msgid "Austria"
+msgstr "Rakousko"
+
+msgid "Auto orientation"
+msgstr "Automatická orientace"
+
+msgid "AutoCorrect"
+msgstr "Automatické opravy"
+
+msgid "AutoCorrect Options"
+msgstr "Možnosti automatických oprav"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Automaticky přizpůsobit"
+
+msgid "AutoFit behavior"
+msgstr "Automatické přizpůsobení"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Přizpůsobit sloupec dvojitým kliknutím"
+
+msgid "AutoFit Contents"
+msgstr "Automaticky přizpůsobit obsahu"
+
+msgid "AutoFit to contents"
+msgstr "Automaticky přizpůsobit obsahu"
+
+msgid "AutoFit to window"
+msgstr "Automaticky přizpůsobit oknu"
+
+msgid "AutoFit Window"
+msgstr "Automaticky přizpůsobit oknu"
+
+msgid "AutoFormat As You Type"
+msgstr "Automatický formát při psaní"
+
+msgid "Automatic ({language})"
+msgstr "Automaticky ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automaticky ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Automatické seznamy s odrážkami"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automatické nastavení sleduje jazyk systému. Mění se nabídky a příkazy, nikoli obsah dokumentů."
+
+msgid "Automatic numbered lists"
+msgstr "Automatické číslované seznamy"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automatický obsah 1 (3 úrovně)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automatický obsah 2 (2 úrovně)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "Automaticky přidávat slova do seznamu (velké první písmeno)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "Automaticky přidávat slova do seznamu (DVě POčáteční VElká písmena)"
+
+msgid "Automatically hyphenate document"
+msgstr "Automaticky dělit slova v dokumentu"
+
+msgid "Automatically Update Document Styles"
+msgstr "Automaticky aktualizovat styly dokumentu"
+
+msgid "Automatically update document styles"
+msgstr "Automaticky aktualizovat styly dokumentu"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Automaticky ukládat dokumenty uložené ve WordCraftu"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Automatické ukládání selhalo: {error}. Uložením dokumentu automatické ukládání znovu zapnete."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Automatické ukládání není v prohlížeči dostupné, protože nemůže zapisovat do vašich souborů. Příkaz Uložit stáhne kopii."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Automatické ukládání podporuje pouze soubory .docx, .odt a .rtf; formát {name} nedokáže zachovat veškeré formátování. Pro zapnutí automatického ukládání uložte dokument jako .docx."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Automatické ukládání zapisuje každou změnu do souboru (vyžaduje uložený dokument)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Automatické ukládání zapíše změny do souboru chvíli poté, co přestanete psát."
+
+msgid "AutoText"
+msgstr "Automatický text"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "Bubliny"
+
+msgid "Banded Columns"
+msgstr "Pruhované sloupce"
+
+msgid "Banded Rows"
+msgstr "Pruhované řádky"
+
+msgid "Base text:"
+msgstr "Základní text:"
+
+msgid "Based on: {style}"
+msgstr "Založeno na: {style}"
+
+msgid "Baseline Dots"
+msgstr "Tečky na účaří"
+
+msgid "Basic Cycle"
+msgstr "Základní cyklus"
+
+msgid "Basic List"
+msgstr "Základní seznam"
+
+msgid "Basic Math"
+msgstr "Základní matematika"
+
+msgid "Basic Matrix"
+msgstr "Základní matice"
+
+msgid "Basic Process"
+msgstr "Základní proces"
+
+msgid "Basic Pyramid"
+msgstr "Základní pyramida"
+
+msgid "Basic Radial"
+msgstr "Základní paprskový"
+
+msgid "Basic Venn"
+msgstr "Základní Vennův diagram"
+
+msgid "Bayes' rule"
+msgstr "Bayesova věta"
+
+msgid "Before:"
+msgstr "Před:"
+
+msgid "Beginning of Word"
+msgstr "Začátek slova"
+
+msgid "Behind Text"
+msgstr "Za textem"
+
+msgid "Belarus"
+msgstr "Bělorusko"
+
+msgid "Belarusian"
+msgstr "běloruština"
+
+msgid "Belgium"
+msgstr "Belgie"
+
+msgid "Below text"
+msgstr "Pod textem"
+
+msgid "Below the item"
+msgstr "Pod položkou"
+
+msgid "Between"
+msgstr "Mezi odstavci"
+
+msgid "Bibliography"
+msgstr "Bibliografie"
+
+msgid "Binomial Coefficient"
+msgstr "Binomický koeficient"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binomický koeficient (lomené závorky)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binomický koeficient v lomených závorkách"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Binomický rozvoj (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Prázdné"
+
+msgid "Blank (Three Columns)"
+msgstr "Prázdné (tři sloupce)"
+
+msgid "Blank document"
+msgstr "Prázdný dokument"
+
+msgid "Blank Page"
+msgstr "Prázdná stránka"
+
+msgid "Block\nAuthors"
+msgstr "Blokovat\nautory"
+
+msgid "Blue:"
+msgstr "Modrá:"
+
+msgid "Body Text"
+msgstr "Základní text"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Základní text ukazuje mezery v odstavci."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Odvážná volba. Ctrl+Z je hned po ruce, kdybyste ho potřebovali."
+
+msgid "Bolivia"
+msgstr "Bolívie"
+
+msgid "Book"
+msgstr "Kniha"
+
+msgid "Book Title"
+msgstr "Název knihy"
+
+msgid "Book title"
+msgstr "Název knihy"
+
+msgid "Bookmark"
+msgstr "Záložka"
+
+msgid "Bookmark name:"
+msgstr "Název záložky:"
+
+msgid "Bookmark text"
+msgstr "Text záložky"
+
+msgid "Bookmarks"
+msgstr "Záložky"
+
+msgid "Border lines"
+msgstr "Čáry ohraničení"
+
+msgid "Border Painter"
+msgstr "Štětec ohraničení"
+
+msgid "Border\nPainter"
+msgstr "Štětec\nohraničení"
+
+msgid "Borders and Shading"
+msgstr "Ohraničení a stínování"
+
+msgid "Borders and Shading…"
+msgstr "Ohraničení a stínování…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna a Hercegovina"
+
+msgid "Bosnian"
+msgstr "bosenština"
+
+msgid "Both Sides"
+msgstr "Obě strany"
+
+msgid "Bottom Border"
+msgstr "Dolní ohraničení"
+
+msgid "Bottom Left Cell"
+msgstr "Levá dolní buňka"
+
+msgid "Bottom Margin"
+msgstr "Dolní okraj"
+
+msgid "Bottom of Page"
+msgstr "Dolní část stránky"
+
+msgid "Bottom Right Cell"
+msgstr "Pravá dolní buňka"
+
+msgid "Box"
+msgstr "Rámeček"
+
+msgid "Boxed Formula"
+msgstr "Vzorec v rámečku"
+
+msgid "Boxed Formula (example)"
+msgstr "Vzorec v rámečku (příklad)"
+
+msgid "Boxed Formulas"
+msgstr "Vzorce v rámečku"
+
+msgid "Braces"
+msgstr "Složené závorky"
+
+msgid "Braces with Separator"
+msgstr "Složené závorky s oddělovačem"
+
+msgid "Bracket"
+msgstr "Závorky"
+
+msgid "Brackets"
+msgstr "Hranaté závorky"
+
+msgid "Brackets with Separators"
+msgstr "Závorky s oddělovači"
+
+msgid "Brazil"
+msgstr "Brazílie"
+
+msgid "Breaks"
+msgstr "Konce"
+
+msgid "Breve"
+msgstr "Oblouček"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "Světlejší +20 %"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "Jas, kontrast a ostrost"
+
+msgid "Browse in WordCraft…"
+msgstr "Procházet ve WordCraftu…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Ovládací prvek obsahu galerie stavebních bloků"
+
+msgid "Built in"
+msgstr "Vestavěný"
+
+msgid "Built-In"
+msgstr "Vestavěné"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Vestavěný styl"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Vestavěné styly nelze odstranit."
+
+msgid "Bulgarian"
+msgstr "bulharština"
+
+msgid "Bullet Library"
+msgstr "Knihovna odrážek"
+
+msgid "Bullets"
+msgstr "Odrážky"
+
+msgid "By author"
+msgstr "Podle autora"
+
+msgid "Cabo Verde"
+msgstr "Kapverdy"
+
+msgid "Calendar"
+msgstr "Kalendář"
+
+msgid "Can't be deleted"
+msgstr "Nelze odstranit"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Nemůžete najít příkaz? Stiskněte {key} a napište, co chcete udělat."
+
+msgid "can't split at the first row"
+msgstr "tabulku nelze rozdělit na prvním řádku"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Canvas Member"
+msgstr "Prvek plátna"
+
+msgid "Capitalize Each Word"
+msgstr "Velká Počáteční Písmena Slov"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Velké první písmeno ve větách"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Velké první písmeno v buňkách tabulky"
+
+msgid "Capitalize names of days"
+msgstr "Velké první písmeno v názvech dnů"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Začít první slovo věty velkým písmenem"
+
+msgid "Caption Numbering"
+msgstr "Číslování titulků"
+
+msgid "Caption text"
+msgstr "Text titulku"
+
+msgid "Caption:"
+msgstr "Titulek:"
+
+msgid "Captions"
+msgstr "Titulky"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Opatrně, ještě kousek zpátky a vrátíme i vynález papíru."
+
+msgid "Caret Character"
+msgstr "Znak stříšky"
+
+msgid "Case changes"
+msgstr "Změny velikosti písmen"
+
+msgid "Cases (Three Conditions)"
+msgstr "Rozlišení případů (tři podmínky)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Rozlišení případů (dvě podmínky)"
+
+msgid "Cases and Stacks"
+msgstr "Rozlišení případů a výrazy nad sebou"
+
+msgid "Catalan"
+msgstr "katalánština"
+
+msgid "Catalan (Valencian)"
+msgstr "katalánština (valencijská)"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Categories:"
+msgstr "Kategorie:"
+
+msgid "Category {n}"
+msgstr "Kategorie {n}"
+
+msgid "Ceiling"
+msgstr "Horní celá část"
+
+msgid "Cell"
+msgstr "Buňka"
+
+msgid "Cell Margins"
+msgstr "Okraje buňky"
+
+msgid "Cell\nMargins"
+msgstr "Okraje\nbuňky"
+
+msgid "Center Glow"
+msgstr "Záře ze středu"
+
+msgid "Centered as Group"
+msgstr "Na střed jako skupina"
+
+msgid "Change Chart Type"
+msgstr "Změnit typ grafu"
+
+msgid "Change Colors"
+msgstr "Změnit barvy"
+
+msgid "Change in y over change in x"
+msgstr "Změna y dělená změnou x"
+
+msgid "Change Layout"
+msgstr "Změnit rozvržení"
+
+msgid "Change List Level"
+msgstr "Změnit úroveň seznamu"
+
+msgid "Change Password…"
+msgstr "Změnit heslo…"
+
+msgid "Change Picture"
+msgstr "Změnit obrázek"
+
+msgid "Change Picture…"
+msgstr "Změnit obrázek…"
+
+msgid "Change Shape"
+msgstr "Změnit tvar"
+
+msgid "Change Structure"
+msgstr "Změnit strukturu"
+
+msgid "Change to Display"
+msgstr "Změnit na samostatnou rovnici"
+
+msgid "Change to Inline"
+msgstr "Změnit na rovnici v řádku"
+
+msgid "Change to Level 1"
+msgstr "Změnit na úroveň 1"
+
+msgid "Change to Level 2"
+msgstr "Změnit na úroveň 2"
+
+msgid "Change to Level 3"
+msgstr "Změnit na úroveň 3"
+
+msgid "Change to Level 4"
+msgstr "Změnit na úroveň 4"
+
+msgid "Change to Level 5"
+msgstr "Změnit na úroveň 5"
+
+msgid "Change to Level 6"
+msgstr "Změnit na úroveň 6"
+
+msgid "Change to Level 7"
+msgstr "Změnit na úroveň 7"
+
+msgid "Change to Level 8"
+msgstr "Změnit na úroveň 8"
+
+msgid "Change to Level 9"
+msgstr "Změnit na úroveň 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Změnit\ntyp grafu"
+
+msgid "Change\nColors"
+msgstr "Změnit\nbarvy"
+
+msgid "Changed lines:"
+msgstr "Změněné řádky:"
+
+msgid "Changes"
+msgstr "Změny"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Kapitola 1"
+
+msgid "Chapter in a book"
+msgstr "Kapitola v knize"
+
+msgid "Chapters begin at:"
+msgstr "Kapitoly začínají stylem:"
+
+msgid "Character Border"
+msgstr "Ohraničení znaků"
+
+msgid "Character code:"
+msgstr "Kód znaku:"
+
+msgid "Character in Range"
+msgstr "Znak v rozsahu"
+
+msgid "Character level"
+msgstr "Úroveň znaků"
+
+msgid "Character Position"
+msgstr "Poloha znaků"
+
+msgid "Character Scale"
+msgstr "Měřítko znaků"
+
+msgid "Character Shading"
+msgstr "Stínování znaků"
+
+msgid "Character Spacing"
+msgstr "Proložení znaků"
+
+msgid "Character spacing"
+msgstr "Proložení znaků"
+
+msgid "Character style"
+msgstr "Znakový styl"
+
+msgid "Characters (no spaces)"
+msgstr "Znaky (bez mezer)"
+
+msgid "Characters (with spaces)"
+msgstr "Znaky (včetně mezer)"
+
+msgid "Characters per line:"
+msgstr "Znaků na řádek:"
+
+msgid "Chart"
+msgstr "Graf"
+
+msgid "Chart Design"
+msgstr "Návrh grafu"
+
+msgid "Chart Layouts"
+msgstr "Rozvržení grafu"
+
+msgid "Chart Title"
+msgstr "Název grafu"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "grafy a diagramy zatím nelze přesouvat ani měnit jejich velikost"
+
+msgid "Check"
+msgstr "Háček"
+
+msgid "Check Accessibility"
+msgstr "Kontrola přístupnosti"
+
+msgid "Check Box Content Control"
+msgstr "Ovládací prvek obsahu zaškrtávacího políčka"
+
+msgid "Check Compatibility"
+msgstr "Kontrola kompatibility"
+
+msgid "Check for Errors"
+msgstr "Vyhledat chyby"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Kontrolovat pravopis při psaní"
+
+msgid "Check spelling as you type"
+msgstr "Kontrolovat pravopis při psaní"
+
+msgid "Check\nAccessibility"
+msgstr "Kontrola\npřístupnosti"
+
+msgid "Checked styles are allowed:"
+msgstr "Povolené jsou zaškrtnuté styly:"
+
+msgid "Checked symbol"
+msgstr "Symbol zaškrtnutí"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Stříška dolů"
+
+msgid "Chevron Up"
+msgstr "Stříška nahoru"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Čína"
+
+msgid "Chinese (Simplified)"
+msgstr "Čínština (zjednodušená)"
+
+msgid "Chinese (Traditional)"
+msgstr "Čínština (tradiční)"
+
+msgid "Choose a command"
+msgstr "Vyberte příkaz"
+
+msgid "Choose a shortcut"
+msgstr "Vyberte klávesovou zkratku"
+
+msgid "Choose List Item"
+msgstr "Vybrat položku seznamu"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Vyberte list, který obsahuje příjemce."
+
+msgid "Circle area from its radius"
+msgstr "Obsah kruhu z jeho poloměru"
+
+msgid "Circled Dot"
+msgstr "Tečka v kroužku"
+
+msgid "Circled Plus"
+msgstr "Plus v kroužku"
+
+msgid "Circled Times"
+msgstr "Znaménko násobení v kroužku"
+
+msgid "Citation Style"
+msgstr "Styl citací"
+
+msgid "Citations"
+msgstr "Citace"
+
+msgid "Citations & Bibliography"
+msgstr "Citace a bibliografie"
+
+msgid "Clear All Formatting"
+msgstr "Vymazat veškeré formátování"
+
+msgid "Clear Character Formatting"
+msgstr "Vymazat formátování znaků"
+
+msgid "Clear Character Style"
+msgstr "Vymazat znakový styl"
+
+msgid "Clear Formatting Level"
+msgstr "Vymazat úroveň formátování"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Vymazat formátování odstavce"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Kliknutím na ohraničení mezi dvěma buňkami je sloučíte. Esc akci ukončí."
+
+msgid "Click an item to paste it."
+msgstr "Kliknutím na položku ji vložíte."
+
+msgid "Click level to modify:"
+msgstr "Klikněte na úroveň, kterou chcete upravit:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Klikněte na prázdné textové pole, ve kterém má text pokračovat (Esc zruší)"
+
+msgid "Click to switch back to inserting"
+msgstr "Kliknutím se vrátíte do režimu vkládání"
+
+msgid "Clipboard Contents"
+msgstr "Obsah schránky"
+
+msgid "Clipboard Items"
+msgstr "Položky schránky"
+
+msgid "Clipboard Pane"
+msgstr "Podokno schránky"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Zavřít rovnici"
+
+msgid "Close Header and Footer"
+msgstr "Zavřít záhlaví a zápatí"
+
+msgid "Close Outline View"
+msgstr "Zavřít zobrazení osnovy"
+
+msgid "Close Outline\nView"
+msgstr "Zavřít\nzobrazení osnovy"
+
+msgid "Clustered Bar"
+msgstr "Skupinový pruhový"
+
+msgid "Clustered Column"
+msgstr "Skupinový sloupcový"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Sloupec č.:"
+
+msgid "Collapse Selection"
+msgstr "Sbalit výběr"
+
+msgid "Collate copies"
+msgstr "Kompletovat kopie"
+
+msgid "Collect entries from:"
+msgstr "Zahrnout do obsahu:"
+
+msgid "Colombia"
+msgstr "Kolumbie"
+
+msgid "Colon Equal"
+msgstr "Dvojtečka a rovná se"
+
+msgid "Color model:"
+msgstr "Barevný model:"
+
+msgid "Color only"
+msgstr "Pouze barva"
+
+msgid "Color: {color}"
+msgstr "Barva: {color}"
+
+msgid "Colorful"
+msgstr "Barevné"
+
+msgid "Column"
+msgstr "Sloupec"
+
+msgid "Column Break"
+msgstr "Konec sloupce"
+
+msgid "Column Selection"
+msgstr "Sloupcový výběr"
+
+msgid "Column {n}"
+msgstr "Sloupec {n}"
+
+msgid "Column:"
+msgstr "Sloupec:"
+
+msgid "Combine Documents"
+msgstr "Zkombinovat dokumenty"
+
+msgid "Combo Box Content Control"
+msgstr "Ovládací prvek obsahu pole se seznamem"
+
+msgid "Commands"
+msgstr "Příkazy"
+
+msgid "Commas"
+msgstr "Čárky"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Komentáře vedle každé stránky a sledované změny v souborech PDF, výtiscích a obrázcích; seznam komentářů na konci webových stránek, Markdownu a textu."
+
+msgid "Comments Pane"
+msgstr "Podokno komentářů"
+
+msgid "Common Accent Objects"
+msgstr "Běžné výrazy s diakritickými znaménky"
+
+msgid "Common Brackets"
+msgstr "Běžné závorky"
+
+msgid "Common Fractions"
+msgstr "Běžné zlomky"
+
+msgid "Common Functions"
+msgstr "Běžné funkce"
+
+msgid "Common Large Operators"
+msgstr "Běžné velké operátory"
+
+msgid "Common Operator Structures"
+msgstr "Běžné struktury operátorů"
+
+msgid "Common Operators"
+msgstr "Běžné operátory"
+
+msgid "Common Radicals"
+msgstr "Běžné odmocniny"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Běžné dolní a horní indexy"
+
+msgid "Communication"
+msgstr "Komunikace"
+
+msgid "Community\nDiscord"
+msgstr "Komunita\nDiscord"
+
+msgid "Compact"
+msgstr "Kompaktní"
+
+msgid "Compare Documents"
+msgstr "Porovnat dokumenty"
+
+msgid "Compare to"
+msgstr "Porovnat s"
+
+msgid "Compared: {changes} changes"
+msgstr "Porovnáno – počet změn: {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Porovnání s jiným souborem vyžaduje desktopovou aplikaci."
+
+msgid "Comparison settings"
+msgstr "Nastavení porovnání"
+
+msgid "Compress Pictures"
+msgstr "Komprimovat obrázky"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Sloučit interpunkční znaménka na začátku řádku"
+
+msgid "Conference"
+msgstr "Konference"
+
+msgid "Conference paper"
+msgstr "Příspěvek na konferenci"
+
+msgid "CONFIDENTIAL"
+msgstr "DŮVĚRNÉ"
+
+msgid "Confirm password:"
+msgstr "Potvrdit heslo:"
+
+msgid "Connect Shapes"
+msgstr "Propojit tvary"
+
+msgid "Container Title"
+msgstr "Název souborného díla"
+
+msgid "Content Control at Selection"
+msgstr "Ovládací prvek obsahu ve výběru"
+
+msgid "Content Control Properties"
+msgstr "Vlastnosti ovládacího prvku obsahu"
+
+msgid "Contents can't be edited"
+msgstr "Obsah nelze upravovat"
+
+msgid "Context"
+msgstr "Podle kontextu"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "Podle okolního textu"
+
+msgid "Continue from previous section"
+msgstr "Pokračovat z předchozího oddílu"
+
+msgid "Continue without restoring"
+msgstr "Pokračovat bez obnovení"
+
+msgid "Continuous"
+msgstr "Navazující"
+
+msgid "Continuous numbering"
+msgstr "Průběžné číslování"
+
+msgid "Contour Integral"
+msgstr "Křivkový integrál"
+
+msgid "Contour Integral with Limits"
+msgstr "Křivkový integrál s mezemi"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Křivkový integrál s mezemi nad a pod"
+
+msgid "Contour Integrals"
+msgstr "Křivkové integrály"
+
+msgid "Controls"
+msgstr "Ovládací prvky"
+
+msgid "Conversions"
+msgstr "Převody"
+
+msgid "Convert between built-up and linear form"
+msgstr "Převést mezi profesionálním a lineárním tvarem"
+
+msgid "Convert Notes"
+msgstr "Převést poznámky"
+
+msgid "Convert Text to Table"
+msgstr "Převést text na tabulku"
+
+msgid "Convert Text to Table…"
+msgstr "Převést text na tabulku…"
+
+msgid "Convert to Shapes"
+msgstr "Převést na tvary"
+
+msgid "Convert to Text"
+msgstr "Převést na text"
+
+msgid "Coproduct"
+msgstr "Koprodukt"
+
+msgid "Coproduct with Limits"
+msgstr "Koprodukt s mezemi"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Koprodukt s dolní mezí"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Koprodukt s mezemi v dolním a horním indexu"
+
+msgid "Copy Formatting"
+msgstr "Kopírovat formátování"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Text označený záložkou"
+
+msgid "Copy Styles"
+msgstr "Kopírovat styly"
+
+msgid "Copy to"
+msgstr "Kopírovat do"
+
+msgid "Copyright Sign"
+msgstr "Symbol autorských práv"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Opravovat náhodné použití klávesy cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Opravovat DVě POčáteční VElká písmena"
+
+msgid "Corrections"
+msgstr "Opravy"
+
+msgid "Cosecant Function"
+msgstr "Kosekans"
+
+msgid "Cosine 2x"
+msgstr "Kosinus 2x"
+
+msgid "Cosine Function"
+msgstr "Kosinus"
+
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+msgid "Cotangent Function"
+msgstr "Kotangens"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Nepodařilo se stáhnout {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "WordCraft se nepodařilo nastavit jako výchozí: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Nepodařilo se otevřít {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "Dokument {name} se nepodařilo uložit, proto zůstává otevřený a nic se neztratilo: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Číslovat po:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Počítat slova v textových polích a poznámkách"
+
+msgid "Courtesy Title"
+msgstr "Oslovení"
+
+msgid "Cover Page"
+msgstr "Titulní stránka"
+
+msgid "Craft"
+msgstr "Řemeslo"
+
+msgid "Create a Style"
+msgstr "Vytvořit styl"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Vytvořte si interaktivní osnovu dokumentu.\n\nSnadno tak udržíte přehled o tom, kde se nacházíte, a rychle přesunete obsah.\n\nChcete-li začít, přejděte na kartu Domů a použijte na nadpisy v dokumentu styly nadpisů."
+
+msgid "Create Graphic"
+msgstr "Vytvořit grafiku"
+
+msgid "Create Link"
+msgstr "Vytvořit propojení"
+
+msgid "Create New Style"
+msgstr "Vytvořit nový styl"
+
+msgid "Create Source"
+msgstr "Vytvořit pramen"
+
+msgid "Croatian"
+msgstr "Chorvatština"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "Oříznutí na stránce funguje jen u neotočených obrázků: nejdřív nastavte otočení na 0° nebo použijte pole pro oříznutí"
+
+msgid "Cross-reference"
+msgstr "Křížový odkaz"
+
+msgid "Cross-reference:"
+msgstr "Křížový odkaz:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Cube Root"
+msgstr "Třetí odmocnina"
+
+msgid "Current - Linear"
+msgstr "Aktuální – lineární"
+
+msgid "Current - Professional"
+msgstr "Aktuální – profesionální"
+
+msgid "Current Document"
+msgstr "Aktuální dokument"
+
+msgid "Current Position"
+msgstr "Aktuální pozice"
+
+msgid "Current record"
+msgstr "Aktuální záznam"
+
+msgid "Current style: {style}"
+msgstr "Aktuální styl: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Zakřivená spojnice se šipkou"
+
+msgid "Curved Connector"
+msgstr "Zakřivená spojnice"
+
+msgid "Custom dictionary"
+msgstr "Vlastní slovník"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Vlastní okraje…"
+
+msgid "Custom mark:"
+msgstr "Vlastní značka:"
+
+msgid "Custom range"
+msgstr "Vlastní rozsah"
+
+msgid "Custom size"
+msgstr "Vlastní velikost"
+
+msgid "Custom Table of Contents…"
+msgstr "Vlastní obsah…"
+
+msgid "Custom Watermark"
+msgstr "Vlastní vodoznak"
+
+msgid "Custom Watermark…"
+msgstr "Vlastní vodoznak…"
+
+msgid "Customize"
+msgstr "Přizpůsobit"
+
+msgid "Customize Keyboard"
+msgstr "Přizpůsobit klávesnici"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Přizpůsobit panel nástrojů Rychlý přístup"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Přizpůsobit panel nástrojů Rychlý přístup…"
+
+msgid "Customize Ribbon"
+msgstr "Přizpůsobit pás karet"
+
+msgid "Customize the Ribbon…"
+msgstr "Přizpůsobit pás karet…"
+
+msgid "Cycle"
+msgstr "Cyklus"
+
+msgid "Cyprus"
+msgstr "Kypr"
+
+msgid "Czech"
+msgstr "Čeština"
+
+msgid "Danish"
+msgstr "Dánština"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Tmavý režim"
+
+msgid "Dark page (white text on black)"
+msgstr "Tmavá stránka (bílý text na černém pozadí)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Tmavé varianty"
+
+msgid "Dark with Shadow"
+msgstr "Tmavý se stínem"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "Tmavší −20 %"
+
+msgid "Darkroom"
+msgstr "Temná komora"
+
+msgid "Data Labels"
+msgstr "Popisky dat"
+
+msgid "Date & Time"
+msgstr "Datum a čas"
+
+msgid "Date formats:"
+msgstr "Formáty data:"
+
+msgid "Date Picker Content Control"
+msgstr "Ovládací prvek obsahu pro výběr data"
+
+msgid "Day"
+msgstr "Den"
+
+msgid "Decimal"
+msgstr "Desetinné"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Dekorativní objekty slouží pouze jako vizuální doplněk: čtečky obrazovky je přeskakují."
+
+msgid "Decorative Text"
+msgstr "Ozdobný text"
+
+msgid "Decorative Text Styles"
+msgstr "Styly ozdobného textu"
+
+msgid "Decrease Indent"
+msgstr "Zmenšit odsazení"
+
+msgid "Deep"
+msgstr "Sytý"
+
+msgid "Default formatting"
+msgstr "Výchozí formátování"
+
+msgid "Default Paragraph Font"
+msgstr "Standardní písmo odstavce"
+
+msgid "Default tab stops:"
+msgstr "Výchozí krok tabulátoru:"
+
+msgid "Define New Bullet"
+msgstr "Definovat novou odrážku"
+
+msgid "Define New Multilevel List"
+msgstr "Definovat nový víceúrovňový seznam"
+
+msgid "Define New Multilevel List…"
+msgstr "Definovat nový víceúrovňový seznam…"
+
+msgid "Define New Number Format"
+msgstr "Definovat nový číselný formát"
+
+msgid "Deflate"
+msgstr "Vyfouknutí"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Smazat okolo kurzoru v rovnici"
+
+msgid "Delete Back in Equation"
+msgstr "Smazat zpět v rovnici"
+
+msgid "Delete Bookmark"
+msgstr "Odstranit záložku"
+
+msgid "Delete Cells"
+msgstr "Odstranit buňky"
+
+msgid "Delete Clipboard Item"
+msgstr "Odstranit položku ze schránky"
+
+msgid "Delete Columns"
+msgstr "Odstranit sloupce"
+
+msgid "Delete Comment"
+msgstr "Odstranit komentář"
+
+msgid "Delete in Equation"
+msgstr "Smazat v rovnici"
+
+msgid "Delete Label"
+msgstr "Odstranit popisek"
+
+msgid "Delete Next Word"
+msgstr "Odstranit následující slovo"
+
+msgid "Delete Previous Word"
+msgstr "Odstranit předchozí slovo"
+
+msgid "Delete Rows"
+msgstr "Odstranit řádky"
+
+msgid "Delete Selected Ink"
+msgstr "Odstranit vybraný rukopis"
+
+msgid "Delete Table"
+msgstr "Odstranit tabulku"
+
+msgid "Delete Table Style"
+msgstr "Odstranit styl tabulky"
+
+msgid "Deletions:"
+msgstr "Odstranění:"
+
+msgid "Delivery address:"
+msgstr "Dodací adresa:"
+
+msgid "Delta Equal To"
+msgstr "Rovná se s deltou"
+
+msgid "Delta over arrow"
+msgstr "Delta nad šipkou"
+
+msgid "Demote"
+msgstr "Snížit úroveň"
+
+msgid "Demote to Body Text"
+msgstr "Snížit na základní text"
+
+msgid "Derivative as a limit"
+msgstr "Derivace jako limita"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Popište, co tento objekt zobrazuje, pro lidi, kteří jej nevidí."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Popište, co tato tabulka zobrazuje, pro lidi, kteří ji nevidí."
+
+msgid "Design"
+msgstr "Návrh"
+
+msgid "Design Mode"
+msgstr "Režim návrhu"
+
+msgid "Detach Template"
+msgstr "Odpojit šablonu"
+
+msgid "Detect language automatically"
+msgstr "Rozpoznat jazyk automaticky"
+
+msgid "Developer"
+msgstr "Vývojář"
+
+msgid "development build"
+msgstr "vývojové sestavení"
+
+msgid "Diagonal Dots"
+msgstr "Diagonální tečky"
+
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Návrh diagramu"
+
+msgid "Diagram Styles"
+msgstr "Styly diagramu"
+
+msgid "Dictate"
+msgstr "Diktovat"
+
+msgid "Dictionaries"
+msgstr "Slovníky"
+
+msgid "Dictionaries folder:"
+msgstr "Složka se slovníky:"
+
+msgid "Dictionary files"
+msgstr "Soubory slovníků"
+
+msgid "Different First Page"
+msgstr "Jiné na první stránce"
+
+msgid "Different Odd & Even Pages"
+msgstr "Jiné na lichých a sudých stránkách"
+
+msgid "Differential"
+msgstr "Diferenciál"
+
+msgid "Differential theta"
+msgstr "Diferenciál théta"
+
+msgid "Differential x"
+msgstr "Diferenciál x"
+
+msgid "Differential y"
+msgstr "Diferenciál y"
+
+msgid "Differentials"
+msgstr "Diferenciály"
+
+msgid "Direct formatting"
+msgstr "Přímé formátování"
+
+msgid "Directory"
+msgstr "Katalog"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "Zahodit kopii pro obnovení dokumentu {name}?"
+
+msgid "Discard…"
+msgstr "Zahodit…"
+
+msgid "Discord community"
+msgstr "Komunita na Discordu"
+
+msgid "Display for Review"
+msgstr "Zobrazení k revizi"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Zobrazený text"
+
+msgid "Distance from text"
+msgstr "Vzdálenost od textu"
+
+msgid "Distance from text:"
+msgstr "Vzdálenost od textu:"
+
+msgid "Distribute Columns"
+msgstr "Rovnoměrně rozložit sloupce"
+
+msgid "Distribute letters"
+msgstr "Rozmístit písmena"
+
+msgid "Distribute Rows"
+msgstr "Rovnoměrně rozložit řádky"
+
+msgid "Distribute spacing"
+msgstr "Rozmístit mezery"
+
+msgid "Distributed"
+msgstr "Rozložit do šířky"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Nekontrolovat pravopis ani mluvnici"
+
+msgid "Do not check spelling or grammar"
+msgstr "Nekontrolovat pravopis ani mluvnici"
+
+msgid "DO NOT COPY"
+msgstr "NEKOPÍROVAT"
+
+msgid "Do Not Show in TOC"
+msgstr "Nezobrazovat v obsahu"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Chcete uložit změny v dokumentu {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Konec dokumentu"
+
+msgid "Document Formatting"
+msgstr "Formátování dokumentu"
+
+msgid "Document Grid"
+msgstr "Mřížka dokumentu"
+
+msgid "Document Information"
+msgstr "Informace o dokumentu"
+
+msgid "Document name"
+msgstr "Název dokumentu"
+
+msgid "Document Property"
+msgstr "Vlastnost dokumentu"
+
+msgid "Document Start"
+msgstr "Začátek dokumentu"
+
+msgid "Document template:"
+msgstr "Šablona dokumentu:"
+
+msgid "Document Text"
+msgstr "Text dokumentu"
+
+msgid "Document1"
+msgstr "Dokument1"
+
+msgid "Document\nPreferences"
+msgstr "Předvolby\ndokumentu"
+
+msgid "Documents you open will show up here."
+msgstr "Zde se zobrazí dokumenty, které otevřete."
+
+msgid "Does not contain"
+msgstr "Neobsahuje"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Dominikánská republika"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Nepřidávat mezeru mezi odstavce stejného stylu"
+
+msgid "Don't capitalize after:"
+msgstr "Nepsat velké písmeno po:"
+
+msgid "Don't hyphenate"
+msgstr "Nedělit slova"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Nečíst citace a bibliografie Zotero, Mendeley ani EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Tento tip už nezobrazovat"
+
+msgid "Dot dash"
+msgstr "Čerchované"
+
+msgid "Dot-dash"
+msgstr "Čerchované"
+
+msgid "Dot-dot-dash"
+msgstr "Dvojitě čerchované"
+
+msgid "Double"
+msgstr "Dvojité"
+
+msgid "Double Bar"
+msgstr "Dvojitá čára"
+
+msgid "Double Closing Quote"
+msgstr "Koncové dvojité uvozovky"
+
+msgid "Double Dot"
+msgstr "Dvě tečky"
+
+msgid "Double Integral"
+msgstr "Dvojný integrál"
+
+msgid "Double Integral with Limits"
+msgstr "Dvojný integrál s mezemi"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Dvojný integrál s mezemi nad a pod"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dvojitá šipka vlevo s textem nad"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dvojitá šipka vlevo s textem pod"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dvojitá obousměrná šipka s textem nad"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dvojitá obousměrná šipka s textem pod"
+
+msgid "Double Opening Quote"
+msgstr "Počáteční dvojité uvozovky"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dvojitá šipka vpravo s textem nad"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dvojitá šipka vpravo s textem pod"
+
+msgid "Double Spacing"
+msgstr "Dvojité řádkování"
+
+msgid "Double Square Brackets"
+msgstr "Dvojité hranaté závorky"
+
+msgid "Double Strikethrough"
+msgstr "Dvojité přeškrtnutí"
+
+msgid "Double strikethrough"
+msgstr "Dvojité přeškrtnutí"
+
+msgid "Double summation"
+msgstr "Dvojná suma"
+
+msgid "Double Underline"
+msgstr "Dvojité podtržení"
+
+msgid "Double Vertical Bars"
+msgstr "Dvojité svislé čáry"
+
+msgid "Doughnut"
+msgstr "Prstencový"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Stahování je vypnuté. Kliknutím na „Přidat jazyk…“ nebo „Nainstalovat“ se zapne: WordCraft pak stahuje jazykové balíčky a písma z GitHubu."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "KONCEPT"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Tažením obdélníku nakreslíte tabulku, nebo tažením čáry přes buňky je rozdělíte. Esc akci ukončí."
+
+msgid "Draw Ink"
+msgstr "Kreslit rukopis"
+
+msgid "Draw Table"
+msgstr "Nakreslit tabulku"
+
+msgid "Draw\nTable"
+msgstr "Nakreslit\ntabulku"
+
+msgid "Drawing Canvas"
+msgstr "Kreslicí plátno"
+
+msgid "Drawing Tools"
+msgstr "Nástroje kreslení"
+
+msgid "Drawing\nCanvas"
+msgstr "Kreslicí\nplátno"
+
+msgid "Drop Cap"
+msgstr "Iniciála"
+
+msgid "Drop cap"
+msgstr "Iniciála"
+
+msgid "Drop Cap Options…"
+msgstr "Možnosti iniciály…"
+
+msgid "drop caps can't go in a table"
+msgstr "iniciálu nelze vložit do tabulky"
+
+msgid "Drop-Down List Content Control"
+msgstr "Ovládací prvek obsahu rozevíracího seznamu"
+
+msgid "Dropped"
+msgstr "Zapuštěná"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Odstraní veškeré formátování a vloží prostý text."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Nizozemština, Nederlands nebo nl"
+
+msgid "E-mail Messages"
+msgstr "E-mailové zprávy"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ekvádor"
+
+msgid "Edit Comment"
+msgstr "Upravit komentář"
+
+msgid "Edit Data"
+msgstr "Upravit data"
+
+msgid "Edit Document"
+msgstr "Upravit dokument"
+
+msgid "Edit Equation"
+msgstr "Upravit rovnici"
+
+msgid "Edit Field Code"
+msgstr "Upravit kód pole"
+
+msgid "Edit Field…"
+msgstr "Upravit pole…"
+
+msgid "Edit Footer"
+msgstr "Upravit zápatí"
+
+msgid "Edit Header"
+msgstr "Upravit záhlaví"
+
+msgid "Edit Individual Documents…"
+msgstr "Upravit jednotlivé dokumenty…"
+
+msgid "Edit Items"
+msgstr "Upravit položky"
+
+msgid "Edit Recipient List"
+msgstr "Upravit seznam příjemců"
+
+msgid "Edit Source"
+msgstr "Upravit pramen"
+
+msgid "Edit\nData"
+msgstr "Upravit\ndata"
+
+msgid "Edit\nRecipient List"
+msgstr "Upravit seznam\npříjemců"
+
+msgid "Edited"
+msgstr "Upraveno"
+
+msgid "Editing endnote"
+msgstr "Úprava vysvětlivky"
+
+msgid "Editing footnote"
+msgstr "Úprava poznámky pod čarou"
+
+msgid "Editing header/footer"
+msgstr "Úprava záhlaví/zápatí"
+
+msgid "Editing in this document is restricted."
+msgstr "Úpravy v tomto dokumentu jsou omezeny."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Úpravy — přímá úprava dokumentu"
+
+msgid "Edition"
+msgstr "Vydání"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Egypt"
+msgstr "Egypt"
+
+msgid "El Salvador"
+msgstr "Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Lomená spojnice se šipkou"
+
+msgid "Elbow Connector"
+msgstr "Lomená spojnice"
+
+msgid "Emphasis"
+msgstr "Zdůraznění"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Prázdné matice"
+
+msgid "Enclose Characters"
+msgstr "Ohraničit znaky"
+
+msgid "Enclosure"
+msgstr "Ohraničení"
+
+msgid "Encrypt with Password"
+msgstr "Zašifrovat heslem"
+
+msgid "Encrypt with Password…"
+msgstr "Zašifrovat heslem…"
+
+msgid "End of document"
+msgstr "Konec dokumentu"
+
+msgid "End of section"
+msgstr "Konec oddílu"
+
+msgid "End of Word"
+msgstr "Konec slova"
+
+msgid "Endnote Reference"
+msgstr "Znak vysvětlivky"
+
+msgid "Endnote Text"
+msgstr "Text vysvětlivky"
+
+msgid "Endnotes"
+msgstr "Vysvětlivky"
+
+msgid "Endnotes to footnotes"
+msgstr "Převést vysvětlivky na poznámky pod čarou"
+
+msgid "English (Australia)"
+msgstr "Angličtina (Austrálie)"
+
+msgid "English (Canada)"
+msgstr "Angličtina (Kanada)"
+
+msgid "English (India)"
+msgstr "Angličtina (Indie)"
+
+msgid "English (Ireland)"
+msgstr "Angličtina (Irsko)"
+
+msgid "English (New Zealand)"
+msgstr "Angličtina (Nový Zéland)"
+
+msgid "English (South Africa)"
+msgstr "Angličtina (Jihoafrická republika)"
+
+msgid "English (United Kingdom)"
+msgstr "Angličtina (Spojené království)"
+
+msgid "English (United States)"
+msgstr "Angličtina (Spojené státy)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Angličtina, jazyky tohoto dokumentu a každý nainstalovaný jazykový balíček. Jazykové balíčky přidávají slovníky pro pravopis a dělení slov."
+
+msgid "Engrave"
+msgstr "Rytina"
+
+msgid "Enlarge symbol"
+msgstr "Zvětšit symbol"
+
+msgid "Enter a number."
+msgstr "Zadejte číslo."
+
+msgid "Enter bookmark name:"
+msgstr "Zadejte název záložky:"
+
+msgid "Enter formatting for number:"
+msgstr "Zadejte formát čísla:"
+
+msgid "Enter in Equation"
+msgstr "Enter v rovnici"
+
+msgid "Enter page number:"
+msgstr "Zadejte číslo stránky:"
+
+msgid "Entire caption"
+msgstr "Celý titulek"
+
+msgid "Entry marked."
+msgstr "Položka byla označena."
+
+msgid "Envelope #10"
+msgstr "Obálka č. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr "Adresa na obálce"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr "Zpáteční adresa na obálce"
+
+msgid "Envelope size:"
+msgstr "Velikost obálky:"
+
+msgid "Envelopes"
+msgstr "Obálky"
+
+msgid "Equal by Definition"
+msgstr "Rovná se podle definice"
+
+msgid "Equal column width"
+msgstr "Stejná šířka sloupců"
+
+msgid "Equal Equal"
+msgstr "Dvě rovnítka"
+
+msgid "Equal to"
+msgstr "Rovná se"
+
+msgid "Equals:"
+msgstr "Rovná se:"
+
+msgid "Equation"
+msgstr "Rovnice"
+
+msgid "Equation Gallery"
+msgstr "Galerie rovnic"
+
+msgid "Equation Info"
+msgstr "Informace o rovnici"
+
+msgid "Equation Number"
+msgstr "Číslo rovnice"
+
+msgid "Equation Options"
+msgstr "Možnosti rovnice"
+
+msgid "Equatorial Guinea"
+msgstr "Rovníková Guinea"
+
+msgid "Erase Ink"
+msgstr "Smazat rukopis"
+
+msgid "Errors ({n})"
+msgstr "Chyby ({n})"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Estonian"
+msgstr "Estonština"
+
+msgid "Euler's identity"
+msgstr "Eulerova identita"
+
+msgid "Even Banded Columns"
+msgstr "Sudé pruhované sloupce"
+
+msgid "Even Banded Rows"
+msgstr "Sudé pruhované řádky"
+
+msgid "Even Page"
+msgstr "Sudá stránka"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Každá úprava se zaznamená jako sledovaná změna."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Každý příkaz je dostupný skriptům a AI agentům: spusťte `wordcraft-cli mcp` pro server MCP, nebo spusťte aplikaci s parametrem `--control <port>` pro řídicí kanál JSON."
+
+msgid "Every field needs a name."
+msgstr "Každé pole musí mít název."
+
+msgid "Everyone"
+msgstr "Všichni"
+
+msgid "Exactly"
+msgstr "Přesně"
+
+msgid "Exactly {n}"
+msgstr "Přesně {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Výjimky (volitelné)"
+
+msgid "Exceptions…"
+msgstr "Výjimky…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "Existující soubor nebo webová stránka"
+
+msgid "Expand or Collapse Heading"
+msgstr "Rozbalit nebo sbalit nadpis"
+
+msgid "Exponential"
+msgstr "Exponenciální funkce"
+
+msgid "Exponential series"
+msgstr "Exponenciální řada"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Exportovat kopii ke sdílení (PDF, dokument Word)"
+
+msgid "Export Page as PNG"
+msgstr "Exportovat stránku jako PNG"
+
+msgid "Extend Selection"
+msgstr "Rozšířit výběr"
+
+msgid "Extend Selection by Units"
+msgstr "Rozšířit výběr po jednotkách"
+
+msgid "Extra space"
+msgstr "Nadbytečná mezera"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Rychleji: {command} je na klávesnici {key}."
+
+msgid "Field code:"
+msgstr "Kód pole:"
+
+msgid "Field Codes"
+msgstr "Kódy polí"
+
+msgid "Field codes:"
+msgstr "Kódy polí:"
+
+msgid "Field name"
+msgstr "Název pole"
+
+msgid "Field name:"
+msgstr "Název pole:"
+
+msgid "Field names must be different."
+msgstr "Názvy polí se musí lišit."
+
+msgid "Field names:"
+msgstr "Názvy polí:"
+
+msgid "Field:"
+msgstr "Pole:"
+
+msgid "Field…"
+msgstr "Pole…"
+
+msgid "Figure"
+msgstr "Obrázek"
+
+msgid "File locations"
+msgstr "Umístění souborů"
+
+msgid "File name:"
+msgstr "Název souboru:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Soubor › Nový zobrazuje šablony .dotx a .dotm odsud v části Osobní; Uložit jako šablonu Wordu začíná zde."
+
+msgid "Fill color:"
+msgstr "Barva výplně:"
+
+msgid "Filling in forms"
+msgstr "Vyplňování formulářů"
+
+msgid "Film"
+msgstr "Film"
+
+msgid "Filter and Sort"
+msgstr "Filtrovat a seřadit"
+
+msgid "Filter Recipients"
+msgstr "Filtrovat příjemce"
+
+msgid "Find in list:"
+msgstr "Najít v seznamu:"
+
+msgid "Find Next Editable Region"
+msgstr "Najít další upravitelnou oblast"
+
+msgid "Find Previous"
+msgstr "Najít předchozí"
+
+msgid "Find Recipient"
+msgstr "Najít příjemce"
+
+msgid "Find What Expression"
+msgstr "Výraz pole Najít"
+
+msgid "Find What Text"
+msgstr "Text pole Najít"
+
+msgid "Find what:"
+msgstr "Najít:"
+
+msgid "Find “{text}” in the document"
+msgstr "Najít „{text}“ v dokumentu"
+
+msgid "Finding printers…"
+msgstr "Hledání tiskáren…"
+
+msgid "Finish & Merge"
+msgstr "Dokončit a sloučit"
+
+msgid "Finish &\nMerge"
+msgstr "Dokončit\na sloučit"
+
+msgid "Finished"
+msgstr "Dokončeno"
+
+msgid "Finland"
+msgstr "Finsko"
+
+msgid "Finnish"
+msgstr "Finština"
+
+msgid "First Column"
+msgstr "První sloupec"
+
+msgid "First line"
+msgstr "První řádek"
+
+msgid "First line:"
+msgstr "První řádek:"
+
+msgid "First Name"
+msgstr "Jméno"
+
+msgid "First Record"
+msgstr "První záznam"
+
+msgid "First row of data contains column headers"
+msgstr "První řádek dat obsahuje záhlaví sloupců"
+
+msgid "Fix Position on Page"
+msgstr "Ukotvit pozici na stránce"
+
+msgid "Fixed Column Width"
+msgstr "Pevná šířka sloupce"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Dolní celá část"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Znak za číslem:"
+
+msgid "Font Color"
+msgstr "Barva písma"
+
+msgid "Font color"
+msgstr "Barva písma"
+
+msgid "Font color:"
+msgstr "Barva písma:"
+
+msgid "Font Dialog"
+msgstr "Dialogové okno Písmo"
+
+msgid "Font: {font}"
+msgstr "Písmo: {font}"
+
+msgid "Font…"
+msgstr "Písmo…"
+
+msgid "Footer"
+msgstr "Zápatí"
+
+msgid "Footnote and Endnote"
+msgstr "Poznámka pod čarou a vysvětlivka"
+
+msgid "Footnote Reference"
+msgstr "Znak poznámky pod čarou"
+
+msgid "Footnote Text"
+msgstr "Text poznámky pod čarou"
+
+msgid "Footnotes"
+msgstr "Poznámky pod čarou"
+
+msgid "Footnotes and endnotes"
+msgstr "Poznámky pod čarou a vysvětlivky"
+
+msgid "Footnotes to endnotes"
+msgstr "Převést poznámky pod čarou na vysvětlivky"
+
+msgid "For which item:"
+msgstr "Pro kterou položku:"
+
+msgid "Format Page Numbers"
+msgstr "Formát číslování stránek"
+
+msgid "Format Page Numbers…"
+msgstr "Formát číslování stránek…"
+
+msgid "Format Painter"
+msgstr "Štětec formátu"
+
+msgid "Format Shape"
+msgstr "Formát obrazce"
+
+msgid "Format Shape Pane"
+msgstr "Podokno Formát obrazce"
+
+msgid "Format Shape…"
+msgstr "Formátovat obrazec…"
+
+msgid "Formatted"
+msgstr "Formátováno"
+
+msgid "Formatted Text"
+msgstr "Formátovaný text"
+
+msgid "Formatting"
+msgstr "Formátování"
+
+msgid "Formatting at Selection"
+msgstr "Formátování výběru"
+
+msgid "Formatting exceptions"
+msgstr "Výjimky formátování"
+
+msgid "Formatting marks"
+msgstr "Formátovací značky"
+
+msgid "Formatting saved for new documents:"
+msgstr "Formátování uložené pro nové dokumenty:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Porovnává se formátování, změny velikosti písmen, mezery a tabulky; ostatní nastavení jsou zachována pro pozdější využití."
+
+msgid "Formula"
+msgstr "Vzorec"
+
+msgid "Formula:"
+msgstr "Vzorec:"
+
+msgid "Forward"
+msgstr "Vpřed"
+
+msgid "Fraction"
+msgstr "Zlomek"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Zlomky (1/2) jako znaky zlomků (½)"
+
+msgid "Frames and effects"
+msgstr "Rámy a efekty"
+
+msgid "France"
+msgstr "Francie"
+
+msgid "French (France)"
+msgstr "Francouzština (Francie)"
+
+msgid "From Bottom Left Corner"
+msgstr "Z rohu vlevo dole"
+
+msgid "From Bottom Right Corner"
+msgstr "Z rohu vpravo dole"
+
+msgid "From Center"
+msgstr "Ze středu"
+
+msgid "From text:"
+msgstr "Od textu:"
+
+msgid "From Top Left Corner"
+msgstr "Z rohu vlevo nahoře"
+
+msgid "From Top Right Corner"
+msgstr "Z rohu vpravo nahoře"
+
+msgid "from Unicode (hex)"
+msgstr "z Unicode (hex)"
+
+msgid "From {name}"
+msgstr "Od: {name}"
+
+msgid "From:"
+msgstr "Od:"
+
+msgid "Full page of the same label"
+msgstr "Celá stránka stejných štítků"
+
+msgid "Full Saturation 100%"
+msgstr "Plná sytost 100 %"
+
+msgid "Full Screen View"
+msgstr "Zobrazení na celou obrazovku"
+
+msgid "Full\nScreen"
+msgstr "Celá\nobrazovka"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Zajímavost: prázdná stránka je jen koncept, který ještě neví, o čem bude."
+
+msgid "Function"
+msgstr "Funkce"
+
+msgid "Galician"
+msgstr "galicijština"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "gruzínština"
+
+msgid "German (Germany)"
+msgstr "Němčina (Německo)"
+
+msgid "Germany"
+msgstr "Německo"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Načte seznam jazykových balíčků a pak balíček tohoto jazyka, pokud existuje."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Barvy záře"
+
+msgid "Go Back"
+msgstr "Přejít zpět"
+
+msgid "Go To"
+msgstr "Přejít na"
+
+msgid "Go to"
+msgstr "Přejít na"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Přejít na (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Přejít na záznam"
+
+msgid "Go to what:"
+msgstr "Přejít na:"
+
+msgid "Go To…"
+msgstr "Přejít na…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Pryč! Jako by to nikdy nebylo napsáno. Hlavně proto, že teď už není."
+
+msgid "Good afternoon"
+msgstr "Dobré odpoledne"
+
+msgid "Good evening"
+msgstr "Dobrý večer"
+
+msgid "Good morning"
+msgstr "Dobré ráno"
+
+msgid "GOST (name sort)"
+msgstr "GOST (řazení podle autora)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (řazení podle názvu)"
+
+msgid "Grab bag"
+msgstr "Různé"
+
+msgid "Gradient fill"
+msgstr "Přechodová výplň"
+
+msgid "Gradient stops"
+msgstr "Zarážky přechodu"
+
+msgid "Grammar built in"
+msgstr "Gramatika je vestavěná"
+
+msgid "Grave"
+msgstr "Obrácená čárka"
+
+msgid "Gray 0%"
+msgstr "Šedé 0 %"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Větší než"
+
+msgid "Greater than or equal"
+msgstr "Větší nebo rovno"
+
+msgid "Greek"
+msgstr "Řečtina"
+
+msgid "Greek Letters"
+msgstr "Řecká písmena"
+
+msgid "Green:"
+msgstr "Zelená:"
+
+msgid "Greeting Line"
+msgstr "Řádek oslovení"
+
+msgid "Greeting\nLine"
+msgstr "Řádek\noslovení"
+
+msgid "Grid Table 1 Light"
+msgstr "Tabulka s mřížkou 1 – světlá"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Tabulka s mřížkou 4 – modrá"
+
+msgid "Grid Table 4 – Green"
+msgstr "Tabulka s mřížkou 4 – zelená"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Tabulka s mřížkou 4 – oranžová"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Tabulka s mřížkou 4 – fialová"
+
+msgid "Gridlines"
+msgstr "Mřížka"
+
+msgid "Grouping Character Above"
+msgstr "Seskupovací znak nad výrazem"
+
+msgid "Grouping Character Below"
+msgstr "Seskupovací znak pod výrazem"
+
+msgid "Grow Font 1 Point"
+msgstr "Zvětšit písmo o 1 bod"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "V:"
+
+msgid "Hanging Indent"
+msgstr "Předsazení"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Stříška"
+
+msgid "Header"
+msgstr "Záhlaví"
+
+msgid "Header & Footer"
+msgstr "Záhlaví a zápatí"
+
+msgid "Header Row"
+msgstr "Řádek záhlaví"
+
+msgid "Header row"
+msgstr "Řádek záhlaví"
+
+msgid "Header/Footer Position"
+msgstr "Umístění záhlaví a zápatí"
+
+msgid "Headers and footers"
+msgstr "Záhlaví a zápatí"
+
+msgid "Heading"
+msgstr "Nadpis"
+
+msgid "Heading 1"
+msgstr "Nadpis 1"
+
+msgid "Heading 2"
+msgstr "Nadpis 2"
+
+msgid "Heading 3"
+msgstr "Nadpis 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Styly nadpisů (úrovně 1–{n})"
+
+msgid "Heading text"
+msgstr "Text nadpisu"
+
+msgid "Heading {n}"
+msgstr "Nadpis {n}"
+
+msgid "Hebrew"
+msgstr "Hebrejština"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Ahoj! Jsem Nib, váš pomocník při psaní. Nabízím tipy, zkratky a občas i nevyžádaný názor. Mám tu zůstat?"
+
+msgid "Hidden bookmarks"
+msgstr "Skryté záložky"
+
+msgid "Hide Codes"
+msgstr "Skrýt kódy"
+
+msgid "Hide from style lists"
+msgstr "Skrýt v seznamech stylů"
+
+msgid "Hide Ink"
+msgstr "Skrýt rukopis"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Skrýt panel nástrojů Rychlý přístup"
+
+msgid "Hide White Space"
+msgstr "Skrýt prázdné místo"
+
+msgid "Hide\nInk"
+msgstr "Skrýt\nrukopis"
+
+msgid "Hierarchy"
+msgstr "Hierarchie"
+
+msgid "Highlight"
+msgstr "Zvýraznění"
+
+msgid "Highlight Merge Fields"
+msgstr "Zvýraznit slučovací pole"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Zvýraznit\nslučovací pole"
+
+msgid "Highlighter"
+msgstr "Zvýrazňovač"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "Východoarabské číslice"
+
+msgid "Home folder"
+msgstr "Domovská složka"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "SAR Hongkong"
+
+msgid "Horizontal Line"
+msgstr "Vodorovná čára"
+
+msgid "How many pages the whole document has"
+msgstr "Celkový počet stránek v dokumentu"
+
+msgid "How many pages this section has"
+msgstr "Počet stránek v tomto oddílu"
+
+msgid "How many words the document holds"
+msgstr "Počet slov v dokumentu"
+
+msgid "HTML Format"
+msgstr "Formát HTML"
+
+msgid "Hue:"
+msgstr "Odstín:"
+
+msgid "Hungarian"
+msgstr "maďarština"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Soubory Hunspell .aff a .dic z této složky (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) mají přednost před systémovými."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hyperbolický kosekans"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hyperbolický kosinus"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hyperbolický kotangens"
+
+msgid "Hyperbolic Functions"
+msgstr "Hyperbolické funkce"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hyperbolický sekans"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hyperbolický sinus"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hyperbolický tangens"
+
+msgid "Hyperlink"
+msgstr "Hypertextový odkaz"
+
+msgid "Hyphenate at:"
+msgstr "Rozdělit slovo v místě:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Dělit slova psaná VELKÝMI PÍSMENY"
+
+msgid "Hyphenation Options…"
+msgstr "Možnosti dělení slov…"
+
+msgid "Hyphenation zone:"
+msgstr "Pásmo dělení slov:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Spojovníky (--) jako pomlčky (—)"
+
+msgid "Hypotenuse"
+msgstr "Přepona"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Slibuju, že je to uložené. Kontroloval jsem to. Dvakrát."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Napsal bych něco sám, ale jsem jen hrot bez inkoustu. Hodně špičatý, málo platný."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "islandština"
+
+msgid "Icon Color"
+msgstr "Barva ikony"
+
+msgid "Icons"
+msgstr "Ikony"
+
+msgid "Identity Matrices"
+msgstr "Jednotkové matice"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Pokud…Pak…Jinak"
+
+msgid "If…Then…Else…"
+msgstr "Pokud…Pak…Jinak…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Ignorovat interpunkční znaky"
+
+msgid "Ignore web and file addresses"
+msgstr "Ignorovat webové adresy a cesty k souborům"
+
+msgid "Ignore white-space characters"
+msgstr "Ignorovat prázdné znaky"
+
+msgid "Ignore words in capitals"
+msgstr "Ignorovat slova psaná velkými písmeny"
+
+msgid "Ignore words with numbers"
+msgstr "Ignorovat slova obsahující číslice"
+
+msgid "Illustrations"
+msgstr "Ilustrace"
+
+msgid "Immersive"
+msgstr "Asistivní čtení"
+
+msgid "Immersive Reader"
+msgstr "Asistivní čtečka"
+
+msgid "Immersive\nReader"
+msgstr "Asistivní\nčtečka"
+
+msgid "Imported 1 source"
+msgstr "Importován 1 pramen"
+
+msgid "Imported {n} sources"
+msgstr "Importované prameny: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Ve Výchozích aplikacích vyberte WordCraft pro typy dokumentů, které má otevírat."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "V rovnicích se název napsaný za zpětným lomítkem nahradí příslušným symbolem."
+
+msgid "In Front of Text"
+msgstr "Před textem"
+
+msgid "In Line with Text"
+msgstr "V řádku s textem"
+
+msgid "In margin"
+msgstr "Na okraji"
+
+msgid "In the margin"
+msgstr "Na okraji"
+
+msgid "Include label and number"
+msgstr "Zahrnout popisek a číslo"
+
+msgid "Include level number from:"
+msgstr "Zahrnout číslo úrovně z:"
+
+msgid "Include page numbers"
+msgstr "Zahrnout čísla stránek"
+
+msgid "Increase Indent"
+msgstr "Zvětšit odsazení"
+
+msgid "Indent"
+msgstr "Odsazení"
+
+msgid "Indent from left:"
+msgstr "Odsazení zleva:"
+
+msgid "Indentation"
+msgstr "Odsazení"
+
+msgid "Indented"
+msgstr "Odsazený"
+
+msgid "Indents"
+msgstr "Odsazení"
+
+msgid "Indents and Spacing"
+msgstr "Odsazení a mezery"
+
+msgid "Index and Tables"
+msgstr "Rejstřík a seznamy"
+
+msgid "Index Heading"
+msgstr "Nadpis rejstříku"
+
+msgid "Index {n}"
+msgstr "Rejstřík {n}"
+
+msgid "India"
+msgstr "Indie"
+
+msgid "Indonesian"
+msgstr "Indonéština"
+
+msgid "Initial column width:"
+msgstr "Počáteční šířka sloupce:"
+
+msgid "Initials:"
+msgstr "Iniciály:"
+
+msgid "Ink"
+msgstr "Rukopis"
+
+msgid "Ink Replay"
+msgstr "Přehrát rukopis"
+
+msgid "Ink to Shape"
+msgstr "Rukopis na tvar"
+
+msgid "Ink to\nMath"
+msgstr "Rukopis na\nrovnici"
+
+msgid "Ink to\nShape"
+msgstr "Rukopis na\ntvar"
+
+msgid "Ink\nReplay"
+msgstr "Přehrát\nrukopis"
+
+msgid "Inline"
+msgstr "V řádku"
+
+msgid "Input Format"
+msgstr "Formát vstupu"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Vložit novou rovnici (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Vložit nad"
+
+msgid "Insert Below"
+msgstr "Vložit pod"
+
+msgid "Insert Caption"
+msgstr "Vložit titulek"
+
+msgid "Insert Caption…"
+msgstr "Vložit titulek…"
+
+msgid "Insert Chart"
+msgstr "Vložit graf"
+
+msgid "Insert Citation"
+msgstr "Vložit citaci"
+
+msgid "Insert Columns to the Left"
+msgstr "Vložit sloupce vlevo"
+
+msgid "Insert Columns to the Right"
+msgstr "Vložit sloupce vpravo"
+
+msgid "Insert Date Field"
+msgstr "Vložit pole data"
+
+msgid "Insert Diagram"
+msgstr "Vložit diagram"
+
+msgid "Insert Endnote"
+msgstr "Vložit vysvětlivku"
+
+msgid "Insert Footnote"
+msgstr "Vložit poznámku pod čarou"
+
+msgid "Insert Hyperlink"
+msgstr "Vložit hypertextový odkaz"
+
+msgid "Insert Index"
+msgstr "Vložit rejstřík"
+
+msgid "Insert Left"
+msgstr "Vložit vlevo"
+
+msgid "Insert Merge Field"
+msgstr "Vložit slučovací pole"
+
+msgid "Insert Merge\nField"
+msgstr "Vložit slučovací\npole"
+
+msgid "Insert New Equation"
+msgstr "Vložit novou rovnici"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Vloží jeden nebo druhý text v závislosti na hodnotě pole."
+
+msgid "Insert Page Field"
+msgstr "Vložit pole čísla stránky"
+
+msgid "Insert reference to:"
+msgstr "Vložit odkaz na:"
+
+msgid "Insert Right"
+msgstr "Vložit vpravo"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Vložit řádek nebo sloupec kliknutím"
+
+msgid "Insert Rows Above"
+msgstr "Vložit řádky nad"
+
+msgid "Insert Rows Below"
+msgstr "Vložit řádky pod"
+
+msgid "Insert Shapes"
+msgstr "Vložit tvary"
+
+msgid "Insert SmartArt"
+msgstr "Vložit SmartArt"
+
+msgid "Insert Spike"
+msgstr "Vložit ze sběrače"
+
+msgid "Insert Structure"
+msgstr "Vložit strukturu"
+
+msgid "Insert Symbol"
+msgstr "Vložit symbol"
+
+msgid "Insert Table"
+msgstr "Vložit tabulku"
+
+msgid "Insert Table of Authorities"
+msgstr "Vložit seznam citovaných předpisů"
+
+msgid "Insert Table of Figures"
+msgstr "Vložit seznam obrázků"
+
+msgid "Insert Table…"
+msgstr "Vložit tabulku…"
+
+msgid "Insert Time Field"
+msgstr "Vložit pole času"
+
+msgid "Insert\nAbove"
+msgstr "Vložit\nnad"
+
+msgid "Insert\nCaption"
+msgstr "Vložit\ntitulek"
+
+msgid "Insert\nCitation"
+msgstr "Vložit\ncitaci"
+
+msgid "Insert\nFootnote"
+msgstr "Vložit poznámku\npod čarou"
+
+msgid "Insertions and Deletions"
+msgstr "Vložení a odstranění"
+
+msgid "Insertions:"
+msgstr "Vložení:"
+
+msgid "Inside Borders"
+msgstr "Vnitřní ohraničení"
+
+msgid "Inside Horizontal Border"
+msgstr "Vnitřní vodorovné ohraničení"
+
+msgid "Inside Vertical Border"
+msgstr "Vnitřní svislé ohraničení"
+
+msgid "Inside:"
+msgstr "Uvnitř:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Zkontrolovat styly výběru"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Nainstalovat pravopis ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Instituce"
+
+msgid "Integral"
+msgstr "Integrál"
+
+msgid "Integral of e^(−x²)"
+msgstr "Integrál e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Integrál s mezemi"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integrál s mezemi nad a pod"
+
+msgid "Integrals"
+msgstr "Integrály"
+
+msgid "Intense Emphasis"
+msgstr "Výrazné zdůraznění"
+
+msgid "Intense Quote"
+msgstr "Výrazná citace"
+
+msgid "Intense Reference"
+msgstr "Výrazný odkaz"
+
+msgid "Interface language:"
+msgstr "Jazyk rozhraní:"
+
+msgid "Interface size:"
+msgstr "Velikost rozhraní:"
+
+msgid "Interface theme:"
+msgstr "Motiv rozhraní:"
+
+msgid "Interface\nTheme"
+msgstr "Motiv\nrozhraní"
+
+msgid "Internet addresses as links"
+msgstr "Internetové adresy jako odkazy"
+
+msgid "Intersection with Limits"
+msgstr "Průnik s mezemi"
+
+msgid "Intersection with Lower Limit"
+msgstr "Průnik s dolní mezí"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Průnik s mezemi v dolním a horním indexu"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Arkuskosekans"
+
+msgid "Inverse Cosine Function"
+msgstr "Arkuskosinus"
+
+msgid "Inverse Cotangent Function"
+msgstr "Arkuskotangens"
+
+msgid "Inverse Functions"
+msgstr "Inverzní funkce"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Inverzní hyperbolický kosekans"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Inverzní hyperbolický kosinus"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Inverzní hyperbolický kotangens"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Inverzní hyperbolické funkce"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Inverzní hyperbolický sekans"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Inverzní hyperbolický sinus"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Inverzní hyperbolický tangens"
+
+msgid "Inverse Secant Function"
+msgstr "Arkussekans"
+
+msgid "Inverse Sine Function"
+msgstr "Arkussinus"
+
+msgid "Inverse Tangent Function"
+msgstr "Arkustangens"
+
+msgid "Ionosphere"
+msgstr "Ionosféra"
+
+msgid "Iraq"
+msgstr "Irák"
+
+msgid "Ireland"
+msgstr "Irsko"
+
+msgid "Irish"
+msgstr "irština"
+
+msgid "Is blank"
+msgstr "Je prázdné"
+
+msgid "Is not blank"
+msgstr "Není prázdné"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (autor–datum)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (číselný)"
+
+msgid "Issue"
+msgstr "Číslo"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Vypadá to, že píšete dopis. Chcete k němu obálku, nebo šablonu dopisu, ze které začnete?"
+
+msgid "Italy"
+msgstr "Itálie"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Jeho slovník se nepodařilo přečíst: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamajka"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Připojte se ke komunitě ArtCraft na Discordu"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Připojte se k nám na Discordu: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordánsko"
+
+msgid "Journal"
+msgstr "Časopis"
+
+msgid "Journal article"
+msgstr "Článek v odborném časopise"
+
+msgid "Justification of a display equation"
+msgstr "Zarovnání rovnice na samostatném řádku"
+
+msgid "Justified"
+msgstr "Do bloku"
+
+msgid "Kazakhstan"
+msgstr "Kazachstán"
+
+msgid "Keep Lines Together"
+msgstr "Svázat řádky"
+
+msgid "Keep lines together"
+msgstr "Svázat řádky"
+
+msgid "Keep me around"
+msgstr "Zůstaň tu"
+
+msgid "Keep Text Only"
+msgstr "Zachovat pouze text"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Heslo si bezpečně uložte: bez něj dokument nikdo (včetně aplikace WordCraft) neotevře. Chcete-li heslo odebrat, ponechte obě pole prázdná."
+
+msgid "Keep with Next"
+msgstr "Svázat s následujícím"
+
+msgid "Keep with next"
+msgstr "Svázat s následujícím"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Zachová písma a formátování zkopírovaného textu."
+
+msgid "Kerning for fonts:"
+msgstr "Vyrovnání písma (kerning):"
+
+msgid "Keyboard shortcuts:"
+msgstr "Klávesové zkratky:"
+
+msgid "Keys for this command:"
+msgstr "Klávesy pro tento příkaz:"
+
+msgid "Kuwait"
+msgstr "Kuvajt"
+
+msgid "Label changes with:"
+msgstr "Označit změny jménem:"
+
+msgid "Label:"
+msgstr "Popisek:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Předvolby jazyka…"
+
+msgid "Large\nOperator"
+msgstr "Velký\noperátor"
+
+msgid "Largest Only"
+msgstr "Pouze největší strana"
+
+msgid "Lasso Select"
+msgstr "Výběr lasem"
+
+msgid "Last Column"
+msgstr "Poslední sloupec"
+
+msgid "Last Name"
+msgstr "Příjmení"
+
+msgid "Last Record"
+msgstr "Poslední záznam"
+
+msgid "Last, First; Last, First"
+msgstr "Příjmení, Jméno; Příjmení, Jméno"
+
+msgid "Latin text font:"
+msgstr "Písmo pro latinkový text:"
+
+msgid "Latvian"
+msgstr "lotyština"
+
+msgid "Layout Summary"
+msgstr "Přehled rozvržení"
+
+msgid "Layouts"
+msgstr "Rozvržení"
+
+msgid "Leader"
+msgstr "Vodicí znak"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Vynechá příjemce ze slučování, pokud má pole tuto hodnotu."
+
+msgid "Leave Equation"
+msgstr "Opustit rovnici"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Při ukládání vynechat datum a čas komentářů a sledovaných změn"
+
+msgid "Leave the equation (Esc)"
+msgstr "Opustit rovnici (Esc)"
+
+msgid "leave the equation first"
+msgstr "nejprve opusťte rovnici"
+
+msgid "Leave the label out of the caption"
+msgstr "Vynechat popisek z titulku"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "Left Arrow with Text Above"
+msgstr "Šipka vlevo s textem nad"
+
+msgid "Left Arrow with Text Below"
+msgstr "Šipka vlevo s textem pod"
+
+msgid "Left Border"
+msgstr "Levé ohraničení"
+
+msgid "Left border"
+msgstr "Levé ohraničení"
+
+msgid "Left Bracket Twice"
+msgstr "Dvě levé hranaté závorky"
+
+msgid "Left indent"
+msgstr "Odsazení zleva"
+
+msgid "Left Margin"
+msgstr "Levý okraj"
+
+msgid "Left Only"
+msgstr "Pouze vlevo"
+
+msgid "Left Right Arrow Above"
+msgstr "Obousměrná šipka nad výrazem"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Obousměrná šipka s textem nad"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Obousměrná šipka s textem pod"
+
+msgid "Left Subscript-Superscript"
+msgstr "Levý dolní a horní index"
+
+msgid "Left-to-right"
+msgstr "Zleva doprava"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Směr textu zleva doprava"
+
+msgid "Leftwards Arrow Above"
+msgstr "Šipka vlevo nad výrazem"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Harpuna vlevo nad výrazem"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "Právnické číslování"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Less Contrast −20%"
+msgstr "Nižší kontrast −20 %"
+
+msgid "Less than"
+msgstr "Menší než"
+
+msgid "Less than or equal"
+msgstr "Menší nebo rovno"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Dopis"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "Abecední nadpisy"
+
+msgid "Letter template"
+msgstr "Šablona dopisu"
+
+msgid "Letter-Like Symbols"
+msgstr "Symboly podobné písmenům"
+
+msgid "Letters"
+msgstr "Dopisy"
+
+msgid "Level 5"
+msgstr "Úroveň 5"
+
+msgid "Level 6"
+msgstr "Úroveň 6"
+
+msgid "Level 7"
+msgstr "Úroveň 7"
+
+msgid "Level 8"
+msgstr "Úroveň 8"
+
+msgid "Level 9"
+msgstr "Úroveň 9"
+
+msgid "Level {n}"
+msgstr "Úroveň {n}"
+
+msgid "Levels:"
+msgstr "Úrovně:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Lichtenštejnsko"
+
+msgid "Light Variations"
+msgstr "Světlé varianty"
+
+msgid "Light with Outline"
+msgstr "Světlý s obrysem"
+
+msgid "Limit"
+msgstr "Limita"
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "Limita a\nlogaritmus"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Omezit počet po sobě jdoucích rozdělení:"
+
+msgid "Limit Example"
+msgstr "Limita (příklad)"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Omezit formátování na vybrané styly"
+
+msgid "Line and Page Breaks"
+msgstr "Tok textu"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Řádkování a mezery mezi odstavci"
+
+msgid "Line between"
+msgstr "Čára mezi sloupci"
+
+msgid "Line Break"
+msgstr "Zalomení řádku"
+
+msgid "Line breaking"
+msgstr "Zalamování řádků"
+
+msgid "Line End"
+msgstr "Konec řádku"
+
+msgid "Line Number"
+msgstr "Číslo řádku"
+
+msgid "Line Numbering Options…"
+msgstr "Možnosti číslování řádků…"
+
+msgid "Line Numbers"
+msgstr "Čísla řádků"
+
+msgid "Line Spacing"
+msgstr "Řádkování"
+
+msgid "Line Spacing Options…"
+msgstr "Možnosti řádkování…"
+
+msgid "Line spacing:"
+msgstr "Řádkování:"
+
+msgid "Line Start"
+msgstr "Začátek řádku"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Lineární úhlopříčný – vlevo dole do vpravo nahoře"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Lineární úhlopříčný – vpravo dole do vlevo nahoře"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Lineární úhlopříčný – vlevo nahoře do vpravo dole"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Lineární úhlopříčný – vpravo nahoře do vlevo dole"
+
+msgid "Linear Down"
+msgstr "Lineární dolů"
+
+msgid "Linear Fraction"
+msgstr "Lineární zlomek"
+
+msgid "Linear Left"
+msgstr "Lineární doleva"
+
+msgid "Linear Right"
+msgstr "Lineární doprava"
+
+msgid "Linear Up"
+msgstr "Lineární nahoru"
+
+msgid "Lines and characters"
+msgstr "Řádky a znaky"
+
+msgid "Lines only"
+msgstr "Pouze řádky"
+
+msgid "Lines per page:"
+msgstr "Řádků na stránku:"
+
+msgid "Lines to drop:"
+msgstr "Výška v řádcích:"
+
+msgid "Link entries to their headings"
+msgstr "Propojit položky s nadpisy"
+
+msgid "Link level to style:"
+msgstr "Propojit úroveň se stylem:"
+
+msgid "Link to Previous"
+msgstr "Navázat na předchozí"
+
+msgid "Link to:"
+msgstr "Odkaz na:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Propojený styl (odstavec a znak)"
+
+msgid "Links and References"
+msgstr "Odkazy a reference"
+
+msgid "Link…"
+msgstr "Odkaz…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Definice seznamu"
+
+msgid "List entries"
+msgstr "Položky seznamu"
+
+msgid "List Paragraph"
+msgstr "Odstavec se seznamem"
+
+msgid "List Table 3 – Blue"
+msgstr "Tabulka se seznamem 3 – modrá"
+
+msgid "List Table 3 – Green"
+msgstr "Tabulka se seznamem 3 – zelená"
+
+msgid "List Table 3 – Orange"
+msgstr "Tabulka se seznamem 3 – oranžová"
+
+msgid "List Table 3 – Purple"
+msgstr "Tabulka se seznamem 3 – fialová"
+
+msgid "Lit from Bottom"
+msgstr "Osvětlený zdola"
+
+msgid "Lit from Top"
+msgstr "Osvětlený shora"
+
+msgid "Lithuanian"
+msgstr "litevština"
+
+msgid "Load System Installed Fonts…"
+msgstr "Načíst nainstalovaná systémová písma…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Načteno systémových písem: {count}."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Váš prohlížeč nepodporuje přístup k místním písmům."
+
+msgid "Local font access was denied."
+msgstr "Přístup k místním písmům byl odepřen."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "Místní obnovení není k dispozici nebo se ještě načítá."
+
+msgid "Location: {path}"
+msgstr "Umístění: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Zamknout poměr stran"
+
+msgid "Lock Fields"
+msgstr "Zamknout pole"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr "Logaritmus"
+
+msgid "Logarithm with Base"
+msgstr "Logaritmus se základem"
+
+msgid "Logical AND"
+msgstr "Logické A"
+
+msgid "Logical AND with Limits"
+msgstr "Logické A s mezemi"
+
+msgid "Logical OR"
+msgstr "Logické NEBO"
+
+msgid "Logical OR with Limits"
+msgstr "Logické NEBO s mezemi"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: protože skutečná slova ještě sedí v kavárně."
+
+msgid "Lum:"
+msgstr "Jas:"
+
+msgid "Luxembourg"
+msgstr "Lucembursko"
+
+msgid "Macao SAR"
+msgstr "SAR Macao"
+
+msgid "Macedonian"
+msgstr "makedonština"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Makra"
+
+msgid "Made from the author and year when empty"
+msgstr "Pokud zůstane pole prázdné, vytvoří se z autora a roku"
+
+msgid "Magazine or newspaper article"
+msgstr "Článek v časopise nebo novinách"
+
+msgid "Mail Merge"
+msgstr "Hromadná korespondence"
+
+msgid "Mailings"
+msgstr "Korespondence"
+
+msgid "Main entry:"
+msgstr "Hlavní položka:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Nastavit WordCraft jako výchozí pro dokumenty Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Zvětší nebo zmenší pás karet, nabídky a dialogová okna. Automaticky sleduje škálování displeje v systému; 100% je jeden pixel obrazovky na bod. Lupa dokumentu se nastavuje zvlášť."
+
+msgid "Malaysia"
+msgstr "Malajsie"
+
+msgid "Manage Sources"
+msgstr "Spravovat prameny"
+
+msgid "Manage Styles"
+msgstr "Spravovat styly"
+
+msgid "Manage Styles…"
+msgstr "Spravovat styly…"
+
+msgid "Manual Hyphenation"
+msgstr "Ruční dělení slov"
+
+msgid "Manual hyphenation is complete."
+msgstr "Ruční dělení slov je dokončeno."
+
+msgid "Manual Line Break"
+msgstr "Ruční zalomení řádku"
+
+msgid "Manual Page Break"
+msgstr "Ruční konec stránky"
+
+msgid "Manual…"
+msgstr "Ručně…"
+
+msgid "Many pages"
+msgstr "Více stránek"
+
+msgid "Mark"
+msgstr "Označit"
+
+msgid "Mark All"
+msgstr "Označit vše"
+
+msgid "Mark as decorative"
+msgstr "Označit jako dekorativní"
+
+msgid "Mark Citation"
+msgstr "Označit citaci"
+
+msgid "Mark Entry"
+msgstr "Označit položku"
+
+msgid "Mark Entry…"
+msgstr "Označit položku…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Označovat mluvnické chyby při psaní"
+
+msgid "Mark Index Entry"
+msgstr "Označit položku rejstříku"
+
+msgid "Mark selected text as:"
+msgstr "Označit vybraný text jako:"
+
+msgid "Mark\nCitation"
+msgstr "Označit\ncitaci"
+
+msgid "Mark\nEntry"
+msgstr "Označit\npoložku"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Rozlišovat malá a velká písmena"
+
+msgid "Match Fields"
+msgstr "Přiřadit pole"
+
+msgid "Match prefix"
+msgstr "Shoda předpony"
+
+msgid "Match suffix"
+msgstr "Shoda přípony"
+
+msgid "Matches: {count}"
+msgstr "Shody: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Automatické opravy matematiky"
+
+msgid "Matrices with Brackets"
+msgstr "Matice v závorkách"
+
+msgid "Matrix"
+msgstr "Matice"
+
+msgid "Maximum Example"
+msgstr "Maximum (příklad)"
+
+msgid "Measured By"
+msgstr "Měřeno pomocí"
+
+msgid "Measurement units:"
+msgstr "Jednotky měření:"
+
+msgid "Merge cells before split"
+msgstr "Před rozdělením buňky sloučit"
+
+msgid "Merge Formatting"
+msgstr "Sloučit formátování"
+
+msgid "Merge Record #"
+msgstr "Číslo slučovaného záznamu"
+
+msgid "Mesosphere"
+msgstr "Mezosféra"
+
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgid "Midline Dots"
+msgstr "Tečky ve střední výšce"
+
+msgid "Minus Equal"
+msgstr "Minus a rovná se"
+
+msgid "Mirror indents"
+msgstr "Zrcadlové odsazení"
+
+msgid "Mirror margins"
+msgstr "Zrcadlové okraje"
+
+msgid "Mirrored"
+msgstr "Zrcadlové"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team a přispěvatelé projektu WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Střední"
+
+msgid "Modify Style"
+msgstr "Upravit styl"
+
+msgid "Modify Table Style"
+msgstr "Upravit styl tabulky"
+
+msgid "Modify Table Style…"
+msgstr "Upravit styl tabulky…"
+
+msgid "Modify…"
+msgstr "Upravit…"
+
+msgid "Mon"
+msgstr "Po"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Montenegro"
+msgstr "Černá Hora"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "More >>"
+msgstr "Více >>"
+
+msgid "More Colors…"
+msgstr "Další barvy…"
+
+msgid "More Columns…"
+msgstr "Další sloupce…"
+
+msgid "More Commands…"
+msgstr "Další příkazy…"
+
+msgid "More Contrast +20%"
+msgstr "Vyšší kontrast +20 %"
+
+msgid "More Gradients…"
+msgstr "Další přechody…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Další velikosti papíru…"
+
+msgid "More Symbols…"
+msgstr "Další symboly…"
+
+msgid "More tabs"
+msgstr "Další karty"
+
+msgid "More templates →"
+msgstr "Další šablony →"
+
+msgid "More Underlines…"
+msgstr "Další podtržení…"
+
+msgid "Morocco"
+msgstr "Maroko"
+
+msgid "Move in Equation"
+msgstr "Pohyb v rovnici"
+
+msgid "Move or Resize"
+msgstr "Přesunout nebo změnit velikost"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Přesunout odstavec dolů"
+
+msgid "Move Paragraph Up"
+msgstr "Přesunout odstavec nahoru"
+
+msgid "Move Past Citation"
+msgstr "Přejít za citaci"
+
+msgid "Move Past\nCitation"
+msgstr "Přejít za\ncitaci"
+
+msgid "Move Selected Ink"
+msgstr "Přesunout vybraný rukopis"
+
+msgid "Move Table by Dragging"
+msgstr "Přesunout tabulku přetažením"
+
+msgid "Move with Text"
+msgstr "Přesouvat s textem"
+
+msgid "Moved from"
+msgstr "Přesunuto odtud"
+
+msgid "Moved from:"
+msgstr "Přesunuto odtud:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Přesouvané objekty se přichytávají k okrajům a středu stránky, k okrajům textu a k dalším objektům. Podržením klávesy Alt je přesunete volně."
+
+msgid "Moved to"
+msgstr "Přesunuto sem"
+
+msgid "Moved to:"
+msgstr "Přesunuto sem:"
+
+msgid "Moves"
+msgstr "Přesuny"
+
+msgid "Mozambique"
+msgstr "Mosambik"
+
+msgid "Multilevel List"
+msgstr "Víceúrovňový seznam"
+
+msgid "Multilevel List Library"
+msgstr "Knihovna víceúrovňových seznamů"
+
+msgid "Multiple Pages"
+msgstr "Více stránek"
+
+msgid "Mute agent messages"
+msgstr "Ztlumit zprávy agentů"
+
+msgid "Muted 50%"
+msgstr "Tlumené 50 %"
+
+msgid "My list has"
+msgstr "Můj seznam má"
+
+msgid "Name of the file this document is saved as"
+msgstr "Název souboru dokumentu"
+
+msgid "Narrow"
+msgstr "Úzká"
+
+msgid "Narrow  {size} all"
+msgstr "Úzké  {size} všude"
+
+msgid "Natural Logarithm"
+msgstr "Přirozený logaritmus"
+
+msgid "Nature"
+msgstr "Příroda"
+
+msgid "Navigation Pane"
+msgstr "Navigační podokno"
+
+msgid "Negated Relations"
+msgstr "Negované relace"
+
+msgid "Netherlands"
+msgstr "Nizozemsko"
+
+msgid "New blank documents are written in this language"
+msgstr "Nové prázdné dokumenty se píší v tomto jazyce"
+
+msgid "New Comment"
+msgstr "Nový komentář"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Nové komentáře a sledované změny se zaznamenávají pod tímto jménem a iniciálami."
+
+msgid "New Documents Based on This Template"
+msgstr "Nové dokumenty založené na této šabloně"
+
+msgid "New documents based on this template"
+msgstr "Nové dokumenty založené na této šabloně"
+
+msgid "New documents will use this font."
+msgstr "Nové dokumenty budou používat toto písmo."
+
+msgid "New documents will use this page setup."
+msgstr "Nové dokumenty budou používat toto nastavení vzhledu stránky."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Nové dokumenty budou používat toto formátování odstavce."
+
+msgid "New documents will use this style."
+msgstr "Nové dokumenty budou používat tento styl."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Nové dokumenty budou používat vestavěné formátování WordCraftu."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Nové dokumenty budou používat vestavěné formátování WordCraftu. Uložená výchozí nastavení už nepůjde vrátit zpět. Obnovit?"
+
+msgid "New Drawing Canvas"
+msgstr "Nové kreslicí plátno"
+
+msgid "New Entry"
+msgstr "Nová položka"
+
+msgid "New Label"
+msgstr "Nový popisek"
+
+msgid "New Label…"
+msgstr "Nový popisek…"
+
+msgid "New Paragraph"
+msgstr "Nový odstavec"
+
+msgid "New shortcut:"
+msgstr "Nová klávesová zkratka:"
+
+msgid "New Tab"
+msgstr "Nová karta"
+
+msgid "New Table Style"
+msgstr "Nový styl tabulky"
+
+msgid "New Table Style…"
+msgstr "Nový styl tabulky…"
+
+msgid "New word"
+msgstr "Nové slovo"
+
+msgid "New Zealand"
+msgstr "Nový Zéland"
+
+msgid "New\nComment"
+msgstr "Nový\nkomentář"
+
+msgid "New\nWindow"
+msgstr "Nové\nokno"
+
+msgid "Next Comment"
+msgstr "Další komentář"
+
+msgid "Next Field"
+msgstr "Další pole"
+
+msgid "Next Footnote"
+msgstr "Další poznámka pod čarou"
+
+msgid "Next Record"
+msgstr "Další záznam"
+
+msgid "Next Section"
+msgstr "Další oddíl"
+
+msgid "Next Sentence"
+msgstr "Další věta"
+
+msgid "Next sentence"
+msgstr "Další věta"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib se vznáší nad oknem s tipy a občasnou poznámkou."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, váš asistent. Přetažením přesunete; pravým tlačítkem otevřete možnosti."
+
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+msgid "No accessibility issues found."
+msgstr "Nebyly nalezeny žádné problémy s přístupností."
+
+msgid "No Border"
+msgstr "Bez ohraničení"
+
+msgid "No changes (read only)"
+msgstr "Žádné změny (jen pro čtení)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Tato kopie neobsahuje údaje o přispěvatelích."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Není otevřen žádný dokument. Nejprve dokument vytvořte nebo otevřete."
+
+msgid "no equation at the caret"
+msgstr "u kurzoru není žádná rovnice"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Nebyly nalezeny žádné chyby: všechna slučovací pole jsou v seznamu příjemců."
+
+msgid "No Fill"
+msgstr "Bez výplně"
+
+msgid "No fill"
+msgstr "Bez výplně"
+
+msgid "No Glow"
+msgstr "Bez záře"
+
+msgid "No Gradient"
+msgstr "Bez přechodu"
+
+msgid "No grid"
+msgstr "Bez mřížky"
+
+msgid "No header row"
+msgstr "Bez řádku záhlaví"
+
+msgid "No icons match your search."
+msgstr "Vašemu hledání neodpovídají žádné ikony."
+
+msgid "No items to show."
+msgstr "Žádné položky k zobrazení."
+
+msgid "No language matches your search."
+msgstr "Vašemu hledání neodpovídá žádný jazyk."
+
+msgid "No languages to show yet."
+msgstr "Zatím nejsou k zobrazení žádné jazyky."
+
+msgid "No Markup"
+msgstr "Bez revizí"
+
+msgid "No model credits were built into this copy."
+msgstr "Tato kopie neobsahuje uvedení modelů."
+
+msgid "No new sources in that file"
+msgstr "V tom souboru nejsou žádné nové prameny"
+
+msgid "No Outline"
+msgstr "Bez obrysu"
+
+msgid "No Paragraph Space"
+msgstr "Bez mezer mezi odstavci"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Nebyly nalezeny žádné tiskárny. Nastavte systémovou tiskárnu nebo exportujte PDF."
+
+msgid "No recovery copies."
+msgstr "Žádné kopie pro obnovení."
+
+msgid "No Reflection"
+msgstr "Bez odrazu"
+
+msgid "No Scaling"
+msgstr "Bez změny měřítka"
+
+msgid "No Shadow"
+msgstr "Bez stínu"
+
+msgid "No Soft Edges"
+msgstr "Bez měkkých okrajů"
+
+msgid "No sources yet."
+msgstr "Zatím žádné prameny."
+
+msgid "No Spacing"
+msgstr "Bez mezer"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Pro jazyk {language} není nainstalován žádný pravopisný slovník, proto se nekontroluje. WordCraft hledá slovník Hunspell {name} ve složce WORDCRAFT_DICTIONARIES a na obvyklých místech v systému."
+
+msgid "No templates match your search."
+msgstr "Hledání neodpovídají žádné šablony."
+
+msgid "No Transform"
+msgstr "Bez transformace"
+
+msgid "No watermark"
+msgstr "Bez vodoznaku"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Zatím žádná slova. Sem se ukládají slova přidaná příkazem Přidat do slovníku u chybně napsaného slova."
+
+msgid "No-Width Non Break"
+msgstr "Nezlomitelný znak nulové šířky"
+
+msgid "No-Width Optional Break"
+msgstr "Podmíněné zalomení nulové šířky"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Nezlomitelný spojovník"
+
+msgid "Normal  {size} all"
+msgstr "Normální  {size} všude"
+
+msgid "Normal Indent"
+msgstr "Normální s odsazením"
+
+msgid "Normal probability density"
+msgstr "Hustota pravděpodobnosti normálního rozdělení"
+
+msgid "Normal speed"
+msgstr "Normální rychlost"
+
+msgid "Normal Style"
+msgstr "Normální styl"
+
+msgid "Normal Table"
+msgstr "Normální tabulka"
+
+msgid "Normal Text"
+msgstr "Normální text"
+
+msgid "Normal Word Document"
+msgstr "Normální dokument Word"
+
+msgid "North"
+msgstr "Sever"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norština (Bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "norština (nynorsk)"
+
+msgid "Not"
+msgstr "Negace"
+
+msgid "Not available right now"
+msgstr "Momentálně nedostupné"
+
+msgid "Not available yet"
+msgstr "Zatím není k dispozici"
+
+msgid "not editing an equation"
+msgstr "neupravuje se žádná rovnice"
+
+msgid "Not equal to"
+msgstr "Nerovná se"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Nepropojeno: klikněte na textové pole"
+
+msgid "Not now"
+msgstr "Teď ne"
+
+msgid "Not saved"
+msgstr "Neuloženo"
+
+msgid "Not saved yet"
+msgstr "Dosud neuloženo"
+
+msgid "Not set"
+msgstr "Nenastaveno"
+
+msgid "Not set: the system's usual places"
+msgstr "Nenastaveno: obvyklá umístění v systému"
+
+msgid "Not used by any command"
+msgstr "Nepoužíváno žádným příkazem"
+
+msgid "Not {name}"
+msgstr "Bez: {name}"
+
+msgid "Nothing"
+msgstr "Nic"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Zatím zde nic není. Položky, které zkopírujete nebo vyjmete, se zobrazí zde."
+
+msgid "nothing is selected"
+msgstr "nic není vybráno"
+
+msgid "Nothing of this type in the document."
+msgstr "V dokumentu není nic tohoto typu."
+
+msgid "Now used by {command}"
+msgstr "Nyní používá: {command}"
+
+msgid "Nudge"
+msgstr "Posunout o krok"
+
+msgid "Num Occurrences"
+msgstr "Počet výskytů"
+
+msgid "Number alignment:"
+msgstr "Zarovnání čísel:"
+
+msgid "Number format"
+msgstr "Formát čísla"
+
+msgid "Number of columns:"
+msgstr "Počet sloupců:"
+
+msgid "Number of rows:"
+msgstr "Počet řádků:"
+
+msgid "Number of the page the field sits on"
+msgstr "Číslo aktuální stránky"
+
+msgid "Number of the section the field sits in"
+msgstr "Číslo aktuálního oddílu"
+
+msgid "Number only, without the label's words"
+msgstr "Jen číslo, bez slov popisku"
+
+msgid "Number style for this level:"
+msgstr "Styl číslování pro tuto úroveň:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Očíslovat rovnici; číslo se umístí k pravému okraji (nebo napište # a poté číslo)"
+
+msgid "Numbering"
+msgstr "Číslování"
+
+msgid "Numbering:"
+msgstr "Číslování:"
+
+msgid "Numbering…"
+msgstr "Číslování…"
+
+msgid "Numerals"
+msgstr "Číslice"
+
+msgid "Numerals:"
+msgstr "Číslice:"
+
+msgid "n×n Identity Matrix"
+msgstr "Jednotková matice n×n"
+
+msgid "n×n Matrix"
+msgstr "Matice n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Liché pruhované sloupce"
+
+msgid "Odd Banded Rows"
+msgstr "Liché pruhované řádky"
+
+msgid "Odd Page"
+msgstr "Lichá stránka"
+
+msgid "Office"
+msgstr "Kancelář"
+
+msgid "Office 2003 Default"
+msgstr "Výchozí Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Posun (b.):"
+
+msgid "Offset: Bottom"
+msgstr "Posun: dolů"
+
+msgid "Offset: Bottom Left"
+msgstr "Posun: vlevo dolů"
+
+msgid "Offset: Bottom Right"
+msgstr "Posun: vpravo dolů"
+
+msgid "Offset: Center"
+msgstr "Posun: na střed"
+
+msgid "Offset: Left"
+msgstr "Posun: vlevo"
+
+msgid "Offset: Right"
+msgstr "Posun: vpravo"
+
+msgid "Offset: Top"
+msgstr "Posun: nahoru"
+
+msgid "Offset: Top Left"
+msgstr "Posun: vlevo nahoru"
+
+msgid "Offset: Top Right"
+msgstr "Posun: vpravo nahoru"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Staré klávesy nabídek: Alt, {keys}. Pokračujte v psaní, nebo zrušte klávesou Esc."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Zapnuto: kurzor se při psaní nebo použití kláves se šipkami plynule přesune na nové místo a jeho blikání se prolíná. Vypnuto: kurzor přeskakuje a blikání se ostře zapíná a vypíná."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Zapnuto: WordCraft se otevře na kartě Soubor › Domů s prázdným dokumentem, šablonami a nedávnými dokumenty. Vypnuto: otevře prázdný dokument."
+
+msgid "One"
+msgstr "Jeden"
+
+msgid "One half"
+msgstr "Jedna polovina"
+
+msgid "One label per recipient"
+msgstr "Jeden štítek na příjemce"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Jeden řádek na položku. Klávesa Enter přidá položku."
+
+msgid "One Page"
+msgstr "Jedna stránka"
+
+msgid "One-sided"
+msgstr "Jednostranný"
+
+msgid "Only allow this kind of editing:"
+msgstr "Povolit pouze tento typ úprav:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Lze přidávat pouze komentáře, kromě oblastí označených jako upravitelné."
+
+msgid "Only for the selected text"
+msgstr "Pouze pro vybraný text"
+
+msgid "Only form fields can be filled in."
+msgstr "Lze vyplňovat pouze formulářová pole."
+
+msgid "only in Outline view"
+msgstr "pouze v zobrazení Osnova"
+
+msgid "Only in this document"
+msgstr "Pouze v tomto dokumentu"
+
+msgid "Only label and number"
+msgstr "Pouze popisek a číslo"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Lze použít pouze povolené styly."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Otevřít lze pouze webové (http, https) a e-mailové (mailto) odkazy"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Nejprve otevřete dokument"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Otevřít soubor pomocí vlastního prohlížeče souborů WordCraftu, když se systémový dialog pro práci se soubory nezobrazí."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Text OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Otevírání dialogu tisku…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Soubory .docx, .doc, .rtf a .odt a šablony Wordu se od teď otevírají ve WordCraftu."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Otevře Nastavení › Výchozí aplikace, kde zvolíte WordCraft pro .docx a další typy dokumentů."
+
+msgid "Operator"
+msgstr "Operátor"
+
+msgid "Operator Structures"
+msgstr "Struktury operátorů"
+
+msgid "Operators"
+msgstr "Operátory"
+
+msgid "Optional Hyphen"
+msgstr "Podmíněný spojovník"
+
+msgid "Or"
+msgstr "Nebo"
+
+msgid "Or save a copy in another format:"
+msgstr "Nebo uložte kopii v jiném formátu:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Řadové číslovky (1st) s horním indexem"
+
+msgid "Organizer"
+msgstr "Organizátor"
+
+msgid "Organizer…"
+msgstr "Organizátor…"
+
+msgid "Original document"
+msgstr "Původní dokument"
+
+msgid "Original size"
+msgstr "Původní velikost"
+
+msgid "Other Large Operators"
+msgstr "Další velké operátory"
+
+msgid "Other styles and their TOC level:"
+msgstr "Další styly a jejich úroveň v obsahu:"
+
+msgid "Other:"
+msgstr "Jiné:"
+
+msgid "Otherwise insert:"
+msgstr "Jinak vložit:"
+
+msgid "Outline Level"
+msgstr "Úroveň osnovy"
+
+msgid "Outline level"
+msgstr "Úroveň osnovy"
+
+msgid "Outline levels"
+msgstr "Úrovně osnovy"
+
+msgid "Outline State"
+msgstr "Stav osnovy"
+
+msgid "Outline Tools"
+msgstr "Nástroje osnovy"
+
+msgid "Outlining"
+msgstr "Osnova"
+
+msgid "Outside border"
+msgstr "Vnější ohraničení"
+
+msgid "Outside Borders"
+msgstr "Vnější ohraničení"
+
+msgid "Outside:"
+msgstr "Vně:"
+
+msgid "Outward Brackets"
+msgstr "Závorky otočené ven"
+
+msgid "Overbar"
+msgstr "Čára nad výrazem"
+
+msgid "Overbars and Underbars"
+msgstr "Čáry nad a pod výrazem"
+
+msgid "Overbrace"
+msgstr "Složená závorka nad výrazem"
+
+msgid "Overtype"
+msgstr "Přepisování"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Přepisování (psaný text nahrazuje znaky za kurzorem)"
+
+msgid "Page Background"
+msgstr "Pozadí stránky"
+
+msgid "Page Border"
+msgstr "Ohraničení stránky"
+
+msgid "Page Borders"
+msgstr "Ohraničení stránky"
+
+msgid "Page Break"
+msgstr "Konec stránky"
+
+msgid "Page Break Before"
+msgstr "Vložit konec stránky před"
+
+msgid "Page break before"
+msgstr "Vložit konec stránky před"
+
+msgid "Page Breaks"
+msgstr "Konce stránek"
+
+msgid "Page Color"
+msgstr "Barva stránky"
+
+msgid "Page color"
+msgstr "Barva stránky"
+
+msgid "Page display"
+msgstr "Zobrazení stránky"
+
+msgid "Page Down"
+msgstr "O stránku dolů"
+
+msgid "Page image (*.png)"
+msgstr "Obrázek stránky (*.png)"
+
+msgid "Page Movement"
+msgstr "Pohyb stránek"
+
+msgid "Page Number"
+msgstr "Číslo stránky"
+
+msgid "Page number"
+msgstr "Číslo stránky"
+
+msgid "Page Number Format"
+msgstr "Formát čísel stránek"
+
+msgid "Page number style"
+msgstr "Styl čísel stránek"
+
+msgid "Page numbering"
+msgstr "Číslování stránek"
+
+msgid "Page numbers at the right margin"
+msgstr "Čísla stránek u pravého okraje"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Číslo stránky se záložkou"
+
+msgid "Page Setup"
+msgstr "Vzhled stránky"
+
+msgid "Page title"
+msgstr "Název stránky"
+
+msgid "Page Up"
+msgstr "O stránku nahoru"
+
+msgid "Page Width"
+msgstr "Šířka stránky"
+
+msgid "Page width"
+msgstr "Šířka stránky"
+
+msgid "Page X of Y"
+msgstr "Stránka X z Y"
+
+msgid "Page {page}"
+msgstr "Stránka {page}"
+
+msgid "Page\nBorders"
+msgstr "Ohraničení\nstránky"
+
+msgid "Page\nColor"
+msgstr "Barva\nstránky"
+
+msgid "Page\nNumber"
+msgstr "Číslo\nstránky"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Stránky, např. 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Stránky záložky:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Velikost papíru:"
+
+msgid "Paragraph Character"
+msgstr "Znak odstavce"
+
+msgid "Paragraph Details"
+msgstr "Podrobnosti odstavce"
+
+msgid "Paragraph Down"
+msgstr "O odstavec dolů"
+
+msgid "Paragraph Mark"
+msgstr "Značka odstavce"
+
+msgid "Paragraph marks"
+msgstr "Značky odstavců"
+
+msgid "Paragraph Settings"
+msgstr "Nastavení odstavce"
+
+msgid "Paragraph Spacing"
+msgstr "Mezery mezi odstavci"
+
+msgid "Paragraph style"
+msgstr "Styl odstavce"
+
+msgid "Paragraph Up"
+msgstr "O odstavec nahoru"
+
+msgid "Paragraphs"
+msgstr "Odstavce"
+
+msgid "Paragraph…"
+msgstr "Odstavec…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Kulaté závorky"
+
+msgid "Parentheses with Separator"
+msgstr "Kulaté závorky s oddělovačem"
+
+msgid "Partial Differential"
+msgstr "Parciální diferenciál"
+
+msgid "Password:"
+msgstr "Heslo:"
+
+msgid "Paste (⌘V)"
+msgstr "Vložit (⌘V)"
+
+msgid "Paste All"
+msgstr "Vložit vše"
+
+msgid "Paste as:"
+msgstr "Vložit jako:"
+
+msgid "Paste Clipboard Item"
+msgstr "Vložit položku ze schránky"
+
+msgid "Paste Formatting"
+msgstr "Vložit formátování"
+
+msgid "Paste function:"
+msgstr "Vložit funkci:"
+
+msgid "Paste Special…"
+msgstr "Vložit jinak…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Vložit: zachovat pouze text"
+
+msgid "Paste: Merge Formatting"
+msgstr "Vložit: sloučit formátování"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Vloží obrázek ze schránky."
+
+msgid "Paused"
+msgstr "Pozastaveno"
+
+msgid "PDF document (*.pdf)"
+msgstr "Dokument PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Pera"
+
+msgid "People"
+msgstr "Lidé"
+
+msgid "Periodical"
+msgstr "Periodikum"
+
+msgid "Persian"
+msgstr "perština"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid "Personal Templates"
+msgstr "Osobní šablony"
+
+msgid "Personalize"
+msgstr "Přizpůsobení"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filipíny"
+
+msgid "Phonetic Guide"
+msgstr "Fonetický průvodce"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pí děleno 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Vyberte vlastní skupinu (novou vytvoříte tlačítkem Nová skupina)"
+
+msgid "Pick a field from the list"
+msgstr "Vyberte pole ze seznamu"
+
+msgid "Picture"
+msgstr "Obrázek"
+
+msgid "Picture Border"
+msgstr "Ohraničení obrázku"
+
+msgid "Picture border"
+msgstr "Ohraničení obrázku"
+
+msgid "Picture Content Control"
+msgstr "Ovládací prvek obsahu s obrázkem"
+
+msgid "Picture Format"
+msgstr "Formát obrázku"
+
+msgid "Picture Styles"
+msgstr "Styly obrázků"
+
+msgid "Picture transparency"
+msgstr "Průhlednost obrázku"
+
+msgid "Picture watermark"
+msgstr "Obrázkový vodoznak"
+
+msgid "Pictures"
+msgstr "Obrázky"
+
+msgid "Pie"
+msgstr "Výsečový"
+
+msgid "Place in This Document"
+msgstr "Místo v tomto dokumentu"
+
+msgid "Placeholder text"
+msgstr "Zástupný text"
+
+msgid "Plain Table 1"
+msgstr "Prostá tabulka 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Prostý text (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Ovládací prvek obsahu s prostým textem"
+
+msgid "Play/Pause"
+msgstr "Přehrát/pozastavit"
+
+msgid "Plus Equal"
+msgstr "Plus a rovná se"
+
+msgid "Points and above"
+msgstr "b. a více"
+
+msgid "Polish"
+msgstr "Polština"
+
+msgid "Portugal"
+msgstr "Portugalsko"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugalština (Brazílie)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugalština (Portugalsko)"
+
+msgid "Possible spelling mistake"
+msgstr "Možná pravopisná chyba"
+
+msgid "Postal Code"
+msgstr "PSČ"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Mocninná řada (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Upřednostňovaná šířka:"
+
+msgid "Preserve formatting during updates"
+msgstr "Zachovat formátování při aktualizaci"
+
+msgid "Preset gradients"
+msgstr "Předdefinované přechody"
+
+msgid "Press a key combination"
+msgstr "Stiskněte kombinaci kláves"
+
+msgid "Preview Results"
+msgstr "Náhled výsledků"
+
+msgid "Preview\nResults"
+msgstr "Náhled\nvýsledků"
+
+msgid "Previous 1 or More"
+msgstr "Předchozí 1 nebo více"
+
+msgid "Previous Comment"
+msgstr "Předchozí komentář"
+
+msgid "Previous Field"
+msgstr "Předchozí pole"
+
+msgid "Previous Record"
+msgstr "Předchozí záznam"
+
+msgid "Previous Section"
+msgstr "Předchozí oddíl"
+
+msgid "Previous Sentence"
+msgstr "Předchozí věta"
+
+msgid "Previous sentence"
+msgstr "Předchozí věta"
+
+msgid "Print Documents"
+msgstr "Tisk dokumentů"
+
+msgid "Print Documents…"
+msgstr "Tisk dokumentů…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Tisk se nezdařil: proces tisku se zastavil."
+
+msgid "Print failed: {error}"
+msgstr "Tisk selhal: {error}"
+
+msgid "Print job submitted."
+msgstr "Tisková úloha odeslána."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Tisková úloha odeslána: do tiskové fronty předáno listů: {count}"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Tisková úloha odeslána: {receipt}"
+
+msgid "Print Layout"
+msgstr "Rozvržení při tisku"
+
+msgid "Print Markup"
+msgstr "Tisknout revize"
+
+msgid "Print settings"
+msgstr "Nastavení tisku"
+
+msgid "Print the page color"
+msgstr "Tisknout barvu stránky"
+
+msgid "Print to PDF"
+msgstr "Tisk do PDF"
+
+msgid "Print\nLayout"
+msgstr "Rozvržení\npři tisku"
+
+msgid "Printer default"
+msgstr "Výchozí tiskárny"
+
+msgid "Printer discovery failed."
+msgstr "Hledání tiskáren se nezdařilo."
+
+msgid "Privacy for this document"
+msgstr "Soukromí tohoto dokumentu"
+
+msgid "Privacy Options"
+msgstr "Možnosti ochrany osobních údajů"
+
+msgid "Privacy Settings"
+msgstr "Aktuální nastavení soukromí"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Product"
+msgstr "Součin"
+
+msgid "Product of A"
+msgstr "Součin A"
+
+msgid "Product with Limits"
+msgstr "Součin s mezemi"
+
+msgid "Product with Lower Limit"
+msgstr "Součin s dolní mezí"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Součin s mezemi v dolním a horním indexu"
+
+msgid "Products and Coproducts"
+msgstr "Součiny a koprodukty"
+
+msgid "Professional"
+msgstr "Profesionální"
+
+msgid "Promote"
+msgstr "Zvýšit úroveň"
+
+msgid "Promote to Heading 1"
+msgstr "Povýšit na Nadpis 1"
+
+msgid "Proofing"
+msgstr "Kontrola pravopisu"
+
+msgid "Proofing Issues"
+msgstr "Nalezené chyby"
+
+msgid "Proofing language"
+msgstr "Jazyk kontroly pravopisu"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Zabezpečit dokument"
+
+msgid "pt"
+msgstr "b."
+
+msgid "Publisher"
+msgstr "Vydavatel"
+
+msgid "Puerto Rico"
+msgstr "Portoriko"
+
+msgid "Put the caret in a content control first."
+msgstr "Nejprve umístěte kurzor do ovládacího prvku obsahu."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Vrátit výchozí příkazy na panel nástrojů Rychlý přístup?"
+
+msgid "Qatar"
+msgstr "Katar"
+
+msgid "Quadratic Root"
+msgstr "Kořen kvadratické rovnice"
+
+msgid "Quick Access Toolbar"
+msgstr "Panel nástrojů Rychlý přístup"
+
+msgid "Quick Parts"
+msgstr "Rychlé části"
+
+msgid "Quick Tables"
+msgstr "Rychlé tabulky"
+
+msgid "Quote"
+msgstr "Citace"
+
+msgid "Radical"
+msgstr "Odmocnina"
+
+msgid "Radical with Degree"
+msgstr "Odmocnina se stupněm"
+
+msgid "Radicals"
+msgstr "Odmocniny"
+
+msgid "Raised/lowered"
+msgstr "Zvýšené/snížené"
+
+msgid "Read Aloud"
+msgstr "Číst nahlas"
+
+msgid "Read Aloud Status"
+msgstr "Stav čtení nahlas"
+
+msgid "Read Mode"
+msgstr "Režim čtení"
+
+msgid "Read\nAloud"
+msgstr "Číst\nnahlas"
+
+msgid "Read\nMode"
+msgstr "Režim\nčtení"
+
+msgid "Reading"
+msgstr "Čtení"
+
+msgid "Reading Column Width"
+msgstr "Šířka sloupce pro čtení"
+
+msgid "Reading Highlight"
+msgstr "Zvýraznění při čtení"
+
+msgid "Reading Line Spacing"
+msgstr "Řádkování pro čtení"
+
+msgid "Reading Mode"
+msgstr "Režim čtení"
+
+msgid "Reading Page Color"
+msgstr "Barva stránky pro čtení"
+
+msgid "Reading Speed"
+msgstr "Rychlost čtení"
+
+msgid "Reading Text Size"
+msgstr "Velikost textu pro čtení"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Načte formátovaný text (RTF) ze schránky a zachová jeho formátování."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Načte webový obsah ze schránky a zachová jeho formátování."
+
+msgid "Recent documents to show:"
+msgstr "Počet zobrazených posledních dokumentů:"
+
+msgid "Recently Used Fonts"
+msgstr "Naposledy použitá písma"
+
+msgid "Recently used symbols:"
+msgstr "Naposledy použité symboly:"
+
+msgid "Recipient List"
+msgstr "Seznam příjemců"
+
+msgid "Recipient lists"
+msgstr "Seznamy příjemců"
+
+msgid "Recipients: {count}"
+msgstr "Příjemců: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Přebarví jednobarevný obrázek, například ikonu"
+
+msgid "Recolor Selected Ink"
+msgstr "Přebarvit vybraný rukopis"
+
+msgid "Record Macro"
+msgstr "Záznam makra"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "Obnovit dokumenty"
+
+msgid "Recover Unsaved Documents"
+msgstr "Obnovit neuložené dokumenty"
+
+msgid "Recovery copy"
+msgstr "Kopie pro obnovení"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "Dokud má tento dokument heslo, obnovení je vypnuté."
+
+msgid "Red:"
+msgstr "Červená:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Zmenšit předsazení"
+
+msgid "Reference type:"
+msgstr "Typ odkazu:"
+
+msgid "References"
+msgstr "Reference"
+
+msgid "Reflection"
+msgstr "Odraz"
+
+msgid "Refresh printers"
+msgstr "Obnovit tiskárny"
+
+msgid "Region:"
+msgstr "Oblast:"
+
+msgid "Registered"
+msgstr "Registrovaná ochranná známka"
+
+msgid "Registered Sign"
+msgstr "Symbol registrované ochranné známky"
+
+msgid "Regular expressions"
+msgstr "Regulární výrazy"
+
+msgid "Reject"
+msgstr "Odmítnout"
+
+msgid "Reject All Changes"
+msgstr "Odmítnout všechny změny"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Odmítnout změnu"
+
+msgid "Relationship"
+msgstr "Vztah"
+
+msgid "Relative to original picture size"
+msgstr "Vzhledem k původní velikosti obrázku"
+
+msgid "Remove Added Font"
+msgstr "Odebrat přidané písmo"
+
+msgid "Remove condition"
+msgstr "Odebrat podmínku"
+
+msgid "Remove Content Control"
+msgstr "Odebrat ovládací prvek obsahu"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Odebrat všechny vlastní klávesové zkratky a obnovit výchozí klávesy?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Odebrat všechny vlastní karty a skupiny a znovu zobrazit všechny karty?"
+
+msgid "Remove field"
+msgstr "Odebrat pole"
+
+msgid "Remove Footer"
+msgstr "Odebrat zápatí"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Odebrat z panelu nástrojů Rychlý přístup"
+
+msgid "Remove gradient stop"
+msgstr "Odebrat zarážku přechodu"
+
+msgid "Remove Header"
+msgstr "Odebrat záhlaví"
+
+msgid "Remove Hyperlink"
+msgstr "Odebrat hypertextový odkaz"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Při ukládání odebrat mé jméno z komentářů, změn a vlastností souboru"
+
+msgid "Remove Password"
+msgstr "Odebrat heslo"
+
+msgid "Remove Pen"
+msgstr "Odebrat pero"
+
+msgid "Remove recipient"
+msgstr "Odebrat příjemce"
+
+msgid "Remove row"
+msgstr "Odebrat řádek"
+
+msgid "Remove series"
+msgstr "Odebrat řadu"
+
+msgid "Remove Space After Paragraph"
+msgstr "Odebrat mezeru za odstavcem"
+
+msgid "Remove Table of Contents"
+msgstr "Odebrat obsah"
+
+msgid "Remove the control once edited"
+msgstr "Po úpravě ovládací prvek odebrat"
+
+msgid "Remove the space before the punctuation"
+msgstr "Odstranit mezeru před interpunkcí"
+
+msgid "Remove Watermark"
+msgstr "Odebrat vodoznak"
+
+msgid "Rename Document"
+msgstr "Přejmenovat dokument"
+
+msgid "Reopen"
+msgstr "Znovu otevřít"
+
+msgid "Repeat as header row on each page"
+msgstr "Opakovat jako řádek záhlaví na každé stránce"
+
+msgid "Repeat Header Rows"
+msgstr "Opakovat řádky záhlaví"
+
+msgid "Repeating Section Content Control"
+msgstr "Ovládací prvek obsahu opakujícího se oddílu"
+
+msgid "Replace All"
+msgstr "Nahradit vše"
+
+msgid "Replace as you type"
+msgstr "Nahrazovat při psaní"
+
+msgid "Replace Document Text"
+msgstr "Nahradit text dokumentu"
+
+msgid "Replace text as you type"
+msgstr "Nahrazovat text při psaní"
+
+msgid "Replace with:"
+msgstr "Nahradit čím:"
+
+msgid "Replay"
+msgstr "Přehrát"
+
+msgid "Research"
+msgstr "Rešerše"
+
+msgid "Researcher"
+msgstr "Výzkumník"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Výzkumník potřebuje online službu; WordCraft vaše dokumenty uchovává offline."
+
+msgid "Reset All…"
+msgstr "Obnovit vše…"
+
+msgid "Reset Character Formatting"
+msgstr "Obnovit formátování znaků"
+
+msgid "Reset Crop"
+msgstr "Zrušit oříznutí"
+
+msgid "Reset Default Formatting"
+msgstr "Obnovit výchozí formátování"
+
+msgid "Reset Graphic"
+msgstr "Obnovit grafiku"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Obnovit formátování odstavce"
+
+msgid "Reset Picture"
+msgstr "Obnovit obrázek"
+
+msgid "Reset tips"
+msgstr "Obnovit tipy"
+
+msgid "Reset to Normal"
+msgstr "Obnovit normální styl"
+
+msgid "Reset\nGraphic"
+msgstr "Obnovit\ngrafiku"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Změnit velikost tabulky přetažením"
+
+msgid "Resolve"
+msgstr "Vyřešit"
+
+msgid "Resolved"
+msgstr "Vyřešeno"
+
+msgid "Restart at 1"
+msgstr "Začít znovu od 1"
+
+msgid "Restart Each Page"
+msgstr "Začít znovu na každé stránce"
+
+msgid "Restart Each Section"
+msgstr "Začít znovu v každém oddílu"
+
+msgid "Restart list after:"
+msgstr "Začít číslování znovu po:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "Obnovení otevře neuloženou kopii. Původní soubor zůstane beze změny."
+
+msgid "Restrict Editing"
+msgstr "Omezit úpravy"
+
+msgid "Restrict\nEditing"
+msgstr "Omezit\núpravy"
+
+msgid "Results"
+msgstr "Výsledky"
+
+msgid "Return address labels"
+msgstr "Štítky se zpáteční adresou"
+
+msgid "Return address:"
+msgstr "Zpáteční adresa:"
+
+msgid "Reviewing"
+msgstr "Revize"
+
+msgid "Reviewing Pane"
+msgstr "Podokno revizí"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Revize — úpravy se ukládají jako návrhy"
+
+msgid "Revised document"
+msgstr "Upravený dokument"
+
+msgid "Rewind"
+msgstr "Přetočit zpět"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Přetáčím. Řekněte, kdy přestat."
+
+msgid "Ribbon"
+msgstr "Pás karet"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Pás karet a panel nástrojů Rychlý přístup:"
+
+msgid "Ribbon tabs"
+msgstr "Karty pásu karet"
+
+msgid "Rich Text Content Control"
+msgstr "Ovládací prvek obsahu s formátovaným textem"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Formát RTF (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Formát RTF (Rich Text Format)"
+
+msgid "Right (vertical)"
+msgstr "Vpravo (svisle)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Šipka vpravo s textem nad"
+
+msgid "Right Arrow with Text Below"
+msgstr "Šipka vpravo s textem pod"
+
+msgid "Right Border"
+msgstr "Pravé ohraničení"
+
+msgid "Right border"
+msgstr "Pravé ohraničení"
+
+msgid "Right Bracket Twice"
+msgstr "Dvě pravé hranaté závorky"
+
+msgid "Right indent"
+msgstr "Odsazení zprava"
+
+msgid "Right Margin"
+msgstr "Pravý okraj"
+
+msgid "Right Only"
+msgstr "Pouze vpravo"
+
+msgid "Right-to-left"
+msgstr "Zprava doleva"
+
+msgid "Right-to-Left Section"
+msgstr "Směr oddílu zprava doleva"
+
+msgid "Right-to-Left Table"
+msgstr "Směr tabulky zprava doleva"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Směr textu zprava doleva"
+
+msgid "Rightwards Arrow Above"
+msgstr "Šipka vpravo nad výrazem"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Harpuna vpravo nad výrazem"
+
+msgid "Romanian"
+msgstr "Rumunština"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Kořeny ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Otočit všechen text o 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Otočit všechen text o 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Otočit doleva o 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Otočit doprava o 90°"
+
+msgid "Rotate with shape"
+msgstr "Otáčet s obrazcem"
+
+msgid "Rounded"
+msgstr "Zaoblené rohy"
+
+msgid "Row"
+msgstr "Řádek"
+
+msgid "Row:"
+msgstr "Řádek:"
+
+msgid "Rows & Columns"
+msgstr "Řádky a sloupce"
+
+msgid "Ruby text:"
+msgstr "Text ruby:"
+
+msgid "Rules"
+msgstr "Pravidla"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "V jednom odstavci"
+
+msgid "Russia"
+msgstr "Rusko"
+
+msgid "Résumé"
+msgstr "Životopis"
+
+msgid "SAMPLE"
+msgstr "VZOR"
+
+msgid "Sat:"
+msgstr "Sytost:"
+
+msgid "Saturation and recolor"
+msgstr "Sytost a přebarvení"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Uloží kopii v jiném formátu. Tisk probíhá prostřednictvím souboru PDF, který vytisknete v libovolném prohlížeči."
+
+msgid "Save as Word Template…"
+msgstr "Uložit jako šablonu Wordu…"
+
+msgid "Save documents"
+msgstr "Ukládání dokumentů"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Pro zapnutí automatického ukládání dokument nejprve uložte"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Pro zapnutí automatického ukládání dokument uložte (pouze otevřený soubor se nepřepisuje, dokud jej sami neuložíte)"
+
+msgid "Save these pages as PDF…"
+msgstr "Uložit tyto stránky jako PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Uloženo. Zase uloženo. Pořád uloženo. Je to hodně uložené."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Uloží šablonu .dotx do vaší složky šablon. Zobrazí se v nabídce Soubor › Nový v části Osobní."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Ukládání {name} bylo zrušeno, dokument zůstává otevřený a nic se neztratilo."
+
+msgid "Sayings"
+msgstr "Hlášky"
+
+msgid "Sayings:"
+msgstr "Hlášky:"
+
+msgid "Scale Drawing"
+msgstr "Škálovat kresbu"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "Přizpůsobit velikosti papíru"
+
+msgid "Scatter"
+msgstr "Bodový"
+
+msgid "Script"
+msgstr "Index"
+
+msgid "Scroll ribbon left"
+msgstr "Posunout pás karet doleva"
+
+msgid "Scroll ribbon right"
+msgstr "Posunout pás karet doprava"
+
+msgid "Search Commands"
+msgstr "Hledat příkazy"
+
+msgid "Search commands and help"
+msgstr "Hledat příkazy a nápovědu"
+
+msgid "Search document"
+msgstr "Hledat v dokumentu"
+
+msgid "Search for templates"
+msgstr "Hledat šablony"
+
+msgid "Search icons"
+msgstr "Hledat ikony"
+
+msgid "Search Options"
+msgstr "Možnosti hledání"
+
+msgid "Search:"
+msgstr "Hledat:"
+
+msgid "Secant Function"
+msgstr "Sekans"
+
+msgid "Section 1.01"
+msgstr "Oddíl 1.01"
+
+msgid "Section Break"
+msgstr "Konec oddílu"
+
+msgid "Section Breaks"
+msgstr "Konce oddílů"
+
+msgid "Section Character"
+msgstr "Znak paragrafu (§)"
+
+msgid "Section direction:"
+msgstr "Směr oddílu:"
+
+msgid "Section Mark"
+msgstr "Znak paragrafu"
+
+msgid "Section Properties"
+msgstr "Vlastnosti oddílu"
+
+msgid "Sections"
+msgstr "Oddíly"
+
+msgid "See"
+msgstr "Viz"
+
+msgid "select a chart first"
+msgstr "nejprve vyberte graf"
+
+msgid "select a connector first"
+msgstr "nejprve vyberte spojnici"
+
+msgid "select a diagram first"
+msgstr "nejprve vyberte diagram"
+
+msgid "select a drawing canvas first"
+msgstr "nejprve vyberte kreslicí plátno"
+
+msgid "select a floating picture or shape first"
+msgstr "nejprve vyberte plovoucí obrázek nebo tvar"
+
+msgid "select a group first"
+msgstr "nejprve vyberte skupinu"
+
+msgid "select a picture first"
+msgstr "nejprve vyberte obrázek"
+
+msgid "Select a picture first."
+msgstr "Nejprve vyberte obrázek."
+
+msgid "select a picture or shape first"
+msgstr "nejdřív vyberte obrázek nebo tvar"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Vyberte obrázek, tvar, graf nebo tabulku, kterou chcete popsat."
+
+msgid "Select a place in this document:"
+msgstr "Vyberte místo v tomto dokumentu:"
+
+msgid "Select a printer"
+msgstr "Vyberte tiskárnu"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "nejprve vyberte tvar"
+
+msgid "select a shape or decorative text first"
+msgstr "nejprve vyberte obrazec nebo ozdobný text"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Vyberte obrazec, textové pole nebo kreslicí plátno a naformátujte jeho výplň."
+
+msgid "select a SmartArt graphic first"
+msgstr "nejprve vyberte obrázek SmartArt"
+
+msgid "select a text box first"
+msgstr "nejprve vyberte textové pole"
+
+msgid "select a text box linked to another first"
+msgstr "nejprve vyberte textové pole propojené s jiným"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Vybrat buňku"
+
+msgid "Select Column"
+msgstr "Vybrat sloupec"
+
+msgid "Select Heading and Content"
+msgstr "Vybrat nadpis a obsah"
+
+msgid "Select Line"
+msgstr "Vybrat řádek"
+
+msgid "Select Paragraph"
+msgstr "Vybrat odstavec"
+
+msgid "Select Picture…"
+msgstr "Vybrat obrázek…"
+
+msgid "Select Range"
+msgstr "Vybrat rozsah"
+
+msgid "Select Recipients"
+msgstr "Vybrat příjemce"
+
+msgid "select recipients first"
+msgstr "nejdřív vyberte příjemce"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Nejprve vyberte příjemce, abyste mohli vybírat z jejich polí."
+
+msgid "Select recipients first to match their fields."
+msgstr "Nejprve vyberte příjemce, abyste mohli přiřadit jejich pole."
+
+msgid "Select Row"
+msgstr "Vybrat řádek"
+
+msgid "Select Sentence"
+msgstr "Vybrat větu"
+
+msgid "Select Table"
+msgstr "Vybrat tabulku"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Vybrat buňky tabulky kliknutím"
+
+msgid "Select Text"
+msgstr "Vybrat text"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Vybrat text s podobným formátováním"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Vyberte text a zaškrtněte, kdo jej může nadále upravovat."
+
+msgid "select two or more cells to merge"
+msgstr "vyberte ke sloučení dvě nebo více buněk"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "vyberte dva nebo více obrázků či tvarů (Shift+klepnutí)"
+
+msgid "Select Word"
+msgstr "Vybrat slovo"
+
+msgid "Select\nRecipients"
+msgstr "Vybrat\npříjemce"
+
+msgid "Selected Fields"
+msgstr "Vybraná pole"
+
+msgid "Selected text"
+msgstr "Vybraný text"
+
+msgid "Selection Pane"
+msgstr "Podokno výběru"
+
+msgid "Semitransparent"
+msgstr "Poloprůhledné"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Odešle dokument přímo do systémového dialogu tisku, nebo níže uložte kopii v jiném formátu."
+
+msgid "Sentence"
+msgstr "Věta"
+
+msgid "Sentence case."
+msgstr "Velké písmeno na začátku věty."
+
+msgid "Separate text at"
+msgstr "Oddělit text pomocí"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Oddělovač:"
+
+msgid "Sepia"
+msgstr "Sépie"
+
+msgid "Sequence name:"
+msgstr "Název posloupnosti:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Srbština (cyrilice)"
+
+msgid "Serbian (Latin)"
+msgstr "Srbština (latinka)"
+
+msgid "Series name"
+msgstr "Název řady"
+
+msgid "Series {n}"
+msgstr "Řada {n}"
+
+msgid "Set As Default"
+msgstr "Nastavit jako výchozí"
+
+msgid "Set as default"
+msgstr "Nastavit jako výchozí"
+
+msgid "Set As Default (Font)"
+msgstr "Nastavit jako výchozí (Písmo)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Nastavit jako výchozí (Vzhled stránky)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Nastavit jako výchozí (Odstavec)"
+
+msgid "Set as Default Language"
+msgstr "Nastavit jako výchozí jazyk"
+
+msgid "Set Caret"
+msgstr "Umístit kurzor"
+
+msgid "Set Character Formatting"
+msgstr "Nastavit formátování znaků"
+
+msgid "Set Date"
+msgstr "Nastavit datum"
+
+msgid "Set Equation"
+msgstr "Nastavit rovnici"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Nastavit hodnotu číslování"
+
+msgid "Set Paragraph Formatting"
+msgstr "Nastavit formátování odstavce"
+
+msgid "Set Proofing Language…"
+msgstr "Nastavit jazyk kontroly pravopisu…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Nastavení:"
+
+msgid "Shading"
+msgstr "Stínování"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Stín, záře a měkké okraje"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Výplň tvaru"
+
+msgid "Shape Format"
+msgstr "Formát tvaru"
+
+msgid "Shape Outline"
+msgstr "Obrys tvaru"
+
+msgid "Shape Styles"
+msgstr "Styly tvarů"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Přepravní štítky"
+
+msgid "Shortcut key:"
+msgstr "Klávesová zkratka:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Při přesouvání obrázků a tvarů zobrazovat zarovnávací vodítka"
+
+msgid "Show all formatting marks"
+msgstr "Zobrazit všechny netisknutelné znaky"
+
+msgid "Show All Levels"
+msgstr "Zobrazit všechny úrovně"
+
+msgid "Show all revisions inline"
+msgstr "Zobrazit všechny revize přímo v textu"
+
+msgid "Show changes at:"
+msgstr "Zobrazit změny na úrovni:"
+
+msgid "Show changes in:"
+msgstr "Zobrazit změny v:"
+
+msgid "Show Comments"
+msgstr "Zobrazit komentáře"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Zobrazí dokumenty s invertovanými barvami, podobně jako Zobrazení › Přepnout režimy. Ukládání, tisk a PDF zůstávají beze změny."
+
+msgid "Show every bibliography field"
+msgstr "Zobrazit všechna pole bibliografie"
+
+msgid "Show First Line Only"
+msgstr "Zobrazit jen první řádek"
+
+msgid "Show in the Styles gallery"
+msgstr "Zobrazit v galerii stylů"
+
+msgid "Show its list number"
+msgstr "Zobrazit jeho číslo v seznamu"
+
+msgid "Show its number relative to this field"
+msgstr "Zobrazit jeho číslo vzhledem k tomuto poli"
+
+msgid "Show its number with all higher levels"
+msgstr "Zobrazit jeho číslo se všemi vyššími úrovněmi"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Zobrazit klávesové tipy (Alt nebo F10)"
+
+msgid "Show Level"
+msgstr "Zobrazit úroveň"
+
+msgid "Show Level 1"
+msgstr "Zobrazit úroveň 1"
+
+msgid "Show Level 2"
+msgstr "Zobrazit úroveň 2"
+
+msgid "Show Level 3"
+msgstr "Zobrazit úroveň 3"
+
+msgid "Show Level 4"
+msgstr "Zobrazit úroveň 4"
+
+msgid "Show Level 5"
+msgstr "Zobrazit úroveň 5"
+
+msgid "Show Level 6"
+msgstr "Zobrazit úroveň 6"
+
+msgid "Show Level 7"
+msgstr "Zobrazit úroveň 7"
+
+msgid "Show Level 8"
+msgstr "Zobrazit úroveň 8"
+
+msgid "Show Level 9"
+msgstr "Zobrazit úroveň 9"
+
+msgid "Show Markup"
+msgstr "Zobrazit revize"
+
+msgid "Show Notes"
+msgstr "Zobrazit poznámky"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Zobrazit v bublinách pouze komentáře a formátování"
+
+msgid "Show only records that will be merged"
+msgstr "Zobrazit jen záznamy, které budou sloučeny"
+
+msgid "Show or Hide Style"
+msgstr "Zobrazit nebo skrýt styl"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Zobrazit panel nástrojů Rychlý přístup"
+
+msgid "Show revisions in balloons"
+msgstr "Zobrazit revize v bublinách"
+
+msgid "Show Text Formatting"
+msgstr "Zobrazit formátování textu"
+
+msgid "Show the Assistant"
+msgstr "Zobrazit asistenta"
+
+msgid "Show the community button in the title bar"
+msgstr "Zobrazit tlačítko komunity v záhlaví okna"
+
+msgid "Show the equation in the line of text"
+msgstr "Zobrazit rovnici v řádku textu"
+
+msgid "Show the equation on a line of its own"
+msgstr "Zobrazit rovnici na samostatném řádku"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Při výběru textu zobrazit miniaturní panel nástrojů"
+
+msgid "Show the ribbon"
+msgstr "Zobrazit pás karet"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Při spuštění WordCraftu zobrazit úvodní obrazovku"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Znovu zobrazí tipy, které jste skryli."
+
+msgid "Show/Hide ¶"
+msgstr "Zobrazit/skrýt ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Zobrazit/skrýt ¶ ({key}) ukáže mezery, tabulátory a konce schované ve vašem textu."
+
+msgid "Show\nComments"
+msgstr "Zobrazit\nkomentáře"
+
+msgid "Showing the first {count} items."
+msgstr "Zobrazuje se prvních {count} položek."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Zobrazí strom: každá položka je pod položkou, ke které patří."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Zobrazí položky kolem ústřední myšlenky: první položka je uprostřed."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Zobrazí položky se stejnou vahou jako bloky v řádcích."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Zobrazí překrývající se myšlenky jako překrývající se kruhy."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Zobrazí části celku jako kvadranty."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Zobrazí části, které na sobě staví, s největší dole."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Zobrazí kroky v pořadí zleva doprava se šipkami mezi nimi."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Zobrazí opakující se kroky v kruhu."
+
+msgid "Shrink Font 1 Point"
+msgstr "Zmenšit písmo o 1 bod"
+
+msgid "Shrink text"
+msgstr "Zmenšit text"
+
+msgid "Side to Side"
+msgstr "Vedle sebe"
+
+msgid "Side\nto Side"
+msgstr "Vedle\nsebe"
+
+msgid "Sides of a right triangle"
+msgstr "Strany pravoúhlého trojúhelníku"
+
+msgid "Signature Line"
+msgstr "Řádek podpisu"
+
+msgid "Simple Frame"
+msgstr "Jednoduchý rám"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Sinová a kosinová řada f(x)"
+
+msgid "Sine Function"
+msgstr "Sinus"
+
+msgid "Sine theta"
+msgstr "Sinus théta"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Single"
+msgstr "Jednoduché"
+
+msgid "Single Brackets"
+msgstr "Samostatné závorky"
+
+msgid "Single Closing Quote"
+msgstr "Koncová jednoduchá uvozovka"
+
+msgid "Single label"
+msgstr "Jeden štítek"
+
+msgid "Single Left Angle"
+msgstr "Levá lomená závorka"
+
+msgid "Single Left Bar"
+msgstr "Levá svislá čára"
+
+msgid "Single Left Brace"
+msgstr "Levá složená závorka"
+
+msgid "Single Left Bracket"
+msgstr "Levá hranatá závorka"
+
+msgid "Single Left Parenthesis"
+msgstr "Levá kulatá závorka"
+
+msgid "Single Opening Quote"
+msgstr "Počáteční jednoduchá uvozovka"
+
+msgid "Single Right Brace"
+msgstr "Pravá složená závorka"
+
+msgid "Single Right Bracket"
+msgstr "Pravá hranatá závorka"
+
+msgid "Single Right Parenthesis"
+msgstr "Pravá kulatá závorka"
+
+msgid "Single Spacing"
+msgstr "Jednoduché řádkování"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Název webu"
+
+msgid "Size (pt):"
+msgstr "Velikost (b.):"
+
+msgid "Size and Crop…"
+msgstr "Velikost a oříznutí…"
+
+msgid "Sketchbook"
+msgstr "Skicák"
+
+msgid "Skewed Fraction"
+msgstr "Šikmý zlomek"
+
+msgid "Skip citations & bibliography"
+msgstr "Přeskakovat citace a bibliografii"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Přeskakovat citace a bibliografii"
+
+msgid "Skip Record If"
+msgstr "Přeskočit záznam, pokud"
+
+msgid "Skip Record If…"
+msgstr "Přeskočit záznam, pokud…"
+
+msgid "Slant Down"
+msgstr "Zkosení dolů"
+
+msgid "Slant Up"
+msgstr "Zkosení nahoru"
+
+msgid "Slovak"
+msgstr "slovenština"
+
+msgid "Slovenian"
+msgstr "slovinština"
+
+msgid "Small caps"
+msgstr "Kapitálky"
+
+msgid "Small change"
+msgstr "Malá změna"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Typografické uvozovky místo rovných"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "Návrh SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "Styly SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Plynulé posouvání a přibližování a postupně se zobrazující nabídky a tlačítka. Při vypnutí se každá změna zobrazí okamžitě."
+
+msgid "Soft Edge"
+msgstr "Měkký okraj"
+
+msgid "Soft Edges"
+msgstr "Měkké okraje"
+
+msgid "Soft Glow"
+msgstr "Jemná záře"
+
+msgid "Solid Accent"
+msgstr "Plná barva zvýraznění"
+
+msgid "Solid fill"
+msgstr "Plná výplň"
+
+msgid "Sometimes"
+msgstr "Občas"
+
+msgid "Sort by:"
+msgstr "Seřadit podle:"
+
+msgid "Sort order:"
+msgstr "Pořadí řazení:"
+
+msgid "Sort Recipients"
+msgstr "Seřadit příjemce"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Zdrojový kód: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Správce pramenů"
+
+msgid "Source type:"
+msgstr "Typ pramene:"
+
+msgid "Sources in this document:"
+msgstr "Prameny v tomto dokumentu:"
+
+msgid "South"
+msgstr "Jih"
+
+msgid "South Africa"
+msgstr "Jihoafrická republika"
+
+msgid "Space"
+msgstr "Mezera"
+
+msgid "Space after"
+msgstr "Mezera za"
+
+msgid "Space after: {pt} pt"
+msgstr "Mezera za: {pt} b."
+
+msgid "Space before"
+msgstr "Mezera před"
+
+msgid "Space before/after:"
+msgstr "Mezery před/za:"
+
+msgid "Space before: {pt} pt"
+msgstr "Mezera před: {pt} b."
+
+msgid "Spacing (pt):"
+msgstr "Mezery (b.):"
+
+msgid "Spain"
+msgstr "Španělsko"
+
+msgid "Spanish (Latin America)"
+msgstr "Španělština (Latinská Amerika)"
+
+msgid "Spanish (Mexico)"
+msgstr "Španělština (Mexiko)"
+
+msgid "Spanish (Spain)"
+msgstr "Španělština (Španělsko)"
+
+msgid "Spanish (Uruguay)"
+msgstr "Španělština (Uruguay)"
+
+msgid "Sparse Matrices"
+msgstr "Řídké matice"
+
+msgid "Special Characters"
+msgstr "Speciální znaky"
+
+msgid "Specify height:"
+msgstr "Zadat výšku:"
+
+msgid "Speech"
+msgstr "Řeč"
+
+msgid "Spelling & Grammar"
+msgstr "Pravopis a mluvnice"
+
+msgid "Spelling &\nGrammar"
+msgstr "Pravopis\na mluvnice"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Jazyk kontroly pravopisu a mluvnice: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Návrhy pravopisu"
+
+msgid "Spike"
+msgstr "Sběrač"
+
+msgid "Split Cells"
+msgstr "Rozdělit buňky"
+
+msgid "Split Table"
+msgstr "Rozdělit tabulku"
+
+msgid "Spreadsheet Table"
+msgstr "Tabulka sešitu"
+
+msgid "Square Root"
+msgstr "Druhá odmocnina"
+
+msgid "Square Root with Degree"
+msgstr "Druhá odmocnina se stupněm"
+
+msgid "Square Union"
+msgstr "Hranaté sjednocení"
+
+msgid "Stack Object"
+msgstr "Dva výrazy nad sebou"
+
+msgid "Stack Object (Three)"
+msgstr "Tři výrazy nad sebou"
+
+msgid "Stacked Bar"
+msgstr "Skládaný pruhový"
+
+msgid "Stacked Column"
+msgstr "Skládaný sloupcový"
+
+msgid "Stacked Fraction"
+msgstr "Zlomek s vodorovnou čarou"
+
+msgid "Stacked, no bar"
+msgstr "Nad sebou bez zlomkové čáry"
+
+msgid "Standard Colors"
+msgstr "Standardní barvy"
+
+msgid "Start Enforcing Protection"
+msgstr "Zahájit vynucování ochrany"
+
+msgid "Start Mail Merge"
+msgstr "Spustit hromadnou korespondenci"
+
+msgid "Start Mail\nMerge"
+msgstr "Spustit hromadnou\nkorespondenci"
+
+msgid "Start-up"
+msgstr "Spuštění"
+
+msgid "State"
+msgstr "Stát/kraj"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Jste tam ještě? Slyším vás přemýšlet."
+
+msgid "Stop Protection"
+msgstr "Ukončit ochranu"
+
+msgid "Stop Reading"
+msgstr "Zastavit čtení"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Zastaveno"
+
+msgid "Straight Arrow Connector"
+msgstr "Přímá spojnice se šipkou"
+
+msgid "Straight Connector"
+msgstr "Přímá spojnice"
+
+msgid "Stroke {n} of {total}"
+msgstr "Tah {n} z {total}"
+
+msgid "Strong"
+msgstr "Silné"
+
+msgid "Structure Actions"
+msgstr "Akce se strukturou"
+
+msgid "Structures"
+msgstr "Struktury"
+
+msgid "Studio cover"
+msgstr "Titulní stránka Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Příručka studia (ukázka)"
+
+msgid "Style based on:"
+msgstr "Styl založený na:"
+
+msgid "Style Inspector"
+msgstr "Inspektor stylů"
+
+msgid "Style name:"
+msgstr "Název stylu:"
+
+msgid "Style Set"
+msgstr "Sada stylů"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "Styl: {style}"
+
+msgid "Styles Pane"
+msgstr "Podokno stylů"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Styly:"
+
+msgid "Subentry:"
+msgstr "Podpoložka:"
+
+msgid "Submit print job"
+msgstr "Odeslat tiskovou úlohu"
+
+msgid "Submitting print job…"
+msgstr "Odesílání tiskové úlohy…"
+
+msgid "Subscript-Superscript"
+msgstr "Dolní a horní index"
+
+msgid "Subscripts and Superscripts"
+msgstr "Dolní a horní indexy"
+
+msgid "Subset:"
+msgstr "Podmnožina:"
+
+msgid "Subtle Emphasis"
+msgstr "Jemné zdůraznění"
+
+msgid "Subtle Reference"
+msgstr "Jemný odkaz"
+
+msgid "Suggested"
+msgstr "Navrhované"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Součet"
+
+msgid "Sum of cosines"
+msgstr "Součet kosinů"
+
+msgid "Sum or difference of sines"
+msgstr "Součet nebo rozdíl sinů"
+
+msgid "Summation"
+msgstr "Suma"
+
+msgid "Summation from 0 to n"
+msgstr "Suma od 0 do n"
+
+msgid "Summation over binomials"
+msgstr "Suma binomických koeficientů"
+
+msgid "Summation with Limits"
+msgstr "Suma s mezemi"
+
+msgid "Summation with Lower Limit"
+msgstr "Suma s dolní mezí"
+
+msgid "Summation with Subscript Limit"
+msgstr "Suma s mezí v dolním indexu"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Suma s mezemi v dolním a horním indexu"
+
+msgid "Summations"
+msgstr "Sumy"
+
+msgid "Suppress line numbers"
+msgstr "Potlačit čísla řádků"
+
+msgid "Surface Integral"
+msgstr "Plošný integrál"
+
+msgid "Surface Integral with Limits"
+msgstr "Plošný integrál s mezemi"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Plošný integrál s mezemi nad a pod"
+
+msgid "Swahili"
+msgstr "svahilština"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Zaměnit poznámky pod čarou a vysvětlivky"
+
+msgid "Swedish"
+msgstr "Švédština"
+
+msgid "Switch Modes"
+msgstr "Přepnout režimy"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Přepnout\nrežimy"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Švýcarsko"
+
+msgid "Synonyms"
+msgstr "Synonyma"
+
+msgid "Syria"
+msgstr "Sýrie"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "Podle systému"
+
+msgid "System dictionary"
+msgstr "Systémový slovník"
+
+msgid "Tab Character"
+msgstr "Znak tabulátoru"
+
+msgid "Tab character"
+msgstr "Znak tabulátoru"
+
+msgid "Tab characters"
+msgstr "Znaky tabulátoru"
+
+msgid "Tab leader:"
+msgstr "Vodicí znak tabulátoru:"
+
+msgid "Tab stop position:"
+msgstr "Umístění zarážky tabulátoru:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Zarážky tabulátoru ke smazání:"
+
+msgid "Table Column Width"
+msgstr "Šířka sloupce tabulky"
+
+msgid "Table Design"
+msgstr "Návrh tabulky"
+
+msgid "Table direction:"
+msgstr "Směr tabulky:"
+
+msgid "Table Grid"
+msgstr "Mřížka tabulky"
+
+msgid "Table Layout"
+msgstr "Rozvržení tabulky"
+
+msgid "Table of Authorities"
+msgstr "Seznam citovaných předpisů"
+
+msgid "Table of Contents"
+msgstr "Obsah"
+
+msgid "Table of Contents Options"
+msgstr "Možnosti obsahu"
+
+msgid "Table of Contents Styles"
+msgstr "Styly obsahu"
+
+msgid "Table of Figures"
+msgstr "Seznam obrázků"
+
+msgid "Table of\nContents"
+msgstr "Obsah"
+
+msgid "Table Properties"
+msgstr "Vlastnosti tabulky"
+
+msgid "Table Properties…"
+msgstr "Vlastnosti tabulky…"
+
+msgid "Table Row Height"
+msgstr "Výška řádku tabulky"
+
+msgid "Table size"
+msgstr "Velikost tabulky"
+
+msgid "Table Style Options"
+msgstr "Možnosti stylu tabulky"
+
+msgid "Table Styles"
+msgstr "Styly tabulek"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "Tabulátory…"
+
+msgid "Tabular List"
+msgstr "Tabulkový seznam"
+
+msgid "Tag"
+msgstr "Značka"
+
+msgid "Taiwan"
+msgstr "Tchaj-wan"
+
+msgid "Take the last match on the page"
+msgstr "Vzít poslední shodu na stránce"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Nespěchejte. Stránka nikam neuteče. Já taky ne. Nikdy."
+
+msgid "Tamil"
+msgstr "tamilština"
+
+msgid "Tangent formula"
+msgstr "Vzorec pro tangens"
+
+msgid "Tangent Function"
+msgstr "Tangens"
+
+msgid "TC entry fields"
+msgstr "Pole položek obsahu (TC)"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Technologie"
+
+msgid "Templates and Add-ins"
+msgstr "Šablony a doplňky"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Zde se zobrazí šablony, které uložíte do složky šablon."
+
+msgid "Text Box"
+msgstr "Textové pole"
+
+msgid "Text boxes"
+msgstr "Textová pole"
+
+msgid "text boxes can't go inside a text box"
+msgstr "textové pole nelze vložit do textového pole"
+
+msgid "Text Direction"
+msgstr "Směr textu"
+
+msgid "Text Effects"
+msgstr "Textové efekty"
+
+msgid "Text Effects and Typography"
+msgstr "Textové efekty a typografie"
+
+msgid "Text Fill"
+msgstr "Výplň textu"
+
+msgid "Text from File"
+msgstr "Text ze souboru"
+
+msgid "Text Highlight Color"
+msgstr "Barva zvýraznění textu"
+
+msgid "Text indent at:"
+msgstr "Odsazení textu na:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Text nejbližšího odstavce s daným stylem (živá záhlaví)"
+
+msgid "Text Outline"
+msgstr "Obrys textu"
+
+msgid "Text over Colon Equal"
+msgstr "Text nad dvojtečkou a rovnítkem"
+
+msgid "Text over Equal"
+msgstr "Text nad rovnítkem"
+
+msgid "Text Pane"
+msgstr "Podokno textu"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Velikost textu"
+
+msgid "Text snaps to characters"
+msgstr "Text se přichytává ke znakům"
+
+msgid "Text to display:"
+msgstr "Zobrazený text:"
+
+msgid "Text watermark"
+msgstr "Textový vodoznak"
+
+msgid "Text Wrapping"
+msgstr "Obtékání textu"
+
+msgid "Text\nBox"
+msgstr "Textové\npole"
+
+msgid "Text\nDirection"
+msgstr "Směr\ntextu"
+
+msgid "Thai"
+msgstr "thajština"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Tento formát nezachová veškerý obsah, proto dokument zůstává otevřený. Chcete-li pokračovat, uložte jej jako dokument Word (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Zadané heslo není správné. Zkontrolujte jej (rozlišují se malá a velká písmena) a zkuste to znovu."
+
+msgid "The clipboard is empty."
+msgstr "Schránka je prázdná."
+
+msgid "the Clipboard pane is empty"
+msgstr "podokno Schránka je prázdné"
+
+msgid "the cursor isn't in a table"
+msgstr "kurzor není v tabulce"
+
+msgid "The date it is today"
+msgstr "Dnešní datum"
+
+msgid "The document has no bookmarks yet."
+msgstr "Dokument zatím neobsahuje žádné záložky."
+
+msgid "the document is protected"
+msgstr "dokument je chráněný"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Dokument je určen jen pro čtení, kromě oblastí označených jako upravitelné."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Dokument bude uložen s heslem. Pro zapnutí ochrany dokument uložte."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Upravovaný dokument si jména a data ponechá; vynechá je jen uložený soubor."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Okraje se na stránku této velikosti nevejdou; nejprve okraje zmenšete."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Míra musí být mezi {min} a {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Nový styl převezme formátování aktuálního odstavce."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Šablonu Normální se nepodařilo přečíst, proto tento dokument používá vestavěné formátování WordCraftu."
+
+msgid "The number must be a divisor of {max}."
+msgstr "Číslo musí být dělitelem čísla {max}."
+
+msgid "The number must be between 1 and {max}."
+msgstr "Číslo musí být mezi 1 a {max}."
+
+msgid "the paragraph is empty"
+msgstr "odstavec je prázdný"
+
+msgid "the paragraph starts with a space"
+msgstr "odstavec začíná mezerou"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Heslo je volitelné; bez něj může ochranu ukončit kdokoliv."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Heslo bylo odebráno. Pro zachování změny dokument uložte."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Tiskárna, oboustranný tisk a počet stránek na list se volí v tomto dialogu."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Pole seznamu příjemců, které vyplní jednotlivé části bloku adresy a řádku oslovení."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Kontrola pravopisu a mluvnice je dokončena."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "Pravopisný slovník pro jazyk {language} nelze přečíst, proto se nekontroluje. Soubor: {file}. Důvod: {reason}"
+
+msgid "the Spike is empty"
+msgstr "sběrač je prázdný"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Systémový dialog pro práci se soubory není k dispozici, proto WordCraft zobrazuje vlastní. Chcete-li používat systémový dialog, nainstalujte portál pro výběr souborů (například xdg-desktop-portal-gtk) nebo zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Text v místě vkládání je označen: Nekontrolovat pravopis ani mluvnici."
+
+msgid "The time right now"
+msgstr "Aktuální čas"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Barvy motivu"
+
+msgid "Theme Fonts"
+msgstr "Písma motivu"
+
+msgid "Theme List"
+msgstr "Seznam motivů"
+
+msgid "Themes"
+msgstr "Motivy"
+
+msgid "Then by"
+msgstr "Potom podle"
+
+msgid "Then insert:"
+msgstr "Pak vložit:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "není žádný rukopis k přehrání"
+
+msgid "there is nothing to undo"
+msgstr "není co vrátit zpět"
+
+msgid "there's no citation after the caret"
+msgstr "za kurzorem není žádná citace"
+
+msgid "Thesaurus"
+msgstr "Tezaurus"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Tyto značky se zobrazují, i když je vypnuto Zobrazit/skrýt ¶."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Tato slučovací pole nejsou v seznamu příjemců:"
+
+msgid "These settings will be used for new documents."
+msgstr "Tato nastavení se použijí pro nové dokumenty."
+
+msgid "Thick"
+msgstr "Silné"
+
+msgid "Thick Frame"
+msgstr "Silný rám"
+
+msgid "Thin"
+msgstr "Tenké"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "Tuto akci nelze vrátit zpět. Původní soubor zůstane beze změny."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "tento graf byl vytvořen v jiném programu: WordCraft ho zobrazí, ale nemůže ho upravit"
+
+msgid "this diagram can't be edited"
+msgstr "tento diagram nelze upravovat"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "tento diagram byl vytvořen v jiném programu: WordCraft jej zobrazí, ale nemůže jej upravovat"
+
+msgid "This document"
+msgstr "Tento dokument"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Pouze tento dokument?"
+
+msgid "This field has no options."
+msgstr "Toto pole nemá žádné možnosti."
+
+msgid "This folder can't be read: {error}"
+msgstr "Tuto složku nelze přečíst: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Toto písmo neobsahuje žádné znaky k zobrazení."
+
+msgid "this item is already at the top level"
+msgstr "tato položka už je na nejvyšší úrovni"
+
+msgid "This page"
+msgstr "Tato stránka"
+
+msgid "This password type isn't supported."
+msgstr "Tento typ hesla není podporován."
+
+msgid "This point forward"
+msgstr "Od tohoto místa dále"
+
+msgid "This section"
+msgstr "Tento oddíl"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "tato relace nemá šablonu Normální (bez rozhraní nebo bez předvoleb)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "tato relace nemá šablonu Normální (bez rozhraní nebo bez předvoleb): použijte \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "tento SmartArt byl vytvořen v jiném programu: WordCraft ho zobrazí, ale nemůže ho upravit"
+
+msgid "this text box is already linked: break the link first"
+msgstr "toto textové pole už je propojené: nejprve zrušte propojení"
+
+msgid "Three"
+msgstr "Tři"
+
+msgid "Through"
+msgstr "Průchozí"
+
+msgid "Tight"
+msgstr "Těsné"
+
+msgid "Tilde"
+msgstr "Vlnovka"
+
+msgid "Tip"
+msgstr "Tip"
+
+msgid "Tips ({n})"
+msgstr "Tipy ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Ukázka"
+
+msgid "Title Bar"
+msgstr "Záhlaví okna"
+
+msgid "Title from the document properties"
+msgstr "Název z vlastností dokumentu"
+
+msgid "Title:"
+msgstr "Název:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Chcete-li dokumenty Word otevírat ve WordCraftu jako výchozí: vyberte jeden ve Finderu, zvolte Soubor › Informace, v části „Otevřít v aplikaci“ vyberte WordCraft a klikněte na „Změnit vše“."
+
+msgid "To:"
+msgstr "Do:"
+
+msgid "TOA Heading"
+msgstr "Nadpis seznamu citovaných předpisů"
+
+msgid "TOC Heading"
+msgstr "Nadpis obsahu"
+
+msgid "TOC {n}"
+msgstr "Obsah {n}"
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "tOGGLE cASE"
+msgstr "pŘEPNOUT vELIKOST pÍSMEN"
+
+msgid "Toggle Check Box"
+msgstr "Přepnout zaškrtávací políčko"
+
+msgid "Toggle Field Codes"
+msgstr "Přepnout kódy polí"
+
+msgid "Toggle Unicode Character"
+msgstr "Přepnout znak Unicode"
+
+msgid "Top and Bottom"
+msgstr "Nahoře a dole"
+
+msgid "Top Border"
+msgstr "Horní ohraničení"
+
+msgid "Top Left Cell"
+msgstr "Levá horní buňka"
+
+msgid "Top Margin"
+msgstr "Horní okraj"
+
+msgid "Top of Page"
+msgstr "Horní část stránky"
+
+msgid "Top of the Document"
+msgstr "Začátek dokumentu"
+
+msgid "Top Right Cell"
+msgstr "Pravá horní buňka"
+
+msgid "Total Row"
+msgstr "Řádek součtů"
+
+msgid "Track Changes"
+msgstr "Sledovat změny"
+
+msgid "Track Changes Options"
+msgstr "Možnosti sledování změn"
+
+msgid "Track Changes: On"
+msgstr "Sledování změn: zapnuto"
+
+msgid "Track formatting"
+msgstr "Sledovat formátování"
+
+msgid "Track\nChanges"
+msgstr "Sledovat\nzměny"
+
+msgid "Track\nChanges ✓"
+msgstr "Sledovat\nzměny ✓"
+
+msgid "Tracked changes"
+msgstr "Sledované změny"
+
+msgid "Trademark"
+msgstr "Ochranná známka"
+
+msgid "Trademark Sign"
+msgstr "Symbol ochranné známky"
+
+msgid "Transparency:"
+msgstr "Průhlednost:"
+
+msgid "Transport"
+msgstr "Doprava"
+
+msgid "Triangle Down"
+msgstr "Trojúhelník dolů"
+
+msgid "Triangle Up"
+msgstr "Trojúhelník nahoru"
+
+msgid "Trigonometric Functions"
+msgstr "Goniometrické funkce"
+
+msgid "Triple"
+msgstr "Trojité"
+
+msgid "Triple Dot"
+msgstr "Tři tečky"
+
+msgid "Triple Integral"
+msgstr "Trojný integrál"
+
+msgid "Triple Integral with Limits"
+msgstr "Trojný integrál s mezemi"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Trojný integrál s mezemi nad a pod"
+
+msgid "Trust Center"
+msgstr "Centrum zabezpečení"
+
+msgid "Tue"
+msgstr "Út"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turečtina"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Dva"
+
+msgid "Two-sided printing"
+msgstr "Oboustranný tisk"
+
+msgid "Two-sided: long edge"
+msgstr "Oboustranný: dlouhý okraj"
+
+msgid "Two-sided: short edge"
+msgstr "Oboustranný: krátký okraj"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Zadáním +2 nebo -1 se posunete od aktuální stránky."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Zadejte příkaz, např. „vložit tabulku“"
+
+msgid "Type a New List…"
+msgstr "Zadat nový seznam…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Zadejte číslo stránky nebo +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Zadejte velikost v libovolné jednotce, například 5 cm nebo 300 px. Druhá strana se přizpůsobí, takže obrázek zachová své proporce."
+
+msgid "Type at least one recipient."
+msgstr "Zadejte alespoň jednoho příjemce."
+
+msgid "Type Character Code"
+msgstr "Zadat kód znaku"
+
+msgid "Type equations in LaTeX"
+msgstr "Zapisovat rovnice v LaTeXu"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Zapisovat rovnice v lineárním formátu (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Psaní v rovnici"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Psát v rovnici běžný (nematematický) text"
+
+msgid "Type Text"
+msgstr "Zadat text"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Zadejte kategorie pod sebe a pro každou řadu sloupec hodnot."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Zadejte název pole a jeho přepínače, například PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Zadejte heslo pro ukončení ochrany."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Zadejte příjemce nebo je načtěte ze souboru."
+
+msgid "Typing replaces selected text"
+msgstr "Psaný text nahrazuje vybraný text"
+
+msgid "U.A.E."
+msgstr "SAE"
+
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgid "Ukrainian"
+msgstr "Ukrajinština"
+
+msgid "Unchecked symbol"
+msgstr "Symbol nezaškrtnutí"
+
+msgid "Underbar"
+msgstr "Čára pod výrazem"
+
+msgid "Underbrace"
+msgstr "Složená závorka pod výrazem"
+
+msgid "Underline Color"
+msgstr "Barva podtržení"
+
+msgid "Underline color"
+msgstr "Barva podtržení"
+
+msgid "Underline Words Only"
+msgstr "Podtrhnout pouze slova"
+
+msgid "Undo 1 Action"
+msgstr "Vrátit 1 akci"
+
+msgid "Undo Actions"
+msgstr "Vrátit více akcí"
+
+msgid "Undo History"
+msgstr "Historie vrácení"
+
+msgid "Undo {n} Actions"
+msgstr "Vrátit akce: {n}"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Zpět, zpět, zpět… teď cestujeme časem."
+
+msgid "Unformatted Text"
+msgstr "Neformátovaný text"
+
+msgid "Union of intersections"
+msgstr "Sjednocení průniků"
+
+msgid "Union with Limits"
+msgstr "Sjednocení s mezemi"
+
+msgid "Union with Lower Limit"
+msgstr "Sjednocení s dolní mezí"
+
+msgid "Union with Plus"
+msgstr "Sjednocení s plusem"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Sjednocení s mezemi v dolním a horním indexu"
+
+msgid "Unions and Intersections"
+msgstr "Sjednocení a průniky"
+
+msgid "United Kingdom"
+msgstr "Spojené království"
+
+msgid "United States"
+msgstr "Spojené státy"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "neznámý styl ozdobného textu `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Zrušit propojení polí"
+
+msgid "Unlink\nCitations"
+msgstr "Odpojit\ncitace"
+
+msgid "Unlock Fields"
+msgstr "Odemknout pole"
+
+msgid "Up Diagonal Dots"
+msgstr "Diagonální tečky nahoru"
+
+msgid "Up one level"
+msgstr "O úroveň výš"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Aktualizovat pole"
+
+msgid "Update fields before printing"
+msgstr "Před tiskem aktualizovat pole"
+
+msgid "Update Index"
+msgstr "Aktualizovat rejstřík"
+
+msgid "Update Style to Match Selection"
+msgstr "Aktualizovat styl podle výběru"
+
+msgid "Update Styles from Template"
+msgstr "Aktualizovat styly ze šablony"
+
+msgid "Update Table"
+msgstr "Aktualizovat"
+
+msgid "Update Table of Figures"
+msgstr "Aktualizovat seznam obrázků"
+
+msgid "Update to Match"
+msgstr "Aktualizovat podle výběru"
+
+msgid "Update to Match Selection"
+msgstr "Aktualizovat podle výběru"
+
+msgid "URGENT"
+msgstr "NALÉHAVÉ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Před souhláskovým zvukem použít „a“"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Před samohláskovým zvukem použít „an“"
+
+msgid "Use an Existing List…"
+msgstr "Použít existující seznam…"
+
+msgid "Use system setting"
+msgstr "Podle nastavení systému"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Použijte celou obrazovku prohlížeče (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Použít aktuální sadu stylů a motiv pro všechny nové dokumenty?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Přepínat režim přepisování klávesou Insert"
+
+msgid "Use this formatting as the default for:"
+msgstr "Použít toto formátování jako výchozí pro:"
+
+msgid "Use wildcards"
+msgstr "Používat zástupné znaky"
+
+msgid "User Name"
+msgstr "Uživatelské jméno"
+
+msgid "User name:"
+msgstr "Uživatelské jméno:"
+
+msgid "User templates:"
+msgstr "Uživatelské šablony:"
+
+msgid "Vector A"
+msgstr "Vektor A"
+
+msgid "Vector AB"
+msgstr "Vektor AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Historie verzí"
+
+msgid "Version {version} ({build})"
+msgstr "Verze {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Svislé zarovnání:"
+
+msgid "Vertical Bars"
+msgstr "Svislé čáry"
+
+msgid "Vertical Dots"
+msgstr "Svislé tečky"
+
+msgid "Vietnamese"
+msgstr "vietnamština"
+
+msgid "View Alt Text…"
+msgstr "Zobrazit alternativní text…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Zobrazit mřížku"
+
+msgid "View State"
+msgstr "Stav zobrazení"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Zobrazení › Soustředění skryje všechno kromě vašich slov. Počkám venku."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Zobrazení"
+
+msgid "Visual effects"
+msgstr "Vizuální efekty"
+
+msgid "Vivid 200%"
+msgstr "Živé 200 %"
+
+msgid "Volume"
+msgstr "Ročník"
+
+msgid "Volume Integral"
+msgstr "Objemový integrál"
+
+msgid "Volume Integral with Limits"
+msgstr "Objemový integrál s mezemi"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Objemový integrál s mezemi nad a pod"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Před zavřením počkejte, až se dokončí odesílání tiskové úlohy."
+
+msgid "Waiting for the save to finish…"
+msgstr "Čeká se na dokončení ukládání…"
+
+msgid "Waiting for Zotero…"
+msgstr "Čekání na Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Teplý přechod s obrysem"
+
+msgid "Warnings ({n})"
+msgstr "Upozornění ({n})"
+
+msgid "Washout"
+msgstr "Vybledlé"
+
+msgid "Weather"
+msgstr "Počasí"
+
+msgid "Web Layout"
+msgstr "Rozvržení webu"
+
+msgid "Web page (*.html)"
+msgstr "Webová stránka (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Rozvržení\nwebu"
+
+msgid "Wed"
+msgstr "St"
+
+msgid "Welsh"
+msgstr "velština"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "When this document was first created"
+msgstr "Datum vytvoření tohoto dokumentu"
+
+msgid "When this document was most recently printed"
+msgstr "Datum posledního tisku tohoto dokumentu"
+
+msgid "When this document was most recently saved"
+msgstr "Datum posledního uložení tohoto dokumentu"
+
+msgid "White Space"
+msgstr "Prázdné místo"
+
+msgid "White space"
+msgstr "Mezery"
+
+msgid "Who the document properties name as author"
+msgstr "Autor uvedený ve vlastnostech dokumentu"
+
+msgid "Whole document"
+msgstr "Celý dokument"
+
+msgid "Whole page"
+msgstr "Celá stránka"
+
+msgid "Whole Table"
+msgstr "Celá tabulka"
+
+msgid "Whole words"
+msgstr "Celá slova"
+
+msgid "Wide"
+msgstr "Široké"
+
+msgid "Widow/Orphan Control"
+msgstr "Kontrola osamocených řádků"
+
+msgid "Widow/Orphan control"
+msgstr "Kontrola osamocených řádků"
+
+msgid "Width and spacing"
+msgstr "Šířka a mezery"
+
+msgid "Wildcards (regex)"
+msgstr "Zástupné znaky (regex)"
+
+msgid "With:"
+msgstr "Čím:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Dokument Word 2003 XML (*.xml)"
+
+msgid "Word Count"
+msgstr "Počet slov"
+
+msgid "Word document"
+msgstr "Dokument Word"
+
+msgid "Word document (*.docx)"
+msgstr "Dokument Word (*.docx)"
+
+msgid "Word Left"
+msgstr "O slovo vlevo"
+
+msgid "Word level"
+msgstr "Úroveň slov"
+
+msgid "Word Right"
+msgstr "O slovo vpravo"
+
+msgid "Word sources"
+msgstr "Prameny Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Dokument Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Styly WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft je nyní výchozí aplikací pro dokumenty Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Pouze slova"
+
+msgid "Wrap Text"
+msgstr "Obtékání textu"
+
+msgid "Wrap Text Sides"
+msgstr "Strany obtékání textu"
+
+msgid "Wrap\nText"
+msgstr "Obtékání\ntextu"
+
+msgid "Write & Insert Fields"
+msgstr "Psaní a vkládání polí"
+
+msgid "Write a reply"
+msgstr "Napište odpověď"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Tvůrčí blok? Mně pomáhá zírat na kurzor. Mrká na mě už léta."
+
+msgid "x bar"
+msgstr "x s čárou nad"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Yields"
+msgstr "Dává"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Dlouho jste neukládali a Automatické ukládání je vypnuté. Uložit teď?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Začali jste seznam. Dvojím stisknutím Enter ho ukončíte, Backspace na začátku položky ji změní zpět na text."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Váš dokument je teď nejuloženější dokument v dějinách."
+
+msgid "Your languages"
+msgstr "Vaše jazyky"
+
+msgid "Your own dictionary"
+msgstr "Váš vlastní slovník"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Systém neuvádí žádné nastavení animací, proto efekty animace zůstávají zapnuté."
+
+msgid "Your system has animation effects turned off."
+msgstr "Efekty animace jsou v systému vypnuté."
+
+msgid "Your system has animation effects turned on."
+msgstr "Efekty animace jsou v systému zapnuté."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: zrušeno"
+
+msgid "Zotero: done"
+msgstr "Zotero: hotovo"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; nelze přečíst ({count}): {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; přeskočeno: {n} (limit {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Tabulka {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Přispěvatelé: {contributors} · commity: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Počet zvýrazněných položek: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Stránky k tisku: {count} z {total}"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Příjemci ke sloučení: {count} z {total}."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Nastavení skupiny {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} zkontroluje pravopis a gramatiku celého dokumentu."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} spočítá vaše slova, znaky a odstavce."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} najde a nahradí text, formátování a speciální znaky."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} zopakuje poslední akci. Formátování deseti nadpisů je najednou jedno kliknutí a devět ťuknutí."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} začne nový řádek, aniž by začal nový odstavec."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} začne novou stránku. Mnohem úhlednější než mačkat Enter, dokud se to nestane."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} udělá z vybraného textu odkaz."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+kliknutím otevřete odkaz"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (výchozí)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (slovník nelze přečíst)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (bez slovníku)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "Výchozím jazykem dokumentu je nyní {language}."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: slovník nebyl nalezen"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft v tomto jazyce zatím nekontroluje pravopis ani mluvnici."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (nelze přečíst: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} a dalších {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} palce"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "Položka {name} již existuje. Dalším zvolením Uložit ji nahradíte."
+
+msgid "{name} is protected with a password."
+msgstr "Dokument {name} je chráněn heslem."
+
+msgid "{name} options"
+msgstr "Možnosti: {name}"
+
+msgid "{name} wasn't found."
+msgstr "Položka {name} nebyla nalezena."
+
+msgid "{n} entries marked."
+msgstr "Označeno položek: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "Řádků: {n}"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} b."
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "Počet slov: {words}; vybráno: {selected}"
+
+msgid "{size} pt"
+msgstr "{size} b."
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pixelů"
+
+msgid "{words} words"
+msgstr "Počet slov: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "Slov: {words} a pořád přibývají. Doslova. Počítám je."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "Slov: {words}! Házel bych konfety, ale pak bych je musel uklízet."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "Slov: {words}. To je o {words} víc, než jsem dnes napsal já."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}“ ({row}, {series}) není číslo."
+
+msgid "✓ None"
+msgstr "✓ Žádné"
+
+msgid "➕ New comment"
+msgstr "➕ Nový komentář"
+
+msgid "📂  Browse…"
+msgstr "📂  Procházet…"

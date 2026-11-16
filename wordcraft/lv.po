@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Visi)"
+
+msgid "(no style)"
+msgstr "(bez stila)"
+
+msgid "(no suggestions)"
+msgstr "(nav ieteikumu)"
+
+msgid "(normal text)"
+msgstr "(parasts teksts)"
+
+msgid "(not matched)"
+msgstr "(nav atbilstības)"
+
+msgid "(picture or object)"
+msgstr "(attēls vai objekts)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr "*Treknraksts* un _slīpraksts_ kā īsts formatējums"
+
+msgid "0 or More Characters"
+msgstr "0 vai vairāk rakstzīmju"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Formatēšanas ierobežojumi"
+
+msgid "1.5 Line Spacing"
+msgstr "1,5 rindstarpa"
+
+msgid "1/4 Em Space"
+msgstr "1/4 Em atstarpe"
+
+msgid "1×2 Empty Matrix"
+msgstr "1×2 tukša matrica"
+
+msgid "1×3 Empty Matrix"
+msgstr "1×3 tukša matrica"
+
+msgid "2. Editing restrictions"
+msgstr "2. Rediģēšanas ierobežojumi"
+
+msgid "2×1 Empty Matrix"
+msgstr "2×1 tukša matrica"
+
+msgid "2×2 Determinant"
+msgstr "2×2 determinants"
+
+msgid "2×2 Empty Matrix"
+msgstr "2×2 tukša matrica"
+
+msgid "2×2 Identity Matrix"
+msgstr "2×2 vienības matrica"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "2×2 vienības matrica (reta)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "2×2 matrica kvadrātiekavās"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "2×2 matrica dubultās līnijās"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "2×2 matrica apaļajās iekavās"
+
+msgid "2×3 Empty Matrix"
+msgstr "2×3 tukša matrica"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Sākt piemērošanu"
+
+msgid "3×1 Empty Matrix"
+msgstr "3×1 tukša matrica"
+
+msgid "3×2 Empty Matrix"
+msgstr "3×2 tukša matrica"
+
+msgid "3×3 Empty Matrix"
+msgstr "3×3 tukša matrica"
+
+msgid "3×3 Identity Matrix"
+msgstr "3×3 vienības matrica"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "3×3 vienības matrica (reta)"
+
+msgid "<< Less"
+msgstr "<< Mazāk"
+
+msgid "<< Remove"
+msgstr "<< Noņemt"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "zīmēšanas audeklu nevar atgrupēt"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "zīmēšanas audekls nevar atrasties teksta lodziņā"
+
+msgid "A file dialog is already open."
+msgstr "Failu dialoglodziņš jau ir atvērts."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Bezmaksas atvērtā koda teksta procesors, kas no nulles rakstīts Rust valodā.\nDaļa no ArtCraft komandas Crafting Apps."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "grupu ar Word tinti vēl nevar atgrupēt"
+
+msgid "A mail merge field"
+msgstr "Pasta sapludināšanas lauks"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Numurēta secība (attēli, tabulas…)"
+
+msgid "A password is required to open this document."
+msgstr "Lai atvērtu šo dokumentu, nepieciešama parole."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Satura rādītājs"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Par WordCraft"
+
+msgid "Above Chart"
+msgstr "Virs diagrammas"
+
+msgid "Above the item"
+msgstr "Virs vienuma"
+
+msgid "Above/below"
+msgstr "Virs/zem"
+
+msgid "Absolute value cases"
+msgstr "Absolūtās vērtības gadījumi"
+
+msgid "Accent"
+msgstr "Akcents"
+
+msgid "Accent Gradient"
+msgstr "Akcenta gradients"
+
+msgid "Accent with Reflection"
+msgstr "Akcents ar atspulgu"
+
+msgid "Accent {n}"
+msgstr "{n}. akcents"
+
+msgid "Accents"
+msgstr "Akcenti"
+
+msgid "Accept"
+msgstr "Pieņemt"
+
+msgid "Accept All Changes"
+msgstr "Pieņemt visas izmaiņas"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr "Pieņemt visas izmaiņas un pārtraukt izsekošanu"
+
+msgid "Accept and Move to Next"
+msgstr "Pieņemt un pāriet uz nākamo"
+
+msgid "Accept This Change"
+msgstr "Pieņemt šīs izmaiņas"
+
+msgid "Accessed on"
+msgstr "Skatīts"
+
+msgid "Accessibility Pane"
+msgstr "Pieejamības rūts"
+
+msgid "Account"
+msgstr "Konts"
+
+msgid "Acute"
+msgstr "Akūts"
+
+msgid "Add >>"
+msgstr "Pievienot >>"
+
+msgid "Add a language"
+msgstr "Pievienot valodu"
+
+msgid "Add a language…"
+msgstr "Pievienot valodu…"
+
+msgid "Add a period with double-space"
+msgstr "Pievienot punktu ar dubultatstarpi"
+
+msgid "Add a Table"
+msgstr "Pievienot tabulu"
+
+msgid "Add at least one field."
+msgstr "Pievienojiet vismaz vienu lauku."
+
+msgid "Add Chart Element"
+msgstr "Pievienot diagrammas elementu"
+
+msgid "Add Condition"
+msgstr "Pievienot nosacījumu"
+
+msgid "Add Field"
+msgstr "Pievienot lauku"
+
+msgid "Add Font…"
+msgstr "Pievienot fontu…"
+
+msgid "Add gradient stop"
+msgstr "Pievienot gradienta punktu"
+
+msgid "Add line numbering"
+msgstr "Pievienot rindu numerāciju"
+
+msgid "Add New Source…"
+msgstr "Pievienot jaunu avotu…"
+
+msgid "Add Object to Selection"
+msgstr "Pievienot objektu atlasei"
+
+msgid "Add Pen"
+msgstr "Pievienot pildspalvu"
+
+msgid "Add Row"
+msgstr "Pievienot rindu"
+
+msgid "Add Series"
+msgstr "Pievienot sēriju"
+
+msgid "Add Shape"
+msgstr "Pievienot figūru"
+
+msgid "Add Space Before Paragraph"
+msgstr "Pievienot atstarpi pirms rindkopas"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Pievienot atstarpi starp Āzijas un latīņu tekstu"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Pievienot atstarpi starp Āzijas tekstu un skaitļiem"
+
+msgid "Add tab stop at:"
+msgstr "Pievienot tabulācijas pieturu pie:"
+
+msgid "Add Text"
+msgstr "Pievienot tekstu"
+
+msgid "Add the chapter number"
+msgstr "Pievienot nodaļas numuru"
+
+msgid "Add to AutoCorrect"
+msgstr "Pievienot automātiskajai labošanai"
+
+msgid "Add to Document"
+msgstr "Pievienot dokumentam"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Pievienot ātrās piekļuves rīkjoslai"
+
+msgid "Add to Style Gallery"
+msgstr "Pievienot stilu galerijai"
+
+msgid "Add whether it is above or below"
+msgstr "Pievienot, vai tas ir virs vai zem"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Pievienot/rediģēt\nbibliogrāfiju"
+
+msgid "Add/Edit\nCitation"
+msgstr "Pievienot/rediģēt\natsauci"
+
+msgid "Add\nNote"
+msgstr "Pievienot\npiezīmi"
+
+msgid "Add\nPen"
+msgstr "Pievienot\npildspalvu"
+
+msgid "Add\nShape"
+msgstr "Pievienot\nfigūru"
+
+msgid "Added 1 font"
+msgstr "Pievienots 1 fonts"
+
+msgid "Added Fonts"
+msgstr "Pievienotie fonti"
+
+msgid "Added {n} fonts"
+msgstr "Pievienoti {n} fonti"
+
+msgid "Address"
+msgstr "Adrese"
+
+msgid "Address Block"
+msgstr "Adreses bloks"
+
+msgid "Address labels"
+msgstr "Adrešu etiķetes"
+
+msgid "Address:"
+msgstr "Adrese:"
+
+msgid "Address\nBlock"
+msgstr "Adreses\nbloks"
+
+msgid "Advanced Find"
+msgstr "Papildu meklēšana"
+
+msgid "Advanced Find…"
+msgstr "Papildu meklēšana…"
+
+msgid "Advanced Properties…"
+msgstr "Papildu rekvizīti…"
+
+msgid "Afrikaans"
+msgstr "Afrikandu"
+
+msgid "After:"
+msgstr "Pēc:"
+
+msgid "Agents"
+msgstr "Aģenti"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Ar WordCraft savienoti aģenti var rādīt jums ziņojumus ar palīga starpniecību. Ja tie ir izslēgti, viņiem tiek pateikts, ka jūs to nevēlaties."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ā, latīņu valoda. Termiņu valoda."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ā, rediģēšanas posms. Mans mīļākais. Ļoti izlēmīgs."
+
+msgid "Albanian"
+msgstr "Albāņu"
+
+msgid "Align Bottom Center"
+msgstr "Līdzināt apakšā centrā"
+
+msgid "Align Bottom Left"
+msgstr "Līdzināt apakšā pa kreisi"
+
+msgid "Align Bottom Right"
+msgstr "Līdzināt apakšā pa labi"
+
+msgid "Align Center"
+msgstr "Līdzināt centrā"
+
+msgid "Align Center Left"
+msgstr "Līdzināt centrā pa kreisi"
+
+msgid "Align Center Right"
+msgstr "Līdzināt centrā pa labi"
+
+msgid "Align Top Center"
+msgstr "Līdzināt augšā centrā"
+
+msgid "Align Top Left"
+msgstr "Līdzināt augšā pa kreisi"
+
+msgid "Align Top Right"
+msgstr "Līdzināt augšā pa labi"
+
+msgid "Aligned at:"
+msgstr "Līdzināts pie:"
+
+msgid "All - Linear"
+msgstr "Viss — lineāri"
+
+msgid "All - Professional"
+msgstr "Viss — profesionāli"
+
+msgid "All Borders"
+msgstr "Visas apmales"
+
+msgid "All caps"
+msgstr "Lielie burti"
+
+msgid "All Commands"
+msgstr "Visas komandas"
+
+msgid "All documents based on the Normal template?"
+msgstr "Visus dokumentus, kas balstīti uz veidni Normal?"
+
+msgid "All Fonts"
+msgstr "Visi fonti"
+
+msgid "All Levels"
+msgstr "Visi līmeņi"
+
+msgid "All Markup"
+msgstr "Visi iezīmējumi"
+
+msgid "All pages in the range"
+msgstr "Visas lapas diapazonā"
+
+msgid "All symbol sets"
+msgstr "Visas simbolu kopas"
+
+msgid "All system fonts are already available."
+msgstr "Visi sistēmas fonti jau ir pieejami."
+
+msgid "Allow hanging punctuation"
+msgstr "Atļaut pieturzīmju izvirzīšanu"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Atļaut latīņu teksta pārnešanu vārda vidū"
+
+msgid "Allow line breaks"
+msgstr "Atļaut rindu pārtraukumus"
+
+msgid "Allow row to break across pages"
+msgstr "Atļaut rindas dalīšanu pāri lapām"
+
+msgid "Alphabetical"
+msgstr "Alfabētiski"
+
+msgid "Alt Text"
+msgstr "Alternatīvais teksts"
+
+msgid "Alt text"
+msgstr "Alternatīvais teksts"
+
+msgid "Alt Text Pane"
+msgstr "Alternatīvā teksta rūts"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Alternatīvais\nteksts"
+
+msgid "an agent"
+msgstr "aģents"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Pēc šīs mapes tiek izmantota instalēta valodas pakotne."
+
+msgid "And"
+msgstr "Un"
+
+msgid "Angle Brackets"
+msgstr "Stūra iekavas"
+
+msgid "Angle Brackets with Separator"
+msgstr "Stūra iekavas ar atdalītāju"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Stūra iekavas ar diviem atdalītājiem"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animēt kursoru (tas slīd un izgaist)"
+
+msgid "Animation effects:"
+msgstr "Animācijas efekti:"
+
+msgid "Annotation Reference"
+msgstr "Anotācijas atsauce"
+
+msgid "Annotation Subject"
+msgstr "Anotācijas tēma"
+
+msgid "Annotation Text"
+msgstr "Anotācijas teksts"
+
+msgid "Annoying"
+msgstr "Kaitinošs"
+
+msgid "Another file"
+msgstr "Cits fails"
+
+msgid "Any Character"
+msgstr "Jebkura rakstzīme"
+
+msgid "Any Digit"
+msgstr "Jebkurš cipars"
+
+msgid "Any field"
+msgstr "Jebkurš lauks"
+
+msgid "Any Letter"
+msgstr "Jebkurš burts"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Šo dokumentu var atvērt ikviens. Šifrējiet to ar paroli, lai saglabātu privātu."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Ikvienam, kas atver dokumentu, būs vajadzīga šī parole."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Lietot rakstīšanas laikā"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Lietot Āzijas rindu pārneses kārtulas (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Lietot formatējumu:"
+
+msgid "Apply Style"
+msgstr "Lietot stilu"
+
+msgid "Apply Styles"
+msgstr "Lietot stilus"
+
+msgid "Arabic"
+msgstr "Arābu"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "Arābu"
+
+msgid "Arch Down"
+msgstr "Arka uz leju"
+
+msgid "Arch Up"
+msgstr "Arka uz augšu"
+
+msgid "Argentina"
+msgstr "Argentīna"
+
+msgid "Armenian"
+msgstr "Armēņu"
+
+msgid "Arrange\nAll"
+msgstr "Sakārtot\nvisu"
+
+msgid "Article I."
+msgstr "I pants."
+
+msgid "Artistic Effects"
+msgstr "Mākslinieciskie efekti"
+
+msgid "As Recommended"
+msgstr "Kā ieteikts"
+
+msgid "As you type"
+msgstr "Rakstīšanas laikā"
+
+msgid "ASAP"
+msgstr "Pēc iespējas ātrāk"
+
+msgid "Asian text font:"
+msgstr "Āzijas teksta fonts:"
+
+msgid "Asian Typography"
+msgstr "Āzijas tipogrāfija"
+
+msgid "Assistant"
+msgstr "Palīgs"
+
+msgid "Assistant Suggestions"
+msgstr "Palīga ieteikumi"
+
+msgid "At least"
+msgstr "Vismaz"
+
+msgid "At least {n}"
+msgstr "Vismaz {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Atmosfēra"
+
+msgid "Attach Template"
+msgstr "Pievienot veidni"
+
+msgid "Attach…"
+msgstr "Pievienot…"
+
+msgid "Australia"
+msgstr "Austrālija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "Auto orientation"
+msgstr "Automātiska orientācija"
+
+msgid "AutoCorrect"
+msgstr "Automātiskā labošana"
+
+msgid "AutoCorrect Options"
+msgstr "Automātiskās labošanas opcijas"
+
+msgid "AutoCorrect Options…"
+msgstr "Automātiskās labošanas opcijas…"
+
+msgid "AutoFit"
+msgstr "Automātiski ietilpināt"
+
+msgid "AutoFit behavior"
+msgstr "Automātiskās ietilpināšanas darbība"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Automātiski ietilpināt kolonnu ar dubultklikšķi"
+
+msgid "AutoFit Contents"
+msgstr "Ietilpināt pēc satura"
+
+msgid "AutoFit to contents"
+msgstr "Automātiski ietilpināt pēc satura"
+
+msgid "AutoFit to window"
+msgstr "Automātiski ietilpināt logā"
+
+msgid "AutoFit Window"
+msgstr "Ietilpināt logā"
+
+msgid "AutoFormat As You Type"
+msgstr "Automātiskā formatēšana rakstīšanas laikā"
+
+msgid "Automatic ({language})"
+msgstr "Automātiski ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automātiski ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Automātiski saraksti ar aizzīmēm"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automātiskais režīms seko sistēmas valodai. Mainās izvēlnes un komandas, bet ne jūsu dokumenti."
+
+msgid "Automatic numbered lists"
+msgstr "Automātiski numurēti saraksti"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Automātiskā tabula 1 (3 līmeņi)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Automātiskā tabula 2 (2 līmeņi)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "Automātiski pievienot vārdus sarakstam (pirmais burts)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "Automātiski pievienot vārdus sarakstam (DIvi LIeli burti)"
+
+msgid "Automatically hyphenate document"
+msgstr "Automātiski pārnest vārdus dokumentā"
+
+msgid "Automatically Update Document Styles"
+msgstr "Automātiski atjaunināt dokumenta stilus"
+
+msgid "Automatically update document styles"
+msgstr "Automātiski atjaunināt dokumenta stilus"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Automātiski saglabāt dokumentus, kas saglabāti programmā WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Automātiskā saglabāšana neizdevās: {error}. Saglabājiet dokumentu, lai to atkal ieslēgtu."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Automātiskā saglabāšana pārlūkā nav pieejama: tā nevar rakstīt jūsu failos. Saglabāt lejupielādē kopiju."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Automātiskā saglabāšana saglabā tikai .docx, .odt un .rtf failus; {name} nevar saglabāt visu formatējumu. Saglabājiet kā .docx, lai ieslēgtu automātisko saglabāšanu."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Automātiskā saglabāšana saglabā katru izmaiņu failā (nepieciešams saglabāts dokuments)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Automātiskā saglabāšana ieraksta izmaiņas failā brīdi pēc tam, kad pārtraucat rakstīt."
+
+msgid "AutoText"
+msgstr "Automātiskais teksts"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10.12\" × 14.33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7.17\" × 10.12\""
+
+msgid "Balloons"
+msgstr "Baloni"
+
+msgid "Banded Columns"
+msgstr "Joslotas kolonnas"
+
+msgid "Banded Rows"
+msgstr "Joslotas rindas"
+
+msgid "Base text:"
+msgstr "Pamatteksts:"
+
+msgid "Based on: {style}"
+msgstr "Balstīts uz: {style}"
+
+msgid "Baseline Dots"
+msgstr "Bāzes līnijas punkti"
+
+msgid "Basic Cycle"
+msgstr "Pamata cikls"
+
+msgid "Basic List"
+msgstr "Pamata saraksts"
+
+msgid "Basic Math"
+msgstr "Pamata matemātika"
+
+msgid "Basic Matrix"
+msgstr "Pamata matrica"
+
+msgid "Basic Process"
+msgstr "Pamata process"
+
+msgid "Basic Pyramid"
+msgstr "Pamata piramīda"
+
+msgid "Basic Radial"
+msgstr "Pamata radiāls"
+
+msgid "Basic Venn"
+msgstr "Pamata Venna diagramma"
+
+msgid "Bayes' rule"
+msgstr "Beijesa likums"
+
+msgid "Before:"
+msgstr "Pirms:"
+
+msgid "Beginning of Word"
+msgstr "Vārda sākums"
+
+msgid "Behind Text"
+msgstr "Aiz teksta"
+
+msgid "Belarus"
+msgstr "Baltkrievija"
+
+msgid "Belarusian"
+msgstr "Baltkrievu"
+
+msgid "Belgium"
+msgstr "Beļģija"
+
+msgid "Below text"
+msgstr "Zem teksta"
+
+msgid "Below the item"
+msgstr "Zem vienuma"
+
+msgid "Between"
+msgstr "Starp"
+
+msgid "Bibliography"
+msgstr "Bibliogrāfija"
+
+msgid "Binomial Coefficient"
+msgstr "Binomiālais koeficients"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Binomiālais koeficients (stūra)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Binomiālais koeficients stūra iekavās"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "(x+a)ⁿ binomiālā izvirzījums"
+
+msgid "Blank"
+msgstr "Tukšs"
+
+msgid "Blank (Three Columns)"
+msgstr "Tukšs (trīs kolonnas)"
+
+msgid "Blank document"
+msgstr "Tukšs dokuments"
+
+msgid "Blank Page"
+msgstr "Tukša lapa"
+
+msgid "Block\nAuthors"
+msgstr "Bloķēt\nautorus"
+
+msgid "Blue:"
+msgstr "Zils:"
+
+msgid "Body Text"
+msgstr "Pamatteksts"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Pamatteksts īsā rindkopā, lai parādītu atstatumus."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Drosmīga izvēle. Ctrl+Z ir tepat, ja vajag."
+
+msgid "Bolivia"
+msgstr "Bolīvija"
+
+msgid "Book"
+msgstr "Grāmata"
+
+msgid "Book Title"
+msgstr "Grāmatas nosaukums"
+
+msgid "Book title"
+msgstr "Grāmatas nosaukums"
+
+msgid "Bookmark"
+msgstr "Grāmatzīme"
+
+msgid "Bookmark name:"
+msgstr "Grāmatzīmes nosaukums:"
+
+msgid "Bookmark text"
+msgstr "Grāmatzīmes teksts"
+
+msgid "Bookmarks"
+msgstr "Grāmatzīmes"
+
+msgid "Border lines"
+msgstr "Apmales līnijas"
+
+msgid "Border Painter"
+msgstr "Apmaļu ota"
+
+msgid "Border\nPainter"
+msgstr "Apmaļu\nota"
+
+msgid "Borders and Shading"
+msgstr "Apmales un ēnojums"
+
+msgid "Borders and Shading…"
+msgstr "Apmales un ēnojums…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnija un Hercegovina"
+
+msgid "Bosnian"
+msgstr "Bosniešu"
+
+msgid "Both Sides"
+msgstr "Abas puses"
+
+msgid "Bottom Border"
+msgstr "Apakšējā apmale"
+
+msgid "Bottom Left Cell"
+msgstr "Apakšējā kreisā šūna"
+
+msgid "Bottom Margin"
+msgstr "Apakšējā piemale"
+
+msgid "Bottom of Page"
+msgstr "Lapas apakša"
+
+msgid "Bottom Right Cell"
+msgstr "Apakšējā labā šūna"
+
+msgid "Box"
+msgstr "Lodziņš"
+
+msgid "Boxed Formula"
+msgstr "Formula lodziņā"
+
+msgid "Boxed Formula (example)"
+msgstr "Formula lodziņā (piemērs)"
+
+msgid "Boxed Formulas"
+msgstr "Formulas lodziņos"
+
+msgid "Braces"
+msgstr "Figūriekavas"
+
+msgid "Braces with Separator"
+msgstr "Figūriekavas ar atdalītāju"
+
+msgid "Bracket"
+msgstr "Iekava"
+
+msgid "Brackets"
+msgstr "Iekavas"
+
+msgid "Brackets with Separators"
+msgstr "Iekavas ar atdalītājiem"
+
+msgid "Brazil"
+msgstr "Brazīlija"
+
+msgid "Breaks"
+msgstr "Pārtraukumi"
+
+msgid "Breve"
+msgstr "Īsuma zīme"
+
+msgid "Bright Green"
+msgstr "Spilgti zaļš"
+
+msgid "Brighter +20%"
+msgstr "Gaišāks +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "Spilgtums, kontrasts un asums"
+
+msgid "Browse in WordCraft…"
+msgstr "Pārlūkot programmā WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Būvbloku galerijas satura vadīkla"
+
+msgid "Built in"
+msgstr "Iebūvēts"
+
+msgid "Built-In"
+msgstr "Iebūvēts"
+
+msgid "Built-in Heading styles"
+msgstr "Iebūvētie virsrakstu stili"
+
+msgid "Built-in style"
+msgstr "Iebūvēts stils"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Iebūvētos stilus nevar dzēst."
+
+msgid "Bulgarian"
+msgstr "Bulgāru"
+
+msgid "Bullet Library"
+msgstr "Aizzīmju bibliotēka"
+
+msgid "Bullets"
+msgstr "Aizzīmes"
+
+msgid "By author"
+msgstr "Pēc autora"
+
+msgid "Cabo Verde"
+msgstr "Kaboverde"
+
+msgid "Calendar"
+msgstr "Kalendārs"
+
+msgid "Can't be deleted"
+msgstr "Nevar dzēst"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr "Nevarat atrast komandu? Nospiediet Alt+Q un ierakstiet, ko vēlaties darīt."
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Nevarat atrast komandu? Nospiediet {key} un ierakstiet, ko vēlaties darīt."
+
+msgid "can't split at the first row"
+msgstr "nevar sadalīt pie pirmās rindas"
+
+msgid "Canada"
+msgstr "Kanāda"
+
+msgid "Canvas Member"
+msgstr "Audekla dalībnieks"
+
+msgid "Capitalize Each Word"
+msgstr "Katru vārdu ar lielo burtu"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Teikumu pirmais burts lielais"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Tabulas šūnu pirmais burts lielais"
+
+msgid "Capitalize names of days"
+msgstr "Dienu nosaukumi ar lielo burtu"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Teikuma pirmais vārds ar lielo burtu"
+
+msgid "Caption Numbering"
+msgstr "Parakstu numerācija"
+
+msgid "Caption text"
+msgstr "Paraksta teksts"
+
+msgid "Caption:"
+msgstr "Paraksts:"
+
+msgid "Captions"
+msgstr "Paraksti"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Uzmanīgi, vēl tālāk atpakaļ un atsauksim papīra izgudrošanu."
+
+msgid "Caret Character"
+msgstr "Jumtiņa rakstzīme"
+
+msgid "Case changes"
+msgstr "Reģistra izmaiņas"
+
+msgid "Cases (Three Conditions)"
+msgstr "Gadījumi (trīs nosacījumi)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Gadījumi (divi nosacījumi)"
+
+msgid "Cases and Stacks"
+msgstr "Gadījumi un kaudzes"
+
+msgid "Catalan"
+msgstr "Katalāņu"
+
+msgid "Catalan (Valencian)"
+msgstr "Katalāņu (valensiešu)"
+
+msgid "Categories"
+msgstr "Kategorijas"
+
+msgid "Categories:"
+msgstr "Kategorijas:"
+
+msgid "Category {n}"
+msgstr "{n}. kategorija"
+
+msgid "Ceiling"
+msgstr "Griesti"
+
+msgid "Cell"
+msgstr "Šūna"
+
+msgid "Cell Margins"
+msgstr "Šūnu piemales"
+
+msgid "Cell\nMargins"
+msgstr "Šūnu\npiemales"
+
+msgid "Center Glow"
+msgstr "Mirdzums centrā"
+
+msgid "Centered as Group"
+msgstr "Centrēts kā grupa"
+
+msgid "Change Chart Type"
+msgstr "Mainīt diagrammas veidu"
+
+msgid "Change Colors"
+msgstr "Mainīt krāsas"
+
+msgid "Change in y over change in x"
+msgstr "y izmaiņas pret x izmaiņām"
+
+msgid "Change Layout"
+msgstr "Mainīt izkārtojumu"
+
+msgid "Change List Level"
+msgstr "Mainīt saraksta līmeni"
+
+msgid "Change Password…"
+msgstr "Mainīt paroli…"
+
+msgid "Change Picture"
+msgstr "Mainīt attēlu"
+
+msgid "Change Picture…"
+msgstr "Mainīt attēlu…"
+
+msgid "Change Shape"
+msgstr "Mainīt figūru"
+
+msgid "Change Structure"
+msgstr "Mainīt struktūru"
+
+msgid "Change to Display"
+msgstr "Mainīt uz atsevišķu rindu"
+
+msgid "Change to Inline"
+msgstr "Mainīt uz rindā iekļautu"
+
+msgid "Change to Level 1"
+msgstr "Mainīt uz 1. līmeni"
+
+msgid "Change to Level 2"
+msgstr "Mainīt uz 2. līmeni"
+
+msgid "Change to Level 3"
+msgstr "Mainīt uz 3. līmeni"
+
+msgid "Change to Level 4"
+msgstr "Mainīt uz 4. līmeni"
+
+msgid "Change to Level 5"
+msgstr "Mainīt uz 5. līmeni"
+
+msgid "Change to Level 6"
+msgstr "Mainīt uz 6. līmeni"
+
+msgid "Change to Level 7"
+msgstr "Mainīt uz 7. līmeni"
+
+msgid "Change to Level 8"
+msgstr "Mainīt uz 8. līmeni"
+
+msgid "Change to Level 9"
+msgstr "Mainīt uz 9. līmeni"
+
+msgid "Change to:"
+msgstr "Mainīt uz:"
+
+msgid "Change\nChart Type"
+msgstr "Mainīt\ndiagrammas veidu"
+
+msgid "Change\nColors"
+msgstr "Mainīt\nkrāsas"
+
+msgid "Changed lines:"
+msgstr "Mainītās rindas:"
+
+msgid "Changes"
+msgstr "Izmaiņas"
+
+msgid "Change…"
+msgstr "Mainīt…"
+
+msgid "Chapter 1"
+msgstr "1. nodaļa"
+
+msgid "Chapter in a book"
+msgstr "Nodaļa grāmatā"
+
+msgid "Chapters begin at:"
+msgstr "Nodaļas sākas:"
+
+msgid "Character Border"
+msgstr "Rakstzīmju apmale"
+
+msgid "Character code:"
+msgstr "Rakstzīmes kods:"
+
+msgid "Character in Range"
+msgstr "Rakstzīme diapazonā"
+
+msgid "Character level"
+msgstr "Rakstzīmju līmenis"
+
+msgid "Character Position"
+msgstr "Rakstzīmju novietojums"
+
+msgid "Character Scale"
+msgstr "Rakstzīmju mērogs"
+
+msgid "Character Shading"
+msgstr "Rakstzīmju ēnojums"
+
+msgid "Character Spacing"
+msgstr "Rakstzīmju atstatums"
+
+msgid "Character spacing"
+msgstr "Rakstzīmju atstatums"
+
+msgid "Character style"
+msgstr "Rakstzīmju stils"
+
+msgid "Characters (no spaces)"
+msgstr "Rakstzīmes (bez atstarpēm)"
+
+msgid "Characters (with spaces)"
+msgstr "Rakstzīmes (ar atstarpēm)"
+
+msgid "Characters per line:"
+msgstr "Rakstzīmes rindā:"
+
+msgid "Chart"
+msgstr "Diagramma"
+
+msgid "Chart Design"
+msgstr "Diagrammas dizains"
+
+msgid "Chart Layouts"
+msgstr "Diagrammu izkārtojumi"
+
+msgid "Chart Title"
+msgstr "Diagrammas virsraksts"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "diagrammas vēl nevar pārvietot vai mainīt to izmēru"
+
+msgid "Check"
+msgstr "Pārbaudīt"
+
+msgid "Check Accessibility"
+msgstr "Pārbaudīt pieejamību"
+
+msgid "Check Box Content Control"
+msgstr "Izvēles rūtiņas satura vadīkla"
+
+msgid "Check Compatibility"
+msgstr "Pārbaudīt saderību"
+
+msgid "Check for Errors"
+msgstr "Pārbaudīt kļūdas"
+
+msgid "Check for\nUpdates…"
+msgstr "Pārbaudīt\natjauninājumus…"
+
+msgid "Check Spelling as You Type"
+msgstr "Pārbaudīt pareizrakstību rakstīšanas laikā"
+
+msgid "Check spelling as you type"
+msgstr "Pārbaudīt pareizrakstību rakstīšanas laikā"
+
+msgid "Check\nAccessibility"
+msgstr "Pārbaudīt\npieejamību"
+
+msgid "Checked styles are allowed:"
+msgstr "Atļautie atzīmētie stili:"
+
+msgid "Checked symbol"
+msgstr "Atzīmēts simbols"
+
+msgid "Checking for updates…"
+msgstr "Pārbauda atjauninājumus…"
+
+msgid "Chevron Down"
+msgstr "Ševrons uz leju"
+
+msgid "Chevron Up"
+msgstr "Ševrons uz augšu"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Čīle"
+
+msgid "China"
+msgstr "Ķīna"
+
+msgid "Chinese (Simplified)"
+msgstr "Ķīniešu (vienkāršotā)"
+
+msgid "Chinese (Traditional)"
+msgstr "Ķīniešu (tradicionālā)"
+
+msgid "Choose a command"
+msgstr "Izvēlieties komandu"
+
+msgid "Choose a shortcut"
+msgstr "Izvēlieties saīsni"
+
+msgid "Choose List Item"
+msgstr "Izvēlieties saraksta vienumu"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Izvēlieties lapu, kurā ir adresāti."
+
+msgid "Circle area from its radius"
+msgstr "Riņķa laukums no rādiusa"
+
+msgid "Circled Dot"
+msgstr "Punkts aplī"
+
+msgid "Circled Plus"
+msgstr "Plus aplī"
+
+msgid "Circled Times"
+msgstr "Reizināšana aplī"
+
+msgid "Citation Style"
+msgstr "Atsauces stils"
+
+msgid "Citations"
+msgstr "Atsauces"
+
+msgid "Citations & Bibliography"
+msgstr "Atsauces un bibliogrāfija"
+
+msgid "Clear All Formatting"
+msgstr "Notīrīt visu formatējumu"
+
+msgid "Clear Character Formatting"
+msgstr "Notīrīt rakstzīmju formatējumu"
+
+msgid "Clear Character Style"
+msgstr "Notīrīt rakstzīmju stilu"
+
+msgid "Clear Formatting Level"
+msgstr "Notīrīt formatējuma līmeni"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Notīrīt rindkopas formatējumu"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Noklikšķiniet uz apmales starp divām šūnām, lai tās sapludinātu. Esc aptur."
+
+msgid "Click an item to paste it."
+msgstr "Noklikšķiniet uz vienuma, lai to ielīmētu."
+
+msgid "Click level to modify:"
+msgstr "Noklikšķiniet uz maināmā līmeņa:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Noklikšķiniet uz tukšā teksta lodziņa, kurā jāturpinās tekstam (Esc atceļ)"
+
+msgid "Click to switch back to inserting"
+msgstr "Noklikšķiniet, lai atgrieztos pie ievietošanas"
+
+msgid "Clipboard Contents"
+msgstr "Starpliktuves saturs"
+
+msgid "Clipboard Items"
+msgstr "Starpliktuves vienumi"
+
+msgid "Clipboard Pane"
+msgstr "Starpliktuves rūts"
+
+msgid "Close Document"
+msgstr "Aizvērt dokumentu"
+
+msgid "Close Equation"
+msgstr "Aizvērt vienādojumu"
+
+msgid "Close Header and Footer"
+msgstr "Aizvērt galveni un kājeni"
+
+msgid "Close Outline View"
+msgstr "Aizvērt struktūrskatu"
+
+msgid "Close Outline\nView"
+msgstr "Aizvērt\nstruktūrskatu"
+
+msgid "Clustered Bar"
+msgstr "Grupētas joslas"
+
+msgid "Clustered Column"
+msgstr "Grupētas kolonnas"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Kol. nr.:"
+
+msgid "Collapse Selection"
+msgstr "Sakļaut atlasi"
+
+msgid "Collate copies"
+msgstr "Salikt eksemplārus"
+
+msgid "Collect entries from:"
+msgstr "Vākt ierakstus no:"
+
+msgid "Colombia"
+msgstr "Kolumbija"
+
+msgid "Colon Equal"
+msgstr "Kols vienāds"
+
+msgid "Color model:"
+msgstr "Krāsu modelis:"
+
+msgid "Color only"
+msgstr "Tikai krāsa"
+
+msgid "Color: {color}"
+msgstr "Krāsa: {color}"
+
+msgid "Colorful"
+msgstr "Krāsains"
+
+msgid "Column"
+msgstr "Kolonna"
+
+msgid "Column Break"
+msgstr "Kolonnas pārtraukums"
+
+msgid "Column Selection"
+msgstr "Kolonnas atlase"
+
+msgid "Column {n}"
+msgstr "{n}. kolonna"
+
+msgid "Column:"
+msgstr "Kolonna:"
+
+msgid "Combine Documents"
+msgstr "Apvienot dokumentus"
+
+msgid "Combo Box Content Control"
+msgstr "Kombinētā lodziņa satura vadīkla"
+
+msgid "Commands"
+msgstr "Komandas"
+
+msgid "Commas"
+msgstr "Komati"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Komentāri blakus katrai lapai un izsekotās izmaiņas PDF failos, izdrukās un attēlos; komentāru saraksts tīmekļa lapu, Markdown un teksta beigās."
+
+msgid "Comments Pane"
+msgstr "Komentāru rūts"
+
+msgid "Common Accent Objects"
+msgstr "Biežie akcentu objekti"
+
+msgid "Common Brackets"
+msgstr "Biežās iekavas"
+
+msgid "Common Fractions"
+msgstr "Biežās daļas"
+
+msgid "Common Functions"
+msgstr "Biežās funkcijas"
+
+msgid "Common Large Operators"
+msgstr "Biežie lielie operatori"
+
+msgid "Common Operator Structures"
+msgstr "Biežās operatoru struktūras"
+
+msgid "Common Operators"
+msgstr "Biežie operatori"
+
+msgid "Common Radicals"
+msgstr "Biežās saknes"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Biežie apakšraksti un augšraksti"
+
+msgid "Communication"
+msgstr "Saziņa"
+
+msgid "Community\nDiscord"
+msgstr "Kopienas\nDiscord"
+
+msgid "Compact"
+msgstr "Kompakts"
+
+msgid "Compare Documents"
+msgstr "Salīdzināt dokumentus"
+
+msgid "Compare to"
+msgstr "Salīdzināt ar"
+
+msgid "Compared: {changes} changes"
+msgstr "Salīdzināts: izmaiņas {changes}"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Salīdzināšanai ar citu failu nepieciešama datora lietotne."
+
+msgid "Comparison settings"
+msgstr "Salīdzināšanas iestatījumi"
+
+msgid "Compress Pictures"
+msgstr "Saspiest attēlus"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Saspiest pieturzīmes rindas sākumā"
+
+msgid "Conference"
+msgstr "Konference"
+
+msgid "Conference paper"
+msgstr "Konferences raksts"
+
+msgid "CONFIDENTIAL"
+msgstr "KONFIDENCIĀLI"
+
+msgid "Confirm password:"
+msgstr "Apstipriniet paroli:"
+
+msgid "Connect Shapes"
+msgstr "Savienot figūras"
+
+msgid "Container Title"
+msgstr "Konteinera nosaukums"
+
+msgid "Content Control at Selection"
+msgstr "Satura vadīkla pie atlases"
+
+msgid "Content Control Properties"
+msgstr "Satura vadīklas rekvizīti"
+
+msgid "Contents can't be edited"
+msgstr "Saturu nevar rediģēt"
+
+msgid "Context"
+msgstr "Konteksts"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "Kontekstuāli"
+
+msgid "Continue from previous section"
+msgstr "Turpināt no iepriekšējās sadaļas"
+
+msgid "Continue without restoring"
+msgstr "Turpināt bez atjaunošanas"
+
+msgid "Continuous"
+msgstr "Nepārtraukti"
+
+msgid "Continuous numbering"
+msgstr "Nepārtraukta numerācija"
+
+msgid "Contour Integral"
+msgstr "Kontūrintegrālis"
+
+msgid "Contour Integral with Limits"
+msgstr "Kontūrintegrālis ar robežām"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Kontūrintegrālis ar robežām virs un zem"
+
+msgid "Contour Integrals"
+msgstr "Kontūrintegrāļi"
+
+msgid "Controls"
+msgstr "Vadīklas"
+
+msgid "Conversions"
+msgstr "Pārvēršanas"
+
+msgid "Convert between built-up and linear form"
+msgstr "Pārvērst starp izvērsto un lineāro formu"
+
+msgid "Convert Notes"
+msgstr "Pārvērst piezīmes"
+
+msgid "Convert Text to Table"
+msgstr "Pārvērst tekstu par tabulu"
+
+msgid "Convert Text to Table…"
+msgstr "Pārvērst tekstu par tabulu…"
+
+msgid "Convert to Shapes"
+msgstr "Pārvērst par figūrām"
+
+msgid "Convert to Text"
+msgstr "Pārvērst par tekstu"
+
+msgid "Coproduct"
+msgstr "Koprodukts"
+
+msgid "Coproduct with Limits"
+msgstr "Koprodukts ar robežām"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Koprodukts ar apakšējo robežu"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Koprodukts ar apakšraksta un augšraksta robežām"
+
+msgid "Copy Formatting"
+msgstr "Kopēt formatējumu"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Grāmatzīmes iezīmētā teksta kopija"
+
+msgid "Copy Styles"
+msgstr "Kopēt stilus"
+
+msgid "Copy to"
+msgstr "Kopēt uz"
+
+msgid "Copyright Sign"
+msgstr "Autortiesību zīme"
+
+msgid "Corporate Author"
+msgstr "Korporatīvais autors"
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Labot nejaušu cAPS LOCK taustiņa lietojumu"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Labot DIvus LIelus sākuma burtus"
+
+msgid "Corrections"
+msgstr "Korekcijas"
+
+msgid "Cosecant Function"
+msgstr "Kosekanta funkcija"
+
+msgid "Cosine 2x"
+msgstr "Kosinuss 2x"
+
+msgid "Cosine Function"
+msgstr "Kosinusa funkcija"
+
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+msgid "Cotangent Function"
+msgstr "Kotangensa funkcija"
+
+msgid "Could not check for updates:\n{error}"
+msgstr "Neizdevās pārbaudīt atjauninājumus:\n{error}"
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Neizdevās lejupielādēt {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Neizdevās iestatīt WordCraft kā noklusējumu: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Neizdevās atvērt {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "Neizdevās saglabāt {name}, tāpēc tas joprojām ir atvērts un nekas nav zaudēts: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Skaitīt pa:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Skaitīt vārdus teksta lodziņos un piezīmēs"
+
+msgid "Courtesy Title"
+msgstr "Uzruna"
+
+msgid "Cover Page"
+msgstr "Vāka lapa"
+
+msgid "Craft"
+msgstr "Amatniecība"
+
+msgid "Create a Style"
+msgstr "Izveidot stilu"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Izveidojiet interaktīvu dokumenta struktūru.\n\nTas ir lielisks veids, kā sekot savai atrašanās vietai vai ātri pārvietot saturu.\n\nLai sāktu, atveriet cilni Sākums un lietojiet dokumenta virsrakstiem virsrakstu stilus."
+
+msgid "Create Graphic"
+msgstr "Izveidot grafiku"
+
+msgid "Create Link"
+msgstr "Izveidot saiti"
+
+msgid "Create New Style"
+msgstr "Izveidot jaunu stilu"
+
+msgid "Create Source"
+msgstr "Izveidot avotu"
+
+msgid "Croatian"
+msgstr "Horvātu"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "Apgriešana lapā darbojas ar nepagrieztiem attēliem: vispirms iestatiet pagriezumu uz 0° vai izmantojiet apgriešanas lodziņus"
+
+msgid "Cross-reference"
+msgstr "Savstarpējā atsauce"
+
+msgid "Cross-reference:"
+msgstr "Savstarpējā atsauce:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "Ctrl+Enter sāk jaunu lapu. Daudz kārtīgāk nekā spiest Enter, līdz tas notiek."
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr "Ctrl+H atrod un aizstāj tekstu, formatējumu un īpašās rakstzīmes."
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr "Ctrl+K pārvērš atlasīto tekstu par saiti."
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr "Ctrl+Shift+G saskaita vārdus, rakstzīmes un rindkopas."
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Cube Root"
+msgstr "Kubsakne"
+
+msgid "Current - Linear"
+msgstr "Pašreizējais — lineāri"
+
+msgid "Current - Professional"
+msgstr "Pašreizējais — profesionāli"
+
+msgid "Current Document"
+msgstr "Pašreizējais dokuments"
+
+msgid "Current Position"
+msgstr "Pašreizējais novietojums"
+
+msgid "Current record"
+msgstr "Pašreizējais ieraksts"
+
+msgid "Current style: {style}"
+msgstr "Pašreizējais stils: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Izliekts bultas savienotājs"
+
+msgid "Curved Connector"
+msgstr "Izliekts savienotājs"
+
+msgid "Custom dictionary"
+msgstr "Pielāgota vārdnīca"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Pielāgotas piemales…"
+
+msgid "Custom mark:"
+msgstr "Pielāgota atzīme:"
+
+msgid "Custom range"
+msgstr "Pielāgots diapazons"
+
+msgid "Custom size"
+msgstr "Pielāgots izmērs"
+
+msgid "Custom Table of Contents…"
+msgstr "Pielāgots satura rādītājs…"
+
+msgid "Custom Watermark"
+msgstr "Pielāgota ūdenszīme"
+
+msgid "Custom Watermark…"
+msgstr "Pielāgota ūdenszīme…"
+
+msgid "Customize"
+msgstr "Pielāgot"
+
+msgid "Customize Keyboard"
+msgstr "Pielāgot tastatūru"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Pielāgot ātrās piekļuves rīkjoslu"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Pielāgot ātrās piekļuves rīkjoslu…"
+
+msgid "Customize Ribbon"
+msgstr "Pielāgot lenti"
+
+msgid "Customize the Ribbon…"
+msgstr "Pielāgot lenti…"
+
+msgid "Cycle"
+msgstr "Cikls"
+
+msgid "Cyprus"
+msgstr "Kipra"
+
+msgid "Czech"
+msgstr "Čehu"
+
+msgid "Danish"
+msgstr "Dāņu"
+
+msgid "Dark Blue"
+msgstr "Tumši zils"
+
+msgid "Dark Mode"
+msgstr "Tumšais režīms"
+
+msgid "Dark page (white text on black)"
+msgstr "Tumša lapa (balts teksts uz melna)"
+
+msgid "Dark Red"
+msgstr "Tumši sarkans"
+
+msgid "Dark Variations"
+msgstr "Tumšās variācijas"
+
+msgid "Dark with Shadow"
+msgstr "Tumšs ar ēnu"
+
+msgid "Dark Yellow"
+msgstr "Tumši dzeltens"
+
+msgid "Darker −20%"
+msgstr "Tumšāks −20%"
+
+msgid "Darkroom"
+msgstr "Tumšā istaba"
+
+msgid "Data Labels"
+msgstr "Datu etiķetes"
+
+msgid "Date & Time"
+msgstr "Datums un laiks"
+
+msgid "Date formats:"
+msgstr "Datumu formāti:"
+
+msgid "Date Picker Content Control"
+msgstr "Datuma atlasītāja satura vadīkla"
+
+msgid "Day"
+msgstr "Diena"
+
+msgid "Decimal"
+msgstr "Decimāls"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Dekoratīvie objekti tikai papildina izskatu: ekrāna lasītāji tos izlaiž."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "Samazināt atkāpi"
+
+msgid "Deep"
+msgstr "Dziļš"
+
+msgid "Default formatting"
+msgstr "Noklusējuma formatējums"
+
+msgid "Default Paragraph Font"
+msgstr "Noklusējuma rindkopas fonts"
+
+msgid "Default tab stops:"
+msgstr "Noklusējuma tabulācijas pieturas:"
+
+msgid "Define New Bullet"
+msgstr "Definēt jaunu aizzīmi"
+
+msgid "Define New Multilevel List"
+msgstr "Definēt jaunu vairāklīmeņu sarakstu"
+
+msgid "Define New Multilevel List…"
+msgstr "Definēt jaunu vairāklīmeņu sarakstu…"
+
+msgid "Define New Number Format"
+msgstr "Definēt jaunu numura formātu"
+
+msgid "Deflate"
+msgstr "Saspiest"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Dzēst ap kursoru vienādojumā"
+
+msgid "Delete Back in Equation"
+msgstr "Dzēst atpakaļ vienādojumā"
+
+msgid "Delete Bookmark"
+msgstr "Dzēst grāmatzīmi"
+
+msgid "Delete Cells"
+msgstr "Dzēst šūnas"
+
+msgid "Delete Clipboard Item"
+msgstr "Dzēst starpliktuves vienumu"
+
+msgid "Delete Columns"
+msgstr "Dzēst kolonnas"
+
+msgid "Delete Comment"
+msgstr "Dzēst komentāru"
+
+msgid "Delete in Equation"
+msgstr "Dzēst vienādojumā"
+
+msgid "Delete Label"
+msgstr "Dzēst etiķeti"
+
+msgid "Delete Next Word"
+msgstr "Dzēst nākamo vārdu"
+
+msgid "Delete Previous Word"
+msgstr "Dzēst iepriekšējo vārdu"
+
+msgid "Delete Rows"
+msgstr "Dzēst rindas"
+
+msgid "Delete Selected Ink"
+msgstr "Dzēst atlasīto tinti"
+
+msgid "Delete Table"
+msgstr "Dzēst tabulu"
+
+msgid "Delete Table Style"
+msgstr "Dzēst tabulas stilu"
+
+msgid "Deletions:"
+msgstr "Dzēsumi:"
+
+msgid "Delivery address:"
+msgstr "Piegādes adrese:"
+
+msgid "Delta Equal To"
+msgstr "Delta vienāds ar"
+
+msgid "Delta over arrow"
+msgstr "Delta virs bultiņas"
+
+msgid "Demote"
+msgstr "Pazemināt"
+
+msgid "Demote to Body Text"
+msgstr "Pazemināt līdz pamattekstam"
+
+msgid "Derivative as a limit"
+msgstr "Atvasinājums kā robeža"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Aprakstiet, ko šis objekts rāda, cilvēkiem, kuri to neredz."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Aprakstiet, ko šī tabula rāda, cilvēkiem, kuri to neredz."
+
+msgid "Design"
+msgstr "Dizains"
+
+msgid "Design Mode"
+msgstr "Dizaina režīms"
+
+msgid "Detach Template"
+msgstr "Atvienot veidni"
+
+msgid "Detect language automatically"
+msgstr "Automātiski noteikt valodu"
+
+msgid "Developer"
+msgstr "Izstrādātājs"
+
+msgid "development build"
+msgstr "izstrādes versija"
+
+msgid "Diagonal Dots"
+msgstr "Diagonāli punkti"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "Diktēt"
+
+msgid "Dictionaries"
+msgstr "Vārdnīcas"
+
+msgid "Dictionaries folder:"
+msgstr "Vārdnīcu mape:"
+
+msgid "Dictionary files"
+msgstr "Vārdnīcu faili"
+
+msgid "Different First Page"
+msgstr "Atšķirīga pirmā lapa"
+
+msgid "Different Odd & Even Pages"
+msgstr "Atšķirīgas pāra un nepāra lapas"
+
+msgid "Differential"
+msgstr "Diferenciālis"
+
+msgid "Differential theta"
+msgstr "Diferenciālis theta"
+
+msgid "Differential x"
+msgstr "Diferenciālis x"
+
+msgid "Differential y"
+msgstr "Diferenciālis y"
+
+msgid "Differentials"
+msgstr "Diferenciāļi"
+
+msgid "Direct formatting"
+msgstr "Tiešais formatējums"
+
+msgid "Directory"
+msgstr "Katalogs"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "Vai atmest {name} atkopšanas kopiju?"
+
+msgid "Discard…"
+msgstr "Atmest…"
+
+msgid "Discord community"
+msgstr "Discord kopiena"
+
+msgid "Display for Review"
+msgstr "Rādījums pārskatīšanai"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Parādāmais teksts"
+
+msgid "Distance from text"
+msgstr "Attālums no teksta"
+
+msgid "Distance from text:"
+msgstr "Attālums no teksta:"
+
+msgid "Distribute Columns"
+msgstr "Sadalīt kolonnas"
+
+msgid "Distribute letters"
+msgstr "Sadalīt burtus"
+
+msgid "Distribute Rows"
+msgstr "Sadalīt rindas"
+
+msgid "Distribute spacing"
+msgstr "Sadalīt atstarpes"
+
+msgid "Distributed"
+msgstr "Sadalīts"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Nepārbaudīt pareizrakstību vai gramatiku"
+
+msgid "Do not check spelling or grammar"
+msgstr "Nepārbaudīt pareizrakstību vai gramatiku"
+
+msgid "DO NOT COPY"
+msgstr "NEKOPĒT"
+
+msgid "Do Not Show in TOC"
+msgstr "Nerādīt satura rādītājā"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Vai saglabāt izmaiņas failā {name}?"
+
+msgid "Dock Left"
+msgstr "Piestiprināt pa kreisi"
+
+msgid "Dock Right"
+msgstr "Piestiprināt pa labi"
+
+msgid "Document End"
+msgstr "Dokumenta beigas"
+
+msgid "Document Formatting"
+msgstr "Dokumenta formatējums"
+
+msgid "Document Grid"
+msgstr "Dokumenta režģis"
+
+msgid "Document Information"
+msgstr "Dokumenta informācija"
+
+msgid "Document name"
+msgstr "Dokumenta nosaukums"
+
+msgid "Document Property"
+msgstr "Dokumenta rekvizīts"
+
+msgid "Document Start"
+msgstr "Dokumenta sākums"
+
+msgid "Document template:"
+msgstr "Dokumenta veidne:"
+
+msgid "Document Text"
+msgstr "Dokumenta teksts"
+
+msgid "Document1"
+msgstr "Dokuments1"
+
+msgid "Document\nPreferences"
+msgstr "Dokumenta\niestatījumi"
+
+msgid "Documents you open will show up here."
+msgstr "Šeit parādīsies atvērtie dokumenti."
+
+msgid "Does not contain"
+msgstr "Nesatur"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Dominikāna"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Nepievienot atstarpi starp viena stila rindkopām"
+
+msgid "Don't capitalize after:"
+msgstr "Nesākt ar lielo burtu pēc:"
+
+msgid "Don't hyphenate"
+msgstr "Nepārnest"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Nelasīt Zotero, Mendeley vai EndNote atsauces un bibliogrāfijas"
+
+msgid "Don't show me this tip again"
+msgstr "Vairs nerādīt šo padomu"
+
+msgid "Dot dash"
+msgstr "Punkts svītra"
+
+msgid "Dot-dash"
+msgstr "Punkts-svītra"
+
+msgid "Dot-dot-dash"
+msgstr "Punkts-punkts-svītra"
+
+msgid "Double"
+msgstr "Dubults"
+
+msgid "Double Bar"
+msgstr "Dubultā josla"
+
+msgid "Double Closing Quote"
+msgstr "Dubultā aizverošā pēdiņa"
+
+msgid "Double Dot"
+msgstr "Dubultpunkts"
+
+msgid "Double Integral"
+msgstr "Divkāršais integrālis"
+
+msgid "Double Integral with Limits"
+msgstr "Divkāršais integrālis ar robežām"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Divkāršais integrālis ar robežām virs un zem"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Dubultā bultiņa pa kreisi ar tekstu virs"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Dubultā bultiņa pa kreisi ar tekstu zem"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Dubultā bultiņa pa kreisi un labi ar tekstu virs"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Dubultā bultiņa pa kreisi un labi ar tekstu zem"
+
+msgid "Double Opening Quote"
+msgstr "Dubultā atverošā pēdiņa"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Dubultā bultiņa pa labi ar tekstu virs"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Dubultā bultiņa pa labi ar tekstu zem"
+
+msgid "Double Spacing"
+msgstr "Dubultā rindstarpa"
+
+msgid "Double Square Brackets"
+msgstr "Dubultas kvadrātiekavas"
+
+msgid "Double Strikethrough"
+msgstr "Dubults pārsvītrojums"
+
+msgid "Double strikethrough"
+msgstr "Dubults pārsvītrojums"
+
+msgid "Double summation"
+msgstr "Divkāršā summa"
+
+msgid "Double Underline"
+msgstr "Dubults pasvītrojums"
+
+msgid "Double Vertical Bars"
+msgstr "Dubultas vertikālas līnijas"
+
+msgid "Doughnut"
+msgstr "Virtulis"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr "Lejupielāde iegūst vārdnīcu no LibreOffice vārdnīcu kolekcijas vārdnīcu mapē. Katrai ir sava licence (GPL, LGPL vai MPL), un tā paliek atsevišķs fails, ko WordCraft tikai lasa."
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Lejupielāde ir izslēgta. Noklikšķinot uz Pievienot valodu… vai Instalēt, tā tiek ieslēgta: WordCraft tad lejupielādē valodu pakotnes un fontus no GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr "Lejupielādē vārdnīcu: {language}…"
+
+msgid "Downloading…"
+msgstr "Lejupielādē…"
+
+msgid "DRAFT"
+msgstr "MELNRAKSTS"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Velciet taisnstūri, lai uzzīmētu tabulu, vai līniju pāri šūnām, lai tās sadalītu. Esc aptur."
+
+msgid "Draw Ink"
+msgstr "Zīmēt ar tinti"
+
+msgid "Draw Table"
+msgstr "Zīmēt tabulu"
+
+msgid "Draw\nTable"
+msgstr "Zīmēt\ntabulu"
+
+msgid "Drawing Canvas"
+msgstr "Zīmēšanas audekls"
+
+msgid "Drawing Tools"
+msgstr "Zīmēšanas rīki"
+
+msgid "Drawing\nCanvas"
+msgstr "Zīmēšanas\naudekls"
+
+msgid "Drop Cap"
+msgstr "Iniciālis"
+
+msgid "Drop cap"
+msgstr "Iniciālis"
+
+msgid "Drop Cap Options…"
+msgstr "Iniciāļa opcijas…"
+
+msgid "drop caps can't go in a table"
+msgstr "iniciāļi nevar atrasties tabulā"
+
+msgid "Drop-Down List Content Control"
+msgstr "Nolaižamā saraksta satura vadīkla"
+
+msgid "Dropped"
+msgstr "Iegremdēts"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Noņem visu formatējumu un ielīmē vienkāršu tekstu."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Nīderlandiešu, Nederlands vai nl"
+
+msgid "E-mail Messages"
+msgstr "E-pasta ziņojumi"
+
+msgid "East"
+msgstr "Austrumi"
+
+msgid "Ecuador"
+msgstr "Ekvadora"
+
+msgid "Edit Comment"
+msgstr "Rediģēt komentāru"
+
+msgid "Edit Data"
+msgstr "Rediģēt datus"
+
+msgid "Edit Document"
+msgstr "Rediģēt dokumentu"
+
+msgid "Edit Equation"
+msgstr "Rediģēt vienādojumu"
+
+msgid "Edit Field Code"
+msgstr "Rediģēt lauka kodu"
+
+msgid "Edit Field…"
+msgstr "Rediģēt lauku…"
+
+msgid "Edit Footer"
+msgstr "Rediģēt kājeni"
+
+msgid "Edit Header"
+msgstr "Rediģēt galveni"
+
+msgid "Edit Individual Documents…"
+msgstr "Rediģēt atsevišķus dokumentus…"
+
+msgid "Edit Items"
+msgstr "Rediģēt vienumus"
+
+msgid "Edit Recipient List"
+msgstr "Rediģēt adresātu sarakstu"
+
+msgid "Edit Source"
+msgstr "Rediģēt avotu"
+
+msgid "Edit\nData"
+msgstr "Rediģēt\ndatus"
+
+msgid "Edit\nRecipient List"
+msgstr "Rediģēt\nadresātu sarakstu"
+
+msgid "Edited"
+msgstr "Rediģēts"
+
+msgid "Editing endnote"
+msgstr "Rediģē beigu vēri"
+
+msgid "Editing footnote"
+msgstr "Rediģē vēri"
+
+msgid "Editing header/footer"
+msgstr "Rediģē galveni/kājeni"
+
+msgid "Editing in this document is restricted."
+msgstr "Rediģēšana šajā dokumentā ir ierobežota."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr "Skatīšanas režīmā rediģēšana ir bloķēta."
+
+msgid "Editing — edit the document directly"
+msgstr "Rediģēšana — rediģējiet dokumentu tieši"
+
+msgid "Edition"
+msgstr "Izdevums"
+
+msgid "Editor"
+msgstr "Redaktors"
+
+msgid "Egypt"
+msgstr "Ēģipte"
+
+msgid "El Salvador"
+msgstr "Salvadora"
+
+msgid "Elbow Arrow Connector"
+msgstr "Lauzts bultas savienotājs"
+
+msgid "Elbow Connector"
+msgstr "Lauzts savienotājs"
+
+msgid "Emphasis"
+msgstr "Uzsvars"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Tukšas matricas"
+
+msgid "Enclose Characters"
+msgstr "Rakstzīmes aplī"
+
+msgid "Enclosure"
+msgstr "Aptvere"
+
+msgid "Encrypt with Password"
+msgstr "Šifrēt ar paroli"
+
+msgid "Encrypt with Password…"
+msgstr "Šifrēt ar paroli…"
+
+msgid "End of document"
+msgstr "Dokumenta beigas"
+
+msgid "End of section"
+msgstr "Sadaļas beigas"
+
+msgid "End of Word"
+msgstr "Vārda beigas"
+
+msgid "Endnote Reference"
+msgstr "Beigu vēres atsauce"
+
+msgid "Endnote Text"
+msgstr "Beigu vēres teksts"
+
+msgid "Endnotes"
+msgstr "Beigu vēres"
+
+msgid "Endnotes to footnotes"
+msgstr "Beigu vēres par vērēm"
+
+msgid "English (Australia)"
+msgstr "Angļu (Austrālija)"
+
+msgid "English (Canada)"
+msgstr "Angļu (Kanāda)"
+
+msgid "English (India)"
+msgstr "Angļu (Indija)"
+
+msgid "English (Ireland)"
+msgstr "Angļu (Īrija)"
+
+msgid "English (New Zealand)"
+msgstr "Angļu (Jaunzēlande)"
+
+msgid "English (South Africa)"
+msgstr "Angļu (Dienvidāfrika)"
+
+msgid "English (United Kingdom)"
+msgstr "Angļu (Apvienotā Karaliste)"
+
+msgid "English (United States)"
+msgstr "Angļu (Amerikas Savienotās Valstis)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Angļu, šī dokumenta valodas un katra instalētā valodas pakotne. Valodu pakotnes pievieno pareizrakstības vārdnīcas un vārdu pārnešanu."
+
+msgid "Engrave"
+msgstr "Iegravēts"
+
+msgid "Enlarge symbol"
+msgstr "Palielināt simbolu"
+
+msgid "Enter a number."
+msgstr "Ievadiet skaitli."
+
+msgid "Enter bookmark name:"
+msgstr "Ievadiet grāmatzīmes nosaukumu:"
+
+msgid "Enter formatting for number:"
+msgstr "Ievadiet numura formatējumu:"
+
+msgid "Enter in Equation"
+msgstr "Enter vienādojumā"
+
+msgid "Enter page number:"
+msgstr "Ievadiet lapas numuru:"
+
+msgid "Entire caption"
+msgstr "Viss paraksts"
+
+msgid "Entry marked."
+msgstr "Ieraksts atzīmēts."
+
+msgid "Envelope #10"
+msgstr "Aploksne #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "Aploksne #10   4.12\" × 9.50\""
+
+msgid "Envelope Address"
+msgstr "Aploksnes adrese"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "Aploksne DL   4.33\" × 8.66\""
+
+msgid "Envelope Return"
+msgstr "Aploksnes atpakaļadrese"
+
+msgid "Envelope size:"
+msgstr "Aploksnes izmērs:"
+
+msgid "Envelopes"
+msgstr "Aploksnes"
+
+msgid "Equal by Definition"
+msgstr "Vienāds pēc definīcijas"
+
+msgid "Equal column width"
+msgstr "Vienāds kolonnu platums"
+
+msgid "Equal Equal"
+msgstr "Vienāds vienāds"
+
+msgid "Equal to"
+msgstr "Vienāds ar"
+
+msgid "Equals:"
+msgstr "Vienāds:"
+
+msgid "Equation"
+msgstr "Vienādojums"
+
+msgid "Equation Gallery"
+msgstr "Vienādojumu galerija"
+
+msgid "Equation Info"
+msgstr "Vienādojuma informācija"
+
+msgid "Equation Number"
+msgstr "Vienādojuma numurs"
+
+msgid "Equation Options"
+msgstr "Vienādojuma opcijas"
+
+msgid "Equatorial Guinea"
+msgstr "Ekvatoriālā Gvineja"
+
+msgid "Erase Ink"
+msgstr "Dzēst tinti"
+
+msgid "Errors ({n})"
+msgstr "Kļūdas ({n})"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Igauņu"
+
+msgid "Euler's identity"
+msgstr "Eilera identitāte"
+
+msgid "Even Banded Columns"
+msgstr "Pāra joslotas kolonnas"
+
+msgid "Even Banded Rows"
+msgstr "Pāra joslotas rindas"
+
+msgid "Even Page"
+msgstr "Pāra lapa"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Katra izmaiņa tiek reģistrēta kā izsekota izmaiņa."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Katra komanda ir pieejama skriptiem un AI aģentiem: palaidiet `wordcraft-cli mcp`, lai iegūtu MCP serveri, vai sāciet lietotni ar `--control <port>` JSON vadības kanālam."
+
+msgid "Every field needs a name."
+msgstr "Katram laukam vajadzīgs nosaukums."
+
+msgid "Everyone"
+msgstr "Visi"
+
+msgid "Exactly"
+msgstr "Tieši"
+
+msgid "Exactly {n}"
+msgstr "Tieši {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Izņēmumi (neobligāti)"
+
+msgid "Exceptions…"
+msgstr "Izņēmumi…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7.25\" × 10.50\""
+
+msgid "Existing File or Web Page"
+msgstr "Esošs fails vai tīmekļa lapa"
+
+msgid "Expand or Collapse Heading"
+msgstr "Izvērst vai sakļaut virsrakstu"
+
+msgid "Exponential"
+msgstr "Eksponenciāls"
+
+msgid "Exponential series"
+msgstr "Eksponenciālā rinda"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Eksportēt kopiju kopīgošanai (PDF, Word dokuments)"
+
+msgid "Export Page as PNG"
+msgstr "Eksportēt lapu kā PNG"
+
+msgid "Extend Selection"
+msgstr "Paplašināt atlasi"
+
+msgid "Extend Selection by Units"
+msgstr "Paplašināt atlasi pa vienībām"
+
+msgid "Extra space"
+msgstr "Papildu atstarpe"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "F4 atkārto pēdējo darbību. Desmit virsrakstu formatēšana pēkšņi ir viens klikšķis un deviņi pieskārieni."
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr "F7 pārbauda visa dokumenta pareizrakstību un gramatiku."
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Ātrāk: {command} uz tastatūras ir {key}."
+
+msgid "Field code:"
+msgstr "Lauka kods:"
+
+msgid "Field Codes"
+msgstr "Lauku kodi"
+
+msgid "Field codes:"
+msgstr "Lauku kodi:"
+
+msgid "Field name"
+msgstr "Lauka nosaukums"
+
+msgid "Field name:"
+msgstr "Lauka nosaukums:"
+
+msgid "Field names must be different."
+msgstr "Lauku nosaukumiem jābūt atšķirīgiem."
+
+msgid "Field names:"
+msgstr "Lauku nosaukumi:"
+
+msgid "Field:"
+msgstr "Lauks:"
+
+msgid "Field…"
+msgstr "Lauks…"
+
+msgid "Figure"
+msgstr "Attēls"
+
+msgid "File locations"
+msgstr "Failu atrašanās vietas"
+
+msgid "File name:"
+msgstr "Faila nosaukums:"
+
+msgid "File type"
+msgstr "Faila veids"
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Fails > Jauns šeit parāda .dotx un .dotm veidnes sadaļā Personīgās; Saglabāt kā Word veidni sākas šeit."
+
+msgid "Fill color:"
+msgstr "Aizpildījuma krāsa:"
+
+msgid "Filling in forms"
+msgstr "Veidlapu aizpildīšana"
+
+msgid "Film"
+msgstr "Filma"
+
+msgid "Filter and Sort"
+msgstr "Filtrēt un kārtot"
+
+msgid "Filter Recipients"
+msgstr "Filtrēt adresātus"
+
+msgid "Find in list:"
+msgstr "Atrast sarakstā:"
+
+msgid "Find Next Editable Region"
+msgstr "Atrast nākamo rediģējamo apgabalu"
+
+msgid "Find Previous"
+msgstr "Atrast iepriekšējo"
+
+msgid "Find Recipient"
+msgstr "Atrast adresātu"
+
+msgid "Find What Expression"
+msgstr "Meklējamā izteiksme"
+
+msgid "Find What Text"
+msgstr "Meklējamais teksts"
+
+msgid "Find what:"
+msgstr "Atrast:"
+
+msgid "Find “{text}” in the document"
+msgstr "Atrast „{text}” dokumentā"
+
+msgid "Finding printers…"
+msgstr "Meklē printerus…"
+
+msgid "Finish & Merge"
+msgstr "Pabeigt un sapludināt"
+
+msgid "Finish &\nMerge"
+msgstr "Pabeigt un\nsapludināt"
+
+msgid "Finished"
+msgstr "Pabeigts"
+
+msgid "Finland"
+msgstr "Somija"
+
+msgid "Finnish"
+msgstr "Somu"
+
+msgid "First Column"
+msgstr "Pirmā kolonna"
+
+msgid "First line"
+msgstr "Pirmā rinda"
+
+msgid "First line:"
+msgstr "Pirmā rinda:"
+
+msgid "First Name"
+msgstr "Vārds"
+
+msgid "First Record"
+msgstr "Pirmais ieraksts"
+
+msgid "First row of data contains column headers"
+msgstr "Datu pirmajā rindā ir kolonnu virsraksti"
+
+msgid "Fix Position on Page"
+msgstr "Fiksēt novietojumu lapā"
+
+msgid "Fixed Column Width"
+msgstr "Fiksēts kolonnas platums"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr "Peldošs"
+
+msgid "Floor"
+msgstr "Grīda"
+
+msgid "Folder path"
+msgstr "Mapes ceļš"
+
+msgid "Follow number with:"
+msgstr "Aiz numura likt:"
+
+msgid "Font Color"
+msgstr "Fonta krāsa"
+
+msgid "Font color"
+msgstr "Fonta krāsa"
+
+msgid "Font color:"
+msgstr "Fonta krāsa:"
+
+msgid "Font Dialog"
+msgstr "Fonta dialoglodziņš"
+
+msgid "Font: {font}"
+msgstr "Fonts: {font}"
+
+msgid "Font…"
+msgstr "Fonts…"
+
+msgid "Footer"
+msgstr "Kājene"
+
+msgid "Footnote and Endnote"
+msgstr "Vēre un beigu vēre"
+
+msgid "Footnote Reference"
+msgstr "Vēres atsauce"
+
+msgid "Footnote Text"
+msgstr "Vēres teksts"
+
+msgid "Footnotes"
+msgstr "Vēres"
+
+msgid "Footnotes and endnotes"
+msgstr "Vēres un beigu vēres"
+
+msgid "Footnotes to endnotes"
+msgstr "Vēres par beigu vērēm"
+
+msgid "For which item:"
+msgstr "Kuram vienumam:"
+
+msgid "Format Page Numbers"
+msgstr "Formatēt lapu numurus"
+
+msgid "Format Page Numbers…"
+msgstr "Formatēt lapu numurus…"
+
+msgid "Format Painter"
+msgstr "Formāta ota"
+
+msgid "Format Shape"
+msgstr "Formatēt figūru"
+
+msgid "Format Shape Pane"
+msgstr "Figūras formatēšanas rūts"
+
+msgid "Format Shape…"
+msgstr "Formatēt figūru…"
+
+msgid "Formatted"
+msgstr "Formatēts"
+
+msgid "Formatted Text"
+msgstr "Formatēts teksts"
+
+msgid "Formatting"
+msgstr "Formatējums"
+
+msgid "Formatting at Selection"
+msgstr "Formatējums pie atlases"
+
+msgid "Formatting exceptions"
+msgstr "Formatējuma izņēmumi"
+
+msgid "Formatting marks"
+msgstr "Formatējuma zīmes"
+
+msgid "Formatting saved for new documents:"
+msgstr "Jauniem dokumentiem saglabātais formatējums:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Tiek salīdzināts formatējums, reģistra izmaiņas, atstarpes un tabulas; pārējie iestatījumi tiek saglabāti vēlākam laikam."
+
+msgid "Formula"
+msgstr "Formula"
+
+msgid "Formula:"
+msgstr "Formula:"
+
+msgid "Forward"
+msgstr "Uz priekšu"
+
+msgid "Fraction"
+msgstr "Daļa"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Daļskaitļi (1/2) kā daļskaitļu rakstzīmes (½)"
+
+msgid "Frames and effects"
+msgstr "Rāmji un efekti"
+
+msgid "France"
+msgstr "Francija"
+
+msgid "French (France)"
+msgstr "Franču (Francija)"
+
+msgid "From Bottom Left Corner"
+msgstr "No apakšējā kreisā stūra"
+
+msgid "From Bottom Right Corner"
+msgstr "No apakšējā labā stūra"
+
+msgid "From Center"
+msgstr "No centra"
+
+msgid "From text:"
+msgstr "No teksta:"
+
+msgid "From Top Left Corner"
+msgstr "No augšējā kreisā stūra"
+
+msgid "From Top Right Corner"
+msgstr "No augšējā labā stūra"
+
+msgid "from Unicode (hex)"
+msgstr "no Unicode (heksadecimāls)"
+
+msgid "From {name}"
+msgstr "No {name}"
+
+msgid "From:"
+msgstr "No:"
+
+msgid "Full page of the same label"
+msgstr "Visa lapa ar vienu etiķeti"
+
+msgid "Full Saturation 100%"
+msgstr "Pilns piesātinājums 100%"
+
+msgid "Full Screen View"
+msgstr "Pilnekrāna skats"
+
+msgid "Full\nScreen"
+msgstr "Pilnekrāna\nskats"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Interesants fakts: tukša lapa ir vienkārši melnraksts, kam vēl nav pateikts."
+
+msgid "Function"
+msgstr "Funkcija"
+
+msgid "Galician"
+msgstr "Galisiešu"
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "Gruzīnu"
+
+msgid "German (Germany)"
+msgstr "Vācu (Vācija)"
+
+msgid "Germany"
+msgstr "Vācija"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Iegūst valodu pakotņu sarakstu un pēc tam šīs valodas pakotni, ja tāda ir."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Mirdzuma krāsas"
+
+msgid "Go Back"
+msgstr "Atgriezties"
+
+msgid "Go To"
+msgstr "Pāriet uz"
+
+msgid "Go to"
+msgstr "Pāriet uz"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Pāriet uz (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Pāriet uz ierakstu"
+
+msgid "Go to what:"
+msgstr "Pāriet uz:"
+
+msgid "Go To…"
+msgstr "Pāriet uz…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Pazudis! It kā nekad nebūtu rakstīts. Galvenokārt tāpēc, ka tagad nav."
+
+msgid "Good afternoon"
+msgstr "Labdien"
+
+msgid "Good evening"
+msgstr "Labvakar"
+
+msgid "Good morning"
+msgstr "Labrīt"
+
+msgid "GOST (name sort)"
+msgstr "GOST (kārtot pēc vārda)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (kārtot pēc nosaukuma)"
+
+msgid "Grab bag"
+msgstr "Dažādi"
+
+msgid "Gradient fill"
+msgstr "Gradienta aizpildījums"
+
+msgid "Gradient stops"
+msgstr "Gradienta punkti"
+
+msgid "Grammar built in"
+msgstr "Iebūvēta gramatika"
+
+msgid "Grave"
+msgstr "Gravis"
+
+msgid "Gray 0%"
+msgstr "Pelēks 0%"
+
+msgid "Gray-25%"
+msgstr "Pelēks 25%"
+
+msgid "Gray-50%"
+msgstr "Pelēks 50%"
+
+msgid "Greater than"
+msgstr "Lielāks par"
+
+msgid "Greater than or equal"
+msgstr "Lielāks vai vienāds"
+
+msgid "Greek"
+msgstr "Grieķu"
+
+msgid "Greek Letters"
+msgstr "Grieķu burti"
+
+msgid "Green:"
+msgstr "Zaļš:"
+
+msgid "Greeting Line"
+msgstr "Sveiciena rinda"
+
+msgid "Greeting\nLine"
+msgstr "Sveiciena\nrinda"
+
+msgid "Grid Table 1 Light"
+msgstr "Režģa tabula 1 gaiša"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Režģa tabula 4 – zila"
+
+msgid "Grid Table 4 – Green"
+msgstr "Režģa tabula 4 – zaļa"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Režģa tabula 4 – oranža"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Režģa tabula 4 – purpura"
+
+msgid "Gridlines"
+msgstr "Režģa līnijas"
+
+msgid "Grouping Character Above"
+msgstr "Grupēšanas rakstzīme virs"
+
+msgid "Grouping Character Below"
+msgstr "Grupēšanas rakstzīme zem"
+
+msgid "Grow Font 1 Point"
+msgstr "Palielināt fontu par 1 punktu"
+
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+msgid "H:"
+msgstr "A:"
+
+msgid "Hanging Indent"
+msgstr "Izkārta atkāpe"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Jumtiņš"
+
+msgid "Header"
+msgstr "Galvene"
+
+msgid "Header & Footer"
+msgstr "Galvene un kājene"
+
+msgid "Header Row"
+msgstr "Galvenes rinda"
+
+msgid "Header row"
+msgstr "Galvenes rinda"
+
+msgid "Header/Footer Position"
+msgstr "Galvenes/kājenes novietojums"
+
+msgid "Headers and footers"
+msgstr "Galvenes un kājenes"
+
+msgid "Heading"
+msgstr "Virsraksts"
+
+msgid "Heading 1"
+msgstr "1. virsraksts"
+
+msgid "Heading 2"
+msgstr "2. virsraksts"
+
+msgid "Heading 3"
+msgstr "3. virsraksts"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Virsrakstu stili (1.–{n}. līmenis)"
+
+msgid "Heading text"
+msgstr "Virsraksta teksts"
+
+msgid "Heading {n}"
+msgstr "{n}. virsraksts"
+
+msgid "Hebrew"
+msgstr "Ivrits"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Sveiki! Es esmu Nib, jūsu rakstīšanas palīgs. Piedāvāju padomus, saīsnes un reizēm arī nelūgtu viedokli. Vai palikt?"
+
+msgid "Hidden bookmarks"
+msgstr "Paslēptās grāmatzīmes"
+
+msgid "Hide Codes"
+msgstr "Paslēpt kodus"
+
+msgid "Hide from style lists"
+msgstr "Paslēpt no stilu sarakstiem"
+
+msgid "Hide Ink"
+msgstr "Paslēpt tinti"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Paslēpt ātrās piekļuves rīkjoslu"
+
+msgid "Hide White Space"
+msgstr "Paslēpt tukšo vietu"
+
+msgid "Hide\nInk"
+msgstr "Paslēpt\ntinti"
+
+msgid "Hierarchy"
+msgstr "Hierarhija"
+
+msgid "Highlight"
+msgstr "Izcēlums"
+
+msgid "Highlight Merge Fields"
+msgstr "Izcelt sapludināšanas laukus"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Izcelt\nsapludināšanas laukus"
+
+msgid "Highlighter"
+msgstr "Marķieris"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Home folder"
+msgstr "Sākuma mape"
+
+msgid "Honduras"
+msgstr "Hondurasa"
+
+msgid "Hong Kong SAR"
+msgstr "Honkongas ĪPR"
+
+msgid "Horizontal Line"
+msgstr "Horizontāla līnija"
+
+msgid "How many pages the whole document has"
+msgstr "Cik lapu ir visā dokumentā"
+
+msgid "How many pages this section has"
+msgstr "Cik lapu ir šajā sadaļā"
+
+msgid "How many words the document holds"
+msgstr "Cik vārdu ir dokumentā"
+
+msgid "HTML Format"
+msgstr "HTML formāts"
+
+msgid "Hue:"
+msgstr "Nokrāsa:"
+
+msgid "Hungarian"
+msgstr "Ungāru"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Šeit esošie Hunspell .aff un .dic faili (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) tiek izmantoti pirms sistēmas failiem."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Hiperboliskā kosekanta funkcija"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Hiperboliskā kosinusa funkcija"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Hiperboliskā kotangensa funkcija"
+
+msgid "Hyperbolic Functions"
+msgstr "Hiperboliskās funkcijas"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Hiperboliskā sekanta funkcija"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Hiperboliskā sinusa funkcija"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Hiperboliskā tangensa funkcija"
+
+msgid "Hyperlink"
+msgstr "Hipersaite"
+
+msgid "Hyphenate at:"
+msgstr "Pārnest pie:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Pārnest vārdus ar LIELAJIEM BURTIEM"
+
+msgid "Hyphenation Options…"
+msgstr "Vārdu pārnešanas opcijas…"
+
+msgid "Hyphenation zone:"
+msgstr "Pārneses zona:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Defises (--) kā domuzīmes (—)"
+
+msgid "Hypotenuse"
+msgstr "Hipotenūza"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Solu, ka saglabāts. Pārbaudīju. Divreiz."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Es pats kaut ko uzrakstītu, bet esmu tikai spalva bez tintes."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "Islandiešu"
+
+msgid "Icon Color"
+msgstr "Ikonas krāsa"
+
+msgid "Icons"
+msgstr "Ikonas"
+
+msgid "Identity Matrices"
+msgstr "Vienības matricas"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Ja…Tad…Citādi"
+
+msgid "If…Then…Else…"
+msgstr "Ja…Tad…Citādi…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Ignorēt pieturzīmes"
+
+msgid "Ignore web and file addresses"
+msgstr "Ignorēt tīmekļa un failu adreses"
+
+msgid "Ignore white-space characters"
+msgstr "Ignorēt atstarpju rakstzīmes"
+
+msgid "Ignore words in capitals"
+msgstr "Ignorēt vārdus ar lielajiem burtiem"
+
+msgid "Ignore words with numbers"
+msgstr "Ignorēt vārdus ar cipariem"
+
+msgid "Illustrations"
+msgstr "Ilustrācijas"
+
+msgid "Immersive"
+msgstr "Iegremdējošs"
+
+msgid "Immersive Reader"
+msgstr "Iegremdējošais lasītājs"
+
+msgid "Immersive\nReader"
+msgstr "Iegremdējošais\nlasītājs"
+
+msgid "Imported 1 source"
+msgstr "Importēts 1 avots"
+
+msgid "Imported {n} sources"
+msgstr "Importēti {n} avoti"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Noklusējuma lietotnēs izvēlieties WordCraft tiem dokumentu veidiem, kuros vēlaties to atvērt."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Vienādojumos nosaukums pēc atpakaļvērstās slīpsvītras tiek aizstāts ar tā simbolu."
+
+msgid "In Front of Text"
+msgstr "Teksta priekšā"
+
+msgid "In Line with Text"
+msgstr "Rindā ar tekstu"
+
+msgid "In margin"
+msgstr "Piemalē"
+
+msgid "In the margin"
+msgstr "Piemalē"
+
+msgid "Include label and number"
+msgstr "Iekļaut etiķeti un numuru"
+
+msgid "Include level number from:"
+msgstr "Iekļaut līmeņa numuru no:"
+
+msgid "Include page numbers"
+msgstr "Iekļaut lapu numurus"
+
+msgid "Increase Indent"
+msgstr "Palielināt atkāpi"
+
+msgid "Indent"
+msgstr "Atkāpe"
+
+msgid "Indent from left:"
+msgstr "Atkāpe no kreisās:"
+
+msgid "Indentation"
+msgstr "Atkāpes"
+
+msgid "Indented"
+msgstr "Ar atkāpi"
+
+msgid "Indents"
+msgstr "Atkāpes"
+
+msgid "Indents and Spacing"
+msgstr "Atkāpes un atstatumi"
+
+msgid "Index and Tables"
+msgstr "Rādītājs un tabulas"
+
+msgid "Index Heading"
+msgstr "Rādītāja virsraksts"
+
+msgid "Index {n}"
+msgstr "{n}. rādītājs"
+
+msgid "India"
+msgstr "Indija"
+
+msgid "Indonesian"
+msgstr "Indonēziešu"
+
+msgid "Initial column width:"
+msgstr "Sākotnējais kolonnas platums:"
+
+msgid "Initials:"
+msgstr "Iniciāļi:"
+
+msgid "Ink"
+msgstr "Tinte"
+
+msgid "Ink Replay"
+msgstr "Tintes atskaņošana"
+
+msgid "Ink to Shape"
+msgstr "Tinte par figūru"
+
+msgid "Ink to\nMath"
+msgstr "Tinte par\nmatemātiku"
+
+msgid "Ink to\nShape"
+msgstr "Tinte par\nfigūru"
+
+msgid "Ink\nReplay"
+msgstr "Tintes\natskaņošana"
+
+msgid "Inline"
+msgstr "Rindā"
+
+msgid "Input Format"
+msgstr "Ievades formāts"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Ievietot jaunu vienādojumu (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Ievietot virs"
+
+msgid "Insert Below"
+msgstr "Ievietot zem"
+
+msgid "Insert Caption"
+msgstr "Ievietot parakstu"
+
+msgid "Insert Caption…"
+msgstr "Ievietot parakstu…"
+
+msgid "Insert Chart"
+msgstr "Ievietot diagrammu"
+
+msgid "Insert Citation"
+msgstr "Ievietot atsauci"
+
+msgid "Insert Columns to the Left"
+msgstr "Ievietot kolonnas pa kreisi"
+
+msgid "Insert Columns to the Right"
+msgstr "Ievietot kolonnas pa labi"
+
+msgid "Insert Date Field"
+msgstr "Ievietot datuma lauku"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "Ievietot beigu vēri"
+
+msgid "Insert Footnote"
+msgstr "Ievietot vēri"
+
+msgid "Insert Hyperlink"
+msgstr "Ievietot hipersaiti"
+
+msgid "Insert Index"
+msgstr "Ievietot rādītāju"
+
+msgid "Insert Left"
+msgstr "Ievietot pa kreisi"
+
+msgid "Insert Merge Field"
+msgstr "Ievietot sapludināšanas lauku"
+
+msgid "Insert Merge\nField"
+msgstr "Ievietot\nsapludināšanas lauku"
+
+msgid "Insert New Equation"
+msgstr "Ievietot jaunu vienādojumu"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Ievietot vienu vai otru tekstu atkarībā no lauka vērtības."
+
+msgid "Insert Page Field"
+msgstr "Ievietot lapas lauku"
+
+msgid "Insert reference to:"
+msgstr "Ievietot atsauci uz:"
+
+msgid "Insert Right"
+msgstr "Ievietot pa labi"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Ievietot rindu vai kolonnu ar klikšķi"
+
+msgid "Insert Rows Above"
+msgstr "Ievietot rindas virs"
+
+msgid "Insert Rows Below"
+msgstr "Ievietot rindas zem"
+
+msgid "Insert Shapes"
+msgstr "Ievietot figūras"
+
+msgid "Insert SmartArt"
+msgstr "Ievietot SmartArt"
+
+msgid "Insert Spike"
+msgstr "Ievietot krājumu"
+
+msgid "Insert Structure"
+msgstr "Ievietot struktūru"
+
+msgid "Insert Symbol"
+msgstr "Ievietot simbolu"
+
+msgid "Insert Table"
+msgstr "Ievietot tabulu"
+
+msgid "Insert Table of Authorities"
+msgstr "Ievietot autoritāšu tabulu"
+
+msgid "Insert Table of Figures"
+msgstr "Ievietot attēlu sarakstu"
+
+msgid "Insert Table…"
+msgstr "Ievietot tabulu…"
+
+msgid "Insert Time Field"
+msgstr "Ievietot laika lauku"
+
+msgid "Insert\nAbove"
+msgstr "Ievietot\nvirs"
+
+msgid "Insert\nCaption"
+msgstr "Ievietot\nparakstu"
+
+msgid "Insert\nCitation"
+msgstr "Ievietot\natsauci"
+
+msgid "Insert\nFootnote"
+msgstr "Ievietot\nvēri"
+
+msgid "Insertions and Deletions"
+msgstr "Ievietojumi un dzēsumi"
+
+msgid "Insertions:"
+msgstr "Ievietojumi:"
+
+msgid "Inside Borders"
+msgstr "Iekšējās apmales"
+
+msgid "Inside Horizontal Border"
+msgstr "Iekšējā horizontālā apmale"
+
+msgid "Inside Vertical Border"
+msgstr "Iekšējā vertikālā apmale"
+
+msgid "Inside:"
+msgstr "Iekšpusē:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Pārbaudīt stilus pie atlases"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Instalēt pareizrakstību ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Iestāde"
+
+msgid "Integral"
+msgstr "Integrālis"
+
+msgid "Integral of e^(−x²)"
+msgstr "e^(−x²) integrālis"
+
+msgid "Integral with Limits"
+msgstr "Integrālis ar robežām"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integrālis ar robežām virs un zem"
+
+msgid "Integrals"
+msgstr "Integrāļi"
+
+msgid "Intense Emphasis"
+msgstr "Spēcīgs uzsvars"
+
+msgid "Intense Quote"
+msgstr "Spēcīgs citāts"
+
+msgid "Intense Reference"
+msgstr "Spēcīga atsauce"
+
+msgid "Interface language:"
+msgstr "Saskarnes valoda:"
+
+msgid "Interface size:"
+msgstr "Saskarnes izmērs:"
+
+msgid "Interface theme:"
+msgstr "Saskarnes motīvs:"
+
+msgid "Interface\nTheme"
+msgstr "Saskarnes\nmotīvs"
+
+msgid "Internet addresses as links"
+msgstr "Interneta adreses kā saites"
+
+msgid "Intersection with Limits"
+msgstr "Šķēlums ar robežām"
+
+msgid "Intersection with Lower Limit"
+msgstr "Šķēlums ar apakšējo robežu"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Šķēlums ar apakšraksta un augšraksta robežām"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Apgrieztā kosekanta funkcija"
+
+msgid "Inverse Cosine Function"
+msgstr "Apgrieztā kosinusa funkcija"
+
+msgid "Inverse Cotangent Function"
+msgstr "Apgrieztā kotangensa funkcija"
+
+msgid "Inverse Functions"
+msgstr "Apgrieztās funkcijas"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Apgrieztā hiperboliskā kosekanta funkcija"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Apgrieztā hiperboliskā kosinusa funkcija"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Apgrieztā hiperboliskā kotangensa funkcija"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Apgrieztās hiperboliskās funkcijas"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Apgrieztā hiperboliskā sekanta funkcija"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Apgrieztā hiperboliskā sinusa funkcija"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Apgrieztā hiperboliskā tangensa funkcija"
+
+msgid "Inverse Secant Function"
+msgstr "Apgrieztā sekanta funkcija"
+
+msgid "Inverse Sine Function"
+msgstr "Apgrieztā sinusa funkcija"
+
+msgid "Inverse Tangent Function"
+msgstr "Apgrieztā tangensa funkcija"
+
+msgid "Ionosphere"
+msgstr "Jonosfēra"
+
+msgid "Iraq"
+msgstr "Irāka"
+
+msgid "Ireland"
+msgstr "Īrija"
+
+msgid "Irish"
+msgstr "Īru"
+
+msgid "Is blank"
+msgstr "Ir tukšs"
+
+msgid "Is not blank"
+msgstr "Nav tukšs"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (autors-datums)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (skaitlisks)"
+
+msgid "Issue"
+msgstr "Numurs"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Izskatās, ka rakstāt vēstuli. Vai vēlaties tai aploksni vai vēstules veidni, no kuras sākt?"
+
+msgid "Italy"
+msgstr "Itālija"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Tās vārdnīcu neizdevās nolasīt: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Pievienojieties ArtCraft kopienai Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Pievienojieties mums Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Jordānija"
+
+msgid "Journal"
+msgstr "Žurnāls"
+
+msgid "Journal article"
+msgstr "Žurnāla raksts"
+
+msgid "Justification of a display equation"
+msgstr "Atsevišķa vienādojuma izlīdzinājums"
+
+msgid "Justified"
+msgstr "Izlīdzināts abās malās"
+
+msgid "Kazakhstan"
+msgstr "Kazahstāna"
+
+msgid "Keep Lines Together"
+msgstr "Paturēt rindas kopā"
+
+msgid "Keep lines together"
+msgstr "Paturēt rindas kopā"
+
+msgid "Keep me around"
+msgstr "Paturēt mani"
+
+msgid "Keep Text Only"
+msgstr "Saglabāt tikai tekstu"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Glabājiet paroli drošā vietā: bez tās neviens, arī WordCraft, nevar atvērt dokumentu. Atstājiet abus lodziņus tukšus, lai noņemtu paroli."
+
+msgid "Keep with Next"
+msgstr "Paturēt ar nākamo"
+
+msgid "Keep with next"
+msgstr "Paturēt ar nākamo"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Saglabā kopētā teksta fontus un formatējumu."
+
+msgid "Kerning for fonts:"
+msgstr "Kerninga fontiem:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Īsinājumtaustiņi:"
+
+msgid "Keys for this command:"
+msgstr "Šīs komandas taustiņi:"
+
+msgid "Kuwait"
+msgstr "Kuveita"
+
+msgid "Label changes with:"
+msgstr "Etiķete mainās ar:"
+
+msgid "Label:"
+msgstr "Etiķete:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Valodas iestatījumi…"
+
+msgid "Large\nOperator"
+msgstr "Liels\noperators"
+
+msgid "Largest Only"
+msgstr "Tikai lielākais"
+
+msgid "Lasso Select"
+msgstr "Laso atlase"
+
+msgid "Last Column"
+msgstr "Pēdējā kolonna"
+
+msgid "Last Name"
+msgstr "Uzvārds"
+
+msgid "Last Record"
+msgstr "Pēdējais ieraksts"
+
+msgid "Last, First; Last, First"
+msgstr "Uzvārds, vārds; uzvārds, vārds"
+
+msgid "Latin text font:"
+msgstr "Latīņu teksta fonts:"
+
+msgid "Latvian"
+msgstr "Latviešu"
+
+msgid "Layout Summary"
+msgstr "Izkārtojuma kopsavilkums"
+
+msgid "Layouts"
+msgstr "Izkārtojumi"
+
+msgid "Leader"
+msgstr "Aizpildes rakstzīme"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Izlaist adresātu no sapludināšanas, ja laukam ir šī vērtība."
+
+msgid "Leave Equation"
+msgstr "Iziet no vienādojuma"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Saglabājot neiekļaut komentāru un izsekoto izmaiņu datumu un laiku"
+
+msgid "Leave the equation (Esc)"
+msgstr "Iziet no vienādojuma (Esc)"
+
+msgid "leave the equation first"
+msgstr "vispirms izejiet no vienādojuma"
+
+msgid "Leave the label out of the caption"
+msgstr "Izlaist etiķeti no paraksta"
+
+msgid "Lebanon"
+msgstr "Libāna"
+
+msgid "Left Arrow with Text Above"
+msgstr "Bultiņa pa kreisi ar tekstu virs"
+
+msgid "Left Arrow with Text Below"
+msgstr "Bultiņa pa kreisi ar tekstu zem"
+
+msgid "Left Border"
+msgstr "Kreisā apmale"
+
+msgid "Left border"
+msgstr "Kreisā apmale"
+
+msgid "Left Bracket Twice"
+msgstr "Divreiz kreisā iekava"
+
+msgid "Left indent"
+msgstr "Kreisā atkāpe"
+
+msgid "Left Margin"
+msgstr "Kreisā piemale"
+
+msgid "Left Only"
+msgstr "Tikai pa kreisi"
+
+msgid "Left Right Arrow Above"
+msgstr "Bultiņa pa kreisi un labi virs"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Bultiņa pa kreisi un labi ar tekstu virs"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Bultiņa pa kreisi un labi ar tekstu zem"
+
+msgid "Left Subscript-Superscript"
+msgstr "Kreisais apakšraksts un augšraksts"
+
+msgid "Left-to-right"
+msgstr "No kreisās uz labo"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Teksta virziens no kreisās uz labo"
+
+msgid "Leftwards Arrow Above"
+msgstr "Bultiņa pa kreisi virs"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Harpūna pa kreisi virs"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8.50\" × 14.00\""
+
+msgid "Legal style numbering"
+msgstr "Juridiskā stila numerācija"
+
+msgid "Legend"
+msgstr "Leģenda"
+
+msgid "Less Contrast −20%"
+msgstr "Mazāks kontrasts −20%"
+
+msgid "Less than"
+msgstr "Mazāks par"
+
+msgid "Less than or equal"
+msgstr "Mazāks vai vienāds"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Vēstule"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8.50\" × 11.00\""
+
+msgid "Letter headings"
+msgstr "Vēstuļu virsraksti"
+
+msgid "Letter template"
+msgstr "Vēstules veidne"
+
+msgid "Letter-Like Symbols"
+msgstr "Burtiem līdzīgi simboli"
+
+msgid "Letters"
+msgstr "Vēstules"
+
+msgid "Level 5"
+msgstr "5. līmenis"
+
+msgid "Level 6"
+msgstr "6. līmenis"
+
+msgid "Level 7"
+msgstr "7. līmenis"
+
+msgid "Level 8"
+msgstr "8. līmenis"
+
+msgid "Level 9"
+msgstr "9. līmenis"
+
+msgid "Level {n}"
+msgstr "{n}. līmenis"
+
+msgid "Levels:"
+msgstr "Līmeņi:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Lihtenšteina"
+
+msgid "Light Variations"
+msgstr "Gaišās variācijas"
+
+msgid "Light with Outline"
+msgstr "Gaišs ar kontūru"
+
+msgid "Limit"
+msgstr "Robeža"
+
+msgid "Limit and"
+msgstr "Robeža un"
+
+msgid "Limit and\nLog"
+msgstr "Robeža un\nlogaritms"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Ierobežot secīgas defises līdz:"
+
+msgid "Limit Example"
+msgstr "Robežas piemērs"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Ierobežot formatējumu līdz izvēlētiem stiliem"
+
+msgid "Line and Page Breaks"
+msgstr "Rindu un lapu pārtraukumi"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Rindstarpa un rindkopu atstatums"
+
+msgid "Line between"
+msgstr "Līnija starp"
+
+msgid "Line Break"
+msgstr "Rindas pārtraukums"
+
+msgid "Line breaking"
+msgstr "Rindu pārnese"
+
+msgid "Line End"
+msgstr "Rindas beigas"
+
+msgid "Line Number"
+msgstr "Rindas numurs"
+
+msgid "Line Numbering Options…"
+msgstr "Rindu numerācijas opcijas…"
+
+msgid "Line Numbers"
+msgstr "Rindu numuri"
+
+msgid "Line Spacing"
+msgstr "Rindstarpa"
+
+msgid "Line Spacing Options…"
+msgstr "Rindstarpas opcijas…"
+
+msgid "Line spacing:"
+msgstr "Rindstarpa:"
+
+msgid "Line Start"
+msgstr "Rindas sākums"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Lineāra diagonāle — no apakšas pa kreisi uz augšu pa labi"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Lineāra diagonāle — no apakšas pa labi uz augšu pa kreisi"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Lineāra diagonāle — no augšas pa kreisi uz apakšu pa labi"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Lineāra diagonāle — no augšas pa labi uz apakšu pa kreisi"
+
+msgid "Linear Down"
+msgstr "Lineāri uz leju"
+
+msgid "Linear Fraction"
+msgstr "Lineāra daļa"
+
+msgid "Linear Left"
+msgstr "Lineāri pa kreisi"
+
+msgid "Linear Right"
+msgstr "Lineāri pa labi"
+
+msgid "Linear Up"
+msgstr "Lineāri uz augšu"
+
+msgid "Lines and characters"
+msgstr "Rindas un rakstzīmes"
+
+msgid "Lines only"
+msgstr "Tikai līnijas"
+
+msgid "Lines per page:"
+msgstr "Rindas lapā:"
+
+msgid "Lines to drop:"
+msgstr "Rindas nolaišanai:"
+
+msgid "Link entries to their headings"
+msgstr "Saistīt ierakstus ar to virsrakstiem"
+
+msgid "Link level to style:"
+msgstr "Saistīt līmeni ar stilu:"
+
+msgid "Link to Previous"
+msgstr "Saistīt ar iepriekšējo"
+
+msgid "Link to:"
+msgstr "Saistīt ar:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Saistīts stils (rindkopas un rakstzīmju)"
+
+msgid "Links and References"
+msgstr "Saites un atsauces"
+
+msgid "Link…"
+msgstr "Saite…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Saraksta definīcija"
+
+msgid "List entries"
+msgstr "Saraksta ieraksti"
+
+msgid "List Paragraph"
+msgstr "Saraksta rindkopa"
+
+msgid "List Table 3 – Blue"
+msgstr "Saraksta tabula 3 – zila"
+
+msgid "List Table 3 – Green"
+msgstr "Saraksta tabula 3 – zaļa"
+
+msgid "List Table 3 – Orange"
+msgstr "Saraksta tabula 3 – oranža"
+
+msgid "List Table 3 – Purple"
+msgstr "Saraksta tabula 3 – purpura"
+
+msgid "Lit from Bottom"
+msgstr "Apgaismots no apakšas"
+
+msgid "Lit from Top"
+msgstr "Apgaismots no augšas"
+
+msgid "Lithuanian"
+msgstr "Lietuviešu"
+
+msgid "Load System Installed Fonts…"
+msgstr "Ielādēt sistēmā instalētos fontus…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Ielādēti {count} sistēmas fonti."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Jūsu pārlūks neatbalsta piekļuvi lokāliem fontiem."
+
+msgid "Local font access was denied."
+msgstr "Piekļuve lokāliem fontiem tika liegta."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "Lokālā atkopšana nav pieejama vai vēl tiek ielādēta."
+
+msgid "Location: {path}"
+msgstr "Atrašanās vieta: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Bloķēt malu attiecību"
+
+msgid "Lock Fields"
+msgstr "Bloķēt laukus"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Logarithm"
+msgstr "Logaritms"
+
+msgid "Logarithm with Base"
+msgstr "Logaritms ar bāzi"
+
+msgid "Logical AND"
+msgstr "Loģiskais UN"
+
+msgid "Logical AND with Limits"
+msgstr "Loģiskais UN ar robežām"
+
+msgid "Logical OR"
+msgstr "Loģiskais VAI"
+
+msgid "Logical OR with Limits"
+msgstr "Loģiskais VAI ar robežām"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: jo īstie vārdi vēl ir kafejnīcā."
+
+msgid "Lum:"
+msgstr "Spož.:"
+
+msgid "Luxembourg"
+msgstr "Luksemburga"
+
+msgid "Macao SAR"
+msgstr "Makao ĪPR"
+
+msgid "Macedonian"
+msgstr "Maķedoniešu"
+
+msgid "Macro name:"
+msgstr "Makro nosaukums:"
+
+msgid "Macros"
+msgstr "Makro"
+
+msgid "Made from the author and year when empty"
+msgstr "Ja tukšs, tiek veidots no autora un gada"
+
+msgid "Magazine or newspaper article"
+msgstr "Žurnāla vai laikraksta raksts"
+
+msgid "Mail Merge"
+msgstr "Pasta sapludināšana"
+
+msgid "Mailings"
+msgstr "Sūtījumi"
+
+msgid "Main entry:"
+msgstr "Galvenais ieraksts:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Iestatīt WordCraft kā noklusējumu Word dokumentiem…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Palielina vai samazina lenti, izvēlnes un dialoglodziņus. Automātiskais režīms seko sistēmas displeja mērogam; 100% ir viens ekrāna pikselis punktā. Dokumenta tālummaiņa ir atsevišķa."
+
+msgid "Malaysia"
+msgstr "Malaizija"
+
+msgid "Manage Sources"
+msgstr "Pārvaldīt avotus"
+
+msgid "Manage Styles"
+msgstr "Pārvaldīt stilus"
+
+msgid "Manage Styles…"
+msgstr "Pārvaldīt stilus…"
+
+msgid "Manual Hyphenation"
+msgstr "Manuāla vārdu pārnešana"
+
+msgid "Manual hyphenation is complete."
+msgstr "Manuālā vārdu pārnešana ir pabeigta."
+
+msgid "Manual Line Break"
+msgstr "Manuāls rindas pārtraukums"
+
+msgid "Manual Page Break"
+msgstr "Manuāls lapas pārtraukums"
+
+msgid "Manual…"
+msgstr "Manuāli…"
+
+msgid "Many pages"
+msgstr "Daudz lapu"
+
+msgid "Mark"
+msgstr "Atzīmēt"
+
+msgid "Mark All"
+msgstr "Atzīmēt visu"
+
+msgid "Mark as decorative"
+msgstr "Atzīmēt kā dekoratīvu"
+
+msgid "Mark Citation"
+msgstr "Atzīmēt atsauci"
+
+msgid "Mark Entry"
+msgstr "Atzīmēt ierakstu"
+
+msgid "Mark Entry…"
+msgstr "Atzīmēt ierakstu…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Atzīmēt gramatikas kļūdas rakstīšanas laikā"
+
+msgid "Mark Index Entry"
+msgstr "Atzīmēt rādītāja ierakstu"
+
+msgid "Mark selected text as:"
+msgstr "Atzīmēt atlasīto tekstu kā:"
+
+msgid "Mark\nCitation"
+msgstr "Atzīmēt\natsauci"
+
+msgid "Mark\nEntry"
+msgstr "Atzīmēt\nierakstu"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Atšķirt lielos un mazos burtus"
+
+msgid "Match Fields"
+msgstr "Saskaņot laukus"
+
+msgid "Match prefix"
+msgstr "Atbilstošs prefikss"
+
+msgid "Match suffix"
+msgstr "Atbilstošs sufikss"
+
+msgid "Matches: {count}"
+msgstr "Atbilstības: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Matemātiskā automātiskā labošana"
+
+msgid "Matrices with Brackets"
+msgstr "Matricas ar iekavām"
+
+msgid "Matrix"
+msgstr "Matrica"
+
+msgid "Maximum Example"
+msgstr "Maksimuma piemērs"
+
+msgid "Measured By"
+msgstr "Mērīts pēc"
+
+msgid "Measurement units:"
+msgstr "Mērvienības:"
+
+msgid "Merge cells before split"
+msgstr "Sapludināt šūnas pirms sadalīšanas"
+
+msgid "Merge Formatting"
+msgstr "Sapludināt formatējumu"
+
+msgid "Merge Record #"
+msgstr "Sapludināšanas ieraksta nr."
+
+msgid "Mesosphere"
+msgstr "Mezosfēra"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "Midline Dots"
+msgstr "Punkti līnijas vidū"
+
+msgid "Minus Equal"
+msgstr "Mīnus vienāds"
+
+msgid "Mirror indents"
+msgstr "Spoguļot atkāpes"
+
+msgid "Mirror margins"
+msgstr "Spoguļot piemales"
+
+msgid "Mirrored"
+msgstr "Spoguļots"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Autortiesības (c) 2026 ArtCraft Team un WordCraft līdzdalībnieki."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Mērens"
+
+msgid "Modify Style"
+msgstr "Mainīt stilu"
+
+msgid "Modify Table Style"
+msgstr "Mainīt tabulas stilu"
+
+msgid "Modify Table Style…"
+msgstr "Mainīt tabulas stilu…"
+
+msgid "Modify…"
+msgstr "Mainīt…"
+
+msgid "Mon"
+msgstr "Pr"
+
+msgid "Monaco"
+msgstr "Monako"
+
+msgid "Montenegro"
+msgstr "Melnkalne"
+
+msgid "Month"
+msgstr "Mēnesis"
+
+msgid "More >>"
+msgstr "Vairāk >>"
+
+msgid "More Colors…"
+msgstr "Citas krāsas…"
+
+msgid "More Columns…"
+msgstr "Citas kolonnas…"
+
+msgid "More Commands…"
+msgstr "Citas komandas…"
+
+msgid "More Contrast +20%"
+msgstr "Lielāks kontrasts +20%"
+
+msgid "More Gradients…"
+msgstr "Citi gradienti…"
+
+msgid "More options"
+msgstr "Citas opcijas"
+
+msgid "More Paper Sizes…"
+msgstr "Citi papīra izmēri…"
+
+msgid "More Symbols…"
+msgstr "Citi simboli…"
+
+msgid "More tabs"
+msgstr "Citas cilnes"
+
+msgid "More templates →"
+msgstr "Citas veidnes →"
+
+msgid "More Underlines…"
+msgstr "Citi pasvītrojumi…"
+
+msgid "Morocco"
+msgstr "Maroka"
+
+msgid "Move in Equation"
+msgstr "Pārvietoties vienādojumā"
+
+msgid "Move or Resize"
+msgstr "Pārvietot vai mainīt izmēru"
+
+msgid "Move Pane: {title}"
+msgstr "Pārvietot rūti: {title}"
+
+msgid "Move Paragraph Down"
+msgstr "Pārvietot rindkopu uz leju"
+
+msgid "Move Paragraph Up"
+msgstr "Pārvietot rindkopu uz augšu"
+
+msgid "Move Past Citation"
+msgstr "Pārvietoties aiz atsauces"
+
+msgid "Move Past\nCitation"
+msgstr "Pārvietoties\naiz atsauces"
+
+msgid "Move Selected Ink"
+msgstr "Pārvietot atlasīto tinti"
+
+msgid "Move Table by Dragging"
+msgstr "Pārvietot tabulu velkot"
+
+msgid "Move with Text"
+msgstr "Pārvietot ar tekstu"
+
+msgid "Moved from"
+msgstr "Pārvietots no"
+
+msgid "Moved from:"
+msgstr "Pārvietots no:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Pārvietotie objekti piesaistās lapas malām un centram, piemalēm un citiem objektiem. Turiet Alt, lai pārvietotu brīvi."
+
+msgid "Moved to"
+msgstr "Pārvietots uz"
+
+msgid "Moved to:"
+msgstr "Pārvietots uz:"
+
+msgid "Moves"
+msgstr "Pārvietojumi"
+
+msgid "Mozambique"
+msgstr "Mozambika"
+
+msgid "Multilevel List"
+msgstr "Vairāklīmeņu saraksts"
+
+msgid "Multilevel List Library"
+msgstr "Vairāklīmeņu sarakstu bibliotēka"
+
+msgid "Multiple Pages"
+msgstr "Vairākas lapas"
+
+msgid "Mute agent messages"
+msgstr "Izslēgt aģentu ziņojumus"
+
+msgid "Muted 50%"
+msgstr "Klusināts 50%"
+
+msgid "My list has"
+msgstr "Manā sarakstā ir"
+
+msgid "Name of the file this document is saved as"
+msgstr "Faila nosaukums, ar kuru šis dokuments saglabāts"
+
+msgid "Narrow"
+msgstr "Šaurs"
+
+msgid "Narrow  {size} all"
+msgstr "Šauras  {size} visas"
+
+msgid "Natural Logarithm"
+msgstr "Naturālais logaritms"
+
+msgid "Nature"
+msgstr "Daba"
+
+msgid "Navigation Pane"
+msgstr "Navigācijas rūts"
+
+msgid "Negated Relations"
+msgstr "Noliegtās attiecības"
+
+msgid "Netherlands"
+msgstr "Nīderlande"
+
+msgid "New blank documents are written in this language"
+msgstr "Jauni tukši dokumenti tiek rakstīti šajā valodā"
+
+msgid "New Comment"
+msgstr "Jauns komentārs"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Jauni komentāri un izsekotās izmaiņas tiek reģistrēti ar šo vārdu un šiem iniciāļiem."
+
+msgid "New Documents Based on This Template"
+msgstr "Jauni dokumenti, kas balstīti uz šo veidni"
+
+msgid "New documents based on this template"
+msgstr "Jauni dokumenti, kas balstīti uz šo veidni"
+
+msgid "New documents will use this font."
+msgstr "Jauni dokumenti izmantos šo fontu."
+
+msgid "New documents will use this page setup."
+msgstr "Jauni dokumenti izmantos šo lapas iestatījumu."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Jauni dokumenti izmantos šo rindkopas formatējumu."
+
+msgid "New documents will use this style."
+msgstr "Jauni dokumenti izmantos šo stilu."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Jauni dokumenti izmantos WordCraft iebūvēto formatējumu."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Jauni dokumenti izmantos WordCraft iebūvēto formatējumu. Jūsu saglabātos noklusējumus nevar atgūt. Vai atiestatīt?"
+
+msgid "New Drawing Canvas"
+msgstr "Jauns zīmēšanas audekls"
+
+msgid "New Entry"
+msgstr "Jauns ieraksts"
+
+msgid "New Label"
+msgstr "Jauna etiķete"
+
+msgid "New Label…"
+msgstr "Jauna etiķete…"
+
+msgid "New Paragraph"
+msgstr "Jauna rindkopa"
+
+msgid "New shortcut:"
+msgstr "Jauna saīsne:"
+
+msgid "New Tab"
+msgstr "Jauna cilne"
+
+msgid "New Table Style"
+msgstr "Jauns tabulas stils"
+
+msgid "New Table Style…"
+msgstr "Jauns tabulas stils…"
+
+msgid "New word"
+msgstr "Jauns vārds"
+
+msgid "New Zealand"
+msgstr "Jaunzēlande"
+
+msgid "New\nComment"
+msgstr "Jauns\nkomentārs"
+
+msgid "New\nWindow"
+msgstr "Jauns\nlogs"
+
+msgid "Next Comment"
+msgstr "Nākamais komentārs"
+
+msgid "Next Field"
+msgstr "Nākamais lauks"
+
+msgid "Next Footnote"
+msgstr "Nākamā vēre"
+
+msgid "Next Record"
+msgstr "Nākamais ieraksts"
+
+msgid "Next Section"
+msgstr "Nākamā sadaļa"
+
+msgid "Next Sentence"
+msgstr "Nākamais teikums"
+
+msgid "Next sentence"
+msgstr "Nākamais teikums"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib peld virs loga ar padomiem un reizēm kādu piezīmi."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, jūsu palīgs. Velciet, lai pārvietotu; labais klikšķis — opcijas."
+
+msgid "Nicaragua"
+msgstr "Nikaragva"
+
+msgid "No accessibility issues found."
+msgstr "Pieejamības problēmas nav atrastas."
+
+msgid "No Border"
+msgstr "Bez apmales"
+
+msgid "No changes (read only)"
+msgstr "Bez izmaiņām (tikai lasīšana)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Šajā kopijā nav iekļauti līdzdalībnieku dati."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Nav atvērta dokumenta. Vispirms izveidojiet vai atveriet dokumentu."
+
+msgid "no equation at the caret"
+msgstr "pie kursora nav vienādojuma"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Kļūdas nav atrastas: katrs sapludināšanas lauks ir adresātu sarakstā."
+
+msgid "No Fill"
+msgstr "Bez aizpildījuma"
+
+msgid "No fill"
+msgstr "Bez aizpildījuma"
+
+msgid "No Glow"
+msgstr "Bez mirdzuma"
+
+msgid "No Gradient"
+msgstr "Bez gradienta"
+
+msgid "No grid"
+msgstr "Bez režģa"
+
+msgid "No header row"
+msgstr "Bez galvenes rindas"
+
+msgid "No icons match your search."
+msgstr "Meklējumam neatbilst neviena ikona."
+
+msgid "No items to show."
+msgstr "Nav rādāmu vienumu."
+
+msgid "No language matches your search."
+msgstr "Meklējumam neatbilst neviena valoda."
+
+msgid "No languages to show yet."
+msgstr "Vēl nav rādāmu valodu."
+
+msgid "No Markup"
+msgstr "Bez iezīmējumiem"
+
+msgid "No model credits were built into this copy."
+msgstr "Šajā kopijā nav iekļauta informācija par modeļu autoriem."
+
+msgid "No new sources in that file"
+msgstr "Šajā failā nav jaunu avotu"
+
+msgid "No Outline"
+msgstr "Bez kontūras"
+
+msgid "No Paragraph Space"
+msgstr "Bez rindkopu atstatuma"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Printeri nav atrasti. Konfigurējiet sistēmas printeri vai eksportējiet PDF."
+
+msgid "No recovery copies."
+msgstr "Nav atkopšanas kopiju."
+
+msgid "No Reflection"
+msgstr "Bez atspulga"
+
+msgid "No Scaling"
+msgstr "Bez mērogošanas"
+
+msgid "No Shadow"
+msgstr "Bez ēnas"
+
+msgid "No Soft Edges"
+msgstr "Bez mīkstām malām"
+
+msgid "No sources yet."
+msgstr "Vēl nav avotu."
+
+msgid "No Spacing"
+msgstr "Bez atstarpes"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Valodai {language} nav instalēta pareizrakstības vārdnīca, tāpēc tā netiek pārbaudīta. WordCraft meklē Hunspell vārdnīcu {name} mapē WORDCRAFT_DICTIONARIES un parastajās sistēmas vietās."
+
+msgid "No templates match your search."
+msgstr "Meklējumam neatbilst neviena veidne."
+
+msgid "No Transform"
+msgstr "Bez transformācijas"
+
+msgid "No watermark"
+msgstr ""
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Vēl nav vārdu. Pievienot vārdnīcai uz kļūdaina vārda ievieto to šeit."
+
+msgid "No-Width Non Break"
+msgstr "Nulles platuma nedalošs"
+
+msgid "No-Width Optional Break"
+msgstr "Nulles platuma neobligāts pārtraukums"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Nedalāma defise"
+
+msgid "Normal  {size} all"
+msgstr "Parastas  {size} visas"
+
+msgid "Normal Indent"
+msgstr "Parasta atkāpe"
+
+msgid "Normal probability density"
+msgstr "Normālā varbūtības blīvuma funkcija"
+
+msgid "Normal speed"
+msgstr "Parasts ātrums"
+
+msgid "Normal Style"
+msgstr "Parastais stils"
+
+msgid "Normal Table"
+msgstr "Parasta tabula"
+
+msgid "Normal Text"
+msgstr "Parasts teksts"
+
+msgid "Normal Word Document"
+msgstr "Parasts Word dokuments"
+
+msgid "North"
+msgstr "Ziemeļi"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norvēģu (bukmols)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "Norvēģu (nīnoršks)"
+
+msgid "Not"
+msgstr "Ne"
+
+msgid "Not available right now"
+msgstr "Pašlaik nav pieejams"
+
+msgid "Not available yet"
+msgstr "Vēl nav pieejams"
+
+msgid "not editing an equation"
+msgstr "vienādojums netiek rediģēts"
+
+msgid "Not equal to"
+msgstr "Nav vienāds ar"
+
+msgid "Not in Dictionary"
+msgstr "Nav vārdnīcā"
+
+msgid "Not linked: click a text box"
+msgstr "Nav saistīts: noklikšķiniet uz teksta lodziņa"
+
+msgid "Not now"
+msgstr "Ne tagad"
+
+msgid "Not saved"
+msgstr "Nav saglabāts"
+
+msgid "Not saved yet"
+msgstr "Vēl nav saglabāts"
+
+msgid "Not set"
+msgstr "Nav iestatīts"
+
+msgid "Not set: the system's usual places"
+msgstr "Nav iestatīts: parastās sistēmas vietas"
+
+msgid "Not used by any command"
+msgstr "Neizmanto neviena komanda"
+
+msgid "Not {name}"
+msgstr "Nav {name}"
+
+msgid "Nothing"
+msgstr "Nekas"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Vēl nekas nav savākts. Šeit parādās kopētie vai izgrieztie vienumi."
+
+msgid "nothing is selected"
+msgstr "nekas nav atlasīts"
+
+msgid "Nothing of this type in the document."
+msgstr "Dokumentā nav šāda veida vienumu."
+
+msgid "Now used by {command}"
+msgstr "Tagad izmanto {command}"
+
+msgid "Nudge"
+msgstr "Pabīdīt"
+
+msgid "Num Occurrences"
+msgstr "Gadījumu skaits"
+
+msgid "Number alignment:"
+msgstr "Numura līdzinājums:"
+
+msgid "Number format"
+msgstr "Numura formāts"
+
+msgid "Number of columns:"
+msgstr "Kolonnu skaits:"
+
+msgid "Number of rows:"
+msgstr "Rindu skaits:"
+
+msgid "Number of the page the field sits on"
+msgstr "Lapas numurs, kurā atrodas lauks"
+
+msgid "Number of the section the field sits in"
+msgstr "Sadaļas numurs, kurā atrodas lauks"
+
+msgid "Number only, without the label's words"
+msgstr "Tikai numurs, bez etiķetes vārdiem"
+
+msgid "Number style for this level:"
+msgstr "Numura stils šim līmenim:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Numurēt vienādojumu; numurs atrodas pie labās piemales (vai ierakstiet # un numuru)"
+
+msgid "Numbering"
+msgstr "Numerācija"
+
+msgid "Numbering:"
+msgstr "Numerācija:"
+
+msgid "Numbering…"
+msgstr "Numerācija…"
+
+msgid "Numerals"
+msgstr "Cipari"
+
+msgid "Numerals:"
+msgstr "Cipari:"
+
+msgid "n×n Identity Matrix"
+msgstr "n×n vienības matrica"
+
+msgid "n×n Matrix"
+msgstr "n×n matrica"
+
+msgid "Odd Banded Columns"
+msgstr "Nepāra joslotas kolonnas"
+
+msgid "Odd Banded Rows"
+msgstr "Nepāra joslotas rindas"
+
+msgid "Odd Page"
+msgstr "Nepāra lapa"
+
+msgid "Office"
+msgstr "Birojs"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 noklusējums"
+
+msgid "Offset (pt):"
+msgstr "Nobīde (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Nobīde: apakšā"
+
+msgid "Offset: Bottom Left"
+msgstr "Nobīde: apakšā pa kreisi"
+
+msgid "Offset: Bottom Right"
+msgstr "Nobīde: apakšā pa labi"
+
+msgid "Offset: Center"
+msgstr "Nobīde: centrā"
+
+msgid "Offset: Left"
+msgstr "Nobīde: pa kreisi"
+
+msgid "Offset: Right"
+msgstr "Nobīde: pa labi"
+
+msgid "Offset: Top"
+msgstr "Nobīde: augšā"
+
+msgid "Offset: Top Left"
+msgstr "Nobīde: augšā pa kreisi"
+
+msgid "Offset: Top Right"
+msgstr "Nobīde: augšā pa labi"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Vecie izvēlnes taustiņi: Alt, {keys}. Turpiniet rakstīt vai nospiediet Esc, lai atceltu."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Ieslēgts: kursors slīd uz jauno vietu, rakstot vai izmantojot bulttaustiņus, un tā mirgošana izgaist. Izslēgts: tas lec un mirgo."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Ieslēgts: WordCraft atveras sadaļā Fails > Sākums ar tukšu dokumentu, veidnēm un nesenajiem dokumentiem. Izslēgts: atveras tukšs dokuments."
+
+msgid "One"
+msgstr "Viens"
+
+msgid "One half"
+msgstr "Viena puse"
+
+msgid "One label per recipient"
+msgstr "Viena etiķete katram adresātam"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Viena rinda katram vienumam. Enter pievieno vienumu."
+
+msgid "One Page"
+msgstr "Viena lapa"
+
+msgid "One-sided"
+msgstr "Vienpusēji"
+
+msgid "Only allow this kind of editing:"
+msgstr "Atļaut tikai šāda veida rediģēšanu:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Var pievienot tikai komentārus, izņemot apgabalos, kas atzīmēti kā rediģējami."
+
+msgid "Only for the selected text"
+msgstr "Tikai atlasītajam tekstam"
+
+msgid "Only form fields can be filled in."
+msgstr "Var aizpildīt tikai veidlapu laukus."
+
+msgid "only in Outline view"
+msgstr "tikai struktūrskatā"
+
+msgid "Only in this document"
+msgstr "Tikai šajā dokumentā"
+
+msgid "Only label and number"
+msgstr "Tikai etiķete un numurs"
+
+msgid "Only text properties can be changed."
+msgstr "Var mainīt tikai teksta rekvizītus."
+
+msgid "Only the allowed styles can be applied."
+msgstr "Var lietot tikai atļautos stilus."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Var sekot tikai tīmekļa (http, https) un e-pasta (mailto) saitēm"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr "Atvērts"
+
+msgid "Open a document first"
+msgstr "Vispirms atveriet dokumentu"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Atvērt failu ar WordCraft pārlūku, ja sistēmas failu dialoglodziņš neparādās."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument teksts (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Atver drukas dialoglodziņu…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Turpmāk atver .docx, .doc, .rtf un .odt failus un Word veidnes ar WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Atver Iestatījumi > Noklusējuma lietotnes, kur izvēlaties WordCraft .docx un citiem dokumentu veidiem."
+
+msgid "Operator"
+msgstr "Operators"
+
+msgid "Operator Structures"
+msgstr "Operatoru struktūras"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Optional Hyphen"
+msgstr "Neobligāta defise"
+
+msgid "Or"
+msgstr "Vai"
+
+msgid "Or save a copy in another format:"
+msgstr "Vai saglabājiet kopiju citā formātā:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Kārtas skaitļi (1st) kā augšraksts"
+
+msgid "Organizer"
+msgstr "Organizators"
+
+msgid "Organizer…"
+msgstr "Organizators…"
+
+msgid "Original document"
+msgstr "Oriģinālais dokuments"
+
+msgid "Original size"
+msgstr "Oriģinālais izmērs"
+
+msgid "Other Large Operators"
+msgstr "Citi lielie operatori"
+
+msgid "Other styles and their TOC level:"
+msgstr "Citi stili un to satura rādītāja līmenis:"
+
+msgid "Other:"
+msgstr "Cits:"
+
+msgid "Otherwise insert:"
+msgstr "Citādi ievietot:"
+
+msgid "Outline Level"
+msgstr "Struktūras līmenis"
+
+msgid "Outline level"
+msgstr "Struktūras līmenis"
+
+msgid "Outline levels"
+msgstr "Struktūras līmeņi"
+
+msgid "Outline State"
+msgstr "Struktūras stāvoklis"
+
+msgid "Outline Tools"
+msgstr "Struktūras rīki"
+
+msgid "Outlining"
+msgstr "Struktūra"
+
+msgid "Outside border"
+msgstr "Ārējā apmale"
+
+msgid "Outside Borders"
+msgstr "Ārējās apmales"
+
+msgid "Outside:"
+msgstr "Ārpusē:"
+
+msgid "Outward Brackets"
+msgstr "Uz āru vērstas iekavas"
+
+msgid "Overbar"
+msgstr "Virssvītra"
+
+msgid "Overbars and Underbars"
+msgstr "Virssvītras un apakšsvītras"
+
+msgid "Overbrace"
+msgstr "Figūriekava virs"
+
+msgid "Overtype"
+msgstr "Pārrakstīšana"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Pārrakstīšana (rakstot tiek aizstātas rakstzīmes aiz kursora)"
+
+msgid "Page Background"
+msgstr "Lapas fons"
+
+msgid "Page Border"
+msgstr "Lapas apmale"
+
+msgid "Page Borders"
+msgstr "Lapas apmales"
+
+msgid "Page Break"
+msgstr "Lapas pārtraukums"
+
+msgid "Page Break Before"
+msgstr "Lapas pārtraukums pirms"
+
+msgid "Page break before"
+msgstr "Lapas pārtraukums pirms"
+
+msgid "Page Breaks"
+msgstr "Lapu pārtraukumi"
+
+msgid "Page Color"
+msgstr "Lapas krāsa"
+
+msgid "Page color"
+msgstr "Lapas krāsa"
+
+msgid "Page display"
+msgstr "Lapu attēlošana"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page image (*.png)"
+msgstr "Lapas attēls (*.png)"
+
+msgid "Page Movement"
+msgstr "Lapas pārvietojums"
+
+msgid "Page Number"
+msgstr "Lapas numurs"
+
+msgid "Page number"
+msgstr "Lapas numurs"
+
+msgid "Page Number Format"
+msgstr "Lapas numura formāts"
+
+msgid "Page number style"
+msgstr "Lapas numura stils"
+
+msgid "Page numbering"
+msgstr "Lapu numerācija"
+
+msgid "Page numbers at the right margin"
+msgstr "Lapu numuri pie labās piemales"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Lapa, kurā atrodas ar grāmatzīmi atzīmētais fragments"
+
+msgid "Page Setup"
+msgstr "Lapas iestatīšana"
+
+msgid "Page title"
+msgstr "Lapas nosaukums"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Width"
+msgstr "Lapas platums"
+
+msgid "Page width"
+msgstr "Lapas platums"
+
+msgid "Page X of Y"
+msgstr "X. lapa no Y"
+
+msgid "Page {page}"
+msgstr "{page}. lapa"
+
+msgid "Page\nBorders"
+msgstr "Lapas\napmales"
+
+msgid "Page\nColor"
+msgstr "Lapas\nkrāsa"
+
+msgid "Page\nNumber"
+msgstr "Lapas\nnumurs"
+
+msgid "Pages in the range"
+msgstr "Lapas diapazonā"
+
+msgid "Pages like 1-3, 5"
+msgstr "Lapas, piemēram, 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Grāmatzīmes lapas:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr "Rūts opcijas"
+
+msgid "Paper size:"
+msgstr "Papīra izmērs:"
+
+msgid "Paragraph Character"
+msgstr "Rindkopas rakstzīme"
+
+msgid "Paragraph Details"
+msgstr "Rindkopas detaļas"
+
+msgid "Paragraph Down"
+msgstr "Rindkopa uz leju"
+
+msgid "Paragraph Mark"
+msgstr "Rindkopas zīme"
+
+msgid "Paragraph marks"
+msgstr "Rindkopu zīmes"
+
+msgid "Paragraph Settings"
+msgstr "Rindkopas iestatījumi"
+
+msgid "Paragraph Spacing"
+msgstr "Rindkopu atstatums"
+
+msgid "Paragraph style"
+msgstr "Rindkopas stils"
+
+msgid "Paragraph Up"
+msgstr "Rindkopa uz augšu"
+
+msgid "Paragraphs"
+msgstr "Rindkopas"
+
+msgid "Paragraph…"
+msgstr "Rindkopa…"
+
+msgid "Paraguay"
+msgstr "Paragvaja"
+
+msgid "Parentheses"
+msgstr "Apaļās iekavas"
+
+msgid "Parentheses with Separator"
+msgstr "Apaļās iekavas ar atdalītāju"
+
+msgid "Partial Differential"
+msgstr "Parciālais diferenciālis"
+
+msgid "Password:"
+msgstr "Parole:"
+
+msgid "Paste (⌘V)"
+msgstr "Ielīmēt (⌘V)"
+
+msgid "Paste All"
+msgstr "Ielīmēt visu"
+
+msgid "Paste as:"
+msgstr "Ielīmēt kā:"
+
+msgid "Paste Clipboard Item"
+msgstr "Ielīmēt starpliktuves vienumu"
+
+msgid "Paste Formatting"
+msgstr "Ielīmēt formatējumu"
+
+msgid "Paste function:"
+msgstr "Ielīmēt funkciju:"
+
+msgid "Paste Special…"
+msgstr "Īpašā ielīmēšana…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Ielīmēt: saglabāt tikai tekstu"
+
+msgid "Paste: Merge Formatting"
+msgstr "Ielīmēt: sapludināt formatējumu"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Ielīmē starpliktuves attēlu."
+
+msgid "Paused"
+msgstr "Pauzēts"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF dokuments (*.pdf)"
+
+msgid "Pens"
+msgstr "Pildspalvas"
+
+msgid "People"
+msgstr "Cilvēki"
+
+msgid "Periodical"
+msgstr "Periodisks izdevums"
+
+msgid "Persian"
+msgstr "Persiešu"
+
+msgid "Personal"
+msgstr "Personīgās"
+
+msgid "Personal Templates"
+msgstr "Personīgās veidnes"
+
+msgid "Personalize"
+msgstr "Personalizēt"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filipīnas"
+
+msgid "Phonetic Guide"
+msgstr "Fonētiskais ceļvedis"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi dalīts ar 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Izvēlieties pielāgotu grupu (Jauna grupa to izveido)"
+
+msgid "Pick a field from the list"
+msgstr "Izvēlieties lauku no saraksta"
+
+msgid "Picture"
+msgstr "Attēls"
+
+msgid "Picture Border"
+msgstr "Attēla apmale"
+
+msgid "Picture border"
+msgstr "Attēla apmale"
+
+msgid "Picture Content Control"
+msgstr "Attēla satura vadīkla"
+
+msgid "Picture Format"
+msgstr "Attēla formāts"
+
+msgid "Picture Styles"
+msgstr "Attēlu stili"
+
+msgid "Picture transparency"
+msgstr "Attēla caurspīdīgums"
+
+msgid "Picture watermark"
+msgstr ""
+
+msgid "Pictures"
+msgstr "Attēli"
+
+msgid "Pie"
+msgstr "Sektoru diagramma"
+
+msgid "Place in This Document"
+msgstr "Vieta šajā dokumentā"
+
+msgid "Placeholder text"
+msgstr "Vietturis"
+
+msgid "Plain Table 1"
+msgstr "Vienkārša tabula 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Vienkāršs teksts (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Vienkārša teksta satura vadīkla"
+
+msgid "Play/Pause"
+msgstr "Atskaņot/pauzēt"
+
+msgid "Plus Equal"
+msgstr "Plus vienāds"
+
+msgid "Points and above"
+msgstr "Punkti un vairāk"
+
+msgid "Polish"
+msgstr "Poļu"
+
+msgid "Portugal"
+msgstr "Portugāle"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugāļu (Brazīlija)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugāļu (Portugāle)"
+
+msgid "Possible spelling mistake"
+msgstr "Iespējama pareizrakstības kļūda"
+
+msgid "Postal Code"
+msgstr "Pasta indekss"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "(1+x)ⁿ pakāpju rinda"
+
+msgid "Preferred width:"
+msgstr "Vēlamais platums:"
+
+msgid "Preserve formatting during updates"
+msgstr "Saglabāt formatējumu atjauninot"
+
+msgid "Preset gradients"
+msgstr "Iepriekš iestatīti gradienti"
+
+msgid "Press a key combination"
+msgstr "Nospiediet taustiņu kombināciju"
+
+msgid "Preview Results"
+msgstr "Priekšskatīt rezultātus"
+
+msgid "Preview\nResults"
+msgstr "Priekšskatīt\nrezultātus"
+
+msgid "Previous 1 or More"
+msgstr "Iepriekšējais 1 vai vairāki"
+
+msgid "Previous Comment"
+msgstr "Iepriekšējais komentārs"
+
+msgid "Previous Field"
+msgstr "Iepriekšējais lauks"
+
+msgid "Previous Record"
+msgstr "Iepriekšējais ieraksts"
+
+msgid "Previous Section"
+msgstr "Iepriekšējā sadaļa"
+
+msgid "Previous Sentence"
+msgstr "Iepriekšējais teikums"
+
+msgid "Previous sentence"
+msgstr "Iepriekšējais teikums"
+
+msgid "Print Documents"
+msgstr "Drukāt dokumentus"
+
+msgid "Print Documents…"
+msgstr "Drukāt dokumentus…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Drukāšana neizdevās: drukas process apstājās."
+
+msgid "Print failed: {error}"
+msgstr "Drukāšana neizdevās: {error}"
+
+msgid "Print job submitted."
+msgstr "Drukas darbs iesniegts."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Drukas darbs iesniegts: spolētas {count} loksnes"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Drukas darbs iesniegts: {receipt}"
+
+msgid "Print Layout"
+msgstr "Drukas izkārtojums"
+
+msgid "Print Markup"
+msgstr "Drukāt iezīmējumus"
+
+msgid "Print settings"
+msgstr "Drukas iestatījumi"
+
+msgid "Print the page color"
+msgstr "Drukāt lapas krāsu"
+
+msgid "Print to PDF"
+msgstr "Drukāt uz PDF"
+
+msgid "Print\nLayout"
+msgstr "Drukas\nizkārtojums"
+
+msgid "Printer default"
+msgstr "Printera noklusējums"
+
+msgid "Printer discovery failed."
+msgstr "Printeru meklēšana neizdevās."
+
+msgid "Privacy for this document"
+msgstr "Šī dokumenta privātums"
+
+msgid "Privacy Options"
+msgstr "Privātuma opcijas"
+
+msgid "Privacy Settings"
+msgstr "Privātuma iestatījumi"
+
+msgid "Process"
+msgstr "Process"
+
+msgid "Product"
+msgstr "Reizinājums"
+
+msgid "Product of A"
+msgstr "A reizinājums"
+
+msgid "Product with Limits"
+msgstr "Reizinājums ar robežām"
+
+msgid "Product with Lower Limit"
+msgstr "Reizinājums ar apakšējo robežu"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Reizinājums ar apakšraksta un augšraksta robežām"
+
+msgid "Products and Coproducts"
+msgstr "Reizinājumi un koprodukti"
+
+msgid "Professional"
+msgstr "Profesionāls"
+
+msgid "Promote"
+msgstr "Paaugstināt"
+
+msgid "Promote to Heading 1"
+msgstr "Paaugstināt līdz 1. virsrakstam"
+
+msgid "Proofing"
+msgstr "Korektūra"
+
+msgid "Proofing Issues"
+msgstr "Korektūras problēmas"
+
+msgid "Proofing language"
+msgstr "Korektūras valoda"
+
+msgid "Property names are 1–{max} characters."
+msgstr "Rekvizītu nosaukumi ir 1–{max} rakstzīmes."
+
+msgid "Property values are at most {max} bytes."
+msgstr "Rekvizītu vērtības ir ne vairāk kā {max} baiti."
+
+msgid "Protect Document"
+msgstr "Aizsargāt dokumentu"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Izdevējs"
+
+msgid "Puerto Rico"
+msgstr "Puertoriko"
+
+msgid "Put the caret in a content control first."
+msgstr "Vispirms novietojiet kursoru satura vadīklā."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Vai atjaunot noklusējuma komandas ātrās piekļuves rīkjoslā?"
+
+msgid "Qatar"
+msgstr "Katara"
+
+msgid "Quadratic Root"
+msgstr "Kvadrātsakne"
+
+msgid "Quick Access Toolbar"
+msgstr "Ātrās piekļuves rīkjosla"
+
+msgid "Quick Parts"
+msgstr "Ātrās daļas"
+
+msgid "Quick Tables"
+msgstr "Ātrās tabulas"
+
+msgid "Quote"
+msgstr "Citāts"
+
+msgid "Radical"
+msgstr "Sakne"
+
+msgid "Radical with Degree"
+msgstr "Sakne ar pakāpi"
+
+msgid "Radicals"
+msgstr "Saknes"
+
+msgid "Raised/lowered"
+msgstr "Pacelts/nolaists"
+
+msgid "Read Aloud"
+msgstr "Lasīt skaļi"
+
+msgid "Read Aloud Status"
+msgstr "Skaļās lasīšanas statuss"
+
+msgid "Read Mode"
+msgstr "Lasīšanas režīms"
+
+msgid "Read\nAloud"
+msgstr "Lasīt\nskaļi"
+
+msgid "Read\nMode"
+msgstr "Lasīšanas\nrežīms"
+
+msgid "Reading"
+msgstr "Lasīšana"
+
+msgid "Reading Column Width"
+msgstr "Lasīšanas kolonnas platums"
+
+msgid "Reading Highlight"
+msgstr "Lasīšanas izcēlums"
+
+msgid "Reading Line Spacing"
+msgstr "Lasīšanas rindstarpa"
+
+msgid "Reading Mode"
+msgstr "Lasīšanas režīms"
+
+msgid "Reading Page Color"
+msgstr "Lasīšanas lapas krāsa"
+
+msgid "Reading Speed"
+msgstr "Lasīšanas ātrums"
+
+msgid "Reading Text Size"
+msgstr "Lasīšanas teksta lielums"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Nolasa starpliktuves bagātināto tekstu un saglabā tā formatējumu."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Nolasa starpliktuves tīmekļa saturu un saglabā tā formatējumu."
+
+msgid "Recent documents to show:"
+msgstr "Rādāmie nesenie dokumenti:"
+
+msgid "Recently Used Fonts"
+msgstr "Nesen izmantotie fonti"
+
+msgid "Recently used symbols:"
+msgstr "Nesen izmantotie simboli:"
+
+msgid "Recipient List"
+msgstr "Adresātu saraksts"
+
+msgid "Recipient lists"
+msgstr "Adresātu saraksti"
+
+msgid "Recipients: {count}"
+msgstr "Adresāti: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Pārkrāsot vienkrāsainu attēlu, piemēram, ikonu"
+
+msgid "Recolor Selected Ink"
+msgstr "Pārkrāsot atlasīto tinti"
+
+msgid "Record Macro"
+msgstr "Ierakstīt makro"
+
+msgid "Record…"
+msgstr "Ierakstīt…"
+
+msgid "Recover documents"
+msgstr "Atgūt dokumentus"
+
+msgid "Recover Unsaved Documents"
+msgstr "Atgūt nesaglabātos dokumentus"
+
+msgid "Recovery copy"
+msgstr "Atkopšanas kopija"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "Atkopšana ir atspējota, kamēr šim dokumentam ir parole."
+
+msgid "Red:"
+msgstr "Sarkans:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Samazināt izkārto atkāpi"
+
+msgid "Reference type:"
+msgstr "Atsauces veids:"
+
+msgid "References"
+msgstr "Atsauces"
+
+msgid "Reflection"
+msgstr "Atspulgs"
+
+msgid "Refresh printers"
+msgstr "Atsvaidzināt printerus"
+
+msgid "Region:"
+msgstr "Reģions:"
+
+msgid "Registered"
+msgstr "Reģistrēts"
+
+msgid "Registered Sign"
+msgstr "Reģistrētas preču zīmes simbols"
+
+msgid "Regular expressions"
+msgstr "Regulārās izteiksmes"
+
+msgid "Reject"
+msgstr "Noraidīt"
+
+msgid "Reject All Changes"
+msgstr "Noraidīt visas izmaiņas"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr "Noraidīt visas izmaiņas un pārtraukt izsekošanu"
+
+msgid "Reject and Move to Next"
+msgstr "Noraidīt un pāriet uz nākamo"
+
+msgid "Reject Change"
+msgstr "Noraidīt izmaiņas"
+
+msgid "Relationship"
+msgstr "Saistība"
+
+msgid "Relative to original picture size"
+msgstr "Attiecībā pret attēla sākotnējo izmēru"
+
+msgid "Remove Added Font"
+msgstr "Noņemt pievienoto fontu"
+
+msgid "Remove condition"
+msgstr "Noņemt nosacījumu"
+
+msgid "Remove Content Control"
+msgstr "Noņemt satura vadīklu"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Vai noņemt visas pielāgotās saīsnes un atjaunot iebūvētos taustiņus?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Vai noņemt visas pielāgotās cilnes un grupas un atkal rādīt visas cilnes?"
+
+msgid "Remove field"
+msgstr "Noņemt lauku"
+
+msgid "Remove Footer"
+msgstr "Noņemt kājeni"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Noņemt no ātrās piekļuves rīkjoslas"
+
+msgid "Remove gradient stop"
+msgstr "Noņemt gradienta punktu"
+
+msgid "Remove Header"
+msgstr "Noņemt galveni"
+
+msgid "Remove Hyperlink"
+msgstr "Noņemt hipersaiti"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Saglabājot noņemt manu vārdu no komentāriem, izmaiņām un faila rekvizītiem"
+
+msgid "Remove Password"
+msgstr "Noņemt paroli"
+
+msgid "Remove Pen"
+msgstr "Noņemt pildspalvu"
+
+msgid "Remove recipient"
+msgstr "Noņemt adresātu"
+
+msgid "Remove row"
+msgstr "Noņemt rindu"
+
+msgid "Remove series"
+msgstr "Noņemt sēriju"
+
+msgid "Remove Space After Paragraph"
+msgstr "Noņemt atstarpi pēc rindkopas"
+
+msgid "Remove Table of Contents"
+msgstr "Noņemt satura rādītāju"
+
+msgid "Remove the control once edited"
+msgstr "Noņemt vadīklu pēc rediģēšanas"
+
+msgid "Remove the space before the punctuation"
+msgstr "Noņemt atstarpi pirms pieturzīmes"
+
+msgid "Remove Watermark"
+msgstr "Noņemt ūdenszīmi"
+
+msgid "Rename Document"
+msgstr "Pārdēvēt dokumentu"
+
+msgid "Reopen"
+msgstr "Atvērt atkārtoti"
+
+msgid "Repeat as header row on each page"
+msgstr "Atkārtot kā galvenes rindu katrā lapā"
+
+msgid "Repeat Header Rows"
+msgstr "Atkārtot galvenes rindas"
+
+msgid "Repeating Section Content Control"
+msgstr "Atkārtotas sadaļas satura vadīkla"
+
+msgid "Replace All"
+msgstr "Aizstāt visu"
+
+msgid "Replace as you type"
+msgstr "Aizstāt rakstīšanas laikā"
+
+msgid "Replace Document Text"
+msgstr "Aizstāt dokumenta tekstu"
+
+msgid "Replace text as you type"
+msgstr "Aizstāt tekstu rakstīšanas laikā"
+
+msgid "Replace with:"
+msgstr "Aizstāt ar:"
+
+msgid "Replay"
+msgstr "Atskaņot vēlreiz"
+
+msgid "Research"
+msgstr "Izpēte"
+
+msgid "Researcher"
+msgstr "Pētnieks"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Pētniekam nepieciešams tiešsaistes pakalpojums; WordCraft saglabā jūsu dokumentus bezsaistē."
+
+msgid "Reset All…"
+msgstr "Atiestatīt visu…"
+
+msgid "Reset Character Formatting"
+msgstr "Atiestatīt rakstzīmju formatējumu"
+
+msgid "Reset Crop"
+msgstr "Atiestatīt apgriezumu"
+
+msgid "Reset Default Formatting"
+msgstr "Atiestatīt noklusējuma formatējumu"
+
+msgid "Reset Graphic"
+msgstr "Atiestatīt grafiku"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Atiestatīt rindkopas formatējumu"
+
+msgid "Reset Picture"
+msgstr "Atiestatīt attēlu"
+
+msgid "Reset tips"
+msgstr "Atiestatīt padomus"
+
+msgid "Reset to Normal"
+msgstr "Atiestatīt uz parasto"
+
+msgid "Reset\nGraphic"
+msgstr "Atiestatīt\ngrafiku"
+
+msgid "Resize Pane"
+msgstr "Mainīt rūts izmēru"
+
+msgid "Resize Table by Dragging"
+msgstr "Mainīt tabulas izmēru velkot"
+
+msgid "Resolve"
+msgstr "Atrisināt"
+
+msgid "Resolved"
+msgstr "Atrisināts"
+
+msgid "Restart at 1"
+msgstr "Sākt no jauna ar 1"
+
+msgid "Restart Each Page"
+msgstr "Sākt no jauna katrā lapā"
+
+msgid "Restart Each Section"
+msgstr "Sākt no jauna katrā sadaļā"
+
+msgid "Restart list after:"
+msgstr "Sākt sarakstu no jauna pēc:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "Atjaunot atver nesaglabātu kopiju. Oriģinālais fails paliek nemainīts."
+
+msgid "Restrict Editing"
+msgstr "Ierobežot rediģēšanu"
+
+msgid "Restrict\nEditing"
+msgstr "Ierobežot\nrediģēšanu"
+
+msgid "Results"
+msgstr "Rezultāti"
+
+msgid "Return address labels"
+msgstr "Atpakaļadreses etiķetes"
+
+msgid "Return address:"
+msgstr "Atpakaļadrese:"
+
+msgid "Reviewing"
+msgstr "Pārskatīšana"
+
+msgid "Reviewing Pane"
+msgstr "Pārskatīšanas rūts"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Pārskatīšana — labojumi kļūst par ieteikumiem"
+
+msgid "Revised document"
+msgstr "Labotais dokuments"
+
+msgid "Rewind"
+msgstr "Attīt atpakaļ"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Attin atpakaļ. Pasakiet, kad apstāties."
+
+msgid "Ribbon"
+msgstr "Lente"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Lente un ātrās piekļuves rīkjosla:"
+
+msgid "Ribbon tabs"
+msgstr "Lentes cilnes"
+
+msgid "Rich Text Content Control"
+msgstr "Bagātinātā teksta satura vadīkla"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Bagātināta teksta formāts (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Bagātināta teksta formāts (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Pa labi (vertikāli)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Bultiņa pa labi ar tekstu virs"
+
+msgid "Right Arrow with Text Below"
+msgstr "Bultiņa pa labi ar tekstu zem"
+
+msgid "Right Border"
+msgstr "Labā apmale"
+
+msgid "Right border"
+msgstr "Labā apmale"
+
+msgid "Right Bracket Twice"
+msgstr "Divreiz labā iekava"
+
+msgid "Right indent"
+msgstr "Labā atkāpe"
+
+msgid "Right Margin"
+msgstr "Labā piemale"
+
+msgid "Right Only"
+msgstr "Tikai pa labi"
+
+msgid "Right-to-left"
+msgstr "No labās uz kreiso"
+
+msgid "Right-to-Left Section"
+msgstr "Sadaļa no labās uz kreiso"
+
+msgid "Right-to-Left Table"
+msgstr "Tabula no labās uz kreiso"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Teksta virziens no labās uz kreiso"
+
+msgid "Rightwards Arrow Above"
+msgstr "Bultiņa pa labi virs"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Harpūna pa labi virs"
+
+msgid "Romanian"
+msgstr "Rumāņu"
+
+msgid "Roots of ax²+bx+c"
+msgstr "ax²+bx+c saknes"
+
+msgid "Rotate all text 270°"
+msgstr "Pagriezt visu tekstu par 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Pagriezt visu tekstu par 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Pagriezt pa kreisi par 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Pagriezt pa labi par 90°"
+
+msgid "Rotate with shape"
+msgstr "Pagriezt kopā ar figūru"
+
+msgid "Rounded"
+msgstr "Noapaļots"
+
+msgid "Row"
+msgstr "Rinda"
+
+msgid "Row:"
+msgstr "Rinda:"
+
+msgid "Rows & Columns"
+msgstr "Rindas un kolonnas"
+
+msgid "Ruby text:"
+msgstr "Ruby teksts:"
+
+msgid "Rules"
+msgstr "Kārtulas"
+
+msgid "Run"
+msgstr "Izpildīt"
+
+msgid "Run-in"
+msgstr "Iestarpināts"
+
+msgid "Russia"
+msgstr "Krievija"
+
+msgid "Résumé"
+msgstr "CV"
+
+msgid "SAMPLE"
+msgstr "PARAUGS"
+
+msgid "Sat:"
+msgstr "Piesāt.:"
+
+msgid "Saturation and recolor"
+msgstr "Piesātinājums un pārkrāsošana"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Saglabājiet kopiju citā formātā. Drukāšana notiek caur PDF, ko varat izdrukāt no jebkura skatītāja."
+
+msgid "Save as Word Template…"
+msgstr "Saglabāt kā Word veidni…"
+
+msgid "Save documents"
+msgstr "Saglabāt dokumentus"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Saglabājiet dokumentu, lai ieslēgtu automātisko saglabāšanu"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Saglabājiet dokumentu, lai ieslēgtu automātisko saglabāšanu (tikai atvērts fails netiek pārrakstīts, kamēr to nesaglabājat)"
+
+msgid "Save these pages as PDF…"
+msgstr "Saglabāt šīs lapas kā PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Saglabāts. Atkal saglabāts. Joprojām saglabāts. Ļoti saglabāts."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Saglabā .dotx veidni jūsu veidņu mapē. Tā parādās sadaļā Fails > Jauns zem Personīgās."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "{name} saglabāšana tika atcelta, tāpēc tas joprojām ir atvērts un nekas nav zaudēts."
+
+msgid "Sayings"
+msgstr "Teicieni"
+
+msgid "Sayings:"
+msgstr "Teicieni:"
+
+msgid "Scale Drawing"
+msgstr "Mērogot zīmējumu"
+
+msgid "Scale Font Sizes"
+msgstr "Mērogot fontu lielumus"
+
+msgid "Scale to paper size"
+msgstr "Mērogot atbilstoši papīra izmēram"
+
+msgid "Scatter"
+msgstr "Izkliedes diagramma"
+
+msgid "Script"
+msgstr "Skripts"
+
+msgid "Scroll ribbon left"
+msgstr "Ritināt lenti pa kreisi"
+
+msgid "Scroll ribbon right"
+msgstr "Ritināt lenti pa labi"
+
+msgid "Search Commands"
+msgstr "Meklēt komandas"
+
+msgid "Search commands and help"
+msgstr "Meklēt komandas un palīdzību"
+
+msgid "Search document"
+msgstr "Meklēt dokumentā"
+
+msgid "Search for templates"
+msgstr "Meklēt veidnes"
+
+msgid "Search icons"
+msgstr "Meklēt ikonas"
+
+msgid "Search Options"
+msgstr "Meklēšanas opcijas"
+
+msgid "Search:"
+msgstr "Meklēt:"
+
+msgid "Secant Function"
+msgstr "Sekanta funkcija"
+
+msgid "Section 1.01"
+msgstr "1.01. sadaļa"
+
+msgid "Section Break"
+msgstr "Sadaļas pārtraukums"
+
+msgid "Section Breaks"
+msgstr "Sadaļu pārtraukumi"
+
+msgid "Section Character"
+msgstr "Sadaļas rakstzīme"
+
+msgid "Section direction:"
+msgstr "Sadaļas virziens:"
+
+msgid "Section Mark"
+msgstr "Sadaļas zīme"
+
+msgid "Section Properties"
+msgstr "Sadaļas rekvizīti"
+
+msgid "Sections"
+msgstr "Sadaļas"
+
+msgid "See"
+msgstr "Skatīt"
+
+msgid "select a chart first"
+msgstr "vispirms atlasiet diagrammu"
+
+msgid "select a connector first"
+msgstr "vispirms atlasiet savienotāju"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "vispirms atlasiet zīmēšanas audeklu"
+
+msgid "select a floating picture or shape first"
+msgstr "vispirms atlasiet peldošu attēlu vai figūru"
+
+msgid "select a group first"
+msgstr "vispirms atlasiet grupu"
+
+msgid "select a picture first"
+msgstr "vispirms atlasiet attēlu"
+
+msgid "Select a picture first."
+msgstr ""
+
+msgid "select a picture or shape first"
+msgstr "vispirms atlasiet attēlu vai figūru"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Atlasiet attēlu, figūru, diagrammu vai tabulu, lai to aprakstītu."
+
+msgid "Select a place in this document:"
+msgstr "Atlasiet vietu šajā dokumentā:"
+
+msgid "Select a printer"
+msgstr "Atlasiet printeri"
+
+msgid "Select a property to change."
+msgstr "Atlasiet maināmo rekvizītu."
+
+msgid "select a shape first"
+msgstr "vispirms atlasiet figūru"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Atlasiet figūru, teksta lodziņu vai zīmēšanas audeklu, lai formatētu tā aizpildījumu."
+
+msgid "select a SmartArt graphic first"
+msgstr "vispirms atlasiet SmartArt grafiku"
+
+msgid "select a text box first"
+msgstr "vispirms atlasiet teksta lodziņu"
+
+msgid "select a text box linked to another first"
+msgstr "vispirms atlasiet teksta lodziņu, kas saistīts ar citu"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Atlasīt šūnu"
+
+msgid "Select Column"
+msgstr "Atlasīt kolonnu"
+
+msgid "Select Heading and Content"
+msgstr "Atlasīt virsrakstu un saturu"
+
+msgid "Select Line"
+msgstr "Atlasīt rindu"
+
+msgid "Select Paragraph"
+msgstr "Atlasīt rindkopu"
+
+msgid "Select Picture…"
+msgstr ""
+
+msgid "Select Range"
+msgstr "Atlasīt diapazonu"
+
+msgid "Select Recipients"
+msgstr "Atlasīt adresātus"
+
+msgid "select recipients first"
+msgstr "vispirms atlasiet adresātus"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Vispirms atlasiet adresātus, lai izvēlētos no viņu laukiem."
+
+msgid "Select recipients first to match their fields."
+msgstr "Vispirms atlasiet adresātus, lai saskaņotu viņu laukus."
+
+msgid "Select Row"
+msgstr "Atlasīt rindu"
+
+msgid "Select Sentence"
+msgstr "Atlasīt teikumu"
+
+msgid "Select Table"
+msgstr "Atlasīt tabulu"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Atlasīt tabulas šūnas ar klikšķi"
+
+msgid "Select Text"
+msgstr "Atlasīt tekstu"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Atlasīt tekstu ar līdzīgu formatējumu"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Atlasiet tekstu un atzīmējiet, kas joprojām var to rediģēt."
+
+msgid "select two or more cells to merge"
+msgstr "atlasiet divas vai vairākas sapludināmās šūnas"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "vispirms atlasiet divus vai vairākus attēlus vai figūras (Shift+klikšķis)"
+
+msgid "Select Word"
+msgstr "Atlasīt vārdu"
+
+msgid "Select\nRecipients"
+msgstr "Atlasīt\nadresātus"
+
+msgid "Selected Fields"
+msgstr "Atlasītie lauki"
+
+msgid "Selected text"
+msgstr "Atlasītais teksts"
+
+msgid "Selection Pane"
+msgstr "Atlases rūts"
+
+msgid "Semitransparent"
+msgstr ""
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Nosūtiet dokumentu tieši uz sistēmas drukas dialoglodziņu vai zemāk saglabājiet kopiju citā formātā."
+
+msgid "Sentence"
+msgstr "Teikums"
+
+msgid "Sentence case."
+msgstr "Kā teikumā."
+
+msgid "Separate text at"
+msgstr "Atdalīt tekstu pie"
+
+msgid "Separate text with"
+msgstr "Atdalīt tekstu ar"
+
+msgid "Separator:"
+msgstr "Atdalītājs:"
+
+msgid "Sepia"
+msgstr "Sēpija"
+
+msgid "Sequence name:"
+msgstr "Secības nosaukums:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Serbu (kirilica)"
+
+msgid "Serbian (Latin)"
+msgstr "Serbu (latīņu)"
+
+msgid "Series name"
+msgstr "Sērijas nosaukums"
+
+msgid "Series {n}"
+msgstr "{n}. sērija"
+
+msgid "Set As Default"
+msgstr "Iestatīt kā noklusējumu"
+
+msgid "Set as default"
+msgstr "Iestatīt kā noklusējumu"
+
+msgid "Set As Default (Font)"
+msgstr "Iestatīt kā noklusējumu (fonts)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Iestatīt kā noklusējumu (lapas iestatīšana)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Iestatīt kā noklusējumu (rindkopa)"
+
+msgid "Set as Default Language"
+msgstr "Iestatīt kā noklusējuma valodu"
+
+msgid "Set Caret"
+msgstr "Iestatīt kursoru"
+
+msgid "Set Character Formatting"
+msgstr "Iestatīt rakstzīmju formatējumu"
+
+msgid "Set Date"
+msgstr "Iestatīt datumu"
+
+msgid "Set Equation"
+msgstr "Iestatīt vienādojumu"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr "Iestatīt kreiso un pirmās rindas atkāpi ar tabulatoru un atpakaļatkāpi"
+
+msgid "Set Numbering Value"
+msgstr "Iestatīt numerācijas vērtību"
+
+msgid "Set Paragraph Formatting"
+msgstr "Iestatīt rindkopas formatējumu"
+
+msgid "Set Proofing Language…"
+msgstr "Iestatīt korektūras valodu…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Iestatījums:"
+
+msgid "Shading"
+msgstr "Ēnojums"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Ēna, mirdzums un mīkstas malas"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Figūras aizpildījums"
+
+msgid "Shape Format"
+msgstr "Figūras formāts"
+
+msgid "Shape Outline"
+msgstr "Figūras kontūra"
+
+msgid "Shape Styles"
+msgstr "Figūru stili"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr "Shift+Enter sāk jaunu rindu, nesākot jaunu rindkopu."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Sūtījumu etiķetes"
+
+msgid "Shortcut key:"
+msgstr "Saīsnes taustiņš:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Rādīt līdzināšanas palīglīnijas, pārvietojot attēlus un figūras"
+
+msgid "Show all formatting marks"
+msgstr "Rādīt visas formatējuma zīmes"
+
+msgid "Show All Levels"
+msgstr "Rādīt visus līmeņus"
+
+msgid "Show all revisions inline"
+msgstr "Rādīt visus labojumus rindā"
+
+msgid "Show changes at:"
+msgstr "Rādīt izmaiņas pie:"
+
+msgid "Show changes in:"
+msgstr "Rādīt izmaiņas:"
+
+msgid "Show Comments"
+msgstr "Rādīt komentārus"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Rādīt dokumentus ar invertētām krāsām, kā Skats > Pārslēgt režīmus. Saglabāšana, drukāšana un PDF faili netiek mainīti."
+
+msgid "Show every bibliography field"
+msgstr "Rādīt visus bibliogrāfijas laukus"
+
+msgid "Show First Line Only"
+msgstr "Rādīt tikai pirmo rindu"
+
+msgid "Show in the Styles gallery"
+msgstr "Rādīt stilu galerijā"
+
+msgid "Show its list number"
+msgstr "Rādīt tā saraksta numuru"
+
+msgid "Show its number relative to this field"
+msgstr "Rādīt tā numuru attiecībā pret šo lauku"
+
+msgid "Show its number with all higher levels"
+msgstr "Rādīt tā numuru ar visiem augstākajiem līmeņiem"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Rādīt taustiņu padomus (Alt vai F10)"
+
+msgid "Show Level"
+msgstr "Rādīt līmeni"
+
+msgid "Show Level 1"
+msgstr "Rādīt 1. līmeni"
+
+msgid "Show Level 2"
+msgstr "Rādīt 2. līmeni"
+
+msgid "Show Level 3"
+msgstr "Rādīt 3. līmeni"
+
+msgid "Show Level 4"
+msgstr "Rādīt 4. līmeni"
+
+msgid "Show Level 5"
+msgstr "Rādīt 5. līmeni"
+
+msgid "Show Level 6"
+msgstr "Rādīt 6. līmeni"
+
+msgid "Show Level 7"
+msgstr "Rādīt 7. līmeni"
+
+msgid "Show Level 8"
+msgstr "Rādīt 8. līmeni"
+
+msgid "Show Level 9"
+msgstr "Rādīt 9. līmeni"
+
+msgid "Show Markup"
+msgstr "Rādīt iezīmējumus"
+
+msgid "Show Notes"
+msgstr "Rādīt piezīmes"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Balonos rādīt tikai komentārus un formatējumu"
+
+msgid "Show only records that will be merged"
+msgstr "Rādīt tikai sapludināmos ierakstus"
+
+msgid "Show or Hide Style"
+msgstr "Rādīt vai paslēpt stilu"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Rādīt ātrās piekļuves rīkjoslu"
+
+msgid "Show revisions in balloons"
+msgstr "Rādīt labojumus balonos"
+
+msgid "Show Text Formatting"
+msgstr "Rādīt teksta formatējumu"
+
+msgid "Show the Assistant"
+msgstr "Rādīt palīgu"
+
+msgid "Show the community button in the title bar"
+msgstr "Rādīt kopienas pogu virsraksta joslā"
+
+msgid "Show the equation in the line of text"
+msgstr "Rādīt vienādojumu teksta rindā"
+
+msgid "Show the equation on a line of its own"
+msgstr "Rādīt vienādojumu atsevišķā rindā"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Rādīt mini rīkjoslu, kad teksts ir atlasīts"
+
+msgid "Show the ribbon"
+msgstr "Rādīt lenti"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Rādīt sākuma ekrānu, kad WordCraft tiek palaists"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Rādīt padomus, kurus lūdzāt vairs nerādīt."
+
+msgid "Show/Hide ¶"
+msgstr "Rādīt/paslēpt ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Rādīt/paslēpt ¶ (Ctrl+Shift+8) parāda tekstā paslēptās atstarpes, tabulatorus un pārtraukumus."
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Rādīt/paslēpt ¶ ({key}) parāda tekstā paslēptās atstarpes, tabulatorus un pārtraukumus."
+
+msgid "Show\nComments"
+msgstr "Rādīt\nkomentārus"
+
+msgid "Showing the first {count} items."
+msgstr "Rādīti pirmie {count} vienumi."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Rāda koku: katrs vienums zem tā, kam tas pieder."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Rāda vienumus ap centrālo ideju: pirmais vienums ir centrs."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Rāda vienāda svara vienumus kā blokus rindās."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Rāda pārklājošās idejas kā pārklājošus apļus."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Rāda veseluma daļas kā kvadrantus."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Rāda daļas, kas balstās cita uz citas, lielākā apakšā."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Rāda soļus secībā no kreisās uz labo ar bultiņām starp tiem."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Rāda soļus, kas atkārtojas, pa apli."
+
+msgid "Shrink Font 1 Point"
+msgstr "Samazināt fontu par 1 punktu"
+
+msgid "Shrink text"
+msgstr "Samazināt tekstu"
+
+msgid "Side to Side"
+msgstr "Blakus"
+
+msgid "Side\nto Side"
+msgstr "Blakus\nviens otram"
+
+msgid "Sides of a right triangle"
+msgstr "Taisnleņķa trijstūra malas"
+
+msgid "Signature Line"
+msgstr "Paraksta rinda"
+
+msgid "Simple Frame"
+msgstr "Vienkāršs rāmis"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "f(x) sinusa un kosinusa rinda"
+
+msgid "Sine Function"
+msgstr "Sinusa funkcija"
+
+msgid "Sine theta"
+msgstr "Sinuss theta"
+
+msgid "Singapore"
+msgstr "Singapūra"
+
+msgid "Single"
+msgstr "Viens"
+
+msgid "Single Brackets"
+msgstr "Vienkāršas kvadrātiekavas"
+
+msgid "Single Closing Quote"
+msgstr "Vienkāršā aizverošā pēdiņa"
+
+msgid "Single label"
+msgstr "Viena etiķete"
+
+msgid "Single Left Angle"
+msgstr "Vienkāršs kreisais leņķis"
+
+msgid "Single Left Bar"
+msgstr "Vienkārša kreisā josla"
+
+msgid "Single Left Brace"
+msgstr "Vienkārša kreisā figūriekava"
+
+msgid "Single Left Bracket"
+msgstr "Vienkārša kreisā kvadrātiekava"
+
+msgid "Single Left Parenthesis"
+msgstr "Vienkārša kreisā apaļā iekava"
+
+msgid "Single Opening Quote"
+msgstr "Vienkāršā atverošā pēdiņa"
+
+msgid "Single Right Brace"
+msgstr "Vienkārša labā figūriekava"
+
+msgid "Single Right Bracket"
+msgstr "Vienkārša labā kvadrātiekava"
+
+msgid "Single Right Parenthesis"
+msgstr "Vienkārša labā apaļā iekava"
+
+msgid "Single Spacing"
+msgstr "Vienkārša rindstarpa"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Vietnes nosaukums"
+
+msgid "Size (pt):"
+msgstr "Izmērs (pt):"
+
+msgid "Size and Crop…"
+msgstr "Izmērs un apgriešana…"
+
+msgid "Sketchbook"
+msgstr "Skiču burtnīca"
+
+msgid "Skewed Fraction"
+msgstr "Slīpa daļa"
+
+msgid "Skip citations & bibliography"
+msgstr "Izlaist atsauces un bibliogrāfiju"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Izlaist atsauces un bibliogrāfiju"
+
+msgid "Skip Record If"
+msgstr "Izlaist ierakstu, ja"
+
+msgid "Skip Record If…"
+msgstr "Izlaist ierakstu, ja…"
+
+msgid "Slant Down"
+msgstr "Slīpi uz leju"
+
+msgid "Slant Up"
+msgstr "Slīpi uz augšu"
+
+msgid "Slovak"
+msgstr "Slovāku"
+
+msgid "Slovenian"
+msgstr "Slovēņu"
+
+msgid "Small caps"
+msgstr "Kapiteļi"
+
+msgid "Small change"
+msgstr "Neliela izmaiņa"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Viedās pēdiņas taisno pēdiņu vietā"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt dizains"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt stili"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Plūdena ritināšana un tālummaiņa, kā arī izvēlnes un pogas, kas parādās pakāpeniski. Izslēgts rāda katru izmaiņu uzreiz."
+
+msgid "Soft Edge"
+msgstr "Mīksta mala"
+
+msgid "Soft Edges"
+msgstr "Mīkstas malas"
+
+msgid "Soft Glow"
+msgstr "Maigs mirdzums"
+
+msgid "Solid Accent"
+msgstr "Vienlaidu akcents"
+
+msgid "Solid fill"
+msgstr "Vienlaidu aizpildījums"
+
+msgid "Sometimes"
+msgstr "Dažreiz"
+
+msgid "Sort by:"
+msgstr "Kārtot pēc:"
+
+msgid "Sort order:"
+msgstr "Kārtošanas secība:"
+
+msgid "Sort Recipients"
+msgstr "Kārtot adresātus"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Pirmkods: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Avotu pārvaldnieks"
+
+msgid "Source type:"
+msgstr "Avota veids:"
+
+msgid "Sources in this document:"
+msgstr "Avoti šajā dokumentā:"
+
+msgid "South"
+msgstr "Dienvidi"
+
+msgid "South Africa"
+msgstr "Dienvidāfrika"
+
+msgid "Space"
+msgstr "Atstarpe"
+
+msgid "Space after"
+msgstr "Atstarpe pēc"
+
+msgid "Space after: {pt} pt"
+msgstr "Atstarpe pēc: {pt} pt"
+
+msgid "Space before"
+msgstr "Atstarpe pirms"
+
+msgid "Space before/after:"
+msgstr "Atstarpe pirms/pēc:"
+
+msgid "Space before: {pt} pt"
+msgstr "Atstarpe pirms: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Atstatums (pt):"
+
+msgid "Spain"
+msgstr "Spānija"
+
+msgid "Spanish (Latin America)"
+msgstr "Spāņu (Latīņamerika)"
+
+msgid "Spanish (Mexico)"
+msgstr "Spāņu (Meksika)"
+
+msgid "Spanish (Spain)"
+msgstr "Spāņu (Spānija)"
+
+msgid "Spanish (Uruguay)"
+msgstr "Spāņu (Urugvaja)"
+
+msgid "Sparse Matrices"
+msgstr "Retas matricas"
+
+msgid "Special Characters"
+msgstr "Īpašās rakstzīmes"
+
+msgid "Specify height:"
+msgstr "Norādīt augstumu:"
+
+msgid "Speech"
+msgstr "Runa"
+
+msgid "Spelling & Grammar"
+msgstr "Pareizrakstība un gramatika"
+
+msgid "Spelling &\nGrammar"
+msgstr "Pareizrakstība\nun gramatika"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr "Pareizrakstība un gramatika tiek pārbaudīta angļu valodā (Amerikas Savienotās Valstis)."
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Pareizrakstība un gramatika tiek pārbaudīta valodā: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Pareizrakstības ieteikumi"
+
+msgid "Spike"
+msgstr "Krājums"
+
+msgid "Split Cells"
+msgstr "Sadalīt šūnas"
+
+msgid "Split Table"
+msgstr "Sadalīt tabulu"
+
+msgid "Spreadsheet Table"
+msgstr "Izklājlapas tabula"
+
+msgid "Square Root"
+msgstr "Kvadrātsakne"
+
+msgid "Square Root with Degree"
+msgstr "Kvadrātsakne ar pakāpi"
+
+msgid "Square Union"
+msgstr "Kvadrātveida apvienojums"
+
+msgid "Stack Object"
+msgstr "Kaudzes objekts"
+
+msgid "Stack Object (Three)"
+msgstr "Kaudzes objekts (trīs)"
+
+msgid "Stacked Bar"
+msgstr "Sakrautas joslas"
+
+msgid "Stacked Column"
+msgstr "Sakrautas kolonnas"
+
+msgid "Stacked Fraction"
+msgstr "Sakrauta daļa"
+
+msgid "Stacked, no bar"
+msgstr "Sakrauts, bez līnijas"
+
+msgid "Standard Colors"
+msgstr "Standarta krāsas"
+
+msgid "Start Enforcing Protection"
+msgstr "Sākt aizsardzības piemērošanu"
+
+msgid "Start Mail Merge"
+msgstr "Sākt pasta sapludināšanu"
+
+msgid "Start Mail\nMerge"
+msgstr "Sākt pasta\nsapludināšanu"
+
+msgid "Start-up"
+msgstr "Palaišana"
+
+msgid "State"
+msgstr "Štats"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Vēl tur? Es dzirdu, kā jūs domājat."
+
+msgid "Stop Protection"
+msgstr "Apturēt aizsardzību"
+
+msgid "Stop Reading"
+msgstr "Pārtraukt lasīšanu"
+
+msgid "Stop Recording"
+msgstr "Apturēt ierakstīšanu"
+
+msgid "Stopped"
+msgstr "Apturēts"
+
+msgid "Straight Arrow Connector"
+msgstr "Taisns bultas savienotājs"
+
+msgid "Straight Connector"
+msgstr "Taisns savienotājs"
+
+msgid "Stroke {n} of {total}"
+msgstr "{n}. vilciens no {total}"
+
+msgid "Strong"
+msgstr "Izcelts"
+
+msgid "Structure Actions"
+msgstr "Struktūras darbības"
+
+msgid "Structures"
+msgstr "Struktūras"
+
+msgid "Studio cover"
+msgstr "Studijas vāks"
+
+msgid "Studio handbook (sample)"
+msgstr "Studijas rokasgrāmata (paraugs)"
+
+msgid "Style based on:"
+msgstr "Stils balstīts uz:"
+
+msgid "Style Inspector"
+msgstr "Stilu inspektors"
+
+msgid "Style name:"
+msgstr "Stila nosaukums:"
+
+msgid "Style Set"
+msgstr "Stilu kopa"
+
+msgid "Style: APA"
+msgstr "Stils: APA"
+
+msgid "Style: {style}"
+msgstr "Stils: {style}"
+
+msgid "Styles Pane"
+msgstr "Stilu rūts"
+
+msgid "Styles Pane Position"
+msgstr "Stilu rūts novietojums"
+
+msgid "Styles:"
+msgstr "Stili:"
+
+msgid "Subentry:"
+msgstr "Apakšieraksts:"
+
+msgid "Submit print job"
+msgstr "Iesniegt drukas darbu"
+
+msgid "Submitting print job…"
+msgstr "Iesniedz drukas darbu…"
+
+msgid "Subscript-Superscript"
+msgstr "Apakšraksts un augšraksts"
+
+msgid "Subscripts and Superscripts"
+msgstr "Apakšraksti un augšraksti"
+
+msgid "Subset:"
+msgstr "Apakškopa:"
+
+msgid "Subtle Emphasis"
+msgstr "Smalks uzsvars"
+
+msgid "Subtle Reference"
+msgstr "Smalka atsauce"
+
+msgid "Suggested"
+msgstr "Ieteicams"
+
+msgid "Suggestions"
+msgstr "Ieteikumi"
+
+msgid "Sum"
+msgstr "Summa"
+
+msgid "Sum of cosines"
+msgstr "Kosinusu summa"
+
+msgid "Sum or difference of sines"
+msgstr "Sinusu summa vai starpība"
+
+msgid "Summation"
+msgstr "Summēšana"
+
+msgid "Summation from 0 to n"
+msgstr "Summa no 0 līdz n"
+
+msgid "Summation over binomials"
+msgstr "Summa pa binomiāļiem"
+
+msgid "Summation with Limits"
+msgstr "Summa ar robežām"
+
+msgid "Summation with Lower Limit"
+msgstr "Summa ar apakšējo robežu"
+
+msgid "Summation with Subscript Limit"
+msgstr "Summa ar apakšraksta robežu"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Summa ar apakšraksta un augšraksta robežām"
+
+msgid "Summations"
+msgstr "Summas"
+
+msgid "Suppress line numbers"
+msgstr "Izlaist rindu numurus"
+
+msgid "Surface Integral"
+msgstr "Virsmas integrālis"
+
+msgid "Surface Integral with Limits"
+msgstr "Virsmas integrālis ar robežām"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Virsmas integrālis ar robežām virs un zem"
+
+msgid "Swahili"
+msgstr "Svahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Apmainīt vēres un beigu vēres"
+
+msgid "Swedish"
+msgstr "Zviedru"
+
+msgid "Switch Modes"
+msgstr "Pārslēgt režīmus"
+
+msgid "Switch Windows"
+msgstr "Pārslēgt logus"
+
+msgid "Switch\nModes"
+msgstr "Pārslēgt\nrežīmus"
+
+msgid "Switch\nWindows"
+msgstr "Pārslēgt\nlogus"
+
+msgid "Switzerland"
+msgstr "Šveice"
+
+msgid "Synonyms"
+msgstr "Sinonīmi"
+
+msgid "Syria"
+msgstr "Sīrija"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "Sistēma"
+
+msgid "System dictionary"
+msgstr "Sistēmas vārdnīca"
+
+msgid "Tab Character"
+msgstr "Tabulatora rakstzīme"
+
+msgid "Tab character"
+msgstr "Tabulatora rakstzīme"
+
+msgid "Tab characters"
+msgstr "Tabulatora rakstzīmes"
+
+msgid "Tab leader:"
+msgstr "Tabulācijas aizpildījums:"
+
+msgid "Tab stop position:"
+msgstr "Tabulācijas pieturas novietojums:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Notīrāmās tabulācijas pieturas:"
+
+msgid "Table Column Width"
+msgstr "Tabulas kolonnas platums"
+
+msgid "Table Design"
+msgstr "Tabulas dizains"
+
+msgid "Table direction:"
+msgstr "Tabulas virziens:"
+
+msgid "Table Grid"
+msgstr "Tabulas režģis"
+
+msgid "Table Layout"
+msgstr "Tabulas izkārtojums"
+
+msgid "Table of Authorities"
+msgstr "Autoritāšu tabula"
+
+msgid "Table of Contents"
+msgstr "Satura rādītājs"
+
+msgid "Table of Contents Options"
+msgstr "Satura rādītāja opcijas"
+
+msgid "Table of Contents Styles"
+msgstr "Satura rādītāja stili"
+
+msgid "Table of Figures"
+msgstr "Attēlu saraksts"
+
+msgid "Table of\nContents"
+msgstr "Satura\nrādītājs"
+
+msgid "Table Properties"
+msgstr "Tabulas rekvizīti"
+
+msgid "Table Properties…"
+msgstr "Tabulas rekvizīti…"
+
+msgid "Table Row Height"
+msgstr "Tabulas rindas augstums"
+
+msgid "Table size"
+msgstr "Tabulas izmērs"
+
+msgid "Table Style Options"
+msgstr "Tabulas stila opcijas"
+
+msgid "Table Styles"
+msgstr "Tabulas stili"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11.00\" × 17.00\""
+
+msgid "Tabs…"
+msgstr "Tabulācija…"
+
+msgid "Tabular List"
+msgstr "Tabulārs saraksts"
+
+msgid "Tag"
+msgstr "Tags"
+
+msgid "Taiwan"
+msgstr "Taivāna"
+
+msgid "Take the last match on the page"
+msgstr "Ņemt pēdējo atbilstību lapā"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Nesteidzieties. Lapa nekur nepazudīs. Es arī ne. Nekad."
+
+msgid "Tamil"
+msgstr "Tamilu"
+
+msgid "Tangent formula"
+msgstr "Tangensa formula"
+
+msgid "Tangent Function"
+msgstr "Tangensa funkcija"
+
+msgid "TC entry fields"
+msgstr "TC ierakstu lauki"
+
+msgid "Teal"
+msgstr "Zilganzaļš"
+
+msgid "Technology"
+msgstr "Tehnoloģijas"
+
+msgid "Templates and Add-ins"
+msgstr "Veidnes un papildinājumi"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Šeit parādās veidnes, ko saglabājat savā veidņu mapē."
+
+msgid "Text Box"
+msgstr "Teksta lodziņš"
+
+msgid "Text boxes"
+msgstr "Teksta lodziņi"
+
+msgid "text boxes can't go inside a text box"
+msgstr "teksta lodziņi nevar atrasties teksta lodziņā"
+
+msgid "Text Direction"
+msgstr "Teksta virziens"
+
+msgid "Text Effects"
+msgstr "Teksta efekti"
+
+msgid "Text Effects and Typography"
+msgstr "Teksta efekti un tipogrāfija"
+
+msgid "Text Fill"
+msgstr "Teksta aizpildījums"
+
+msgid "Text from File"
+msgstr "Teksts no faila"
+
+msgid "Text Highlight Color"
+msgstr "Teksta izcēluma krāsa"
+
+msgid "Text indent at:"
+msgstr "Teksta atkāpe pie:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Tuvākās rindkopas teksts ar noteiktu stilu (mainīgās galvenes)"
+
+msgid "Text Outline"
+msgstr "Teksta kontūra"
+
+msgid "Text over Colon Equal"
+msgstr "Teksts virs kols vienāds"
+
+msgid "Text over Equal"
+msgstr "Teksts virs vienāds"
+
+msgid "Text Pane"
+msgstr "Teksta rūts"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr "Tikai teksta rekvizīti: Word skaitļu, datumu un jā/nē veidi netiek piedāvāti."
+
+msgid "Text Size"
+msgstr "Teksta lielums"
+
+msgid "Text size"
+msgstr "Teksta lielums"
+
+msgid "Text snaps to characters"
+msgstr "Teksts piesaistās rakstzīmēm"
+
+msgid "Text to display:"
+msgstr "Parādāmais teksts:"
+
+msgid "Text watermark"
+msgstr ""
+
+msgid "Text Wrapping"
+msgstr "Teksta aplaušana"
+
+msgid "Text\nBox"
+msgstr "Teksta\nlodziņš"
+
+msgid "Text\nDirection"
+msgstr "Teksta\nvirziens"
+
+msgid "Thai"
+msgstr "Taju"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Šis formāts nesaglabā visu, tāpēc dokuments joprojām ir atvērts. Lai turpinātu, saglabājiet to kā Word dokumentu (.docx)."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Parole nav pareiza. Pārbaudiet to (parolēs ir atšķirība starp lielajiem un mazajiem burtiem) un mēģiniet vēlreiz."
+
+msgid "The clipboard is empty."
+msgstr "Starpliktuve ir tukša."
+
+msgid "the Clipboard pane is empty"
+msgstr "starpliktuves rūts ir tukša"
+
+msgid "the cursor isn't in a table"
+msgstr "kursors nav tabulā"
+
+msgid "The date it is today"
+msgstr "Šodienas datums"
+
+msgid "The document has no bookmarks yet."
+msgstr "Dokumentā vēl nav grāmatzīmju."
+
+msgid "the document is protected"
+msgstr "dokuments ir aizsargāts"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Dokuments ir tikai lasāms, izņemot apgabalus, kas atzīmēti kā rediģējami."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr "Dokuments vai atlase mainījās. Pārbaudiet vēlreiz, lai turpinātu."
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Dokuments tiks saglabāts ar paroli. Saglabājiet to, lai aizsargātu."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Rediģējamais dokuments saglabā vārdus un datumus; tos izlaiž tikai saglabātais fails."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Piemales neietilpst šāda izmēra lapā; vispirms samaziniet piemales."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Mēram jābūt no {min} līdz {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Jaunais stils pārņem pašreizējās rindkopas formatējumu."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Veidni Normal neizdevās nolasīt, tāpēc šis dokuments izmanto WordCraft iebūvēto formatējumu."
+
+msgid "The number must be a divisor of {max}."
+msgstr "Skaitlim jābūt {max} dalītājam."
+
+msgid "The number must be between 1 and {max}."
+msgstr "Skaitlim jābūt no 1 līdz {max}."
+
+msgid "the paragraph is empty"
+msgstr "rindkopa ir tukša"
+
+msgid "the paragraph starts with a space"
+msgstr "rindkopa sākas ar atstarpi"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Parole nav obligāta; bez tās ikviens var apturēt aizsardzību."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Parole ir noņemta. Saglabājiet dokumentu, lai paturētu izmaiņas."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Printeri, abpusējo druku un lapas loksnē izvēlas šajā dialoglodziņā."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Adresātu saraksta lauks, kas aizpilda katru adreses bloka un sveiciena rindas daļu."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Pareizrakstības un gramatikas pārbaude ir pabeigta."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "Valodas {language} pareizrakstības vārdnīcu neizdevās nolasīt, tāpēc tā netiek pārbaudīta. Fails: {file}. Iemesls: {reason}"
+
+msgid "the Spike is empty"
+msgstr "krājums ir tukšs"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Sistēmas failu dialoglodziņš nav pieejams, tāpēc WordCraft rāda savu. Lai iegūtu sistēmas dialoglodziņu, instalējiet failu atlasītāja portālu (piemēram, xdg-desktop-portal-gtk) vai zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Teksts ievietošanas vietā ir atzīmēts ar Nepārbaudīt pareizrakstību vai gramatiku."
+
+msgid "The time right now"
+msgstr "Pašreizējais laiks"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr "Valodas {language} vārdnīcu neizdevās lejupielādēt: {error}"
+
+msgid "The {language} dictionary is installed."
+msgstr "Valodas {language} vārdnīca ir instalēta."
+
+msgid "Theme Colors"
+msgstr "Motīva krāsas"
+
+msgid "Theme Fonts"
+msgstr "Motīva fonti"
+
+msgid "Theme List"
+msgstr "Motīvu saraksts"
+
+msgid "Themes"
+msgstr "Motīvi"
+
+msgid "Then by"
+msgstr "Pēc tam pēc"
+
+msgid "Then insert:"
+msgstr "Tad ievietot:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr "Vēl nav makro. Ierakstiet kādu, lai to šeit pievienotu."
+
+msgid "there is no ink to replay"
+msgstr "nav tintes, ko atskaņot"
+
+msgid "there is nothing to undo"
+msgstr "nav ko atsaukt"
+
+msgid "there's no citation after the caret"
+msgstr "aiz kursora nav atsauces"
+
+msgid "Thesaurus"
+msgstr "Tēzaurs"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Šīs zīmes ir redzamas arī tad, ja Rādīt/paslēpt ¶ ir izslēgts."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Šie sapludināšanas lauki nav adresātu sarakstā:"
+
+msgid "These settings will be used for new documents."
+msgstr "Šie iestatījumi tiks izmantoti jauniem dokumentiem."
+
+msgid "Thick"
+msgstr "Biezs"
+
+msgid "Thick Frame"
+msgstr "Biezs rāmis"
+
+msgid "Thin"
+msgstr "Tievs"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "To nevar atsaukt. Oriģinālais fails paliek nemainīts."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "šī diagramma izveidota citā programmā: WordCraft to rāda, bet nevar rediģēt"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "Šis dokuments"
+
+msgid "This document has no custom properties."
+msgstr "Šim dokumentam nav pielāgotu rekvizītu."
+
+msgid "This document only?"
+msgstr "Tikai šo dokumentu?"
+
+msgid "This field has no options."
+msgstr "Šim laukam nav opciju."
+
+msgid "This folder can't be read: {error}"
+msgstr "Šo mapi nevar nolasīt: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Šajā fontā nav rādāmu rakstzīmju."
+
+msgid "this item is already at the top level"
+msgstr "šis vienums jau ir augšējā līmenī"
+
+msgid "This page"
+msgstr "Šī lapa"
+
+msgid "This password type isn't supported."
+msgstr "Šis paroles veids netiek atbalstīts."
+
+msgid "This point forward"
+msgstr "No šīs vietas uz priekšu"
+
+msgid "This section"
+msgstr "Šī sadaļa"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "šai sesijai nav veidnes Normal (bez saskarnes vai bez iestatījumiem)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "šai sesijai nav veidnes Normal (bez saskarnes vai bez iestatījumiem): izmantojiet \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "šis SmartArt izveidots citā programmā: WordCraft to rāda, bet nevar rediģēt"
+
+msgid "this text box is already linked: break the link first"
+msgstr "šis teksta lodziņš jau ir saistīts: vispirms pārtrauciet saiti"
+
+msgid "Three"
+msgstr "Trīs"
+
+msgid "Through"
+msgstr "Cauri"
+
+msgid "Tight"
+msgstr "Cieši"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "Padoms"
+
+msgid "Tips ({n})"
+msgstr "Padomi ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Virsraksts"
+
+msgid "Title Bar"
+msgstr "Virsraksta josla"
+
+msgid "Title from the document properties"
+msgstr "Nosaukums no dokumenta rekvizītiem"
+
+msgid "Title:"
+msgstr "Nosaukums:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Lai pēc noklusējuma atvērtu Word dokumentus ar WordCraft: atlasiet vienu programmā Finder, izvēlieties File > Get Info, sadaļā Open with izvēlieties WordCraft un pēc tam noklikšķiniet uz Change All."
+
+msgid "To:"
+msgstr "Līdz:"
+
+msgid "TOA Heading"
+msgstr "Autoritāšu virsraksts"
+
+msgid "TOC Heading"
+msgstr "Satura rādītāja virsraksts"
+
+msgid "TOC {n}"
+msgstr "Satura rādītājs {n}"
+
+msgid "Today"
+msgstr "Šodien"
+
+msgid "tOGGLE cASE"
+msgstr "mAINĪT rEĢISTRU"
+
+msgid "Toggle Check Box"
+msgstr "Pārslēgt izvēles rūtiņu"
+
+msgid "Toggle Field Codes"
+msgstr "Pārslēgt lauku kodus"
+
+msgid "Toggle Unicode Character"
+msgstr "Pārslēgt Unicode rakstzīmi"
+
+msgid "Top and Bottom"
+msgstr "Augšā un apakšā"
+
+msgid "Top Border"
+msgstr "Augšējā apmale"
+
+msgid "Top Left Cell"
+msgstr "Augšējā kreisā šūna"
+
+msgid "Top Margin"
+msgstr "Augšējā piemale"
+
+msgid "Top of Page"
+msgstr "Lapas augša"
+
+msgid "Top of the Document"
+msgstr "Dokumenta sākums"
+
+msgid "Top Right Cell"
+msgstr "Augšējā labā šūna"
+
+msgid "Total Row"
+msgstr "Kopsummas rinda"
+
+msgid "Track Changes"
+msgstr "Izsekot izmaiņas"
+
+msgid "Track Changes Options"
+msgstr "Izmaiņu izsekošanas opcijas"
+
+msgid "Track Changes: On"
+msgstr "Izmaiņu izsekošana: ieslēgta"
+
+msgid "Track formatting"
+msgstr "Izsekot formatējumu"
+
+msgid "Track\nChanges"
+msgstr "Izsekot\nizmaiņas"
+
+msgid "Track\nChanges ✓"
+msgstr "Izsekot\nizmaiņas ✓"
+
+msgid "Tracked changes"
+msgstr "Izsekotās izmaiņas"
+
+msgid "Trademark"
+msgstr "Preču zīme"
+
+msgid "Trademark Sign"
+msgstr "Preču zīmes simbols"
+
+msgid "Transparency:"
+msgstr ""
+
+msgid "Transport"
+msgstr "Transports"
+
+msgid "Triangle Down"
+msgstr "Trijstūris uz leju"
+
+msgid "Triangle Up"
+msgstr "Trijstūris uz augšu"
+
+msgid "Trigonometric Functions"
+msgstr "Trigonometriskās funkcijas"
+
+msgid "Triple"
+msgstr "Trīskāršs"
+
+msgid "Triple Dot"
+msgstr "Trīskāršs punkts"
+
+msgid "Triple Integral"
+msgstr "Trīskāršais integrālis"
+
+msgid "Triple Integral with Limits"
+msgstr "Trīskāršais integrālis ar robežām"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Trīskāršais integrālis ar robežām virs un zem"
+
+msgid "Trust Center"
+msgstr "Uzticamības centrs"
+
+msgid "Tue"
+msgstr "Ot"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turku"
+
+msgid "Turquoise"
+msgstr "Tirkīzs"
+
+msgid "Two"
+msgstr "Divi"
+
+msgid "Two-sided printing"
+msgstr "Abpusējā druka"
+
+msgid "Two-sided: long edge"
+msgstr "Abpusēji: garā mala"
+
+msgid "Two-sided: short edge"
+msgstr "Abpusēji: īsā mala"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Ierakstiet +2 vai -1, lai pārvietotos no pašreizējās lapas."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Ierakstiet komandu, piem., \"ievietot tabulu\""
+
+msgid "Type a New List…"
+msgstr "Ievadīt jaunu sarakstu…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Ierakstiet lapas numuru vai +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Ierakstiet izmēru jebkurā vienībā, piemēram, 5 cm vai 300 px. Otra mala seko, lai attēls saglabātu proporcijas."
+
+msgid "Type at least one recipient."
+msgstr "Ierakstiet vismaz vienu adresātu."
+
+msgid "Type Character Code"
+msgstr "Ievadīt rakstzīmes kodu"
+
+msgid "Type equations in LaTeX"
+msgstr "Rakstīt vienādojumus LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Rakstīt vienādojumus lineārajā formātā (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Rakstīt vienādojumā"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Rakstīt vienādojumā parastu (nematemātisku) tekstu"
+
+msgid "Type Text"
+msgstr "Rakstīt tekstu"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Ierakstiet kategorijas sānos un vienu vērtību kolonnu katrai sērijai."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Ierakstiet lauka nosaukumu un tā slēdžus, piemēram, PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Ievadiet paroli, lai apturētu aizsardzību."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Ierakstiet adresātus vai ielādējiet tos no faila."
+
+msgid "Typing replaces selected text"
+msgstr "Rakstīšana aizstāj atlasīto tekstu"
+
+msgid "U.A.E."
+msgstr "AAE"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Ukrainian"
+msgstr "Ukraiņu"
+
+msgid "Unchecked symbol"
+msgstr "Neatzīmēts simbols"
+
+msgid "Underbar"
+msgstr "Apakšsvītra"
+
+msgid "Underbrace"
+msgstr "Figūriekava zem"
+
+msgid "Underline Color"
+msgstr "Pasvītrojuma krāsa"
+
+msgid "Underline color"
+msgstr "Pasvītrojuma krāsa"
+
+msgid "Underline Words Only"
+msgstr "Pasvītrot tikai vārdus"
+
+msgid "Undo 1 Action"
+msgstr "Atsaukt 1 darbību"
+
+msgid "Undo Actions"
+msgstr "Atsaukt darbības"
+
+msgid "Undo History"
+msgstr "Atsaukšanas vēsture"
+
+msgid "Undo {n} Actions"
+msgstr "Atsaukt {n} darbības"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Atsaukt, atsaukt, atsaukt… tagad ceļojam laikā."
+
+msgid "Unformatted Text"
+msgstr "Neformatēts teksts"
+
+msgid "Union of intersections"
+msgstr "Šķēlumu apvienojums"
+
+msgid "Union with Limits"
+msgstr "Apvienojums ar robežām"
+
+msgid "Union with Lower Limit"
+msgstr "Apvienojums ar apakšējo robežu"
+
+msgid "Union with Plus"
+msgstr "Apvienojums ar plusu"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Apvienojums ar apakšraksta un augšraksta robežām"
+
+msgid "Unions and Intersections"
+msgstr "Apvienojumi un šķēlumi"
+
+msgid "United Kingdom"
+msgstr "Apvienotā Karaliste"
+
+msgid "United States"
+msgstr "Amerikas Savienotās Valstis"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "Atsaistīt laukus"
+
+msgid "Unlink\nCitations"
+msgstr "Atsaistīt\natsauces"
+
+msgid "Unlock Fields"
+msgstr "Atbloķēt laukus"
+
+msgid "Up Diagonal Dots"
+msgstr "Diagonāli punkti uz augšu"
+
+msgid "Up one level"
+msgstr "Vienu līmeni augstāk"
+
+msgid "Update check is not supported in the web browser."
+msgstr "Atjauninājumu pārbaude tīmekļa pārlūkā netiek atbalstīta."
+
+msgid "Update Field"
+msgstr "Atjaunināt lauku"
+
+msgid "Update fields before printing"
+msgstr "Atjaunināt laukus pirms drukāšanas"
+
+msgid "Update Index"
+msgstr "Atjaunināt rādītāju"
+
+msgid "Update Style to Match Selection"
+msgstr "Atjaunināt stilu atbilstoši atlasei"
+
+msgid "Update Styles from Template"
+msgstr "Atjaunināt stilus no veidnes"
+
+msgid "Update Table"
+msgstr "Atjaunināt tabulu"
+
+msgid "Update Table of Figures"
+msgstr "Atjaunināt attēlu sarakstu"
+
+msgid "Update to Match"
+msgstr "Atjaunināt atbilstoši"
+
+msgid "Update to Match Selection"
+msgstr "Atjaunināt atbilstoši atlasei"
+
+msgid "URGENT"
+msgstr "STEIDZAMI"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Urugvaja"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Pirms līdzskaņa izrunas izmantojiet \"a\""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Pirms patskaņa izrunas izmantojiet \"an\""
+
+msgid "Use an Existing List…"
+msgstr "Izmantot esošu sarakstu…"
+
+msgid "Use system setting"
+msgstr "Izmantot sistēmas iestatījumu"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Izmantot pārlūka pilnekrānu (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Vai izmantot pašreizējo stilu kopu un motīvu visiem jaunajiem dokumentiem?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Izmantot taustiņu Insert, lai ieslēgtu un izslēgtu pārrakstīšanu"
+
+msgid "Use this formatting as the default for:"
+msgstr "Izmantot šo formatējumu kā noklusējumu:"
+
+msgid "Use wildcards"
+msgstr "Izmantot aizstājējzīmes"
+
+msgid "User Name"
+msgstr "Lietotājvārds"
+
+msgid "User name:"
+msgstr "Lietotājvārds:"
+
+msgid "User templates:"
+msgstr "Lietotāja veidnes:"
+
+msgid "Vector A"
+msgstr "Vektors A"
+
+msgid "Vector AB"
+msgstr "Vektors AB"
+
+msgid "Venezuela"
+msgstr "Venecuēla"
+
+msgid "Version History"
+msgstr "Versiju vēsture"
+
+msgid "Version {version} ({build})"
+msgstr "Versija {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Vertikālais līdzinājums:"
+
+msgid "Vertical Bars"
+msgstr "Vertikālas līnijas"
+
+msgid "Vertical Dots"
+msgstr "Vertikāli punkti"
+
+msgid "Vietnamese"
+msgstr "Vjetnamiešu"
+
+msgid "View Alt Text…"
+msgstr "Skatīt alternatīvo tekstu…"
+
+msgid "View and edit the document's custom properties."
+msgstr "Skatīt un rediģēt dokumenta pielāgotos rekvizītus."
+
+msgid "View Gridlines"
+msgstr "Skatīt režģa līnijas"
+
+msgid "View State"
+msgstr "Skata stāvoklis"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Skats > Fokuss paslēpj visu, izņemot jūsu vārdus. Es pagaidīšu ārā."
+
+msgid "Viewing"
+msgstr "Skatīšana"
+
+msgid "Viewing — view the file but make no changes"
+msgstr "Skatīšana — skatīt failu, neko nemainot"
+
+msgid "Views"
+msgstr "Skati"
+
+msgid "Visual effects"
+msgstr "Vizuālie efekti"
+
+msgid "Vivid 200%"
+msgstr "Spilgts 200%"
+
+msgid "Volume"
+msgstr "Sējums"
+
+msgid "Volume Integral"
+msgstr "Tilpuma integrālis"
+
+msgid "Volume Integral with Limits"
+msgstr "Tilpuma integrālis ar robežām"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Tilpuma integrālis ar robežām virs un zem"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Pirms aizvēršanas pagaidiet, līdz drukas darba iesniegšana beidzas."
+
+msgid "Waiting for the save to finish…"
+msgstr "Gaida saglabāšanas beigas…"
+
+msgid "Waiting for Zotero…"
+msgstr "Gaida Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Silts gradients ar kontūru"
+
+msgid "Warnings ({n})"
+msgstr "Brīdinājumi ({n})"
+
+msgid "Washout"
+msgstr "Izbalināts"
+
+msgid "Weather"
+msgstr "Laikapstākļi"
+
+msgid "Web Layout"
+msgstr "Tīmekļa izkārtojums"
+
+msgid "Web page (*.html)"
+msgstr "Tīmekļa lapa (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Tīmekļa\nizkārtojums"
+
+msgid "Wed"
+msgstr "Tr"
+
+msgid "Welsh"
+msgstr "Velsiešu"
+
+msgid "West"
+msgstr "Rietumi"
+
+msgid "When this document was first created"
+msgstr "Kad šis dokuments pirmoreiz izveidots"
+
+msgid "When this document was most recently printed"
+msgstr "Kad šis dokuments pēdējoreiz drukāts"
+
+msgid "When this document was most recently saved"
+msgstr "Kad šis dokuments pēdējoreiz saglabāts"
+
+msgid "White Space"
+msgstr "Tukšā vieta"
+
+msgid "White space"
+msgstr "Tukšā vieta"
+
+msgid "Who the document properties name as author"
+msgstr "Kuru dokumenta rekvizīti norāda kā autoru"
+
+msgid "Whole document"
+msgstr "Viss dokuments"
+
+msgid "Whole page"
+msgstr "Visa lapa"
+
+msgid "Whole Table"
+msgstr "Visa tabula"
+
+msgid "Whole words"
+msgstr "Veseli vārdi"
+
+msgid "Wide"
+msgstr "Plats"
+
+msgid "Widow/Orphan Control"
+msgstr "Atsevišķu rindu kontrole"
+
+msgid "Widow/Orphan control"
+msgstr "Atsevišķu rindu kontrole"
+
+msgid "Width and spacing"
+msgstr "Platums un atstatums"
+
+msgid "Wildcards (regex)"
+msgstr "Aizstājējzīmes (regex)"
+
+msgid "With:"
+msgstr "Ar:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML dokuments (*.xml)"
+
+msgid "Word Count"
+msgstr "Vārdu skaits"
+
+msgid "Word document"
+msgstr "Word dokuments"
+
+msgid "Word document (*.docx)"
+msgstr "Word dokuments (*.docx)"
+
+msgid "Word Left"
+msgstr "Vārds pa kreisi"
+
+msgid "Word level"
+msgstr "Vārdu līmenis"
+
+msgid "Word Right"
+msgstr "Vārds pa labi"
+
+msgid "Word sources"
+msgstr "Word avoti"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML dokuments (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "WordArt stili"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft tagad ir noklusējuma lietotne Word dokumentiem."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr "WordCraft {version} pašlaik ir jaunākā pieejamā versija."
+
+msgid "Words only"
+msgstr "Tikai vārdi"
+
+msgid "Wrap Text"
+msgstr "Aplauzt tekstu"
+
+msgid "Wrap Text Sides"
+msgstr "Aplaušanas puses"
+
+msgid "Wrap\nText"
+msgstr "Aplauzt\ntekstu"
+
+msgid "Write & Insert Fields"
+msgstr "Rakstīšana un lauku ievietošana"
+
+msgid "Write a reply"
+msgstr "Rakstīt atbildi"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Rakstītāja bloks? Man palīdz skatīšanās uz kursoru. Tas man mirkšķina jau gadiem."
+
+msgid "x bar"
+msgstr "x ar svītru"
+
+msgid "Year"
+msgstr "Gads"
+
+msgid "Yields"
+msgstr "Rezultāts"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Sen neesat saglabājis, un automātiskā saglabāšana ir izslēgta. Vai saglabāt tagad?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Sākāt sarakstu. Divreiz nospiediet Enter, lai to beigtu, vai Backspace vienuma sākumā, lai to pārvērstu atpakaļ par tekstu."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Jūsu dokuments tagad ir vēsturē visvairāk saglabātais dokuments."
+
+msgid "Your languages"
+msgstr "Jūsu valodas"
+
+msgid "Your own dictionary"
+msgstr "Jūsu vārdnīca"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Jūsu sistēma nenorāda animācijas iestatījumu, tāpēc animācijas efekti paliek ieslēgti."
+
+msgid "Your system has animation effects turned off."
+msgstr "Jūsu sistēmā animācijas efekti ir izslēgti."
+
+msgid "Your system has animation effects turned on."
+msgstr "Jūsu sistēmā animācijas efekti ir ieslēgti."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: atcelts"
+
+msgid "Zotero: done"
+msgstr "Zotero: gatavs"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} neizdevās nolasīt: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} izlaisti (ierobežojums {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} tabula"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Līdzdalībnieki: {contributors} · iesūtījumi: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "Izcelti vienumi: {count}"
+
+msgid "{count} of {total} pages will print"
+msgstr "Tiks drukātas {count} no {total} lapām"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Tiks sapludināti {count} no {total} adresātiem."
+
+msgid "{field}, record {n}"
+msgstr "{field}, ieraksts {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group}: iestatījumi"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} pārbauda visa dokumenta pareizrakstību un gramatiku."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} saskaita vārdus, rakstzīmes un rindkopas."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} atrod un aizstāj tekstu, formatējumu un īpašās rakstzīmes."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} atkārto pēdējo darbību. Desmit virsrakstu formatēšana pēkšņi ir viens klikšķis un deviņi pieskārieni."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} sāk jaunu rindu, nesākot jaunu rindkopu."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} sāk jaunu lapu. Daudz kārtīgāk nekā spiest Enter, līdz tas notiek."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} pārvērš atlasīto tekstu par saiti."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+klikšķis, lai sekotu saitei"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (noklusējums)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (vārdnīca nav nolasāma)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (nav vārdnīcas)"
+
+msgid "{language} ({region})"
+msgstr "{language} ({region})"
+
+msgid "{language} is now the document's default language."
+msgstr "{language} tagad ir dokumenta noklusējuma valoda."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: vārdnīca nav atrasta"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft šajā valodā vēl nepārbauda pareizrakstību vai gramatiku."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (nav nolasāms: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} un vēl {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} collas"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} jau pastāv. Vēlreiz izvēlieties Saglabāt, lai to aizstātu."
+
+msgid "{name} is protected with a password."
+msgstr "{name} ir aizsargāts ar paroli."
+
+msgid "{name} options"
+msgstr "{name}: opcijas"
+
+msgid "{name} wasn't found."
+msgstr "{name} netika atrasts."
+
+msgid "{n} entries marked."
+msgstr "Atzīmēti ieraksti: {n}."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} rindas"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "{selected} no {words} vārdiem"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pikseļi"
+
+msgid "{words} words"
+msgstr "Vārdi: {words}"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "Vārdi: {words} un turpinās. Burtiski. Es skaitu."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "Vārdi: {words}! Mestu konfeti, bet tad būtu jāsakopj."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "Vārdi: {words}. Tas ir par {words} vairāk nekā es šodien esmu uzrakstījis."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) nav skaitlis."
+
+msgid "✓ None"
+msgstr "✓ Nav"
+
+msgid "➕ New comment"
+msgstr "➕ Jauns komentārs"
+
+msgid "📂  Browse…"
+msgstr "📂  Pārlūkot…"

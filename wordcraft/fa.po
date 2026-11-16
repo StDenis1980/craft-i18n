@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "(All)"
+msgstr "(همه)"
+
+msgid "(no style)"
+msgstr "(بدون سبک)"
+
+msgid "(no suggestions)"
+msgstr "(بدون پیشنهاد)"
+
+msgid "(normal text)"
+msgstr "(متن عادی)"
+
+msgid "(not matched)"
+msgstr "(مطابقت ندارد)"
+
+msgid "(picture or object)"
+msgstr "(تصویر یا شیء)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "۰ کاراکتر یا بیشتر"
+
+msgid "1. Formatting restrictions"
+msgstr "۱. محدودیت‌های قالب‌بندی"
+
+msgid "1.5 Line Spacing"
+msgstr "فاصلهٔ خط ۱٫۵"
+
+msgid "1/4 Em Space"
+msgstr "فاصلهٔ یک‌چهارم Em"
+
+msgid "1×2 Empty Matrix"
+msgstr "ماتریس خالی ۱×۲"
+
+msgid "1×3 Empty Matrix"
+msgstr "ماتریس خالی ۱×۳"
+
+msgid "2. Editing restrictions"
+msgstr "۲. محدودیت‌های ویرایش"
+
+msgid "2×1 Empty Matrix"
+msgstr "ماتریس خالی ۲×۱"
+
+msgid "2×2 Determinant"
+msgstr "دترمینان ۲×۲"
+
+msgid "2×2 Empty Matrix"
+msgstr "ماتریس خالی ۲×۲"
+
+msgid "2×2 Identity Matrix"
+msgstr "ماتریس همانی ۲×۲"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "ماتریس همانی ۲×۲ (تنک)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "ماتریس ۲×۲ در کروشه"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "ماتریس ۲×۲ در دو خط عمودی"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "ماتریس ۲×۲ در پرانتز"
+
+msgid "2×3 Empty Matrix"
+msgstr "ماتریس خالی ۲×۳"
+
+msgid "3-D"
+msgstr "سه‌بعدی"
+
+msgid "3. Start enforcement"
+msgstr "۳. آغاز اعمال محدودیت"
+
+msgid "3×1 Empty Matrix"
+msgstr "ماتریس خالی ۳×۱"
+
+msgid "3×2 Empty Matrix"
+msgstr "ماتریس خالی ۳×۲"
+
+msgid "3×3 Empty Matrix"
+msgstr "ماتریس خالی ۳×۳"
+
+msgid "3×3 Identity Matrix"
+msgstr "ماتریس همانی ۳×۳"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "ماتریس همانی ۳×۳ (تنک)"
+
+msgid "<< Less"
+msgstr "<< کمتر"
+
+msgid "<< Remove"
+msgstr "<< حذف"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "بوم ترسیم را نمی‌توان از گروه خارج کرد"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "بوم ترسیم نمی‌تواند درون جعبهٔ متن قرار گیرد"
+
+msgid "A file dialog is already open."
+msgstr "یک گفت‌وگوی فایل از قبل باز است."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "یک واژه‌پرداز آزاد و متن‌باز که از صفر در Rust نوشته شده است.\nبخشی از اپ‌های Crafting از تیم ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "گروهی که جوهر Word دارد هنوز نمی‌تواند از گروه خارج شود"
+
+msgid "A mail merge field"
+msgstr "یک فیلد ادغام نامه"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "یک دنبالهٔ شماره‌دار (شکل‌ها، جدول‌ها…)"
+
+msgid "A password is required to open this document."
+msgstr "برای باز کردن این سند به گذرواژه نیاز است."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "یک فهرست مطالب"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "دربارهٔ WordCraft"
+
+msgid "Above Chart"
+msgstr "بالای نمودار"
+
+msgid "Above the item"
+msgstr "بالای مورد"
+
+msgid "Above/below"
+msgstr "بالا/پایین"
+
+msgid "Absolute value cases"
+msgstr "حالت‌های قدر مطلق"
+
+msgid "Accent"
+msgstr "رنگ تأکیدی"
+
+msgid "Accent Gradient"
+msgstr "گرادیان رنگ تأکیدی"
+
+msgid "Accent with Reflection"
+msgstr "رنگ تأکیدی با بازتاب"
+
+msgid "Accent {n}"
+msgstr "رنگ تأکیدی {n}"
+
+msgid "Accents"
+msgstr "رنگ‌های تأکیدی"
+
+msgid "Accept"
+msgstr "پذیرفتن"
+
+msgid "Accept All Changes"
+msgstr "پذیرفتن همهٔ تغییرات"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "پذیرفتن این تغییر"
+
+msgid "Accessed on"
+msgstr "بازدید در"
+
+msgid "Accessibility Pane"
+msgstr "پنجرهٔ دسترس‌پذیری"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Acute"
+msgstr "اَکیوت"
+
+msgid "Add >>"
+msgstr "افزودن >>"
+
+msgid "Add a language"
+msgstr "افزودن زبان"
+
+msgid "Add a language…"
+msgstr "افزودن زبان…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "افزودن جدول"
+
+msgid "Add at least one field."
+msgstr "حداقل یک فیلد اضافه کنید."
+
+msgid "Add Chart Element"
+msgstr "افزودن عنصر نمودار"
+
+msgid "Add Condition"
+msgstr "افزودن شرط"
+
+msgid "Add Field"
+msgstr "افزودن فیلد"
+
+msgid "Add Font…"
+msgstr "افزودن قلم…"
+
+msgid "Add gradient stop"
+msgstr "افزودن ایستگاه گرادیان"
+
+msgid "Add line numbering"
+msgstr "افزودن شماره‌گذاری خط"
+
+msgid "Add New Source…"
+msgstr "افزودن منبع جدید…"
+
+msgid "Add Object to Selection"
+msgstr "افزودن شیء به انتخاب"
+
+msgid "Add Pen"
+msgstr "افزودن قلم"
+
+msgid "Add Row"
+msgstr "افزودن سطر"
+
+msgid "Add Series"
+msgstr "افزودن سری"
+
+msgid "Add Shape"
+msgstr "افزودن شکل"
+
+msgid "Add Space Before Paragraph"
+msgstr "افزودن فاصله پیش از پاراگراف"
+
+msgid "Add space between Asian and Latin text"
+msgstr "افزودن فاصله میان متن آسیایی و لاتین"
+
+msgid "Add space between Asian text and numbers"
+msgstr "افزودن فاصله میان متن آسیایی و اعداد"
+
+msgid "Add tab stop at:"
+msgstr "افزودن ایستگاه تب در:"
+
+msgid "Add Text"
+msgstr "افزودن متن"
+
+msgid "Add the chapter number"
+msgstr "افزودن شمارهٔ فصل"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "افزودن به سند"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "افزودن به نوارابزار دسترسی سریع"
+
+msgid "Add to Style Gallery"
+msgstr "افزودن به گالری سبک"
+
+msgid "Add whether it is above or below"
+msgstr "افزودن اینکه بالا است یا پایین"
+
+msgid "Add/Edit\nBibliography"
+msgstr "افزودن/ویرایش\nکتاب‌نامه"
+
+msgid "Add/Edit\nCitation"
+msgstr "افزودن/ویرایش\nارجاع"
+
+msgid "Add\nNote"
+msgstr "افزودن\nیادداشت"
+
+msgid "Add\nPen"
+msgstr "افزودن\nقلم"
+
+msgid "Add\nShape"
+msgstr "افزودن\nشکل"
+
+msgid "Added 1 font"
+msgstr "۱ قلم افزوده شد"
+
+msgid "Added Fonts"
+msgstr "قلم‌های افزوده‌شده"
+
+msgid "Added {n} fonts"
+msgstr "{n} قلم افزوده شد"
+
+msgid "Address"
+msgstr "نشانی"
+
+msgid "Address Block"
+msgstr "بلوک نشانی"
+
+msgid "Address labels"
+msgstr "برچسب‌های نشانی"
+
+msgid "Address:"
+msgstr "نشانی:"
+
+msgid "Address\nBlock"
+msgstr "بلوک\nنشانی"
+
+msgid "Advanced Find"
+msgstr "جست‌وجوی پیشرفته"
+
+msgid "Advanced Find…"
+msgstr "جست‌وجوی پیشرفته…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "آفریکانس"
+
+msgid "After:"
+msgstr "پس از:"
+
+msgid "Agents"
+msgstr "عامل‌ها"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr ""
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr ""
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr ""
+
+msgid "Albanian"
+msgstr "آلبانیایی"
+
+msgid "Align Bottom Center"
+msgstr "تراز پایین وسط"
+
+msgid "Align Bottom Left"
+msgstr "تراز پایین چپ"
+
+msgid "Align Bottom Right"
+msgstr "تراز پایین راست"
+
+msgid "Align Center"
+msgstr "تراز وسط"
+
+msgid "Align Center Left"
+msgstr "تراز وسط چپ"
+
+msgid "Align Center Right"
+msgstr "تراز وسط راست"
+
+msgid "Align Top Center"
+msgstr "تراز بالا وسط"
+
+msgid "Align Top Left"
+msgstr "تراز بالا چپ"
+
+msgid "Align Top Right"
+msgstr "تراز بالا راست"
+
+msgid "Aligned at:"
+msgstr "تراز در:"
+
+msgid "All - Linear"
+msgstr "همه - خطی"
+
+msgid "All - Professional"
+msgstr "همه - حرفه‌ای"
+
+msgid "All Borders"
+msgstr "همهٔ حاشیه‌ها"
+
+msgid "All caps"
+msgstr "همه حروف بزرگ"
+
+msgid "All Commands"
+msgstr "همهٔ فرمان‌ها"
+
+msgid "All documents based on the Normal template?"
+msgstr ""
+
+msgid "All Fonts"
+msgstr "همهٔ قلم‌ها"
+
+msgid "All Levels"
+msgstr "همهٔ سطوح"
+
+msgid "All Markup"
+msgstr "همهٔ نشانه‌گذاری"
+
+msgid "All pages in the range"
+msgstr "همهٔ صفحه‌های محدوده"
+
+msgid "All symbol sets"
+msgstr "همهٔ مجموعه‌های نماد"
+
+msgid "All system fonts are already available."
+msgstr "همهٔ قلم‌های سیستم از قبل در دسترس‌اند."
+
+msgid "Allow hanging punctuation"
+msgstr "اجازه دادن به نشانه‌گذاری آویزان"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "اجازه دادن به شکستن متن لاتین در میانهٔ واژه"
+
+msgid "Allow line breaks"
+msgstr "اجازه دادن به شکست خط"
+
+msgid "Allow row to break across pages"
+msgstr "اجازه دادن به شکستن سطر میان صفحه‌ها"
+
+msgid "Alphabetical"
+msgstr "الفبایی"
+
+msgid "Alt Text"
+msgstr "متن جانشین"
+
+msgid "Alt text"
+msgstr "متن جانشین"
+
+msgid "Alt Text Pane"
+msgstr "پنجرهٔ متن جانشین"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "متن\nجانشین"
+
+msgid "an agent"
+msgstr ""
+
+msgid "An installed Language pack is used after this folder."
+msgstr "بستهٔ زبان نصب‌شده پس از این پوشه استفاده می‌شود."
+
+msgid "And"
+msgstr "و"
+
+msgid "Angle Brackets"
+msgstr "کروشه‌های زاویه‌دار"
+
+msgid "Angle Brackets with Separator"
+msgstr "کروشه‌های زاویه‌دار با جداکننده"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "کروشه‌های زاویه‌دار با دو جداکننده"
+
+msgid "Angola"
+msgstr "آنگولا"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "جان‌بخشی به نشانگر (می‌سُرد و محو می‌شود)"
+
+msgid "Animation effects:"
+msgstr "جلوه‌های پویانمایی:"
+
+msgid "Annotation Reference"
+msgstr "ارجاع حاشیه‌نویسی"
+
+msgid "Annotation Subject"
+msgstr "موضوع حاشیه‌نویسی"
+
+msgid "Annotation Text"
+msgstr "متن حاشیه‌نویسی"
+
+msgid "Annoying"
+msgstr ""
+
+msgid "Another file"
+msgstr "فایل دیگر"
+
+msgid "Any Character"
+msgstr "هر کاراکتر"
+
+msgid "Any Digit"
+msgstr "هر رقم"
+
+msgid "Any field"
+msgstr "هر فیلد"
+
+msgid "Any Letter"
+msgstr "هر حرف"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "هر کسی می‌تواند این سند را باز کند. برای خصوصی نگه‌داشتن آن، با گذرواژه رمزگذاری کنید."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "هر کسی که سند را باز کند به این گذرواژه نیاز خواهد داشت."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "اعمال هم‌زمان با تایپ"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "اعمال قواعد شکست خط آسیایی (کینسوکو)"
+
+msgid "Apply formatting to:"
+msgstr "اعمال قالب‌بندی بر:"
+
+msgid "Apply Style"
+msgstr "اعمال سبک"
+
+msgid "Apply Styles"
+msgstr "اعمال سبک‌ها"
+
+msgid "Arabic"
+msgstr "عربی"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "عربی"
+
+msgid "Arch Down"
+msgstr "قوس رو به پایین"
+
+msgid "Arch Up"
+msgstr "قوس رو به بالا"
+
+msgid "Argentina"
+msgstr "آرژانتین"
+
+msgid "Armenian"
+msgstr "ارمنی"
+
+msgid "Arrange\nAll"
+msgstr "چیدن\nهمه"
+
+msgid "Article I."
+msgstr "مقالهٔ I."
+
+msgid "Artistic Effects"
+msgstr "جلوه‌های هنری"
+
+msgid "As Recommended"
+msgstr "طبق توصیه"
+
+msgid "As you type"
+msgstr "هم‌زمان با تایپ"
+
+msgid "ASAP"
+msgstr "در اسرع وقت"
+
+msgid "Asian text font:"
+msgstr "قلم متن آسیایی:"
+
+msgid "Asian Typography"
+msgstr "حروف‌چینی آسیایی"
+
+msgid "Assistant"
+msgstr ""
+
+msgid "Assistant Suggestions"
+msgstr ""
+
+msgid "At least"
+msgstr "حداقل"
+
+msgid "At least {n}"
+msgstr "حداقل {n}"
+
+msgid "Atelier"
+msgstr "آتلیه"
+
+msgid "Atmosphere"
+msgstr "جو"
+
+msgid "Attach Template"
+msgstr "پیوستن قالب"
+
+msgid "Attach…"
+msgstr "پیوستن…"
+
+msgid "Australia"
+msgstr "استرالیا"
+
+msgid "Austria"
+msgstr "اتریش"
+
+msgid "Auto orientation"
+msgstr "جهت‌گیری خودکار"
+
+msgid "AutoCorrect"
+msgstr "تصحیح خودکار"
+
+msgid "AutoCorrect Options"
+msgstr "گزینه‌های تصحیح خودکار"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "اندازه‌گیری خودکار"
+
+msgid "AutoFit behavior"
+msgstr "رفتار اندازه‌گیری خودکار"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "اندازه‌گیری خودکار ستون با دوبار کلیک"
+
+msgid "AutoFit Contents"
+msgstr "اندازه‌گیری خودکار محتوا"
+
+msgid "AutoFit to contents"
+msgstr "اندازه‌گیری خودکار با محتوا"
+
+msgid "AutoFit to window"
+msgstr "اندازه‌گیری خودکار با پنجره"
+
+msgid "AutoFit Window"
+msgstr "اندازه‌گیری خودکار پنجره"
+
+msgid "AutoFormat As You Type"
+msgstr "قالب‌بندی خودکار هم‌زمان با تایپ"
+
+msgid "Automatic ({language})"
+msgstr "خودکار ({language})"
+
+msgid "Automatic ({region})"
+msgstr "خودکار ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "فهرست‌های گلوله‌ای خودکار"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "حالت خودکار از زبان سیستم شما پیروی می‌کند. منوها و فرمان‌ها تغییر می‌کنند؛ سندهای شما نه."
+
+msgid "Automatic numbered lists"
+msgstr "فهرست‌های شماره‌دار خودکار"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "جدول خودکار ۱ (۳ سطح)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "جدول خودکار ۲ (۲ سطح)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "افزودن خودکار واژه‌ها به فهرست (حرف اول)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "افزودن خودکار واژه‌ها به فهرست (حروف بزرگ ابتدایی)"
+
+msgid "Automatically hyphenate document"
+msgstr "خط‌تیره‌گذاری خودکار سند"
+
+msgid "Automatically Update Document Styles"
+msgstr "به‌روزرسانی خودکار سبک‌های سند"
+
+msgid "Automatically update document styles"
+msgstr "به‌روزرسانی خودکار سبک‌های سند"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "ذخیرهٔ خودکار سندهایی که در WordCraft ذخیره کرده‌اید"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "ذخیرهٔ خودکار ناموفق بود: {error}. برای روشن‌کردن دوبارهٔ ذخیرهٔ خودکار، سند را ذخیره کنید."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "ذخیرهٔ خودکار در مرورگر در دسترس نیست: نمی‌تواند در فایل‌های شما بنویسد. «ذخیره» یک نسخه دانلود می‌کند."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "ذخیرهٔ خودکار فقط فایل‌های .docx، .odt و .rtf را نگه می‌دارد؛ {name} نمی‌تواند همهٔ قالب‌بندی را نگه دارد. برای روشن‌کردن ذخیرهٔ خودکار، با قالب .docx ذخیره کنید."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "ذخیرهٔ خودکار هر تغییر را در فایل ذخیره می‌کند (نیازمند سند ذخیره‌شده)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "ذخیرهٔ خودکار لحظه‌ای پس از توقف تایپ، تغییرات شما را در فایل می‌نویسد."
+
+msgid "AutoText"
+msgstr "متن خودکار"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   ۱۰٫۱۲\" × ۱۴٫۳۳\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   ۷٫۱۷\" × ۱۰٫۱۲\""
+
+msgid "Balloons"
+msgstr "حباب‌ها"
+
+msgid "Banded Columns"
+msgstr "ستون‌های نواری"
+
+msgid "Banded Rows"
+msgstr "سطرهای نواری"
+
+msgid "Base text:"
+msgstr "متن پایه:"
+
+msgid "Based on: {style}"
+msgstr "بر پایهٔ: {style}"
+
+msgid "Baseline Dots"
+msgstr "نقطه‌های خط پایه"
+
+msgid "Basic Cycle"
+msgstr "چرخهٔ پایه"
+
+msgid "Basic List"
+msgstr "فهرست پایه"
+
+msgid "Basic Math"
+msgstr "ریاضی پایه"
+
+msgid "Basic Matrix"
+msgstr "ماتریس پایه"
+
+msgid "Basic Process"
+msgstr "فرایند پایه"
+
+msgid "Basic Pyramid"
+msgstr "هرم پایه"
+
+msgid "Basic Radial"
+msgstr "شعاعی پایه"
+
+msgid "Basic Venn"
+msgstr "ون پایه"
+
+msgid "Bayes' rule"
+msgstr "قاعدهٔ بیز"
+
+msgid "Before:"
+msgstr "پیش از:"
+
+msgid "Beginning of Word"
+msgstr "آغاز کلمه"
+
+msgid "Behind Text"
+msgstr "پشت متن"
+
+msgid "Belarus"
+msgstr "بلاروس"
+
+msgid "Belarusian"
+msgstr "بلاروسی"
+
+msgid "Belgium"
+msgstr "بلژیک"
+
+msgid "Below text"
+msgstr "زیر متن"
+
+msgid "Below the item"
+msgstr "زیر مورد"
+
+msgid "Between"
+msgstr "میان"
+
+msgid "Bibliography"
+msgstr "کتاب‌نامه"
+
+msgid "Binomial Coefficient"
+msgstr "ضریب دوجمله‌ای"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "ضریب دوجمله‌ای (زاویه)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "ضریب دوجمله‌ای با کروشه‌های زاویه‌دار"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "بازکردن دوجمله‌ای (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "خالی"
+
+msgid "Blank (Three Columns)"
+msgstr "خالی (سه ستون)"
+
+msgid "Blank document"
+msgstr "سند خالی"
+
+msgid "Blank Page"
+msgstr "صفحهٔ خالی"
+
+msgid "Block\nAuthors"
+msgstr "مسدودکردن\nنویسندگان"
+
+msgid "Blue:"
+msgstr "آبی:"
+
+msgid "Body Text"
+msgstr "متن بدنه"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "متن بدنه در پاراگرافی کوتاه برای نمایش فاصله‌گذاری."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr ""
+
+msgid "Bolivia"
+msgstr "بولیوی"
+
+msgid "Book"
+msgstr "کتاب"
+
+msgid "Book Title"
+msgstr "عنوان کتاب"
+
+msgid "Book title"
+msgstr "عنوان کتاب"
+
+msgid "Bookmark"
+msgstr "نشانک"
+
+msgid "Bookmark name:"
+msgstr "نام نشانک:"
+
+msgid "Bookmark text"
+msgstr "متن نشانک"
+
+msgid "Bookmarks"
+msgstr "نشانک‌ها"
+
+msgid "Border lines"
+msgstr "خطوط حاشیه"
+
+msgid "Border Painter"
+msgstr "نقاش حاشیه"
+
+msgid "Border\nPainter"
+msgstr "نقاش\nحاشیه"
+
+msgid "Borders and Shading"
+msgstr "حاشیه‌ها و سایه‌اندازی"
+
+msgid "Borders and Shading…"
+msgstr "حاشیه‌ها و سایه‌اندازی…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "بوسنی و هرزگوین"
+
+msgid "Bosnian"
+msgstr "بوسنیایی"
+
+msgid "Both Sides"
+msgstr "هر دو طرف"
+
+msgid "Bottom Border"
+msgstr "حاشیهٔ پایین"
+
+msgid "Bottom Left Cell"
+msgstr "خانهٔ پایین چپ"
+
+msgid "Bottom Margin"
+msgstr "حاشیهٔ پایین"
+
+msgid "Bottom of Page"
+msgstr "پایین صفحه"
+
+msgid "Bottom Right Cell"
+msgstr "خانهٔ پایین راست"
+
+msgid "Box"
+msgstr "جعبه"
+
+msgid "Boxed Formula"
+msgstr "فرمول کادردار"
+
+msgid "Boxed Formula (example)"
+msgstr "فرمول کادردار (نمونه)"
+
+msgid "Boxed Formulas"
+msgstr "فرمول‌های کادردار"
+
+msgid "Braces"
+msgstr "آکولاد"
+
+msgid "Braces with Separator"
+msgstr "آکولاد با جداکننده"
+
+msgid "Bracket"
+msgstr "کروشه"
+
+msgid "Brackets"
+msgstr "کروشه‌ها"
+
+msgid "Brackets with Separators"
+msgstr "کروشه‌ها با جداکننده‌ها"
+
+msgid "Brazil"
+msgstr "برزیل"
+
+msgid "Breaks"
+msgstr "شکست‌ها"
+
+msgid "Breve"
+msgstr "برِو"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "روشن‌تر +۲۰٪"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "روشنایی، کنتراست و وضوح"
+
+msgid "Browse in WordCraft…"
+msgstr "مرور در WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "کنترل محتوای گالری بلوک ساخت"
+
+msgid "Built in"
+msgstr "داخلی"
+
+msgid "Built-In"
+msgstr "توکار"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "سبک توکار"
+
+msgid "Built-in styles can't be deleted."
+msgstr "سبک‌های توکار حذف‌شدنی نیستند."
+
+msgid "Bulgarian"
+msgstr "بلغاری"
+
+msgid "Bullet Library"
+msgstr "کتابخانهٔ گلوله"
+
+msgid "Bullets"
+msgstr "گلوله‌ها"
+
+msgid "By author"
+msgstr "بر پایهٔ نویسنده"
+
+msgid "Cabo Verde"
+msgstr "کیپ‌ورد"
+
+msgid "Calendar"
+msgstr "تقویم"
+
+msgid "Can't be deleted"
+msgstr "حذف‌شدنی نیست"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr ""
+
+msgid "can't split at the first row"
+msgstr "در سطر اول نمی‌توان تقسیم کرد"
+
+msgid "Canada"
+msgstr "کانادا"
+
+msgid "Canvas Member"
+msgstr "عضو بوم"
+
+msgid "Capitalize Each Word"
+msgstr "بزرگ‌کردن حرف اول هر واژه"
+
+msgid "Capitalize first letter of sentences"
+msgstr "بزرگ‌کردن حرف اول جمله‌ها"
+
+msgid "Capitalize first letter of table cells"
+msgstr "بزرگ‌کردن حرف اول خانه‌های جدول"
+
+msgid "Capitalize names of days"
+msgstr "بزرگ‌کردن نام روزها"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "بزرگ‌کردن واژهٔ اول جمله"
+
+msgid "Caption Numbering"
+msgstr "شماره‌گذاری عنوان"
+
+msgid "Caption text"
+msgstr "متن عنوان"
+
+msgid "Caption:"
+msgstr "عنوان:"
+
+msgid "Captions"
+msgstr "عنوان‌ها"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr ""
+
+msgid "Caret Character"
+msgstr "کاراکتر نشانگر"
+
+msgid "Case changes"
+msgstr "تغییرات حالت حروف"
+
+msgid "Cases (Three Conditions)"
+msgstr "حالت‌ها (سه شرط)"
+
+msgid "Cases (Two Conditions)"
+msgstr "حالت‌ها (دو شرط)"
+
+msgid "Cases and Stacks"
+msgstr "حالت‌ها و انباشته‌ها"
+
+msgid "Catalan"
+msgstr "کاتالان"
+
+msgid "Catalan (Valencian)"
+msgstr "کاتالان (والنسیایی)"
+
+msgid "Categories"
+msgstr "دسته‌ها"
+
+msgid "Categories:"
+msgstr "دسته‌ها:"
+
+msgid "Category {n}"
+msgstr "دستهٔ {n}"
+
+msgid "Ceiling"
+msgstr "سقف"
+
+msgid "Cell"
+msgstr "خانه"
+
+msgid "Cell Margins"
+msgstr "حاشیه‌های خانه"
+
+msgid "Cell\nMargins"
+msgstr "حاشیه‌های\nخانه"
+
+msgid "Center Glow"
+msgstr "درخشش مرکزی"
+
+msgid "Centered as Group"
+msgstr "وسط‌چین به‌عنوان گروه"
+
+msgid "Change Chart Type"
+msgstr "تغییر نوع نمودار"
+
+msgid "Change Colors"
+msgstr "تغییر رنگ‌ها"
+
+msgid "Change in y over change in x"
+msgstr "تغییر y بر تغییر x"
+
+msgid "Change Layout"
+msgstr "تغییر چیدمان"
+
+msgid "Change List Level"
+msgstr "تغییر سطح فهرست"
+
+msgid "Change Password…"
+msgstr "تغییر گذرواژه…"
+
+msgid "Change Picture"
+msgstr "تغییر تصویر"
+
+msgid "Change Picture…"
+msgstr "تغییر تصویر…"
+
+msgid "Change Shape"
+msgstr "تغییر شکل"
+
+msgid "Change Structure"
+msgstr "تغییر ساختار"
+
+msgid "Change to Display"
+msgstr "تغییر به نمایش"
+
+msgid "Change to Inline"
+msgstr "تغییر به درون‌خطی"
+
+msgid "Change to Level 1"
+msgstr "تغییر به سطح ۱"
+
+msgid "Change to Level 2"
+msgstr "تغییر به سطح ۲"
+
+msgid "Change to Level 3"
+msgstr "تغییر به سطح ۳"
+
+msgid "Change to Level 4"
+msgstr "تغییر به سطح ۴"
+
+msgid "Change to Level 5"
+msgstr "تغییر به سطح ۵"
+
+msgid "Change to Level 6"
+msgstr "تغییر به سطح ۶"
+
+msgid "Change to Level 7"
+msgstr "تغییر به سطح ۷"
+
+msgid "Change to Level 8"
+msgstr "تغییر به سطح ۸"
+
+msgid "Change to Level 9"
+msgstr "تغییر به سطح ۹"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "تغییر\nنوع نمودار"
+
+msgid "Change\nColors"
+msgstr "تغییر\nرنگ‌ها"
+
+msgid "Changed lines:"
+msgstr "خطوط تغییر‌یافته:"
+
+msgid "Changes"
+msgstr "تغییرات"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "فصل ۱"
+
+msgid "Chapter in a book"
+msgstr "فصل در یک کتاب"
+
+msgid "Chapters begin at:"
+msgstr "فصل‌ها آغاز می‌شوند از:"
+
+msgid "Character Border"
+msgstr "حاشیهٔ کاراکتر"
+
+msgid "Character code:"
+msgstr "کد کاراکتر:"
+
+msgid "Character in Range"
+msgstr "کاراکتر در محدوده"
+
+msgid "Character level"
+msgstr "سطح کاراکتر"
+
+msgid "Character Position"
+msgstr "موقعیت کاراکتر"
+
+msgid "Character Scale"
+msgstr "مقیاس کاراکتر"
+
+msgid "Character Shading"
+msgstr "سایه‌اندازی کاراکتر"
+
+msgid "Character Spacing"
+msgstr "فاصله‌گذاری کاراکتر"
+
+msgid "Character spacing"
+msgstr "فاصله‌گذاری کاراکتر"
+
+msgid "Character style"
+msgstr "سبک کاراکتر"
+
+msgid "Characters (no spaces)"
+msgstr "کاراکترها (بدون فاصله)"
+
+msgid "Characters (with spaces)"
+msgstr "کاراکترها (با فاصله)"
+
+msgid "Characters per line:"
+msgstr "کاراکتر در هر خط:"
+
+msgid "Chart"
+msgstr "نمودار"
+
+msgid "Chart Design"
+msgstr "طراحی نمودار"
+
+msgid "Chart Layouts"
+msgstr "چیدمان‌های نمودار"
+
+msgid "Chart Title"
+msgstr "عنوان نمودار"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "نمودارها و ترسیم‌ها هنوز جابه‌جا یا تغییر اندازه نمی‌شوند"
+
+msgid "Check"
+msgstr "بررسی"
+
+msgid "Check Accessibility"
+msgstr "بررسی دسترس‌پذیری"
+
+msgid "Check Box Content Control"
+msgstr "کنترل محتوای کادر انتخابی"
+
+msgid "Check Compatibility"
+msgstr "بررسی سازگاری"
+
+msgid "Check for Errors"
+msgstr "بررسی خطاها"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "بررسی املا هم‌زمان با تایپ"
+
+msgid "Check spelling as you type"
+msgstr "بررسی املا هم‌زمان با تایپ"
+
+msgid "Check\nAccessibility"
+msgstr "بررسی\nدسترس‌پذیری"
+
+msgid "Checked styles are allowed:"
+msgstr "سبک‌های تیک‌خورده مجازند:"
+
+msgid "Checked symbol"
+msgstr "نماد تیک‌خورده"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "ناوک رو به پایین"
+
+msgid "Chevron Up"
+msgstr "ناوک رو به بالا"
+
+msgid "Chicago"
+msgstr "شیکاگو"
+
+msgid "Chile"
+msgstr "شیلی"
+
+msgid "China"
+msgstr "چین"
+
+msgid "Chinese (Simplified)"
+msgstr "چینی (ساده‌شده)"
+
+msgid "Chinese (Traditional)"
+msgstr "چینی (سنتی)"
+
+msgid "Choose a command"
+msgstr "یک فرمان انتخاب کنید"
+
+msgid "Choose a shortcut"
+msgstr "یک میان‌بر انتخاب کنید"
+
+msgid "Choose List Item"
+msgstr "انتخاب مورد فهرست"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "کاربرگی را انتخاب کنید که گیرندگان را در خود دارد."
+
+msgid "Circle area from its radius"
+msgstr "مساحت دایره از شعاع آن"
+
+msgid "Circled Dot"
+msgstr "نقطهٔ دایره‌وار"
+
+msgid "Circled Plus"
+msgstr "به‌علاوهٔ دایره‌وار"
+
+msgid "Circled Times"
+msgstr "ضرب دایره‌وار"
+
+msgid "Citation Style"
+msgstr "سبک ارجاع"
+
+msgid "Citations"
+msgstr "ارجاع‌ها"
+
+msgid "Citations & Bibliography"
+msgstr "ارجاع‌ها و کتاب‌نامه"
+
+msgid "Clear All Formatting"
+msgstr "پاک‌کردن همهٔ قالب‌بندی"
+
+msgid "Clear Character Formatting"
+msgstr "پاک‌کردن قالب‌بندی کاراکتر"
+
+msgid "Clear Character Style"
+msgstr "پاک‌کردن سبک کاراکتر"
+
+msgid "Clear Formatting Level"
+msgstr "پاک‌کردن سطح قالب‌بندی"
+
+msgid "Clear Paragraph Formatting"
+msgstr "پاک‌کردن قالب‌بندی پاراگراف"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "برای ادغام، روی حاشیهٔ میان دو خانه کلیک کنید. Esc توقف می‌دهد."
+
+msgid "Click an item to paste it."
+msgstr "برای چسباندن، روی یک مورد کلیک کنید."
+
+msgid "Click level to modify:"
+msgstr "برای ویرایش روی سطح کلیک کنید:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "روی جعبهٔ متن خالی که متن باید در آن ادامه یابد کلیک کنید (Esc لغو می‌کند)"
+
+msgid "Click to switch back to inserting"
+msgstr "برای بازگشت به درج‌کردن کلیک کنید"
+
+msgid "Clipboard Contents"
+msgstr "محتویات کلیپ‌بورد"
+
+msgid "Clipboard Items"
+msgstr "موارد کلیپ‌بورد"
+
+msgid "Clipboard Pane"
+msgstr "پنجرهٔ کلیپ‌بورد"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "بستن معادله"
+
+msgid "Close Header and Footer"
+msgstr "بستن سرصفحه و پاصفحه"
+
+msgid "Close Outline View"
+msgstr "بستن نمای رئوس"
+
+msgid "Close Outline\nView"
+msgstr "بستن نمای\nرئوس"
+
+msgid "Clustered Bar"
+msgstr "میله‌ای خوشه‌ای"
+
+msgid "Clustered Column"
+msgstr "ستونی خوشه‌ای"
+
+msgid "cm"
+msgstr "سانتی‌متر"
+
+msgid "Col #:"
+msgstr "ستون #:"
+
+msgid "Collapse Selection"
+msgstr "جمع‌کردن انتخاب"
+
+msgid "Collate copies"
+msgstr "ترتیب‌دادن نسخه‌ها"
+
+msgid "Collect entries from:"
+msgstr "گردآوری مدخل‌ها از:"
+
+msgid "Colombia"
+msgstr "کلمبیا"
+
+msgid "Colon Equal"
+msgstr "دونقطه مساوی"
+
+msgid "Color model:"
+msgstr "مدل رنگ:"
+
+msgid "Color only"
+msgstr "فقط رنگ"
+
+msgid "Color: {color}"
+msgstr "رنگ: {color}"
+
+msgid "Colorful"
+msgstr "رنگارنگ"
+
+msgid "Column"
+msgstr "ستون"
+
+msgid "Column Break"
+msgstr "شکست ستون"
+
+msgid "Column Selection"
+msgstr "انتخاب ستون"
+
+msgid "Column {n}"
+msgstr "ستون {n}"
+
+msgid "Column:"
+msgstr "ستون:"
+
+msgid "Combine Documents"
+msgstr "ترکیب سندها"
+
+msgid "Combo Box Content Control"
+msgstr "کنترل محتوای جعبهٔ ترکیبی"
+
+msgid "Commands"
+msgstr "فرمان‌ها"
+
+msgid "Commas"
+msgstr "ویرگول‌ها"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "نظرها کنار هر صفحه و تغییرات ردیابی‌شده در PDF‌ها، چاپ‌ها و تصاویر؛ فهرست نظرها در پایان صفحه‌های وب، Markdown و متن."
+
+msgid "Comments Pane"
+msgstr "پنجرهٔ نظرها"
+
+msgid "Common Accent Objects"
+msgstr "اشیای تأکیدی رایج"
+
+msgid "Common Brackets"
+msgstr "کروشه‌های رایج"
+
+msgid "Common Fractions"
+msgstr "کسرهای رایج"
+
+msgid "Common Functions"
+msgstr "توابع رایج"
+
+msgid "Common Large Operators"
+msgstr "عملگرهای بزرگ رایج"
+
+msgid "Common Operator Structures"
+msgstr "ساختارهای عملگر رایج"
+
+msgid "Common Operators"
+msgstr "عملگرهای رایج"
+
+msgid "Common Radicals"
+msgstr "رادیکال‌های رایج"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "زیرنویس‌ها و بالانویس‌های رایج"
+
+msgid "Communication"
+msgstr "ارتباطات"
+
+msgid "Community\nDiscord"
+msgstr "انجمن\nDiscord"
+
+msgid "Compact"
+msgstr "فشرده"
+
+msgid "Compare Documents"
+msgstr "مقایسهٔ سندها"
+
+msgid "Compare to"
+msgstr "مقایسه با"
+
+msgid "Compared: {changes} changes"
+msgstr "مقایسه‌شده: {changes} تغییر"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "مقایسه با فایل دیگر به اپ رومیزی نیاز دارد."
+
+msgid "Comparison settings"
+msgstr "تنظیمات مقایسه"
+
+msgid "Compress Pictures"
+msgstr "فشرده‌سازی تصاویر"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "فشرده‌سازی نشانه‌گذاری در آغاز خط"
+
+msgid "Conference"
+msgstr "کنفرانس"
+
+msgid "Conference paper"
+msgstr "مقالهٔ کنفرانس"
+
+msgid "CONFIDENTIAL"
+msgstr "محرمانه"
+
+msgid "Confirm password:"
+msgstr "تأیید گذرواژه:"
+
+msgid "Connect Shapes"
+msgstr "اتصال شکل‌ها"
+
+msgid "Container Title"
+msgstr "عنوان ظرف"
+
+msgid "Content Control at Selection"
+msgstr "کنترل محتوا در انتخاب"
+
+msgid "Content Control Properties"
+msgstr "ویژگی‌های کنترل محتوا"
+
+msgid "Contents can't be edited"
+msgstr "محتوا ویرایش‌شدنی نیست"
+
+msgid "Context"
+msgstr "زمینه"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "زمینه"
+
+msgid "Continue from previous section"
+msgstr "ادامه از بخش پیشین"
+
+msgid "Continue without restoring"
+msgstr "ادامه بدون بازیابی"
+
+msgid "Continuous"
+msgstr "پیوسته"
+
+msgid "Continuous numbering"
+msgstr "شماره‌گذاری پیوسته"
+
+msgid "Contour Integral"
+msgstr "انتگرال خطی"
+
+msgid "Contour Integral with Limits"
+msgstr "انتگرال خطی با حدود"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "انتگرال خطی با حدود انباشته"
+
+msgid "Contour Integrals"
+msgstr "انتگرال‌های خطی"
+
+msgid "Controls"
+msgstr "کنترل‌ها"
+
+msgid "Conversions"
+msgstr "تبدیل‌ها"
+
+msgid "Convert between built-up and linear form"
+msgstr "تبدیل میان شکل ساخته‌شده و خطی"
+
+msgid "Convert Notes"
+msgstr "تبدیل یادداشت‌ها"
+
+msgid "Convert Text to Table"
+msgstr "تبدیل متن به جدول"
+
+msgid "Convert Text to Table…"
+msgstr "تبدیل متن به جدول…"
+
+msgid "Convert to Shapes"
+msgstr "تبدیل به شکل‌ها"
+
+msgid "Convert to Text"
+msgstr "تبدیل به متن"
+
+msgid "Coproduct"
+msgstr "هم‌ضرب"
+
+msgid "Coproduct with Limits"
+msgstr "هم‌ضرب با حدود"
+
+msgid "Coproduct with Lower Limit"
+msgstr "هم‌ضرب با حد پایین"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "هم‌ضرب با حدود زیرنویس-بالانویس"
+
+msgid "Copy Formatting"
+msgstr "رونوشت قالب‌بندی"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "رونوشتی از متنی که نشانک علامت‌گذاری می‌کند"
+
+msgid "Copy Styles"
+msgstr "رونوشت سبک‌ها"
+
+msgid "Copy to"
+msgstr "رونوشت به"
+
+msgid "Copyright Sign"
+msgstr "نماد حق مؤلف"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "اصلاح استفادهٔ تصادفی از کلید Caps Lock"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "اصلاح دو حرف بزرگ ابتدایی"
+
+msgid "Corrections"
+msgstr "اصلاحات"
+
+msgid "Cosecant Function"
+msgstr "تابع کسکانت"
+
+msgid "Cosine 2x"
+msgstr "کسینوس ۲x"
+
+msgid "Cosine Function"
+msgstr "تابع کسینوس"
+
+msgid "Costa Rica"
+msgstr "کاستاریکا"
+
+msgid "Cotangent Function"
+msgstr "تابع کتانژانت"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "دانلود {name} ناموفق بود: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "تعیین WordCraft به‌عنوان پیش‌فرض ناموفق بود: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "باز کردن {path} ناموفق بود: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "ذخیرهٔ {name} ناموفق بود، بنابراین هنوز باز است و چیزی از دست نرفت: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "شمارش بر پایهٔ:"
+
+msgid "Count words in text boxes and notes"
+msgstr "شمارش واژه‌ها در جعبه‌های متن و یادداشت‌ها"
+
+msgid "Courtesy Title"
+msgstr "لقب"
+
+msgid "Cover Page"
+msgstr "صفحهٔ جلد"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "ساختن سبک"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "یک طرح کلی تعاملی از سند خود بسازید.\n\nراه خوبی است برای پیگیری جایگاه‌تان یا جابه‌جایی سریع محتوای‌تان.\n\nبرای شروع، به زبانهٔ Home بروید و سبک‌های سرتیتر را به سرتیترهای سند اعمال کنید."
+
+msgid "Create Graphic"
+msgstr "ساختن نگاره"
+
+msgid "Create Link"
+msgstr "ساختن پیوند"
+
+msgid "Create New Style"
+msgstr "ساختن سبک جدید"
+
+msgid "Create Source"
+msgstr "ساختن منبع"
+
+msgid "Croatian"
+msgstr "کروات"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "برش روی صفحه فقط روی تصاویر چرخش‌نیافته کار می‌کند: نخست چرخش را روی ۰° بگذارید، یا از کادرهای برش استفاده کنید"
+
+msgid "Cross-reference"
+msgstr "ارجاع متقابل"
+
+msgid "Cross-reference:"
+msgstr "ارجاع متقابل:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "کوبا"
+
+msgid "Cube Root"
+msgstr "ریشهٔ سوم"
+
+msgid "Current - Linear"
+msgstr "جاری - خطی"
+
+msgid "Current - Professional"
+msgstr "جاری - حرفه‌ای"
+
+msgid "Current Document"
+msgstr "سند جاری"
+
+msgid "Current Position"
+msgstr "موقعیت جاری"
+
+msgid "Current record"
+msgstr "رکورد جاری"
+
+msgid "Current style: {style}"
+msgstr "سبک جاری: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "رابط فلش‌دار خمیده"
+
+msgid "Curved Connector"
+msgstr "رابط خمیده"
+
+msgid "Custom dictionary"
+msgstr "واژه‌نامهٔ سفارشی"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "حاشیه‌های سفارشی…"
+
+msgid "Custom mark:"
+msgstr "نشان سفارشی:"
+
+msgid "Custom range"
+msgstr "محدودهٔ سفارشی"
+
+msgid "Custom size"
+msgstr "اندازهٔ سفارشی"
+
+msgid "Custom Table of Contents…"
+msgstr "فهرست مطالب سفارشی…"
+
+msgid "Custom Watermark"
+msgstr "واترمارک سفارشی"
+
+msgid "Custom Watermark…"
+msgstr "واترمارک سفارشی…"
+
+msgid "Customize"
+msgstr "سفارشی‌سازی"
+
+msgid "Customize Keyboard"
+msgstr "سفارشی‌سازی صفحه‌کلید"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "سفارشی‌سازی نوارابزار دسترسی سریع"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "سفارشی‌سازی نوارابزار دسترسی سریع…"
+
+msgid "Customize Ribbon"
+msgstr "سفارشی‌سازی روبان"
+
+msgid "Customize the Ribbon…"
+msgstr "سفارشی‌سازی روبان…"
+
+msgid "Cycle"
+msgstr "چرخه"
+
+msgid "Cyprus"
+msgstr "قبرس"
+
+msgid "Czech"
+msgstr "چکی"
+
+msgid "Danish"
+msgstr "دانمارکی"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "حالت تیره"
+
+msgid "Dark page (white text on black)"
+msgstr "صفحهٔ تیره (متن سفید روی سیاه)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "تنوع‌های تیره"
+
+msgid "Dark with Shadow"
+msgstr "تیره با سایه"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "تیره‌تر −۲۰٪"
+
+msgid "Darkroom"
+msgstr "تاریک‌خانه"
+
+msgid "Data Labels"
+msgstr "برچسب‌های داده"
+
+msgid "Date & Time"
+msgstr "تاریخ و ساعت"
+
+msgid "Date formats:"
+msgstr "قالب‌های تاریخ:"
+
+msgid "Date Picker Content Control"
+msgstr "کنترل محتوای انتخابگر تاریخ"
+
+msgid "Day"
+msgstr "روز"
+
+msgid "Decimal"
+msgstr "اعشاری"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "اشیای تزئینی فقط جذابیت بصری می‌افزایند: صفحه‌خوان‌ها از آن‌ها می‌گذرند."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "کاهش تورفتگی"
+
+msgid "Deep"
+msgstr "عمیق"
+
+msgid "Default formatting"
+msgstr ""
+
+msgid "Default Paragraph Font"
+msgstr "قلم پیش‌فرض پاراگراف"
+
+msgid "Default tab stops:"
+msgstr "ایستگاه‌های تب پیش‌فرض:"
+
+msgid "Define New Bullet"
+msgstr "تعریف گلولهٔ جدید"
+
+msgid "Define New Multilevel List"
+msgstr "تعریف فهرست چندسطحی جدید"
+
+msgid "Define New Multilevel List…"
+msgstr "تعریف فهرست چندسطحی جدید…"
+
+msgid "Define New Number Format"
+msgstr "تعریف قالب شمارهٔ جدید"
+
+msgid "Deflate"
+msgstr "تُخلیه"
+
+msgid "Delete Around Caret in Equation"
+msgstr "حذف پیرامون نشانگر در معادله"
+
+msgid "Delete Back in Equation"
+msgstr "حذف به عقب در معادله"
+
+msgid "Delete Bookmark"
+msgstr "حذف نشانک"
+
+msgid "Delete Cells"
+msgstr "حذف خانه‌ها"
+
+msgid "Delete Clipboard Item"
+msgstr "حذف مورد کلیپ‌بورد"
+
+msgid "Delete Columns"
+msgstr "حذف ستون‌ها"
+
+msgid "Delete Comment"
+msgstr "حذف نظر"
+
+msgid "Delete in Equation"
+msgstr "حذف در معادله"
+
+msgid "Delete Label"
+msgstr "حذف برچسب"
+
+msgid "Delete Next Word"
+msgstr "حذف واژهٔ بعدی"
+
+msgid "Delete Previous Word"
+msgstr "حذف واژهٔ پیشین"
+
+msgid "Delete Rows"
+msgstr "حذف سطرها"
+
+msgid "Delete Selected Ink"
+msgstr "حذف جوهر انتخاب‌شده"
+
+msgid "Delete Table"
+msgstr "حذف جدول"
+
+msgid "Delete Table Style"
+msgstr "حذف سبک جدول"
+
+msgid "Deletions:"
+msgstr "حذف‌ها:"
+
+msgid "Delivery address:"
+msgstr "نشانی تحویل:"
+
+msgid "Delta Equal To"
+msgstr "دلتا مساوی با"
+
+msgid "Delta over arrow"
+msgstr "دلتا روی فلش"
+
+msgid "Demote"
+msgstr "تنزل"
+
+msgid "Demote to Body Text"
+msgstr "تنزل به متن بدنه"
+
+msgid "Derivative as a limit"
+msgstr "مشتق به‌صورت حد"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "بنویسید این شیء چه چیزی را نشان می‌دهد، برای کسانی که نمی‌توانند آن را ببینند."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "بنویسید این جدول چه چیزی را نشان می‌دهد، برای کسانی که نمی‌توانند آن را ببینند."
+
+msgid "Design"
+msgstr "طراحی"
+
+msgid "Design Mode"
+msgstr "حالت طراحی"
+
+msgid "Detach Template"
+msgstr "جداکردن قالب"
+
+msgid "Detect language automatically"
+msgstr "تشخیص خودکار زبان"
+
+msgid "Developer"
+msgstr "توسعه‌دهنده"
+
+msgid "development build"
+msgstr "ساخت توسعه"
+
+msgid "Diagonal Dots"
+msgstr "نقطه‌های مورب"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "دیکته"
+
+msgid "Dictionaries"
+msgstr "واژه‌نامه‌ها"
+
+msgid "Dictionaries folder:"
+msgstr "پوشهٔ واژه‌نامه‌ها:"
+
+msgid "Dictionary files"
+msgstr "پرونده‌های واژه‌نامه"
+
+msgid "Different First Page"
+msgstr "صفحهٔ اول متفاوت"
+
+msgid "Different Odd & Even Pages"
+msgstr "صفحه‌های فرد و زوج متفاوت"
+
+msgid "Differential"
+msgstr "دیفرانسیل"
+
+msgid "Differential theta"
+msgstr "دیفرانسیل تتا"
+
+msgid "Differential x"
+msgstr "دیفرانسیل x"
+
+msgid "Differential y"
+msgstr "دیفرانسیل y"
+
+msgid "Differentials"
+msgstr "دیفرانسیل‌ها"
+
+msgid "Direct formatting"
+msgstr "قالب‌بندی مستقیم"
+
+msgid "Directory"
+msgstr "پوشه"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "نسخهٔ بازیابی {name} دور انداخته شود؟"
+
+msgid "Discard…"
+msgstr "دور انداختن…"
+
+msgid "Discord community"
+msgstr "انجمن Discord"
+
+msgid "Display for Review"
+msgstr "نمایش برای مرور"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "متن نمایش"
+
+msgid "Distance from text"
+msgstr "فاصله از متن"
+
+msgid "Distance from text:"
+msgstr "فاصله از متن:"
+
+msgid "Distribute Columns"
+msgstr "توزیع ستون‌ها"
+
+msgid "Distribute letters"
+msgstr "توزیع حروف"
+
+msgid "Distribute Rows"
+msgstr "توزیع سطرها"
+
+msgid "Distribute spacing"
+msgstr "توزیع فاصله‌گذاری"
+
+msgid "Distributed"
+msgstr "توزیع‌شده"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "املا یا دستور را بررسی نکن"
+
+msgid "Do not check spelling or grammar"
+msgstr "املا یا دستور را بررسی نکن"
+
+msgid "DO NOT COPY"
+msgstr "تکثیر نکنید"
+
+msgid "Do Not Show in TOC"
+msgstr "در فهرست مطالب نشان نده"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "می‌خواهید تغییرات {name} ذخیره شود؟"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "پایان سند"
+
+msgid "Document Formatting"
+msgstr "قالب‌بندی سند"
+
+msgid "Document Grid"
+msgstr "شبکهٔ سند"
+
+msgid "Document Information"
+msgstr "اطلاعات سند"
+
+msgid "Document name"
+msgstr "نام سند"
+
+msgid "Document Property"
+msgstr "ویژگی سند"
+
+msgid "Document Start"
+msgstr "آغاز سند"
+
+msgid "Document template:"
+msgstr "قالب سند:"
+
+msgid "Document Text"
+msgstr "متن سند"
+
+msgid "Document1"
+msgstr "Document1"
+
+msgid "Document\nPreferences"
+msgstr "تنظیمات\nسند"
+
+msgid "Documents you open will show up here."
+msgstr "سندهایی که باز می‌کنید اینجا نمایش داده می‌شوند."
+
+msgid "Does not contain"
+msgstr "شامل نمی‌شود"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "جمهوری دومینیکن"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "میان پاراگراف‌های با سبک یکسان فاصله اضافه نکن"
+
+msgid "Don't capitalize after:"
+msgstr "بزرگ نکن پس از:"
+
+msgid "Don't hyphenate"
+msgstr "خط‌تیره نکن"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "ارجاع‌ها و کتاب‌نامه‌های Zotero، Mendeley یا EndNote را نخوان"
+
+msgid "Don't show me this tip again"
+msgstr ""
+
+msgid "Dot dash"
+msgstr "نقطه خط‌تیره"
+
+msgid "Dot-dash"
+msgstr "نقطه-خط‌تیره"
+
+msgid "Dot-dot-dash"
+msgstr "نقطه-نقطه-خط‌تیره"
+
+msgid "Double"
+msgstr "دوخط"
+
+msgid "Double Bar"
+msgstr "دو خط عمودی"
+
+msgid "Double Closing Quote"
+msgstr "گیومهٔ بستهٔ دوتایی"
+
+msgid "Double Dot"
+msgstr "دو نقطه"
+
+msgid "Double Integral"
+msgstr "انتگرال دوگانه"
+
+msgid "Double Integral with Limits"
+msgstr "انتگرال دوگانه با حدود"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "انتگرال دوگانه با حدود انباشته"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "فلش دوتایی چپ با متن در بالا"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "فلش دوتایی چپ با متن در پایین"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "فلش دوتایی چپ-راست با متن در بالا"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "فلش دوتایی چپ-راست با متن در پایین"
+
+msgid "Double Opening Quote"
+msgstr "گیومهٔ باز دوتایی"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "فلش دوتایی راست با متن در بالا"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "فلش دوتایی راست با متن در پایین"
+
+msgid "Double Spacing"
+msgstr "فاصلهٔ خط دوبرابر"
+
+msgid "Double Square Brackets"
+msgstr "دو کروشهٔ مربعی"
+
+msgid "Double Strikethrough"
+msgstr "خط‌خوردهٔ دوگانه"
+
+msgid "Double strikethrough"
+msgstr "خط‌خوردهٔ دوگانه"
+
+msgid "Double summation"
+msgstr "جمع دوگانه"
+
+msgid "Double Underline"
+msgstr "زیرخط دوگانه"
+
+msgid "Double Vertical Bars"
+msgstr "دو میلهٔ عمودی"
+
+msgid "Doughnut"
+msgstr "دونات"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "بارگیری خاموش است. با کلیک روی «افزودن زبان…» یا «نصب» روشن می‌شود: آن‌گاه WordCraft بسته‌های زبان و قلم‌ها را از GitHub بارگیری می‌کند."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "پیش‌نویس"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "برای کشیدن جدول یک مستطیل بکشید، یا برای تقسیم خانه‌ها خطی روی آن‌ها بکشید. Esc توقف می‌دهد."
+
+msgid "Draw Ink"
+msgstr "ترسیم جوهر"
+
+msgid "Draw Table"
+msgstr "ترسیم جدول"
+
+msgid "Draw\nTable"
+msgstr "ترسیم\nجدول"
+
+msgid "Drawing Canvas"
+msgstr "بوم ترسیم"
+
+msgid "Drawing Tools"
+msgstr "ابزارهای ترسیم"
+
+msgid "Drawing\nCanvas"
+msgstr "بوم\nترسیم"
+
+msgid "Drop Cap"
+msgstr "حرف افتاده"
+
+msgid "Drop cap"
+msgstr "حرف افتاده"
+
+msgid "Drop Cap Options…"
+msgstr "گزینه‌های حرف افتاده…"
+
+msgid "drop caps can't go in a table"
+msgstr "حروف افتاده نمی‌توانند در جدول قرار گیرند"
+
+msgid "Drop-Down List Content Control"
+msgstr "کنترل محتوای فهرست بازشو"
+
+msgid "Dropped"
+msgstr "افتاده"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "همهٔ قالب‌بندی را رها می‌کند و متن ساده می‌چسباند."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "هلندی، Nederlands یا nl"
+
+msgid "E-mail Messages"
+msgstr "پیام‌های ایمیل"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "اکوادور"
+
+msgid "Edit Comment"
+msgstr "ویرایش نظر"
+
+msgid "Edit Data"
+msgstr "ویرایش داده"
+
+msgid "Edit Document"
+msgstr "ویرایش سند"
+
+msgid "Edit Equation"
+msgstr "ویرایش معادله"
+
+msgid "Edit Field Code"
+msgstr "ویرایش کد فیلد"
+
+msgid "Edit Field…"
+msgstr "ویرایش فیلد…"
+
+msgid "Edit Footer"
+msgstr "ویرایش پاصفحه"
+
+msgid "Edit Header"
+msgstr "ویرایش سرصفحه"
+
+msgid "Edit Individual Documents…"
+msgstr "ویرایش سندهای تکی…"
+
+msgid "Edit Items"
+msgstr "ویرایش موارد"
+
+msgid "Edit Recipient List"
+msgstr "ویرایش فهرست گیرندگان"
+
+msgid "Edit Source"
+msgstr "ویرایش منبع"
+
+msgid "Edit\nData"
+msgstr "ویرایش\nداده"
+
+msgid "Edit\nRecipient List"
+msgstr "ویرایش\nفهرست گیرندگان"
+
+msgid "Edited"
+msgstr "ویرایش‌شده"
+
+msgid "Editing endnote"
+msgstr "ویرایش پانویس پایان"
+
+msgid "Editing footnote"
+msgstr "ویرایش پانویس"
+
+msgid "Editing header/footer"
+msgstr "ویرایش سرصفحه/پاصفحه"
+
+msgid "Editing in this document is restricted."
+msgstr "ویرایش در این سند محدود شده است."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "ویرایش — سند را مستقیم ویرایش کنید"
+
+msgid "Edition"
+msgstr "ویرایش"
+
+msgid "Editor"
+msgstr "ویرایشگر"
+
+msgid "Egypt"
+msgstr "مصر"
+
+msgid "El Salvador"
+msgstr "السالوادور"
+
+msgid "Elbow Arrow Connector"
+msgstr "رابط فلش‌دار آرنجی"
+
+msgid "Elbow Connector"
+msgstr "رابط آرنجی"
+
+msgid "Emphasis"
+msgstr "تأکید"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "ماتریس‌های خالی"
+
+msgid "Enclose Characters"
+msgstr "دربرگرفتن کاراکترها"
+
+msgid "Enclosure"
+msgstr "دربرگیرنده"
+
+msgid "Encrypt with Password"
+msgstr "رمزگذاری با گذرواژه"
+
+msgid "Encrypt with Password…"
+msgstr "رمزگذاری با گذرواژه…"
+
+msgid "End of document"
+msgstr "پایان سند"
+
+msgid "End of section"
+msgstr "پایان بخش"
+
+msgid "End of Word"
+msgstr "پایان کلمه"
+
+msgid "Endnote Reference"
+msgstr "ارجاع پانویس پایان"
+
+msgid "Endnote Text"
+msgstr "متن پانویس پایان"
+
+msgid "Endnotes"
+msgstr "پانویس‌های پایان"
+
+msgid "Endnotes to footnotes"
+msgstr "پانویس‌های پایان به پانویس‌ها"
+
+msgid "English (Australia)"
+msgstr "انگلیسی (استرالیا)"
+
+msgid "English (Canada)"
+msgstr "انگلیسی (کانادا)"
+
+msgid "English (India)"
+msgstr "انگلیسی (هند)"
+
+msgid "English (Ireland)"
+msgstr "انگلیسی (ایرلند)"
+
+msgid "English (New Zealand)"
+msgstr "انگلیسی (نیوزیلند)"
+
+msgid "English (South Africa)"
+msgstr "انگلیسی (آفریقای جنوبی)"
+
+msgid "English (United Kingdom)"
+msgstr "انگلیسی (بریتانیا)"
+
+msgid "English (United States)"
+msgstr "انگلیسی (ایالات متحده)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "انگلیسی، زبان‌های این سند و هر بستهٔ زبان نصب‌شده. بسته‌های زبان، واژه‌نامه‌های املا و قواعد جداسازی هجایی را اضافه می‌کنند."
+
+msgid "Engrave"
+msgstr "حکاکی"
+
+msgid "Enlarge symbol"
+msgstr "بزرگ‌کردن نماد"
+
+msgid "Enter a number."
+msgstr "یک عدد وارد کنید."
+
+msgid "Enter bookmark name:"
+msgstr "نام نشانک را وارد کنید:"
+
+msgid "Enter formatting for number:"
+msgstr "قالب‌بندی شماره را وارد کنید:"
+
+msgid "Enter in Equation"
+msgstr "Enter در معادله"
+
+msgid "Enter page number:"
+msgstr "شمارهٔ صفحه را وارد کنید:"
+
+msgid "Entire caption"
+msgstr "کل عنوان"
+
+msgid "Entry marked."
+msgstr "مدخل علامت‌گذاری شد."
+
+msgid "Envelope #10"
+msgstr "پاکت #۱۰"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "پاکت #۱۰   ۴٫۱۲\" × ۹٫۵۰\""
+
+msgid "Envelope Address"
+msgstr "نشانی پاکت"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "پاکت DL   ۴٫۳۳\" × ۸٫۶۶\""
+
+msgid "Envelope Return"
+msgstr "نشانی فرستندهٔ پاکت"
+
+msgid "Envelope size:"
+msgstr "اندازهٔ پاکت:"
+
+msgid "Envelopes"
+msgstr "پاکت‌ها"
+
+msgid "Equal by Definition"
+msgstr "مساوی طبق تعریف"
+
+msgid "Equal column width"
+msgstr "عرض برابر ستون"
+
+msgid "Equal Equal"
+msgstr "مساوی مساوی"
+
+msgid "Equal to"
+msgstr "مساوی با"
+
+msgid "Equals:"
+msgstr "مساوی:"
+
+msgid "Equation"
+msgstr "معادله"
+
+msgid "Equation Gallery"
+msgstr "گالری معادله"
+
+msgid "Equation Info"
+msgstr "اطلاعات معادله"
+
+msgid "Equation Number"
+msgstr "شمارهٔ معادله"
+
+msgid "Equation Options"
+msgstr "گزینه‌های معادله"
+
+msgid "Equatorial Guinea"
+msgstr "گینهٔ استوایی"
+
+msgid "Erase Ink"
+msgstr "پاک‌کردن جوهر"
+
+msgid "Errors ({n})"
+msgstr "خطاها ({n})"
+
+msgid "Esperanto"
+msgstr "اسپرانتو"
+
+msgid "Estonian"
+msgstr "استونیایی"
+
+msgid "Euler's identity"
+msgstr "اتحاد اویلر"
+
+msgid "Even Banded Columns"
+msgstr "ستون‌های نواری زوج"
+
+msgid "Even Banded Rows"
+msgstr "سطرهای نواری زوج"
+
+msgid "Even Page"
+msgstr "صفحهٔ زوج"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "هر تغییر به‌عنوان تغییر ردیابی‌شده ثبت می‌شود."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "هر فرمان برای اسکریپت‌ها و عامل‌های هوش مصنوعی در دسترس است: برای سرور MCP فرمان `wordcraft-cli mcp` را اجرا کنید، یا اپ را با `--control <port>` برای کانال کنترل JSON راه‌اندازی کنید."
+
+msgid "Every field needs a name."
+msgstr "هر فیلد به یک نام نیاز دارد."
+
+msgid "Everyone"
+msgstr "همه"
+
+msgid "Exactly"
+msgstr "دقیقاً"
+
+msgid "Exactly {n}"
+msgstr "دقیقاً {n}"
+
+msgid "Exceptions (optional)"
+msgstr "استثناها (اختیاری)"
+
+msgid "Exceptions…"
+msgstr "استثناها…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   ۷٫۲۵\" × ۱۰٫۵۰\""
+
+msgid "Existing File or Web Page"
+msgstr "فایل موجود یا صفحهٔ وب"
+
+msgid "Expand or Collapse Heading"
+msgstr "باز یا جمع‌کردن سرتیتر"
+
+msgid "Exponential"
+msgstr "نمایی"
+
+msgid "Exponential series"
+msgstr "سری نمایی"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "برون‌بری یک نسخه برای اشتراک (PDF، سند Word)"
+
+msgid "Export Page as PNG"
+msgstr "برون‌بری صفحه به‌صورت PNG"
+
+msgid "Extend Selection"
+msgstr "گسترش انتخاب"
+
+msgid "Extend Selection by Units"
+msgstr "گسترش انتخاب بر حسب واحدها"
+
+msgid "Extra space"
+msgstr "فاصلهٔ اضافی"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr ""
+
+msgid "Field code:"
+msgstr "کد فیلد:"
+
+msgid "Field Codes"
+msgstr "کدهای فیلد"
+
+msgid "Field codes:"
+msgstr "کدهای فیلد:"
+
+msgid "Field name"
+msgstr "نام فیلد"
+
+msgid "Field name:"
+msgstr "نام فیلد:"
+
+msgid "Field names must be different."
+msgstr "نام فیلدها باید متفاوت باشد."
+
+msgid "Field names:"
+msgstr "نام فیلدها:"
+
+msgid "Field:"
+msgstr "فیلد:"
+
+msgid "Field…"
+msgstr "فیلد…"
+
+msgid "Figure"
+msgstr "شکل"
+
+msgid "File locations"
+msgstr "مکان‌های فایل"
+
+msgid "File name:"
+msgstr "نام فایل:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "فایل › جدید قالب‌های .dotx و .dotm را اینجا زیر شخصی فهرست می‌کند؛ «ذخیره به‌عنوان قالب Word» از اینجا آغاز می‌شود."
+
+msgid "Fill color:"
+msgstr "رنگ پُرکننده:"
+
+msgid "Filling in forms"
+msgstr "پرکردن فرم‌ها"
+
+msgid "Film"
+msgstr "فیلم"
+
+msgid "Filter and Sort"
+msgstr "پالایش و مرتب‌سازی"
+
+msgid "Filter Recipients"
+msgstr "پالایش گیرندگان"
+
+msgid "Find in list:"
+msgstr "یافتن در فهرست:"
+
+msgid "Find Next Editable Region"
+msgstr "یافتن ناحیهٔ ویرایش‌پذیر بعدی"
+
+msgid "Find Previous"
+msgstr "یافتن پیشین"
+
+msgid "Find Recipient"
+msgstr "یافتن گیرنده"
+
+msgid "Find What Expression"
+msgstr "یافتن عبارت"
+
+msgid "Find What Text"
+msgstr "یافتن متن"
+
+msgid "Find what:"
+msgstr "یافتن چه:"
+
+msgid "Find “{text}” in the document"
+msgstr "یافتن «{text}» در سند"
+
+msgid "Finding printers…"
+msgstr "یافتن چاپگرها…"
+
+msgid "Finish & Merge"
+msgstr "پایان و ادغام"
+
+msgid "Finish &\nMerge"
+msgstr "پایان و\nادغام"
+
+msgid "Finished"
+msgstr "تمام‌شده"
+
+msgid "Finland"
+msgstr "فنلاند"
+
+msgid "Finnish"
+msgstr "فنلاندی"
+
+msgid "First Column"
+msgstr "ستون اول"
+
+msgid "First line"
+msgstr "خط اول"
+
+msgid "First line:"
+msgstr "خط اول:"
+
+msgid "First Name"
+msgstr "نام"
+
+msgid "First Record"
+msgstr "رکورد اول"
+
+msgid "First row of data contains column headers"
+msgstr "سطر اول داده شامل سرسطرهای ستون است"
+
+msgid "Fix Position on Page"
+msgstr "تثبیت موقعیت روی صفحه"
+
+msgid "Fixed Column Width"
+msgstr "عرض ثابت ستون"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "کف"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "پی‌آمدن شماره با:"
+
+msgid "Font Color"
+msgstr "رنگ قلم"
+
+msgid "Font color"
+msgstr "رنگ قلم"
+
+msgid "Font color:"
+msgstr "رنگ قلم:"
+
+msgid "Font Dialog"
+msgstr "گفت‌وگوی قلم"
+
+msgid "Font: {font}"
+msgstr "قلم: {font}"
+
+msgid "Font…"
+msgstr "قلم…"
+
+msgid "Footer"
+msgstr "پاصفحه"
+
+msgid "Footnote and Endnote"
+msgstr "پانویس و پانویس پایان"
+
+msgid "Footnote Reference"
+msgstr "ارجاع پانویس"
+
+msgid "Footnote Text"
+msgstr "متن پانویس"
+
+msgid "Footnotes"
+msgstr "پانویس‌ها"
+
+msgid "Footnotes and endnotes"
+msgstr "پانویس‌ها و پانویس‌های پایان"
+
+msgid "Footnotes to endnotes"
+msgstr "پانویس‌ها به پانویس‌های پایان"
+
+msgid "For which item:"
+msgstr "برای کدام مورد:"
+
+msgid "Format Page Numbers"
+msgstr "قالب‌بندی شماره‌های صفحه"
+
+msgid "Format Page Numbers…"
+msgstr "قالب‌بندی شماره‌های صفحه…"
+
+msgid "Format Painter"
+msgstr "نقاش قالب"
+
+msgid "Format Shape"
+msgstr "قالب‌بندی شکل"
+
+msgid "Format Shape Pane"
+msgstr "پنجرهٔ قالب‌بندی شکل"
+
+msgid "Format Shape…"
+msgstr "قالب‌بندی شکل…"
+
+msgid "Formatted"
+msgstr "قالب‌بندی‌شده"
+
+msgid "Formatted Text"
+msgstr "متن قالب‌بندی‌شده"
+
+msgid "Formatting"
+msgstr "قالب‌بندی"
+
+msgid "Formatting at Selection"
+msgstr "قالب‌بندی در انتخاب"
+
+msgid "Formatting exceptions"
+msgstr "استثناهای قالب‌بندی"
+
+msgid "Formatting marks"
+msgstr "نشانه‌های قالب‌بندی"
+
+msgid "Formatting saved for new documents:"
+msgstr ""
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "قالب‌بندی، تغییرات حالت حروف، فضای خالی و جدول‌ها مقایسه می‌شوند؛ تنظیمات دیگر برای بعد نگه داشته می‌شوند."
+
+msgid "Formula"
+msgstr "فرمول"
+
+msgid "Formula:"
+msgstr "فرمول:"
+
+msgid "Forward"
+msgstr "جلو"
+
+msgid "Fraction"
+msgstr "کسر"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "کسرها (1/2) به‌صورت کاراکتر کسر (½)"
+
+msgid "Frames and effects"
+msgstr "قاب‌ها و جلوه‌ها"
+
+msgid "France"
+msgstr "فرانسه"
+
+msgid "French (France)"
+msgstr "فرانسوی (فرانسه)"
+
+msgid "From Bottom Left Corner"
+msgstr "از گوشهٔ پایین چپ"
+
+msgid "From Bottom Right Corner"
+msgstr "از گوشهٔ پایین راست"
+
+msgid "From Center"
+msgstr "از مرکز"
+
+msgid "From text:"
+msgstr "از متن:"
+
+msgid "From Top Left Corner"
+msgstr "از گوشهٔ بالا چپ"
+
+msgid "From Top Right Corner"
+msgstr "از گوشهٔ بالا راست"
+
+msgid "from Unicode (hex)"
+msgstr "از Unicode (مبنای ۱۶)"
+
+msgid "From {name}"
+msgstr ""
+
+msgid "From:"
+msgstr "از:"
+
+msgid "Full page of the same label"
+msgstr "صفحهٔ کامل از برچسب یکسان"
+
+msgid "Full Saturation 100%"
+msgstr "اشباع کامل ۱۰۰٪"
+
+msgid "Full Screen View"
+msgstr "نمای تمام‌صفحه"
+
+msgid "Full\nScreen"
+msgstr "تمام‌\nصفحه"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr ""
+
+msgid "Function"
+msgstr "تابع"
+
+msgid "Galician"
+msgstr "گالیسیایی"
+
+msgid "Gallery"
+msgstr "گالری"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "گرجی"
+
+msgid "German (Germany)"
+msgstr "آلمانی (آلمان)"
+
+msgid "Germany"
+msgstr "آلمان"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "فهرست بسته‌های زبان و سپس بستهٔ این زبان را، اگر وجود داشته باشد، می‌گیرد."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "رنگ‌های درخشش"
+
+msgid "Go Back"
+msgstr "بازگشت"
+
+msgid "Go To"
+msgstr "رفتن به"
+
+msgid "Go to"
+msgstr "رفتن به"
+
+msgid "Go To (⌘⌥G)"
+msgstr "رفتن به (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "رفتن به رکورد"
+
+msgid "Go to what:"
+msgstr "رفتن به چه:"
+
+msgid "Go To…"
+msgstr "رفتن به…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr ""
+
+msgid "Good afternoon"
+msgstr "عصر بخیر"
+
+msgid "Good evening"
+msgstr "شب بخیر"
+
+msgid "Good morning"
+msgstr "صبح بخیر"
+
+msgid "GOST (name sort)"
+msgstr "GOST (مرتب‌سازی نام)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (مرتب‌سازی عنوان)"
+
+msgid "Grab bag"
+msgstr "کیسهٔ برگزیده"
+
+msgid "Gradient fill"
+msgstr "پُرکنندهٔ گرادیان"
+
+msgid "Gradient stops"
+msgstr "ایستگاه‌های گرادیان"
+
+msgid "Grammar built in"
+msgstr "دستور زبان داخلی"
+
+msgid "Grave"
+msgstr "گراو"
+
+msgid "Gray 0%"
+msgstr "خاکستری ۰٪"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "بزرگ‌تر از"
+
+msgid "Greater than or equal"
+msgstr "بزرگ‌تر یا مساوی"
+
+msgid "Greek"
+msgstr "یونانی"
+
+msgid "Greek Letters"
+msgstr "حروف یونانی"
+
+msgid "Green:"
+msgstr "سبز:"
+
+msgid "Greeting Line"
+msgstr "خط خوشامد"
+
+msgid "Greeting\nLine"
+msgstr "خط\nخوشامد"
+
+msgid "Grid Table 1 Light"
+msgstr "جدول شبکه‌ای ۱ روشن"
+
+msgid "Grid Table 4 – Blue"
+msgstr "جدول شبکه‌ای ۴ – آبی"
+
+msgid "Grid Table 4 – Green"
+msgstr "جدول شبکه‌ای ۴ – سبز"
+
+msgid "Grid Table 4 – Orange"
+msgstr "جدول شبکه‌ای ۴ – نارنجی"
+
+msgid "Grid Table 4 – Purple"
+msgstr "جدول شبکه‌ای ۴ – بنفش"
+
+msgid "Gridlines"
+msgstr "خطوط شبکه"
+
+msgid "Grouping Character Above"
+msgstr "کاراکتر گروه‌بندی در بالا"
+
+msgid "Grouping Character Below"
+msgstr "کاراکتر گروه‌بندی در پایین"
+
+msgid "Grow Font 1 Point"
+msgstr "بزرگ‌کردن قلم ۱ نقطه"
+
+msgid "Guatemala"
+msgstr "گواتمالا"
+
+msgid "H:"
+msgstr "H:"
+
+msgid "Hanging Indent"
+msgstr "تورفتگی آویزان"
+
+msgid "Harvard (Anglia)"
+msgstr "هاروارد (آنگلیا)"
+
+msgid "Hat"
+msgstr "کلاه"
+
+msgid "Header"
+msgstr "سرصفحه"
+
+msgid "Header & Footer"
+msgstr "سرصفحه و پاصفحه"
+
+msgid "Header Row"
+msgstr "سطر سرصفحه"
+
+msgid "Header row"
+msgstr "سطر سرصفحه"
+
+msgid "Header/Footer Position"
+msgstr "موقعیت سرصفحه/پاصفحه"
+
+msgid "Headers and footers"
+msgstr "سرصفحه‌ها و پاصفحه‌ها"
+
+msgid "Heading"
+msgstr "سرتیتر"
+
+msgid "Heading 1"
+msgstr "سرتیتر ۱"
+
+msgid "Heading 2"
+msgstr "سرتیتر ۲"
+
+msgid "Heading 3"
+msgstr "سرتیتر ۳"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "سبک‌های سرتیتر (سطوح ۱–{n})"
+
+msgid "Heading text"
+msgstr "متن سرتیتر"
+
+msgid "Heading {n}"
+msgstr "سرتیتر {n}"
+
+msgid "Hebrew"
+msgstr "عبری"
+
+msgid "Hex:"
+msgstr "مبنای ۱۶:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr ""
+
+msgid "Hidden bookmarks"
+msgstr "نشانک‌های پنهان"
+
+msgid "Hide Codes"
+msgstr "پنهان‌کردن کدها"
+
+msgid "Hide from style lists"
+msgstr "پنهان‌کردن از فهرست‌های سبک"
+
+msgid "Hide Ink"
+msgstr "پنهان‌کردن جوهر"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "پنهان‌کردن نوارابزار دسترسی سریع"
+
+msgid "Hide White Space"
+msgstr "پنهان‌کردن فضای خالی"
+
+msgid "Hide\nInk"
+msgstr "پنهان‌کردن\nجوهر"
+
+msgid "Hierarchy"
+msgstr "سلسله‌مراتب"
+
+msgid "Highlight"
+msgstr "برجسته‌سازی"
+
+msgid "Highlight Merge Fields"
+msgstr "برجسته‌سازی فیلدهای ادغام"
+
+msgid "Highlight\nMerge Fields"
+msgstr "برجسته‌سازی\nفیلدهای ادغام"
+
+msgid "Highlighter"
+msgstr "ماژیک"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "هندی"
+
+msgid "Home folder"
+msgstr "پوشهٔ خانه"
+
+msgid "Honduras"
+msgstr "هندوراس"
+
+msgid "Hong Kong SAR"
+msgstr "منطقهٔ ویژهٔ اداری هنگ‌کنگ"
+
+msgid "Horizontal Line"
+msgstr "خط افقی"
+
+msgid "How many pages the whole document has"
+msgstr "شمار صفحه‌های کل سند"
+
+msgid "How many pages this section has"
+msgstr "شمار صفحه‌های این بخش"
+
+msgid "How many words the document holds"
+msgstr "شمار واژه‌های سند"
+
+msgid "HTML Format"
+msgstr "قالب HTML"
+
+msgid "Hue:"
+msgstr "فام:"
+
+msgid "Hungarian"
+msgstr "مجاری"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "فایل‌های .aff و .dic هان‌اسپل اینجا (pl_PL، pt_BR، it_IT، hr_HR، tr_TR) پیش از فایل‌های سیستم استفاده می‌شوند."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "تابع کسکانت هذلولوی"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "تابع کسینوس هذلولوی"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "تابع کتانژانت هذلولوی"
+
+msgid "Hyperbolic Functions"
+msgstr "توابع هذلولوی"
+
+msgid "Hyperbolic Secant Function"
+msgstr "تابع سکانت هذلولوی"
+
+msgid "Hyperbolic Sine Function"
+msgstr "تابع سینوس هذلولوی"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "تابع تانژانت هذلولوی"
+
+msgid "Hyperlink"
+msgstr "پیوند"
+
+msgid "Hyphenate at:"
+msgstr "خط‌تیره در:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "خط‌تیره‌گذاری واژه‌های با حروف بزرگ"
+
+msgid "Hyphenation Options…"
+msgstr "گزینه‌های خط‌تیره‌گذاری…"
+
+msgid "Hyphenation zone:"
+msgstr "ناحیهٔ خط‌تیره‌گذاری:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "خط‌تیره‌ها (--) به‌صورت خط بلند (—)"
+
+msgid "Hypotenuse"
+msgstr "وتر"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr ""
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr ""
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "ایسلندی"
+
+msgid "Icon Color"
+msgstr "رنگ نماد"
+
+msgid "Icons"
+msgstr "نمادها"
+
+msgid "Identity Matrices"
+msgstr "ماتریس‌های همانی"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "اگر…آنگاه…وگرنه"
+
+msgid "If…Then…Else…"
+msgstr "اگر…آنگاه…وگرنه…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "نادیده‌گرفتن کاراکترهای نشانه‌گذاری"
+
+msgid "Ignore web and file addresses"
+msgstr "نادیده‌گرفتن نشانی‌های وب و فایل"
+
+msgid "Ignore white-space characters"
+msgstr "نادیده‌گرفتن کاراکترهای فضای خالی"
+
+msgid "Ignore words in capitals"
+msgstr "نادیده‌گرفتن واژه‌های با حروف بزرگ"
+
+msgid "Ignore words with numbers"
+msgstr "نادیده‌گرفتن واژه‌های دارای عدد"
+
+msgid "Illustrations"
+msgstr "تصویرسازی‌ها"
+
+msgid "Immersive"
+msgstr "غوطه‌ور"
+
+msgid "Immersive Reader"
+msgstr "خوانندهٔ غوطه‌ور"
+
+msgid "Immersive\nReader"
+msgstr "خوانندهٔ\nغوطه‌ور"
+
+msgid "Imported 1 source"
+msgstr "۱ منبع درون‌ریزی شد"
+
+msgid "Imported {n} sources"
+msgstr "{n} منبع درون‌ریزی شد"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "در «اپ‌های پیش‌فرض»، برای انواع سندی که می‌خواهید WordCraft باز کند آن را انتخاب کنید."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "در معادله‌ها، تایپ نام پس از بک‌اسلش آن را با نمادش جایگزین می‌کند."
+
+msgid "In Front of Text"
+msgstr "جلوتر از متن"
+
+msgid "In Line with Text"
+msgstr "هم‌خط با متن"
+
+msgid "In margin"
+msgstr "در حاشیه"
+
+msgid "In the margin"
+msgstr "در حاشیه"
+
+msgid "Include label and number"
+msgstr "دربرگرفتن برچسب و شماره"
+
+msgid "Include level number from:"
+msgstr "دربرگرفتن شمارهٔ سطح از:"
+
+msgid "Include page numbers"
+msgstr "دربرگرفتن شماره‌های صفحه"
+
+msgid "Increase Indent"
+msgstr "افزایش تورفتگی"
+
+msgid "Indent"
+msgstr "تورفتگی"
+
+msgid "Indent from left:"
+msgstr "تورفتگی از چپ:"
+
+msgid "Indentation"
+msgstr "تورفتگی"
+
+msgid "Indented"
+msgstr "تورفته"
+
+msgid "Indents"
+msgstr "تورفتگی‌ها"
+
+msgid "Indents and Spacing"
+msgstr "تورفتگی‌ها و فاصله‌گذاری"
+
+msgid "Index and Tables"
+msgstr "نمایه و جدول‌ها"
+
+msgid "Index Heading"
+msgstr "سرتیتر نمایه"
+
+msgid "Index {n}"
+msgstr "نمایه {n}"
+
+msgid "India"
+msgstr "هند"
+
+msgid "Indonesian"
+msgstr "اندونزیایی"
+
+msgid "Initial column width:"
+msgstr "عرض اولیهٔ ستون:"
+
+msgid "Initials:"
+msgstr "حروف ابتدایی:"
+
+msgid "Ink"
+msgstr "جوهر"
+
+msgid "Ink Replay"
+msgstr "پخش دوبارهٔ جوهر"
+
+msgid "Ink to Shape"
+msgstr "جوهر به شکل"
+
+msgid "Ink to\nMath"
+msgstr "جوهر به\nریاضی"
+
+msgid "Ink to\nShape"
+msgstr "جوهر به\nشکل"
+
+msgid "Ink\nReplay"
+msgstr "پخش دوبارهٔ\nجوهر"
+
+msgid "Inline"
+msgstr "درون‌خطی"
+
+msgid "Input Format"
+msgstr "قالب ورودی"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "درج معادلهٔ جدید (Alt+=)"
+
+msgid "Insert Above"
+msgstr "درج در بالا"
+
+msgid "Insert Below"
+msgstr "درج در پایین"
+
+msgid "Insert Caption"
+msgstr "درج عنوان"
+
+msgid "Insert Caption…"
+msgstr "درج عنوان…"
+
+msgid "Insert Chart"
+msgstr "درج نمودار"
+
+msgid "Insert Citation"
+msgstr "درج ارجاع"
+
+msgid "Insert Columns to the Left"
+msgstr "درج ستون‌ها در چپ"
+
+msgid "Insert Columns to the Right"
+msgstr "درج ستون‌ها در راست"
+
+msgid "Insert Date Field"
+msgstr "درج فیلد تاریخ"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "درج پانویس پایان"
+
+msgid "Insert Footnote"
+msgstr "درج پانویس"
+
+msgid "Insert Hyperlink"
+msgstr "درج پیوند"
+
+msgid "Insert Index"
+msgstr "درج نمایه"
+
+msgid "Insert Left"
+msgstr "درج در چپ"
+
+msgid "Insert Merge Field"
+msgstr "درج فیلد ادغام"
+
+msgid "Insert Merge\nField"
+msgstr "درج فیلد\nادغام"
+
+msgid "Insert New Equation"
+msgstr "درج معادلهٔ جدید"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "بسته به مقدار یک فیلد، یکی از دو متن را درج می‌کند."
+
+msgid "Insert Page Field"
+msgstr "درج فیلد صفحه"
+
+msgid "Insert reference to:"
+msgstr "درج ارجاع به:"
+
+msgid "Insert Right"
+msgstr "درج در راست"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "درج سطر یا ستون با کلیک"
+
+msgid "Insert Rows Above"
+msgstr "درج سطرها در بالا"
+
+msgid "Insert Rows Below"
+msgstr "درج سطرها در پایین"
+
+msgid "Insert Shapes"
+msgstr "درج شکل‌ها"
+
+msgid "Insert SmartArt"
+msgstr "درج SmartArt"
+
+msgid "Insert Spike"
+msgstr "درج به واژه‌بانک"
+
+msgid "Insert Structure"
+msgstr "درج ساختار"
+
+msgid "Insert Symbol"
+msgstr "درج نماد"
+
+msgid "Insert Table"
+msgstr "درج جدول"
+
+msgid "Insert Table of Authorities"
+msgstr "درج جدول مراجع"
+
+msgid "Insert Table of Figures"
+msgstr "درج جدول شکل‌ها"
+
+msgid "Insert Table…"
+msgstr "درج جدول…"
+
+msgid "Insert Time Field"
+msgstr "درج فیلد زمان"
+
+msgid "Insert\nAbove"
+msgstr "درج در\nبالا"
+
+msgid "Insert\nCaption"
+msgstr "درج\nعنوان"
+
+msgid "Insert\nCitation"
+msgstr "درج\nارجاع"
+
+msgid "Insert\nFootnote"
+msgstr "درج\nپانویس"
+
+msgid "Insertions and Deletions"
+msgstr "درج‌ها و حذف‌ها"
+
+msgid "Insertions:"
+msgstr "درج‌ها:"
+
+msgid "Inside Borders"
+msgstr "حاشیه‌های داخلی"
+
+msgid "Inside Horizontal Border"
+msgstr "حاشیهٔ افقی داخلی"
+
+msgid "Inside Vertical Border"
+msgstr "حاشیهٔ عمودی داخلی"
+
+msgid "Inside:"
+msgstr "داخل:"
+
+msgid "Inspect Styles at Selection"
+msgstr "بررسی سبک‌ها در انتخاب"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "نصب املا ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "نهاد"
+
+msgid "Integral"
+msgstr "انتگرال"
+
+msgid "Integral of e^(−x²)"
+msgstr "انتگرال e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "انتگرال با حدود"
+
+msgid "Integral with Stacked Limits"
+msgstr "انتگرال با حدود انباشته"
+
+msgid "Integrals"
+msgstr "انتگرال‌ها"
+
+msgid "Intense Emphasis"
+msgstr "تأکید شدید"
+
+msgid "Intense Quote"
+msgstr "نقل قول شدید"
+
+msgid "Intense Reference"
+msgstr "ارجاع شدید"
+
+msgid "Interface language:"
+msgstr "زبان رابط:"
+
+msgid "Interface size:"
+msgstr "اندازهٔ رابط:"
+
+msgid "Interface theme:"
+msgstr "پوستهٔ رابط:"
+
+msgid "Interface\nTheme"
+msgstr "پوستهٔ\nرابط"
+
+msgid "Internet addresses as links"
+msgstr "نشانی‌های اینترنتی به‌صورت پیوند"
+
+msgid "Intersection with Limits"
+msgstr "اشتراک با حدود"
+
+msgid "Intersection with Lower Limit"
+msgstr "اشتراک با حد پایین"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "اشتراک با حدود زیرنویس-بالانویس"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "تابع کسکانت معکوس"
+
+msgid "Inverse Cosine Function"
+msgstr "تابع کسینوس معکوس"
+
+msgid "Inverse Cotangent Function"
+msgstr "تابع کتانژانت معکوس"
+
+msgid "Inverse Functions"
+msgstr "توابع معکوس"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "تابع کسکانت هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "تابع کسینوس هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "تابع کتانژانت هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "توابع هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "تابع سکانت هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "تابع سینوس هذلولوی معکوس"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "تابع تانژانت هذلولوی معکوس"
+
+msgid "Inverse Secant Function"
+msgstr "تابع سکانت معکوس"
+
+msgid "Inverse Sine Function"
+msgstr "تابع سینوس معکوس"
+
+msgid "Inverse Tangent Function"
+msgstr "تابع تانژانت معکوس"
+
+msgid "Ionosphere"
+msgstr "یونوسفر"
+
+msgid "Iraq"
+msgstr "عراق"
+
+msgid "Ireland"
+msgstr "ایرلند"
+
+msgid "Irish"
+msgstr "ایرلندی"
+
+msgid "Is blank"
+msgstr "خالی است"
+
+msgid "Is not blank"
+msgstr "خالی نیست"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (نویسنده-تاریخ)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (عددی)"
+
+msgid "Issue"
+msgstr "شماره"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr ""
+
+msgid "Italy"
+msgstr "ایتالیا"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "واژه‌نامهٔ آن خوانده نشد: {reason}"
+
+msgid "Jamaica"
+msgstr "جامائیکا"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "به انجمن ArtCraft در Discord بپیوندید"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "در Discord به ما بپیوندید: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "اردن"
+
+msgid "Journal"
+msgstr "نشریه"
+
+msgid "Journal article"
+msgstr "مقالهٔ نشریه"
+
+msgid "Justification of a display equation"
+msgstr "ترازبندی معادلهٔ نمایشی"
+
+msgid "Justified"
+msgstr "هم‌تراز"
+
+msgid "Kazakhstan"
+msgstr "قزاقستان"
+
+msgid "Keep Lines Together"
+msgstr "نگه‌داشتن خطوط کنار هم"
+
+msgid "Keep lines together"
+msgstr "نگه‌داشتن خطوط کنار هم"
+
+msgid "Keep me around"
+msgstr ""
+
+msgid "Keep Text Only"
+msgstr "فقط متن را نگه دار"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "گذرواژه را جایی امن نگه دارید: بدون آن هیچ‌کس، ازجمله WordCraft، نمی‌تواند سند را باز کند. برای حذف گذرواژه، هر دو کادر را خالی بگذارید."
+
+msgid "Keep with Next"
+msgstr "کنار بعدی بمان"
+
+msgid "Keep with next"
+msgstr "کنار بعدی بمان"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "قلم‌ها و قالب‌بندی متن رونوشت‌شده را نگه می‌دارد."
+
+msgid "Kerning for fonts:"
+msgstr "فاصله‌بندی برای قلم‌ها:"
+
+msgid "Keyboard shortcuts:"
+msgstr "میان‌برهای صفحه‌کلید:"
+
+msgid "Keys for this command:"
+msgstr "کلیدهای این فرمان:"
+
+msgid "Kuwait"
+msgstr "کویت"
+
+msgid "Label changes with:"
+msgstr "برچسب تغییر می‌کند با:"
+
+msgid "Label:"
+msgstr "برچسب:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "تنظیمات زبان…"
+
+msgid "Large\nOperator"
+msgstr "عملگر\nبزرگ"
+
+msgid "Largest Only"
+msgstr "فقط بزرگ‌ترین"
+
+msgid "Lasso Select"
+msgstr "انتخاب کمندی"
+
+msgid "Last Column"
+msgstr "ستون آخر"
+
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+msgid "Last Record"
+msgstr "رکورد آخر"
+
+msgid "Last, First; Last, First"
+msgstr "خانوادگی، نام؛ خانوادگی، نام"
+
+msgid "Latin text font:"
+msgstr "قلم متن لاتین:"
+
+msgid "Latvian"
+msgstr "لتونیایی"
+
+msgid "Layout Summary"
+msgstr "خلاصهٔ چیدمان"
+
+msgid "Layouts"
+msgstr "چیدمان‌ها"
+
+msgid "Leader"
+msgstr "راهنما"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "وقتی فیلدی این مقدار را دارد، گیرنده را از ادغام بیرون بگذار."
+
+msgid "Leave Equation"
+msgstr "ترک معادله"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "هنگام ذخیره، تاریخ و ساعت نظرها و تغییرات ردیابی‌شده را بیرون بگذار"
+
+msgid "Leave the equation (Esc)"
+msgstr "ترک معادله (Esc)"
+
+msgid "leave the equation first"
+msgstr "نخست معادله را ترک کنید"
+
+msgid "Leave the label out of the caption"
+msgstr "برچسب را از عنوان بیرون بگذار"
+
+msgid "Lebanon"
+msgstr "لبنان"
+
+msgid "Left Arrow with Text Above"
+msgstr "فلش چپ با متن در بالا"
+
+msgid "Left Arrow with Text Below"
+msgstr "فلش چپ با متن در پایین"
+
+msgid "Left Border"
+msgstr "حاشیهٔ چپ"
+
+msgid "Left border"
+msgstr "حاشیهٔ چپ"
+
+msgid "Left Bracket Twice"
+msgstr "کروشهٔ چپ دوگانه"
+
+msgid "Left indent"
+msgstr "تورفتگی چپ"
+
+msgid "Left Margin"
+msgstr "حاشیهٔ چپ"
+
+msgid "Left Only"
+msgstr "فقط چپ"
+
+msgid "Left Right Arrow Above"
+msgstr "فلش چپ-راست در بالا"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "فلش چپ-راست با متن در بالا"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "فلش چپ-راست با متن در پایین"
+
+msgid "Left Subscript-Superscript"
+msgstr "زیرنویس-بالانویس چپ"
+
+msgid "Left-to-right"
+msgstr "چپ‌به‌راست"
+
+msgid "Left-to-Right Text Direction"
+msgstr "جهت متن چپ‌به‌راست"
+
+msgid "Leftwards Arrow Above"
+msgstr "فلش رو به چپ در بالا"
+
+msgid "Leftwards Harpoon Above"
+msgstr "قلاب رو به چپ در بالا"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   ۸٫۵۰\" × ۱۴٫۰۰\""
+
+msgid "Legal style numbering"
+msgstr "شماره‌گذاری سبک حقوقی"
+
+msgid "Legend"
+msgstr "راهنما"
+
+msgid "Less Contrast −20%"
+msgstr "کنتراست کمتر −۲۰٪"
+
+msgid "Less than"
+msgstr "کمتر از"
+
+msgid "Less than or equal"
+msgstr "کمتر یا مساوی"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Letter"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   ۸٫۵۰\" × ۱۱٫۰۰\""
+
+msgid "Letter headings"
+msgstr "سرتیترهای نمایه"
+
+msgid "Letter template"
+msgstr ""
+
+msgid "Letter-Like Symbols"
+msgstr "نمادهای شبیه حرف"
+
+msgid "Letters"
+msgstr "حروف"
+
+msgid "Level 5"
+msgstr "سطح ۵"
+
+msgid "Level 6"
+msgstr "سطح ۶"
+
+msgid "Level 7"
+msgstr "سطح ۷"
+
+msgid "Level 8"
+msgstr "سطح ۸"
+
+msgid "Level 9"
+msgstr "سطح ۹"
+
+msgid "Level {n}"
+msgstr "سطح {n}"
+
+msgid "Levels:"
+msgstr "سطوح:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "لیختن‌اشتاین"
+
+msgid "Light Variations"
+msgstr "تنوع‌های روشن"
+
+msgid "Light with Outline"
+msgstr "روشن با خط دور"
+
+msgid "Limit"
+msgstr "حد"
+
+msgid "Limit and"
+msgstr "حد و"
+
+msgid "Limit and\nLog"
+msgstr "حد و\nلگاریتم"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "محدودکردن خط‌تیره‌های پیاپی به:"
+
+msgid "Limit Example"
+msgstr "نمونهٔ حد"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "محدودکردن قالب‌بندی به گزیده‌ای از سبک‌ها"
+
+msgid "Line and Page Breaks"
+msgstr "شکست‌های خط و صفحه"
+
+msgid "Line and Paragraph Spacing"
+msgstr "فاصله‌گذاری خط و پاراگراف"
+
+msgid "Line between"
+msgstr "خط میان"
+
+msgid "Line Break"
+msgstr "شکست خط"
+
+msgid "Line breaking"
+msgstr "شکست خط"
+
+msgid "Line End"
+msgstr "پایان خط"
+
+msgid "Line Number"
+msgstr "شمارهٔ خط"
+
+msgid "Line Numbering Options…"
+msgstr "گزینه‌های شماره‌گذاری خط…"
+
+msgid "Line Numbers"
+msgstr "شماره‌های خط"
+
+msgid "Line Spacing"
+msgstr "فاصلهٔ خط"
+
+msgid "Line Spacing Options…"
+msgstr "گزینه‌های فاصلهٔ خط…"
+
+msgid "Line spacing:"
+msgstr "فاصلهٔ خط:"
+
+msgid "Line Start"
+msgstr "آغاز خط"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "مورب خطی - پایین چپ به بالا راست"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "مورب خطی - پایین راست به بالا چپ"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "مورب خطی - بالا چپ به پایین راست"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "مورب خطی - بالا راست به پایین چپ"
+
+msgid "Linear Down"
+msgstr "خطی رو به پایین"
+
+msgid "Linear Fraction"
+msgstr "کسر خطی"
+
+msgid "Linear Left"
+msgstr "خطی چپ"
+
+msgid "Linear Right"
+msgstr "خطی راست"
+
+msgid "Linear Up"
+msgstr "خطی رو به بالا"
+
+msgid "Lines and characters"
+msgstr "خطوط و کاراکترها"
+
+msgid "Lines only"
+msgstr "فقط خطوط"
+
+msgid "Lines per page:"
+msgstr "خط در هر صفحه:"
+
+msgid "Lines to drop:"
+msgstr "خطوط برای افتادن:"
+
+msgid "Link entries to their headings"
+msgstr "پیوند مدخل‌ها به سرتیترهایشان"
+
+msgid "Link level to style:"
+msgstr "پیوند سطح به سبک:"
+
+msgid "Link to Previous"
+msgstr "پیوند به پیشین"
+
+msgid "Link to:"
+msgstr "پیوند به:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "سبک پیوندی (پاراگراف و کاراکتر)"
+
+msgid "Links and References"
+msgstr "پیوندها و ارجاع‌ها"
+
+msgid "Link…"
+msgstr "پیوند…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "تعریف فهرست"
+
+msgid "List entries"
+msgstr "مدخل‌های فهرست"
+
+msgid "List Paragraph"
+msgstr "پاراگراف فهرست"
+
+msgid "List Table 3 – Blue"
+msgstr "جدول فهرستی ۳ – آبی"
+
+msgid "List Table 3 – Green"
+msgstr "جدول فهرستی ۳ – سبز"
+
+msgid "List Table 3 – Orange"
+msgstr "جدول فهرستی ۳ – نارنجی"
+
+msgid "List Table 3 – Purple"
+msgstr "جدول فهرستی ۳ – بنفش"
+
+msgid "Lit from Bottom"
+msgstr "نور از پایین"
+
+msgid "Lit from Top"
+msgstr "نور از بالا"
+
+msgid "Lithuanian"
+msgstr "لیتوانیایی"
+
+msgid "Load System Installed Fonts…"
+msgstr "بارگذاری قلم‌های نصب‌شدهٔ سیستم…"
+
+msgid "Loaded {count} system fonts."
+msgstr "{count} قلم سیستم بارگذاری شد."
+
+msgid "Local font access is not supported by your browser."
+msgstr "دسترسی به قلم محلی توسط مرورگر شما پشتیبانی نمی‌شود."
+
+msgid "Local font access was denied."
+msgstr "دسترسی به قلم محلی رد شد."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "بازیابی محلی در دسترس نیست یا هنوز در حال بارگذاری است."
+
+msgid "Location: {path}"
+msgstr "مکان: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "قفل نسبت ابعاد"
+
+msgid "Lock Fields"
+msgstr "قفل فیلدها"
+
+msgid "Log"
+msgstr "لگاریتم"
+
+msgid "Logarithm"
+msgstr "لگاریتم"
+
+msgid "Logarithm with Base"
+msgstr "لگاریتم با پایه"
+
+msgid "Logical AND"
+msgstr "AND منطقی"
+
+msgid "Logical AND with Limits"
+msgstr "AND منطقی با حدود"
+
+msgid "Logical OR"
+msgstr "OR منطقی"
+
+msgid "Logical OR with Limits"
+msgstr "OR منطقی با حدود"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr ""
+
+msgid "Lum:"
+msgstr "روشنایی:"
+
+msgid "Luxembourg"
+msgstr "لوکزامبورگ"
+
+msgid "Macao SAR"
+msgstr "منطقهٔ ویژهٔ اداری ماکائو"
+
+msgid "Macedonian"
+msgstr "مقدونی"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "ماکروها"
+
+msgid "Made from the author and year when empty"
+msgstr "در صورت خالی‌بودن از نویسنده و سال ساخته می‌شود"
+
+msgid "Magazine or newspaper article"
+msgstr "مقالهٔ مجله یا روزنامه"
+
+msgid "Mail Merge"
+msgstr "ادغام نامه"
+
+msgid "Mailings"
+msgstr "نامه‌ها"
+
+msgid "Main entry:"
+msgstr "مدخل اصلی:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "WordCraft را پیش‌فرض سندهای Word کنید…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "روبان، منوها و گفت‌وگوها را بزرگ‌تر یا کوچک‌تر می‌کند. حالت خودکار از مقیاس نمایش سیستم شما پیروی می‌کند؛ ۱۰۰٪ یعنی یک پیکسل صفحه برای هر نقطه. بزرگ‌نمایی سند جداگانه است."
+
+msgid "Malaysia"
+msgstr "مالزی"
+
+msgid "Manage Sources"
+msgstr "مدیریت منابع"
+
+msgid "Manage Styles"
+msgstr "مدیریت سبک‌ها"
+
+msgid "Manage Styles…"
+msgstr "مدیریت سبک‌ها…"
+
+msgid "Manual Hyphenation"
+msgstr "خط‌تیره‌گذاری دستی"
+
+msgid "Manual hyphenation is complete."
+msgstr "خط‌تیره‌گذاری دستی کامل شد."
+
+msgid "Manual Line Break"
+msgstr "شکست خط دستی"
+
+msgid "Manual Page Break"
+msgstr "شکست صفحهٔ دستی"
+
+msgid "Manual…"
+msgstr "دستی…"
+
+msgid "Many pages"
+msgstr "صفحه‌های زیاد"
+
+msgid "Mark"
+msgstr "علامت‌گذاری"
+
+msgid "Mark All"
+msgstr "علامت‌گذاری همه"
+
+msgid "Mark as decorative"
+msgstr "علامت‌گذاری به‌عنوان تزئینی"
+
+msgid "Mark Citation"
+msgstr "علامت‌گذاری ارجاع"
+
+msgid "Mark Entry"
+msgstr "علامت‌گذاری مدخل"
+
+msgid "Mark Entry…"
+msgstr "علامت‌گذاری مدخل…"
+
+msgid "Mark grammar errors as you type"
+msgstr "علامت‌گذاری خطاهای دستوری هم‌زمان با تایپ"
+
+msgid "Mark Index Entry"
+msgstr "علامت‌گذاری مدخل نمایه"
+
+msgid "Mark selected text as:"
+msgstr "علامت‌گذاری متن انتخاب‌شده به‌عنوان:"
+
+msgid "Mark\nCitation"
+msgstr "علامت‌گذاری\nارجاع"
+
+msgid "Mark\nEntry"
+msgstr "علامت‌گذاری\nمدخل"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "تطبیق حالت حروف"
+
+msgid "Match Fields"
+msgstr "تطبیق فیلدها"
+
+msgid "Match prefix"
+msgstr "تطبیق پیشوند"
+
+msgid "Match suffix"
+msgstr "تطبیق پسوند"
+
+msgid "Matches: {count}"
+msgstr "مطابقت‌ها: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "تصحیح خودکار ریاضی"
+
+msgid "Matrices with Brackets"
+msgstr "ماتریس‌ها با کروشه"
+
+msgid "Matrix"
+msgstr "ماتریس"
+
+msgid "Maximum Example"
+msgstr "نمونهٔ بیشینه"
+
+msgid "Measured By"
+msgstr "سنجیده با"
+
+msgid "Measurement units:"
+msgstr "واحدهای اندازه‌گیری:"
+
+msgid "Merge cells before split"
+msgstr "ادغام خانه‌ها پیش از تقسیم"
+
+msgid "Merge Formatting"
+msgstr "ادغام قالب‌بندی"
+
+msgid "Merge Record #"
+msgstr "رکورد ادغام #"
+
+msgid "Mesosphere"
+msgstr "مزوسفر"
+
+msgid "Mexico"
+msgstr "مکزیک"
+
+msgid "Midline Dots"
+msgstr "نقطه‌های میان‌خط"
+
+msgid "Minus Equal"
+msgstr "منهای مساوی"
+
+msgid "Mirror indents"
+msgstr "تورفتگی‌های آینه‌ای"
+
+msgid "Mirror margins"
+msgstr "حاشیه‌های آینه‌ای"
+
+msgid "Mirrored"
+msgstr "آینه‌ای"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "میلی‌متر"
+
+msgid "Moderate"
+msgstr "معتدل"
+
+msgid "Modify Style"
+msgstr "ویرایش سبک"
+
+msgid "Modify Table Style"
+msgstr "ویرایش سبک جدول"
+
+msgid "Modify Table Style…"
+msgstr "ویرایش سبک جدول…"
+
+msgid "Modify…"
+msgstr "ویرایش…"
+
+msgid "Mon"
+msgstr "دوشنبه"
+
+msgid "Monaco"
+msgstr "موناکو"
+
+msgid "Montenegro"
+msgstr "مونته‌نگرو"
+
+msgid "Month"
+msgstr "ماه"
+
+msgid "More >>"
+msgstr "بیشتر >>"
+
+msgid "More Colors…"
+msgstr "رنگ‌های بیشتر…"
+
+msgid "More Columns…"
+msgstr "ستون‌های بیشتر…"
+
+msgid "More Commands…"
+msgstr "فرمان‌های بیشتر…"
+
+msgid "More Contrast +20%"
+msgstr "کنتراست بیشتر +۲۰٪"
+
+msgid "More Gradients…"
+msgstr "گرادیان‌های بیشتر…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "اندازه‌های کاغذ بیشتر…"
+
+msgid "More Symbols…"
+msgstr "نمادهای بیشتر…"
+
+msgid "More tabs"
+msgstr "زبانه‌های بیشتر"
+
+msgid "More templates →"
+msgstr "قالب‌های بیشتر →"
+
+msgid "More Underlines…"
+msgstr "زیرخط‌های بیشتر…"
+
+msgid "Morocco"
+msgstr "مراکش"
+
+msgid "Move in Equation"
+msgstr "جابه‌جایی در معادله"
+
+msgid "Move or Resize"
+msgstr "جابه‌جایی یا تغییر اندازه"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "جابه‌جایی پاراگراف به پایین"
+
+msgid "Move Paragraph Up"
+msgstr "جابه‌جایی پاراگراف به بالا"
+
+msgid "Move Past Citation"
+msgstr "عبور از ارجاع"
+
+msgid "Move Past\nCitation"
+msgstr "عبور از\nارجاع"
+
+msgid "Move Selected Ink"
+msgstr "جابه‌جایی جوهر انتخاب‌شده"
+
+msgid "Move Table by Dragging"
+msgstr "جابه‌جایی جدول با کشیدن"
+
+msgid "Move with Text"
+msgstr "جابه‌جایی با متن"
+
+msgid "Moved from"
+msgstr "جابه‌جا‌شده از"
+
+msgid "Moved from:"
+msgstr "جابه‌جا‌شده از:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "اشیای جابه‌جا‌شده به لبه‌ها و مرکز صفحه، حاشیه‌ها و اشیای دیگر می‌چسبند. برای جابه‌جایی آزاد Alt را نگه دارید."
+
+msgid "Moved to"
+msgstr "جابه‌جا‌شده به"
+
+msgid "Moved to:"
+msgstr "جابه‌جا‌شده به:"
+
+msgid "Moves"
+msgstr "جابه‌جایی‌ها"
+
+msgid "Mozambique"
+msgstr "موزامبیک"
+
+msgid "Multilevel List"
+msgstr "فهرست چندسطحی"
+
+msgid "Multilevel List Library"
+msgstr "کتابخانهٔ فهرست چندسطحی"
+
+msgid "Multiple Pages"
+msgstr "صفحه‌های متعدد"
+
+msgid "Mute agent messages"
+msgstr ""
+
+msgid "Muted 50%"
+msgstr "کم‌رنگ ۵۰٪"
+
+msgid "My list has"
+msgstr "فهرست من دارد"
+
+msgid "Name of the file this document is saved as"
+msgstr "نام فایلی که این سند با آن ذخیره می‌شود"
+
+msgid "Narrow"
+msgstr "باریک"
+
+msgid "Narrow  {size} all"
+msgstr "باریک  {size} همه"
+
+msgid "Natural Logarithm"
+msgstr "لگاریتم طبیعی"
+
+msgid "Nature"
+msgstr "طبیعت"
+
+msgid "Navigation Pane"
+msgstr "پنجرهٔ ناوبری"
+
+msgid "Negated Relations"
+msgstr "رابطه‌های نفی‌شده"
+
+msgid "Netherlands"
+msgstr "هلند"
+
+msgid "New blank documents are written in this language"
+msgstr "سندهای خالی جدید به این زبان نوشته می‌شوند"
+
+msgid "New Comment"
+msgstr "نظر جدید"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "نظرهای جدید و تغییرات ردیابی‌شده با این نام و این حروف ابتدایی ثبت می‌شوند."
+
+msgid "New Documents Based on This Template"
+msgstr ""
+
+msgid "New documents based on this template"
+msgstr ""
+
+msgid "New documents will use this font."
+msgstr ""
+
+msgid "New documents will use this page setup."
+msgstr ""
+
+msgid "New documents will use this paragraph formatting."
+msgstr ""
+
+msgid "New documents will use this style."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr ""
+
+msgid "New Drawing Canvas"
+msgstr "بوم ترسیم جدید"
+
+msgid "New Entry"
+msgstr "مدخل جدید"
+
+msgid "New Label"
+msgstr "برچسب جدید"
+
+msgid "New Label…"
+msgstr "برچسب جدید…"
+
+msgid "New Paragraph"
+msgstr "پاراگراف جدید"
+
+msgid "New shortcut:"
+msgstr "میان‌بر جدید:"
+
+msgid "New Tab"
+msgstr "زبانهٔ جدید"
+
+msgid "New Table Style"
+msgstr "سبک جدول جدید"
+
+msgid "New Table Style…"
+msgstr "سبک جدول جدید…"
+
+msgid "New word"
+msgstr "واژهٔ جدید"
+
+msgid "New Zealand"
+msgstr "نیوزیلند"
+
+msgid "New\nComment"
+msgstr "نظر\nجدید"
+
+msgid "New\nWindow"
+msgstr "پنجرهٔ\nجدید"
+
+msgid "Next Comment"
+msgstr "نظر بعدی"
+
+msgid "Next Field"
+msgstr "فیلد بعدی"
+
+msgid "Next Footnote"
+msgstr "پانویس بعدی"
+
+msgid "Next Record"
+msgstr "رکورد بعدی"
+
+msgid "Next Section"
+msgstr "بخش بعدی"
+
+msgid "Next Sentence"
+msgstr "جملهٔ بعدی"
+
+msgid "Next sentence"
+msgstr "جملهٔ بعدی"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr ""
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr ""
+
+msgid "Nicaragua"
+msgstr "نیکاراگوئه"
+
+msgid "No accessibility issues found."
+msgstr "هیچ مشکل دسترس‌پذیری یافت نشد."
+
+msgid "No Border"
+msgstr "بدون حاشیه"
+
+msgid "No changes (read only)"
+msgstr "بدون تغییر (فقط خواندنی)"
+
+msgid "No contributor data was built into this copy."
+msgstr "هیچ دادهٔ مشارکت‌کننده‌ای در این نسخه ساخته نشده است."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "هیچ سندی باز نیست. ابتدا سندی بسازید یا یکی را باز کنید."
+
+msgid "no equation at the caret"
+msgstr "معادله‌ای در محل نشانگر نیست"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "خطایی یافت نشد: هر فیلد ادغام در فهرست گیرندگان است."
+
+msgid "No Fill"
+msgstr "بدون پُرکننده"
+
+msgid "No fill"
+msgstr "بدون پُرکننده"
+
+msgid "No Glow"
+msgstr "بدون درخشش"
+
+msgid "No Gradient"
+msgstr "بدون گرادیان"
+
+msgid "No grid"
+msgstr "بدون شبکه"
+
+msgid "No header row"
+msgstr "بدون سطر سرصفحه"
+
+msgid "No icons match your search."
+msgstr "هیچ نمادی با جست‌وجوی شما مطابقت ندارد."
+
+msgid "No items to show."
+msgstr "موردی برای نمایش نیست."
+
+msgid "No language matches your search."
+msgstr "هیچ زبانی با جستجوی شما مطابقت ندارد."
+
+msgid "No languages to show yet."
+msgstr "هنوز زبانی برای نمایش وجود ندارد."
+
+msgid "No Markup"
+msgstr "بدون نشانه‌گذاری"
+
+msgid "No model credits were built into this copy."
+msgstr "هیچ اعتبار مدلی در این نسخه ساخته نشده است."
+
+msgid "No new sources in that file"
+msgstr "منبع جدیدی در آن فایل نیست"
+
+msgid "No Outline"
+msgstr "بدون خط دور"
+
+msgid "No Paragraph Space"
+msgstr "بدون فاصلهٔ پاراگراف"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "هیچ چاپگری یافت نشد. یک چاپگر سیستمی پیکربندی کنید یا PDF برون‌بری کنید."
+
+msgid "No recovery copies."
+msgstr "نسخهٔ بازیابی‌ای نیست."
+
+msgid "No Reflection"
+msgstr "بدون بازتاب"
+
+msgid "No Scaling"
+msgstr "بدون مقیاس"
+
+msgid "No Shadow"
+msgstr "بدون سایه"
+
+msgid "No Soft Edges"
+msgstr "بدون لبه‌های نرم"
+
+msgid "No sources yet."
+msgstr "هنوز منبعی نیست."
+
+msgid "No Spacing"
+msgstr "بدون فاصله‌گذاری"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "هیچ واژه‌نامهٔ املایی برای {language} نصب نیست، بنابراین بررسی نمی‌شود. WordCraft واژه‌نامهٔ هان‌اسپل {name} را در پوشهٔ WORDCRAFT_DICTIONARIES و مکان‌های معمول سیستم جست‌وجو می‌کند."
+
+msgid "No templates match your search."
+msgstr "هیچ قالبی با جست‌وجوی شما مطابقت ندارد."
+
+msgid "No Transform"
+msgstr "بدون تبدیل"
+
+msgid "No watermark"
+msgstr "بدون واترمارک"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "هنوز واژه‌ای نیست. گزینهٔ «افزودن به واژه‌نامه» روی واژهٔ غلط آن را اینجا می‌گذارد."
+
+msgid "No-Width Non Break"
+msgstr "بدون‌عرض بدون شکست"
+
+msgid "No-Width Optional Break"
+msgstr "بدون‌عرض شکست اختیاری"
+
+msgid "Nonbreaking Hyphen"
+msgstr "خط‌تیرهٔ نشکستنی"
+
+msgid "Normal  {size} all"
+msgstr "عادی  {size} همه"
+
+msgid "Normal Indent"
+msgstr "تورفتگی عادی"
+
+msgid "Normal probability density"
+msgstr "چگالی احتمال نرمال"
+
+msgid "Normal speed"
+msgstr "سرعت عادی"
+
+msgid "Normal Style"
+msgstr "سبک عادی"
+
+msgid "Normal Table"
+msgstr "جدول عادی"
+
+msgid "Normal Text"
+msgstr "متن عادی"
+
+msgid "Normal Word Document"
+msgstr "سند Word عادی"
+
+msgid "North"
+msgstr "شمال"
+
+msgid "Norwegian (Bokmål)"
+msgstr "نروژی (بوکمول)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "نروژی (نینورسک)"
+
+msgid "Not"
+msgstr "نه"
+
+msgid "Not available right now"
+msgstr "اکنون در دسترس نیست"
+
+msgid "Not available yet"
+msgstr "هنوز در دسترس نیست"
+
+msgid "not editing an equation"
+msgstr "در حال ویرایش معادله نیستید"
+
+msgid "Not equal to"
+msgstr "مساوی نیست با"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "پیوند نشده: روی یک جعبهٔ متن کلیک کنید"
+
+msgid "Not now"
+msgstr ""
+
+msgid "Not saved"
+msgstr "ذخیره نشده"
+
+msgid "Not saved yet"
+msgstr "هنوز ذخیره نشده"
+
+msgid "Not set"
+msgstr "تنظیم‌نشده"
+
+msgid "Not set: the system's usual places"
+msgstr "تنظیم‌نشده: مکان‌های معمول سیستم"
+
+msgid "Not used by any command"
+msgstr "توسط هیچ فرمانی استفاده نمی‌شود"
+
+msgid "Not {name}"
+msgstr "نه {name}"
+
+msgid "Nothing"
+msgstr "هیچ‌چیز"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "هنوز چیزی گردآوری نشده. مواردی که رونوشت یا برش می‌دهید اینجا ظاهر می‌شوند."
+
+msgid "nothing is selected"
+msgstr "چیزی انتخاب نشده"
+
+msgid "Nothing of this type in the document."
+msgstr "چیزی از این نوع در سند نیست."
+
+msgid "Now used by {command}"
+msgstr "اکنون توسط {command} استفاده می‌شود"
+
+msgid "Nudge"
+msgstr "جابه‌جایی ریز"
+
+msgid "Num Occurrences"
+msgstr "شمار رخدادها"
+
+msgid "Number alignment:"
+msgstr "تراز شماره:"
+
+msgid "Number format"
+msgstr "قالب شماره"
+
+msgid "Number of columns:"
+msgstr "شمار ستون‌ها:"
+
+msgid "Number of rows:"
+msgstr "شمار سطرها:"
+
+msgid "Number of the page the field sits on"
+msgstr "شمارهٔ صفحه‌ای که فیلد در آن است"
+
+msgid "Number of the section the field sits in"
+msgstr "شمارهٔ بخشی که فیلد در آن است"
+
+msgid "Number only, without the label's words"
+msgstr "فقط شماره، بدون واژه‌های برچسب"
+
+msgid "Number style for this level:"
+msgstr "سبک شماره برای این سطح:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "معادله را شماره‌گذاری کن؛ شماره در حاشیهٔ راست قرار می‌گیرد (یا # و سپس شماره را تایپ کنید)"
+
+msgid "Numbering"
+msgstr "شماره‌گذاری"
+
+msgid "Numbering:"
+msgstr "شماره‌گذاری:"
+
+msgid "Numbering…"
+msgstr "شماره‌گذاری…"
+
+msgid "Numerals"
+msgstr "اعداد"
+
+msgid "Numerals:"
+msgstr "اعداد:"
+
+msgid "n×n Identity Matrix"
+msgstr "ماتریس همانی n×n"
+
+msgid "n×n Matrix"
+msgstr "ماتریس n×n"
+
+msgid "Odd Banded Columns"
+msgstr "ستون‌های نواری فرد"
+
+msgid "Odd Banded Rows"
+msgstr "سطرهای نواری فرد"
+
+msgid "Odd Page"
+msgstr "صفحهٔ فرد"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Office 2003 Default"
+msgstr "پیش‌فرض Office 2003"
+
+msgid "Offset (pt):"
+msgstr "افست (pt):"
+
+msgid "Offset: Bottom"
+msgstr "افست: پایین"
+
+msgid "Offset: Bottom Left"
+msgstr "افست: پایین چپ"
+
+msgid "Offset: Bottom Right"
+msgstr "افست: پایین راست"
+
+msgid "Offset: Center"
+msgstr "افست: مرکز"
+
+msgid "Offset: Left"
+msgstr "افست: چپ"
+
+msgid "Offset: Right"
+msgstr "افست: راست"
+
+msgid "Offset: Top"
+msgstr "افست: بالا"
+
+msgid "Offset: Top Left"
+msgstr "افست: بالا چپ"
+
+msgid "Offset: Top Right"
+msgstr "افست: بالا راست"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "کلیدهای منوی قدیمی: Alt، {keys}. به تایپ ادامه دهید، یا برای لغو Esc را بزنید."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "روشن: نشانگر هنگام تایپ یا استفاده از کلیدهای جهت به جای جدید می‌سُرد و چشمک‌زدنش محو می‌شود. خاموش: می‌پرد و چشمک می‌زند."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "روشن: WordCraft روی فایل › خانه باز می‌شود، با سند خالی، قالب‌ها و سندهای اخیر شما. خاموش: یک سند خالی باز می‌کند."
+
+msgid "One"
+msgstr "یک"
+
+msgid "One half"
+msgstr "یک‌دوم"
+
+msgid "One label per recipient"
+msgstr "یک برچسب برای هر گیرنده"
+
+msgid "One line per item. Enter adds an item."
+msgstr "یک خط برای هر مورد. Enter یک مورد می‌افزاید."
+
+msgid "One Page"
+msgstr "یک صفحه"
+
+msgid "One-sided"
+msgstr "یک‌طرفه"
+
+msgid "Only allow this kind of editing:"
+msgstr "فقط این نوع ویرایش را مجاز کن:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "فقط می‌توان نظر افزود، جز در نواحی علامت‌خورده به‌عنوان ویرایش‌پذیر."
+
+msgid "Only for the selected text"
+msgstr "فقط برای متن انتخاب‌شده"
+
+msgid "Only form fields can be filled in."
+msgstr "فقط فیلدهای فرم می‌توانند پر شوند."
+
+msgid "only in Outline view"
+msgstr "فقط در نمای رئوس"
+
+msgid "Only in this document"
+msgstr ""
+
+msgid "Only label and number"
+msgstr "فقط برچسب و شماره"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "فقط سبک‌های مجاز می‌توانند اعمال شوند."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "فقط پیوندهای وب (http، https) و ایمیل (mailto) را می‌توان دنبال کرد"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "ابتدا یک سند باز کنید"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "وقتی گفت‌وگوی فایل سیستم ظاهر نمی‌شود، فایل را با مرورگر خود WordCraft باز کن."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument Text (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "گشودن گفت‌وگوی چاپ…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "از این پس فایل‌های .docx، .doc، .rtf و .odt و قالب‌های Word را با WordCraft باز می‌کند."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "تنظیمات › اپ‌های پیش‌فرض را باز می‌کند، جایی که WordCraft را برای .docx و دیگر انواع سند انتخاب می‌کنید."
+
+msgid "Operator"
+msgstr "عملگر"
+
+msgid "Operator Structures"
+msgstr "ساختارهای عملگر"
+
+msgid "Operators"
+msgstr "عملگرها"
+
+msgid "Optional Hyphen"
+msgstr "خط‌تیرهٔ اختیاری"
+
+msgid "Or"
+msgstr "یا"
+
+msgid "Or save a copy in another format:"
+msgstr "یا نسخه‌ای را با قالب دیگر ذخیره کنید:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "اعداد ترتیبی (1st) به‌صورت بالانویس"
+
+msgid "Organizer"
+msgstr "سازمان‌دهنده"
+
+msgid "Organizer…"
+msgstr "سازمان‌دهنده…"
+
+msgid "Original document"
+msgstr "سند اصلی"
+
+msgid "Original size"
+msgstr "اندازهٔ اصلی"
+
+msgid "Other Large Operators"
+msgstr "دیگر عملگرهای بزرگ"
+
+msgid "Other styles and their TOC level:"
+msgstr "سبک‌های دیگر و سطح فهرست مطالب آن‌ها:"
+
+msgid "Other:"
+msgstr "دیگر:"
+
+msgid "Otherwise insert:"
+msgstr "در غیر این صورت درج کن:"
+
+msgid "Outline Level"
+msgstr "سطح رئوس"
+
+msgid "Outline level"
+msgstr "سطح رئوس"
+
+msgid "Outline levels"
+msgstr "سطوح رئوس"
+
+msgid "Outline State"
+msgstr "وضعیت رئوس"
+
+msgid "Outline Tools"
+msgstr "ابزارهای رئوس"
+
+msgid "Outlining"
+msgstr "طرح کلی"
+
+msgid "Outside border"
+msgstr "حاشیهٔ بیرونی"
+
+msgid "Outside Borders"
+msgstr "حاشیه‌های بیرونی"
+
+msgid "Outside:"
+msgstr "بیرون:"
+
+msgid "Outward Brackets"
+msgstr "کروشه‌های رو به بیرون"
+
+msgid "Overbar"
+msgstr "خط بالا"
+
+msgid "Overbars and Underbars"
+msgstr "خطوط بالا و پایین"
+
+msgid "Overbrace"
+msgstr "آکولاد بالا"
+
+msgid "Overtype"
+msgstr "بازنویسی"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "بازنویسی (تایپ کاراکترهای پس از نشانگر را جایگزین می‌کند)"
+
+msgid "Page Background"
+msgstr "پس‌زمینهٔ صفحه"
+
+msgid "Page Border"
+msgstr "حاشیهٔ صفحه"
+
+msgid "Page Borders"
+msgstr "حاشیه‌های صفحه"
+
+msgid "Page Break"
+msgstr "شکست صفحه"
+
+msgid "Page Break Before"
+msgstr "شکست صفحه پیش از"
+
+msgid "Page break before"
+msgstr "شکست صفحه پیش از"
+
+msgid "Page Breaks"
+msgstr "شکست‌های صفحه"
+
+msgid "Page Color"
+msgstr "رنگ صفحه"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "نمایش صفحه"
+
+msgid "Page Down"
+msgstr "صفحهٔ پایین"
+
+msgid "Page image (*.png)"
+msgstr "تصویر صفحه (*.png)"
+
+msgid "Page Movement"
+msgstr "جابه‌جایی صفحه"
+
+msgid "Page Number"
+msgstr "شمارهٔ صفحه"
+
+msgid "Page number"
+msgstr "شمارهٔ صفحه"
+
+msgid "Page Number Format"
+msgstr "قالب شمارهٔ صفحه"
+
+msgid "Page number style"
+msgstr "سبک شمارهٔ صفحه"
+
+msgid "Page numbering"
+msgstr "شماره‌گذاری صفحه"
+
+msgid "Page numbers at the right margin"
+msgstr "شماره‌های صفحه در حاشیهٔ راست"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "صفحه‌ای که قطعهٔ نشانک‌دار در آن قرار می‌گیرد"
+
+msgid "Page Setup"
+msgstr "تنظیم صفحه"
+
+msgid "Page title"
+msgstr "عنوان صفحه"
+
+msgid "Page Up"
+msgstr "صفحهٔ بالا"
+
+msgid "Page Width"
+msgstr "عرض صفحه"
+
+msgid "Page width"
+msgstr "عرض صفحه"
+
+msgid "Page X of Y"
+msgstr "صفحهٔ X از Y"
+
+msgid "Page {page}"
+msgstr "صفحهٔ {page}"
+
+msgid "Page\nBorders"
+msgstr "حاشیه‌های\nصفحه"
+
+msgid "Page\nColor"
+msgstr "رنگ\nصفحه"
+
+msgid "Page\nNumber"
+msgstr "شمارهٔ\nصفحه"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "صفحه‌هایی مانند ۱-۳، ۵"
+
+msgid "Pages of bookmark:"
+msgstr "صفحه‌های نشانک:"
+
+msgid "Panama"
+msgstr "پاناما"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "اندازهٔ کاغذ:"
+
+msgid "Paragraph Character"
+msgstr "کاراکتر پاراگراف"
+
+msgid "Paragraph Details"
+msgstr "جزئیات پاراگراف"
+
+msgid "Paragraph Down"
+msgstr "پاراگراف پایین"
+
+msgid "Paragraph Mark"
+msgstr "نشان پاراگراف"
+
+msgid "Paragraph marks"
+msgstr "نشان‌های پاراگراف"
+
+msgid "Paragraph Settings"
+msgstr "تنظیمات پاراگراف"
+
+msgid "Paragraph Spacing"
+msgstr "فاصله‌گذاری پاراگراف"
+
+msgid "Paragraph style"
+msgstr "سبک پاراگراف"
+
+msgid "Paragraph Up"
+msgstr "پاراگراف بالا"
+
+msgid "Paragraphs"
+msgstr "پاراگراف‌ها"
+
+msgid "Paragraph…"
+msgstr "پاراگراف…"
+
+msgid "Paraguay"
+msgstr "پاراگوئه"
+
+msgid "Parentheses"
+msgstr "پرانتز"
+
+msgid "Parentheses with Separator"
+msgstr "پرانتز با جداکننده"
+
+msgid "Partial Differential"
+msgstr "دیفرانسیل جزئی"
+
+msgid "Password:"
+msgstr "گذرواژه:"
+
+msgid "Paste (⌘V)"
+msgstr "چسباندن (⌘V)"
+
+msgid "Paste All"
+msgstr "چسباندن همه"
+
+msgid "Paste as:"
+msgstr "چسباندن به‌عنوان:"
+
+msgid "Paste Clipboard Item"
+msgstr "چسباندن مورد کلیپ‌بورد"
+
+msgid "Paste Formatting"
+msgstr "چسباندن قالب‌بندی"
+
+msgid "Paste function:"
+msgstr "تابع چسباندن:"
+
+msgid "Paste Special…"
+msgstr "چسباندن ویژه…"
+
+msgid "Paste: Keep Text Only"
+msgstr "چسباندن: فقط متن"
+
+msgid "Paste: Merge Formatting"
+msgstr "چسباندن: ادغام قالب‌بندی"
+
+msgid "Pastes the clipboard's picture."
+msgstr "تصویر کلیپ‌بورد را می‌چسباند."
+
+msgid "Paused"
+msgstr "مکث‌شده"
+
+msgid "PDF document (*.pdf)"
+msgstr "سند PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "قلم‌ها"
+
+msgid "People"
+msgstr "افراد"
+
+msgid "Periodical"
+msgstr "نشریه"
+
+msgid "Persian"
+msgstr "فارسی"
+
+msgid "Personal"
+msgstr "شخصی"
+
+msgid "Personal Templates"
+msgstr "قالب‌های شخصی"
+
+msgid "Personalize"
+msgstr "شخصی‌سازی"
+
+msgid "Peru"
+msgstr "پرو"
+
+msgid "Philippines"
+msgstr "فیلیپین"
+
+msgid "Phonetic Guide"
+msgstr "راهنمای آوایی"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "پی روی ۲"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "یک گروه سفارشی انتخاب کنید (New Group یکی می‌سازد)"
+
+msgid "Pick a field from the list"
+msgstr "یک فیلد از فهرست انتخاب کنید"
+
+msgid "Picture"
+msgstr "تصویر"
+
+msgid "Picture Border"
+msgstr "حاشیهٔ تصویر"
+
+msgid "Picture border"
+msgstr "حاشیهٔ تصویر"
+
+msgid "Picture Content Control"
+msgstr "کنترل محتوای تصویر"
+
+msgid "Picture Format"
+msgstr "قالب تصویر"
+
+msgid "Picture Styles"
+msgstr "سبک‌های تصویر"
+
+msgid "Picture transparency"
+msgstr "شفافیت تصویر"
+
+msgid "Picture watermark"
+msgstr "واترمارک تصویری"
+
+msgid "Pictures"
+msgstr "تصاویر"
+
+msgid "Pie"
+msgstr "دایره‌ای"
+
+msgid "Place in This Document"
+msgstr "جای‌گذاری در این سند"
+
+msgid "Placeholder text"
+msgstr "متن جانگهدار"
+
+msgid "Plain Table 1"
+msgstr "جدول ساده ۱"
+
+msgid "Plain text (*.txt)"
+msgstr "متن ساده (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "کنترل محتوای متن ساده"
+
+msgid "Play/Pause"
+msgstr "پخش/مکث"
+
+msgid "Plus Equal"
+msgstr "به‌علاوهٔ مساوی"
+
+msgid "Points and above"
+msgstr "نقطه و بیشتر"
+
+msgid "Polish"
+msgstr "لهستانی"
+
+msgid "Portugal"
+msgstr "پرتغال"
+
+msgid "Portuguese (Brazil)"
+msgstr "پرتغالی (برزیل)"
+
+msgid "Portuguese (Portugal)"
+msgstr "پرتغالی (پرتغال)"
+
+msgid "Possible spelling mistake"
+msgstr "احتمال خطای املایی"
+
+msgid "Postal Code"
+msgstr "کد پستی"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "سری توانی (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "عرض ترجیحی:"
+
+msgid "Preserve formatting during updates"
+msgstr "حفظ قالب‌بندی هنگام به‌روزرسانی"
+
+msgid "Preset gradients"
+msgstr "گرادیان‌های پیش‌تنظیم"
+
+msgid "Press a key combination"
+msgstr "یک ترکیب کلید بزنید"
+
+msgid "Preview Results"
+msgstr "پیش‌نمایش نتایج"
+
+msgid "Preview\nResults"
+msgstr "پیش‌نمایش\nنتایج"
+
+msgid "Previous 1 or More"
+msgstr "پیشین ۱ یا بیشتر"
+
+msgid "Previous Comment"
+msgstr "نظر پیشین"
+
+msgid "Previous Field"
+msgstr "فیلد پیشین"
+
+msgid "Previous Record"
+msgstr "رکورد پیشین"
+
+msgid "Previous Section"
+msgstr "بخش پیشین"
+
+msgid "Previous Sentence"
+msgstr "جملهٔ پیشین"
+
+msgid "Previous sentence"
+msgstr "جملهٔ پیشین"
+
+msgid "Print Documents"
+msgstr "چاپ سندها"
+
+msgid "Print Documents…"
+msgstr "چاپ سندها…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "چاپ ناموفق بود: کارگر چاپ متوقف شد."
+
+msgid "Print failed: {error}"
+msgstr "چاپ ناموفق بود: {error}"
+
+msgid "Print job submitted."
+msgstr "کار چاپ ارسال شد."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "کار چاپ ارسال شد: {count} برگ در صف قرار گرفت"
+
+msgid "Print job submitted: {receipt}"
+msgstr "کار چاپ ارسال شد: {receipt}"
+
+msgid "Print Layout"
+msgstr "چیدمان چاپ"
+
+msgid "Print Markup"
+msgstr "چاپ نشانه‌گذاری"
+
+msgid "Print settings"
+msgstr "تنظیمات چاپ"
+
+msgid "Print the page color"
+msgstr "چاپ رنگ صفحه"
+
+msgid "Print to PDF"
+msgstr "چاپ به PDF"
+
+msgid "Print\nLayout"
+msgstr "چیدمان\nچاپ"
+
+msgid "Printer default"
+msgstr "پیش‌فرض چاپگر"
+
+msgid "Printer discovery failed."
+msgstr "یافتن چاپگر ناموفق بود."
+
+msgid "Privacy for this document"
+msgstr "حریم خصوصی این سند"
+
+msgid "Privacy Options"
+msgstr "گزینه‌های حریم خصوصی"
+
+msgid "Privacy Settings"
+msgstr "تنظیمات حریم خصوصی"
+
+msgid "Process"
+msgstr "فرایند"
+
+msgid "Product"
+msgstr "حاصل‌ضرب"
+
+msgid "Product of A"
+msgstr "حاصل‌ضرب A"
+
+msgid "Product with Limits"
+msgstr "حاصل‌ضرب با حدود"
+
+msgid "Product with Lower Limit"
+msgstr "حاصل‌ضرب با حد پایین"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "حاصل‌ضرب با حدود زیرنویس-بالانویس"
+
+msgid "Products and Coproducts"
+msgstr "حاصل‌ضرب‌ها و هم‌ضرب‌ها"
+
+msgid "Professional"
+msgstr "حرفه‌ای"
+
+msgid "Promote"
+msgstr "ارتقا"
+
+msgid "Promote to Heading 1"
+msgstr "ارتقا به سرتیتر ۱"
+
+msgid "Proofing"
+msgstr "بررسی"
+
+msgid "Proofing Issues"
+msgstr "مشکلات بررسی"
+
+msgid "Proofing language"
+msgstr "زبان بررسی"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "محافظت از سند"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "ناشر"
+
+msgid "Puerto Rico"
+msgstr "پورتوریکو"
+
+msgid "Put the caret in a content control first."
+msgstr "ابتدا نشانگر را در یک کنترل محتوا بگذارید."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "فرمان‌های پیش‌فرض به نوارابزار دسترسی سریع برگردانده شوند؟"
+
+msgid "Qatar"
+msgstr "قطر"
+
+msgid "Quadratic Root"
+msgstr "ریشهٔ درجه دو"
+
+msgid "Quick Access Toolbar"
+msgstr "نوارابزار دسترسی سریع"
+
+msgid "Quick Parts"
+msgstr "بخش‌های سریع"
+
+msgid "Quick Tables"
+msgstr "جدول‌های سریع"
+
+msgid "Quote"
+msgstr "نقل قول"
+
+msgid "Radical"
+msgstr "رادیکال"
+
+msgid "Radical with Degree"
+msgstr "رادیکال با درجه"
+
+msgid "Radicals"
+msgstr "رادیکال‌ها"
+
+msgid "Raised/lowered"
+msgstr "بالا/پایین‌برده"
+
+msgid "Read Aloud"
+msgstr "خواندن با صدای بلند"
+
+msgid "Read Aloud Status"
+msgstr "وضعیت خواندن با صدای بلند"
+
+msgid "Read Mode"
+msgstr "حالت خواندن"
+
+msgid "Read\nAloud"
+msgstr "خواندن\nبا صدای بلند"
+
+msgid "Read\nMode"
+msgstr "حالت\nخواندن"
+
+msgid "Reading"
+msgstr "خواندن"
+
+msgid "Reading Column Width"
+msgstr "عرض ستون خواندن"
+
+msgid "Reading Highlight"
+msgstr "برجسته‌سازی خواندن"
+
+msgid "Reading Line Spacing"
+msgstr "فاصلهٔ خط خواندن"
+
+msgid "Reading Mode"
+msgstr "حالت خواندن"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "سرعت خواندن"
+
+msgid "Reading Text Size"
+msgstr "اندازهٔ متن خواندن"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "متن غنی کلیپ‌بورد را می‌خواند و قالب‌بندی آن را نگه می‌دارد."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "محتوای وب کلیپ‌بورد را می‌خواند و قالب‌بندی آن را نگه می‌دارد."
+
+msgid "Recent documents to show:"
+msgstr "سندهای اخیر برای نمایش:"
+
+msgid "Recently Used Fonts"
+msgstr "قلم‌های اخیراً استفاده‌شده"
+
+msgid "Recently used symbols:"
+msgstr "نمادهای اخیراً استفاده‌شده:"
+
+msgid "Recipient List"
+msgstr "فهرست گیرندگان"
+
+msgid "Recipient lists"
+msgstr "فهرست‌های گیرندگان"
+
+msgid "Recipients: {count}"
+msgstr "گیرندگان: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "بازرنگ‌آمیزی تصویر یک‌رنگ، مانند یک نماد"
+
+msgid "Recolor Selected Ink"
+msgstr "بازرنگ‌آمیزی جوهر انتخاب‌شده"
+
+msgid "Record Macro"
+msgstr "ضبط ماکرو"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "بازیابی سندها"
+
+msgid "Recover Unsaved Documents"
+msgstr "بازیابی سندهای ذخیره‌نشده"
+
+msgid "Recovery copy"
+msgstr "نسخهٔ بازیابی"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "تا وقتی این سند گذرواژه دارد، بازیابی غیرفعال است."
+
+msgid "Red:"
+msgstr "قرمز:"
+
+msgid "Reduce Hanging Indent"
+msgstr "کاهش تورفتگی آویزان"
+
+msgid "Reference type:"
+msgstr "نوع ارجاع:"
+
+msgid "References"
+msgstr "ارجاع‌ها"
+
+msgid "Reflection"
+msgstr "بازتاب"
+
+msgid "Refresh printers"
+msgstr "بازخوانی چاپگرها"
+
+msgid "Region:"
+msgstr "منطقه:"
+
+msgid "Registered"
+msgstr "ثبت‌شده"
+
+msgid "Registered Sign"
+msgstr "نماد علامت ثبت"
+
+msgid "Regular expressions"
+msgstr "عبارت‌های باقاعده"
+
+msgid "Reject"
+msgstr "رد"
+
+msgid "Reject All Changes"
+msgstr "رد همهٔ تغییرات"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "رد تغییر"
+
+msgid "Relationship"
+msgstr "رابطه"
+
+msgid "Relative to original picture size"
+msgstr "نسبت به اندازهٔ اصلی تصویر"
+
+msgid "Remove Added Font"
+msgstr "حذف قلم افزوده‌شده"
+
+msgid "Remove condition"
+msgstr "حذف شرط"
+
+msgid "Remove Content Control"
+msgstr "حذف کنترل محتوا"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "همهٔ میان‌برهای سفارشی حذف و کلیدهای توکار بازگردانده شوند؟"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "همهٔ زبانه‌ها و گروه‌های سفارشی حذف و همهٔ زبانه‌ها دوباره نمایش داده شوند؟"
+
+msgid "Remove field"
+msgstr "حذف فیلد"
+
+msgid "Remove Footer"
+msgstr "حذف پاصفحه"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "حذف از نوارابزار دسترسی سریع"
+
+msgid "Remove gradient stop"
+msgstr "حذف ایستگاه گرادیان"
+
+msgid "Remove Header"
+msgstr "حذف سرصفحه"
+
+msgid "Remove Hyperlink"
+msgstr "حذف پیوند"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "هنگام ذخیره، نام من را از نظرها، تغییرات و ویژگی‌های فایل حذف کن"
+
+msgid "Remove Password"
+msgstr "حذف گذرواژه"
+
+msgid "Remove Pen"
+msgstr "حذف قلم"
+
+msgid "Remove recipient"
+msgstr "حذف گیرنده"
+
+msgid "Remove row"
+msgstr "حذف سطر"
+
+msgid "Remove series"
+msgstr "حذف سری"
+
+msgid "Remove Space After Paragraph"
+msgstr "حذف فاصله پس از پاراگراف"
+
+msgid "Remove Table of Contents"
+msgstr "حذف فهرست مطالب"
+
+msgid "Remove the control once edited"
+msgstr "پس از ویرایش، کنترل را حذف کن"
+
+msgid "Remove the space before the punctuation"
+msgstr "فاصله پیش از نشانه‌گذاری را حذف کن"
+
+msgid "Remove Watermark"
+msgstr "حذف واترمارک"
+
+msgid "Rename Document"
+msgstr "تغییر نام سند"
+
+msgid "Reopen"
+msgstr "بازگشایی"
+
+msgid "Repeat as header row on each page"
+msgstr "تکرار به‌عنوان سطر سرصفحه در هر صفحه"
+
+msgid "Repeat Header Rows"
+msgstr "تکرار سطرهای سرصفحه"
+
+msgid "Repeating Section Content Control"
+msgstr "کنترل محتوای بخش تکرارشونده"
+
+msgid "Replace All"
+msgstr "جایگزینی همه"
+
+msgid "Replace as you type"
+msgstr "جایگزینی هم‌زمان با تایپ"
+
+msgid "Replace Document Text"
+msgstr "جایگزینی متن سند"
+
+msgid "Replace text as you type"
+msgstr "جایگزینی متن هم‌زمان با تایپ"
+
+msgid "Replace with:"
+msgstr "جایگزینی با:"
+
+msgid "Replay"
+msgstr "پخش دوباره"
+
+msgid "Research"
+msgstr "پژوهش"
+
+msgid "Researcher"
+msgstr "پژوهشگر"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Researcher به یک سرویس آنلاین نیاز دارد؛ WordCraft سندهای شما را آفلاین نگه می‌دارد."
+
+msgid "Reset All…"
+msgstr "بازنشانی همه…"
+
+msgid "Reset Character Formatting"
+msgstr "بازنشانی قالب‌بندی کاراکتر"
+
+msgid "Reset Crop"
+msgstr "بازنشانی برش"
+
+msgid "Reset Default Formatting"
+msgstr ""
+
+msgid "Reset Graphic"
+msgstr "بازنشانی نگاره"
+
+msgid "Reset Paragraph Formatting"
+msgstr "بازنشانی قالب‌بندی پاراگراف"
+
+msgid "Reset Picture"
+msgstr "بازنشانی تصویر"
+
+msgid "Reset tips"
+msgstr ""
+
+msgid "Reset to Normal"
+msgstr "بازنشانی به عادی"
+
+msgid "Reset\nGraphic"
+msgstr "بازنشانی\nنگاره"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "تغییر اندازهٔ جدول با کشیدن"
+
+msgid "Resolve"
+msgstr "رفع"
+
+msgid "Resolved"
+msgstr "رفع‌شده"
+
+msgid "Restart at 1"
+msgstr "شروع دوباره از ۱"
+
+msgid "Restart Each Page"
+msgstr "شروع دوباره در هر صفحه"
+
+msgid "Restart Each Section"
+msgstr "شروع دوباره در هر بخش"
+
+msgid "Restart list after:"
+msgstr "شروع دوبارهٔ فهرست پس از:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "«بازیابی» یک نسخهٔ ذخیره‌نشده باز می‌کند. فایل اصلی شما بدون تغییر می‌ماند."
+
+msgid "Restrict Editing"
+msgstr "محدودکردن ویرایش"
+
+msgid "Restrict\nEditing"
+msgstr "محدودکردن\nویرایش"
+
+msgid "Results"
+msgstr "نتایج"
+
+msgid "Return address labels"
+msgstr "برچسب‌های نشانی فرستنده"
+
+msgid "Return address:"
+msgstr "نشانی فرستنده:"
+
+msgid "Reviewing"
+msgstr "مرور"
+
+msgid "Reviewing Pane"
+msgstr "پنجرهٔ مرور"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "مرور — ویرایش‌ها به پیشنهاد تبدیل می‌شوند"
+
+msgid "Revised document"
+msgstr "سند بازنگری‌شده"
+
+msgid "Rewind"
+msgstr "عقب‌گرد"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr ""
+
+msgid "Ribbon"
+msgstr "روبان"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "روبان و نوارابزار دسترسی سریع:"
+
+msgid "Ribbon tabs"
+msgstr "زبانه‌های روبان"
+
+msgid "Rich Text Content Control"
+msgstr "کنترل محتوای متن غنی"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "راست (عمودی)"
+
+msgid "Right Arrow with Text Above"
+msgstr "فلش راست با متن در بالا"
+
+msgid "Right Arrow with Text Below"
+msgstr "فلش راست با متن در پایین"
+
+msgid "Right Border"
+msgstr "حاشیهٔ راست"
+
+msgid "Right border"
+msgstr "حاشیهٔ راست"
+
+msgid "Right Bracket Twice"
+msgstr "کروشهٔ راست دوگانه"
+
+msgid "Right indent"
+msgstr "تورفتگی راست"
+
+msgid "Right Margin"
+msgstr "حاشیهٔ راست"
+
+msgid "Right Only"
+msgstr "فقط راست"
+
+msgid "Right-to-left"
+msgstr "راست‌به‌چپ"
+
+msgid "Right-to-Left Section"
+msgstr "بخش راست‌به‌چپ"
+
+msgid "Right-to-Left Table"
+msgstr "جدول راست‌به‌چپ"
+
+msgid "Right-to-Left Text Direction"
+msgstr "جهت متن راست‌به‌چپ"
+
+msgid "Rightwards Arrow Above"
+msgstr "فلش رو به راست در بالا"
+
+msgid "Rightwards Harpoon Above"
+msgstr "قلاب رو به راست در بالا"
+
+msgid "Romanian"
+msgstr "رومانیایی"
+
+msgid "Roots of ax²+bx+c"
+msgstr "ریشه‌های ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "چرخش همهٔ متن ۲۷۰°"
+
+msgid "Rotate all text 90°"
+msgstr "چرخش همهٔ متن ۹۰°"
+
+msgid "Rotate Left 90°"
+msgstr "چرخش چپ ۹۰°"
+
+msgid "Rotate Right 90°"
+msgstr "چرخش راست ۹۰°"
+
+msgid "Rotate with shape"
+msgstr "چرخش با شکل"
+
+msgid "Rounded"
+msgstr "گردشده"
+
+msgid "Row"
+msgstr "سطر"
+
+msgid "Row:"
+msgstr "سطر:"
+
+msgid "Rows & Columns"
+msgstr "سطرها و ستون‌ها"
+
+msgid "Ruby text:"
+msgstr "متن روبی:"
+
+msgid "Rules"
+msgstr "قواعد"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "پیوسته"
+
+msgid "Russia"
+msgstr "روسیه"
+
+msgid "Résumé"
+msgstr "رزومه"
+
+msgid "SAMPLE"
+msgstr "نمونه"
+
+msgid "Sat:"
+msgstr "شنبه:"
+
+msgid "Saturation and recolor"
+msgstr "اشباع و بازرنگ‌آمیزی"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "نسخه‌ای را با قالب دیگر ذخیره کنید. چاپ از طریق PDFی انجام می‌شود که می‌توانید آن را از هر نمایشگری چاپ کنید."
+
+msgid "Save as Word Template…"
+msgstr "ذخیره به‌عنوان قالب Word…"
+
+msgid "Save documents"
+msgstr "ذخیرهٔ سندها"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "برای روشن‌کردن ذخیرهٔ خودکار سند را ذخیره کنید"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "برای روشن‌کردن ذخیرهٔ خودکار سند را ذخیره کنید (فایلی که فقط باز کرده‌اید تا ذخیره نکنید بازنویسی نمی‌شود)"
+
+msgid "Save these pages as PDF…"
+msgstr "ذخیرهٔ این صفحه‌ها به‌صورت PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr ""
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "یک قالب .dotx در پوشهٔ قالب‌های شما ذخیره می‌کند. در فایل › جدید زیر شخصی ظاهر می‌شود."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "ذخیرهٔ {name} لغو شد، بنابراین هنوز باز است و چیزی از دست نرفت."
+
+msgid "Sayings"
+msgstr ""
+
+msgid "Sayings:"
+msgstr ""
+
+msgid "Scale Drawing"
+msgstr "مقیاس ترسیم"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "مقیاس به اندازهٔ کاغذ"
+
+msgid "Scatter"
+msgstr "پراکندگی"
+
+msgid "Script"
+msgstr "خط"
+
+msgid "Scroll ribbon left"
+msgstr "پیمایش روبان به چپ"
+
+msgid "Scroll ribbon right"
+msgstr "پیمایش روبان به راست"
+
+msgid "Search Commands"
+msgstr "جست‌وجوی فرمان‌ها"
+
+msgid "Search commands and help"
+msgstr "جست‌وجوی فرمان‌ها و راهنما"
+
+msgid "Search document"
+msgstr "جست‌وجو در سند"
+
+msgid "Search for templates"
+msgstr "جست‌وجوی قالب‌ها"
+
+msgid "Search icons"
+msgstr "جست‌وجوی نمادها"
+
+msgid "Search Options"
+msgstr "گزینه‌های جست‌وجو"
+
+msgid "Search:"
+msgstr "جستجو:"
+
+msgid "Secant Function"
+msgstr "تابع سکانت"
+
+msgid "Section 1.01"
+msgstr "بخش ۱.۰۱"
+
+msgid "Section Break"
+msgstr "شکست بخش"
+
+msgid "Section Breaks"
+msgstr "شکست‌های بخش"
+
+msgid "Section Character"
+msgstr "کاراکتر بخش"
+
+msgid "Section direction:"
+msgstr "جهت بخش:"
+
+msgid "Section Mark"
+msgstr "نشان بخش"
+
+msgid "Section Properties"
+msgstr "ویژگی‌های بخش"
+
+msgid "Sections"
+msgstr "بخش‌ها"
+
+msgid "See"
+msgstr "ببینید"
+
+msgid "select a chart first"
+msgstr "نخست یک نمودار انتخاب کنید"
+
+msgid "select a connector first"
+msgstr "نخست یک رابط انتخاب کنید"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "نخست یک بوم ترسیم انتخاب کنید"
+
+msgid "select a floating picture or shape first"
+msgstr "نخست یک تصویر یا شکل شناور انتخاب کنید"
+
+msgid "select a group first"
+msgstr "نخست یک گروه انتخاب کنید"
+
+msgid "select a picture first"
+msgstr "نخست یک تصویر انتخاب کنید"
+
+msgid "Select a picture first."
+msgstr "ابتدا یک تصویر انتخاب کنید."
+
+msgid "select a picture or shape first"
+msgstr "نخست یک تصویر یا شکل انتخاب کنید"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "برای توصیف، یک تصویر، شکل، نمودار یا جدول انتخاب کنید."
+
+msgid "Select a place in this document:"
+msgstr "مکانی در این سند انتخاب کنید:"
+
+msgid "Select a printer"
+msgstr "یک چاپگر انتخاب کنید"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "نخست یک شکل انتخاب کنید"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "برای قالب‌بندی پُرکننده، یک شکل، جعبهٔ متن یا بوم ترسیم انتخاب کنید."
+
+msgid "select a SmartArt graphic first"
+msgstr "نخست یک نگارهٔ SmartArt انتخاب کنید"
+
+msgid "select a text box first"
+msgstr "نخست یک جعبهٔ متن انتخاب کنید"
+
+msgid "select a text box linked to another first"
+msgstr "نخست یک جعبهٔ متن پیوندشده به دیگری انتخاب کنید"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "انتخاب خانه"
+
+msgid "Select Column"
+msgstr "انتخاب ستون"
+
+msgid "Select Heading and Content"
+msgstr "انتخاب سرتیتر و محتوا"
+
+msgid "Select Line"
+msgstr "انتخاب خط"
+
+msgid "Select Paragraph"
+msgstr "انتخاب پاراگراف"
+
+msgid "Select Picture…"
+msgstr "انتخاب تصویر…"
+
+msgid "Select Range"
+msgstr "انتخاب محدوده"
+
+msgid "Select Recipients"
+msgstr "انتخاب گیرندگان"
+
+msgid "select recipients first"
+msgstr "نخست گیرندگان را انتخاب کنید"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "برای انتخاب از فیلدهایشان، نخست گیرندگان را انتخاب کنید."
+
+msgid "Select recipients first to match their fields."
+msgstr "برای تطبیق فیلدهایشان، نخست گیرندگان را انتخاب کنید."
+
+msgid "Select Row"
+msgstr "انتخاب سطر"
+
+msgid "Select Sentence"
+msgstr "انتخاب جمله"
+
+msgid "Select Table"
+msgstr "انتخاب جدول"
+
+msgid "Select Table Cells by Clicking"
+msgstr "انتخاب خانه‌های جدول با کلیک"
+
+msgid "Select Text"
+msgstr "انتخاب متن"
+
+msgid "Select Text with Similar Formatting"
+msgstr "انتخاب متن با قالب‌بندی مشابه"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "متن را انتخاب کنید، سپس تیک بزنید چه کسی هنوز می‌تواند آن را ویرایش کند."
+
+msgid "select two or more cells to merge"
+msgstr "برای ادغام دو یا چند خانه انتخاب کنید"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "نخست دو یا چند تصویر یا شکل انتخاب کنید (Shift+کلیک)"
+
+msgid "Select Word"
+msgstr "انتخاب واژه"
+
+msgid "Select\nRecipients"
+msgstr "انتخاب\nگیرندگان"
+
+msgid "Selected Fields"
+msgstr "فیلدهای انتخاب‌شده"
+
+msgid "Selected text"
+msgstr "متن انتخاب‌شده"
+
+msgid "Selection Pane"
+msgstr "پنجرهٔ انتخاب"
+
+msgid "Semitransparent"
+msgstr "نیمه‌شفاف"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "سند را مستقیم به گفت‌وگوی چاپ سیستم بفرستید، یا در پایین نسخه‌ای را با قالب دیگر ذخیره کنید."
+
+msgid "Sentence"
+msgstr "جمله"
+
+msgid "Sentence case."
+msgstr "حالت جمله."
+
+msgid "Separate text at"
+msgstr "جداکردن متن در"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "جداکننده:"
+
+msgid "Sepia"
+msgstr "قهوه‌ای محو"
+
+msgid "Sequence name:"
+msgstr "نام دنباله:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "صربی (سیریلی)"
+
+msgid "Serbian (Latin)"
+msgstr "صربی (لاتین)"
+
+msgid "Series name"
+msgstr "نام سری"
+
+msgid "Series {n}"
+msgstr "سری {n}"
+
+msgid "Set As Default"
+msgstr "تعیین به‌عنوان پیش‌فرض"
+
+msgid "Set as default"
+msgstr "تنظیم به‌عنوان پیش‌فرض"
+
+msgid "Set As Default (Font)"
+msgstr ""
+
+msgid "Set As Default (Page Setup)"
+msgstr ""
+
+msgid "Set As Default (Paragraph)"
+msgstr ""
+
+msgid "Set as Default Language"
+msgstr "تنظیم به‌عنوان زبان پیش‌فرض"
+
+msgid "Set Caret"
+msgstr "تعیین نشانگر"
+
+msgid "Set Character Formatting"
+msgstr "تعیین قالب‌بندی کاراکتر"
+
+msgid "Set Date"
+msgstr "تعیین تاریخ"
+
+msgid "Set Equation"
+msgstr "تعیین معادله"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "تعیین مقدار شماره‌گذاری"
+
+msgid "Set Paragraph Formatting"
+msgstr "تعیین قالب‌بندی پاراگراف"
+
+msgid "Set Proofing Language…"
+msgstr "تعیین زبان بررسی…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "تنظیم:"
+
+msgid "Shading"
+msgstr "سایه‌اندازی"
+
+msgid "Shadow, glow and soft edges"
+msgstr "سایه، درخشش و لبه‌های نرم"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "پُرکنندهٔ شکل"
+
+msgid "Shape Format"
+msgstr "قالب شکل"
+
+msgid "Shape Outline"
+msgstr "خط دور شکل"
+
+msgid "Shape Styles"
+msgstr "سبک‌های شکل"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "برچسب‌های ارسال"
+
+msgid "Shortcut key:"
+msgstr "کلید میان‌بر:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "نمایش خطوط راهنمای تراز هنگام جابه‌جایی تصاویر و شکل‌ها"
+
+msgid "Show all formatting marks"
+msgstr "نمایش همهٔ نشانه‌های قالب‌بندی"
+
+msgid "Show All Levels"
+msgstr "نمایش همهٔ سطوح"
+
+msgid "Show all revisions inline"
+msgstr "نمایش همهٔ بازنگری‌ها درون‌خطی"
+
+msgid "Show changes at:"
+msgstr "نمایش تغییرات در:"
+
+msgid "Show changes in:"
+msgstr "نمایش تغییرات در:"
+
+msgid "Show Comments"
+msgstr "نمایش نظرها"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "نمایش سندها با رنگ‌های معکوس، مانند نما › تغییر حالت‌ها. ذخیره، چاپ و PDFها بدون تغییر می‌مانند."
+
+msgid "Show every bibliography field"
+msgstr "نمایش همهٔ فیلدهای کتاب‌نامه"
+
+msgid "Show First Line Only"
+msgstr "نمایش فقط خط اول"
+
+msgid "Show in the Styles gallery"
+msgstr "نمایش در گالری سبک‌ها"
+
+msgid "Show its list number"
+msgstr "نمایش شمارهٔ فهرستش"
+
+msgid "Show its number relative to this field"
+msgstr "نمایش شمارهٔ آن نسبت به این فیلد"
+
+msgid "Show its number with all higher levels"
+msgstr "نمایش شمارهٔ آن با همهٔ سطوح بالاتر"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "نمایش KeyTips (Alt یا F10)"
+
+msgid "Show Level"
+msgstr "نمایش سطح"
+
+msgid "Show Level 1"
+msgstr "نمایش سطح ۱"
+
+msgid "Show Level 2"
+msgstr "نمایش سطح ۲"
+
+msgid "Show Level 3"
+msgstr "نمایش سطح ۳"
+
+msgid "Show Level 4"
+msgstr "نمایش سطح ۴"
+
+msgid "Show Level 5"
+msgstr "نمایش سطح ۵"
+
+msgid "Show Level 6"
+msgstr "نمایش سطح ۶"
+
+msgid "Show Level 7"
+msgstr "نمایش سطح ۷"
+
+msgid "Show Level 8"
+msgstr "نمایش سطح ۸"
+
+msgid "Show Level 9"
+msgstr "نمایش سطح ۹"
+
+msgid "Show Markup"
+msgstr "نمایش نشانه‌گذاری"
+
+msgid "Show Notes"
+msgstr "نمایش یادداشت‌ها"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "نمایش فقط نظرها و قالب‌بندی در حباب‌ها"
+
+msgid "Show only records that will be merged"
+msgstr "نمایش فقط رکوردهایی که ادغام می‌شوند"
+
+msgid "Show or Hide Style"
+msgstr "نمایش یا پنهان‌کردن سبک"
+
+msgid "Show Quick Access Toolbar"
+msgstr "نمایش نوارابزار دسترسی سریع"
+
+msgid "Show revisions in balloons"
+msgstr "نمایش بازنگری‌ها در حباب‌ها"
+
+msgid "Show Text Formatting"
+msgstr "نمایش قالب‌بندی متن"
+
+msgid "Show the Assistant"
+msgstr ""
+
+msgid "Show the community button in the title bar"
+msgstr "نمایش دکمهٔ انجمن در نوار عنوان"
+
+msgid "Show the equation in the line of text"
+msgstr "نمایش معادله در خط متن"
+
+msgid "Show the equation on a line of its own"
+msgstr "نمایش معادله در خطی جداگانه"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "نمایش نوارابزار کوچک هنگام انتخاب متن"
+
+msgid "Show the ribbon"
+msgstr "نمایش روبان"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "نمایش صفحهٔ شروع هنگام راه‌اندازی WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr ""
+
+msgid "Show/Hide ¶"
+msgstr "نمایش/پنهان‌کردن ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show\nComments"
+msgstr "نمایش\nنظرها"
+
+msgid "Showing the first {count} items."
+msgstr "نمایش {count} مورد اول."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "درختی نشان می‌دهد: هر مورد زیر موردی که به آن تعلق دارد."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "موارد را پیرامون یک ایدهٔ مرکزی نشان می‌دهد: مورد اول مرکز است."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "موارد هم‌وزن را به‌صورت بلوک‌هایی در سطرها نشان می‌دهد."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "ایده‌های هم‌پوشان را به‌صورت دایره‌های هم‌پوشان نشان می‌دهد."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "بخش‌های یک کل را به‌صورت ربع‌ها نشان می‌دهد."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "بخش‌هایی را نشان می‌دهد که بر یکدیگر بنا می‌شوند، بزرگ‌ترین در پایین."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "گام‌ها را به ترتیب، از چپ به راست، با فلش‌هایی میان آن‌ها نشان می‌دهد."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "گام‌های تکرارشونده را پیرامون یک دایره نشان می‌دهد."
+
+msgid "Shrink Font 1 Point"
+msgstr "کوچک‌کردن قلم ۱ نقطه"
+
+msgid "Shrink text"
+msgstr "کوچک‌کردن متن"
+
+msgid "Side to Side"
+msgstr "پهلو به پهلو"
+
+msgid "Side\nto Side"
+msgstr "پهلو\nبه پهلو"
+
+msgid "Sides of a right triangle"
+msgstr "ضلع‌های یک مثلث قائم‌الزاویه"
+
+msgid "Signature Line"
+msgstr "خط امضا"
+
+msgid "Simple Frame"
+msgstr "قاب ساده"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "سری سینوس و کسینوس f(x)"
+
+msgid "Sine Function"
+msgstr "تابع سینوس"
+
+msgid "Sine theta"
+msgstr "سینوس تتا"
+
+msgid "Singapore"
+msgstr "سنگاپور"
+
+msgid "Single"
+msgstr "یک‌خط"
+
+msgid "Single Brackets"
+msgstr "کروشه‌های تکی"
+
+msgid "Single Closing Quote"
+msgstr "گیومهٔ بستهٔ تکی"
+
+msgid "Single label"
+msgstr "برچسب تکی"
+
+msgid "Single Left Angle"
+msgstr "زاویهٔ چپ تکی"
+
+msgid "Single Left Bar"
+msgstr "میلهٔ چپ تکی"
+
+msgid "Single Left Brace"
+msgstr "آکولاد چپ تکی"
+
+msgid "Single Left Bracket"
+msgstr "کروشهٔ چپ تکی"
+
+msgid "Single Left Parenthesis"
+msgstr "پرانتز چپ تکی"
+
+msgid "Single Opening Quote"
+msgstr "گیومهٔ باز تکی"
+
+msgid "Single Right Brace"
+msgstr "آکولاد راست تکی"
+
+msgid "Single Right Bracket"
+msgstr "کروشهٔ راست تکی"
+
+msgid "Single Right Parenthesis"
+msgstr "پرانتز راست تکی"
+
+msgid "Single Spacing"
+msgstr "فاصلهٔ خط یک‌خط"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "نام سایت"
+
+msgid "Size (pt):"
+msgstr "اندازه (pt):"
+
+msgid "Size and Crop…"
+msgstr "اندازه و برش…"
+
+msgid "Sketchbook"
+msgstr "دفترچهٔ طرح"
+
+msgid "Skewed Fraction"
+msgstr "کسر اریب"
+
+msgid "Skip citations & bibliography"
+msgstr "گذر از ارجاع‌ها و کتاب‌نامه"
+
+msgid "Skip Citations and Bibliography"
+msgstr "گذر از ارجاع‌ها و کتاب‌نامه"
+
+msgid "Skip Record If"
+msgstr "گذر از رکورد اگر"
+
+msgid "Skip Record If…"
+msgstr "گذر از رکورد اگر…"
+
+msgid "Slant Down"
+msgstr "شیب رو به پایین"
+
+msgid "Slant Up"
+msgstr "شیب رو به بالا"
+
+msgid "Slovak"
+msgstr "اسلواکی"
+
+msgid "Slovenian"
+msgstr "اسلوونیایی"
+
+msgid "Small caps"
+msgstr "حروف بزرگ کوچک"
+
+msgid "Small change"
+msgstr "تغییر کوچک"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "گیومه‌های هوشمند به‌جای گیومه‌های راست"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "طراحی SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "سبک‌های SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "پیمایش و بزرگ‌نمایی نرم، و منوها و دکمه‌هایی که به‌آرامی ظاهر می‌شوند. خاموش همهٔ تغییرات را یک‌باره نشان می‌دهد."
+
+msgid "Soft Edge"
+msgstr "لبهٔ نرم"
+
+msgid "Soft Edges"
+msgstr "لبه‌های نرم"
+
+msgid "Soft Glow"
+msgstr "درخشش نرم"
+
+msgid "Solid Accent"
+msgstr "تأکیدی توپُر"
+
+msgid "Solid fill"
+msgstr "پُرکنندهٔ توپُر"
+
+msgid "Sometimes"
+msgstr ""
+
+msgid "Sort by:"
+msgstr "مرتب‌سازی بر پایهٔ:"
+
+msgid "Sort order:"
+msgstr "ترتیب مرتب‌سازی:"
+
+msgid "Sort Recipients"
+msgstr "مرتب‌سازی گیرندگان"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "کد منبع: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "مدیر منبع"
+
+msgid "Source type:"
+msgstr "نوع منبع:"
+
+msgid "Sources in this document:"
+msgstr "منابع در این سند:"
+
+msgid "South"
+msgstr "جنوب"
+
+msgid "South Africa"
+msgstr "آفریقای جنوبی"
+
+msgid "Space"
+msgstr "فاصله"
+
+msgid "Space after"
+msgstr "فاصله پس از"
+
+msgid "Space after: {pt} pt"
+msgstr "فاصله پس از: {pt} pt"
+
+msgid "Space before"
+msgstr "فاصله پیش از"
+
+msgid "Space before/after:"
+msgstr "فاصله پیش/پس از:"
+
+msgid "Space before: {pt} pt"
+msgstr "فاصله پیش از: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "فاصله‌گذاری (pt):"
+
+msgid "Spain"
+msgstr "اسپانیا"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "اسپانیایی (مکزیک)"
+
+msgid "Spanish (Spain)"
+msgstr "اسپانیایی (اسپانیا)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "ماتریس‌های تنک"
+
+msgid "Special Characters"
+msgstr "کاراکترهای ویژه"
+
+msgid "Specify height:"
+msgstr "تعیین ارتفاع:"
+
+msgid "Speech"
+msgstr "گفتار"
+
+msgid "Spelling & Grammar"
+msgstr "املا و دستور"
+
+msgid "Spelling &\nGrammar"
+msgstr "املا و\nدستور"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr "املا و دستور به انگلیسی (ایالات متحده) بررسی می‌شوند."
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "املا و دستور به {language} بررسی می‌شوند."
+
+msgid "Spelling Suggestions"
+msgstr "پیشنهادهای املا"
+
+msgid "Spike"
+msgstr "واژه‌بانک"
+
+msgid "Split Cells"
+msgstr "تقسیم خانه‌ها"
+
+msgid "Split Table"
+msgstr "تقسیم جدول"
+
+msgid "Spreadsheet Table"
+msgstr "جدول صفحه‌گسترده"
+
+msgid "Square Root"
+msgstr "ریشهٔ دوم"
+
+msgid "Square Root with Degree"
+msgstr "ریشهٔ دوم با درجه"
+
+msgid "Square Union"
+msgstr "اجتماع مربعی"
+
+msgid "Stack Object"
+msgstr "شیء انباشته"
+
+msgid "Stack Object (Three)"
+msgstr "شیء انباشته (سه‌تایی)"
+
+msgid "Stacked Bar"
+msgstr "میله‌ای انباشته"
+
+msgid "Stacked Column"
+msgstr "ستونی انباشته"
+
+msgid "Stacked Fraction"
+msgstr "کسر انباشته"
+
+msgid "Stacked, no bar"
+msgstr "انباشته، بدون میله"
+
+msgid "Standard Colors"
+msgstr "رنگ‌های استاندارد"
+
+msgid "Start Enforcing Protection"
+msgstr "آغاز اعمال محافظت"
+
+msgid "Start Mail Merge"
+msgstr "آغاز ادغام نامه"
+
+msgid "Start Mail\nMerge"
+msgstr "آغاز ادغام\nنامه"
+
+msgid "Start-up"
+msgstr "راه‌اندازی"
+
+msgid "State"
+msgstr "حالت"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   ۵٫۵۰\" × ۸٫۵۰\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr ""
+
+msgid "Stop Protection"
+msgstr "توقف محافظت"
+
+msgid "Stop Reading"
+msgstr "توقف خواندن"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "متوقف‌شده"
+
+msgid "Straight Arrow Connector"
+msgstr "رابط فلش‌دار راست"
+
+msgid "Straight Connector"
+msgstr "رابط راست"
+
+msgid "Stroke {n} of {total}"
+msgstr "ضربهٔ {n} از {total}"
+
+msgid "Strong"
+msgstr "قوی"
+
+msgid "Structure Actions"
+msgstr "اقدامات ساختار"
+
+msgid "Structures"
+msgstr "ساختارها"
+
+msgid "Studio cover"
+msgstr "جلد Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "کتاب راهنمای Studio (نمونه)"
+
+msgid "Style based on:"
+msgstr "سبک بر پایهٔ:"
+
+msgid "Style Inspector"
+msgstr "بازرس سبک"
+
+msgid "Style name:"
+msgstr "نام سبک:"
+
+msgid "Style Set"
+msgstr "مجموعهٔ سبک"
+
+msgid "Style: APA"
+msgstr "سبک: APA"
+
+msgid "Style: {style}"
+msgstr "سبک: {style}"
+
+msgid "Styles Pane"
+msgstr "پنجرهٔ سبک‌ها"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "سبک‌ها:"
+
+msgid "Subentry:"
+msgstr "زیرمدخل:"
+
+msgid "Submit print job"
+msgstr "ارسال کار چاپ"
+
+msgid "Submitting print job…"
+msgstr "ارسال کار چاپ…"
+
+msgid "Subscript-Superscript"
+msgstr "زیرنویس-بالانویس"
+
+msgid "Subscripts and Superscripts"
+msgstr "زیرنویس‌ها و بالانویس‌ها"
+
+msgid "Subset:"
+msgstr "زیرمجموعه:"
+
+msgid "Subtle Emphasis"
+msgstr "تأکید ملایم"
+
+msgid "Subtle Reference"
+msgstr "ارجاع ملایم"
+
+msgid "Suggested"
+msgstr "پیشنهادی"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "مجموع"
+
+msgid "Sum of cosines"
+msgstr "مجموع کسینوس‌ها"
+
+msgid "Sum or difference of sines"
+msgstr "مجموع یا تفاضل سینوس‌ها"
+
+msgid "Summation"
+msgstr "جمع"
+
+msgid "Summation from 0 to n"
+msgstr "جمع از ۰ تا n"
+
+msgid "Summation over binomials"
+msgstr "جمع روی دوجمله‌ای‌ها"
+
+msgid "Summation with Limits"
+msgstr "جمع با حدود"
+
+msgid "Summation with Lower Limit"
+msgstr "جمع با حد پایین"
+
+msgid "Summation with Subscript Limit"
+msgstr "جمع با حد زیرنویس"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "جمع با حدود زیرنویس-بالانویس"
+
+msgid "Summations"
+msgstr "جمع‌ها"
+
+msgid "Suppress line numbers"
+msgstr "سرکوب شماره‌های خط"
+
+msgid "Surface Integral"
+msgstr "انتگرال سطحی"
+
+msgid "Surface Integral with Limits"
+msgstr "انتگرال سطحی با حدود"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "انتگرال سطحی با حدود انباشته"
+
+msgid "Swahili"
+msgstr "سواحیلی"
+
+msgid "Swap footnotes and endnotes"
+msgstr "جابه‌جایی پانویس‌ها و پانویس‌های پایان"
+
+msgid "Swedish"
+msgstr "سوئدی"
+
+msgid "Switch Modes"
+msgstr "تغییر حالت‌ها"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "تغییر\nحالت‌ها"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "سوئیس"
+
+msgid "Synonyms"
+msgstr "مترادف‌ها"
+
+msgid "Syria"
+msgstr "سوریه"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "سیستم"
+
+msgid "System dictionary"
+msgstr "واژه‌نامهٔ سیستم"
+
+msgid "Tab Character"
+msgstr "کاراکتر تب"
+
+msgid "Tab character"
+msgstr "کاراکتر تب"
+
+msgid "Tab characters"
+msgstr "کاراکترهای تب"
+
+msgid "Tab leader:"
+msgstr "راهنمای تب:"
+
+msgid "Tab stop position:"
+msgstr "موقعیت ایستگاه تب:"
+
+msgid "Tab stops to be cleared:"
+msgstr "ایستگاه‌های تبی که پاک می‌شوند:"
+
+msgid "Table Column Width"
+msgstr "عرض ستون جدول"
+
+msgid "Table Design"
+msgstr "طراحی جدول"
+
+msgid "Table direction:"
+msgstr "جهت جدول:"
+
+msgid "Table Grid"
+msgstr "شبکهٔ جدول"
+
+msgid "Table Layout"
+msgstr "چیدمان جدول"
+
+msgid "Table of Authorities"
+msgstr "جدول مراجع"
+
+msgid "Table of Contents"
+msgstr "فهرست مطالب"
+
+msgid "Table of Contents Options"
+msgstr "گزینه‌های فهرست مطالب"
+
+msgid "Table of Contents Styles"
+msgstr "سبک‌های فهرست مطالب"
+
+msgid "Table of Figures"
+msgstr "جدول شکل‌ها"
+
+msgid "Table of\nContents"
+msgstr "فهرست\nمطالب"
+
+msgid "Table Properties"
+msgstr "ویژگی‌های جدول"
+
+msgid "Table Properties…"
+msgstr "ویژگی‌های جدول…"
+
+msgid "Table Row Height"
+msgstr "ارتفاع سطر جدول"
+
+msgid "Table size"
+msgstr "اندازهٔ جدول"
+
+msgid "Table Style Options"
+msgstr "گزینه‌های سبک جدول"
+
+msgid "Table Styles"
+msgstr "سبک‌های جدول"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   ۱۱٫۰۰\" × ۱۷٫۰۰\""
+
+msgid "Tabs…"
+msgstr "تب‌ها…"
+
+msgid "Tabular List"
+msgstr "فهرست جدولی"
+
+msgid "Tag"
+msgstr "برچسب"
+
+msgid "Taiwan"
+msgstr "تایوان"
+
+msgid "Take the last match on the page"
+msgstr "آخرین مطابقت در صفحه را بگیر"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr ""
+
+msgid "Tamil"
+msgstr "تامیلی"
+
+msgid "Tangent formula"
+msgstr "فرمول تانژانت"
+
+msgid "Tangent Function"
+msgstr "تابع تانژانت"
+
+msgid "TC entry fields"
+msgstr "فیلدهای مدخل TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "فناوری"
+
+msgid "Templates and Add-ins"
+msgstr "قالب‌ها و افزودنی‌ها"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "قالب‌هایی که در پوشهٔ قالب‌های خود ذخیره می‌کنید اینجا ظاهر می‌شوند."
+
+msgid "Text Box"
+msgstr "جعبهٔ متن"
+
+msgid "Text boxes"
+msgstr "جعبه‌های متن"
+
+msgid "text boxes can't go inside a text box"
+msgstr "جعبه‌های متن نمی‌توانند درون جعبهٔ متن قرار گیرند"
+
+msgid "Text Direction"
+msgstr "جهت متن"
+
+msgid "Text Effects"
+msgstr "جلوه‌های متن"
+
+msgid "Text Effects and Typography"
+msgstr "جلوه‌های متن و حروف‌چینی"
+
+msgid "Text Fill"
+msgstr "پُرکنندهٔ متن"
+
+msgid "Text from File"
+msgstr "متن از فایل"
+
+msgid "Text Highlight Color"
+msgstr "رنگ برجسته‌سازی متن"
+
+msgid "Text indent at:"
+msgstr "تورفتگی متن در:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "متن نزدیک‌ترین پاراگراف با سبک مشخص (سرصفحه‌های جاری)"
+
+msgid "Text Outline"
+msgstr "خط دور متن"
+
+msgid "Text over Colon Equal"
+msgstr "متن روی دونقطه مساوی"
+
+msgid "Text over Equal"
+msgstr "متن روی مساوی"
+
+msgid "Text Pane"
+msgstr "پنجرهٔ متن"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "اندازهٔ متن"
+
+msgid "Text snaps to characters"
+msgstr "متن به کاراکترها می‌چسبد"
+
+msgid "Text to display:"
+msgstr "متنی برای نمایش:"
+
+msgid "Text watermark"
+msgstr "واترمارک متنی"
+
+msgid "Text Wrapping"
+msgstr "شکستن متن"
+
+msgid "Text\nBox"
+msgstr "جعبهٔ\nمتن"
+
+msgid "Text\nDirection"
+msgstr "جهت\nمتن"
+
+msgid "Thai"
+msgstr "تایلندی"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "آن قالب همه‌چیز را نگه نمی‌دارد، بنابراین سند هنوز باز است. برای ادامه آن را به‌صورت سند Word (.docx) ذخیره کنید."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "آن گذرواژه درست نیست. آن را بررسی کنید (گذرواژه‌ها به بزرگی و کوچکی حروف حساس‌اند) و دوباره تلاش کنید."
+
+msgid "The clipboard is empty."
+msgstr "کلیپ‌بورد خالی است."
+
+msgid "the Clipboard pane is empty"
+msgstr "پنجرهٔ کلیپ‌بورد خالی است"
+
+msgid "the cursor isn't in a table"
+msgstr "نشانگر در جدول نیست"
+
+msgid "The date it is today"
+msgstr "تاریخ امروز"
+
+msgid "The document has no bookmarks yet."
+msgstr "سند هنوز نشانکی ندارد."
+
+msgid "the document is protected"
+msgstr "سند محافظت‌شده است"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "سند فقط خواندنی است، جز نواحی علامت‌خورده به‌عنوان ویرایش‌پذیر."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "سند با گذرواژه ذخیره می‌شود. برای محافظت از آن ذخیره کنید."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "سندی که ویرایش می‌کنید نام‌ها و تاریخ‌ها را نگه می‌دارد؛ فقط فایل ذخیره‌شده آن‌ها را حذف می‌کند."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "حاشیه‌ها روی صفحه‌ای به این اندازه جا نمی‌شوند؛ نخست حاشیه‌ها را کوچک‌تر کنید."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "اندازه باید میان {min} و {max} باشد."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "سبک جدید قالب‌بندی پاراگراف جاری را می‌گیرد."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr ""
+
+msgid "The number must be a divisor of {max}."
+msgstr "عدد باید مقسوم‌علیه {max} باشد."
+
+msgid "The number must be between 1 and {max}."
+msgstr "عدد باید میان ۱ و {max} باشد."
+
+msgid "the paragraph is empty"
+msgstr "پاراگراف خالی است"
+
+msgid "the paragraph starts with a space"
+msgstr "پاراگراف با یک فاصله آغاز می‌شود"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "گذرواژه اختیاری است؛ بدون آن هر کسی می‌تواند محافظت را پایان دهد."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "گذرواژه حذف شد. برای نگه‌داشتن تغییر، سند را ذخیره کنید."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "چاپگر، چاپ دورو و صفحه در هر برگ در همان گفت‌وگو انتخاب می‌شوند."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "فیلد فهرست گیرندگان که هر بخش بلوک نشانی و خط خوشامد را پر می‌کند."
+
+msgid "The spelling and grammar check is complete."
+msgstr "بررسی املا و دستور کامل شد."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "واژه‌نامهٔ املایی {language} خوانده نشد، بنابراین بررسی نمی‌شود. فایل: {file}. دلیل: {reason}"
+
+msgid "the Spike is empty"
+msgstr "واژه‌بانک خالی است"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "گفت‌وگوی فایل سیستم در دسترس نیست، بنابراین WordCraft گفت‌وگوی خودش را نشان می‌دهد. برای داشتن گفت‌وگوی سیستم، یک درگاه انتخاب فایل (مانند xdg-desktop-portal-gtk) یا zenity نصب کنید."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "متن در محل درج به‌عنوان «املا یا دستور را بررسی نکن» علامت‌گذاری شده است."
+
+msgid "The time right now"
+msgstr "زمان همین حالا"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "رنگ‌های پوسته"
+
+msgid "Theme Fonts"
+msgstr "قلم‌های پوسته"
+
+msgid "Theme List"
+msgstr "فهرست پوسته"
+
+msgid "Themes"
+msgstr "پوسته‌ها"
+
+msgid "Then by"
+msgstr "سپس بر پایهٔ"
+
+msgid "Then insert:"
+msgstr "سپس درج کن:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "جوهری برای پخش دوباره نیست"
+
+msgid "there is nothing to undo"
+msgstr "چیزی برای واگرد نیست"
+
+msgid "there's no citation after the caret"
+msgstr "ارجاعی پس از نشانگر نیست"
+
+msgid "Thesaurus"
+msgstr "واژه‌یاب"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "این نشانه‌ها حتی وقتی نمایش/پنهان‌کردن ¶ خاموش است نشان داده می‌شوند."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "این فیلدهای ادغام در فهرست گیرندگان نیستند:"
+
+msgid "These settings will be used for new documents."
+msgstr "این تنظیمات برای سندهای جدید استفاده می‌شوند."
+
+msgid "Thick"
+msgstr "ضخیم"
+
+msgid "Thick Frame"
+msgstr "قاب ضخیم"
+
+msgid "Thin"
+msgstr "نازک"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "این قابل واگرد نیست. فایل اصلی شما بدون تغییر می‌ماند."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "این نمودار در برنامهٔ دیگری ساخته شده است: WordCraft آن را نشان می‌دهد اما نمی‌تواند ویرایشش کند"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "این سند"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr ""
+
+msgid "This field has no options."
+msgstr "این فیلد گزینه‌ای ندارد."
+
+msgid "This folder can't be read: {error}"
+msgstr "این پوشه خوانده نمی‌شود: {error}"
+
+msgid "This font has no characters to show."
+msgstr "این قلم کاراکتری برای نمایش ندارد."
+
+msgid "this item is already at the top level"
+msgstr "این مورد از قبل در سطح بالا است"
+
+msgid "This page"
+msgstr "این صفحه"
+
+msgid "This password type isn't supported."
+msgstr "این نوع گذرواژه پشتیبانی نمی‌شود."
+
+msgid "This point forward"
+msgstr "از این نقطه به بعد"
+
+msgid "This section"
+msgstr "این بخش"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr ""
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr ""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "این SmartArt در برنامهٔ دیگری ساخته شده است: WordCraft آن را نشان می‌دهد اما نمی‌تواند ویرایشش کند"
+
+msgid "this text box is already linked: break the link first"
+msgstr "این جعبهٔ متن از قبل پیوند شده است: نخست پیوند را بشکنید"
+
+msgid "Three"
+msgstr "سه"
+
+msgid "Through"
+msgstr "از میان"
+
+msgid "Tight"
+msgstr "تنگ"
+
+msgid "Tilde"
+msgstr "مدک"
+
+msgid "Tip"
+msgstr ""
+
+msgid "Tips ({n})"
+msgstr "نکته‌ها ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Title Bar"
+msgstr "نوار عنوان"
+
+msgid "Title from the document properties"
+msgstr "عنوان از ویژگی‌های سند"
+
+msgid "Title:"
+msgstr "عنوان:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "برای باز کردن پیش‌فرض سندهای Word با WordCraft: یکی را در Finder انتخاب کنید، File › Get Info را بزنید، زیر Open with گزینهٔ WordCraft را انتخاب کنید و سپس Change All را بزنید."
+
+msgid "To:"
+msgstr "به:"
+
+msgid "TOA Heading"
+msgstr "سرتیتر جدول مراجع"
+
+msgid "TOC Heading"
+msgstr "سرتیتر فهرست مطالب"
+
+msgid "TOC {n}"
+msgstr "فهرست مطالب {n}"
+
+msgid "Today"
+msgstr "امروز"
+
+msgid "tOGGLE cASE"
+msgstr "تغییر حالت حروف"
+
+msgid "Toggle Check Box"
+msgstr "تبدیل کادر انتخابی"
+
+msgid "Toggle Field Codes"
+msgstr "تبدیل کدهای فیلد"
+
+msgid "Toggle Unicode Character"
+msgstr "تبدیل کاراکتر Unicode"
+
+msgid "Top and Bottom"
+msgstr "بالا و پایین"
+
+msgid "Top Border"
+msgstr "حاشیهٔ بالا"
+
+msgid "Top Left Cell"
+msgstr "خانهٔ بالا چپ"
+
+msgid "Top Margin"
+msgstr "حاشیهٔ بالا"
+
+msgid "Top of Page"
+msgstr "بالای صفحه"
+
+msgid "Top of the Document"
+msgstr "بالای سند"
+
+msgid "Top Right Cell"
+msgstr "خانهٔ بالا راست"
+
+msgid "Total Row"
+msgstr "سطر مجموع"
+
+msgid "Track Changes"
+msgstr "ردیابی تغییرات"
+
+msgid "Track Changes Options"
+msgstr "گزینه‌های ردیابی تغییرات"
+
+msgid "Track Changes: On"
+msgstr "ردیابی تغییرات: روشن"
+
+msgid "Track formatting"
+msgstr "ردیابی قالب‌بندی"
+
+msgid "Track\nChanges"
+msgstr "ردیابی\nتغییرات"
+
+msgid "Track\nChanges ✓"
+msgstr "ردیابی\nتغییرات ✓"
+
+msgid "Tracked changes"
+msgstr "تغییرات ردیابی‌شده"
+
+msgid "Trademark"
+msgstr "نشان تجاری"
+
+msgid "Trademark Sign"
+msgstr "نماد نشان تجاری"
+
+msgid "Transparency:"
+msgstr "شفافیت:"
+
+msgid "Transport"
+msgstr "انتقال"
+
+msgid "Triangle Down"
+msgstr "مثلث رو به پایین"
+
+msgid "Triangle Up"
+msgstr "مثلث رو به بالا"
+
+msgid "Trigonometric Functions"
+msgstr "توابع مثلثاتی"
+
+msgid "Triple"
+msgstr "سه‌خط"
+
+msgid "Triple Dot"
+msgstr "سه نقطه"
+
+msgid "Triple Integral"
+msgstr "انتگرال سه‌گانه"
+
+msgid "Triple Integral with Limits"
+msgstr "انتگرال سه‌گانه با حدود"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "انتگرال سه‌گانه با حدود انباشته"
+
+msgid "Trust Center"
+msgstr "مرکز اعتماد"
+
+msgid "Tue"
+msgstr "سه‌شنبه"
+
+msgid "Turabian"
+msgstr "تورابیان"
+
+msgid "Turkish"
+msgstr "ترکی"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "دو"
+
+msgid "Two-sided printing"
+msgstr "چاپ دورو"
+
+msgid "Two-sided: long edge"
+msgstr "دورو: لبهٔ بلند"
+
+msgid "Two-sided: short edge"
+msgstr "دورو: لبهٔ کوتاه"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "برای جابه‌جایی از صفحهٔ کنونی +2 یا -1 تایپ کنید."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "یک فرمان تایپ کنید، مثلاً «insert table»"
+
+msgid "Type a New List…"
+msgstr "تایپ فهرست جدید…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "یک شمارهٔ صفحه، یا +2 / -1 تایپ کنید."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "اندازه‌ای با هر واحدی تایپ کنید، مانند ۵ cm یا ۳۰۰ px. ضلع دیگر پیروی می‌کند، بنابراین تصویر تناسب خود را نگه می‌دارد."
+
+msgid "Type at least one recipient."
+msgstr "حداقل یک گیرنده تایپ کنید."
+
+msgid "Type Character Code"
+msgstr "درج کد کاراکتر"
+
+msgid "Type equations in LaTeX"
+msgstr "تایپ معادله‌ها با LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "تایپ معادله‌ها با قالب خطی (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "تایپ در معادله"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "تایپ متن عادی (غیرریاضی) در معادله"
+
+msgid "Type Text"
+msgstr "تایپ متن"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "دسته‌ها را در ستون کناری و یک ستون مقدار برای هر سری تایپ کنید."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "نام فیلد و کلیدهای آن را تایپ کنید، مثلاً PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "برای پایان محافظت گذرواژه را تایپ کنید."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "گیرندگان را تایپ کنید، یا آن‌ها را از فایلی بارگذاری کنید."
+
+msgid "Typing replaces selected text"
+msgstr "تایپ متن انتخاب‌شده را جایگزین می‌کند"
+
+msgid "U.A.E."
+msgstr "امارات متحده عربی"
+
+msgid "Ukraine"
+msgstr "اوکراین"
+
+msgid "Ukrainian"
+msgstr "اوکراینی"
+
+msgid "Unchecked symbol"
+msgstr "نماد تیک‌نخورده"
+
+msgid "Underbar"
+msgstr "خط پایین"
+
+msgid "Underbrace"
+msgstr "آکولاد پایین"
+
+msgid "Underline Color"
+msgstr "رنگ زیرخط"
+
+msgid "Underline color"
+msgstr "رنگ زیرخط"
+
+msgid "Underline Words Only"
+msgstr "زیرخط فقط واژه‌ها"
+
+msgid "Undo 1 Action"
+msgstr "واگرد ۱ اقدام"
+
+msgid "Undo Actions"
+msgstr "اقدامات واگرد"
+
+msgid "Undo History"
+msgstr "تاریخچهٔ واگرد"
+
+msgid "Undo {n} Actions"
+msgstr "واگرد {n} اقدام"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr ""
+
+msgid "Unformatted Text"
+msgstr "متن قالب‌بندی‌نشده"
+
+msgid "Union of intersections"
+msgstr "اجتماع اشتراک‌ها"
+
+msgid "Union with Limits"
+msgstr "اجتماع با حدود"
+
+msgid "Union with Lower Limit"
+msgstr "اجتماع با حد پایین"
+
+msgid "Union with Plus"
+msgstr "اجتماع با به‌علاوه"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "اجتماع با حدود زیرنویس-بالانویس"
+
+msgid "Unions and Intersections"
+msgstr "اجتماع‌ها و اشتراک‌ها"
+
+msgid "United Kingdom"
+msgstr "بریتانیا"
+
+msgid "United States"
+msgstr "ایالات متحده"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "لغو پیوند فیلدها"
+
+msgid "Unlink\nCitations"
+msgstr "لغو پیوند\nارجاع‌ها"
+
+msgid "Unlock Fields"
+msgstr "بازکردن قفل فیلدها"
+
+msgid "Up Diagonal Dots"
+msgstr "نقطه‌های مورب رو به بالا"
+
+msgid "Up one level"
+msgstr "یک سطح بالاتر"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "به‌روزرسانی فیلد"
+
+msgid "Update fields before printing"
+msgstr "به‌روزرسانی فیلدها پیش از چاپ"
+
+msgid "Update Index"
+msgstr "به‌روزرسانی نمایه"
+
+msgid "Update Style to Match Selection"
+msgstr "به‌روزرسانی سبک برای تطبیق با انتخاب"
+
+msgid "Update Styles from Template"
+msgstr "به‌روزرسانی سبک‌ها از قالب"
+
+msgid "Update Table"
+msgstr "به‌روزرسانی جدول"
+
+msgid "Update Table of Figures"
+msgstr "به‌روزرسانی جدول شکل‌ها"
+
+msgid "Update to Match"
+msgstr "به‌روزرسانی برای تطبیق"
+
+msgid "Update to Match Selection"
+msgstr "به‌روزرسانی برای تطبیق با انتخاب"
+
+msgid "URGENT"
+msgstr "فوری"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "اروگوئه"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "استفاده از «a» پیش از صدای صامت"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "استفاده از «an» پیش از صدای مصوت"
+
+msgid "Use an Existing List…"
+msgstr "استفاده از فهرست موجود…"
+
+msgid "Use system setting"
+msgstr "استفاده از تنظیمات سیستم"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "استفاده از تمام‌صفحهٔ مرورگر (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr ""
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "استفاده از کلید Insert برای روشن و خاموش‌کردن بازنویسی"
+
+msgid "Use this formatting as the default for:"
+msgstr ""
+
+msgid "Use wildcards"
+msgstr "استفاده از نویسه‌های عام"
+
+msgid "User Name"
+msgstr "نام کاربری"
+
+msgid "User name:"
+msgstr "نام کاربری:"
+
+msgid "User templates:"
+msgstr "قالب‌های کاربر:"
+
+msgid "Vector A"
+msgstr "بردار A"
+
+msgid "Vector AB"
+msgstr "بردار AB"
+
+msgid "Venezuela"
+msgstr "ونزوئلا"
+
+msgid "Version History"
+msgstr "تاریخچهٔ نسخه"
+
+msgid "Version {version} ({build})"
+msgstr "نسخهٔ {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "تراز عمودی:"
+
+msgid "Vertical Bars"
+msgstr "میله‌های عمودی"
+
+msgid "Vertical Dots"
+msgstr "نقطه‌های عمودی"
+
+msgid "Vietnamese"
+msgstr "ویتنامی"
+
+msgid "View Alt Text…"
+msgstr "مشاهدهٔ متن جانشین…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "مشاهدهٔ خطوط شبکه"
+
+msgid "View State"
+msgstr "وضعیت نما"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr ""
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "نماها"
+
+msgid "Visual effects"
+msgstr "جلوه‌های بصری"
+
+msgid "Vivid 200%"
+msgstr "زنده ۲۰۰٪"
+
+msgid "Volume"
+msgstr "حجم"
+
+msgid "Volume Integral"
+msgstr "انتگرال حجمی"
+
+msgid "Volume Integral with Limits"
+msgstr "انتگرال حجمی با حدود"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "انتگرال حجمی با حدود انباشته"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "پیش از بستن، منتظر بمانید ارسال کار چاپ تمام شود."
+
+msgid "Waiting for the save to finish…"
+msgstr "در انتظار پایان ذخیره…"
+
+msgid "Waiting for Zotero…"
+msgstr "در انتظار Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "گرادیان گرم با خط دور"
+
+msgid "Warnings ({n})"
+msgstr "هشدارها ({n})"
+
+msgid "Washout"
+msgstr "محو"
+
+msgid "Weather"
+msgstr "هوا"
+
+msgid "Web Layout"
+msgstr "چیدمان وب"
+
+msgid "Web page (*.html)"
+msgstr "صفحهٔ وب (*.html)"
+
+msgid "Web\nLayout"
+msgstr "چیدمان\nوب"
+
+msgid "Wed"
+msgstr "چهارشنبه"
+
+msgid "Welsh"
+msgstr "ولزی"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "When this document was first created"
+msgstr "زمانی که این سند نخست ساخته شد"
+
+msgid "When this document was most recently printed"
+msgstr "زمانی که این سند آخرین بار چاپ شد"
+
+msgid "When this document was most recently saved"
+msgstr "زمانی که این سند آخرین بار ذخیره شد"
+
+msgid "White Space"
+msgstr "فضای خالی"
+
+msgid "White space"
+msgstr "فضای خالی"
+
+msgid "Who the document properties name as author"
+msgstr "کسی که ویژگی‌های سند به‌عنوان نویسنده نام می‌برد"
+
+msgid "Whole document"
+msgstr "کل سند"
+
+msgid "Whole page"
+msgstr "کل صفحه"
+
+msgid "Whole Table"
+msgstr "کل جدول"
+
+msgid "Whole words"
+msgstr "کل واژه‌ها"
+
+msgid "Wide"
+msgstr "پهن"
+
+msgid "Widow/Orphan Control"
+msgstr "کنترل سر/یتیم"
+
+msgid "Widow/Orphan control"
+msgstr "کنترل سر/یتیم"
+
+msgid "Width and spacing"
+msgstr "عرض و فاصله‌گذاری"
+
+msgid "Wildcards (regex)"
+msgstr "نویسه‌های عام (regex)"
+
+msgid "With:"
+msgstr "با:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "سند XML Word 2003 (*.xml)"
+
+msgid "Word Count"
+msgstr "شمارش واژه"
+
+msgid "Word document"
+msgstr "سند Word"
+
+msgid "Word document (*.docx)"
+msgstr "سند Word (*.docx)"
+
+msgid "Word Left"
+msgstr "واژه به چپ"
+
+msgid "Word level"
+msgstr "سطح واژه"
+
+msgid "Word Right"
+msgstr "واژه به راست"
+
+msgid "Word sources"
+msgstr "منابع Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "سند XML Word (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "سبک‌های WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft اکنون اپ پیش‌فرض سندهای Word است."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "فقط واژه‌ها"
+
+msgid "Wrap Text"
+msgstr "شکستن متن"
+
+msgid "Wrap Text Sides"
+msgstr "طرف‌های شکستن متن"
+
+msgid "Wrap\nText"
+msgstr "شکستن\nمتن"
+
+msgid "Write & Insert Fields"
+msgstr "نوشتن و درج فیلدها"
+
+msgid "Write a reply"
+msgstr "نوشتن پاسخ"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr ""
+
+msgid "x bar"
+msgstr "x خط‌دار"
+
+msgid "Year"
+msgstr "سال"
+
+msgid "Yields"
+msgstr "نتیجه می‌دهد"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr ""
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr ""
+
+msgid "Your document is now the most saved document in history."
+msgstr ""
+
+msgid "Your languages"
+msgstr "زبان‌های شما"
+
+msgid "Your own dictionary"
+msgstr "واژه‌نامهٔ شخصی شما"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "سیستم شما تنظیم پویانمایی را گزارش نمی‌کند، بنابراین جلوه‌های پویانمایی روشن می‌مانند."
+
+msgid "Your system has animation effects turned off."
+msgstr "جلوه‌های پویانمایی در سیستم شما خاموش است."
+
+msgid "Your system has animation effects turned on."
+msgstr "جلوه‌های پویانمایی در سیستم شما روشن است."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: لغو شد"
+
+msgid "Zotero: done"
+msgstr "Zotero: انجام شد"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}؛ {count} مورد خوانده نشد: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}؛ {n} مورد نادیده گرفته شد (حد {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "جدول {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} مشارکت‌کننده · {commits} کامیت"
+
+msgid "{count} items highlighted"
+msgstr "{count} مورد برجسته شد"
+
+msgid "{count} of {total} pages will print"
+msgstr "{count} از {total} صفحه چاپ می‌شود"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "{count} از {total} گیرنده ادغام می‌شود."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "تنظیمات {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "{key} turns the selected text into a link."
+msgstr ""
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+کلیک برای دنبال‌کردن پیوند"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}، {columns} × {rows}، {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (پیش‌فرض)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (واژه‌نامه ناخوانا)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (بدون واژه‌نامه)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} اکنون زبان پیش‌فرض سند است."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: واژه‌نامه‌ای یافت نشد"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft هنوز املا یا دستور را در این زبان بررسی نمی‌کند."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr "{language}: {file} (ناخوانا: {reason})"
+
+msgid "{names} and {n} more"
+msgstr "{names} و {n} مورد دیگر"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} اینچ"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} میلی‌متر"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} از قبل وجود دارد. برای جایگزینی دوباره ذخیره را بزنید."
+
+msgid "{name} is protected with a password."
+msgstr "{name} با گذرواژه محافظت شده است."
+
+msgid "{name} options"
+msgstr "گزینه‌های {name}"
+
+msgid "{name} wasn't found."
+msgstr "{name} یافت نشد."
+
+msgid "{n} entries marked."
+msgstr "{n} مدخل علامت‌گذاری شد."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} خط"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "{selected} از {words} واژه"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} میلی‌متر"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} پیکسل"
+
+msgid "{words} words"
+msgstr "{words} واژه"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr ""
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr ""
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr ""
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "«{text}» ({row}، {series}) یک عدد نیست."
+
+msgid "✓ None"
+msgstr "✓ هیچ‌کدام"
+
+msgid "➕ New comment"
+msgstr "➕ نظر جدید"
+
+msgid "📂  Browse…"
+msgstr "📂  مرور…"

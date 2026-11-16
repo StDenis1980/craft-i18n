@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=(0);\n"
+
+msgid "(All)"
+msgstr "(すべて)"
+
+msgid "(no style)"
+msgstr "(スタイルなし)"
+
+msgid "(no suggestions)"
+msgstr "（候補なし）"
+
+msgid "(normal text)"
+msgstr "(標準テキスト)"
+
+msgid "(not matched)"
+msgstr "（未対応）"
+
+msgid "(picture or object)"
+msgstr "（画像またはオブジェクト）"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 文字以上の文字列"
+
+msgid "1. Formatting restrictions"
+msgstr "1. 書式の制限"
+
+msgid "1.5 Line Spacing"
+msgstr "1.5 行"
+
+msgid "1/4 Em Space"
+msgstr "1/4 em スペース"
+
+msgid "1×2 Empty Matrix"
+msgstr ""
+
+msgid "1×3 Empty Matrix"
+msgstr ""
+
+msgid "2. Editing restrictions"
+msgstr "2. 編集の制限"
+
+msgid "2×1 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Determinant"
+msgstr ""
+
+msgid "2×2 Empty Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix"
+msgstr ""
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "2×2 Matrix in Brackets"
+msgstr ""
+
+msgid "2×2 Matrix in Double Bars"
+msgstr ""
+
+msgid "2×2 Matrix in Parentheses"
+msgstr ""
+
+msgid "2×3 Empty Matrix"
+msgstr ""
+
+msgid "3-D"
+msgstr "立体"
+
+msgid "3. Start enforcement"
+msgstr "3. 保護の開始"
+
+msgid "3×1 Empty Matrix"
+msgstr ""
+
+msgid "3×2 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Empty Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix"
+msgstr ""
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr ""
+
+msgid "<< Less"
+msgstr "<< 表示を減らす"
+
+msgid "<< Remove"
+msgstr "<< 削除"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "図解には最大 {MAX_ITEMS} 個の項目を含められます"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "描画キャンバスはグループ解除できません"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "描画キャンバスはテキスト ボックス内に配置できません"
+
+msgid "A file dialog is already open."
+msgstr "ファイル ダイアログが既に開いています。"
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Rust でゼロから書かれた、無料のオープンソース ワープロです。\nArtCraft チームの Crafting Apps のひとつです。"
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "Word のインクを含むグループはまだグループ解除できません"
+
+msgid "A mail merge field"
+msgstr "差し込み用のフィールド"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "連番 (図、表…)"
+
+msgid "A password is required to open this document."
+msgstr "この文書を開くにはパスワードが必要です。"
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "目次"
+
+msgid "A xor B"
+msgstr ""
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr ""
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz あア亜"
+
+msgid "About WordCraft"
+msgstr "WordCraft について"
+
+msgid "Above Chart"
+msgstr "グラフの上"
+
+msgid "Above the item"
+msgstr "項目の上"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr ""
+
+msgid "Accent"
+msgstr "アクセント"
+
+msgid "Accent Gradient"
+msgstr "アクセントのグラデーション"
+
+msgid "Accent with Reflection"
+msgstr "アクセントと反射"
+
+msgid "Accent {n}"
+msgstr "アクセント {n}"
+
+msgid "Accents"
+msgstr ""
+
+msgid "Accept"
+msgstr "承諾"
+
+msgid "Accept All Changes"
+msgstr "すべての変更を承諾"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "この変更を承諾"
+
+msgid "Accessed on"
+msgstr "アクセス日"
+
+msgid "Accessibility Pane"
+msgstr "アクセシビリティ ウィンドウ"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Acute"
+msgstr ""
+
+msgid "Add >>"
+msgstr "追加 >>"
+
+msgid "Add a language"
+msgstr "言語を追加"
+
+msgid "Add a language…"
+msgstr "言語を追加…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "表を追加"
+
+msgid "Add at least one field."
+msgstr "フィールドを1つ以上追加してください。"
+
+msgid "Add Chart Element"
+msgstr "グラフ要素の追加"
+
+msgid "Add Condition"
+msgstr "条件の追加"
+
+msgid "Add Field"
+msgstr "フィールドの追加"
+
+msgid "Add Font…"
+msgstr "フォントの追加…"
+
+msgid "Add gradient stop"
+msgstr "分岐点を追加"
+
+msgid "Add line numbering"
+msgstr "行番号を追加する"
+
+msgid "Add New Source…"
+msgstr "新しい資料文献の追加…"
+
+msgid "Add Object to Selection"
+msgstr "オブジェクトを選択範囲に追加"
+
+msgid "Add Pen"
+msgstr "ペンの追加"
+
+msgid "Add Row"
+msgstr "行の追加"
+
+msgid "Add Series"
+msgstr "系列の追加"
+
+msgid "Add Shape"
+msgstr "図形の追加"
+
+msgid "Add Space Before Paragraph"
+msgstr "段落前に間隔を追加"
+
+msgid "Add space between Asian and Latin text"
+msgstr "アジア文字と欧文の間隔を空ける"
+
+msgid "Add space between Asian text and numbers"
+msgstr "アジア文字と数字の間隔を空ける"
+
+msgid "Add tab stop at:"
+msgstr "タブ位置を追加:"
+
+msgid "Add Text"
+msgstr "テキストの追加"
+
+msgid "Add the chapter number"
+msgstr "章番号を付ける"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "文書に追加"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "クイック アクセス ツール バーに追加"
+
+msgid "Add to Style Gallery"
+msgstr "スタイル ギャラリーに追加"
+
+msgid "Add whether it is above or below"
+msgstr "上にあるか下にあるかを付け加える"
+
+msgid "Add/Edit\nBibliography"
+msgstr "参考文献の\n追加/編集"
+
+msgid "Add/Edit\nCitation"
+msgstr "引用文献の\n追加/編集"
+
+msgid "Add\nNote"
+msgstr "メモの\n追加"
+
+msgid "Add\nPen"
+msgstr "ペンの\n追加"
+
+msgid "Add\nShape"
+msgstr "図形の\n追加"
+
+msgid "Added 1 font"
+msgstr "フォントを 1 件追加しました"
+
+msgid "Added Fonts"
+msgstr "追加したフォント"
+
+msgid "Added {n} fonts"
+msgstr "フォントを {n} 件追加しました"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Address Block"
+msgstr "住所ブロック"
+
+msgid "Address labels"
+msgstr "宛名ラベル"
+
+msgid "Address:"
+msgstr "アドレス:"
+
+msgid "Address\nBlock"
+msgstr "住所ブロック"
+
+msgid "Advanced Find"
+msgstr "高度な検索"
+
+msgid "Advanced Find…"
+msgstr "高度な検索…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "アフリカーンス語"
+
+msgid "After:"
+msgstr "段落後:"
+
+msgid "Agents"
+msgstr "エージェント"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "WordCraft に接続したエージェントは、アシスタントを通じてメッセージを表示できます。ミュートすると、エージェントには受け取りたくないことが伝えられます。"
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "おっ、ラテン語。しめ切り直前によく使われる言語ですね。"
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "おっ、編集の時間ですね。わたしのお気に入りです。決めるのが早い。"
+
+msgid "Albanian"
+msgstr "アルバニア語"
+
+msgid "Align Bottom Center"
+msgstr "下揃え (中央)"
+
+msgid "Align Bottom Left"
+msgstr "下揃え (左)"
+
+msgid "Align Bottom Right"
+msgstr "下揃え (右)"
+
+msgid "Align Center"
+msgstr "中央揃え"
+
+msgid "Align Center Left"
+msgstr "中央揃え (左)"
+
+msgid "Align Center Right"
+msgstr "中央揃え (右)"
+
+msgid "Align Top Center"
+msgstr "上揃え (中央)"
+
+msgid "Align Top Left"
+msgstr "上揃え (左)"
+
+msgid "Align Top Right"
+msgstr "上揃え (右)"
+
+msgid "Aligned at:"
+msgstr "配置位置:"
+
+msgid "All - Linear"
+msgstr ""
+
+msgid "All - Professional"
+msgstr ""
+
+msgid "All Borders"
+msgstr "格子"
+
+msgid "All caps"
+msgstr "すべて大文字"
+
+msgid "All Commands"
+msgstr "すべてのコマンド"
+
+msgid "All documents based on the Normal template?"
+msgstr "通常テンプレートを基にしたすべての文書?"
+
+msgid "All Fonts"
+msgstr "すべてのフォント"
+
+msgid "All Levels"
+msgstr "すべてのレベル"
+
+msgid "All Markup"
+msgstr "すべての変更履歴"
+
+msgid "All pages in the range"
+msgstr "範囲内のすべてのページ"
+
+msgid "All symbol sets"
+msgstr "すべての記号セット"
+
+msgid "All system fonts are already available."
+msgstr "すべてのシステムフォントは既に使用可能です。"
+
+msgid "Allow hanging punctuation"
+msgstr "句読点のぶら下げを行う"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "欧文を単語の途中で折り返す"
+
+msgid "Allow line breaks"
+msgstr "改行を許可する"
+
+msgid "Allow row to break across pages"
+msgstr "ページ間で行を分割する"
+
+msgid "Alphabetical"
+msgstr "アルファベット順"
+
+msgid "Alt Text"
+msgstr "代替テキスト"
+
+msgid "Alt text"
+msgstr "代替テキスト"
+
+msgid "Alt Text Pane"
+msgstr "代替テキスト ウィンドウ"
+
+msgid "Alt:"
+msgstr "代替テキスト:"
+
+msgid "Alt\nText"
+msgstr "代替\nテキスト"
+
+msgid "an agent"
+msgstr "エージェント"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "インストール済みの言語パックは、このフォルダーの後に使われます。"
+
+msgid "And"
+msgstr "かつ"
+
+msgid "Angle Brackets"
+msgstr ""
+
+msgid "Angle Brackets with Separator"
+msgstr ""
+
+msgid "Angle Brackets with Two Separators"
+msgstr ""
+
+msgid "Angola"
+msgstr "アンゴラ"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "カーソルをアニメーション表示する（滑らかに移動してフェードする）"
+
+msgid "Animation effects:"
+msgstr "アニメーション効果:"
+
+msgid "Annotation Reference"
+msgstr ""
+
+msgid "Annotation Subject"
+msgstr ""
+
+msgid "Annotation Text"
+msgstr ""
+
+msgid "Annoying"
+msgstr "しつこく"
+
+msgid "Another file"
+msgstr "別のファイル"
+
+msgid "Any Character"
+msgstr "任意の 1 文字"
+
+msgid "Any Digit"
+msgstr "任意の数字"
+
+msgid "Any field"
+msgstr "任意のフィールド"
+
+msgid "Any Letter"
+msgstr "任意の英字"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "この文書は誰でも開けます。パスワードで暗号化すると内容を保護できます。"
+
+msgid "Anyone who opens the document will need this password."
+msgstr "この文書を開くすべての人にこのパスワードが必要になります。"
+
+msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "入力中に適用"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "アジア文字の禁則処理を行う"
+
+msgid "Apply formatting to:"
+msgstr "書式の適用先:"
+
+msgid "Apply Style"
+msgstr "スタイルを適用"
+
+msgid "Apply Styles"
+msgstr "スタイルを選んで適用"
+
+msgid "Arabic"
+msgstr "アラビア"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "下向きアーチ"
+
+msgid "Arch Up"
+msgstr "上向きアーチ"
+
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+msgid "Armenian"
+msgstr "アルメニア語"
+
+msgid "Arrange\nAll"
+msgstr "整列"
+
+msgid "Article I."
+msgstr "第 I 条"
+
+msgid "Artistic Effects"
+msgstr "アート効果"
+
+msgid "As Recommended"
+msgstr "推奨順"
+
+msgid "As you type"
+msgstr "入力中"
+
+msgid "ASAP"
+msgstr ""
+
+msgid "Asian text font:"
+msgstr "アジア文字のフォント:"
+
+msgid "Asian Typography"
+msgstr "アジア文字の組版"
+
+msgid "Assistant"
+msgstr "アシスタント"
+
+msgid "Assistant Suggestions"
+msgstr "アシスタントの提案"
+
+msgid "At least"
+msgstr "最小値"
+
+msgid "At least {n}"
+msgstr "最小値 {n}"
+
+msgid "Atelier"
+msgstr "アトリエ"
+
+msgid "Atmosphere"
+msgstr "大気"
+
+msgid "Attach Template"
+msgstr "テンプレートの添付"
+
+msgid "Attach…"
+msgstr "添付…"
+
+msgid "Australia"
+msgstr "オーストラリア"
+
+msgid "Austria"
+msgstr "オーストリア"
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "オートコレクト"
+
+msgid "AutoCorrect Options"
+msgstr "オートコレクトのオプション"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "自動調整"
+
+msgid "AutoFit behavior"
+msgstr "自動調整"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "ダブルクリックで列の幅を自動調整"
+
+msgid "AutoFit Contents"
+msgstr "文字列の幅に合わせる"
+
+msgid "AutoFit to contents"
+msgstr "文字列の幅に合わせる"
+
+msgid "AutoFit to window"
+msgstr "ウィンドウ幅に合わせる"
+
+msgid "AutoFit Window"
+msgstr "ウィンドウ幅に合わせる"
+
+msgid "AutoFormat As You Type"
+msgstr "入力オートフォーマット"
+
+msgid "Automatic ({language})"
+msgstr "自動（{language}）"
+
+msgid "Automatic ({region})"
+msgstr "自動 ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "箇条書き (自動)"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "「自動」はシステムの言語に従います。メニューとコマンドの表示が変わり、文書の内容は変わりません。"
+
+msgid "Automatic numbered lists"
+msgstr "段落番号 (自動)"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "自動目次 1（3 レベル）"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "自動目次 2（2 レベル）"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "文書を自動的にハイフネーションする"
+
+msgid "Automatically Update Document Styles"
+msgstr "文書のスタイルを自動的に更新"
+
+msgid "Automatically update document styles"
+msgstr "文書のスタイルを自動的に更新する"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "WordCraft で保存した文書を自動保存する"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "自動保存できませんでした: {error}。文書を保存し直すと、自動保存が再開します。"
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "ブラウザーでは自動保存を使えません（ファイルに書き込めないため）。保存するとコピーがダウンロードされます。"
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "自動保存の対象は .docx、.odt、.rtf ファイルだけです。{name} ではすべての書式を保持できません。自動保存をオンにするには .docx として保存してください。"
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "自動保存は変更のたびにファイルへ保存します（保存済みの文書が必要です）"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "自動保存は、入力を止めて少したつと変更をファイルに書き込みます。"
+
+msgid "AutoText"
+msgstr "定型句"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr ""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr ""
+
+msgid "Balloons"
+msgstr "吹き出し"
+
+msgid "Banded Columns"
+msgstr "縞模様（列）"
+
+msgid "Banded Rows"
+msgstr "縞模様（行）"
+
+msgid "Base text:"
+msgstr "親文字:"
+
+msgid "Based on: {style}"
+msgstr "基準: {style}"
+
+msgid "Baseline Dots"
+msgstr ""
+
+msgid "Basic Cycle"
+msgstr "基本循環"
+
+msgid "Basic List"
+msgstr "基本リスト"
+
+msgid "Basic Math"
+msgstr ""
+
+msgid "Basic Matrix"
+msgstr "基本マトリックス"
+
+msgid "Basic Process"
+msgstr "基本ステップ"
+
+msgid "Basic Pyramid"
+msgstr "基本ピラミッド"
+
+msgid "Basic Radial"
+msgstr "基本放射"
+
+msgid "Basic Venn"
+msgstr "基本ベン図"
+
+msgid "Bayes' rule"
+msgstr ""
+
+msgid "Before:"
+msgstr "段落前:"
+
+msgid "Beginning of Word"
+msgstr "単語の先頭"
+
+msgid "Behind Text"
+msgstr "背面"
+
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+msgid "Belgium"
+msgstr "ベルギー"
+
+msgid "Below text"
+msgstr "本文の直後"
+
+msgid "Below the item"
+msgstr "項目の下"
+
+msgid "Between"
+msgstr "段落の間"
+
+msgid "Bibliography"
+msgstr "参考文献"
+
+msgid "Binomial Coefficient"
+msgstr ""
+
+msgid "Binomial Coefficient (angle)"
+msgstr ""
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr ""
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr ""
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Blank (Three Columns)"
+msgstr "空白（3 列）"
+
+msgid "Blank document"
+msgstr "白紙の文書"
+
+msgid "Blank Page"
+msgstr "空白のページ"
+
+msgid "Block\nAuthors"
+msgstr "作成者のブロック"
+
+msgid "Blue:"
+msgstr "青:"
+
+msgid "Body Text"
+msgstr "本文"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr ""
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "なかなかの選択ですね。必要なら Ctrl+Z はすぐそこです。"
+
+msgid "Bolivia"
+msgstr "ボリビア"
+
+msgid "Book"
+msgstr "書籍"
+
+msgid "Book Title"
+msgstr ""
+
+msgid "Book title"
+msgstr "書籍名"
+
+msgid "Bookmark"
+msgstr "ブックマーク"
+
+msgid "Bookmark name:"
+msgstr "ブックマーク名:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "罫線"
+
+msgid "Border Painter"
+msgstr "罫線の書式設定"
+
+msgid "Border\nPainter"
+msgstr "罫線の書式設定"
+
+msgid "Borders and Shading"
+msgstr "罫線と網かけ"
+
+msgid "Borders and Shading…"
+msgstr "罫線と網かけ…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+msgid "Bosnian"
+msgstr "ボスニア語"
+
+msgid "Both Sides"
+msgstr "両側"
+
+msgid "Bottom Border"
+msgstr "下罫線"
+
+msgid "Bottom Left Cell"
+msgstr "左下のセル"
+
+msgid "Bottom Margin"
+msgstr "下余白"
+
+msgid "Bottom of Page"
+msgstr "ページの下部"
+
+msgid "Bottom Right Cell"
+msgstr "右下のセル"
+
+msgid "Box"
+msgstr "囲み"
+
+msgid "Boxed Formula"
+msgstr ""
+
+msgid "Boxed Formula (example)"
+msgstr ""
+
+msgid "Boxed Formulas"
+msgstr ""
+
+msgid "Braces"
+msgstr ""
+
+msgid "Braces with Separator"
+msgstr ""
+
+msgid "Bracket"
+msgstr "かっこ"
+
+msgid "Brackets"
+msgstr ""
+
+msgid "Brackets with Separators"
+msgstr ""
+
+msgid "Brazil"
+msgstr "ブラジル"
+
+msgid "Breaks"
+msgstr "区切り"
+
+msgid "Breve"
+msgstr ""
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "WordCraft で参照…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "構成要素ギャラリー コンテンツ コントロール"
+
+msgid "Built in"
+msgstr "内蔵"
+
+msgid "Built-In"
+msgstr "組み込み"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "組み込みスタイル"
+
+msgid "Built-in styles can't be deleted."
+msgstr "組み込みスタイルは削除できません。"
+
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+msgid "Bullet Library"
+msgstr "行頭文字ライブラリ"
+
+msgid "Bullets"
+msgstr "箇条書き"
+
+msgid "By author"
+msgstr "校閲者別"
+
+msgid "Cabo Verde"
+msgstr "カーボベルデ"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Can't be deleted"
+msgstr "削除できない"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "コマンドが見つかりませんか? {key} を押して、やりたいことを入力してください。"
+
+msgid "can't split at the first row"
+msgstr "先頭の行では表を分割できません"
+
+msgid "Canada"
+msgstr "カナダ"
+
+msgid "Canvas Member"
+msgstr "キャンバス内の図形"
+
+msgid "Capitalize Each Word"
+msgstr "各単語の先頭を大文字にする"
+
+msgid "Capitalize first letter of sentences"
+msgstr "文の先頭文字を大文字にする"
+
+msgid "Capitalize first letter of table cells"
+msgstr "表のセルの先頭文字を大文字にする"
+
+msgid "Capitalize names of days"
+msgstr "曜日の先頭文字を大文字にする"
+
+msgid "Capitalize the first word of a sentence"
+msgstr ""
+
+msgid "Caption Numbering"
+msgstr "図表番号の書式"
+
+msgid "Caption text"
+msgstr "図表番号の文字列"
+
+msgid "Caption:"
+msgstr "図表番号:"
+
+msgid "Captions"
+msgstr "図表番号"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "気をつけて。これ以上戻ると、紙の発明まで元に戻してしまいます。"
+
+msgid "Caret Character"
+msgstr "キャレット記号"
+
+msgid "Case changes"
+msgstr "大文字/小文字の変更"
+
+msgid "Cases (Three Conditions)"
+msgstr ""
+
+msgid "Cases (Two Conditions)"
+msgstr ""
+
+msgid "Cases and Stacks"
+msgstr ""
+
+msgid "Catalan"
+msgstr "カタルーニャ語"
+
+msgid "Catalan (Valencian)"
+msgstr "カタルーニャ語（バレンシア語）"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Categories:"
+msgstr "分類:"
+
+msgid "Category {n}"
+msgstr "カテゴリ {n}"
+
+msgid "Ceiling"
+msgstr ""
+
+msgid "Cell"
+msgstr "セル"
+
+msgid "Cell Margins"
+msgstr "セルの余白"
+
+msgid "Cell\nMargins"
+msgstr "セルの余白"
+
+msgid "Center Glow"
+msgstr "中央の光彩"
+
+msgid "Centered as Group"
+msgstr ""
+
+msgid "Change Chart Type"
+msgstr "グラフの種類の変更"
+
+msgid "Change Colors"
+msgstr "色の変更"
+
+msgid "Change in y over change in x"
+msgstr ""
+
+msgid "Change Layout"
+msgstr "レイアウトの変更"
+
+msgid "Change List Level"
+msgstr "リスト レベルの変更"
+
+msgid "Change Password…"
+msgstr "パスワードの変更…"
+
+msgid "Change Picture"
+msgstr "図の変更"
+
+msgid "Change Picture…"
+msgstr "図の変更…"
+
+msgid "Change Shape"
+msgstr "図形の変更"
+
+msgid "Change Structure"
+msgstr "構造の変更"
+
+msgid "Change to Display"
+msgstr "別行表示に変更"
+
+msgid "Change to Inline"
+msgstr "行内表示に変更"
+
+msgid "Change to Level 1"
+msgstr ""
+
+msgid "Change to Level 2"
+msgstr ""
+
+msgid "Change to Level 3"
+msgstr ""
+
+msgid "Change to Level 4"
+msgstr ""
+
+msgid "Change to Level 5"
+msgstr ""
+
+msgid "Change to Level 6"
+msgstr ""
+
+msgid "Change to Level 7"
+msgstr ""
+
+msgid "Change to Level 8"
+msgstr ""
+
+msgid "Change to Level 9"
+msgstr ""
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "グラフの種類\nの変更"
+
+msgid "Change\nColors"
+msgstr "色の\n変更"
+
+msgid "Changed lines:"
+msgstr "変更された行:"
+
+msgid "Changes"
+msgstr "変更箇所"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "第 1 章"
+
+msgid "Chapter in a book"
+msgstr "書籍の章"
+
+msgid "Chapters begin at:"
+msgstr "章の開始:"
+
+msgid "Character Border"
+msgstr "文字の罫線"
+
+msgid "Character code:"
+msgstr "文字コード:"
+
+msgid "Character in Range"
+msgstr "範囲内の文字"
+
+msgid "Character level"
+msgstr "文字単位"
+
+msgid "Character Position"
+msgstr "文字位置"
+
+msgid "Character Scale"
+msgstr "文字の拡大/縮小"
+
+msgid "Character Shading"
+msgstr "文字の網かけ"
+
+msgid "Character Spacing"
+msgstr "文字間隔"
+
+msgid "Character spacing"
+msgstr "文字間隔"
+
+msgid "Character style"
+msgstr "文字スタイル"
+
+msgid "Characters (no spaces)"
+msgstr "文字数（スペースを含めない）"
+
+msgid "Characters (with spaces)"
+msgstr "文字数（スペースを含める）"
+
+msgid "Characters per line:"
+msgstr "1 行の文字数:"
+
+msgid "Chart"
+msgstr "グラフ"
+
+msgid "Chart Design"
+msgstr "グラフのデザイン"
+
+msgid "Chart Layouts"
+msgstr "グラフのレイアウト"
+
+msgid "Chart Title"
+msgstr "グラフ タイトル"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "グラフと図はまだ移動やサイズ変更ができません"
+
+msgid "Check"
+msgstr ""
+
+msgid "Check Accessibility"
+msgstr "アクセシビリティ チェック"
+
+msgid "Check Box Content Control"
+msgstr "チェック ボックス コンテンツ コントロール"
+
+msgid "Check Compatibility"
+msgstr "互換性チェック"
+
+msgid "Check for Errors"
+msgstr "エラーのチェック"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "入力時にスペル チェックを行う"
+
+msgid "Check spelling as you type"
+msgstr "入力中にスペル チェックを行う"
+
+msgid "Check\nAccessibility"
+msgstr "アクセシビリティ チェック"
+
+msgid "Checked styles are allowed:"
+msgstr "チェックしたスタイルを使用可能:"
+
+msgid "Checked symbol"
+msgstr "オンの記号"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "下向き山形"
+
+msgid "Chevron Up"
+msgstr "上向き山形"
+
+msgid "Chicago"
+msgstr ""
+
+msgid "Chile"
+msgstr "チリ"
+
+msgid "China"
+msgstr "中国"
+
+msgid "Chinese (Simplified)"
+msgstr "中国語（簡体字）"
+
+msgid "Chinese (Traditional)"
+msgstr "中国語（繁体字）"
+
+msgid "Choose a command"
+msgstr "コマンドを選択"
+
+msgid "Choose a shortcut"
+msgstr "ショートカットを選択"
+
+msgid "Choose List Item"
+msgstr "リスト項目を選択"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "宛先が入っているシートを選んでください。"
+
+msgid "Circle area from its radius"
+msgstr ""
+
+msgid "Circled Dot"
+msgstr ""
+
+msgid "Circled Plus"
+msgstr ""
+
+msgid "Circled Times"
+msgstr ""
+
+msgid "Citation Style"
+msgstr "引用文献のスタイル"
+
+msgid "Citations"
+msgstr "引用文献"
+
+msgid "Citations & Bibliography"
+msgstr "引用文献と文献目録"
+
+msgid "Clear All Formatting"
+msgstr "すべての書式をクリア"
+
+msgid "Clear Character Formatting"
+msgstr "文字の書式をクリア"
+
+msgid "Clear Character Style"
+msgstr "文字スタイルをクリア"
+
+msgid "Clear Formatting Level"
+msgstr "書式のレベルをクリア"
+
+msgid "Clear Paragraph Formatting"
+msgstr "段落の書式をクリア"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "2 つのセルの間の境界線をクリックすると結合します。Esc で終了します。"
+
+msgid "Click an item to paste it."
+msgstr "項目をクリックすると貼り付けます。"
+
+msgid "Click level to modify:"
+msgstr "変更するレベルをクリック:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "テキストの続きを入れる空のテキスト ボックスをクリックしてください (Esc でキャンセル)"
+
+msgid "Click to switch back to inserting"
+msgstr "クリックすると挿入モードに戻ります"
+
+msgid "Clipboard Contents"
+msgstr "クリップボードの内容"
+
+msgid "Clipboard Items"
+msgstr "クリップボードの項目"
+
+msgid "Clipboard Pane"
+msgstr "クリップボード ウィンドウ"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "数式を閉じる"
+
+msgid "Close Header and Footer"
+msgstr "ヘッダーとフッターを閉じる"
+
+msgid "Close Outline View"
+msgstr "アウトライン表示を閉じる"
+
+msgid "Close Outline\nView"
+msgstr "アウトライン表示\nを閉じる"
+
+msgid "Clustered Bar"
+msgstr "集合横棒"
+
+msgid "Clustered Column"
+msgstr "集合縦棒"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "段:"
+
+msgid "Collapse Selection"
+msgstr "選択範囲を縮小"
+
+msgid "Collate copies"
+msgstr "部単位で印刷"
+
+msgid "Collect entries from:"
+msgstr "項目の取得元:"
+
+msgid "Colombia"
+msgstr "コロンビア"
+
+msgid "Colon Equal"
+msgstr ""
+
+msgid "Color model:"
+msgstr "カラー モデル:"
+
+msgid "Color only"
+msgstr "色のみ"
+
+msgid "Color: {color}"
+msgstr "色: {color}"
+
+msgid "Colorful"
+msgstr "カラフル"
+
+msgid "Column"
+msgstr "段"
+
+msgid "Column Break"
+msgstr "段区切り"
+
+msgid "Column Selection"
+msgstr "矩形選択"
+
+msgid "Column {n}"
+msgstr "列 {n}"
+
+msgid "Column:"
+msgstr "列:"
+
+msgid "Combine Documents"
+msgstr "文書の組み込み"
+
+msgid "Combo Box Content Control"
+msgstr "コンボ ボックス コンテンツ コントロール"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Commas"
+msgstr "カンマ"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "PDF、印刷、画像では各ページの横にコメントと変更履歴を表示し、Web ページ、Markdown、テキストでは末尾にコメント一覧を付けます。"
+
+msgid "Comments Pane"
+msgstr "コメント ウィンドウ"
+
+msgid "Common Accent Objects"
+msgstr ""
+
+msgid "Common Brackets"
+msgstr ""
+
+msgid "Common Fractions"
+msgstr ""
+
+msgid "Common Functions"
+msgstr ""
+
+msgid "Common Large Operators"
+msgstr ""
+
+msgid "Common Operator Structures"
+msgstr ""
+
+msgid "Common Operators"
+msgstr ""
+
+msgid "Common Radicals"
+msgstr ""
+
+msgid "Common Subscripts and Superscripts"
+msgstr ""
+
+msgid "Communication"
+msgstr "コミュニケーション"
+
+msgid "Community\nDiscord"
+msgstr "コミュニティ\nDiscord"
+
+msgid "Compact"
+msgstr "コンパクト"
+
+msgid "Compare Documents"
+msgstr "文書の比較"
+
+msgid "Compare to"
+msgstr "比較する値"
+
+msgid "Compared: {changes} changes"
+msgstr "比較しました: 変更 {changes} 件"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "別のファイルとの比較にはデスクトップ版が必要です。"
+
+msgid "Comparison settings"
+msgstr "比較の設定"
+
+msgid "Compress Pictures"
+msgstr "図の圧縮"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "行頭の約物を詰める"
+
+msgid "Conference"
+msgstr "会議"
+
+msgid "Conference paper"
+msgstr "会議論文"
+
+msgid "CONFIDENTIAL"
+msgstr ""
+
+msgid "Confirm password:"
+msgstr "パスワードの確認:"
+
+msgid "Connect Shapes"
+msgstr "図形をつなぐ"
+
+msgid "Container Title"
+msgstr "掲載元の名前"
+
+msgid "Content Control at Selection"
+msgstr "選択位置のコンテンツ コントロール"
+
+msgid "Content Control Properties"
+msgstr "コンテンツ コントロールのプロパティ"
+
+msgid "Contents can't be edited"
+msgstr "内容を編集できない"
+
+msgid "Context"
+msgstr "コンテキスト"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "前のセクションから続ける"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "現在の位置から開始"
+
+msgid "Continuous numbering"
+msgstr "通し番号"
+
+msgid "Contour Integral"
+msgstr ""
+
+msgid "Contour Integral with Limits"
+msgstr ""
+
+msgid "Contour Integral with Stacked Limits"
+msgstr ""
+
+msgid "Contour Integrals"
+msgstr ""
+
+msgid "Controls"
+msgstr "コントロール"
+
+msgid "Conversions"
+msgstr "変換"
+
+msgid "Convert between built-up and linear form"
+msgstr ""
+
+msgid "Convert Notes"
+msgstr "注の変換"
+
+msgid "Convert Text to Table"
+msgstr "文字列を表にする"
+
+msgid "Convert Text to Table…"
+msgstr "文字列を表にする…"
+
+msgid "Convert to Shapes"
+msgstr "図形に変換"
+
+msgid "Convert to Text"
+msgstr "表の解除"
+
+msgid "Coproduct"
+msgstr ""
+
+msgid "Coproduct with Limits"
+msgstr ""
+
+msgid "Coproduct with Lower Limit"
+msgstr ""
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Copy Formatting"
+msgstr "書式のコピー"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "ブックマークの文字列"
+
+msgid "Copy Styles"
+msgstr "スタイルのコピー"
+
+msgid "Copy to"
+msgstr "コピー先"
+
+msgid "Copyright Sign"
+msgstr "著作権記号"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Caps Lock キーの押し間違いを修正する"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "先頭 2 文字の大文字を修正する"
+
+msgid "Corrections"
+msgstr "修整"
+
+msgid "Cosecant Function"
+msgstr ""
+
+msgid "Cosine 2x"
+msgstr ""
+
+msgid "Cosine Function"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+msgid "Cotangent Function"
+msgstr ""
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "{name} をダウンロードできませんでした: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "WordCraft を既定のアプリにできませんでした: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "{path} を開けませんでした: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "増分:"
+
+msgid "Count words in text boxes and notes"
+msgstr "テキスト ボックス、脚注、文末脚注の単語も数える"
+
+msgid "Courtesy Title"
+msgstr "敬称"
+
+msgid "Cover Page"
+msgstr "表紙"
+
+msgid "Craft"
+msgstr "クラフト"
+
+msgid "Create a Style"
+msgstr "スタイルの作成"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "文書の対話型アウトラインを作成します。\n\n今どこを編集しているかを把握したり、内容をすばやく移動したりするのに便利です。\n\nまず [ホーム] タブで、文書の見出しに見出しスタイルを適用してください。"
+
+msgid "Create Graphic"
+msgstr "グラフィックの作成"
+
+msgid "Create Link"
+msgstr "リンクの作成"
+
+msgid "Create New Style"
+msgstr "新しいスタイルの作成"
+
+msgid "Create Source"
+msgstr "資料文献の作成"
+
+msgid "Croatian"
+msgstr "クロアチア語"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "相互参照"
+
+msgid "Cross-reference:"
+msgstr "相互参照:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "キューバ"
+
+msgid "Cube Root"
+msgstr ""
+
+msgid "Current - Linear"
+msgstr ""
+
+msgid "Current - Professional"
+msgstr ""
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "現在の位置"
+
+msgid "Current record"
+msgstr "現在のレコード"
+
+msgid "Current style: {style}"
+msgstr "現在のスタイル: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "曲線矢印コネクタ"
+
+msgid "Curved Connector"
+msgstr "曲線コネクタ"
+
+msgid "Custom dictionary"
+msgstr "ユーザー辞書"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "ユーザー設定の余白…"
+
+msgid "Custom mark:"
+msgstr "独自の記号:"
+
+msgid "Custom range"
+msgstr "ページ範囲を指定"
+
+msgid "Custom size"
+msgstr "ユーザー定義サイズ"
+
+msgid "Custom Table of Contents…"
+msgstr "ユーザー設定の目次…"
+
+msgid "Custom Watermark"
+msgstr "ユーザー設定の透かし"
+
+msgid "Custom Watermark…"
+msgstr "ユーザー設定の透かし…"
+
+msgid "Customize"
+msgstr "ユーザー設定"
+
+msgid "Customize Keyboard"
+msgstr "キーボードのユーザー設定"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "クイック アクセス ツール バーのユーザー設定"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "クイック アクセス ツール バーのユーザー設定…"
+
+msgid "Customize Ribbon"
+msgstr "リボンのユーザー設定"
+
+msgid "Customize the Ribbon…"
+msgstr "リボンのユーザー設定…"
+
+msgid "Cycle"
+msgstr "循環"
+
+msgid "Cyprus"
+msgstr "キプロス"
+
+msgid "Czech"
+msgstr "チェコ語"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "ダーク モード"
+
+msgid "Dark page (white text on black)"
+msgstr "ダーク ページ (黒地に白い文字)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "暗いバリエーション"
+
+msgid "Dark with Shadow"
+msgstr "暗い色と影"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "暗室"
+
+msgid "Data Labels"
+msgstr "データ ラベル"
+
+msgid "Date & Time"
+msgstr "日付と時刻"
+
+msgid "Date formats:"
+msgstr "日付の形式:"
+
+msgid "Date Picker Content Control"
+msgstr "日付選択コンテンツ コントロール"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Decimal"
+msgstr "小数点揃え"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "装飾用のオブジェクトは見た目を整えるだけなので、スクリーン リーダーは読み上げません。"
+
+msgid "Decorative Text"
+msgstr "装飾文字"
+
+msgid "Decorative Text Styles"
+msgstr "装飾文字のスタイル"
+
+msgid "Decrease Indent"
+msgstr "インデントを減らす"
+
+msgid "Deep"
+msgstr "ディープ"
+
+msgid "Default formatting"
+msgstr "既定の書式"
+
+msgid "Default Paragraph Font"
+msgstr ""
+
+msgid "Default tab stops:"
+msgstr "既定のタブ間隔:"
+
+msgid "Define New Bullet"
+msgstr "新しい行頭文字の定義"
+
+msgid "Define New Multilevel List"
+msgstr "新しいアウトラインの定義"
+
+msgid "Define New Multilevel List…"
+msgstr "新しいアウトラインの定義…"
+
+msgid "Define New Number Format"
+msgstr "新しい番号書式の定義"
+
+msgid "Deflate"
+msgstr "収縮"
+
+msgid "Delete Around Caret in Equation"
+msgstr "数式内でカーソル周辺を削除"
+
+msgid "Delete Back in Equation"
+msgstr "数式内で前を削除"
+
+msgid "Delete Bookmark"
+msgstr "ブックマークの削除"
+
+msgid "Delete Cells"
+msgstr "セルの削除"
+
+msgid "Delete Clipboard Item"
+msgstr "クリップボードの項目を削除"
+
+msgid "Delete Columns"
+msgstr "列の削除"
+
+msgid "Delete Comment"
+msgstr "コメントの削除"
+
+msgid "Delete in Equation"
+msgstr "数式内で削除"
+
+msgid "Delete Label"
+msgstr "ラベル削除"
+
+msgid "Delete Next Word"
+msgstr "次の単語を削除"
+
+msgid "Delete Previous Word"
+msgstr "前の単語を削除"
+
+msgid "Delete Rows"
+msgstr "行の削除"
+
+msgid "Delete Selected Ink"
+msgstr "選択したインクを削除"
+
+msgid "Delete Table"
+msgstr "表の削除"
+
+msgid "Delete Table Style"
+msgstr "表スタイルの削除"
+
+msgid "Deletions:"
+msgstr "削除された箇所:"
+
+msgid "Delivery address:"
+msgstr "宛先:"
+
+msgid "Delta Equal To"
+msgstr ""
+
+msgid "Delta over arrow"
+msgstr ""
+
+msgid "Demote"
+msgstr "レベル下げ"
+
+msgid "Demote to Body Text"
+msgstr "本文に設定"
+
+msgid "Derivative as a limit"
+msgstr ""
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "このオブジェクトが示す内容を、見ることができない人のために説明してください。"
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "この表が示す内容を、見ることができない人のために説明してください。"
+
+msgid "Design"
+msgstr "デザイン"
+
+msgid "Design Mode"
+msgstr "デザイン モード"
+
+msgid "Detach Template"
+msgstr "テンプレートの解除"
+
+msgid "Detect language automatically"
+msgstr "言語を自動的に検出する"
+
+msgid "Developer"
+msgstr "開発"
+
+msgid "development build"
+msgstr "開発ビルド"
+
+msgid "Diagonal Dots"
+msgstr ""
+
+msgid "Diagram"
+msgstr "図解"
+
+msgid "Diagram Design"
+msgstr "図解のデザイン"
+
+msgid "Diagram Styles"
+msgstr "図解のスタイル"
+
+msgid "Dictate"
+msgstr "ディクテーション"
+
+msgid "Dictionaries"
+msgstr "辞書"
+
+msgid "Dictionaries folder:"
+msgstr "辞書フォルダー:"
+
+msgid "Dictionary files"
+msgstr "辞書ファイル"
+
+msgid "Different First Page"
+msgstr "先頭ページのみ別指定"
+
+msgid "Different Odd & Even Pages"
+msgstr "奇数/偶数ページ別指定"
+
+msgid "Differential"
+msgstr ""
+
+msgid "Differential theta"
+msgstr ""
+
+msgid "Differential x"
+msgstr ""
+
+msgid "Differential y"
+msgstr ""
+
+msgid "Differentials"
+msgstr ""
+
+msgid "Direct formatting"
+msgstr "直接の書式"
+
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Discord コミュニティ"
+
+msgid "Display for Review"
+msgstr "変更内容の表示"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "表示テキスト"
+
+msgid "Distance from text"
+msgstr "本文からの距離"
+
+msgid "Distance from text:"
+msgstr "本文からの距離:"
+
+msgid "Distribute Columns"
+msgstr "列の幅を揃える"
+
+msgid "Distribute letters"
+msgstr "文字を均等に配置"
+
+msgid "Distribute Rows"
+msgstr "行の高さを揃える"
+
+msgid "Distribute spacing"
+msgstr "間隔を均等に配置"
+
+msgid "Distributed"
+msgstr "均等割り付け"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "スペル チェックと文章校正を行わない"
+
+msgid "Do not check spelling or grammar"
+msgstr "スペルチェックと文章校正を行わない"
+
+msgid "DO NOT COPY"
+msgstr ""
+
+msgid "Do Not Show in TOC"
+msgstr "目次に表示しない"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "{name} への変更を保存しますか?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "文書の末尾"
+
+msgid "Document Formatting"
+msgstr "ドキュメントの書式設定"
+
+msgid "Document Grid"
+msgstr "文書グリッド"
+
+msgid "Document Information"
+msgstr "文書の情報"
+
+msgid "Document name"
+msgstr "ドキュメント名"
+
+msgid "Document Property"
+msgstr "文書のプロパティ"
+
+msgid "Document Start"
+msgstr "文書の先頭"
+
+msgid "Document template:"
+msgstr "文書テンプレート:"
+
+msgid "Document Text"
+msgstr "文書のテキスト"
+
+msgid "Document1"
+msgstr "文書 1"
+
+msgid "Document\nPreferences"
+msgstr "文書の\n設定"
+
+msgid "Documents you open will show up here."
+msgstr "開いた文書がここに表示されます。"
+
+msgid "Does not contain"
+msgstr "含まない"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "同じスタイルの段落間に間隔を追加しない"
+
+msgid "Don't capitalize after:"
+msgstr "次の後は大文字にしない:"
+
+msgid "Don't hyphenate"
+msgstr "ハイフネーションなし"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Zotero、Mendeley、EndNote の引用と参考文献は読み上げません"
+
+msgid "Don't show me this tip again"
+msgstr "このヒントを今後表示しない"
+
+msgid "Dot dash"
+msgstr "一点鎖線"
+
+msgid "Dot-dash"
+msgstr "一点鎖線"
+
+msgid "Dot-dot-dash"
+msgstr "二点鎖線"
+
+msgid "Double"
+msgstr "二重線"
+
+msgid "Double Bar"
+msgstr ""
+
+msgid "Double Closing Quote"
+msgstr "二重引用符 (閉じ)"
+
+msgid "Double Dot"
+msgstr ""
+
+msgid "Double Integral"
+msgstr ""
+
+msgid "Double Integral with Limits"
+msgstr ""
+
+msgid "Double Integral with Stacked Limits"
+msgstr ""
+
+msgid "Double Left Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Arrow with Text Below"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Opening Quote"
+msgstr "二重引用符 (開き)"
+
+msgid "Double Right Arrow with Text Above"
+msgstr ""
+
+msgid "Double Right Arrow with Text Below"
+msgstr ""
+
+msgid "Double Spacing"
+msgstr "2 行"
+
+msgid "Double Square Brackets"
+msgstr ""
+
+msgid "Double Strikethrough"
+msgstr "二重取り消し線"
+
+msgid "Double strikethrough"
+msgstr "二重取り消し線"
+
+msgid "Double summation"
+msgstr ""
+
+msgid "Double Underline"
+msgstr "二重下線"
+
+msgid "Double Vertical Bars"
+msgstr ""
+
+msgid "Doughnut"
+msgstr "ドーナツ"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "ダウンロードはオフです。「言語を追加…」または「インストール」をクリックするとオンになり、WordCraft は GitHub から言語パックとフォントをダウンロードします。"
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr ""
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "四角形をドラッグして表を描くか、セルを横切る線を引いて分割します。Esc で終了します。"
+
+msgid "Draw Ink"
+msgstr "インクで描く"
+
+msgid "Draw Table"
+msgstr "表を描画"
+
+msgid "Draw\nTable"
+msgstr "表の\n描画"
+
+msgid "Drawing Canvas"
+msgstr "描画キャンバス"
+
+msgid "Drawing Tools"
+msgstr "描画ツール"
+
+msgid "Drawing\nCanvas"
+msgstr "描画キャンバス"
+
+msgid "Drop Cap"
+msgstr "ドロップ キャップ"
+
+msgid "Drop cap"
+msgstr "ドロップ キャップ"
+
+msgid "Drop Cap Options…"
+msgstr "ドロップ キャップのオプション…"
+
+msgid "drop caps can't go in a table"
+msgstr "ドロップキャップは表の中に入れられません"
+
+msgid "Drop-Down List Content Control"
+msgstr "ドロップダウン リスト コンテンツ コントロール"
+
+msgid "Dropped"
+msgstr "本文内に表示"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "書式をすべて取り除き、プレーン テキストとして貼り付けます。"
+
+msgid "Dutch, Nederlands or nl"
+msgstr "オランダ語、Nederlands または nl"
+
+msgid "E-mail Messages"
+msgstr "電子メール"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "エクアドル"
+
+msgid "Edit Comment"
+msgstr "コメントを編集"
+
+msgid "Edit Data"
+msgstr "データの編集"
+
+msgid "Edit Document"
+msgstr "文書の編集"
+
+msgid "Edit Equation"
+msgstr "数式の編集"
+
+msgid "Edit Field Code"
+msgstr "フィールドコードの編集"
+
+msgid "Edit Field…"
+msgstr "フィールドの編集…"
+
+msgid "Edit Footer"
+msgstr "フッターの編集"
+
+msgid "Edit Header"
+msgstr "ヘッダーの編集"
+
+msgid "Edit Individual Documents…"
+msgstr "個々のドキュメントを編集…"
+
+msgid "Edit Items"
+msgstr "項目の編集"
+
+msgid "Edit Recipient List"
+msgstr "アドレス帳の編集"
+
+msgid "Edit Source"
+msgstr "資料文献の編集"
+
+msgid "Edit\nData"
+msgstr "データの\n編集"
+
+msgid "Edit\nRecipient List"
+msgstr "アドレス帳の編集"
+
+msgid "Edited"
+msgstr "編集済み"
+
+msgid "Editing endnote"
+msgstr "文末脚注を編集中"
+
+msgid "Editing footnote"
+msgstr "脚注を編集中"
+
+msgid "Editing header/footer"
+msgstr "ヘッダー/フッターを編集中"
+
+msgid "Editing in this document is restricted."
+msgstr "この文書の編集は制限されています。"
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "編集 — 文書を直接編集します"
+
+msgid "Edition"
+msgstr "版"
+
+msgid "Editor"
+msgstr "エディター"
+
+msgid "Egypt"
+msgstr "エジプト"
+
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+msgid "Elbow Arrow Connector"
+msgstr "カギ線矢印コネクタ"
+
+msgid "Elbow Connector"
+msgstr "カギ線コネクタ"
+
+msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr ""
+
+msgid "Enclose Characters"
+msgstr "囲い文字"
+
+msgid "Enclosure"
+msgstr "囲い"
+
+msgid "Encrypt with Password"
+msgstr "パスワードを使用して暗号化"
+
+msgid "Encrypt with Password…"
+msgstr "パスワードを使用して暗号化…"
+
+msgid "End of document"
+msgstr "文書の最後"
+
+msgid "End of section"
+msgstr "セクションの最後"
+
+msgid "End of Word"
+msgstr "単語の末尾"
+
+msgid "Endnote Reference"
+msgstr ""
+
+msgid "Endnote Text"
+msgstr ""
+
+msgid "Endnotes"
+msgstr "文末脚注"
+
+msgid "Endnotes to footnotes"
+msgstr "文末脚注を脚注に変換"
+
+msgid "English (Australia)"
+msgstr "英語（オーストラリア）"
+
+msgid "English (Canada)"
+msgstr "英語（カナダ）"
+
+msgid "English (India)"
+msgstr "英語（インド）"
+
+msgid "English (Ireland)"
+msgstr "英語（アイルランド）"
+
+msgid "English (New Zealand)"
+msgstr "英語（ニュージーランド）"
+
+msgid "English (South Africa)"
+msgstr "英語（南アフリカ）"
+
+msgid "English (United Kingdom)"
+msgstr "英語（英国）"
+
+msgid "English (United States)"
+msgstr "英語（米国）"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "英語、この文書の言語、インストール済みのすべての言語パック。言語パックはスペルチェック用の辞書とハイフネーションを追加します。"
+
+msgid "Engrave"
+msgstr "浮き彫り"
+
+msgid "Enlarge symbol"
+msgstr "記号を拡大"
+
+msgid "Enter a number."
+msgstr "数値を入力してください。"
+
+msgid "Enter bookmark name:"
+msgstr ""
+
+msgid "Enter formatting for number:"
+msgstr "番号の書式:"
+
+msgid "Enter in Equation"
+msgstr "数式内で Enter"
+
+msgid "Enter page number:"
+msgstr "ページ番号を入力:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "項目を登録しました。"
+
+msgid "Envelope #10"
+msgstr "封筒 #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr ""
+
+msgid "Envelope Address"
+msgstr ""
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr ""
+
+msgid "Envelope Return"
+msgstr ""
+
+msgid "Envelope size:"
+msgstr "封筒サイズ:"
+
+msgid "Envelopes"
+msgstr "封筒"
+
+msgid "Equal by Definition"
+msgstr ""
+
+msgid "Equal column width"
+msgstr "段の幅を均等にする"
+
+msgid "Equal Equal"
+msgstr ""
+
+msgid "Equal to"
+msgstr "等しい"
+
+msgid "Equals:"
+msgstr "等しい値:"
+
+msgid "Equation"
+msgstr "数式"
+
+msgid "Equation Gallery"
+msgstr "数式ギャラリー"
+
+msgid "Equation Info"
+msgstr "数式の情報"
+
+msgid "Equation Number"
+msgstr "数式番号"
+
+msgid "Equation Options"
+msgstr "数式のオプション"
+
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+msgid "Erase Ink"
+msgstr "インクを消す"
+
+msgid "Errors ({n})"
+msgstr "エラー ({n})"
+
+msgid "Esperanto"
+msgstr "エスペラント語"
+
+msgid "Estonian"
+msgstr "エストニア語"
+
+msgid "Euler's identity"
+msgstr ""
+
+msgid "Even Banded Columns"
+msgstr "偶数の縞模様（列）"
+
+msgid "Even Banded Rows"
+msgstr "偶数の縞模様（行）"
+
+msgid "Even Page"
+msgstr "偶数ページから開始"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "すべての変更が変更履歴として記録されます。"
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "すべてのコマンドはスクリプトと AI エージェントから利用できます。`wordcraft-cli mcp` で MCP サーバーを起動するか、`--control <port>` を付けてアプリを起動すると JSON 制御チャネルが使えます。"
+
+msgid "Every field needs a name."
+msgstr "すべてのフィールドに名前が必要です。"
+
+msgid "Everyone"
+msgstr "すべてのユーザー"
+
+msgid "Exactly"
+msgstr "固定値"
+
+msgid "Exactly {n}"
+msgstr "固定値 {n}"
+
+msgid "Exceptions (optional)"
+msgstr "例外 (省略可能)"
+
+msgid "Exceptions…"
+msgstr "例外…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr ""
+
+msgid "Existing File or Web Page"
+msgstr "既存のファイル/Web ページ"
+
+msgid "Expand or Collapse Heading"
+msgstr "見出しの展開/折りたたみ"
+
+msgid "Exponential"
+msgstr ""
+
+msgid "Exponential series"
+msgstr ""
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "共有用にコピーをエクスポート（PDF、Word 文書）"
+
+msgid "Export Page as PNG"
+msgstr "ページを PNG としてエクスポート"
+
+msgid "Extend Selection"
+msgstr "選択範囲の拡張"
+
+msgid "Extend Selection by Units"
+msgstr "単位ごとに選択範囲を拡張"
+
+msgid "Extra space"
+msgstr ""
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "時短ワザ: {command} はキーボードの {key} でできます。"
+
+msgid "Field code:"
+msgstr "フィールド コード:"
+
+msgid "Field Codes"
+msgstr "フィールド コード"
+
+msgid "Field codes:"
+msgstr "フィールド コード:"
+
+msgid "Field name"
+msgstr "フィールド名"
+
+msgid "Field name:"
+msgstr "フィールド名:"
+
+msgid "Field names must be different."
+msgstr "フィールド名は重複できません。"
+
+msgid "Field names:"
+msgstr "フィールドの名前:"
+
+msgid "Field:"
+msgstr "フィールド:"
+
+msgid "Field…"
+msgstr "フィールド…"
+
+msgid "Figure"
+msgstr "図"
+
+msgid "File locations"
+msgstr "ファイルの場所"
+
+msgid "File name:"
+msgstr "ファイル名:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "[ファイル] › [新規] の [個人用] に、ここにある .dotx と .dotm のテンプレートが表示されます。[Word テンプレートとして保存] はここから始まります。"
+
+msgid "Fill color:"
+msgstr "塗りつぶしの色:"
+
+msgid "Filling in forms"
+msgstr "フォームへの入力"
+
+msgid "Film"
+msgstr "映画"
+
+msgid "Filter and Sort"
+msgstr "フィルターと並べ替え"
+
+msgid "Filter Recipients"
+msgstr "宛先のフィルター"
+
+msgid "Find in list:"
+msgstr "リスト内を検索:"
+
+msgid "Find Next Editable Region"
+msgstr "次の編集可能な範囲を検索"
+
+msgid "Find Previous"
+msgstr "前を検索"
+
+msgid "Find Recipient"
+msgstr "宛先の検索"
+
+msgid "Find What Expression"
+msgstr "検索した式"
+
+msgid "Find What Text"
+msgstr "検索した文字列"
+
+msgid "Find what:"
+msgstr "検索する文字列:"
+
+msgid "Find “{text}” in the document"
+msgstr ""
+
+msgid "Finding printers…"
+msgstr "プリンターを検索しています…"
+
+msgid "Finish & Merge"
+msgstr "完了と差し込み"
+
+msgid "Finish &\nMerge"
+msgstr "完了と差し込み"
+
+msgid "Finished"
+msgstr "完了"
+
+msgid "Finland"
+msgstr "フィンランド"
+
+msgid "Finnish"
+msgstr "フィンランド語"
+
+msgid "First Column"
+msgstr "最初の列"
+
+msgid "First line"
+msgstr "最初の行"
+
+msgid "First line:"
+msgstr "最初の行:"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "First Record"
+msgstr "最初のレコード"
+
+msgid "First row of data contains column headers"
+msgstr "データの先頭行を列見出しとして使う"
+
+msgid "Fix Position on Page"
+msgstr "ページ上で位置を固定する"
+
+msgid "Fixed Column Width"
+msgstr "列の幅を固定する"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr ""
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "番号に続く文字:"
+
+msgid "Font Color"
+msgstr "フォントの色"
+
+msgid "Font color"
+msgstr "フォントの色"
+
+msgid "Font color:"
+msgstr "フォントの色:"
+
+msgid "Font Dialog"
+msgstr "フォント ダイアログ"
+
+msgid "Font: {font}"
+msgstr "フォント: {font}"
+
+msgid "Font…"
+msgstr "フォント…"
+
+msgid "Footer"
+msgstr "フッター"
+
+msgid "Footnote and Endnote"
+msgstr "脚注と文末脚注"
+
+msgid "Footnote Reference"
+msgstr ""
+
+msgid "Footnote Text"
+msgstr ""
+
+msgid "Footnotes"
+msgstr "脚注"
+
+msgid "Footnotes and endnotes"
+msgstr "脚注と文末脚注"
+
+msgid "Footnotes to endnotes"
+msgstr "脚注を文末脚注に変換"
+
+msgid "For which item:"
+msgstr ""
+
+msgid "Format Page Numbers"
+msgstr "ページ番号の書式設定"
+
+msgid "Format Page Numbers…"
+msgstr "ページ番号の書式設定…"
+
+msgid "Format Painter"
+msgstr "書式のコピー/貼り付け"
+
+msgid "Format Shape"
+msgstr "図形の書式設定"
+
+msgid "Format Shape Pane"
+msgstr "図形の書式設定ウィンドウ"
+
+msgid "Format Shape…"
+msgstr "図形の書式設定…"
+
+msgid "Formatted"
+msgstr "書式変更"
+
+msgid "Formatted Text"
+msgstr "書式付きテキスト"
+
+msgid "Formatting"
+msgstr "書式"
+
+msgid "Formatting at Selection"
+msgstr "選択範囲の書式"
+
+msgid "Formatting exceptions"
+msgstr "書式の例外"
+
+msgid "Formatting marks"
+msgstr "編集記号"
+
+msgid "Formatting saved for new documents:"
+msgstr "新しい文書用に保存された書式:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "書式、大文字/小文字、空白、表を比較します。その他の設定は今後の対応です。"
+
+msgid "Formula"
+msgstr "計算式"
+
+msgid "Formula:"
+msgstr "計算式:"
+
+msgid "Forward"
+msgstr "早送り"
+
+msgid "Fraction"
+msgstr "分数"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "分数 (1/2) を分数文字 (½) に"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr "フランス"
+
+msgid "French (France)"
+msgstr "フランス語（フランス）"
+
+msgid "From Bottom Left Corner"
+msgstr "左下の角から"
+
+msgid "From Bottom Right Corner"
+msgstr "右下の角から"
+
+msgid "From Center"
+msgstr "中央から"
+
+msgid "From text:"
+msgstr "本文からの距離:"
+
+msgid "From Top Left Corner"
+msgstr "左上の角から"
+
+msgid "From Top Right Corner"
+msgstr "右上の角から"
+
+msgid "from Unicode (hex)"
+msgstr "Unicode (16 進)"
+
+msgid "From {name}"
+msgstr "{name} から"
+
+msgid "From:"
+msgstr "開始:"
+
+msgid "Full page of the same label"
+msgstr "同じラベルで 1 ページ全体"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "全画面ビュー"
+
+msgid "Full\nScreen"
+msgstr "全画面\n表示"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "ちなみに: 白紙とは、まだ何も言われていない下書きのことです。"
+
+msgid "Function"
+msgstr "関数"
+
+msgid "Galician"
+msgstr "ガリシア語"
+
+msgid "Gallery"
+msgstr "ギャラリー"
+
+msgid "GB/T 7714"
+msgstr ""
+
+msgid "Georgian"
+msgstr "ジョージア語"
+
+msgid "German (Germany)"
+msgstr "ドイツ語（ドイツ）"
+
+msgid "Germany"
+msgstr "ドイツ"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "言語パックの一覧を取得し、続いてこの言語のパックがあればそれを取得します。"
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "光彩の色"
+
+msgid "Go Back"
+msgstr "前の編集位置に戻る"
+
+msgid "Go To"
+msgstr "ジャンプ"
+
+msgid "Go to"
+msgstr "移動"
+
+msgid "Go To (⌘⌥G)"
+msgstr "ジャンプ (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "レコードへ移動"
+
+msgid "Go to what:"
+msgstr "移動先:"
+
+msgid "Go To…"
+msgstr "ジャンプ…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "消えた! 最初から書かれなかったみたいに。というか、今は本当に書かれていないんですけど。"
+
+msgid "Good afternoon"
+msgstr "こんにちは"
+
+msgid "Good evening"
+msgstr "こんばんは"
+
+msgid "Good morning"
+msgstr "おはようございます"
+
+msgid "GOST (name sort)"
+msgstr ""
+
+msgid "GOST (title sort)"
+msgstr ""
+
+msgid "Grab bag"
+msgstr "ランダム表示"
+
+msgid "Gradient fill"
+msgstr "グラデーションの塗りつぶし"
+
+msgid "Gradient stops"
+msgstr "グラデーションの分岐点"
+
+msgid "Grammar built in"
+msgstr "文法チェック内蔵"
+
+msgid "Grave"
+msgstr ""
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "より大きい"
+
+msgid "Greater than or equal"
+msgstr "以上"
+
+msgid "Greek"
+msgstr "ギリシャ語"
+
+msgid "Greek Letters"
+msgstr ""
+
+msgid "Green:"
+msgstr "緑:"
+
+msgid "Greeting Line"
+msgstr "あいさつ文"
+
+msgid "Greeting\nLine"
+msgstr "あいさつ文"
+
+msgid "Grid Table 1 Light"
+msgstr ""
+
+msgid "Grid Table 4 – Blue"
+msgstr ""
+
+msgid "Grid Table 4 – Green"
+msgstr ""
+
+msgid "Grid Table 4 – Orange"
+msgstr ""
+
+msgid "Grid Table 4 – Purple"
+msgstr ""
+
+msgid "Gridlines"
+msgstr "グリッド線"
+
+msgid "Grouping Character Above"
+msgstr ""
+
+msgid "Grouping Character Below"
+msgstr ""
+
+msgid "Grow Font 1 Point"
+msgstr "フォントを 1 ポイント拡大"
+
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+msgid "H:"
+msgstr "高さ:"
+
+msgid "Hanging Indent"
+msgstr "ぶら下げインデント"
+
+msgid "Harvard (Anglia)"
+msgstr ""
+
+msgid "Hat"
+msgstr ""
+
+msgid "Header"
+msgstr "ヘッダー"
+
+msgid "Header & Footer"
+msgstr "ヘッダーとフッター"
+
+msgid "Header Row"
+msgstr "タイトル行"
+
+msgid "Header row"
+msgstr "見出し行あり"
+
+msgid "Header/Footer Position"
+msgstr "ヘッダー/フッターの位置"
+
+msgid "Headers and footers"
+msgstr "ヘッダーとフッター"
+
+msgid "Heading"
+msgstr ""
+
+msgid "Heading 1"
+msgstr "見出し 1"
+
+msgid "Heading 2"
+msgstr "見出し 2"
+
+msgid "Heading 3"
+msgstr "見出し 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "見出しスタイル (レベル 1–{n})"
+
+msgid "Heading text"
+msgstr ""
+
+msgid "Heading {n}"
+msgstr "見出し {n}"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Hex:"
+msgstr "16 進数:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "こんにちは! わたしは Nib、文章を書くお手伝いをするアシスタントです。ヒントやショートカット、ときどき聞かれてもいない意見をお伝えします。このまま近くにいましょうか?"
+
+msgid "Hidden bookmarks"
+msgstr "隠しブックマーク"
+
+msgid "Hide Codes"
+msgstr "コードを隠す"
+
+msgid "Hide from style lists"
+msgstr "スタイルの一覧に表示しない"
+
+msgid "Hide Ink"
+msgstr "インクを隠す"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "クイック アクセス ツール バーを非表示にする"
+
+msgid "Hide White Space"
+msgstr "余白を非表示"
+
+msgid "Hide\nInk"
+msgstr "インクを\n隠す"
+
+msgid "Hierarchy"
+msgstr "階層構造"
+
+msgid "Highlight"
+msgstr "蛍光ペン"
+
+msgid "Highlight Merge Fields"
+msgstr "差し込みフィールドの強調表示"
+
+msgid "Highlight\nMerge Fields"
+msgstr "差し込みフィールドの強調表示"
+
+msgid "Highlighter"
+msgstr "蛍光ペン"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "ホーム フォルダー"
+
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+msgid "Hong Kong SAR"
+msgstr "香港特別行政区"
+
+msgid "Horizontal Line"
+msgstr "横線"
+
+msgid "How many pages the whole document has"
+msgstr "文書のページ数"
+
+msgid "How many pages this section has"
+msgstr "セクションのページ数"
+
+msgid "How many words the document holds"
+msgstr "文書の単語数"
+
+msgid "HTML Format"
+msgstr "HTML 形式"
+
+msgid "Hue:"
+msgstr "色合い:"
+
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "このフォルダーの Hunspell .aff と .dic ファイル (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) は、システムのものより優先して使われます。"
+
+msgid "Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Hyperbolic Functions"
+msgstr ""
+
+msgid "Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Hyperlink"
+msgstr ""
+
+msgid "Hyphenate at:"
+msgstr "ハイフネーション位置:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "大文字の単語をハイフネーションする"
+
+msgid "Hyphenation Options…"
+msgstr "ハイフネーションのオプション…"
+
+msgid "Hyphenation zone:"
+msgstr "ハイフネーション領域:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "ハイフン (--) をダッシュ (—) に"
+
+msgid "Hypotenuse"
+msgstr ""
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "ちゃんと保存されてますって。確かめました。2 回も。"
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "自分でも何か書きたいんですが、なにしろペン先だけで、インクが空なんです。"
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+msgid "Icon Color"
+msgstr "アイコンの色"
+
+msgid "Icons"
+msgstr "アイコン"
+
+msgid "Identity Matrices"
+msgstr ""
+
+msgid "IEEE"
+msgstr ""
+
+msgid "If…Then…Else"
+msgstr "条件 (If…Then…Else)"
+
+msgid "If…Then…Else…"
+msgstr "条件 (If…Then…Else)…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "句読点を無視する"
+
+msgid "Ignore web and file addresses"
+msgstr "Web アドレスとファイル パスを無視する"
+
+msgid "Ignore white-space characters"
+msgstr "空白文字を無視する"
+
+msgid "Ignore words in capitals"
+msgstr "すべて大文字の単語を無視する"
+
+msgid "Ignore words with numbers"
+msgstr "数字を含む単語を無視する"
+
+msgid "Illustrations"
+msgstr "図"
+
+msgid "Immersive"
+msgstr "イマーシブ"
+
+msgid "Immersive Reader"
+msgstr "イマーシブ リーダー"
+
+msgid "Immersive\nReader"
+msgstr "イマーシブ リーダー"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "既定のアプリで、WordCraft で開きたい文書の種類ごとに WordCraft を選んでください。"
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "数式では、円記号 (バックスラッシュ) の後に名前を入力すると記号に置き換わります。"
+
+msgid "In Front of Text"
+msgstr "前面"
+
+msgid "In Line with Text"
+msgstr "行内"
+
+msgid "In margin"
+msgstr "余白に表示"
+
+msgid "In the margin"
+msgstr "余白に表示"
+
+msgid "Include label and number"
+msgstr "ラベルと番号を含める"
+
+msgid "Include level number from:"
+msgstr "含めるレベルの番号:"
+
+msgid "Include page numbers"
+msgstr "ページ番号を含める"
+
+msgid "Increase Indent"
+msgstr "インデントを増やす"
+
+msgid "Indent"
+msgstr "インデント"
+
+msgid "Indent from left:"
+msgstr "左インデント:"
+
+msgid "Indentation"
+msgstr "インデント"
+
+msgid "Indented"
+msgstr "インデント"
+
+msgid "Indents"
+msgstr "インデント"
+
+msgid "Indents and Spacing"
+msgstr "インデントと間隔"
+
+msgid "Index and Tables"
+msgstr "索引と目次"
+
+msgid "Index Heading"
+msgstr ""
+
+msgid "Index {n}"
+msgstr ""
+
+msgid "India"
+msgstr "インド"
+
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+msgid "Initial column width:"
+msgstr "列の幅の初期値:"
+
+msgid "Initials:"
+msgstr "イニシャル:"
+
+msgid "Ink"
+msgstr "インク"
+
+msgid "Ink Replay"
+msgstr "インクの再生"
+
+msgid "Ink to Shape"
+msgstr "インクを図形に変換"
+
+msgid "Ink to\nMath"
+msgstr "インクを数式に変換"
+
+msgid "Ink to\nShape"
+msgstr "インクを図形に変換"
+
+msgid "Ink\nReplay"
+msgstr "インクの再生"
+
+msgid "Inline"
+msgstr "行内"
+
+msgid "Input Format"
+msgstr "入力形式"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "新しい数式を挿入 (Alt+=)"
+
+msgid "Insert Above"
+msgstr "上に行を挿入"
+
+msgid "Insert Below"
+msgstr "下に行を挿入"
+
+msgid "Insert Caption"
+msgstr "図表番号の挿入"
+
+msgid "Insert Caption…"
+msgstr "図表番号の挿入…"
+
+msgid "Insert Chart"
+msgstr "グラフの挿入"
+
+msgid "Insert Citation"
+msgstr "引用文献の挿入"
+
+msgid "Insert Columns to the Left"
+msgstr "左に列を挿入"
+
+msgid "Insert Columns to the Right"
+msgstr "右に列を挿入"
+
+msgid "Insert Date Field"
+msgstr "日付フィールドの挿入"
+
+msgid "Insert Diagram"
+msgstr "図解を挿入"
+
+msgid "Insert Endnote"
+msgstr "文末脚注の挿入"
+
+msgid "Insert Footnote"
+msgstr "脚注の挿入"
+
+msgid "Insert Hyperlink"
+msgstr "ハイパーリンクの挿入"
+
+msgid "Insert Index"
+msgstr "索引の挿入"
+
+msgid "Insert Left"
+msgstr "左に列を挿入"
+
+msgid "Insert Merge Field"
+msgstr "差し込みフィールドの挿入"
+
+msgid "Insert Merge\nField"
+msgstr "差し込みフィールドの挿入"
+
+msgid "Insert New Equation"
+msgstr "新しい数式の挿入"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "フィールドの値に応じて、どちらかのテキストを挿入します。"
+
+msgid "Insert Page Field"
+msgstr "ページ フィールドの挿入"
+
+msgid "Insert reference to:"
+msgstr ""
+
+msgid "Insert Right"
+msgstr "右に列を挿入"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "クリックで行または列を挿入"
+
+msgid "Insert Rows Above"
+msgstr "上に行を挿入"
+
+msgid "Insert Rows Below"
+msgstr "下に行を挿入"
+
+msgid "Insert Shapes"
+msgstr "図形の挿入"
+
+msgid "Insert SmartArt"
+msgstr "SmartArt の挿入"
+
+msgid "Insert Spike"
+msgstr "スパイクの挿入"
+
+msgid "Insert Structure"
+msgstr "構造の挿入"
+
+msgid "Insert Symbol"
+msgstr "記号の挿入"
+
+msgid "Insert Table"
+msgstr "表の挿入"
+
+msgid "Insert Table of Authorities"
+msgstr "引用文献一覧の挿入"
+
+msgid "Insert Table of Figures"
+msgstr "図表目次の挿入"
+
+msgid "Insert Table…"
+msgstr "表の挿入…"
+
+msgid "Insert Time Field"
+msgstr "時刻フィールドの挿入"
+
+msgid "Insert\nAbove"
+msgstr "上に行を挿入"
+
+msgid "Insert\nCaption"
+msgstr "図表番号の挿入"
+
+msgid "Insert\nCitation"
+msgstr "引用文献の挿入"
+
+msgid "Insert\nFootnote"
+msgstr "脚注の挿入"
+
+msgid "Insertions and Deletions"
+msgstr "挿入と削除"
+
+msgid "Insertions:"
+msgstr "挿入された箇所:"
+
+msgid "Inside Borders"
+msgstr "内側の罫線"
+
+msgid "Inside Horizontal Border"
+msgstr "内側の横罫線"
+
+msgid "Inside Vertical Border"
+msgstr "内側の縦罫線"
+
+msgid "Inside:"
+msgstr "内側:"
+
+msgid "Inspect Styles at Selection"
+msgstr "選択箇所のスタイルを調べる"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "スペルチェックをインストール（{size}）"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "機関"
+
+msgid "Integral"
+msgstr "積分"
+
+msgid "Integral of e^(−x²)"
+msgstr ""
+
+msgid "Integral with Limits"
+msgstr ""
+
+msgid "Integral with Stacked Limits"
+msgstr ""
+
+msgid "Integrals"
+msgstr ""
+
+msgid "Intense Emphasis"
+msgstr ""
+
+msgid "Intense Quote"
+msgstr ""
+
+msgid "Intense Reference"
+msgstr ""
+
+msgid "Interface language:"
+msgstr "表示言語:"
+
+msgid "Interface size:"
+msgstr "表示サイズ:"
+
+msgid "Interface theme:"
+msgstr "表示テーマ:"
+
+msgid "Interface\nTheme"
+msgstr "表示テーマ"
+
+msgid "Internet addresses as links"
+msgstr "インターネットのアドレスをリンクに"
+
+msgid "Intersection with Limits"
+msgstr ""
+
+msgid "Intersection with Lower Limit"
+msgstr ""
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr ""
+
+msgid "Inverse Cosine Function"
+msgstr ""
+
+msgid "Inverse Cotangent Function"
+msgstr ""
+
+msgid "Inverse Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Functions"
+msgstr ""
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr ""
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr ""
+
+msgid "Inverse Secant Function"
+msgstr ""
+
+msgid "Inverse Sine Function"
+msgstr ""
+
+msgid "Inverse Tangent Function"
+msgstr ""
+
+msgid "Ionosphere"
+msgstr "電離圏"
+
+msgid "Iraq"
+msgstr "イラク"
+
+msgid "Ireland"
+msgstr "アイルランド"
+
+msgid "Irish"
+msgstr "アイルランド語"
+
+msgid "Is blank"
+msgstr "空白"
+
+msgid "Is not blank"
+msgstr "空白ではない"
+
+msgid "ISO 690 (author-date)"
+msgstr ""
+
+msgid "ISO 690 (numerical)"
+msgstr ""
+
+msgid "Issue"
+msgstr "号"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "手紙を書いているようですね。封筒を用意しますか? それともレター テンプレートから始めますか?"
+
+msgid "Italy"
+msgstr "イタリア"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "辞書を読み込めませんでした: {reason}"
+
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Discord の ArtCraft コミュニティに参加"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Discord で参加: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "ヨルダン"
+
+msgid "Journal"
+msgstr "学術誌"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr ""
+
+msgid "Justified"
+msgstr "両端揃え"
+
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+msgid "Keep Lines Together"
+msgstr "段落を分割しない"
+
+msgid "Keep lines together"
+msgstr "段落を分割しない"
+
+msgid "Keep me around"
+msgstr "近くにいて"
+
+msgid "Keep Text Only"
+msgstr "テキストのみ保持"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "パスワードは安全な場所に保管してください。パスワードがないと、WordCraft を含め誰も文書を開けません。パスワードを削除するには両方のボックスを空にします。"
+
+msgid "Keep with Next"
+msgstr "次の段落と分離しない"
+
+msgid "Keep with next"
+msgstr "次の段落と分離しない"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "コピーしたテキストのフォントと書式を保持します。"
+
+msgid "Kerning for fonts:"
+msgstr "カーニングを行う:"
+
+msgid "Keyboard shortcuts:"
+msgstr "キーボード ショートカット:"
+
+msgid "Keys for this command:"
+msgstr "このコマンドのキー:"
+
+msgid "Kuwait"
+msgstr "クウェート"
+
+msgid "Label changes with:"
+msgstr "変更者のラベル:"
+
+msgid "Label:"
+msgstr "ラベル:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "言語の設定…"
+
+msgid "Large\nOperator"
+msgstr "大型\n演算子"
+
+msgid "Largest Only"
+msgstr "広い側のみ"
+
+msgid "Lasso Select"
+msgstr "なげなわ選択"
+
+msgid "Last Column"
+msgstr "最後の列"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Last Record"
+msgstr "最後のレコード"
+
+msgid "Last, First; Last, First"
+msgstr "姓, 名; 姓, 名"
+
+msgid "Latin text font:"
+msgstr "ラテン文字のフォント:"
+
+msgid "Latvian"
+msgstr "ラトビア語"
+
+msgid "Layout Summary"
+msgstr "レイアウトの概要"
+
+msgid "Layouts"
+msgstr "レイアウト"
+
+msgid "Leader"
+msgstr "リーダー"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "フィールドがこの値のとき、その宛先を差し込みから除外します。"
+
+msgid "Leave Equation"
+msgstr "数式を終了"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "保存時にコメントと変更履歴の日時を含めない"
+
+msgid "Leave the equation (Esc)"
+msgstr "数式を終了 (Esc)"
+
+msgid "leave the equation first"
+msgstr "先に数式から出てください"
+
+msgid "Leave the label out of the caption"
+msgstr "ラベルを図表番号に含めない"
+
+msgid "Lebanon"
+msgstr "レバノン"
+
+msgid "Left Arrow with Text Above"
+msgstr ""
+
+msgid "Left Arrow with Text Below"
+msgstr ""
+
+msgid "Left Border"
+msgstr "左罫線"
+
+msgid "Left border"
+msgstr "左罫線"
+
+msgid "Left Bracket Twice"
+msgstr ""
+
+msgid "Left indent"
+msgstr "左インデント"
+
+msgid "Left Margin"
+msgstr "左余白"
+
+msgid "Left Only"
+msgstr "左側のみ"
+
+msgid "Left Right Arrow Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Above"
+msgstr ""
+
+msgid "Left Right Arrow with Text Below"
+msgstr ""
+
+msgid "Left Subscript-Superscript"
+msgstr ""
+
+msgid "Left-to-right"
+msgstr "左から右"
+
+msgid "Left-to-Right Text Direction"
+msgstr "左から右への文字方向"
+
+msgid "Leftwards Arrow Above"
+msgstr ""
+
+msgid "Leftwards Harpoon Above"
+msgstr ""
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr ""
+
+msgid "Legal style numbering"
+msgstr "正規形式で番号付け"
+
+msgid "Legend"
+msgstr "凡例"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "より小さい"
+
+msgid "Less than or equal"
+msgstr "以下"
+
+msgctxt "template"
+msgid "Letter"
+msgstr ""
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr ""
+
+msgid "Letter headings"
+msgstr "文字見出し"
+
+msgid "Letter template"
+msgstr "レター テンプレート"
+
+msgid "Letter-Like Symbols"
+msgstr ""
+
+msgid "Letters"
+msgstr "レター"
+
+msgid "Level 5"
+msgstr ""
+
+msgid "Level 6"
+msgstr ""
+
+msgid "Level 7"
+msgstr ""
+
+msgid "Level 8"
+msgstr ""
+
+msgid "Level 9"
+msgstr ""
+
+msgid "Level {n}"
+msgstr "レベル {n}"
+
+msgid "Levels:"
+msgstr "レベル:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+msgid "Light Variations"
+msgstr "明るいバリエーション"
+
+msgid "Light with Outline"
+msgstr "明るい色と輪郭"
+
+msgid "Limit"
+msgstr ""
+
+msgid "Limit and"
+msgstr ""
+
+msgid "Limit and\nLog"
+msgstr "極限と\n対数"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "連続するハイフンの上限:"
+
+msgid "Limit Example"
+msgstr ""
+
+msgid "Limit formatting to a selection of styles"
+msgstr "書式を選択したスタイルに制限する"
+
+msgid "Line and Page Breaks"
+msgstr "改ページと改行"
+
+msgid "Line and Paragraph Spacing"
+msgstr "行と段落の間隔"
+
+msgid "Line between"
+msgstr "境界線を引く"
+
+msgid "Line Break"
+msgstr "改行"
+
+msgid "Line breaking"
+msgstr "行の分割"
+
+msgid "Line End"
+msgstr "行末"
+
+msgid "Line Number"
+msgstr ""
+
+msgid "Line Numbering Options…"
+msgstr "行番号のオプション…"
+
+msgid "Line Numbers"
+msgstr "行番号"
+
+msgid "Line Spacing"
+msgstr "行間"
+
+msgid "Line Spacing Options…"
+msgstr "行間のオプション…"
+
+msgid "Line spacing:"
+msgstr "行間:"
+
+msgid "Line Start"
+msgstr "行頭"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "線形 (斜め) - 左下から右上"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "線形 (斜め) - 右下から左上"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "線形 (斜め) - 左上から右下"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "線形 (斜め) - 右上から左下"
+
+msgid "Linear Down"
+msgstr "線形 下方向"
+
+msgid "Linear Fraction"
+msgstr ""
+
+msgid "Linear Left"
+msgstr "線形 左方向"
+
+msgid "Linear Right"
+msgstr "線形 右方向"
+
+msgid "Linear Up"
+msgstr "線形 上方向"
+
+msgid "Lines and characters"
+msgstr "行と文字"
+
+msgid "Lines only"
+msgstr "行のみ"
+
+msgid "Lines per page:"
+msgstr "1 ページの行数:"
+
+msgid "Lines to drop:"
+msgstr "ドロップする行数:"
+
+msgid "Link entries to their headings"
+msgstr "項目を見出しにリンクする"
+
+msgid "Link level to style:"
+msgstr "レベルに対応付けるスタイル:"
+
+msgid "Link to Previous"
+msgstr "前と同じヘッダー/フッター"
+
+msgid "Link to:"
+msgstr "リンク先:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "リンク スタイル (段落と文字)"
+
+msgid "Links and References"
+msgstr "リンクと参照"
+
+msgid "Link…"
+msgstr "リンク…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "リストの定義"
+
+msgid "List entries"
+msgstr "リストの項目"
+
+msgid "List Paragraph"
+msgstr ""
+
+msgid "List Table 3 – Blue"
+msgstr ""
+
+msgid "List Table 3 – Green"
+msgstr ""
+
+msgid "List Table 3 – Orange"
+msgstr ""
+
+msgid "List Table 3 – Purple"
+msgstr ""
+
+msgid "Lit from Bottom"
+msgstr "下から照明"
+
+msgid "Lit from Top"
+msgstr "上から照明"
+
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+msgid "Load System Installed Fonts…"
+msgstr "インストール済みシステムフォントを読み込む…"
+
+msgid "Loaded {count} system fonts."
+msgstr "{count} 個のシステムフォントを読み込みました。"
+
+msgid "Local font access is not supported by your browser."
+msgstr "お使いのブラウザーはローカルフォントへのアクセスに対応していません。"
+
+msgid "Local font access was denied."
+msgstr "ローカルフォントへのアクセスが拒否されました。"
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "場所: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "縦横比を固定する"
+
+msgid "Lock Fields"
+msgstr "フィールドのロック"
+
+msgid "Log"
+msgstr ""
+
+msgid "Logarithm"
+msgstr ""
+
+msgid "Logarithm with Base"
+msgstr ""
+
+msgid "Logical AND"
+msgstr ""
+
+msgid "Logical AND with Limits"
+msgstr ""
+
+msgid "Logical OR"
+msgstr ""
+
+msgid "Logical OR with Limits"
+msgstr ""
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: 本物の文章は、まだカフェでのんびりしているので。"
+
+msgid "Lum:"
+msgstr "明るさ:"
+
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+msgid "Macao SAR"
+msgstr "マカオ特別行政区"
+
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "マクロ"
+
+msgid "Made from the author and year when empty"
+msgstr "空欄なら著者と年から作成"
+
+msgid "Magazine or newspaper article"
+msgstr "雑誌・新聞の記事"
+
+msgid "Mail Merge"
+msgstr "差し込み印刷"
+
+msgid "Mailings"
+msgstr "差し込み文書"
+
+msgid "Main entry:"
+msgstr "主項目:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "WordCraft を Word 文書の既定のアプリにする…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "リボン、メニュー、ダイアログを拡大または縮小します。自動はシステムの表示倍率に従います。100% は 1 ポイントあたり画面の 1 ピクセルです。文書のズームは別に設定します。"
+
+msgid "Malaysia"
+msgstr "マレーシア"
+
+msgid "Manage Sources"
+msgstr "資料文献の管理"
+
+msgid "Manage Styles"
+msgstr "スタイルの管理"
+
+msgid "Manage Styles…"
+msgstr "スタイルの管理…"
+
+msgid "Manual Hyphenation"
+msgstr "手動ハイフネーション"
+
+msgid "Manual hyphenation is complete."
+msgstr "手動ハイフネーションが完了しました。"
+
+msgid "Manual Line Break"
+msgstr "手動の改行"
+
+msgid "Manual Page Break"
+msgstr "手動の改ページ"
+
+msgid "Manual…"
+msgstr "手動…"
+
+msgid "Many pages"
+msgstr "複数ページ"
+
+msgid "Mark"
+msgstr "登録"
+
+msgid "Mark All"
+msgstr "すべて登録"
+
+msgid "Mark as decorative"
+msgstr "装飾用にする"
+
+msgid "Mark Citation"
+msgstr "引用文のマーク"
+
+msgid "Mark Entry"
+msgstr "索引登録"
+
+msgid "Mark Entry…"
+msgstr "索引登録…"
+
+msgid "Mark grammar errors as you type"
+msgstr "入力中に文法の誤りに印を付ける"
+
+msgid "Mark Index Entry"
+msgstr "索引登録"
+
+msgid "Mark selected text as:"
+msgstr "選択した文字列の言語:"
+
+msgid "Mark\nCitation"
+msgstr "引用文のマーク"
+
+msgid "Mark\nEntry"
+msgstr "索引登録"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "大文字と小文字を区別する"
+
+msgid "Match Fields"
+msgstr "フィールドの対応"
+
+msgid "Match prefix"
+msgstr "語頭が一致する"
+
+msgid "Match suffix"
+msgstr "語尾が一致する"
+
+msgid "Matches: {count}"
+msgstr "一致: {count} 件"
+
+msgid "Math AutoCorrect"
+msgstr "数式オートコレクト"
+
+msgid "Matrices with Brackets"
+msgstr ""
+
+msgid "Matrix"
+msgstr "行列"
+
+msgid "Maximum Example"
+msgstr ""
+
+msgid "Measured By"
+msgstr ""
+
+msgid "Measurement units:"
+msgstr "単位:"
+
+msgid "Merge cells before split"
+msgstr "分割する前にセルを結合する"
+
+msgid "Merge Formatting"
+msgstr "書式を結合"
+
+msgid "Merge Record #"
+msgstr "差し込みレコード番号"
+
+msgid "Mesosphere"
+msgstr "中間圏"
+
+msgid "Mexico"
+msgstr "メキシコ"
+
+msgid "Midline Dots"
+msgstr ""
+
+msgid "Minus Equal"
+msgstr ""
+
+msgid "Mirror indents"
+msgstr "左右対称のインデント"
+
+msgid "Mirror margins"
+msgstr "見開きページ"
+
+msgid "Mirrored"
+msgstr "見開きページ"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0。Copyright (c) 2026 ArtCraft チームおよび WordCraft の貢献者。"
+
+msgid "MLA"
+msgstr ""
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "やや狭い"
+
+msgid "Modify Style"
+msgstr "スタイルの変更"
+
+msgid "Modify Table Style"
+msgstr "表スタイルの変更"
+
+msgid "Modify Table Style…"
+msgstr "表スタイルの変更…"
+
+msgid "Modify…"
+msgstr "変更…"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Monaco"
+msgstr "モナコ"
+
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+msgid "Month"
+msgstr "月"
+
+msgid "More >>"
+msgstr "オプション >>"
+
+msgid "More Colors…"
+msgstr "その他の色…"
+
+msgid "More Columns…"
+msgstr "段組みの詳細設定…"
+
+msgid "More Commands…"
+msgstr "その他のコマンド…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "その他のグラデーション…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "その他の用紙サイズ…"
+
+msgid "More Symbols…"
+msgstr "その他の記号…"
+
+msgid "More tabs"
+msgstr "その他のタブ"
+
+msgid "More templates →"
+msgstr "その他のテンプレート →"
+
+msgid "More Underlines…"
+msgstr "その他の下線…"
+
+msgid "Morocco"
+msgstr "モロッコ"
+
+msgid "Move in Equation"
+msgstr "数式内で移動"
+
+msgid "Move or Resize"
+msgstr "移動またはサイズ変更"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "段落を下へ移動"
+
+msgid "Move Paragraph Up"
+msgstr "段落を上へ移動"
+
+msgid "Move Past Citation"
+msgstr "引用の後ろへ移動"
+
+msgid "Move Past\nCitation"
+msgstr "引用の後ろ\nへ移動"
+
+msgid "Move Selected Ink"
+msgstr "選択したインクを移動"
+
+msgid "Move Table by Dragging"
+msgstr "ドラッグで表を移動"
+
+msgid "Move with Text"
+msgstr "文字列と一緒に移動する"
+
+msgid "Moved from"
+msgstr "移動元"
+
+msgid "Moved from:"
+msgstr "移動元:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "移動したオブジェクトは、ページの端と中央、余白、ほかのオブジェクトに吸着します。Alt キーを押しながら移動すると自由に動かせます。"
+
+msgid "Moved to"
+msgstr "移動先"
+
+msgid "Moved to:"
+msgstr "移動先:"
+
+msgid "Moves"
+msgstr "移動"
+
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+msgid "Multilevel List"
+msgstr "アウトライン"
+
+msgid "Multilevel List Library"
+msgstr "アウトライン ライブラリ"
+
+msgid "Multiple Pages"
+msgstr "複数ページ"
+
+msgid "Mute agent messages"
+msgstr "エージェントのメッセージをミュート"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "範囲の先頭行"
+
+msgid "Name of the file this document is saved as"
+msgstr "文書のファイル名"
+
+msgid "Narrow"
+msgstr "狭い"
+
+msgid "Narrow  {size} all"
+msgstr "狭い  上下左右 {size}"
+
+msgid "Natural Logarithm"
+msgstr ""
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Navigation Pane"
+msgstr "ナビゲーション ウィンドウ"
+
+msgid "Negated Relations"
+msgstr ""
+
+msgid "Netherlands"
+msgstr "オランダ"
+
+msgid "New blank documents are written in this language"
+msgstr "新しい白紙の文書はこの言語で書かれます"
+
+msgid "New Comment"
+msgstr "新しいコメント"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "新しいコメントと変更履歴は、この名前とイニシャルで記録されます。"
+
+msgid "New Documents Based on This Template"
+msgstr "このテンプレートを基にした新しい文書"
+
+msgid "New documents based on this template"
+msgstr "このテンプレートを基にした新しい文書"
+
+msgid "New documents will use this font."
+msgstr "新しい文書ではこのフォントが使われます。"
+
+msgid "New documents will use this page setup."
+msgstr "新しい文書ではこのページ設定が使われます。"
+
+msgid "New documents will use this paragraph formatting."
+msgstr "新しい文書ではこの段落書式が使われます。"
+
+msgid "New documents will use this style."
+msgstr "新しい文書ではこのスタイルが使われます。"
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "新しい文書では WordCraft の組み込みの書式が使われます。"
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "新しい文書では WordCraft の組み込みの書式が使われます。保存した既定の設定は元に戻せません。リセットしますか?"
+
+msgid "New Drawing Canvas"
+msgstr "新しい描画キャンバス"
+
+msgid "New Entry"
+msgstr "新しいエントリ"
+
+msgid "New Label"
+msgstr "新しいラベル"
+
+msgid "New Label…"
+msgstr "ラベル名…"
+
+msgid "New Paragraph"
+msgstr "新しい段落"
+
+msgid "New shortcut:"
+msgstr "新しいショートカット:"
+
+msgid "New Tab"
+msgstr "新しいタブ"
+
+msgid "New Table Style"
+msgstr "新しい表スタイル"
+
+msgid "New Table Style…"
+msgstr "新しい表スタイル…"
+
+msgid "New word"
+msgstr "新しい単語"
+
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+msgid "New\nComment"
+msgstr "新しいコメント"
+
+msgid "New\nWindow"
+msgstr "新しいウィンドウ"
+
+msgid "Next Comment"
+msgstr "次のコメント"
+
+msgid "Next Field"
+msgstr "次のフィールド"
+
+msgid "Next Footnote"
+msgstr "次の脚注"
+
+msgid "Next Record"
+msgstr "次のレコード"
+
+msgid "Next Section"
+msgstr "次へ"
+
+msgid "Next Sentence"
+msgstr "次の文"
+
+msgid "Next sentence"
+msgstr "次の文"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib はヒントや時々ひと言を添えて、ウィンドウの上に浮かんでいます。"
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "アシスタントの Nib です。ドラッグで移動、右クリックでオプション。"
+
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+msgid "No accessibility issues found."
+msgstr "アクセシビリティの問題は見つかりませんでした。"
+
+msgid "No Border"
+msgstr "枠なし"
+
+msgid "No changes (read only)"
+msgstr "変更不可 (読み取り専用)"
+
+msgid "No contributor data was built into this copy."
+msgstr "このビルドには貢献者のデータが含まれていません。"
+
+msgid "No document is open. Create a document or open one first."
+msgstr "開いている文書がありません。先に文書を作成するか開いてください。"
+
+msgid "no equation at the caret"
+msgstr "カーソル位置に数式がありません"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "エラーは見つかりませんでした。すべての差し込みフィールドが宛先リストにあります。"
+
+msgid "No Fill"
+msgstr "塗りつぶしなし"
+
+msgid "No fill"
+msgstr "塗りつぶしなし"
+
+msgid "No Glow"
+msgstr "光彩なし"
+
+msgid "No Gradient"
+msgstr "グラデーションなし"
+
+msgid "No grid"
+msgstr "グリッドなし"
+
+msgid "No header row"
+msgstr "見出し行なし"
+
+msgid "No icons match your search."
+msgstr "検索に一致するアイコンはありません。"
+
+msgid "No items to show."
+msgstr ""
+
+msgid "No language matches your search."
+msgstr "検索に一致する言語はありません。"
+
+msgid "No languages to show yet."
+msgstr "表示できる言語はまだありません。"
+
+msgid "No Markup"
+msgstr "変更履歴/コメントなし"
+
+msgid "No model credits were built into this copy."
+msgstr "このビルドにはモデルのクレジットが含まれていません。"
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No Outline"
+msgstr "輪郭なし"
+
+msgid "No Paragraph Space"
+msgstr "段落間隔なし"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "プリンターが見つかりません。システムにプリンターを設定するか、PDF をエクスポートしてください。"
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "反射なし"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "影なし"
+
+msgid "No Soft Edges"
+msgstr "ぼかしなし"
+
+msgid "No sources yet."
+msgstr "資料文献はまだありません。"
+
+msgid "No Spacing"
+msgstr ""
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "{language}のスペルチェック辞書がインストールされていないため、チェックされません。WordCraft は Hunspell 辞書 {name} を WORDCRAFT_DICTIONARIES フォルダーと通常のシステムの場所から探します。"
+
+msgid "No templates match your search."
+msgstr "検索に一致するテンプレートはありません。"
+
+msgid "No Transform"
+msgstr "変形なし"
+
+msgid "No watermark"
+msgstr "透かしなし"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "まだ単語はありません。スペルミスの単語で [辞書に追加] を選ぶと、ここに追加されます。"
+
+msgid "No-Width Non Break"
+msgstr "幅なし改行禁止"
+
+msgid "No-Width Optional Break"
+msgstr "幅なし任意改行"
+
+msgid "Nonbreaking Hyphen"
+msgstr "改行なしハイフン"
+
+msgid "Normal  {size} all"
+msgstr "標準  上下左右 {size}"
+
+msgid "Normal Indent"
+msgstr ""
+
+msgid "Normal probability density"
+msgstr ""
+
+msgid "Normal speed"
+msgstr "標準の速度"
+
+msgid "Normal Style"
+msgstr "標準スタイル"
+
+msgid "Normal Table"
+msgstr ""
+
+msgid "Normal Text"
+msgstr "標準テキスト"
+
+msgid "Normal Word Document"
+msgstr "通常の文書"
+
+msgid "North"
+msgstr "北"
+
+msgid "Norwegian (Bokmål)"
+msgstr "ノルウェー語（ブークモール）"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "ノルウェー語（ニーノシュク）"
+
+msgid "Not"
+msgstr "否定"
+
+msgid "Not available right now"
+msgstr "現在は使用できません"
+
+msgid "Not available yet"
+msgstr "まだ利用できません"
+
+msgid "not editing an equation"
+msgstr "数式を編集していません"
+
+msgid "Not equal to"
+msgstr "等しくない"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "リンクされていません: テキスト ボックスをクリックしてください"
+
+msgid "Not now"
+msgstr "今はいい"
+
+msgid "Not saved"
+msgstr "未保存"
+
+msgid "Not saved yet"
+msgstr "まだ保存されていません"
+
+msgid "Not set"
+msgstr "未設定"
+
+msgid "Not set: the system's usual places"
+msgstr "未設定: システムの標準の場所"
+
+msgid "Not used by any command"
+msgstr "どのコマンドにも割り当てられていません"
+
+msgid "Not {name}"
+msgstr "{name} なし"
+
+msgid "Nothing"
+msgstr "なし"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "まだ何もありません。コピーまたは切り取った項目がここに表示されます。"
+
+msgid "nothing is selected"
+msgstr "何も選択されていません"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "現在の割り当て: {command}"
+
+msgid "Nudge"
+msgstr "少しずつ移動"
+
+msgid "Num Occurrences"
+msgstr "繰り返し回数"
+
+msgid "Number alignment:"
+msgstr "番号の配置:"
+
+msgid "Number format"
+msgstr "番号書式"
+
+msgid "Number of columns:"
+msgstr "列数:"
+
+msgid "Number of rows:"
+msgstr "行数:"
+
+msgid "Number of the page the field sits on"
+msgstr "現在のページ番号"
+
+msgid "Number of the section the field sits in"
+msgstr "現在のセクション番号"
+
+msgid "Number only, without the label's words"
+msgstr "ラベルの語を除いて番号のみ"
+
+msgid "Number style for this level:"
+msgstr "このレベルの番号の種類:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr ""
+
+msgid "Numbering"
+msgstr "段落番号"
+
+msgid "Numbering:"
+msgstr "番号の付け方:"
+
+msgid "Numbering…"
+msgstr "番号付け…"
+
+msgid "Numerals"
+msgstr "数字"
+
+msgid "Numerals:"
+msgstr "数字:"
+
+msgid "n×n Identity Matrix"
+msgstr ""
+
+msgid "n×n Matrix"
+msgstr ""
+
+msgid "Odd Banded Columns"
+msgstr "奇数の縞模様（列）"
+
+msgid "Odd Banded Rows"
+msgstr "奇数の縞模様（行）"
+
+msgid "Odd Page"
+msgstr "奇数ページから開始"
+
+msgid "Office"
+msgstr "オフィス"
+
+msgid "Office 2003 Default"
+msgstr "Office 2003 の既定値"
+
+msgid "Offset (pt):"
+msgstr "オフセット (pt):"
+
+msgid "Offset: Bottom"
+msgstr "オフセット: 下"
+
+msgid "Offset: Bottom Left"
+msgstr "オフセット: 左下"
+
+msgid "Offset: Bottom Right"
+msgstr "オフセット: 右下"
+
+msgid "Offset: Center"
+msgstr "オフセット: 中央"
+
+msgid "Offset: Left"
+msgstr "オフセット: 左"
+
+msgid "Offset: Right"
+msgstr "オフセット: 右"
+
+msgid "Offset: Top"
+msgstr "オフセット: 上"
+
+msgid "Offset: Top Left"
+msgstr "オフセット: 左上"
+
+msgid "Offset: Top Right"
+msgstr "オフセット: 右上"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "旧メニュー キー: Alt, {keys}。続けて入力するか、Esc キーで取り消します。"
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "オン: 入力や矢印キーの操作でカーソルが新しい位置へ滑らかに移動し、点滅もフェードします。オフ: カーソルは瞬時に移動し、点滅は表示と非表示が切り替わるだけです。"
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "オン: WordCraft は [ファイル] › [ホーム] で開き、白紙の文書、テンプレート、最近使った文書を表示します。オフ: 白紙の文書を開きます。"
+
+msgid "One"
+msgstr "1 段"
+
+msgid "One half"
+msgstr ""
+
+msgid "One label per recipient"
+msgstr "宛先ごとに 1 枚のラベル"
+
+msgid "One line per item. Enter adds an item."
+msgstr "1 行に 1 項目。Enter キーで項目を追加します。"
+
+msgid "One Page"
+msgstr "1 ページ"
+
+msgid "One-sided"
+msgstr "片面"
+
+msgid "Only allow this kind of editing:"
+msgstr "次の種類の編集のみを許可:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "編集可能とマークされた範囲を除き、コメントの追加のみ可能です。"
+
+msgid "Only for the selected text"
+msgstr "選択したテキストのみ"
+
+msgid "Only form fields can be filled in."
+msgstr "フォーム フィールドへの入力のみ可能です。"
+
+msgid "only in Outline view"
+msgstr "アウトライン表示でのみ使用できます"
+
+msgid "Only in this document"
+msgstr "この文書のみ"
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "使用を許可されたスタイルだけを適用できます。"
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "開けるのは Web（http、https）とメール（mailto）のリンクだけです"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "先に文書を開いてください"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "システムのファイル ダイアログが表示されないときに、WordCraft 独自のブラウザーでファイルを開きます。"
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "OpenDocument テキスト (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "印刷ダイアログを開いています…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "今後、.docx、.doc、.rtf、.odt ファイルと Word テンプレートを WordCraft で開きます。"
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "設定 › 既定のアプリ を開きます。そこで .docx などの文書の種類ごとに WordCraft を選びます。"
+
+msgid "Operator"
+msgstr "演算子"
+
+msgid "Operator Structures"
+msgstr ""
+
+msgid "Operators"
+msgstr ""
+
+msgid "Optional Hyphen"
+msgstr "任意指定のハイフン"
+
+msgid "Or"
+msgstr "または"
+
+msgid "Or save a copy in another format:"
+msgstr "または、別の形式でコピーを保存:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "序数 (1st) を上付き文字に"
+
+msgid "Organizer"
+msgstr "オーガナイザー"
+
+msgid "Organizer…"
+msgstr "オーガナイザー…"
+
+msgid "Original document"
+msgstr "元の文書"
+
+msgid "Original size"
+msgstr "元のサイズ"
+
+msgid "Other Large Operators"
+msgstr ""
+
+msgid "Other styles and their TOC level:"
+msgstr "その他のスタイルと目次レベル:"
+
+msgid "Other:"
+msgstr "その他:"
+
+msgid "Otherwise insert:"
+msgstr "一致しなければ挿入:"
+
+msgid "Outline Level"
+msgstr "アウトライン レベル"
+
+msgid "Outline level"
+msgstr "アウトライン レベル"
+
+msgid "Outline levels"
+msgstr "アウトライン レベル"
+
+msgid "Outline State"
+msgstr "アウトラインの状態"
+
+msgid "Outline Tools"
+msgstr "アウトライン ツール"
+
+msgid "Outlining"
+msgstr "アウトライン"
+
+msgid "Outside border"
+msgstr "外側の罫線"
+
+msgid "Outside Borders"
+msgstr "外枠"
+
+msgid "Outside:"
+msgstr "外側:"
+
+msgid "Outward Brackets"
+msgstr ""
+
+msgid "Overbar"
+msgstr ""
+
+msgid "Overbars and Underbars"
+msgstr ""
+
+msgid "Overbrace"
+msgstr ""
+
+msgid "Overtype"
+msgstr "上書き"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "上書き (入力した文字がカーソルの後ろの文字を置き換えます)"
+
+msgid "Page Background"
+msgstr "ページの背景"
+
+msgid "Page Border"
+msgstr "ページ罫線の設定"
+
+msgid "Page Borders"
+msgstr "ページ罫線"
+
+msgid "Page Break"
+msgstr "改ページ"
+
+msgid "Page Break Before"
+msgstr "段落前で改ページする"
+
+msgid "Page break before"
+msgstr "段落前で改ページする"
+
+msgid "Page Breaks"
+msgstr "改ページ"
+
+msgid "Page Color"
+msgstr "ページの色"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "ページの表示"
+
+msgid "Page Down"
+msgstr "下へスクロール"
+
+msgid "Page image (*.png)"
+msgstr "ページ画像 (*.png)"
+
+msgid "Page Movement"
+msgstr "ページの移動"
+
+msgid "Page Number"
+msgstr "ページ番号"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "ページ番号の書式"
+
+msgid "Page number style"
+msgstr "ページ番号のスタイル"
+
+msgid "Page numbering"
+msgstr "ページ番号"
+
+msgid "Page numbers at the right margin"
+msgstr "ページ番号を右端に配置"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "ブックマークのページ番号"
+
+msgid "Page Setup"
+msgstr "ページ設定"
+
+msgid "Page title"
+msgstr "ページ名"
+
+msgid "Page Up"
+msgstr "上へスクロール"
+
+msgid "Page Width"
+msgstr "ページ幅を基準に表示"
+
+msgid "Page width"
+msgstr "ページ幅"
+
+msgid "Page X of Y"
+msgstr "X / Y ページ"
+
+msgid "Page {page}"
+msgstr "{page} ページ"
+
+msgid "Page\nBorders"
+msgstr "ページ罫線"
+
+msgid "Page\nColor"
+msgstr "ページの色"
+
+msgid "Page\nNumber"
+msgstr "ページ番号"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "ページ指定(例: 1-3, 5)"
+
+msgid "Pages of bookmark:"
+msgstr "ブックマークのページ:"
+
+msgid "Panama"
+msgstr "パナマ"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "用紙サイズ:"
+
+msgid "Paragraph Character"
+msgstr "段落記号文字"
+
+msgid "Paragraph Details"
+msgstr "段落の詳細"
+
+msgid "Paragraph Down"
+msgstr "次の段落へ"
+
+msgid "Paragraph Mark"
+msgstr "段落記号"
+
+msgid "Paragraph marks"
+msgstr "段落記号"
+
+msgid "Paragraph Settings"
+msgstr "段落の設定"
+
+msgid "Paragraph Spacing"
+msgstr "段落の間隔"
+
+msgid "Paragraph style"
+msgstr "段落スタイル"
+
+msgid "Paragraph Up"
+msgstr "前の段落へ"
+
+msgid "Paragraphs"
+msgstr "段落数"
+
+msgid "Paragraph…"
+msgstr "段落…"
+
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+msgid "Parentheses"
+msgstr ""
+
+msgid "Parentheses with Separator"
+msgstr ""
+
+msgid "Partial Differential"
+msgstr ""
+
+msgid "Password:"
+msgstr "パスワード:"
+
+msgid "Paste (⌘V)"
+msgstr "貼り付け (⌘V)"
+
+msgid "Paste All"
+msgstr "すべて貼り付け"
+
+msgid "Paste as:"
+msgstr "貼り付ける形式:"
+
+msgid "Paste Clipboard Item"
+msgstr "クリップボードの項目を貼り付け"
+
+msgid "Paste Formatting"
+msgstr "書式の貼り付け"
+
+msgid "Paste function:"
+msgstr "関数の貼り付け:"
+
+msgid "Paste Special…"
+msgstr "形式を選択して貼り付け…"
+
+msgid "Paste: Keep Text Only"
+msgstr "貼り付け: テキストのみ保持"
+
+msgid "Paste: Merge Formatting"
+msgstr "貼り付け: 書式を結合"
+
+msgid "Pastes the clipboard's picture."
+msgstr "クリップボードの画像を貼り付けます。"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "PDF document (*.pdf)"
+msgstr "PDF 文書 (*.pdf)"
+
+msgid "Pens"
+msgstr "ペン"
+
+msgid "People"
+msgstr "人物"
+
+msgid "Periodical"
+msgstr "定期刊行物"
+
+msgid "Persian"
+msgstr "ペルシア語"
+
+msgid "Personal"
+msgstr "個人用"
+
+msgid "Personal Templates"
+msgstr "個人用テンプレート"
+
+msgid "Personalize"
+msgstr "個人設定"
+
+msgid "Peru"
+msgstr "ペルー"
+
+msgid "Philippines"
+msgstr "フィリピン"
+
+msgid "Phonetic Guide"
+msgstr "ルビ"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr ""
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "ユーザー設定グループを選んでください (新しいグループで作成できます)"
+
+msgid "Pick a field from the list"
+msgstr "フィールドを選んでください"
+
+msgid "Picture"
+msgstr "画像"
+
+msgid "Picture Border"
+msgstr "図の枠線"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "画像コンテンツ コントロール"
+
+msgid "Picture Format"
+msgstr "図の形式"
+
+msgid "Picture Styles"
+msgstr "図のスタイル"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr "画像の透かし"
+
+msgid "Pictures"
+msgstr "画像"
+
+msgid "Pie"
+msgstr "円"
+
+msgid "Place in This Document"
+msgstr "このドキュメント内"
+
+msgid "Placeholder text"
+msgstr "プレースホルダー テキスト"
+
+msgid "Plain Table 1"
+msgstr ""
+
+msgid "Plain text (*.txt)"
+msgstr "テキスト (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "プレーン テキスト コンテンツ コントロール"
+
+msgid "Play/Pause"
+msgstr "再生/一時停止"
+
+msgid "Plus Equal"
+msgstr ""
+
+msgid "Points and above"
+msgstr "pt 以上"
+
+msgid "Polish"
+msgstr "ポーランド語"
+
+msgid "Portugal"
+msgstr "ポルトガル"
+
+msgid "Portuguese (Brazil)"
+msgstr "ポルトガル語（ブラジル）"
+
+msgid "Portuguese (Portugal)"
+msgstr "ポルトガル語（ポルトガル）"
+
+msgid "Possible spelling mistake"
+msgstr "スペルミスの可能性"
+
+msgid "Postal Code"
+msgstr "郵便番号"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr ""
+
+msgid "Preferred width:"
+msgstr "推奨幅:"
+
+msgid "Preserve formatting during updates"
+msgstr "更新時に書式を保持する"
+
+msgid "Preset gradients"
+msgstr "グラデーションのプリセット"
+
+msgid "Press a key combination"
+msgstr "キーの組み合わせを押してください"
+
+msgid "Preview Results"
+msgstr "結果のプレビュー"
+
+msgid "Preview\nResults"
+msgstr "結果のプレビュー"
+
+msgid "Previous 1 or More"
+msgstr "直前の 1 回以上の繰り返し"
+
+msgid "Previous Comment"
+msgstr "前のコメント"
+
+msgid "Previous Field"
+msgstr "前のフィールド"
+
+msgid "Previous Record"
+msgstr "前のレコード"
+
+msgid "Previous Section"
+msgstr "前へ"
+
+msgid "Previous Sentence"
+msgstr "前の文"
+
+msgid "Previous sentence"
+msgstr "前の文"
+
+msgid "Print Documents"
+msgstr "ドキュメントを印刷"
+
+msgid "Print Documents…"
+msgstr "ドキュメントを印刷…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "印刷に失敗しました：印刷ワーカーが停止しました。"
+
+msgid "Print failed: {error}"
+msgstr "印刷できませんでした: {error}"
+
+msgid "Print job submitted."
+msgstr "印刷ジョブを送信しました。"
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "印刷ジョブを送信しました: {count} 枚をスプールしました"
+
+msgid "Print job submitted: {receipt}"
+msgstr "印刷ジョブを送信しました：{receipt}"
+
+msgid "Print Layout"
+msgstr "印刷レイアウト"
+
+msgid "Print Markup"
+msgstr "変更履歴とコメントを印刷"
+
+msgid "Print settings"
+msgstr "印刷設定"
+
+msgid "Print the page color"
+msgstr "ページの色を印刷する"
+
+msgid "Print to PDF"
+msgstr "PDF に印刷"
+
+msgid "Print\nLayout"
+msgstr "印刷レイアウト"
+
+msgid "Printer default"
+msgstr "プリンターの既定値"
+
+msgid "Printer discovery failed."
+msgstr "プリンターの検索に失敗しました。"
+
+msgid "Privacy for this document"
+msgstr "このドキュメントのプライバシー"
+
+msgid "Privacy Options"
+msgstr "プライバシー オプション"
+
+msgid "Privacy Settings"
+msgstr "現在のプライバシー設定"
+
+msgid "Process"
+msgstr "手順"
+
+msgid "Product"
+msgstr ""
+
+msgid "Product of A"
+msgstr ""
+
+msgid "Product with Limits"
+msgstr ""
+
+msgid "Product with Lower Limit"
+msgstr ""
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Products and Coproducts"
+msgstr ""
+
+msgid "Professional"
+msgstr "2 次元形式"
+
+msgid "Promote"
+msgstr "レベル上げ"
+
+msgid "Promote to Heading 1"
+msgstr "見出し 1 に設定"
+
+msgid "Proofing"
+msgstr "文章校正"
+
+msgid "Proofing Issues"
+msgstr "文章校正の問題"
+
+msgid "Proofing language"
+msgstr "文章校正の言語"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "文書の保護"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "出版社"
+
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+msgid "Put the caret in a content control first."
+msgstr "先にカーソルをコンテンツ コントロールに置いてください。"
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "クイック アクセス ツール バーを既定のコマンドに戻しますか?"
+
+msgid "Qatar"
+msgstr "カタール"
+
+msgid "Quadratic Root"
+msgstr ""
+
+msgid "Quick Access Toolbar"
+msgstr "クイック アクセス ツール バー"
+
+msgid "Quick Parts"
+msgstr "クイック パーツ"
+
+msgid "Quick Tables"
+msgstr "クイック表作成"
+
+msgid "Quote"
+msgstr ""
+
+msgid "Radical"
+msgstr "べき乗根"
+
+msgid "Radical with Degree"
+msgstr ""
+
+msgid "Radicals"
+msgstr ""
+
+msgid "Raised/lowered"
+msgstr "上げ/下げ"
+
+msgid "Read Aloud"
+msgstr "音声読み上げ"
+
+msgid "Read Aloud Status"
+msgstr "読み上げの状態"
+
+msgid "Read Mode"
+msgstr "閲覧モード"
+
+msgid "Read\nAloud"
+msgstr "音声読み上げ"
+
+msgid "Read\nMode"
+msgstr "閲覧モード"
+
+msgid "Reading"
+msgstr "閲覧"
+
+msgid "Reading Column Width"
+msgstr "閲覧時の列幅"
+
+msgid "Reading Highlight"
+msgstr "検索結果を強調表示"
+
+msgid "Reading Line Spacing"
+msgstr "閲覧時の行間"
+
+msgid "Reading Mode"
+msgstr "閲覧モード"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "読み上げ速度"
+
+msgid "Reading Text Size"
+msgstr "閲覧時の文字サイズ"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "クリップボードの RTF を読み込み、書式を保持します。"
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "クリップボードの Web コンテンツを読み込み、書式を保持します。"
+
+msgid "Recent documents to show:"
+msgstr "表示する最近使ったドキュメントの数:"
+
+msgid "Recently Used Fonts"
+msgstr "最近使用したフォント"
+
+msgid "Recently used symbols:"
+msgstr "最近使った記号:"
+
+msgid "Recipient List"
+msgstr "宛先リスト"
+
+msgid "Recipient lists"
+msgstr "宛先リスト"
+
+msgid "Recipients: {count}"
+msgstr "宛先: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "アイコンなどの単色の画像の色を変更"
+
+msgid "Recolor Selected Ink"
+msgstr "選択したインクの色を変更"
+
+msgid "Record Macro"
+msgstr "マクロの記録"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "保存されていない文書の回復"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "赤:"
+
+msgid "Reduce Hanging Indent"
+msgstr "ぶら下げインデントを減らす"
+
+msgid "Reference type:"
+msgstr ""
+
+msgid "References"
+msgstr "参考資料"
+
+msgid "Reflection"
+msgstr "反射"
+
+msgid "Refresh printers"
+msgstr "プリンターを更新"
+
+msgid "Region:"
+msgstr "地域:"
+
+msgid "Registered"
+msgstr "登録商標"
+
+msgid "Registered Sign"
+msgstr "登録商標記号"
+
+msgid "Regular expressions"
+msgstr "正規表現"
+
+msgid "Reject"
+msgstr "元に戻す"
+
+msgid "Reject All Changes"
+msgstr "すべての変更を元に戻す"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "変更を元に戻す"
+
+msgid "Relationship"
+msgstr "関係"
+
+msgid "Relative to original picture size"
+msgstr "元の図のサイズを基準にする"
+
+msgid "Remove Added Font"
+msgstr "追加したフォントの削除"
+
+msgid "Remove condition"
+msgstr "条件の削除"
+
+msgid "Remove Content Control"
+msgstr "コンテンツ コントロールの削除"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "すべてのカスタム ショートカットを削除し、既定のキーに戻しますか?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "すべてのユーザー設定タブとグループを削除し、すべてのタブを再表示しますか?"
+
+msgid "Remove field"
+msgstr "フィールドを削除"
+
+msgid "Remove Footer"
+msgstr "フッターの削除"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "クイック アクセス ツール バーから削除"
+
+msgid "Remove gradient stop"
+msgstr "分岐点を削除"
+
+msgid "Remove Header"
+msgstr "ヘッダーの削除"
+
+msgid "Remove Hyperlink"
+msgstr "ハイパーリンクの削除"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "保存時にコメント、変更、ファイルのプロパティから自分の名前を削除する"
+
+msgid "Remove Password"
+msgstr "パスワードの削除"
+
+msgid "Remove Pen"
+msgstr "ペンの削除"
+
+msgid "Remove recipient"
+msgstr "宛先を削除"
+
+msgid "Remove row"
+msgstr "行を削除"
+
+msgid "Remove series"
+msgstr "系列を削除"
+
+msgid "Remove Space After Paragraph"
+msgstr "段落後の間隔を削除"
+
+msgid "Remove Table of Contents"
+msgstr "目次の削除"
+
+msgid "Remove the control once edited"
+msgstr "編集したらコントロールを削除する"
+
+msgid "Remove the space before the punctuation"
+msgstr ""
+
+msgid "Remove Watermark"
+msgstr "透かしの削除"
+
+msgid "Rename Document"
+msgstr "ドキュメント名の変更"
+
+msgid "Reopen"
+msgstr "再度開く"
+
+msgid "Repeat as header row on each page"
+msgstr "各ページに見出し行として繰り返す"
+
+msgid "Repeat Header Rows"
+msgstr "タイトル行の繰り返し"
+
+msgid "Repeating Section Content Control"
+msgstr "繰り返しセクション コンテンツ コントロール"
+
+msgid "Replace All"
+msgstr "すべて置換"
+
+msgid "Replace as you type"
+msgstr "入力中に自動で変更"
+
+msgid "Replace Document Text"
+msgstr "文書のテキストを置換"
+
+msgid "Replace text as you type"
+msgstr "入力中に自動修正する"
+
+msgid "Replace with:"
+msgstr "置換後の文字列:"
+
+msgid "Replay"
+msgstr "再生"
+
+msgid "Research"
+msgstr "調査"
+
+msgid "Researcher"
+msgstr "リサーチツール"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "リサーチツールにはオンライン サービスが必要です。WordCraft では文書はオフラインのままです。"
+
+msgid "Reset All…"
+msgstr "すべてリセット…"
+
+msgid "Reset Character Formatting"
+msgstr "文字書式のリセット"
+
+msgid "Reset Crop"
+msgstr "トリミングのリセット"
+
+msgid "Reset Default Formatting"
+msgstr "既定の書式のリセット"
+
+msgid "Reset Graphic"
+msgstr "グラフィックのリセット"
+
+msgid "Reset Paragraph Formatting"
+msgstr "段落書式のリセット"
+
+msgid "Reset Picture"
+msgstr "図のリセット"
+
+msgid "Reset tips"
+msgstr "ヒントをリセット"
+
+msgid "Reset to Normal"
+msgstr "標準に戻す"
+
+msgid "Reset\nGraphic"
+msgstr "グラフィックの\nリセット"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "ドラッグで表のサイズを変更"
+
+msgid "Resolve"
+msgstr "解決"
+
+msgid "Resolved"
+msgstr "解決済み"
+
+msgid "Restart at 1"
+msgstr "1 から振り直す"
+
+msgid "Restart Each Page"
+msgstr "ページごとに振り直し"
+
+msgid "Restart Each Section"
+msgstr "セクションごとに振り直し"
+
+msgid "Restart list after:"
+msgstr "リストを振り直すレベル:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "編集の制限"
+
+msgid "Restrict\nEditing"
+msgstr "編集の制限"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "Return address labels"
+msgstr "差出人ラベル"
+
+msgid "Return address:"
+msgstr "差出人住所:"
+
+msgid "Reviewing"
+msgstr "校閲"
+
+msgid "Reviewing Pane"
+msgstr "[変更履歴] ウィンドウ"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "校閲 — 編集内容は提案として記録されます"
+
+msgid "Revised document"
+msgstr "変更された文書"
+
+msgid "Rewind"
+msgstr "巻き戻し"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "巻き戻し中。止めるときは言ってください。"
+
+msgid "Ribbon"
+msgstr "リボン"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "リボンとクイック アクセス ツール バー:"
+
+msgid "Ribbon tabs"
+msgstr "リボンのタブ"
+
+msgid "Rich Text Content Control"
+msgstr "リッチ テキスト コンテンツ コントロール"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "リッチ テキスト形式 (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "リッチ テキスト形式 (RTF)"
+
+msgid "Right (vertical)"
+msgstr "右 (縦書き)"
+
+msgid "Right Arrow with Text Above"
+msgstr ""
+
+msgid "Right Arrow with Text Below"
+msgstr ""
+
+msgid "Right Border"
+msgstr "右罫線"
+
+msgid "Right border"
+msgstr "右罫線"
+
+msgid "Right Bracket Twice"
+msgstr ""
+
+msgid "Right indent"
+msgstr "右インデント"
+
+msgid "Right Margin"
+msgstr "右余白"
+
+msgid "Right Only"
+msgstr "右側のみ"
+
+msgid "Right-to-left"
+msgstr "右から左"
+
+msgid "Right-to-Left Section"
+msgstr "右から左のセクション"
+
+msgid "Right-to-Left Table"
+msgstr "右から左の表"
+
+msgid "Right-to-Left Text Direction"
+msgstr "右から左への文字方向"
+
+msgid "Rightwards Arrow Above"
+msgstr ""
+
+msgid "Rightwards Harpoon Above"
+msgstr ""
+
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+msgid "Roots of ax²+bx+c"
+msgstr ""
+
+msgid "Rotate all text 270°"
+msgstr "すべてのテキストを 270° 回転"
+
+msgid "Rotate all text 90°"
+msgstr "すべてのテキストを 90° 回転"
+
+msgid "Rotate Left 90°"
+msgstr "左へ 90 度回転"
+
+msgid "Rotate Right 90°"
+msgstr "右へ 90 度回転"
+
+msgid "Rotate with shape"
+msgstr "図形と一緒に回転する"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "行"
+
+msgid "Row:"
+msgstr "行:"
+
+msgid "Rows & Columns"
+msgstr "行と列"
+
+msgid "Ruby text:"
+msgstr "ルビ文字:"
+
+msgid "Rules"
+msgstr "ルール"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "追い込み"
+
+msgid "Russia"
+msgstr "ロシア"
+
+msgid "Résumé"
+msgstr "履歴書"
+
+msgid "SAMPLE"
+msgstr ""
+
+msgid "Sat:"
+msgstr "鮮やかさ:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "コピーを別の形式で保存します。印刷は PDF を経由し、任意のビューアーから印刷できます。"
+
+msgid "Save as Word Template…"
+msgstr "Word テンプレートとして保存…"
+
+msgid "Save documents"
+msgstr "ドキュメントの保存"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "自動保存をオンにするには文書を保存してください"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "自動保存をオンにするには文書を保存してください（開いただけのファイルは、保存するまで書き換えられません）"
+
+msgid "Save these pages as PDF…"
+msgstr "このページを PDF として保存…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "保存しました。また保存。まだ保存済み。とても保存されてます。"
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr ".dotx テンプレートをテンプレート フォルダーに保存します。[ファイル] › [新規] の [個人用] に表示されます。"
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "{name} の保存はキャンセルされました。文書は開いたままで、何も失われていません。"
+
+msgid "Sayings"
+msgstr "ひとこと"
+
+msgid "Sayings:"
+msgstr "ひと言:"
+
+msgid "Scale Drawing"
+msgstr "描画の拡大縮小"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "散布図"
+
+msgid "Script"
+msgstr "上付き/下付き"
+
+msgid "Scroll ribbon left"
+msgstr "リボンを左にスクロール"
+
+msgid "Scroll ribbon right"
+msgstr "リボンを右にスクロール"
+
+msgid "Search Commands"
+msgstr "コマンドの検索"
+
+msgid "Search commands and help"
+msgstr "コマンドとヘルプを検索"
+
+msgid "Search document"
+msgstr "文書内を検索"
+
+msgid "Search for templates"
+msgstr "テンプレートを検索"
+
+msgid "Search icons"
+msgstr "アイコンを検索"
+
+msgid "Search Options"
+msgstr "検索オプション"
+
+msgid "Search:"
+msgstr "検索:"
+
+msgid "Secant Function"
+msgstr ""
+
+msgid "Section 1.01"
+msgstr "第 1.01 節"
+
+msgid "Section Break"
+msgstr "セクション区切り"
+
+msgid "Section Breaks"
+msgstr "セクション区切り"
+
+msgid "Section Character"
+msgstr "セクション記号"
+
+msgid "Section direction:"
+msgstr "セクションの方向:"
+
+msgid "Section Mark"
+msgstr "節記号"
+
+msgid "Section Properties"
+msgstr "セクションのプロパティ"
+
+msgid "Sections"
+msgstr "セクション数"
+
+msgid "See"
+msgstr "参照"
+
+msgid "select a chart first"
+msgstr "先にグラフを選択してください"
+
+msgid "select a connector first"
+msgstr "先にコネクタを選択してください"
+
+msgid "select a diagram first"
+msgstr "先に図解を選択してください"
+
+msgid "select a drawing canvas first"
+msgstr "先に描画キャンバスを選択してください"
+
+msgid "select a floating picture or shape first"
+msgstr "先に浮動の画像または図形を選択してください"
+
+msgid "select a group first"
+msgstr "先にグループを選択してください"
+
+msgid "select a picture first"
+msgstr "先に画像を選択してください"
+
+msgid "Select a picture first."
+msgstr "先に画像を選択してください。"
+
+msgid "select a picture or shape first"
+msgstr "先に画像または図形を選択してください"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "説明する画像、図形、グラフ、または表を選択してください。"
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "プリンターを選択"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "先に図形を選択してください"
+
+msgid "select a shape or decorative text first"
+msgstr "先に図形または装飾文字を選択してください"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "塗りつぶしを設定する図形、テキスト ボックス、または描画キャンバスを選択してください。"
+
+msgid "select a SmartArt graphic first"
+msgstr "先に SmartArt グラフィックを選択してください"
+
+msgid "select a text box first"
+msgstr "先にテキスト ボックスを選択してください"
+
+msgid "select a text box linked to another first"
+msgstr "先に別のボックスにリンクされたテキスト ボックスを選択してください"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "セルの選択"
+
+msgid "Select Column"
+msgstr "列の選択"
+
+msgid "Select Heading and Content"
+msgstr "見出しと内容を選択"
+
+msgid "Select Line"
+msgstr "行の選択"
+
+msgid "Select Paragraph"
+msgstr "段落の選択"
+
+msgid "Select Picture…"
+msgstr "画像を選択…"
+
+msgid "Select Range"
+msgstr "範囲の選択"
+
+msgid "Select Recipients"
+msgstr "宛先の選択"
+
+msgid "select recipients first"
+msgstr "先に宛先を選択してください"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "フィールドから選ぶには、まず宛先を選択してください。"
+
+msgid "Select recipients first to match their fields."
+msgstr "フィールドを対応付けるには、まず宛先を選択してください。"
+
+msgid "Select Row"
+msgstr "行の選択"
+
+msgid "Select Sentence"
+msgstr "文の選択"
+
+msgid "Select Table"
+msgstr "表の選択"
+
+msgid "Select Table Cells by Clicking"
+msgstr "クリックで表のセルを選択"
+
+msgid "Select Text"
+msgstr "テキストの選択"
+
+msgid "Select Text with Similar Formatting"
+msgstr "同じ書式のテキストを選択"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "テキストを選択し、編集できるユーザーをチェックします。"
+
+msgid "select two or more cells to merge"
+msgstr "結合するセルを 2 つ以上選択してください"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "先に 2 つ以上の画像または図形を選択してください (Shift+クリック)"
+
+msgid "Select Word"
+msgstr "単語の選択"
+
+msgid "Select\nRecipients"
+msgstr "宛先の選択"
+
+msgid "Selected Fields"
+msgstr "選択したフィールド"
+
+msgid "Selected text"
+msgstr "選択したテキスト"
+
+msgid "Selection Pane"
+msgstr "オブジェクトの選択と表示"
+
+msgid "Semitransparent"
+msgstr "半透明"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "文書をシステムの印刷ダイアログに直接送るか、下で別の形式のコピーを保存します。"
+
+msgid "Sentence"
+msgstr "文"
+
+msgid "Sentence case."
+msgstr "文の先頭文字を大文字にする。"
+
+msgid "Separate text at"
+msgstr "文字列の区切り"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "区切り文字:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "連番の名前:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "セルビア語（キリル文字）"
+
+msgid "Serbian (Latin)"
+msgstr "セルビア語（ラテン文字）"
+
+msgid "Series name"
+msgstr "系列名"
+
+msgid "Series {n}"
+msgstr "系列 {n}"
+
+msgid "Set As Default"
+msgstr "既定に設定"
+
+msgid "Set as default"
+msgstr "既定に設定"
+
+msgid "Set As Default (Font)"
+msgstr "既定に設定 (フォント)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "既定に設定 (ページ設定)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "既定に設定 (段落)"
+
+msgid "Set as Default Language"
+msgstr "既定の言語に設定"
+
+msgid "Set Caret"
+msgstr "カーソル位置の設定"
+
+msgid "Set Character Formatting"
+msgstr "文字書式の設定"
+
+msgid "Set Date"
+msgstr "日付を設定"
+
+msgid "Set Equation"
+msgstr "数式の設定"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "番号の設定"
+
+msgid "Set Paragraph Formatting"
+msgstr "段落書式の設定"
+
+msgid "Set Proofing Language…"
+msgstr "校正言語の設定…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "種類:"
+
+msgid "Shading"
+msgstr "網かけ"
+
+msgid "Shadow, glow and soft edges"
+msgstr "影、光彩、輪郭のぼかし"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "図形の塗りつぶし"
+
+msgid "Shape Format"
+msgstr "図形の書式"
+
+msgid "Shape Outline"
+msgstr "図形の枠線"
+
+msgid "Shape Styles"
+msgstr "図形のスタイル"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "配送ラベル"
+
+msgid "Shortcut key:"
+msgstr "ショートカット キー:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "画像や図形を移動するときに配置ガイドを表示する"
+
+msgid "Show all formatting marks"
+msgstr "すべての編集記号を表示する"
+
+msgid "Show All Levels"
+msgstr "すべてのレベルを表示"
+
+msgid "Show all revisions inline"
+msgstr "すべての変更履歴を本文中に表示"
+
+msgid "Show changes at:"
+msgstr "変更の表示単位:"
+
+msgid "Show changes in:"
+msgstr "変更の表示先:"
+
+msgid "Show Comments"
+msgstr "コメントの表示"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "表示 › モードの切り替えと同様に、文書の色を反転して表示します。保存、印刷、PDF は変わりません。"
+
+msgid "Show every bibliography field"
+msgstr "すべての文献フィールドを表示"
+
+msgid "Show First Line Only"
+msgstr "1 行目のみ表示"
+
+msgid "Show in the Styles gallery"
+msgstr "スタイル ギャラリーに表示"
+
+msgid "Show its list number"
+msgstr "リスト番号を表示"
+
+msgid "Show its number relative to this field"
+msgstr "このフィールドを基準にした番号を表示"
+
+msgid "Show its number with all higher levels"
+msgstr "上位のすべてのレベルを含めた番号を表示"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "キー操作のヒントを表示（Alt または F10）"
+
+msgid "Show Level"
+msgstr "レベルの表示"
+
+msgid "Show Level 1"
+msgstr "レベル 1 を表示"
+
+msgid "Show Level 2"
+msgstr "レベル 2 を表示"
+
+msgid "Show Level 3"
+msgstr "レベル 3 を表示"
+
+msgid "Show Level 4"
+msgstr "レベル 4 を表示"
+
+msgid "Show Level 5"
+msgstr "レベル 5 を表示"
+
+msgid "Show Level 6"
+msgstr "レベル 6 を表示"
+
+msgid "Show Level 7"
+msgstr "レベル 7 を表示"
+
+msgid "Show Level 8"
+msgstr "レベル 8 を表示"
+
+msgid "Show Level 9"
+msgstr "レベル 9 を表示"
+
+msgid "Show Markup"
+msgstr "変更履歴とコメントの表示"
+
+msgid "Show Notes"
+msgstr "注の表示"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "コメントと書式のみを吹き出しに表示"
+
+msgid "Show only records that will be merged"
+msgstr "差し込むレコードのみ表示"
+
+msgid "Show or Hide Style"
+msgstr "スタイルの表示/非表示"
+
+msgid "Show Quick Access Toolbar"
+msgstr "クイック アクセス ツール バーを表示する"
+
+msgid "Show revisions in balloons"
+msgstr "変更履歴を吹き出しに表示"
+
+msgid "Show Text Formatting"
+msgstr "文字列の書式を表示"
+
+msgid "Show the Assistant"
+msgstr "アシスタントを表示"
+
+msgid "Show the community button in the title bar"
+msgstr "タイトル バーにコミュニティ ボタンを表示する"
+
+msgid "Show the equation in the line of text"
+msgstr ""
+
+msgid "Show the equation on a line of its own"
+msgstr ""
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "テキストを選択したときにミニ ツール バーを表示する"
+
+msgid "Show the ribbon"
+msgstr "リボンを表示"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "WordCraft の起動時にスタート画面を表示する"
+
+msgid "Show the tips you asked not to see again."
+msgstr "非表示にしたヒントをもう一度表示します。"
+
+msgid "Show/Hide ¶"
+msgstr "編集記号の表示/非表示 ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "編集記号の表示/非表示 ¶ ({key}) で、文章に隠れているスペース、タブ、改行が見えます。"
+
+msgid "Show\nComments"
+msgstr "コメントの表示"
+
+msgid "Showing the first {count} items."
+msgstr "最初の {count} 項目を表示しています。"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "ツリーを表示します。各項目は所属する項目の下に置かれます。"
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "中心となる考えの周りに項目を表示します。最初の項目が中心です。"
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "同じ重みの項目をブロックとして行に並べて表示します。"
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "重なり合う考えを重なる円で表示します。"
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "全体の各部分を四分割で表示します。"
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "積み重なる部分を表示します。最も大きいものが一番下です。"
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "手順を左から右へ順に、矢印でつないで表示します。"
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "繰り返す手順を円の周りに表示します。"
+
+msgid "Shrink Font 1 Point"
+msgstr "フォントを 1 ポイント縮小"
+
+msgid "Shrink text"
+msgstr "文字を縮小"
+
+msgid "Side to Side"
+msgstr "左右に並べる"
+
+msgid "Side\nto Side"
+msgstr "左右に並べる"
+
+msgid "Sides of a right triangle"
+msgstr ""
+
+msgid "Signature Line"
+msgstr "署名欄"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr ""
+
+msgid "Sine Function"
+msgstr ""
+
+msgid "Sine theta"
+msgstr ""
+
+msgid "Singapore"
+msgstr "シンガポール"
+
+msgid "Single"
+msgstr "一重線"
+
+msgid "Single Brackets"
+msgstr ""
+
+msgid "Single Closing Quote"
+msgstr "一重引用符 (閉じ)"
+
+msgid "Single label"
+msgstr "1 枚のラベル"
+
+msgid "Single Left Angle"
+msgstr ""
+
+msgid "Single Left Bar"
+msgstr ""
+
+msgid "Single Left Brace"
+msgstr ""
+
+msgid "Single Left Bracket"
+msgstr ""
+
+msgid "Single Left Parenthesis"
+msgstr ""
+
+msgid "Single Opening Quote"
+msgstr "一重引用符 (開き)"
+
+msgid "Single Right Brace"
+msgstr ""
+
+msgid "Single Right Bracket"
+msgstr ""
+
+msgid "Single Right Parenthesis"
+msgstr ""
+
+msgid "Single Spacing"
+msgstr "1 行"
+
+msgid "SIST02"
+msgstr ""
+
+msgid "Site name"
+msgstr "サイト名"
+
+msgid "Size (pt):"
+msgstr "サイズ (pt):"
+
+msgid "Size and Crop…"
+msgstr "サイズとトリミング…"
+
+msgid "Sketchbook"
+msgstr "スケッチブック"
+
+msgid "Skewed Fraction"
+msgstr ""
+
+msgid "Skip citations & bibliography"
+msgstr "引用と参考文献をスキップ"
+
+msgid "Skip Citations and Bibliography"
+msgstr "引用と参考文献をスキップ"
+
+msgid "Skip Record If"
+msgstr "レコードをスキップする条件"
+
+msgid "Skip Record If…"
+msgstr "レコードをスキップする条件…"
+
+msgid "Slant Down"
+msgstr "右下がり"
+
+msgid "Slant Up"
+msgstr "右上がり"
+
+msgid "Slovak"
+msgstr "スロバキア語"
+
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+msgid "Small caps"
+msgstr "小型英大文字"
+
+msgid "Small change"
+msgstr ""
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "左右の区別がない引用符を区別がある引用符に"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "SmartArt のデザイン"
+
+msgid "SmartArt Styles"
+msgstr "SmartArt のスタイル"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "スクロールやズームのなめらかな動きと、メニューやボタンのフェード表示です。「オフ」にすると、すべての変化がすぐに表示されます。"
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "輪郭のぼかし"
+
+msgid "Soft Glow"
+msgstr "柔らかい光彩"
+
+msgid "Solid Accent"
+msgstr "アクセントの単色"
+
+msgid "Solid fill"
+msgstr "単色の塗りつぶし"
+
+msgid "Sometimes"
+msgstr "ときどき"
+
+msgid "Sort by:"
+msgstr "並べ替え:"
+
+msgid "Sort order:"
+msgstr "並べ替え順:"
+
+msgid "Sort Recipients"
+msgstr "宛先の並べ替え"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "ソース コード: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "資料文献の管理"
+
+msgid "Source type:"
+msgstr "資料文献の種類:"
+
+msgid "Sources in this document:"
+msgstr "この文書の資料文献:"
+
+msgid "South"
+msgstr "南"
+
+msgid "South Africa"
+msgstr "南アフリカ"
+
+msgid "Space"
+msgstr "スペース"
+
+msgid "Space after"
+msgstr "段落後の間隔"
+
+msgid "Space after: {pt} pt"
+msgstr "後の間隔: {pt} pt"
+
+msgid "Space before"
+msgstr "段落前の間隔"
+
+msgid "Space before/after:"
+msgstr "段落前/後の間隔:"
+
+msgid "Space before: {pt} pt"
+msgstr "前の間隔: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "間隔 (pt):"
+
+msgid "Spain"
+msgstr "スペイン"
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "スペイン語（メキシコ）"
+
+msgid "Spanish (Spain)"
+msgstr "スペイン語（スペイン）"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr ""
+
+msgid "Special Characters"
+msgstr "特殊文字"
+
+msgid "Specify height:"
+msgstr "高さを指定:"
+
+msgid "Speech"
+msgstr "音声"
+
+msgid "Spelling & Grammar"
+msgstr "スペル チェックと文章校正"
+
+msgid "Spelling &\nGrammar"
+msgstr "スペル チェックと文章校正"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "スペルと文法のチェック言語: {language}"
+
+msgid "Spelling Suggestions"
+msgstr "スペルの候補"
+
+msgid "Spike"
+msgstr "スパイク"
+
+msgid "Split Cells"
+msgstr "セルの分割"
+
+msgid "Split Table"
+msgstr "表の分割"
+
+msgid "Spreadsheet Table"
+msgstr "スプレッドシート"
+
+msgid "Square Root"
+msgstr ""
+
+msgid "Square Root with Degree"
+msgstr ""
+
+msgid "Square Union"
+msgstr ""
+
+msgid "Stack Object"
+msgstr ""
+
+msgid "Stack Object (Three)"
+msgstr ""
+
+msgid "Stacked Bar"
+msgstr "積み上げ横棒"
+
+msgid "Stacked Column"
+msgstr "積み上げ縦棒"
+
+msgid "Stacked Fraction"
+msgstr ""
+
+msgid "Stacked, no bar"
+msgstr ""
+
+msgid "Standard Colors"
+msgstr "標準の色"
+
+msgid "Start Enforcing Protection"
+msgstr "保護を開始"
+
+msgid "Start Mail Merge"
+msgstr "差し込み印刷の開始"
+
+msgid "Start Mail\nMerge"
+msgstr "差し込み印刷の開始"
+
+msgid "Start-up"
+msgstr "起動"
+
+msgid "State"
+msgstr "都道府県"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "まだいます? 考えている音が聞こえますよ。"
+
+msgid "Stop Protection"
+msgstr "保護の中止"
+
+msgid "Stop Reading"
+msgstr "読み上げを停止"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "停止中"
+
+msgid "Straight Arrow Connector"
+msgstr "直線矢印コネクタ"
+
+msgid "Straight Connector"
+msgstr "直線コネクタ"
+
+msgid "Stroke {n} of {total}"
+msgstr "ストローク {n}/{total}"
+
+msgid "Strong"
+msgstr ""
+
+msgid "Structure Actions"
+msgstr "構造の操作"
+
+msgid "Structures"
+msgstr "構造"
+
+msgid "Studio cover"
+msgstr "スタジオ表紙"
+
+msgid "Studio handbook (sample)"
+msgstr "スタジオ ハンドブック（サンプル）"
+
+msgid "Style based on:"
+msgstr "基準にするスタイル:"
+
+msgid "Style Inspector"
+msgstr "スタイル インスペクター"
+
+msgid "Style name:"
+msgstr "スタイル名:"
+
+msgid "Style Set"
+msgstr "スタイル セット"
+
+msgid "Style: APA"
+msgstr ""
+
+msgid "Style: {style}"
+msgstr "スタイル: {style}"
+
+msgid "Styles Pane"
+msgstr "スタイル ウィンドウ"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "スタイル:"
+
+msgid "Subentry:"
+msgstr "副項目:"
+
+msgid "Submit print job"
+msgstr "印刷ジョブの送信"
+
+msgid "Submitting print job…"
+msgstr "印刷ジョブを送信しています…"
+
+msgid "Subscript-Superscript"
+msgstr ""
+
+msgid "Subscripts and Superscripts"
+msgstr ""
+
+msgid "Subset:"
+msgstr "種類:"
+
+msgid "Subtle Emphasis"
+msgstr ""
+
+msgid "Subtle Reference"
+msgstr ""
+
+msgid "Suggested"
+msgstr "おすすめ"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "計"
+
+msgid "Sum of cosines"
+msgstr ""
+
+msgid "Sum or difference of sines"
+msgstr ""
+
+msgid "Summation"
+msgstr ""
+
+msgid "Summation from 0 to n"
+msgstr ""
+
+msgid "Summation over binomials"
+msgstr ""
+
+msgid "Summation with Limits"
+msgstr ""
+
+msgid "Summation with Lower Limit"
+msgstr ""
+
+msgid "Summation with Subscript Limit"
+msgstr ""
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Summations"
+msgstr ""
+
+msgid "Suppress line numbers"
+msgstr "行番号を表示しない"
+
+msgid "Surface Integral"
+msgstr ""
+
+msgid "Surface Integral with Limits"
+msgstr ""
+
+msgid "Surface Integral with Stacked Limits"
+msgstr ""
+
+msgid "Swahili"
+msgstr "スワヒリ語"
+
+msgid "Swap footnotes and endnotes"
+msgstr "脚注と文末脚注を入れ替え"
+
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+msgid "Switch Modes"
+msgstr "モードの切り替え"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "モードの切り替え"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "スイス"
+
+msgid "Synonyms"
+msgstr "類義語"
+
+msgid "Syria"
+msgstr "シリア"
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr "システム辞書"
+
+msgid "Tab Character"
+msgstr "タブ文字"
+
+msgid "Tab character"
+msgstr "タブ文字"
+
+msgid "Tab characters"
+msgstr "タブ"
+
+msgid "Tab leader:"
+msgstr "タブ リーダー:"
+
+msgid "Tab stop position:"
+msgstr "タブ位置:"
+
+msgid "Tab stops to be cleared:"
+msgstr "削除するタブ:"
+
+msgid "Table Column Width"
+msgstr "表の列の幅"
+
+msgid "Table Design"
+msgstr "テーブル デザイン"
+
+msgid "Table direction:"
+msgstr "表の方向:"
+
+msgid "Table Grid"
+msgstr ""
+
+msgid "Table Layout"
+msgstr "表のレイアウト"
+
+msgid "Table of Authorities"
+msgstr "引用文献一覧"
+
+msgid "Table of Contents"
+msgstr "目次"
+
+msgid "Table of Contents Options"
+msgstr "目次オプション"
+
+msgid "Table of Contents Styles"
+msgstr "目次スタイル"
+
+msgid "Table of Figures"
+msgstr ""
+
+msgid "Table of\nContents"
+msgstr "目次"
+
+msgid "Table Properties"
+msgstr "表のプロパティ"
+
+msgid "Table Properties…"
+msgstr "表のプロパティ…"
+
+msgid "Table Row Height"
+msgstr "表の行の高さ"
+
+msgid "Table size"
+msgstr "表のサイズ"
+
+msgid "Table Style Options"
+msgstr "表スタイルのオプション"
+
+msgid "Table Styles"
+msgstr "表のスタイル"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr ""
+
+msgid "Tabs…"
+msgstr "タブ…"
+
+msgid "Tabular List"
+msgstr "表形式の一覧"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Taiwan"
+msgstr "台湾"
+
+msgid "Take the last match on the page"
+msgstr "ページ内で最後に一致したものを使う"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "ごゆっくり。ページはどこにも行きません。わたしもです。ずっと。"
+
+msgid "Tamil"
+msgstr "タミル語"
+
+msgid "Tangent formula"
+msgstr ""
+
+msgid "Tangent Function"
+msgstr ""
+
+msgid "TC entry fields"
+msgstr "TC 項目フィールド"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "テクノロジー"
+
+msgid "Templates and Add-ins"
+msgstr "テンプレートとアドイン"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "テンプレート フォルダーに保存したテンプレートがここに表示されます。"
+
+msgid "Text Box"
+msgstr "テキスト ボックス"
+
+msgid "Text boxes"
+msgstr "テキスト ボックス"
+
+msgid "text boxes can't go inside a text box"
+msgstr "テキスト ボックスはテキスト ボックス内に配置できません"
+
+msgid "Text Direction"
+msgstr "文字列の方向"
+
+msgid "Text Effects"
+msgstr "文字の効果"
+
+msgid "Text Effects and Typography"
+msgstr "文字の効果と体裁"
+
+msgid "Text Fill"
+msgstr "文字の塗りつぶし"
+
+msgid "Text from File"
+msgstr "ファイルからテキストを挿入"
+
+msgid "Text Highlight Color"
+msgstr "蛍光ペンの色"
+
+msgid "Text indent at:"
+msgstr "文字列のインデント位置:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "指定したスタイルを持つ最も近い段落の文字列 (柱)"
+
+msgid "Text Outline"
+msgstr "文字の輪郭"
+
+msgid "Text over Colon Equal"
+msgstr ""
+
+msgid "Text over Equal"
+msgstr ""
+
+msgid "Text Pane"
+msgstr "テキスト ウィンドウ"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "文字サイズ"
+
+msgid "Text snaps to characters"
+msgstr "文字をグリッドに合わせる"
+
+msgid "Text to display:"
+msgstr "表示文字列:"
+
+msgid "Text watermark"
+msgstr "テキストの透かし"
+
+msgid "Text Wrapping"
+msgstr "文字列の折り返し"
+
+msgid "Text\nBox"
+msgstr "テキスト ボックス"
+
+msgid "Text\nDirection"
+msgstr "文字列の方向"
+
+msgid "Thai"
+msgstr "タイ語"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "その形式ではすべてを保存できないため、文書は開いたままです。続けるには Word 文書 (.docx) として保存してください。"
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "パスワードが正しくありません。確認して（大文字と小文字は区別されます）もう一度お試しください。"
+
+msgid "The clipboard is empty."
+msgstr "クリップボードは空です。"
+
+msgid "the Clipboard pane is empty"
+msgstr "クリップボード ウィンドウは空です"
+
+msgid "the cursor isn't in a table"
+msgstr "カーソルが表の中にありません"
+
+msgid "The date it is today"
+msgstr "今日の日付"
+
+msgid "The document has no bookmarks yet."
+msgstr "この文書にはまだブックマークがありません。"
+
+msgid "the document is protected"
+msgstr "文書は保護されています"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "編集可能とマークされた範囲を除き、この文書は読み取り専用です。"
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "文書はパスワード付きで保存されます。保護するには文書を保存してください。"
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "編集中のドキュメントには名前と日時が残ります。保存したファイルにだけ含まれません。"
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "この用紙サイズには余白が収まりません。先に余白を小さくしてください。"
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "{min} から {max} までの値を指定してください。"
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "新しいスタイルには現在の段落の書式が使われます。"
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "通常テンプレートを読み込めなかったため、この文書では WordCraft の組み込みの書式を使用しています。"
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "1 から {max} までの数値を指定してください。"
+
+msgid "the paragraph is empty"
+msgstr "段落が空です"
+
+msgid "the paragraph starts with a space"
+msgstr "段落がスペースで始まっています"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "パスワードは省略できます。省略すると、誰でも保護を中止できます。"
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "パスワードを削除しました。変更を保持するには文書を保存してください。"
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "プリンター、両面印刷、1 枚あたりのページ数は、そのダイアログで選択します。"
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "住所ブロックとあいさつ文の各部分に使われる宛先リストのフィールドです。"
+
+msgid "The spelling and grammar check is complete."
+msgstr ""
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "スパイクは空です"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "システムのファイル ダイアログを利用できないため、WordCraft 独自のダイアログを表示しています。システムのダイアログを使うには、ファイル選択ポータル (xdg-desktop-portal-gtk など) または zenity をインストールしてください。"
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "挿入ポイントのテキストの設定: スペルチェックと文章校正を行わない"
+
+msgid "The time right now"
+msgstr "現在の時刻"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "テーマの色"
+
+msgid "Theme Fonts"
+msgstr "テーマのフォント"
+
+msgid "Theme List"
+msgstr "テーマの一覧"
+
+msgid "Themes"
+msgstr "テーマ"
+
+msgid "Then by"
+msgstr "次の基準"
+
+msgid "Then insert:"
+msgstr "一致したら挿入:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "再生するインクがありません"
+
+msgid "there is nothing to undo"
+msgstr "元に戻す操作はありません"
+
+msgid "there's no citation after the caret"
+msgstr "カーソルの後に引用文献がありません"
+
+msgid "Thesaurus"
+msgstr "類義語辞典"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "これらの記号は、[編集記号の表示/非表示 ¶] がオフでも表示されます。"
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "次の差し込みフィールドは宛先リストにありません:"
+
+msgid "These settings will be used for new documents."
+msgstr "これらの設定は新しい文書に使用されます。"
+
+msgid "Thick"
+msgstr "太線"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "このグラフは別のプログラムで作成されました: WordCraft で表示できますが編集はできません"
+
+msgid "this diagram can't be edited"
+msgstr "この図解は編集できません"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "この図解は別のプログラムで作成されました。WordCraft では表示できますが編集できません"
+
+msgid "This document"
+msgstr "この文書"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "この文書のみ?"
+
+msgid "This field has no options."
+msgstr "このフィールドにはオプションがありません。"
+
+msgid "This folder can't be read: {error}"
+msgstr "このフォルダーを読み取れません: {error}"
+
+msgid "This font has no characters to show."
+msgstr "このフォントには表示できる文字がありません。"
+
+msgid "this item is already at the top level"
+msgstr "この項目は既に最上位レベルです"
+
+msgid "This page"
+msgstr "このページ"
+
+msgid "This password type isn't supported."
+msgstr "この種類のパスワードはサポートされていません。"
+
+msgid "This point forward"
+msgstr "これ以降"
+
+msgid "This section"
+msgstr "このセクション"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "このセッションには通常テンプレートがありません (ヘッドレスまたは設定なし): 次を使用してください \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "この SmartArt は別のプログラムで作成されました: WordCraft で表示できますが編集はできません"
+
+msgid "this text box is already linked: break the link first"
+msgstr "このテキスト ボックスは既にリンクされています: 先にリンクを解除してください"
+
+msgid "Three"
+msgstr "3 段"
+
+msgid "Through"
+msgstr "内部"
+
+msgid "Tight"
+msgstr "狭い"
+
+msgid "Tilde"
+msgstr ""
+
+msgid "Tip"
+msgstr "ヒント"
+
+msgid "Tips ({n})"
+msgstr "ヒント ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr "タイトル バー"
+
+msgid "Title from the document properties"
+msgstr "文書のタイトル"
+
+msgid "Title:"
+msgstr "タイトル:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Word 文書を既定で WordCraft で開くには: Finder で文書を選び、ファイル › 情報を見る を選んで、「このアプリケーションで開く」で WordCraft を選び、「すべてを変更」をクリックします。"
+
+msgid "To:"
+msgstr "終了:"
+
+msgid "TOA Heading"
+msgstr ""
+
+msgid "TOC Heading"
+msgstr ""
+
+msgid "TOC {n}"
+msgstr ""
+
+msgid "Today"
+msgstr "今日"
+
+msgid "tOGGLE cASE"
+msgstr ""
+
+msgid "Toggle Check Box"
+msgstr "チェック ボックスの切り替え"
+
+msgid "Toggle Field Codes"
+msgstr "フィールドコードの表示切り替え"
+
+msgid "Toggle Unicode Character"
+msgstr "Unicode 文字の切り替え"
+
+msgid "Top and Bottom"
+msgstr "上下"
+
+msgid "Top Border"
+msgstr "上罫線"
+
+msgid "Top Left Cell"
+msgstr "左上のセル"
+
+msgid "Top Margin"
+msgstr "上余白"
+
+msgid "Top of Page"
+msgstr "ページの上部"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "右上のセル"
+
+msgid "Total Row"
+msgstr "集計行"
+
+msgid "Track Changes"
+msgstr "変更履歴の記録"
+
+msgid "Track Changes Options"
+msgstr "変更履歴のオプション"
+
+msgid "Track Changes: On"
+msgstr "変更履歴の記録: オン"
+
+msgid "Track formatting"
+msgstr "書式の変更を記録"
+
+msgid "Track\nChanges"
+msgstr ""
+
+msgid "Track\nChanges ✓"
+msgstr ""
+
+msgid "Tracked changes"
+msgstr "変更履歴"
+
+msgid "Trademark"
+msgstr "商標"
+
+msgid "Trademark Sign"
+msgstr "商標記号"
+
+msgid "Transparency:"
+msgstr "透明度:"
+
+msgid "Transport"
+msgstr "乗り物"
+
+msgid "Triangle Down"
+msgstr "下向き三角形"
+
+msgid "Triangle Up"
+msgstr "上向き三角形"
+
+msgid "Trigonometric Functions"
+msgstr ""
+
+msgid "Triple"
+msgstr "三重線"
+
+msgid "Triple Dot"
+msgstr ""
+
+msgid "Triple Integral"
+msgstr ""
+
+msgid "Triple Integral with Limits"
+msgstr ""
+
+msgid "Triple Integral with Stacked Limits"
+msgstr ""
+
+msgid "Trust Center"
+msgstr "セキュリティ センター"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Turabian"
+msgstr ""
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "2 段"
+
+msgid "Two-sided printing"
+msgstr "両面印刷"
+
+msgid "Two-sided: long edge"
+msgstr "両面：長辺"
+
+msgid "Two-sided: short edge"
+msgstr "両面：短辺"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "現在のページから移動するには +2 や -1 のように入力します。"
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "コマンドを入力（例: \"insert table\"）"
+
+msgid "Type a New List…"
+msgstr "新しいリストを入力…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr ""
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "5 cm や 300 px など、任意の単位でサイズを入力します。もう一方の辺も合わせて変わるため、図の縦横比は保たれます。"
+
+msgid "Type at least one recipient."
+msgstr "宛先を1件以上入力してください。"
+
+msgid "Type Character Code"
+msgstr "文字コードの入力"
+
+msgid "Type equations in LaTeX"
+msgstr ""
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr ""
+
+msgid "Type in Equation"
+msgstr "数式に入力"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr ""
+
+msgid "Type Text"
+msgstr "テキストを入力"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "左端の列にカテゴリを、系列ごとに 1 列ずつ値を入力します。"
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "フィールド名とスイッチを入力します (例: PAGE \\* roman)。"
+
+msgid "Type the password to stop the protection."
+msgstr "保護を中止するにはパスワードを入力してください。"
+
+msgid "Type the recipients, or load them from a file."
+msgstr "宛先を入力するか、ファイルから読み込みます。"
+
+msgid "Typing replaces selected text"
+msgstr "入力時に選択文字列を置き換える"
+
+msgid "U.A.E."
+msgstr "アラブ首長国連邦"
+
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+msgid "Unchecked symbol"
+msgstr "オフの記号"
+
+msgid "Underbar"
+msgstr ""
+
+msgid "Underbrace"
+msgstr ""
+
+msgid "Underline Color"
+msgstr "下線の色"
+
+msgid "Underline color"
+msgstr "下線の色"
+
+msgid "Underline Words Only"
+msgstr "単語のみ下線"
+
+msgid "Undo 1 Action"
+msgstr "1 件の操作を元に戻す"
+
+msgid "Undo Actions"
+msgstr "複数の操作を元に戻す"
+
+msgid "Undo History"
+msgstr "元に戻す履歴"
+
+msgid "Undo {n} Actions"
+msgstr "{n} 件の操作を元に戻す"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "元に戻す、元に戻す、元に戻す… もうタイムトラベルですね。"
+
+msgid "Unformatted Text"
+msgstr "書式なしテキスト"
+
+msgid "Union of intersections"
+msgstr ""
+
+msgid "Union with Limits"
+msgstr ""
+
+msgid "Union with Lower Limit"
+msgstr ""
+
+msgid "Union with Plus"
+msgstr ""
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr ""
+
+msgid "Unions and Intersections"
+msgstr ""
+
+msgid "United Kingdom"
+msgstr "英国"
+
+msgid "United States"
+msgstr "米国"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "不明な装飾文字のスタイル `{id}`"
+
+msgid "Unlink Fields"
+msgstr "フィールドのリンク解除"
+
+msgid "Unlink\nCitations"
+msgstr "引用文献の\nリンク解除"
+
+msgid "Unlock Fields"
+msgstr "フィールドのロック解除"
+
+msgid "Up Diagonal Dots"
+msgstr ""
+
+msgid "Up one level"
+msgstr "1 つ上のフォルダー"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "フィールドの更新"
+
+msgid "Update fields before printing"
+msgstr "印刷前にフィールドを更新する"
+
+msgid "Update Index"
+msgstr "索引の更新"
+
+msgid "Update Style to Match Selection"
+msgstr "選択箇所と一致するようにスタイルを更新"
+
+msgid "Update Styles from Template"
+msgstr "テンプレートからスタイルを更新"
+
+msgid "Update Table"
+msgstr "目次の更新"
+
+msgid "Update Table of Figures"
+msgstr "図表目次の更新"
+
+msgid "Update to Match"
+msgstr "一致するように更新"
+
+msgid "Update to Match Selection"
+msgstr "選択箇所と一致するように更新"
+
+msgid "URGENT"
+msgstr ""
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr ""
+
+msgid "Use \"an\" before a vowel sound"
+msgstr ""
+
+msgid "Use an Existing List…"
+msgstr "既存のリストを使用…"
+
+msgid "Use system setting"
+msgstr "システム設定を使用"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "ブラウザーの全画面表示を使用してください (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "現在のスタイル セットとテーマをすべての新しい文書に使用しますか?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Insert キーで上書きのオンとオフを切り替える"
+
+msgid "Use this formatting as the default for:"
+msgstr "この書式を既定として使用する対象:"
+
+msgid "Use wildcards"
+msgstr "ワイルドカードを使う"
+
+msgid "User Name"
+msgstr "ユーザー名"
+
+msgid "User name:"
+msgstr "ユーザー名:"
+
+msgid "User templates:"
+msgstr "ユーザー テンプレート:"
+
+msgid "Vector A"
+msgstr ""
+
+msgid "Vector AB"
+msgstr ""
+
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+msgid "Version History"
+msgstr "バージョン履歴"
+
+msgid "Version {version} ({build})"
+msgstr "バージョン {version}（{build}）"
+
+msgid "Vertical alignment:"
+msgstr "垂直方向の配置:"
+
+msgid "Vertical Bars"
+msgstr ""
+
+msgid "Vertical Dots"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+msgid "View Alt Text…"
+msgstr "代替テキストを表示…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "グリッド線の表示"
+
+msgid "View State"
+msgstr "表示の状態"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "表示 › フォーカス で、文字以外はすべて隠れます。わたしは外で待ってますね。"
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "表示"
+
+msgid "Visual effects"
+msgstr "視覚効果"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "巻"
+
+msgid "Volume Integral"
+msgstr ""
+
+msgid "Volume Integral with Limits"
+msgstr ""
+
+msgid "Volume Integral with Stacked Limits"
+msgstr ""
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr ""
+
+msgid "Waiting for the save to finish…"
+msgstr "保存が完了するのを待っています…"
+
+msgid "Waiting for Zotero…"
+msgstr "Zotero を待っています…"
+
+msgid "Warm Gradient with Outline"
+msgstr "暖色のグラデーションと輪郭"
+
+msgid "Warnings ({n})"
+msgstr "警告 ({n})"
+
+msgid "Washout"
+msgstr "薄色"
+
+msgid "Weather"
+msgstr "天気"
+
+msgid "Web Layout"
+msgstr "Web レイアウト"
+
+msgid "Web page (*.html)"
+msgstr "Web ページ (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Web レイアウト"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+msgid "West"
+msgstr "西"
+
+msgid "When this document was first created"
+msgstr "文書の作成日"
+
+msgid "When this document was most recently printed"
+msgstr "文書の最終印刷日"
+
+msgid "When this document was most recently saved"
+msgstr "文書の最終保存日"
+
+msgid "White Space"
+msgstr "空白"
+
+msgid "White space"
+msgstr "空白"
+
+msgid "Who the document properties name as author"
+msgstr "文書の作成者"
+
+msgid "Whole document"
+msgstr "文書全体"
+
+msgid "Whole page"
+msgstr "ページ全体"
+
+msgid "Whole Table"
+msgstr "表全体"
+
+msgid "Whole words"
+msgstr "単語単位で探す"
+
+msgid "Wide"
+msgstr "広い"
+
+msgid "Widow/Orphan Control"
+msgstr "改ページ時 1 行残して段落を区切らない"
+
+msgid "Widow/Orphan control"
+msgstr "改ページ時 1 行残して段落を区切らない"
+
+msgid "Width and spacing"
+msgstr "幅と間隔"
+
+msgid "Wildcards (regex)"
+msgstr ""
+
+msgid "With:"
+msgstr "修正後の文字列:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Word 2003 XML ドキュメント (*.xml)"
+
+msgid "Word Count"
+msgstr "文字カウント"
+
+msgid "Word document"
+msgstr "Word 文書"
+
+msgid "Word document (*.docx)"
+msgstr "Word 文書 (*.docx)"
+
+msgid "Word Left"
+msgstr "前の単語へ"
+
+msgid "Word level"
+msgstr "単語単位"
+
+msgid "Word Right"
+msgstr "次の単語へ"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Word XML ドキュメント (*.xml)"
+
+msgid "WordArt"
+msgstr "ワードアート"
+
+msgid "WordArt Styles"
+msgstr "ワードアートのスタイル"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft が Word 文書の既定のアプリになりました。"
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "単語のみ"
+
+msgid "Wrap Text"
+msgstr "文字列の折り返し"
+
+msgid "Wrap Text Sides"
+msgstr "文字を配置する側"
+
+msgid "Wrap\nText"
+msgstr "文字列の折り返し"
+
+msgid "Write & Insert Fields"
+msgstr "文章入力とフィールドの挿入"
+
+msgid "Write a reply"
+msgstr "返信を入力"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "書けなくなりました? カーソルを見つめるといいですよ。あの子、何年もわたしに向かって点滅してますから。"
+
+msgid "x bar"
+msgstr ""
+
+msgid "Year"
+msgstr "年"
+
+msgid "Yields"
+msgstr ""
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "しばらく保存していませんし、自動保存もオフです。今すぐ保存しますか?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "リストを始めましたね。終わらせるには Enter を 2 回、項目の先頭で Backspace を押すとただの文字に戻ります。"
+
+msgid "Your document is now the most saved document in history."
+msgstr "この文書は、これまでで一番保存された文書になりました。"
+
+msgid "Your languages"
+msgstr "使用する言語"
+
+msgid "Your own dictionary"
+msgstr "独自の辞書"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "システムからアニメーションの設定を取得できないため、アニメーション効果はオンのままです。"
+
+msgid "Your system has animation effects turned off."
+msgstr "システムのアニメーション効果はオフです。"
+
+msgid "Your system has animation effects turned on."
+msgstr "システムのアニメーション効果はオンです。"
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: キャンセルしました"
+
+msgid "Zotero: done"
+msgstr "Zotero: 完了"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}。読み込めなかったもの {count} 件: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}。{n} 件をスキップしました (上限 {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "{cols}×{rows} の表"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "貢献者 {contributors} 人 · コミット {commits} 件"
+
+msgid "{count} items highlighted"
+msgstr "{count} 件を強調表示しました"
+
+msgid "{count} of {total} pages will print"
+msgstr "{total} ページ中 {count} ページを印刷します"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "差し込む宛先: {total} 件中 {count} 件"
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "{group} の設定"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} で文書全体のスペル チェックと文章校正を行います。"
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} で単語数、文字数、段落数を数えられます。"
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} で文字列、書式、特殊文字を検索して置換できます。"
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} で直前の操作を繰り返せます。見出し 10 個の書式設定も、1 クリックと 9 回のキー操作で完了。"
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} で、新しい段落にせずに改行できます。"
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} で新しいページを始められます。ページが変わるまで Enter を押し続けるより、ずっとスマートです。"
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} で選択した文字列をリンクにできます。"
+
+msgid "{key}+Click to follow link"
+msgstr "{key} キーを押しながらクリックしてリンク先を表示"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}、{columns} × {rows}、{size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language}（既定）"
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language}（辞書なし）"
+
+msgid "{language} ({region})"
+msgstr "{language}（{region}）"
+
+msgid "{language} is now the document's default language."
+msgstr "{language} がこの文書の既定の言語になりました。"
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: 辞書が見つかりません"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft はこの言語のスペルと文法をまだチェックしません。"
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} ほか {n} 件"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} インチ"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} は既に存在します。置き換えるには、もう一度 [保存] を選んでください。"
+
+msgid "{name} is protected with a password."
+msgstr "{name} はパスワードで保護されています。"
+
+msgid "{name} options"
+msgstr ""
+
+msgid "{name} wasn't found."
+msgstr "{name} が見つかりません。"
+
+msgid "{n} entries marked."
+msgstr "{n} 件の項目を登録しました。"
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} 行"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected}/{words} 語"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} ピクセル"
+
+msgid "{words} words"
+msgstr "{words} 語"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} 語、まだまだ増えてます。本当に。わたしが数えてます。"
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} 語! パーティーを開きたいけど、片付けるのはわたしなので。"
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} 語。わたしが今日書いた分より {words} 語も上回っています。"
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "「{text}」（{row}、{series}）は数値ではありません。"
+
+msgid "✓ None"
+msgstr ""
+
+msgid "➕ New comment"
+msgstr ""
+
+msgid "📂  Browse…"
+msgstr ""

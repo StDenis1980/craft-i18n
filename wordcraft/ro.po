@@ -1,0 +1,8236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>=1 && n%100<=19) ? 1 : 2);\n"
+
+msgid "(All)"
+msgstr "(Toate)"
+
+msgid "(no style)"
+msgstr "(fără stil)"
+
+msgid "(no suggestions)"
+msgstr "(fără sugestii)"
+
+msgid "(normal text)"
+msgstr "(text normal)"
+
+msgid "(not matched)"
+msgstr "(fără potrivire)"
+
+msgid "(picture or object)"
+msgstr "(imagine sau obiect)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 sau mai multe caractere"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Restricții de formatare"
+
+msgid "1.5 Line Spacing"
+msgstr "Spațiere între rânduri 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Spațiu de 1/4 em"
+
+msgid "1×2 Empty Matrix"
+msgstr "Matrice goală 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Matrice goală 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Restricții de editare"
+
+msgid "2×1 Empty Matrix"
+msgstr "Matrice goală 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Determinant 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Matrice goală 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Matrice identitate 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Matrice identitate 2×2 (rară)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Matrice 2×2 între paranteze drepte"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Matrice 2×2 între bare duble"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Matrice 2×2 între paranteze rotunde"
+
+msgid "2×3 Empty Matrix"
+msgstr "Matrice goală 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Pornirea aplicării"
+
+msgid "3×1 Empty Matrix"
+msgstr "Matrice goală 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Matrice goală 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Matrice goală 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Matrice identitate 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Matrice identitate 3×3 (rară)"
+
+msgid "<< Less"
+msgstr "<< Mai puțin"
+
+msgid "<< Remove"
+msgstr "<< Elimină"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "o diagramă poate conține cel mult {MAX_ITEMS} elemente"
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "un panou de desen nu poate fi degrupat"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "un panou de desen nu poate intra într-o casetă de text"
+
+msgid "A file dialog is already open."
+msgstr "O casetă de dialog pentru fișiere este deja deschisă."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Un procesor de text gratuit și open-source, scris de la zero în Rust.\nFace parte din Crafting Apps ale echipei ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "un grup cu cerneală Word nu poate fi încă degrupat"
+
+msgid "A mail merge field"
+msgstr "Un câmp de îmbinare corespondență"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "O secvență numerotată (figuri, tabele…)"
+
+msgid "A password is required to open this document."
+msgstr "Pentru a deschide acest document este necesară o parolă."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Un cuprins"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Despre WordCraft"
+
+msgid "Above Chart"
+msgstr "Deasupra graficului"
+
+msgid "Above the item"
+msgstr "Deasupra elementului"
+
+msgid "Above/below"
+msgstr "Deasupra/dedesubt"
+
+msgid "Absolute value cases"
+msgstr "Valoare absolută pe cazuri"
+
+msgid "Accent"
+msgstr "Accent"
+
+msgid "Accent Gradient"
+msgstr "Gradient accent"
+
+msgid "Accent with Reflection"
+msgstr "Accent cu reflexie"
+
+msgid "Accent {n}"
+msgstr "Accent {n}"
+
+msgid "Accents"
+msgstr "Accente"
+
+msgid "Accept"
+msgstr "Acceptă"
+
+msgid "Accept All Changes"
+msgstr "Acceptă toate modificările"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Accept and Move to Next"
+msgstr ""
+
+msgid "Accept This Change"
+msgstr "Acceptă această modificare"
+
+msgid "Accessed on"
+msgstr "Accesat la"
+
+msgid "Accessibility Pane"
+msgstr "Panou de accesibilitate"
+
+msgid "Account"
+msgstr "Cont"
+
+msgid "Acute"
+msgstr "Accent ascuțit"
+
+msgid "Add >>"
+msgstr "Adăugați >>"
+
+msgid "Add a language"
+msgstr "Adaugă o limbă"
+
+msgid "Add a language…"
+msgstr "Adaugă o limbă…"
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Adăugare tabel"
+
+msgid "Add at least one field."
+msgstr "Adăugați cel puțin un câmp."
+
+msgid "Add Chart Element"
+msgstr "Adăugare element de grafic"
+
+msgid "Add Condition"
+msgstr "Adăugare condiție"
+
+msgid "Add Field"
+msgstr "Adăugare câmp"
+
+msgid "Add Font…"
+msgstr "Adăugare font…"
+
+msgid "Add gradient stop"
+msgstr "Adăugare punct de degrade"
+
+msgid "Add line numbering"
+msgstr "Adăugați numerotarea rândurilor"
+
+msgid "Add New Source…"
+msgstr "Adăugare sursă nouă…"
+
+msgid "Add Object to Selection"
+msgstr "Adăugare obiect la selecție"
+
+msgid "Add Pen"
+msgstr "Adăugare pix"
+
+msgid "Add Row"
+msgstr "Adăugare rând"
+
+msgid "Add Series"
+msgstr "Adăugare serie"
+
+msgid "Add Shape"
+msgstr "Adăugare formă"
+
+msgid "Add Space Before Paragraph"
+msgstr "Adăugare spațiu înainte de paragraf"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Adăugați spațiu între textul asiatic și cel latin"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Adăugați spațiu între textul asiatic și numere"
+
+msgid "Add tab stop at:"
+msgstr "Adăugați o oprire de tabulator la:"
+
+msgid "Add Text"
+msgstr "Adăugare text"
+
+msgid "Add the chapter number"
+msgstr "Adăugați numărul capitolului"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Adăugați în document"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Adăugați în bara de acces rapid"
+
+msgid "Add to Style Gallery"
+msgstr "Adăugați în galeria de stiluri"
+
+msgid "Add whether it is above or below"
+msgstr "Adăugați dacă este deasupra sau dedesubt"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Adăugare/editare\nbibliografie"
+
+msgid "Add/Edit\nCitation"
+msgstr "Adăugare/editare\ncitare"
+
+msgid "Add\nNote"
+msgstr "Adăugare\nnotă"
+
+msgid "Add\nPen"
+msgstr "Adăugare\npix"
+
+msgid "Add\nShape"
+msgstr "Adăugare\nformă"
+
+msgid "Added 1 font"
+msgstr "S-a adăugat 1 font"
+
+msgid "Added Fonts"
+msgstr "Fonturi adăugate"
+
+msgid "Added {n} fonts"
+msgstr "S-au adăugat {n} fonturi"
+
+msgid "Address"
+msgstr "Adresă"
+
+msgid "Address Block"
+msgstr "Bloc de adresă"
+
+msgid "Address labels"
+msgstr "Etichete de adresă"
+
+msgid "Address:"
+msgstr "Adresă:"
+
+msgid "Address\nBlock"
+msgstr "Bloc de\nadresă"
+
+msgid "Advanced Find"
+msgstr "Căutare avansată"
+
+msgid "Advanced Find…"
+msgstr "Căutare avansată…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgid "After:"
+msgstr "După:"
+
+msgid "Agents"
+msgstr "Agenți"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Agenții conectați la WordCraft vă pot afișa mesaje prin Asistent. Dacă le dezactivați mesajele, li se spune că preferați să nu fiți deranjat."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Ah, latina. Limba maternă a termenelor-limită."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Ah, etapa de revizuire. Preferata mea. Foarte hotărâtă."
+
+msgid "Albanian"
+msgstr "albaneză"
+
+msgid "Align Bottom Center"
+msgstr "Aliniere jos la centru"
+
+msgid "Align Bottom Left"
+msgstr "Aliniere jos la stânga"
+
+msgid "Align Bottom Right"
+msgstr "Aliniere jos la dreapta"
+
+msgid "Align Center"
+msgstr "Aliniere la centru"
+
+msgid "Align Center Left"
+msgstr "Aliniere centru la stânga"
+
+msgid "Align Center Right"
+msgstr "Aliniere centru la dreapta"
+
+msgid "Align Top Center"
+msgstr "Aliniere sus la centru"
+
+msgid "Align Top Left"
+msgstr "Aliniere sus la stânga"
+
+msgid "Align Top Right"
+msgstr "Aliniere sus la dreapta"
+
+msgid "Aligned at:"
+msgstr "Aliniat la:"
+
+msgid "All - Linear"
+msgstr "Toate - liniar"
+
+msgid "All - Professional"
+msgstr "Toate - profesional"
+
+msgid "All Borders"
+msgstr "Toate marginile"
+
+msgid "All caps"
+msgstr "Toate majusculele"
+
+msgid "All Commands"
+msgstr "Toate comenzile"
+
+msgid "All documents based on the Normal template?"
+msgstr "Toate documentele bazate pe șablonul „Normală”?"
+
+msgid "All Fonts"
+msgstr "Toate fonturile"
+
+msgid "All Levels"
+msgstr "Toate nivelurile"
+
+msgid "All Markup"
+msgstr "Tot marcajul"
+
+msgid "All pages in the range"
+msgstr "Toate paginile din interval"
+
+msgid "All symbol sets"
+msgstr "Toate seturile de simboluri"
+
+msgid "All system fonts are already available."
+msgstr "Toate fonturile de sistem sunt deja disponibile."
+
+msgid "Allow hanging punctuation"
+msgstr "Permite semnele de punctuație suspendate"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Permite ruperea textului latin în mijlocul unui cuvânt"
+
+msgid "Allow line breaks"
+msgstr "Permite întreruperi de rând"
+
+msgid "Allow row to break across pages"
+msgstr "Permite ruperea rândului între pagini"
+
+msgid "Alphabetical"
+msgstr "Alfabetic"
+
+msgid "Alt Text"
+msgstr "Text alternativ"
+
+msgid "Alt text"
+msgstr "Text alternativ"
+
+msgid "Alt Text Pane"
+msgstr "Panou text alternativ"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Text\nalternativ"
+
+msgid "an agent"
+msgstr "un agent"
+
+msgid "An installed Language pack is used after this folder."
+msgstr "Un pachet de limbă instalat este folosit după acest folder."
+
+msgid "And"
+msgstr "Și"
+
+msgid "Angle Brackets"
+msgstr "Paranteze unghiulare"
+
+msgid "Angle Brackets with Separator"
+msgstr "Paranteze unghiulare cu separator"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Paranteze unghiulare cu două separatoare"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Animează cursorul (se mișcă lin și se estompează)"
+
+msgid "Animation effects:"
+msgstr "Efecte de animație:"
+
+msgid "Annotation Reference"
+msgstr "Referință la adnotare"
+
+msgid "Annotation Subject"
+msgstr "Subiectul adnotării"
+
+msgid "Annotation Text"
+msgstr "Textul adnotării"
+
+msgid "Annoying"
+msgstr "Enervant"
+
+msgid "Another file"
+msgstr "Alt fișier"
+
+msgid "Any Character"
+msgstr "Orice caracter"
+
+msgid "Any Digit"
+msgstr "Orice cifră"
+
+msgid "Any field"
+msgstr "Orice câmp"
+
+msgid "Any Letter"
+msgstr "Orice literă"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Oricine poate deschide acest document. Criptați-l cu o parolă pentru a rămâne privat."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Oricine deschide documentul va avea nevoie de această parolă."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Aplicați pe măsură ce scrieți"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Aplicați regulile asiatice de rupere a rândurilor (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Aplicați formatarea la:"
+
+msgid "Apply Style"
+msgstr "Aplicare stil"
+
+msgid "Apply Styles"
+msgstr "Aplicare stiluri"
+
+msgid "Arabic"
+msgstr "Arabă"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr "Cifre arabe"
+
+msgid "Arch Down"
+msgstr "Arc în jos"
+
+msgid "Arch Up"
+msgstr "Arc în sus"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenian"
+msgstr "armeană"
+
+msgid "Arrange\nAll"
+msgstr "Aranjare\ntot"
+
+msgid "Article I."
+msgstr "Articolul I."
+
+msgid "Artistic Effects"
+msgstr "Efecte artistice"
+
+msgid "As Recommended"
+msgstr "Conform recomandării"
+
+msgid "As you type"
+msgstr "Pe măsură ce scrieți"
+
+msgid "ASAP"
+msgstr "ASAP"
+
+msgid "Asian text font:"
+msgstr "Font pentru textul asiatic:"
+
+msgid "Asian Typography"
+msgstr "Tipografie asiatică"
+
+msgid "Assistant"
+msgstr "Asistent"
+
+msgid "Assistant Suggestions"
+msgstr "Sugestii de la Asistent"
+
+msgid "At least"
+msgstr "Cel puțin"
+
+msgid "At least {n}"
+msgstr "Cel puțin {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Atmosferă"
+
+msgid "Attach Template"
+msgstr "Atașare șablon"
+
+msgid "Attach…"
+msgstr "Atașare…"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Auto orientation"
+msgstr "Orientare automată"
+
+msgid "AutoCorrect"
+msgstr "Corectare automată"
+
+msgid "AutoCorrect Options"
+msgstr "Opțiuni de corectare automată"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Potrivire automată"
+
+msgid "AutoFit behavior"
+msgstr "Comportament de potrivire automată"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Potrivire automată a coloanei prin dublu clic"
+
+msgid "AutoFit Contents"
+msgstr "Potrivire automată la conținut"
+
+msgid "AutoFit to contents"
+msgstr "Potrivire automată la conținut"
+
+msgid "AutoFit to window"
+msgstr "Potrivire automată la fereastră"
+
+msgid "AutoFit Window"
+msgstr "Potrivire automată la fereastră"
+
+msgid "AutoFormat As You Type"
+msgstr "Formatare automată pe măsură ce scrieți"
+
+msgid "Automatic ({language})"
+msgstr "Automat ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Automat ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Liste cu marcatori automate"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Automat urmează limba sistemului. Se schimbă meniurile și comenzile, nu documentele dvs."
+
+msgid "Automatic numbered lists"
+msgstr "Liste numerotate automate"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Tabel automat 1 (3 niveluri)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Tabel automat 2 (2 niveluri)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr "Adăugare automată a cuvintelor în listă (Prima literă)"
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr "Adăugare automată a cuvintelor în listă (DOuă MAjuscule)"
+
+msgid "Automatically hyphenate document"
+msgstr "Silabisire automată a documentului"
+
+msgid "Automatically Update Document Styles"
+msgstr "Actualizați automat stilurile documentului"
+
+msgid "Automatically update document styles"
+msgstr "Actualizați automat stilurile documentului"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Salvează automat documentele pe care le-ați salvat în WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Salvarea automată a eșuat: {error}. Salvați documentul pentru a reactiva salvarea automată."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Salvarea automată nu e disponibilă în browser: nu poate scrie în fișierele dvs. Salvarea descarcă o copie."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Salvarea automată păstrează doar fișiere .docx, .odt și .rtf; {name} nu poate păstra toată formatarea. Salvați ca .docx pentru a activa salvarea automată."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Salvarea automată scrie fiecare modificare în fișier (necesită un document salvat)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Salvarea automată scrie modificările în fișier la scurt timp după ce nu mai scrieți."
+
+msgid "AutoText"
+msgstr "Text automat"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10,12\" × 14,33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7,17\" × 10,12\""
+
+msgid "Balloons"
+msgstr "Baloane"
+
+msgid "Banded Columns"
+msgstr "Coloane alternante"
+
+msgid "Banded Rows"
+msgstr "Rânduri alternante"
+
+msgid "Base text:"
+msgstr "Text de bază:"
+
+msgid "Based on: {style}"
+msgstr "Bazat pe: {style}"
+
+msgid "Baseline Dots"
+msgstr "Puncte pe linia de bază"
+
+msgid "Basic Cycle"
+msgstr "Ciclu simplu"
+
+msgid "Basic List"
+msgstr "Listă simplă"
+
+msgid "Basic Math"
+msgstr "Matematică de bază"
+
+msgid "Basic Matrix"
+msgstr "Matrice simplă"
+
+msgid "Basic Process"
+msgstr "Proces simplu"
+
+msgid "Basic Pyramid"
+msgstr "Piramidă simplă"
+
+msgid "Basic Radial"
+msgstr "Radial simplu"
+
+msgid "Basic Venn"
+msgstr "Venn simplu"
+
+msgid "Bayes' rule"
+msgstr "Regula lui Bayes"
+
+msgid "Before:"
+msgstr "Înainte:"
+
+msgid "Beginning of Word"
+msgstr "Începutul cuvântului"
+
+msgid "Behind Text"
+msgstr "În spatele textului"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belarusian"
+msgstr "belarusă"
+
+msgid "Belgium"
+msgstr "Belgia"
+
+msgid "Below text"
+msgstr "Sub text"
+
+msgid "Below the item"
+msgstr "Dedesubtul elementului"
+
+msgid "Between"
+msgstr "Între"
+
+msgid "Bibliography"
+msgstr "Bibliografie"
+
+msgid "Binomial Coefficient"
+msgstr "Coeficient binomial"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Coeficient binomial (unghiular)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Coeficient binomial cu paranteze unghiulare"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Dezvoltarea binomială a lui (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Gol"
+
+msgid "Blank (Three Columns)"
+msgstr "Gol (trei coloane)"
+
+msgid "Blank document"
+msgstr "Document gol"
+
+msgid "Blank Page"
+msgstr "Pagină goală"
+
+msgid "Block\nAuthors"
+msgstr "Bloc de\nautori"
+
+msgid "Blue:"
+msgstr "Albastru:"
+
+msgid "Body Text"
+msgstr "Corp de text"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Text de corp într-un paragraf scurt, pentru a arăta spațierea."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Alegere curajoasă. Ctrl+Z e chiar aici, dacă aveți nevoie de el."
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Book"
+msgstr "Carte"
+
+msgid "Book Title"
+msgstr "Titlul cărții"
+
+msgid "Book title"
+msgstr "Titlul cărții"
+
+msgid "Bookmark"
+msgstr "Marcaj"
+
+msgid "Bookmark name:"
+msgstr "Nume marcaj:"
+
+msgid "Bookmark text"
+msgstr "Text marcaj"
+
+msgid "Bookmarks"
+msgstr "Semne de carte"
+
+msgid "Border lines"
+msgstr "Linii de bordură"
+
+msgid "Border Painter"
+msgstr "Pensulă pentru borduri"
+
+msgid "Border\nPainter"
+msgstr "Pensulă\npentru borduri"
+
+msgid "Borders and Shading"
+msgstr "Borduri și umbrire"
+
+msgid "Borders and Shading…"
+msgstr "Borduri și umbrire…"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia și Herțegovina"
+
+msgid "Bosnian"
+msgstr "bosniacă"
+
+msgid "Both Sides"
+msgstr "Ambele fețe"
+
+msgid "Bottom Border"
+msgstr "Bordură jos"
+
+msgid "Bottom Left Cell"
+msgstr "Celula din stânga jos"
+
+msgid "Bottom Margin"
+msgstr "Margine jos"
+
+msgid "Bottom of Page"
+msgstr "Josul paginii"
+
+msgid "Bottom Right Cell"
+msgstr "Celula din dreapta jos"
+
+msgid "Box"
+msgstr "Casetă"
+
+msgid "Boxed Formula"
+msgstr "Formulă încadrată"
+
+msgid "Boxed Formula (example)"
+msgstr "Formulă încadrată (exemplu)"
+
+msgid "Boxed Formulas"
+msgstr "Formule încadrate"
+
+msgid "Braces"
+msgstr "Acolade"
+
+msgid "Braces with Separator"
+msgstr "Acolade cu separator"
+
+msgid "Bracket"
+msgstr "Paranteză"
+
+msgid "Brackets"
+msgstr "Paranteze"
+
+msgid "Brackets with Separators"
+msgstr "Paranteze cu separatoare"
+
+msgid "Brazil"
+msgstr "Brazilia"
+
+msgid "Breaks"
+msgstr "Întreruperi"
+
+msgid "Breve"
+msgstr "Breve"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr "Mai luminos +20%"
+
+msgid "Brightness, contrast and sharpness"
+msgstr "Luminozitate, contrast și claritate"
+
+msgid "Browse in WordCraft…"
+msgstr "Răsfoire în WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Control de conținut pentru galeria de blocuri de construcție"
+
+msgid "Built in"
+msgstr "Încorporat"
+
+msgid "Built-In"
+msgstr "Încorporat"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Stil încorporat"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Stilurile încorporate nu pot fi șterse."
+
+msgid "Bulgarian"
+msgstr "bulgară"
+
+msgid "Bullet Library"
+msgstr "Bibliotecă de marcatori"
+
+msgid "Bullets"
+msgstr "Marcatori"
+
+msgid "By author"
+msgstr "După autor"
+
+msgid "Cabo Verde"
+msgstr "Capul Verde"
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "Can't be deleted"
+msgstr "Nu poate fi șters"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Nu găsiți o comandă? Apăsați {key} și tastați ce doriți să faceți."
+
+msgid "can't split at the first row"
+msgstr "nu se poate împărți la primul rând"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canvas Member"
+msgstr "Membru al canvasului"
+
+msgid "Capitalize Each Word"
+msgstr "Fiecare cuvânt cu majusculă"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Prima literă a propozițiilor cu majusculă"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Prima literă a celulelor din tabel cu majusculă"
+
+msgid "Capitalize names of days"
+msgstr "Numele zilelor cu majusculă"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Primul cuvânt al unei propoziții cu majusculă"
+
+msgid "Caption Numbering"
+msgstr "Numerotarea legendelor"
+
+msgid "Caption text"
+msgstr "Text legendă"
+
+msgid "Caption:"
+msgstr "Legendă:"
+
+msgid "Captions"
+msgstr "Legende"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Atenție, încă un pas înapoi și anulăm inventarea hârtiei."
+
+msgid "Caret Character"
+msgstr "Caracterul accent circumflex (^)"
+
+msgid "Case changes"
+msgstr "Schimbări de majuscule"
+
+msgid "Cases (Three Conditions)"
+msgstr "Cazuri (trei condiții)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Cazuri (două condiții)"
+
+msgid "Cases and Stacks"
+msgstr "Cazuri și stive"
+
+msgid "Catalan"
+msgstr "catalană"
+
+msgid "Catalan (Valencian)"
+msgstr "catalană (valenciană)"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Categories:"
+msgstr "Categorii:"
+
+msgid "Category {n}"
+msgstr "Categoria {n}"
+
+msgid "Ceiling"
+msgstr "Plafon"
+
+msgid "Cell"
+msgstr "Celulă"
+
+msgid "Cell Margins"
+msgstr "Margini celulă"
+
+msgid "Cell\nMargins"
+msgstr "Margini\ncelulă"
+
+msgid "Center Glow"
+msgstr "Strălucire centrală"
+
+msgid "Centered as Group"
+msgstr "Centrat ca grup"
+
+msgid "Change Chart Type"
+msgstr "Schimbare tip grafic"
+
+msgid "Change Colors"
+msgstr "Schimbare culori"
+
+msgid "Change in y over change in x"
+msgstr "Variația lui y raportată la variația lui x"
+
+msgid "Change Layout"
+msgstr "Schimbare aspect"
+
+msgid "Change List Level"
+msgstr "Schimbare nivel listă"
+
+msgid "Change Password…"
+msgstr "Schimbare parolă…"
+
+msgid "Change Picture"
+msgstr "Schimbare imagine"
+
+msgid "Change Picture…"
+msgstr "Schimbare imagine…"
+
+msgid "Change Shape"
+msgstr "Schimbare formă"
+
+msgid "Change Structure"
+msgstr "Schimbare structură"
+
+msgid "Change to Display"
+msgstr "Schimbare în afișare"
+
+msgid "Change to Inline"
+msgstr "Schimbare în inline"
+
+msgid "Change to Level 1"
+msgstr "Schimbare la nivelul 1"
+
+msgid "Change to Level 2"
+msgstr "Schimbare la nivelul 2"
+
+msgid "Change to Level 3"
+msgstr "Schimbare la nivelul 3"
+
+msgid "Change to Level 4"
+msgstr "Schimbare la nivelul 4"
+
+msgid "Change to Level 5"
+msgstr "Schimbare la nivelul 5"
+
+msgid "Change to Level 6"
+msgstr "Schimbare la nivelul 6"
+
+msgid "Change to Level 7"
+msgstr "Schimbare la nivelul 7"
+
+msgid "Change to Level 8"
+msgstr "Schimbare la nivelul 8"
+
+msgid "Change to Level 9"
+msgstr "Schimbare la nivelul 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Schimbare\ntip grafic"
+
+msgid "Change\nColors"
+msgstr "Schimbare\nculori"
+
+msgid "Changed lines:"
+msgstr "Rânduri modificate:"
+
+msgid "Changes"
+msgstr "Modificări"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Capitolul 1"
+
+msgid "Chapter in a book"
+msgstr "Capitol dintr-o carte"
+
+msgid "Chapters begin at:"
+msgstr "Capitolele încep la:"
+
+msgid "Character Border"
+msgstr "Bordură caracter"
+
+msgid "Character code:"
+msgstr "Cod caracter:"
+
+msgid "Character in Range"
+msgstr "Caracter din interval"
+
+msgid "Character level"
+msgstr "Nivel caracter"
+
+msgid "Character Position"
+msgstr "Poziție caracter"
+
+msgid "Character Scale"
+msgstr "Scară caracter"
+
+msgid "Character Shading"
+msgstr "Umbrire caracter"
+
+msgid "Character Spacing"
+msgstr "Spațiere caractere"
+
+msgid "Character spacing"
+msgstr "Spațiere caractere"
+
+msgid "Character style"
+msgstr "Stil de caracter"
+
+msgid "Characters (no spaces)"
+msgstr "Caractere (fără spații)"
+
+msgid "Characters (with spaces)"
+msgstr "Caractere (cu spații)"
+
+msgid "Characters per line:"
+msgstr "Caractere pe rând:"
+
+msgid "Chart"
+msgstr "Grafic"
+
+msgid "Chart Design"
+msgstr "Design grafic"
+
+msgid "Chart Layouts"
+msgstr "Aspecte grafic"
+
+msgid "Chart Title"
+msgstr "Titlu grafic"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "diagramele și graficele nu pot fi încă mutate sau redimensionate"
+
+msgid "Check"
+msgstr "Bifă"
+
+msgid "Check Accessibility"
+msgstr "Verificare accesibilitate"
+
+msgid "Check Box Content Control"
+msgstr "Control de conținut casetă de selectare"
+
+msgid "Check Compatibility"
+msgstr "Verificare compatibilitate"
+
+msgid "Check for Errors"
+msgstr "Căutare erori"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Verificare ortografie pe măsură ce scrieți"
+
+msgid "Check spelling as you type"
+msgstr "Verificați ortografia pe măsură ce scrieți"
+
+msgid "Check\nAccessibility"
+msgstr "Verificare\naccesibilitate"
+
+msgid "Checked styles are allowed:"
+msgstr "Stilurile bifate sunt permise:"
+
+msgid "Checked symbol"
+msgstr "Simbol bifat"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Chevron în jos"
+
+msgid "Chevron Up"
+msgstr "Chevron în sus"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "China"
+
+msgid "Chinese (Simplified)"
+msgstr "Chineză (simplificată)"
+
+msgid "Chinese (Traditional)"
+msgstr "Chineză (tradițională)"
+
+msgid "Choose a command"
+msgstr "Alegeți o comandă"
+
+msgid "Choose a shortcut"
+msgstr "Alegeți o scurtătură"
+
+msgid "Choose List Item"
+msgstr "Alegere element din listă"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Alegeți foaia care conține destinatarii."
+
+msgid "Circle area from its radius"
+msgstr "Aria cercului din rază"
+
+msgid "Circled Dot"
+msgstr "Punct încercuit"
+
+msgid "Circled Plus"
+msgstr "Plus încercuit"
+
+msgid "Circled Times"
+msgstr "Ori încercuit"
+
+msgid "Citation Style"
+msgstr "Stil de citare"
+
+msgid "Citations"
+msgstr "Citări"
+
+msgid "Citations & Bibliography"
+msgstr "Citări și bibliografie"
+
+msgid "Clear All Formatting"
+msgstr "Ștergere toată formatarea"
+
+msgid "Clear Character Formatting"
+msgstr "Ștergere formatare caractere"
+
+msgid "Clear Character Style"
+msgstr "Ștergere stil de caracter"
+
+msgid "Clear Formatting Level"
+msgstr "Ștergere nivel de formatare"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Ștergere formatare paragraf"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Faceți clic pe bordura dintre două celule pentru a le îmbina. Esc oprește."
+
+msgid "Click an item to paste it."
+msgstr "Faceți clic pe un element pentru a-l lipi."
+
+msgid "Click level to modify:"
+msgstr "Faceți clic pe nivelul de modificat:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Faceți clic în caseta de text goală în care să continue textul (Esc anulează)"
+
+msgid "Click to switch back to inserting"
+msgstr "Faceți clic pentru a reveni la inserare"
+
+msgid "Clipboard Contents"
+msgstr "Conținutul clipboardului"
+
+msgid "Clipboard Items"
+msgstr "Elementele clipboardului"
+
+msgid "Clipboard Pane"
+msgstr "Panou clipboard"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Închidere ecuație"
+
+msgid "Close Header and Footer"
+msgstr "Închidere antet și subsol"
+
+msgid "Close Outline View"
+msgstr "Închidere vizualizare structură"
+
+msgid "Close Outline\nView"
+msgstr "Închidere\nvizualizare structură"
+
+msgid "Clustered Bar"
+msgstr "Bare grupate"
+
+msgid "Clustered Column"
+msgstr "Coloane grupate"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Nr. col.:"
+
+msgid "Collapse Selection"
+msgstr "Restrângere selecție"
+
+msgid "Collate copies"
+msgstr "Colaționare copii"
+
+msgid "Collect entries from:"
+msgstr "Colectează intrări din:"
+
+msgid "Colombia"
+msgstr "Columbia"
+
+msgid "Colon Equal"
+msgstr "Două puncte egal"
+
+msgid "Color model:"
+msgstr "Model de culoare:"
+
+msgid "Color only"
+msgstr "Doar culoare"
+
+msgid "Color: {color}"
+msgstr "Culoare: {color}"
+
+msgid "Colorful"
+msgstr "Colorat"
+
+msgid "Column"
+msgstr "Coloană"
+
+msgid "Column Break"
+msgstr "Salt la coloană nouă"
+
+msgid "Column Selection"
+msgstr "Selecție coloană"
+
+msgid "Column {n}"
+msgstr "Coloana {n}"
+
+msgid "Column:"
+msgstr "Coloană:"
+
+msgid "Combine Documents"
+msgstr "Combinare documente"
+
+msgid "Combo Box Content Control"
+msgstr "Control de conținut casetă combinată"
+
+msgid "Commands"
+msgstr "Comenzi"
+
+msgid "Commas"
+msgstr "Virgule"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Comentarii lângă fiecare pagină și modificări urmărite în PDF-uri, la imprimare și în imagini; o listă de comentarii la sfârșitul paginilor web, al fișierelor Markdown și al textelor."
+
+msgid "Comments Pane"
+msgstr "Panou comentarii"
+
+msgid "Common Accent Objects"
+msgstr "Obiecte cu accent uzuale"
+
+msgid "Common Brackets"
+msgstr "Paranteze uzuale"
+
+msgid "Common Fractions"
+msgstr "Fracții uzuale"
+
+msgid "Common Functions"
+msgstr "Funcții uzuale"
+
+msgid "Common Large Operators"
+msgstr "Operatori mari uzuali"
+
+msgid "Common Operator Structures"
+msgstr "Structuri de operatori uzuale"
+
+msgid "Common Operators"
+msgstr "Operatori uzuali"
+
+msgid "Common Radicals"
+msgstr "Radicali uzuali"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Indici și exponenți uzuali"
+
+msgid "Communication"
+msgstr "Comunicare"
+
+msgid "Community\nDiscord"
+msgstr "Comunitate\nDiscord"
+
+msgid "Compact"
+msgstr "Compact"
+
+msgid "Compare Documents"
+msgstr "Comparare documente"
+
+msgid "Compare to"
+msgstr "Compară cu"
+
+msgid "Compared: {changes} changes"
+msgstr "Comparat: {changes} modificări"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Compararea cu un alt fișier necesită aplicația desktop."
+
+msgid "Comparison settings"
+msgstr "Setări de comparare"
+
+msgid "Compress Pictures"
+msgstr "Comprimare imagini"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Comprimați punctuația de la începutul rândului"
+
+msgid "Conference"
+msgstr "Conferință"
+
+msgid "Conference paper"
+msgstr "Lucrare de conferință"
+
+msgid "CONFIDENTIAL"
+msgstr "CONFIDENȚIAL"
+
+msgid "Confirm password:"
+msgstr "Confirmă parola:"
+
+msgid "Connect Shapes"
+msgstr "Conectare forme"
+
+msgid "Container Title"
+msgstr "Titlul containerului"
+
+msgid "Content Control at Selection"
+msgstr "Control de conținut la selecție"
+
+msgid "Content Control Properties"
+msgstr "Proprietăți control de conținut"
+
+msgid "Contents can't be edited"
+msgstr "Conținutul nu poate fi editat"
+
+msgid "Context"
+msgstr "Context"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr "Contextuale"
+
+msgid "Continue from previous section"
+msgstr "Continuare din secțiunea anterioară"
+
+msgid "Continue without restoring"
+msgstr "Continuare fără restaurare"
+
+msgid "Continuous"
+msgstr "Continuu"
+
+msgid "Continuous numbering"
+msgstr "Numerotare continuă"
+
+msgid "Contour Integral"
+msgstr "Integrală pe contur"
+
+msgid "Contour Integral with Limits"
+msgstr "Integrală pe contur cu limite"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Integrală pe contur cu limite suprapuse"
+
+msgid "Contour Integrals"
+msgstr "Integrale pe contur"
+
+msgid "Controls"
+msgstr "Controale"
+
+msgid "Conversions"
+msgstr "Conversii"
+
+msgid "Convert between built-up and linear form"
+msgstr "Conversie între forma dezvoltată și cea liniară"
+
+msgid "Convert Notes"
+msgstr "Conversie note"
+
+msgid "Convert Text to Table"
+msgstr "Conversie text în tabel"
+
+msgid "Convert Text to Table…"
+msgstr "Conversie text în tabel…"
+
+msgid "Convert to Shapes"
+msgstr "Conversie în forme"
+
+msgid "Convert to Text"
+msgstr "Conversie în text"
+
+msgid "Coproduct"
+msgstr "Coprodus"
+
+msgid "Coproduct with Limits"
+msgstr "Coprodus cu limite"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Coprodus cu limită inferioară"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Coprodus cu limite în indice și exponent"
+
+msgid "Copy Formatting"
+msgstr "Copiere formatare"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Copie a textului marcat de un marcaj"
+
+msgid "Copy Styles"
+msgstr "Copiere stiluri"
+
+msgid "Copy to"
+msgstr "Copiază în"
+
+msgid "Copyright Sign"
+msgstr "Semnul drepturilor de autor"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Corectează folosirea accidentală a tastei cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Corectează DOuă MAjuscule inițiale"
+
+msgid "Corrections"
+msgstr "Corecturi"
+
+msgid "Cosecant Function"
+msgstr "Funcția cosecantă"
+
+msgid "Cosine 2x"
+msgstr "Cosinus 2x"
+
+msgid "Cosine Function"
+msgstr "Funcția cosinus"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cotangent Function"
+msgstr "Funcția cotangentă"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Nu s-a putut descărca {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Nu s-a putut seta WordCraft ca implicit: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Nu s-a putut deschide {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr "{name} nu a putut fi salvat, așa că este încă deschis și nu s-a pierdut nimic: {error}"
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Numărare după:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Numără cuvintele din casetele de text și din note"
+
+msgid "Courtesy Title"
+msgstr "Titlu de politețe"
+
+msgid "Cover Page"
+msgstr "Pagină de titlu"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Creare stil"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Creează o structură interactivă a documentului.\n\nEste o metodă bună de a vedea unde vă aflați sau de a muta rapid conținutul.\n\nPentru a începe, mergeți la fila Pornire și aplicați stiluri de titlu titlurilor din document."
+
+msgid "Create Graphic"
+msgstr "Creare grafică"
+
+msgid "Create Link"
+msgstr "Creare link"
+
+msgid "Create New Style"
+msgstr "Creare stil nou"
+
+msgid "Create Source"
+msgstr "Creare sursă"
+
+msgid "Croatian"
+msgstr "Croată"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr "Decuparea pe pagină funcționează la imaginile nerotite: setați mai întâi rotația la 0° sau folosiți casetele de decupare"
+
+msgid "Cross-reference"
+msgstr "Referință încrucișată"
+
+msgid "Cross-reference:"
+msgstr "Referință încrucișată:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cube Root"
+msgstr "Rădăcină cubică"
+
+msgid "Current - Linear"
+msgstr "Curent - liniar"
+
+msgid "Current - Professional"
+msgstr "Curent - profesional"
+
+msgid "Current Document"
+msgstr "Documentul curent"
+
+msgid "Current Position"
+msgstr "Poziția curentă"
+
+msgid "Current record"
+msgstr "Înregistrarea curentă"
+
+msgid "Current style: {style}"
+msgstr "Stil curent: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Conector săgeată curbat"
+
+msgid "Curved Connector"
+msgstr "Conector curbat"
+
+msgid "Custom dictionary"
+msgstr "Dicționar personalizat"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Margini personalizate…"
+
+msgid "Custom mark:"
+msgstr "Marcaj personalizat:"
+
+msgid "Custom range"
+msgstr "Interval personalizat"
+
+msgid "Custom size"
+msgstr "Dimensiune personalizată"
+
+msgid "Custom Table of Contents…"
+msgstr "Cuprins personalizat…"
+
+msgid "Custom Watermark"
+msgstr "Filigran personalizat"
+
+msgid "Custom Watermark…"
+msgstr "Filigran personalizat…"
+
+msgid "Customize"
+msgstr "Personalizare"
+
+msgid "Customize Keyboard"
+msgstr "Personalizare tastatură"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Personalizare bară de acces rapid"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Personalizare bară de acces rapid…"
+
+msgid "Customize Ribbon"
+msgstr "Personalizare panglică"
+
+msgid "Customize the Ribbon…"
+msgstr "Personalizare panglică…"
+
+msgid "Cycle"
+msgstr "Ciclu"
+
+msgid "Cyprus"
+msgstr "Cipru"
+
+msgid "Czech"
+msgstr "Cehă"
+
+msgid "Danish"
+msgstr "Daneză"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Mod întunecat"
+
+msgid "Dark page (white text on black)"
+msgstr "Pagină întunecată (text alb pe negru)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Variante întunecate"
+
+msgid "Dark with Shadow"
+msgstr "Întunecat cu umbră"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr "Mai întunecat −20%"
+
+msgid "Darkroom"
+msgstr "Cameră obscură"
+
+msgid "Data Labels"
+msgstr "Etichete de date"
+
+msgid "Date & Time"
+msgstr "Data și ora"
+
+msgid "Date formats:"
+msgstr "Formate de dată:"
+
+msgid "Date Picker Content Control"
+msgstr "Control de conținut selector de dată"
+
+msgid "Day"
+msgstr "Zi"
+
+msgid "Decimal"
+msgstr "Zecimal"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Obiectele decorative adaugă doar interes vizual: cititoarele de ecran le omit."
+
+msgid "Decorative Text"
+msgstr "Text decorativ"
+
+msgid "Decorative Text Styles"
+msgstr "Stiluri de text decorativ"
+
+msgid "Decrease Indent"
+msgstr "Micșorare indent"
+
+msgid "Deep"
+msgstr "Adânc"
+
+msgid "Default formatting"
+msgstr "Formatare implicită"
+
+msgid "Default Paragraph Font"
+msgstr "Font implicit pentru paragraf"
+
+msgid "Default tab stops:"
+msgstr "Opriri de tabulator implicite:"
+
+msgid "Define New Bullet"
+msgstr "Definire marcator nou"
+
+msgid "Define New Multilevel List"
+msgstr "Definire listă pe mai multe niveluri nouă"
+
+msgid "Define New Multilevel List…"
+msgstr "Definire listă pe mai multe niveluri nouă…"
+
+msgid "Define New Number Format"
+msgstr "Definire format de numerotare nou"
+
+msgid "Deflate"
+msgstr "Deflate"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Ștergere în jurul cursorului în ecuație"
+
+msgid "Delete Back in Equation"
+msgstr "Ștergere înapoi în ecuație"
+
+msgid "Delete Bookmark"
+msgstr "Ștergere marcaj"
+
+msgid "Delete Cells"
+msgstr "Ștergere celule"
+
+msgid "Delete Clipboard Item"
+msgstr "Ștergere element din clipboard"
+
+msgid "Delete Columns"
+msgstr "Ștergere coloane"
+
+msgid "Delete Comment"
+msgstr "Ștergere comentariu"
+
+msgid "Delete in Equation"
+msgstr "Ștergere în ecuație"
+
+msgid "Delete Label"
+msgstr "Ștergere etichetă"
+
+msgid "Delete Next Word"
+msgstr "Ștergere cuvânt următor"
+
+msgid "Delete Previous Word"
+msgstr "Ștergere cuvânt anterior"
+
+msgid "Delete Rows"
+msgstr "Ștergere rânduri"
+
+msgid "Delete Selected Ink"
+msgstr "Ștergere cerneală selectată"
+
+msgid "Delete Table"
+msgstr "Ștergere tabel"
+
+msgid "Delete Table Style"
+msgstr "Ștergere stil de tabel"
+
+msgid "Deletions:"
+msgstr "Ștergeri:"
+
+msgid "Delivery address:"
+msgstr "Adresa de livrare:"
+
+msgid "Delta Equal To"
+msgstr "Delta egal cu"
+
+msgid "Delta over arrow"
+msgstr "Delta peste săgeată"
+
+msgid "Demote"
+msgstr "Retrogradare"
+
+msgid "Demote to Body Text"
+msgstr "Retrogradare la corp de text"
+
+msgid "Derivative as a limit"
+msgstr "Derivata ca limită"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Descrie ce arată acest obiect, pentru persoanele care nu îl pot vedea."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Descrie ce arată acest tabel, pentru persoanele care nu îl pot vedea."
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Design Mode"
+msgstr "Mod proiectare"
+
+msgid "Detach Template"
+msgstr "Detașare șablon"
+
+msgid "Detect language automatically"
+msgstr "Detectează automat limba"
+
+msgid "Developer"
+msgstr "Dezvoltator"
+
+msgid "development build"
+msgstr "versiune de dezvoltare"
+
+msgid "Diagonal Dots"
+msgstr "Puncte diagonale"
+
+msgid "Diagram"
+msgstr "Diagramă"
+
+msgid "Diagram Design"
+msgstr "Proiectare diagramă"
+
+msgid "Diagram Styles"
+msgstr "Stiluri de diagramă"
+
+msgid "Dictate"
+msgstr "Dictare"
+
+msgid "Dictionaries"
+msgstr "Dicționare"
+
+msgid "Dictionaries folder:"
+msgstr "Folderul dicționarelor:"
+
+msgid "Dictionary files"
+msgstr "Fișiere de dicționar"
+
+msgid "Different First Page"
+msgstr "Prima pagină diferită"
+
+msgid "Different Odd & Even Pages"
+msgstr "Pagini pare și impare diferite"
+
+msgid "Differential"
+msgstr "Diferențială"
+
+msgid "Differential theta"
+msgstr "Diferențiala lui theta"
+
+msgid "Differential x"
+msgstr "Diferențiala lui x"
+
+msgid "Differential y"
+msgstr "Diferențiala lui y"
+
+msgid "Differentials"
+msgstr "Diferențiale"
+
+msgid "Direct formatting"
+msgstr "Formatare directă"
+
+msgid "Directory"
+msgstr "Director"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr "Renunțați la copia de recuperare a {name}?"
+
+msgid "Discard…"
+msgstr "Renunțare…"
+
+msgid "Discord community"
+msgstr "Comunitatea Discord"
+
+msgid "Display for Review"
+msgstr "Afișare pentru revizuire"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Text afișat"
+
+msgid "Distance from text"
+msgstr "Distanța față de text"
+
+msgid "Distance from text:"
+msgstr "Distanța față de text:"
+
+msgid "Distribute Columns"
+msgstr "Distribuire coloane"
+
+msgid "Distribute letters"
+msgstr "Distribuire litere"
+
+msgid "Distribute Rows"
+msgstr "Distribuire rânduri"
+
+msgid "Distribute spacing"
+msgstr "Distribuire spațiere"
+
+msgid "Distributed"
+msgstr "Distribuit"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Nu verifica ortografia și gramatica"
+
+msgid "Do not check spelling or grammar"
+msgstr "Nu verifica ortografia și gramatica"
+
+msgid "DO NOT COPY"
+msgstr "NU COPIA"
+
+msgid "Do Not Show in TOC"
+msgstr "Nu afișa în cuprins"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Vrei să salvezi modificările din {name}?"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Sfârșitul documentului"
+
+msgid "Document Formatting"
+msgstr "Formatarea documentului"
+
+msgid "Document Grid"
+msgstr "Grila documentului"
+
+msgid "Document Information"
+msgstr "Informații document"
+
+msgid "Document name"
+msgstr "Numele documentului"
+
+msgid "Document Property"
+msgstr "Proprietate document"
+
+msgid "Document Start"
+msgstr "Începutul documentului"
+
+msgid "Document template:"
+msgstr "Șablonul documentului:"
+
+msgid "Document Text"
+msgstr "Textul documentului"
+
+msgid "Document1"
+msgstr "Document1"
+
+msgid "Document\nPreferences"
+msgstr "Preferințe\ndocument"
+
+msgid "Documents you open will show up here."
+msgstr "Documentele pe care le deschizi vor apărea aici."
+
+msgid "Does not contain"
+msgstr "Nu conține"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr "Republica Dominicană"
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Nu adăuga spațiu între paragrafele cu același stil"
+
+msgid "Don't capitalize after:"
+msgstr "Nu folosi majusculă după:"
+
+msgid "Don't hyphenate"
+msgstr "Nu silabisi"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Nu citi citările și bibliografiile Zotero, Mendeley sau EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Nu mai afișa acest sfat"
+
+msgid "Dot dash"
+msgstr "Punct-linie"
+
+msgid "Dot-dash"
+msgstr "Punct-linie"
+
+msgid "Dot-dot-dash"
+msgstr "Punct-punct-linie"
+
+msgid "Double"
+msgstr "Dublu"
+
+msgid "Double Bar"
+msgstr "Bară dublă"
+
+msgid "Double Closing Quote"
+msgstr "Ghilimele duble de închidere"
+
+msgid "Double Dot"
+msgstr "Punct dublu"
+
+msgid "Double Integral"
+msgstr "Integrală dublă"
+
+msgid "Double Integral with Limits"
+msgstr "Integrală dublă cu limite"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Integrală dublă cu limite suprapuse"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Săgeată dublă spre stânga cu text deasupra"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Săgeată dublă spre stânga cu text dedesubt"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Săgeată dublă stânga-dreapta cu text deasupra"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Săgeată dublă stânga-dreapta cu text dedesubt"
+
+msgid "Double Opening Quote"
+msgstr "Ghilimele duble de deschidere"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Săgeată dublă spre dreapta cu text deasupra"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Săgeată dublă spre dreapta cu text dedesubt"
+
+msgid "Double Spacing"
+msgstr "Spațiere dublă"
+
+msgid "Double Square Brackets"
+msgstr "Paranteze drepte duble"
+
+msgid "Double Strikethrough"
+msgstr "Tăiere dublă"
+
+msgid "Double strikethrough"
+msgstr "Tăiere dublă"
+
+msgid "Double summation"
+msgstr "Sumă dublă"
+
+msgid "Double Underline"
+msgstr "Subliniere dublă"
+
+msgid "Double Vertical Bars"
+msgstr "Bare verticale duble"
+
+msgid "Doughnut"
+msgstr "Inel"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr "Descărcarea este dezactivată. Un clic pe „Adaugă o limbă…” sau „Instalează” o activează: WordCraft descarcă apoi pachete de limbă și fonturi de pe GitHub."
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "CIORNĂ"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Trageți un dreptunghi pentru a desena un tabel sau o linie peste celule pentru a le împărți. Esc oprește."
+
+msgid "Draw Ink"
+msgstr "Desenare cu cerneală"
+
+msgid "Draw Table"
+msgstr "Desenare tabel"
+
+msgid "Draw\nTable"
+msgstr "Desenare\ntabel"
+
+msgid "Drawing Canvas"
+msgstr "Canvas de desen"
+
+msgid "Drawing Tools"
+msgstr "Instrumente de desen"
+
+msgid "Drawing\nCanvas"
+msgstr "Canvas\nde desen"
+
+msgid "Drop Cap"
+msgstr "Inițială mare"
+
+msgid "Drop cap"
+msgstr "Inițială mare"
+
+msgid "Drop Cap Options…"
+msgstr "Opțiuni inițială mare…"
+
+msgid "drop caps can't go in a table"
+msgstr "o inițială decorativă nu poate intra într-un tabel"
+
+msgid "Drop-Down List Content Control"
+msgstr "Control de conținut listă verticală"
+
+msgid "Dropped"
+msgstr "Coborâtă"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Elimină toată formatarea și lipește text simplu."
+
+msgid "Dutch, Nederlands or nl"
+msgstr "Olandeză, Nederlands sau nl"
+
+msgid "E-mail Messages"
+msgstr "Mesaje e-mail"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Edit Comment"
+msgstr "Editare comentariu"
+
+msgid "Edit Data"
+msgstr "Editare date"
+
+msgid "Edit Document"
+msgstr "Editare document"
+
+msgid "Edit Equation"
+msgstr "Editare ecuație"
+
+msgid "Edit Field Code"
+msgstr "Editare cod de câmp"
+
+msgid "Edit Field…"
+msgstr "Editare câmp…"
+
+msgid "Edit Footer"
+msgstr "Editare subsol"
+
+msgid "Edit Header"
+msgstr "Editare antet"
+
+msgid "Edit Individual Documents…"
+msgstr "Editare documente individuale…"
+
+msgid "Edit Items"
+msgstr "Editare elemente"
+
+msgid "Edit Recipient List"
+msgstr "Editare listă de destinatari"
+
+msgid "Edit Source"
+msgstr "Editare sursă"
+
+msgid "Edit\nData"
+msgstr "Editare\ndate"
+
+msgid "Edit\nRecipient List"
+msgstr "Editare\nlistă de destinatari"
+
+msgid "Edited"
+msgstr "Editat"
+
+msgid "Editing endnote"
+msgstr "Editare notă de final"
+
+msgid "Editing footnote"
+msgstr "Editare notă de subsol"
+
+msgid "Editing header/footer"
+msgstr "Se editează antetul/subsolul"
+
+msgid "Editing in this document is restricted."
+msgstr "Editarea în acest document este restricționată."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr "Editarea este blocată în modul Vizualizare."
+
+msgid "Editing — edit the document directly"
+msgstr "Editare - editezi direct documentul"
+
+msgid "Edition"
+msgstr "Ediție"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Egypt"
+msgstr "Egipt"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Elbow Arrow Connector"
+msgstr "Conector săgeată în unghi"
+
+msgid "Elbow Connector"
+msgstr "Conector în unghi"
+
+msgid "Emphasis"
+msgstr "Accentuare"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Matrice goale"
+
+msgid "Enclose Characters"
+msgstr "Încadrare caractere"
+
+msgid "Enclosure"
+msgstr "Anexă"
+
+msgid "Encrypt with Password"
+msgstr "Criptare cu parolă"
+
+msgid "Encrypt with Password…"
+msgstr "Criptare cu parolă…"
+
+msgid "End of document"
+msgstr "Sfârșitul documentului"
+
+msgid "End of section"
+msgstr "Sfârșitul secțiunii"
+
+msgid "End of Word"
+msgstr "Sfârșitul cuvântului"
+
+msgid "Endnote Reference"
+msgstr "Referință la nota de final"
+
+msgid "Endnote Text"
+msgstr "Textul notei de final"
+
+msgid "Endnotes"
+msgstr "Note de final"
+
+msgid "Endnotes to footnotes"
+msgstr "Note de final în note de subsol"
+
+msgid "English (Australia)"
+msgstr "Engleză (Australia)"
+
+msgid "English (Canada)"
+msgstr "Engleză (Canada)"
+
+msgid "English (India)"
+msgstr "Engleză (India)"
+
+msgid "English (Ireland)"
+msgstr "Engleză (Irlanda)"
+
+msgid "English (New Zealand)"
+msgstr "Engleză (Noua Zeelandă)"
+
+msgid "English (South Africa)"
+msgstr "Engleză (Africa de Sud)"
+
+msgid "English (United Kingdom)"
+msgstr "Engleză (Regatul Unit)"
+
+msgid "English (United States)"
+msgstr "Engleză (Statele Unite)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr "Engleza, limbile acestui document și fiecare pachet de limbă instalat. Pachetele de limbă adaugă dicționare ortografice și silabisire."
+
+msgid "Engrave"
+msgstr "Gravură"
+
+msgid "Enlarge symbol"
+msgstr "Mărire simbol"
+
+msgid "Enter a number."
+msgstr "Introduceți un număr."
+
+msgid "Enter bookmark name:"
+msgstr "Introduceți numele marcajului:"
+
+msgid "Enter formatting for number:"
+msgstr "Introduceți formatarea pentru număr:"
+
+msgid "Enter in Equation"
+msgstr "Enter în ecuație"
+
+msgid "Enter page number:"
+msgstr "Introduceți numărul paginii:"
+
+msgid "Entire caption"
+msgstr "Întreaga legendă"
+
+msgid "Entry marked."
+msgstr "Intrare marcată."
+
+msgid "Envelope #10"
+msgstr "Plic nr. 10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "Plic nr. 10   4,12\" × 9,50\""
+
+msgid "Envelope Address"
+msgstr "Adresa de pe plic"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "Plic DL   4,33\" × 8,66\""
+
+msgid "Envelope Return"
+msgstr "Adresa expeditorului"
+
+msgid "Envelope size:"
+msgstr "Dimensiune plic:"
+
+msgid "Envelopes"
+msgstr "Plicuri"
+
+msgid "Equal by Definition"
+msgstr "Egal prin definiție"
+
+msgid "Equal column width"
+msgstr "Lățime egală a coloanelor"
+
+msgid "Equal Equal"
+msgstr "Egal egal"
+
+msgid "Equal to"
+msgstr "Egal cu"
+
+msgid "Equals:"
+msgstr "Egal:"
+
+msgid "Equation"
+msgstr "Ecuație"
+
+msgid "Equation Gallery"
+msgstr "Galerie de ecuații"
+
+msgid "Equation Info"
+msgstr "Informații ecuație"
+
+msgid "Equation Number"
+msgstr "Număr ecuație"
+
+msgid "Equation Options"
+msgstr "Opțiuni ecuație"
+
+msgid "Equatorial Guinea"
+msgstr "Guineea Ecuatorială"
+
+msgid "Erase Ink"
+msgstr "Ștergere cerneală"
+
+msgid "Errors ({n})"
+msgstr "Erori ({n})"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Estonian"
+msgstr "Estonă"
+
+msgid "Euler's identity"
+msgstr "Identitatea lui Euler"
+
+msgid "Even Banded Columns"
+msgstr "Coloane alternante pare"
+
+msgid "Even Banded Rows"
+msgstr "Rânduri alternante pare"
+
+msgid "Even Page"
+msgstr "Pagină pară"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Fiecare modificare este înregistrată ca modificare urmărită."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Fiecare comandă este disponibilă pentru scripturi și agenți AI: rulează `wordcraft-cli mcp` pentru un server MCP sau pornește aplicația cu `--control <port>` pentru canalul de control JSON."
+
+msgid "Every field needs a name."
+msgstr "Fiecare câmp are nevoie de un nume."
+
+msgid "Everyone"
+msgstr "Toată lumea"
+
+msgid "Exactly"
+msgstr "Exact"
+
+msgid "Exactly {n}"
+msgstr "Exact {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Excepții (opțional)"
+
+msgid "Exceptions…"
+msgstr "Excepții…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7,25\" × 10,50\""
+
+msgid "Existing File or Web Page"
+msgstr "Fișier existent sau pagină web"
+
+msgid "Expand or Collapse Heading"
+msgstr "Extindere sau restrângere titlu"
+
+msgid "Exponential"
+msgstr "Exponențială"
+
+msgid "Exponential series"
+msgstr "Serie exponențială"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Exportă o copie de partajat (PDF, document Word)"
+
+msgid "Export Page as PNG"
+msgstr "Export pagină ca PNG"
+
+msgid "Extend Selection"
+msgstr "Extindere selecție"
+
+msgid "Extend Selection by Units"
+msgstr "Extindere selecție pe unități"
+
+msgid "Extra space"
+msgstr "Spațiu suplimentar"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Mai repede: pentru {command} apăsați {key} pe tastatură."
+
+msgid "Field code:"
+msgstr "Cod de câmp:"
+
+msgid "Field Codes"
+msgstr "Coduri de câmp"
+
+msgid "Field codes:"
+msgstr "Coduri de câmp:"
+
+msgid "Field name"
+msgstr "Nume câmp"
+
+msgid "Field name:"
+msgstr "Nume câmp:"
+
+msgid "Field names must be different."
+msgstr "Numele câmpurilor trebuie să fie diferite."
+
+msgid "Field names:"
+msgstr "Nume câmpuri:"
+
+msgid "Field:"
+msgstr "Câmp:"
+
+msgid "Field…"
+msgstr "Câmp…"
+
+msgid "Figure"
+msgstr "Figură"
+
+msgid "File locations"
+msgstr "Locații fișiere"
+
+msgid "File name:"
+msgstr "Nume fișier:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Fișier › Nou afișează șabloanele .dotx și .dotm din acest folder la Personale; Salvare ca șablon Word pornește de aici."
+
+msgid "Fill color:"
+msgstr "Culoare de umplere:"
+
+msgid "Filling in forms"
+msgstr "Completarea formularelor"
+
+msgid "Film"
+msgstr "Peliculă"
+
+msgid "Filter and Sort"
+msgstr "Filtrare și sortare"
+
+msgid "Filter Recipients"
+msgstr "Filtrare destinatari"
+
+msgid "Find in list:"
+msgstr "Căutați în listă:"
+
+msgid "Find Next Editable Region"
+msgstr "Căutare următoarea zonă editabilă"
+
+msgid "Find Previous"
+msgstr "Căutare anteriorul"
+
+msgid "Find Recipient"
+msgstr "Căutare destinatar"
+
+msgid "Find What Expression"
+msgstr "Expresie de căutat"
+
+msgid "Find What Text"
+msgstr "Text de căutat"
+
+msgid "Find what:"
+msgstr "Căutați:"
+
+msgid "Find “{text}” in the document"
+msgstr "Căutare „{text}” în document"
+
+msgid "Finding printers…"
+msgstr "Se caută imprimante…"
+
+msgid "Finish & Merge"
+msgstr "Terminare și îmbinare"
+
+msgid "Finish &\nMerge"
+msgstr "Terminare și\nîmbinare"
+
+msgid "Finished"
+msgstr "Terminat"
+
+msgid "Finland"
+msgstr "Finlanda"
+
+msgid "Finnish"
+msgstr "Finlandeză"
+
+msgid "First Column"
+msgstr "Prima coloană"
+
+msgid "First line"
+msgstr "Primul rând"
+
+msgid "First line:"
+msgstr "Primul rând:"
+
+msgid "First Name"
+msgstr "Prenume"
+
+msgid "First Record"
+msgstr "Prima înregistrare"
+
+msgid "First row of data contains column headers"
+msgstr "Primul rând de date conține anteturile coloanelor"
+
+msgid "Fix Position on Page"
+msgstr "Fixare poziție pe pagină"
+
+msgid "Fixed Column Width"
+msgstr "Lățime fixă a coloanei"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Parte întreagă inferioară"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "După număr urmează:"
+
+msgid "Font Color"
+msgstr "Culoare font"
+
+msgid "Font color"
+msgstr "Culoare font"
+
+msgid "Font color:"
+msgstr "Culoare font:"
+
+msgid "Font Dialog"
+msgstr "Dialog font"
+
+msgid "Font: {font}"
+msgstr "Font: {font}"
+
+msgid "Font…"
+msgstr "Font…"
+
+msgid "Footer"
+msgstr "Subsol"
+
+msgid "Footnote and Endnote"
+msgstr "Notă de subsol și notă de final"
+
+msgid "Footnote Reference"
+msgstr "Referință la nota de subsol"
+
+msgid "Footnote Text"
+msgstr "Textul notei de subsol"
+
+msgid "Footnotes"
+msgstr "Note de subsol"
+
+msgid "Footnotes and endnotes"
+msgstr "Note de subsol și note de final"
+
+msgid "Footnotes to endnotes"
+msgstr "Note de subsol în note de final"
+
+msgid "For which item:"
+msgstr "Pentru elementul:"
+
+msgid "Format Page Numbers"
+msgstr "Formatare numere de pagină"
+
+msgid "Format Page Numbers…"
+msgstr "Formatare numere de pagină…"
+
+msgid "Format Painter"
+msgstr "Pensulă de formatare"
+
+msgid "Format Shape"
+msgstr "Formatare formă"
+
+msgid "Format Shape Pane"
+msgstr "Panou Formatare formă"
+
+msgid "Format Shape…"
+msgstr "Formatare formă…"
+
+msgid "Formatted"
+msgstr "Formatat"
+
+msgid "Formatted Text"
+msgstr "Text formatat"
+
+msgid "Formatting"
+msgstr "Formatare"
+
+msgid "Formatting at Selection"
+msgstr "Formatare la selecție"
+
+msgid "Formatting exceptions"
+msgstr "Excepții de formatare"
+
+msgid "Formatting marks"
+msgstr "Semne de formatare"
+
+msgid "Formatting saved for new documents:"
+msgstr "Formatare salvată pentru documentele noi:"
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Se compară formatarea, schimbările de majuscule, spațiile albe și tabelele; celelalte setări sunt păstrate pentru mai târziu."
+
+msgid "Formula"
+msgstr "Formulă"
+
+msgid "Formula:"
+msgstr "Formulă:"
+
+msgid "Forward"
+msgstr "Redirecționare"
+
+msgid "Fraction"
+msgstr "Fracție"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Fracțiile (1/2) ca și caractere de fracție (½)"
+
+msgid "Frames and effects"
+msgstr "Rame și efecte"
+
+msgid "France"
+msgstr "Franța"
+
+msgid "French (France)"
+msgstr "Franceză (Franța)"
+
+msgid "From Bottom Left Corner"
+msgstr "Din colțul din stânga jos"
+
+msgid "From Bottom Right Corner"
+msgstr "Din colțul din dreapta jos"
+
+msgid "From Center"
+msgstr "Din centru"
+
+msgid "From text:"
+msgstr "Din text:"
+
+msgid "From Top Left Corner"
+msgstr "Din colțul din stânga sus"
+
+msgid "From Top Right Corner"
+msgstr "Din colțul din dreapta sus"
+
+msgid "from Unicode (hex)"
+msgstr "din Unicode (hex)"
+
+msgid "From {name}"
+msgstr "De la {name}"
+
+msgid "From:"
+msgstr "De la:"
+
+msgid "Full page of the same label"
+msgstr "Pagină întreagă cu aceeași etichetă"
+
+msgid "Full Saturation 100%"
+msgstr "Saturație completă 100%"
+
+msgid "Full Screen View"
+msgstr "Vizualizare ecran complet"
+
+msgid "Full\nScreen"
+msgstr "Ecran\nîntreg"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Știați că? O pagină goală e doar o ciornă care încă nu și-a spus povestea."
+
+msgid "Function"
+msgstr "Funcție"
+
+msgid "Galician"
+msgstr "galiciană"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr "georgiană"
+
+msgid "German (Germany)"
+msgstr "Germană (Germania)"
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr "Preia lista pachetelor de limbă, apoi pachetul acestei limbi, dacă există."
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Culori de strălucire"
+
+msgid "Go Back"
+msgstr "Înapoi"
+
+msgid "Go To"
+msgstr "Salt la"
+
+msgid "Go to"
+msgstr "Salt la"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Salt la (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Salt la înregistrare"
+
+msgid "Go to what:"
+msgstr "Salt la ce:"
+
+msgid "Go To…"
+msgstr "Salt la…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Dispărut! Ca și cum n-ar fi fost scris niciodată. Mai ales pentru că acum chiar n-a fost."
+
+msgid "Good afternoon"
+msgstr "Bună ziua"
+
+msgid "Good evening"
+msgstr "Bună seara"
+
+msgid "Good morning"
+msgstr "Bună dimineața"
+
+msgid "GOST (name sort)"
+msgstr "GOST (sortare după nume)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (sortare după titlu)"
+
+msgid "Grab bag"
+msgstr "Diverse"
+
+msgid "Gradient fill"
+msgstr "Umplere în degrade"
+
+msgid "Gradient stops"
+msgstr "Puncte de degrade"
+
+msgid "Grammar built in"
+msgstr "Gramatică încorporată"
+
+msgid "Grave"
+msgstr "Accent grav"
+
+msgid "Gray 0%"
+msgstr "Gri 0%"
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Mai mare decât"
+
+msgid "Greater than or equal"
+msgstr "Mai mare sau egal"
+
+msgid "Greek"
+msgstr "Greacă"
+
+msgid "Greek Letters"
+msgstr "Litere grecești"
+
+msgid "Green:"
+msgstr "Verde:"
+
+msgid "Greeting Line"
+msgstr "Rând de salut"
+
+msgid "Greeting\nLine"
+msgstr "Rând de\nsalut"
+
+msgid "Grid Table 1 Light"
+msgstr "Tabel grilă 1 deschis"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Tabel grilă 4 – albastru"
+
+msgid "Grid Table 4 – Green"
+msgstr "Tabel grilă 4 – verde"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Tabel grilă 4 – portocaliu"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Tabel grilă 4 – violet"
+
+msgid "Gridlines"
+msgstr "Linii de grilă"
+
+msgid "Grouping Character Above"
+msgstr "Caracter de grupare deasupra"
+
+msgid "Grouping Character Below"
+msgstr "Caracter de grupare dedesubt"
+
+msgid "Grow Font 1 Point"
+msgstr "Mărire font cu 1 punct"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "H:"
+msgstr "H:"
+
+msgid "Hanging Indent"
+msgstr "Indent suspendat"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Acoperiș (^)"
+
+msgid "Header"
+msgstr "Antet"
+
+msgid "Header & Footer"
+msgstr "Antet și subsol"
+
+msgid "Header Row"
+msgstr "Rând de antet"
+
+msgid "Header row"
+msgstr "Rând de antet"
+
+msgid "Header/Footer Position"
+msgstr "Poziție antet/subsol"
+
+msgid "Headers and footers"
+msgstr "Anteturi și subsoluri"
+
+msgid "Heading"
+msgstr "Titlu"
+
+msgid "Heading 1"
+msgstr "Titlu 1"
+
+msgid "Heading 2"
+msgstr "Titlu 2"
+
+msgid "Heading 3"
+msgstr "Titlu 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Stiluri de titlu (nivelurile 1–{n})"
+
+msgid "Heading text"
+msgstr "Text titlu"
+
+msgid "Heading {n}"
+msgstr "Titlu {n}"
+
+msgid "Hebrew"
+msgstr "Ebraică"
+
+msgid "Hex:"
+msgstr "Hex:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Bună! Sunt Nib, asistentul dumneavoastră de scriere. Ofer sfaturi, comenzi rapide și, din când în când, o părere necerută. Să rămân prin preajmă?"
+
+msgid "Hidden bookmarks"
+msgstr "Marcaje ascunse"
+
+msgid "Hide Codes"
+msgstr "Ascundere coduri"
+
+msgid "Hide from style lists"
+msgstr "Ascunde din listele de stiluri"
+
+msgid "Hide Ink"
+msgstr "Ascundere cerneală"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Ascundere bară de acces rapid"
+
+msgid "Hide White Space"
+msgstr "Ascundere spațiu alb"
+
+msgid "Hide\nInk"
+msgstr "Ascundere\ncerneală"
+
+msgid "Hierarchy"
+msgstr "Ierarhie"
+
+msgid "Highlight"
+msgstr "Evidențiere"
+
+msgid "Highlight Merge Fields"
+msgstr "Evidențiere câmpuri de îmbinare"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Evidențiere\ncâmpuri de îmbinare"
+
+msgid "Highlighter"
+msgstr "Marker"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr "Cifre hindi"
+
+msgid "Home folder"
+msgstr "Folder personal"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR"
+msgstr "R.A.S. Hong Kong"
+
+msgid "Horizontal Line"
+msgstr "Linie orizontală"
+
+msgid "How many pages the whole document has"
+msgstr "Câte pagini are întregul document"
+
+msgid "How many pages this section has"
+msgstr "Câte pagini are această secțiune"
+
+msgid "How many words the document holds"
+msgstr "Câte cuvinte conține documentul"
+
+msgid "HTML Format"
+msgstr "Format HTML"
+
+msgid "Hue:"
+msgstr "Nuanță:"
+
+msgid "Hungarian"
+msgstr "maghiară"
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Fișierele Hunspell .aff și .dic de aici (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) sunt folosite înaintea celor ale sistemului."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Funcția cosecantă hiperbolică"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Funcția cosinus hiperbolic"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Funcția cotangentă hiperbolică"
+
+msgid "Hyperbolic Functions"
+msgstr "Funcții hiperbolice"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Funcția secantă hiperbolică"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Funcția sinus hiperbolic"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Funcția tangentă hiperbolică"
+
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+msgid "Hyphenate at:"
+msgstr "Silabisește la:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Silabisește cuvintele scrise cu MAJUSCULE"
+
+msgid "Hyphenation Options…"
+msgstr "Opțiuni de silabisire…"
+
+msgid "Hyphenation zone:"
+msgstr "Zonă de silabisire:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Cratime (--) ca linii de pauză (—)"
+
+msgid "Hypotenuse"
+msgstr "Ipotenuză"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Promit că e salvat. Am verificat. De două ori."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Aș scrie și eu ceva, dar sunt numai peniță și niciun strop de cerneală."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr "islandeză"
+
+msgid "Icon Color"
+msgstr "Culoare pictogramă"
+
+msgid "Icons"
+msgstr "Pictograme"
+
+msgid "Identity Matrices"
+msgstr "Matrice identitate"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Dacă…Atunci…Altfel"
+
+msgid "If…Then…Else…"
+msgstr "Dacă…Atunci…Altfel…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Ignorați semnele de punctuație"
+
+msgid "Ignore web and file addresses"
+msgstr "Ignorați adresele web și de fișiere"
+
+msgid "Ignore white-space characters"
+msgstr "Ignorați spațiile albe"
+
+msgid "Ignore words in capitals"
+msgstr "Ignorați cuvintele scrise cu majuscule"
+
+msgid "Ignore words with numbers"
+msgstr "Ignorați cuvintele cu numere"
+
+msgid "Illustrations"
+msgstr "Ilustrații"
+
+msgid "Immersive"
+msgstr "Imersiv"
+
+msgid "Immersive Reader"
+msgstr "Cititor imersiv"
+
+msgid "Immersive\nReader"
+msgstr "Cititor\nimersiv"
+
+msgid "Imported 1 source"
+msgstr "1 sursă importată"
+
+msgid "Imported {n} sources"
+msgstr "Surse importate: {n}"
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "În Aplicații implicite, alegeți WordCraft pentru tipurile de documente pe care doriți să le deschidă."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "În ecuații, dacă scrieți un nume după o bară oblică inversă, acesta este înlocuit cu simbolul său."
+
+msgid "In Front of Text"
+msgstr "În fața textului"
+
+msgid "In Line with Text"
+msgstr "În linie cu textul"
+
+msgid "In margin"
+msgstr "În margine"
+
+msgid "In the margin"
+msgstr "În margine"
+
+msgid "Include label and number"
+msgstr "Includere etichetă și număr"
+
+msgid "Include level number from:"
+msgstr "Includeți numărul de nivel din:"
+
+msgid "Include page numbers"
+msgstr "Includeți numerele de pagină"
+
+msgid "Increase Indent"
+msgstr "Mărire indent"
+
+msgid "Indent"
+msgstr "Indentare"
+
+msgid "Indent from left:"
+msgstr "Indent de la stânga:"
+
+msgid "Indentation"
+msgstr "Indentare"
+
+msgid "Indented"
+msgstr "Indentat"
+
+msgid "Indents"
+msgstr "Indenturi"
+
+msgid "Indents and Spacing"
+msgstr "Indenturi și spațiere"
+
+msgid "Index and Tables"
+msgstr "Index și tabele"
+
+msgid "Index Heading"
+msgstr "Titlu de index"
+
+msgid "Index {n}"
+msgstr "Index {n}"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+msgid "Initial column width:"
+msgstr "Lățimea inițială a coloanei:"
+
+msgid "Initials:"
+msgstr "Inițiale:"
+
+msgid "Ink"
+msgstr "Cerneală"
+
+msgid "Ink Replay"
+msgstr "Redare cerneală"
+
+msgid "Ink to Shape"
+msgstr "Cerneală în formă"
+
+msgid "Ink to\nMath"
+msgstr "Cerneală în\nmatematică"
+
+msgid "Ink to\nShape"
+msgstr "Cerneală în\nformă"
+
+msgid "Ink\nReplay"
+msgstr "Redare\ncerneală"
+
+msgid "Inline"
+msgstr "Inline"
+
+msgid "Input Format"
+msgstr "Format de intrare"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Inserează o ecuație nouă (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Inserare deasupra"
+
+msgid "Insert Below"
+msgstr "Inserare dedesubt"
+
+msgid "Insert Caption"
+msgstr "Inserare legendă"
+
+msgid "Insert Caption…"
+msgstr "Inserare legendă…"
+
+msgid "Insert Chart"
+msgstr "Inserare grafic"
+
+msgid "Insert Citation"
+msgstr "Inserare citare"
+
+msgid "Insert Columns to the Left"
+msgstr "Inserare coloane la stânga"
+
+msgid "Insert Columns to the Right"
+msgstr "Inserare coloane la dreapta"
+
+msgid "Insert Date Field"
+msgstr "Inserare câmp dată"
+
+msgid "Insert Diagram"
+msgstr "Inserare diagramă"
+
+msgid "Insert Endnote"
+msgstr "Inserare notă de final"
+
+msgid "Insert Footnote"
+msgstr "Inserare notă de subsol"
+
+msgid "Insert Hyperlink"
+msgstr "Inserare hyperlink"
+
+msgid "Insert Index"
+msgstr "Inserare index"
+
+msgid "Insert Left"
+msgstr "Inserare la stânga"
+
+msgid "Insert Merge Field"
+msgstr "Inserare câmp de îmbinare"
+
+msgid "Insert Merge\nField"
+msgstr "Inserare câmp\nde îmbinare"
+
+msgid "Insert New Equation"
+msgstr "Inserare ecuație nouă"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Inserează un text sau altul, în funcție de valoarea unui câmp."
+
+msgid "Insert Page Field"
+msgstr "Inserare câmp pagină"
+
+msgid "Insert reference to:"
+msgstr "Inserează referință la:"
+
+msgid "Insert Right"
+msgstr "Inserare la dreapta"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Inserare rând sau coloană prin clic"
+
+msgid "Insert Rows Above"
+msgstr "Inserare rânduri deasupra"
+
+msgid "Insert Rows Below"
+msgstr "Inserare rânduri dedesubt"
+
+msgid "Insert Shapes"
+msgstr "Inserare forme"
+
+msgid "Insert SmartArt"
+msgstr "Inserare SmartArt"
+
+msgid "Insert Spike"
+msgstr "Inserare în spike"
+
+msgid "Insert Structure"
+msgstr "Inserare structură"
+
+msgid "Insert Symbol"
+msgstr "Inserare simbol"
+
+msgid "Insert Table"
+msgstr "Inserare tabel"
+
+msgid "Insert Table of Authorities"
+msgstr "Inserare tabel de autorități"
+
+msgid "Insert Table of Figures"
+msgstr "Inserare tabel de figuri"
+
+msgid "Insert Table…"
+msgstr "Inserare tabel…"
+
+msgid "Insert Time Field"
+msgstr "Inserare câmp oră"
+
+msgid "Insert\nAbove"
+msgstr "Inserare\ndeasupra"
+
+msgid "Insert\nCaption"
+msgstr "Inserare\nlegendă"
+
+msgid "Insert\nCitation"
+msgstr "Inserare\ncitare"
+
+msgid "Insert\nFootnote"
+msgstr "Inserare\nnotă de subsol"
+
+msgid "Insertions and Deletions"
+msgstr "Inserări și ștergeri"
+
+msgid "Insertions:"
+msgstr "Inserări:"
+
+msgid "Inside Borders"
+msgstr "Borduri interioare"
+
+msgid "Inside Horizontal Border"
+msgstr "Bordură orizontală interioară"
+
+msgid "Inside Vertical Border"
+msgstr "Bordură verticală interioară"
+
+msgid "Inside:"
+msgstr "Interior:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Inspectare stiluri la selecție"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr "Instalează ortografia ({size})"
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Instituție"
+
+msgid "Integral"
+msgstr "Integrală"
+
+msgid "Integral of e^(−x²)"
+msgstr "Integrala lui e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Integrală cu limite"
+
+msgid "Integral with Stacked Limits"
+msgstr "Integrală cu limite suprapuse"
+
+msgid "Integrals"
+msgstr "Integrale"
+
+msgid "Intense Emphasis"
+msgstr "Accentuare intensă"
+
+msgid "Intense Quote"
+msgstr "Citat intens"
+
+msgid "Intense Reference"
+msgstr "Referință intensă"
+
+msgid "Interface language:"
+msgstr "Limba interfeței:"
+
+msgid "Interface size:"
+msgstr "Dimensiunea interfeței:"
+
+msgid "Interface theme:"
+msgstr "Tema interfeței:"
+
+msgid "Interface\nTheme"
+msgstr "Tema\ninterfeței"
+
+msgid "Internet addresses as links"
+msgstr "Adrese de internet ca linkuri"
+
+msgid "Intersection with Limits"
+msgstr "Intersecție cu limite"
+
+msgid "Intersection with Lower Limit"
+msgstr "Intersecție cu limită inferioară"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Intersecție cu limite în indice și exponent"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Funcția cosecantă inversă"
+
+msgid "Inverse Cosine Function"
+msgstr "Funcția cosinus invers"
+
+msgid "Inverse Cotangent Function"
+msgstr "Funcția cotangentă inversă"
+
+msgid "Inverse Functions"
+msgstr "Funcții inverse"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Funcția cosecantă hiperbolică inversă"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Funcția cosinus hiperbolic invers"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Funcția cotangentă hiperbolică inversă"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Funcții hiperbolice inverse"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Funcția secantă hiperbolică inversă"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Funcția sinus hiperbolic invers"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Funcția tangentă hiperbolică inversă"
+
+msgid "Inverse Secant Function"
+msgstr "Funcția secantă inversă"
+
+msgid "Inverse Sine Function"
+msgstr "Funcția sinus invers"
+
+msgid "Inverse Tangent Function"
+msgstr "Funcția tangentă inversă"
+
+msgid "Ionosphere"
+msgstr "Ionosferă"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Irish"
+msgstr "irlandeză"
+
+msgid "Is blank"
+msgstr "Este gol"
+
+msgid "Is not blank"
+msgstr "Nu este gol"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (autor-dată)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (numeric)"
+
+msgid "Issue"
+msgstr "Număr (publicație)"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Se pare că scrieți o scrisoare. Doriți un plic pentru ea sau un șablon de scrisoare de la care să porniți?"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr "Dicționarul ei nu a putut fi citit: {reason}"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Alăturați-vă comunității ArtCraft pe Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Alăturați-vă nouă pe Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr "Iordania"
+
+msgid "Journal"
+msgstr "Jurnal"
+
+msgid "Journal article"
+msgstr "Articol de revistă"
+
+msgid "Justification of a display equation"
+msgstr "Alinierea unei ecuații afișate"
+
+msgid "Justified"
+msgstr "Aliniat stânga-dreapta"
+
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+msgid "Keep Lines Together"
+msgstr "Păstrare rânduri împreună"
+
+msgid "Keep lines together"
+msgstr "Păstrați rândurile împreună"
+
+msgid "Keep me around"
+msgstr "Rămâi prin preajmă"
+
+msgid "Keep Text Only"
+msgstr "Păstrare doar text"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Păstrați parola într-un loc sigur: fără ea nimeni, nici măcar WordCraft, nu poate deschide documentul. Lăsați ambele casete goale pentru a elimina parola."
+
+msgid "Keep with Next"
+msgstr "Păstrare cu următorul"
+
+msgid "Keep with next"
+msgstr "Păstrați cu următorul"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Păstrează fonturile și formatarea textului copiat."
+
+msgid "Kerning for fonts:"
+msgstr "Kerning pentru fonturile:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Scurtături de tastatură:"
+
+msgid "Keys for this command:"
+msgstr "Taste pentru această comandă:"
+
+msgid "Kuwait"
+msgstr "Kuweit"
+
+msgid "Label changes with:"
+msgstr "Eticheta se schimbă cu:"
+
+msgid "Label:"
+msgstr "Etichetă:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Preferințe de limbă…"
+
+msgid "Large\nOperator"
+msgstr "Operator\nmare"
+
+msgid "Largest Only"
+msgstr "Doar cel mai mare"
+
+msgid "Lasso Select"
+msgstr "Selecție cu lasou"
+
+msgid "Last Column"
+msgstr "Ultima coloană"
+
+msgid "Last Name"
+msgstr "Nume de familie"
+
+msgid "Last Record"
+msgstr "Ultima înregistrare"
+
+msgid "Last, First; Last, First"
+msgstr "Nume, Prenume; Nume, Prenume"
+
+msgid "Latin text font:"
+msgstr "Font pentru textul latin:"
+
+msgid "Latvian"
+msgstr "letonă"
+
+msgid "Layout Summary"
+msgstr "Rezumat aspect"
+
+msgid "Layouts"
+msgstr "Aspecte"
+
+msgid "Leader"
+msgstr "Caracter de umplere"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Omite un destinatar din îmbinare când un câmp are această valoare."
+
+msgid "Leave Equation"
+msgstr "Părăsire ecuație"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Omiteți data și ora comentariilor și a modificărilor urmărite la salvare"
+
+msgid "Leave the equation (Esc)"
+msgstr "Părăsește ecuația (Esc)"
+
+msgid "leave the equation first"
+msgstr "ieșiți mai întâi din ecuație"
+
+msgid "Leave the label out of the caption"
+msgstr "Omiteți eticheta din legendă"
+
+msgid "Lebanon"
+msgstr "Liban"
+
+msgid "Left Arrow with Text Above"
+msgstr "Săgeată spre stânga cu text deasupra"
+
+msgid "Left Arrow with Text Below"
+msgstr "Săgeată spre stânga cu text dedesubt"
+
+msgid "Left Border"
+msgstr "Bordură stângă"
+
+msgid "Left border"
+msgstr "Bordură stângă"
+
+msgid "Left Bracket Twice"
+msgstr "Paranteză de deschidere dublată"
+
+msgid "Left indent"
+msgstr "Indent la stânga"
+
+msgid "Left Margin"
+msgstr "Margine stângă"
+
+msgid "Left Only"
+msgstr "Doar stânga"
+
+msgid "Left Right Arrow Above"
+msgstr "Săgeată stânga-dreapta deasupra"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Săgeată stânga-dreapta cu text deasupra"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Săgeată stânga-dreapta cu text dedesubt"
+
+msgid "Left Subscript-Superscript"
+msgstr "Indice și exponent la stânga"
+
+msgid "Left-to-right"
+msgstr "De la stânga la dreapta"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Direcție text de la stânga la dreapta"
+
+msgid "Leftwards Arrow Above"
+msgstr "Săgeată spre stânga deasupra"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Harpon spre stânga deasupra"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8,50\" × 14,00\""
+
+msgid "Legal style numbering"
+msgstr "Numerotare în stil juridic"
+
+msgid "Legend"
+msgstr "Legendă"
+
+msgid "Less Contrast −20%"
+msgstr "Contrast mai mic −20%"
+
+msgid "Less than"
+msgstr "Mai mic decât"
+
+msgid "Less than or equal"
+msgstr "Mai mic sau egal"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Scrisoare"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8,50\" × 11,00\""
+
+msgid "Letter headings"
+msgstr "Titluri cu litere"
+
+msgid "Letter template"
+msgstr "Șablon de scrisoare"
+
+msgid "Letter-Like Symbols"
+msgstr "Simboluri asemănătoare literelor"
+
+msgid "Letters"
+msgstr "Litere"
+
+msgid "Level 5"
+msgstr "Nivelul 5"
+
+msgid "Level 6"
+msgstr "Nivelul 6"
+
+msgid "Level 7"
+msgstr "Nivelul 7"
+
+msgid "Level 8"
+msgstr "Nivelul 8"
+
+msgid "Level 9"
+msgstr "Nivelul 9"
+
+msgid "Level {n}"
+msgstr "Nivelul {n}"
+
+msgid "Levels:"
+msgstr "Niveluri:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Light Variations"
+msgstr "Variante luminoase"
+
+msgid "Light with Outline"
+msgstr "Deschis cu contur"
+
+msgid "Limit"
+msgstr "Limită"
+
+msgid "Limit and"
+msgstr "Limită și"
+
+msgid "Limit and\nLog"
+msgstr "Limită și\nlogaritm"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Limitează cratimele consecutive la:"
+
+msgid "Limit Example"
+msgstr "Exemplu de limită"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Limitează formatarea la o selecție de stiluri"
+
+msgid "Line and Page Breaks"
+msgstr "Întreruperi de rând și de pagină"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Spațiere rânduri și paragrafe"
+
+msgid "Line between"
+msgstr "Linie între"
+
+msgid "Line Break"
+msgstr "Întrerupere de rând"
+
+msgid "Line breaking"
+msgstr "Rupere rânduri"
+
+msgid "Line End"
+msgstr "Sfârșit de rând"
+
+msgid "Line Number"
+msgstr "Număr de rând"
+
+msgid "Line Numbering Options…"
+msgstr "Opțiuni numerotare rânduri…"
+
+msgid "Line Numbers"
+msgstr "Numere de rând"
+
+msgid "Line Spacing"
+msgstr "Spațiere între rânduri"
+
+msgid "Line Spacing Options…"
+msgstr "Opțiuni spațiere între rânduri…"
+
+msgid "Line spacing:"
+msgstr "Spațiere între rânduri:"
+
+msgid "Line Start"
+msgstr "Început de rând"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Liniar diagonal - din stânga jos spre dreapta sus"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Liniar diagonal - din dreapta jos spre stânga sus"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Liniar diagonal - din stânga sus spre dreapta jos"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Liniar diagonal - din dreapta sus spre stânga jos"
+
+msgid "Linear Down"
+msgstr "Liniar în jos"
+
+msgid "Linear Fraction"
+msgstr "Fracție liniară"
+
+msgid "Linear Left"
+msgstr "Liniar spre stânga"
+
+msgid "Linear Right"
+msgstr "Liniar spre dreapta"
+
+msgid "Linear Up"
+msgstr "Liniar în sus"
+
+msgid "Lines and characters"
+msgstr "Rânduri și caractere"
+
+msgid "Lines only"
+msgstr "Doar linii"
+
+msgid "Lines per page:"
+msgstr "Rânduri pe pagină:"
+
+msgid "Lines to drop:"
+msgstr "Rânduri de coborât:"
+
+msgid "Link entries to their headings"
+msgstr "Leagă intrările de titlurile lor"
+
+msgid "Link level to style:"
+msgstr "Leagă nivelul de stilul:"
+
+msgid "Link to Previous"
+msgstr "Legare de anteriorul"
+
+msgid "Link to:"
+msgstr "Legătură către:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Stil legat (paragraf și caracter)"
+
+msgid "Links and References"
+msgstr "Linkuri și referințe"
+
+msgid "Link…"
+msgstr "Link…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Definiție listă"
+
+msgid "List entries"
+msgstr "Intrări din listă"
+
+msgid "List Paragraph"
+msgstr "Paragraf de listă"
+
+msgid "List Table 3 – Blue"
+msgstr "Tabel listă 3 – albastru"
+
+msgid "List Table 3 – Green"
+msgstr "Tabel listă 3 – verde"
+
+msgid "List Table 3 – Orange"
+msgstr "Tabel listă 3 – portocaliu"
+
+msgid "List Table 3 – Purple"
+msgstr "Tabel listă 3 – violet"
+
+msgid "Lit from Bottom"
+msgstr "Luminat de jos"
+
+msgid "Lit from Top"
+msgstr "Luminat de sus"
+
+msgid "Lithuanian"
+msgstr "lituaniană"
+
+msgid "Load System Installed Fonts…"
+msgstr "Încărcare fonturi instalate în sistem…"
+
+msgid "Loaded {count} system fonts."
+msgstr "S-au încărcat {count} fonturi de sistem."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Browserul dvs. nu acceptă accesul la fonturile locale."
+
+msgid "Local font access was denied."
+msgstr "Accesul la fonturile locale a fost refuzat."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr "Recuperarea locală nu este disponibilă sau încă se încarcă."
+
+msgid "Location: {path}"
+msgstr "Locație: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Blochează raportul de aspect"
+
+msgid "Lock Fields"
+msgstr "Blocare câmpuri"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Logarithm"
+msgstr "Logaritm"
+
+msgid "Logarithm with Base"
+msgstr "Logaritm cu bază"
+
+msgid "Logical AND"
+msgstr "ȘI logic"
+
+msgid "Logical AND with Limits"
+msgstr "ȘI logic cu limite"
+
+msgid "Logical OR"
+msgstr "SAU logic"
+
+msgid "Logical OR with Limits"
+msgstr "SAU logic cu limite"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: pentru că adevăratele cuvinte sunt încă la cafenea."
+
+msgid "Lum:"
+msgstr "Lum:"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Macao SAR"
+msgstr "R.A.S. Macao"
+
+msgid "Macedonian"
+msgstr "macedoneană"
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Macrocomenzi"
+
+msgid "Made from the author and year when empty"
+msgstr "Se formează din autor și an când e gol"
+
+msgid "Magazine or newspaper article"
+msgstr "Articol de revistă sau ziar"
+
+msgid "Mail Merge"
+msgstr "Îmbinare corespondență"
+
+msgid "Mailings"
+msgstr "Corespondență"
+
+msgid "Main entry:"
+msgstr "Intrare principală:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Setați WordCraft ca implicit pentru documentele Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Face panglica, meniurile și dialogurile mai mari sau mai mici. Auto urmează scalarea ecranului din sistem; 100% înseamnă un pixel de ecran pe punct. Zoomul documentului este separat."
+
+msgid "Malaysia"
+msgstr "Malaezia"
+
+msgid "Manage Sources"
+msgstr "Gestionare surse"
+
+msgid "Manage Styles"
+msgstr "Gestionare stiluri"
+
+msgid "Manage Styles…"
+msgstr "Gestionare stiluri…"
+
+msgid "Manual Hyphenation"
+msgstr "Silabisire manuală"
+
+msgid "Manual hyphenation is complete."
+msgstr "Silabisirea manuală este terminată."
+
+msgid "Manual Line Break"
+msgstr "Întrerupere manuală de rând"
+
+msgid "Manual Page Break"
+msgstr "Întrerupere manuală de pagină"
+
+msgid "Manual…"
+msgstr "Manual…"
+
+msgid "Many pages"
+msgstr "Multe pagini"
+
+msgid "Mark"
+msgstr "Marcare"
+
+msgid "Mark All"
+msgstr "Marcare toate"
+
+msgid "Mark as decorative"
+msgstr "Marcați ca decorativ"
+
+msgid "Mark Citation"
+msgstr "Marcare citare"
+
+msgid "Mark Entry"
+msgstr "Marcare intrare"
+
+msgid "Mark Entry…"
+msgstr "Marcare intrare…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Marcați erorile de gramatică pe măsură ce scrieți"
+
+msgid "Mark Index Entry"
+msgstr "Marcare intrare de index"
+
+msgid "Mark selected text as:"
+msgstr "Marcați textul selectat ca:"
+
+msgid "Mark\nCitation"
+msgstr "Marcare\ncitare"
+
+msgid "Mark\nEntry"
+msgstr "Marcare\nintrare"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Potrivire majuscule/minuscule"
+
+msgid "Match Fields"
+msgstr "Potrivire câmpuri"
+
+msgid "Match prefix"
+msgstr "Potrivire prefix"
+
+msgid "Match suffix"
+msgstr "Potrivire sufix"
+
+msgid "Matches: {count}"
+msgstr "Potriviri: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Corectare automată matematică"
+
+msgid "Matrices with Brackets"
+msgstr "Matrice cu paranteze drepte"
+
+msgid "Matrix"
+msgstr "Matrice"
+
+msgid "Maximum Example"
+msgstr "Exemplu de maxim"
+
+msgid "Measured By"
+msgstr "Măsurat prin"
+
+msgid "Measurement units:"
+msgstr "Unități de măsură:"
+
+msgid "Merge cells before split"
+msgstr "Îmbină celulele înainte de împărțire"
+
+msgid "Merge Formatting"
+msgstr "Îmbinare formatare"
+
+msgid "Merge Record #"
+msgstr "Nr. înregistrare îmbinare"
+
+msgid "Mesosphere"
+msgstr "Mezosferă"
+
+msgid "Mexico"
+msgstr "Mexic"
+
+msgid "Midline Dots"
+msgstr "Puncte pe linia de mijloc"
+
+msgid "Minus Equal"
+msgstr "Minus egal"
+
+msgid "Mirror indents"
+msgstr "Indenturi în oglindă"
+
+msgid "Mirror margins"
+msgstr "Margini în oglindă"
+
+msgid "Mirrored"
+msgstr "În oglindă"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team și contribuitorii WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Moderat"
+
+msgid "Modify Style"
+msgstr "Modificare stil"
+
+msgid "Modify Table Style"
+msgstr "Modificare stil de tabel"
+
+msgid "Modify Table Style…"
+msgstr "Modificare stil de tabel…"
+
+msgid "Modify…"
+msgstr "Modificare…"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Montenegro"
+msgstr "Muntenegru"
+
+msgid "Month"
+msgstr "Lună"
+
+msgid "More >>"
+msgstr "Mai multe >>"
+
+msgid "More Colors…"
+msgstr "Mai multe culori…"
+
+msgid "More Columns…"
+msgstr "Mai multe coloane…"
+
+msgid "More Commands…"
+msgstr "Mai multe comenzi…"
+
+msgid "More Contrast +20%"
+msgstr "Contrast mai mare +20%"
+
+msgid "More Gradients…"
+msgstr "Mai multe degradeuri…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Mai multe dimensiuni de hârtie…"
+
+msgid "More Symbols…"
+msgstr "Mai multe simboluri…"
+
+msgid "More tabs"
+msgstr "Mai multe file"
+
+msgid "More templates →"
+msgstr "Mai multe șabloane →"
+
+msgid "More Underlines…"
+msgstr "Mai multe sublinieri…"
+
+msgid "Morocco"
+msgstr "Maroc"
+
+msgid "Move in Equation"
+msgstr "Mutare în ecuație"
+
+msgid "Move or Resize"
+msgstr "Mutare sau redimensionare"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Mutare paragraf în jos"
+
+msgid "Move Paragraph Up"
+msgstr "Mutare paragraf în sus"
+
+msgid "Move Past Citation"
+msgstr "Mutare după citare"
+
+msgid "Move Past\nCitation"
+msgstr "Mutare după\ncitare"
+
+msgid "Move Selected Ink"
+msgstr "Mutare cerneală selectată"
+
+msgid "Move Table by Dragging"
+msgstr "Mutare tabel prin tragere"
+
+msgid "Move with Text"
+msgstr "Mutare cu textul"
+
+msgid "Moved from"
+msgstr "Mutat din"
+
+msgid "Moved from:"
+msgstr "Mutat din:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Obiectele mutate se aliniază la marginile și centrul paginii, la margini și la alte obiecte. Țineți apăsat Alt pentru a muta liber."
+
+msgid "Moved to"
+msgstr "Mutat în"
+
+msgid "Moved to:"
+msgstr "Mutat în:"
+
+msgid "Moves"
+msgstr "Mutări"
+
+msgid "Mozambique"
+msgstr "Mozambic"
+
+msgid "Multilevel List"
+msgstr "Listă pe mai multe niveluri"
+
+msgid "Multilevel List Library"
+msgstr "Bibliotecă de liste pe mai multe niveluri"
+
+msgid "Multiple Pages"
+msgstr "Mai multe pagini"
+
+msgid "Mute agent messages"
+msgstr "Dezactivare mesaje de la agenți"
+
+msgid "Muted 50%"
+msgstr "Estompat 50%"
+
+msgid "My list has"
+msgstr "Lista mea are"
+
+msgid "Name of the file this document is saved as"
+msgstr "Numele fișierului în care este salvat acest document"
+
+msgid "Narrow"
+msgstr "Îngust"
+
+msgid "Narrow  {size} all"
+msgstr "Îngust  {size} peste tot"
+
+msgid "Natural Logarithm"
+msgstr "Logaritm natural"
+
+msgid "Nature"
+msgstr "Natură"
+
+msgid "Navigation Pane"
+msgstr "Panou de navigare"
+
+msgid "Negated Relations"
+msgstr "Relații negate"
+
+msgid "Netherlands"
+msgstr "Țările de Jos"
+
+msgid "New blank documents are written in this language"
+msgstr "Documentele goale noi se scriu în această limbă"
+
+msgid "New Comment"
+msgstr "Comentariu nou"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Comentariile noi și modificările urmărite sunt înregistrate sub acest nume și aceste inițiale."
+
+msgid "New Documents Based on This Template"
+msgstr "Documente noi bazate pe acest șablon"
+
+msgid "New documents based on this template"
+msgstr "Documente noi bazate pe acest șablon"
+
+msgid "New documents will use this font."
+msgstr "Documentele noi vor folosi acest font."
+
+msgid "New documents will use this page setup."
+msgstr "Documentele noi vor folosi această configurare a paginii."
+
+msgid "New documents will use this paragraph formatting."
+msgstr "Documentele noi vor folosi această formatare a paragrafului."
+
+msgid "New documents will use this style."
+msgstr "Documentele noi vor folosi acest stil."
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr "Documentele noi vor folosi formatarea încorporată a WordCraft."
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr "Documentele noi vor folosi formatarea încorporată a WordCraft. Setările implicite salvate nu vor mai putea fi recuperate. Resetați?"
+
+msgid "New Drawing Canvas"
+msgstr "Canvas de desen nou"
+
+msgid "New Entry"
+msgstr "Intrare nouă"
+
+msgid "New Label"
+msgstr "Etichetă nouă"
+
+msgid "New Label…"
+msgstr "Etichetă nouă…"
+
+msgid "New Paragraph"
+msgstr "Paragraf nou"
+
+msgid "New shortcut:"
+msgstr "Scurtătură nouă:"
+
+msgid "New Tab"
+msgstr "Filă nouă"
+
+msgid "New Table Style"
+msgstr "Stil de tabel nou"
+
+msgid "New Table Style…"
+msgstr "Stil de tabel nou…"
+
+msgid "New word"
+msgstr "Cuvânt nou"
+
+msgid "New Zealand"
+msgstr "Noua Zeelandă"
+
+msgid "New\nComment"
+msgstr "Comentariu\nnou"
+
+msgid "New\nWindow"
+msgstr "Fereastră\nnouă"
+
+msgid "Next Comment"
+msgstr "Comentariul următor"
+
+msgid "Next Field"
+msgstr "Câmpul următor"
+
+msgid "Next Footnote"
+msgstr "Nota de subsol următoare"
+
+msgid "Next Record"
+msgstr "Înregistrarea următoare"
+
+msgid "Next Section"
+msgstr "Secțiunea următoare"
+
+msgid "Next Sentence"
+msgstr "Propoziția următoare"
+
+msgid "Next sentence"
+msgstr "Propoziția următoare"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Nib plutește deasupra ferestrei cu sfaturi și câte o remarcă din când în când."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Nib, asistentul dumneavoastră. Trageți pentru a muta; clic dreapta pentru opțiuni."
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "No accessibility issues found."
+msgstr "Nu s-au găsit probleme de accesibilitate."
+
+msgid "No Border"
+msgstr "Fără bordură"
+
+msgid "No changes (read only)"
+msgstr "Fără modificări (doar citire)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Această copie nu include date despre contribuitori."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Niciun document nu este deschis. Creați sau deschideți mai întâi un document."
+
+msgid "no equation at the caret"
+msgstr "nu există nicio ecuație la cursor"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Nu s-au găsit erori: fiecare câmp de îmbinare se află în lista de destinatari."
+
+msgid "No Fill"
+msgstr "Fără umplere"
+
+msgid "No fill"
+msgstr "Fără umplere"
+
+msgid "No Glow"
+msgstr "Fără strălucire"
+
+msgid "No Gradient"
+msgstr "Fără degrade"
+
+msgid "No grid"
+msgstr "Fără grilă"
+
+msgid "No header row"
+msgstr "Fără rând de antet"
+
+msgid "No icons match your search."
+msgstr "Nicio pictogramă nu se potrivește căutării."
+
+msgid "No items to show."
+msgstr "Nu există elemente de afișat."
+
+msgid "No language matches your search."
+msgstr "Nicio limbă nu corespunde căutării dvs."
+
+msgid "No languages to show yet."
+msgstr "Încă nu există limbi de afișat."
+
+msgid "No Markup"
+msgstr "Fără marcaj"
+
+msgid "No model credits were built into this copy."
+msgstr "Această copie nu include mențiuni despre modele."
+
+msgid "No new sources in that file"
+msgstr "Niciun izvor nou în acel fișier"
+
+msgid "No Outline"
+msgstr "Fără contur"
+
+msgid "No Paragraph Space"
+msgstr "Fără spațiu între paragrafe"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Nu s-au găsit imprimante. Configurează o imprimantă de sistem sau exportă un PDF."
+
+msgid "No recovery copies."
+msgstr "Nicio copie de recuperare."
+
+msgid "No Reflection"
+msgstr "Fără reflexie"
+
+msgid "No Scaling"
+msgstr "Fără scalare"
+
+msgid "No Shadow"
+msgstr "Fără umbră"
+
+msgid "No Soft Edges"
+msgstr "Fără margini estompate"
+
+msgid "No sources yet."
+msgstr "Nicio sursă încă."
+
+msgid "No Spacing"
+msgstr "Fără spațiere"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Nu este instalat niciun dicționar ortografic pentru {language}, așa că nu se verifică. WordCraft caută dicționarul Hunspell {name} în folderul WORDCRAFT_DICTIONARIES și în locurile uzuale ale sistemului."
+
+msgid "No templates match your search."
+msgstr "Niciun șablon nu se potrivește căutării."
+
+msgid "No Transform"
+msgstr "Fără transformare"
+
+msgid "No watermark"
+msgstr "Fără filigran"
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Niciun cuvânt încă. „Adăugați în dicționar” pe un cuvânt scris greșit îl pune aici."
+
+msgid "No-Width Non Break"
+msgstr "Fără lățime, fără rupere"
+
+msgid "No-Width Optional Break"
+msgstr "Fără lățime, rupere opțională"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Cratimă fără rupere"
+
+msgid "Normal  {size} all"
+msgstr "Normal  {size} peste tot"
+
+msgid "Normal Indent"
+msgstr "Indent normal"
+
+msgid "Normal probability density"
+msgstr "Densitatea de probabilitate normală"
+
+msgid "Normal speed"
+msgstr "Viteză normală"
+
+msgid "Normal Style"
+msgstr "Stil normal"
+
+msgid "Normal Table"
+msgstr "Tabel normal"
+
+msgid "Normal Text"
+msgstr "Text normal"
+
+msgid "Normal Word Document"
+msgstr "Document Word normal"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Norvegiană (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr "norvegiană (nynorsk)"
+
+msgid "Not"
+msgstr "Non"
+
+msgid "Not available right now"
+msgstr "Indisponibil momentan"
+
+msgid "Not available yet"
+msgstr "Încă indisponibil"
+
+msgid "not editing an equation"
+msgstr "nu editați o ecuație"
+
+msgid "Not equal to"
+msgstr "Diferit de"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Nelegat: fă clic pe o casetă de text"
+
+msgid "Not now"
+msgstr "Nu acum"
+
+msgid "Not saved"
+msgstr "Nesalvat"
+
+msgid "Not saved yet"
+msgstr "Încă nesalvat"
+
+msgid "Not set"
+msgstr "Nesetat"
+
+msgid "Not set: the system's usual places"
+msgstr "Nesetat: locurile uzuale din sistem"
+
+msgid "Not used by any command"
+msgstr "Nefolosit de nicio comandă"
+
+msgid "Not {name}"
+msgstr "Nu {name}"
+
+msgid "Nothing"
+msgstr "Nimic"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Nimic colectat încă. Elementele pe care le copiezi sau le tai apar aici."
+
+msgid "nothing is selected"
+msgstr "nimic nu este selectat"
+
+msgid "Nothing of this type in the document."
+msgstr "Nimic de acest tip în document."
+
+msgid "Now used by {command}"
+msgstr "Folosit acum de {command}"
+
+msgid "Nudge"
+msgstr "Deplasare fină"
+
+msgid "Num Occurrences"
+msgstr "Număr de apariții"
+
+msgid "Number alignment:"
+msgstr "Alinierea numerelor:"
+
+msgid "Number format"
+msgstr "Format număr"
+
+msgid "Number of columns:"
+msgstr "Număr de coloane:"
+
+msgid "Number of rows:"
+msgstr "Număr de rânduri:"
+
+msgid "Number of the page the field sits on"
+msgstr "Numărul paginii pe care se află câmpul"
+
+msgid "Number of the section the field sits in"
+msgstr "Numărul secțiunii în care se află câmpul"
+
+msgid "Number only, without the label's words"
+msgstr "Doar numărul, fără cuvintele etichetei"
+
+msgid "Number style for this level:"
+msgstr "Stil de numerotare pentru acest nivel:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Numerotează ecuația; numărul stă la marginea dreaptă (sau scrie # și apoi numărul)"
+
+msgid "Numbering"
+msgstr "Numerotare"
+
+msgid "Numbering:"
+msgstr "Numerotare:"
+
+msgid "Numbering…"
+msgstr "Numerotare…"
+
+msgid "Numerals"
+msgstr "Cifre"
+
+msgid "Numerals:"
+msgstr "Cifre:"
+
+msgid "n×n Identity Matrix"
+msgstr "Matrice identitate n×n"
+
+msgid "n×n Matrix"
+msgstr "Matrice n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Coloane alternante impare"
+
+msgid "Odd Banded Rows"
+msgstr "Rânduri alternante impare"
+
+msgid "Odd Page"
+msgstr "Pagină impară"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Office 2003 Default"
+msgstr "Implicit Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Decalaj (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Decalaj: jos"
+
+msgid "Offset: Bottom Left"
+msgstr "Decalaj: jos stânga"
+
+msgid "Offset: Bottom Right"
+msgstr "Decalaj: jos dreapta"
+
+msgid "Offset: Center"
+msgstr "Decalaj: centru"
+
+msgid "Offset: Left"
+msgstr "Decalaj: stânga"
+
+msgid "Offset: Right"
+msgstr "Decalaj: dreapta"
+
+msgid "Offset: Top"
+msgstr "Decalaj: sus"
+
+msgid "Offset: Top Left"
+msgstr "Decalaj: sus stânga"
+
+msgid "Offset: Top Right"
+msgstr "Decalaj: sus dreapta"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Taste de meniu vechi: Alt, {keys}. Continuați să tastați sau apăsați Esc pentru a anula."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Activat: cursorul alunecă în noul loc când scrieți sau folosiți tastele săgeți, iar clipirea lui se estompează. Dezactivat: sare și clipește."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Activat: WordCraft se deschide la Fișier › Pornire, cu un document gol, șabloanele și documentele dvs. recente. Dezactivat: se deschide un document gol."
+
+msgid "One"
+msgstr "Unu"
+
+msgid "One half"
+msgstr "O jumătate"
+
+msgid "One label per recipient"
+msgstr "O etichetă per destinatar"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Un rând pe element. Enter adaugă un element."
+
+msgid "One Page"
+msgstr "O pagină"
+
+msgid "One-sided"
+msgstr "Pe o singură față"
+
+msgid "Only allow this kind of editing:"
+msgstr "Permite doar acest tip de editare:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Se pot adăuga doar comentarii, cu excepția zonelor marcate ca editabile."
+
+msgid "Only for the selected text"
+msgstr "Doar pentru textul selectat"
+
+msgid "Only form fields can be filled in."
+msgstr "Se pot completa doar câmpurile de formular."
+
+msgid "only in Outline view"
+msgstr "doar în vizualizarea Schiță"
+
+msgid "Only in this document"
+msgstr "Doar în acest document"
+
+msgid "Only label and number"
+msgstr "Doar eticheta și numărul"
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Se pot aplica doar stilurile permise."
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Se pot urma doar linkurile web (http, https) și de e-mail (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Deschideți mai întâi un document"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Deschideți un fișier cu propriul browser al WordCraft când dialogul de fișiere al sistemului nu apare."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Text OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Se deschide dialogul de imprimare…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "De acum, deschide fișierele .docx, .doc, .rtf și .odt și șabloanele Word cu WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Deschide Setări › Aplicații implicite, unde alegeți WordCraft pentru .docx și celelalte tipuri de documente."
+
+msgid "Operator"
+msgstr "Operator"
+
+msgid "Operator Structures"
+msgstr "Structuri de operatori"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Optional Hyphen"
+msgstr "Cratimă opțională"
+
+msgid "Or"
+msgstr "Sau"
+
+msgid "Or save a copy in another format:"
+msgstr "Sau salvează o copie în alt format:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Numerale ordinale (1st) ca exponent"
+
+msgid "Organizer"
+msgstr "Organizator"
+
+msgid "Organizer…"
+msgstr "Organizator…"
+
+msgid "Original document"
+msgstr "Document original"
+
+msgid "Original size"
+msgstr "Dimensiune originală"
+
+msgid "Other Large Operators"
+msgstr "Alți operatori mari"
+
+msgid "Other styles and their TOC level:"
+msgstr "Alte stiluri și nivelul lor în cuprins:"
+
+msgid "Other:"
+msgstr "Altele:"
+
+msgid "Otherwise insert:"
+msgstr "Altfel inserează:"
+
+msgid "Outline Level"
+msgstr "Nivel structură"
+
+msgid "Outline level"
+msgstr "Nivel structură"
+
+msgid "Outline levels"
+msgstr "Niveluri structură"
+
+msgid "Outline State"
+msgstr "Stare structură"
+
+msgid "Outline Tools"
+msgstr "Instrumente structură"
+
+msgid "Outlining"
+msgstr "Structurare"
+
+msgid "Outside border"
+msgstr "Bordură exterioară"
+
+msgid "Outside Borders"
+msgstr "Borduri exterioare"
+
+msgid "Outside:"
+msgstr "Exterior:"
+
+msgid "Outward Brackets"
+msgstr "Paranteze spre exterior"
+
+msgid "Overbar"
+msgstr "Bară deasupra"
+
+msgid "Overbars and Underbars"
+msgstr "Bare deasupra și dedesubt"
+
+msgid "Overbrace"
+msgstr "Acoladă deasupra"
+
+msgid "Overtype"
+msgstr "Suprascriere"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Suprascriere (ce scrieți înlocuiește caracterele de după cursor)"
+
+msgid "Page Background"
+msgstr "Fundal pagină"
+
+msgid "Page Border"
+msgstr "Bordură pagină"
+
+msgid "Page Borders"
+msgstr "Borduri pagină"
+
+msgid "Page Break"
+msgstr "Salt la pagină nouă"
+
+msgid "Page Break Before"
+msgstr "Salt la pagină nouă înainte"
+
+msgid "Page break before"
+msgstr "Salt la pagină nouă înainte"
+
+msgid "Page Breaks"
+msgstr "Întreruperi de pagină"
+
+msgid "Page Color"
+msgstr "Culoare pagină"
+
+msgid "Page color"
+msgstr "Culoarea paginii"
+
+msgid "Page display"
+msgstr "Afișare pagini"
+
+msgid "Page Down"
+msgstr "Pagină în jos"
+
+msgid "Page image (*.png)"
+msgstr "Imagine pagină (*.png)"
+
+msgid "Page Movement"
+msgstr "Deplasare pe pagini"
+
+msgid "Page Number"
+msgstr "Număr de pagină"
+
+msgid "Page number"
+msgstr "Număr pagină"
+
+msgid "Page Number Format"
+msgstr "Format număr de pagină"
+
+msgid "Page number style"
+msgstr "Stil număr de pagină"
+
+msgid "Page numbering"
+msgstr "Numerotare pagini"
+
+msgid "Page numbers at the right margin"
+msgstr "Numere de pagină la marginea dreaptă"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Pagina pe care se află un pasaj marcat"
+
+msgid "Page Setup"
+msgstr "Configurare pagină"
+
+msgid "Page title"
+msgstr "Titlul paginii"
+
+msgid "Page Up"
+msgstr "Pagină în sus"
+
+msgid "Page Width"
+msgstr "Lățime pagină"
+
+msgid "Page width"
+msgstr "Lățimea paginii"
+
+msgid "Page X of Y"
+msgstr "Pagina X din Y"
+
+msgid "Page {page}"
+msgstr "Pagina {page}"
+
+msgid "Page\nBorders"
+msgstr "Borduri\npagină"
+
+msgid "Page\nColor"
+msgstr "Culoare\npagină"
+
+msgid "Page\nNumber"
+msgstr "Număr de\npagină"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Pagini precum 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Paginile marcajului:"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Dimensiune hârtie:"
+
+msgid "Paragraph Character"
+msgstr "Caracter de paragraf"
+
+msgid "Paragraph Details"
+msgstr "Detalii paragraf"
+
+msgid "Paragraph Down"
+msgstr "Paragraf în jos"
+
+msgid "Paragraph Mark"
+msgstr "Marcaj de paragraf"
+
+msgid "Paragraph marks"
+msgstr "Marcaje de paragraf"
+
+msgid "Paragraph Settings"
+msgstr "Setări paragraf"
+
+msgid "Paragraph Spacing"
+msgstr "Spațiere paragrafe"
+
+msgid "Paragraph style"
+msgstr "Stil de paragraf"
+
+msgid "Paragraph Up"
+msgstr "Paragraf în sus"
+
+msgid "Paragraphs"
+msgstr "Paragrafe"
+
+msgid "Paragraph…"
+msgstr "Paragraf…"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Parentheses"
+msgstr "Paranteze rotunde"
+
+msgid "Parentheses with Separator"
+msgstr "Paranteze rotunde cu separator"
+
+msgid "Partial Differential"
+msgstr "Diferențială parțială"
+
+msgid "Password:"
+msgstr "Parolă:"
+
+msgid "Paste (⌘V)"
+msgstr "Lipire (⌘V)"
+
+msgid "Paste All"
+msgstr "Lipire toate"
+
+msgid "Paste as:"
+msgstr "Lipiți ca:"
+
+msgid "Paste Clipboard Item"
+msgstr "Lipire element din clipboard"
+
+msgid "Paste Formatting"
+msgstr "Lipire formatare"
+
+msgid "Paste function:"
+msgstr "Lipiți funcția:"
+
+msgid "Paste Special…"
+msgstr "Lipire specială…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Lipire: păstrare doar text"
+
+msgid "Paste: Merge Formatting"
+msgstr "Lipire: îmbinare formatare"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Lipește imaginea din clipboard."
+
+msgid "Paused"
+msgstr "În pauză"
+
+msgid "PDF document (*.pdf)"
+msgstr "Document PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Pixuri"
+
+msgid "People"
+msgstr "Persoane"
+
+msgid "Periodical"
+msgstr "Periodic"
+
+msgid "Persian"
+msgstr "persană"
+
+msgid "Personal"
+msgstr "Personale"
+
+msgid "Personal Templates"
+msgstr "Șabloane personale"
+
+msgid "Personalize"
+msgstr "Personalizare"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Filipine"
+
+msgid "Phonetic Guide"
+msgstr "Ghid fonetic"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Pi supra 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Alegeți un grup personalizat (Grup nou creează unul)"
+
+msgid "Pick a field from the list"
+msgstr "Alegeți un câmp din listă"
+
+msgid "Picture"
+msgstr "Imagine"
+
+msgid "Picture Border"
+msgstr "Bordură imagine"
+
+msgid "Picture border"
+msgstr "Bordura imaginii"
+
+msgid "Picture Content Control"
+msgstr "Control de conținut imagine"
+
+msgid "Picture Format"
+msgstr "Format imagine"
+
+msgid "Picture Styles"
+msgstr "Stiluri de imagine"
+
+msgid "Picture transparency"
+msgstr "Transparența imaginii"
+
+msgid "Picture watermark"
+msgstr "Filigran imagine"
+
+msgid "Pictures"
+msgstr "Imagini"
+
+msgid "Pie"
+msgstr "Plăcintă"
+
+msgid "Place in This Document"
+msgstr "Plasare în acest document"
+
+msgid "Placeholder text"
+msgstr "Text substituent"
+
+msgid "Plain Table 1"
+msgstr "Tabel simplu 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Text simplu (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Control de conținut text simplu"
+
+msgid "Play/Pause"
+msgstr "Redare/pauză"
+
+msgid "Plus Equal"
+msgstr "Plus egal"
+
+msgid "Points and above"
+msgstr "Puncte și mai mult"
+
+msgid "Polish"
+msgstr "Poloneză"
+
+msgid "Portugal"
+msgstr "Portugalia"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugheză (Brazilia)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugheză (Portugalia)"
+
+msgid "Possible spelling mistake"
+msgstr "Posibilă greșeală de ortografie"
+
+msgid "Postal Code"
+msgstr "Cod poștal"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Serie de puteri a lui (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Lățime preferată:"
+
+msgid "Preserve formatting during updates"
+msgstr "Păstrați formatarea la actualizări"
+
+msgid "Preset gradients"
+msgstr "Degradeuri presetate"
+
+msgid "Press a key combination"
+msgstr "Apăsați o combinație de taste"
+
+msgid "Preview Results"
+msgstr "Previzualizare rezultate"
+
+msgid "Preview\nResults"
+msgstr "Previzualizare\nrezultate"
+
+msgid "Previous 1 or More"
+msgstr "Anteriorul de 1 sau mai multe ori"
+
+msgid "Previous Comment"
+msgstr "Comentariul anterior"
+
+msgid "Previous Field"
+msgstr "Câmpul anterior"
+
+msgid "Previous Record"
+msgstr "Înregistrarea anterioară"
+
+msgid "Previous Section"
+msgstr "Secțiunea anterioară"
+
+msgid "Previous Sentence"
+msgstr "Propoziția anterioară"
+
+msgid "Previous sentence"
+msgstr "Propoziția anterioară"
+
+msgid "Print Documents"
+msgstr "Imprimare documente"
+
+msgid "Print Documents…"
+msgstr "Imprimare documente…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Imprimarea a eșuat: procesul de imprimare s-a oprit."
+
+msgid "Print failed: {error}"
+msgstr "Imprimarea a eșuat: {error}"
+
+msgid "Print job submitted."
+msgstr "Lucrarea de imprimare a fost trimisă."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Lucrarea de imprimare a fost trimisă: {count} coli în coada de imprimare"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Lucrarea de imprimare a fost trimisă: {receipt}"
+
+msgid "Print Layout"
+msgstr "Aspect de imprimare"
+
+msgid "Print Markup"
+msgstr "Imprimare marcaj"
+
+msgid "Print settings"
+msgstr "Setări de imprimare"
+
+msgid "Print the page color"
+msgstr "Imprimă culoarea paginii"
+
+msgid "Print to PDF"
+msgstr "Imprimare în PDF"
+
+msgid "Print\nLayout"
+msgstr "Aspect de\nimprimare"
+
+msgid "Printer default"
+msgstr "Implicit al imprimantei"
+
+msgid "Printer discovery failed."
+msgstr "Descoperirea imprimantelor a eșuat."
+
+msgid "Privacy for this document"
+msgstr "Confidențialitate pentru acest document"
+
+msgid "Privacy Options"
+msgstr "Opțiuni de confidențialitate"
+
+msgid "Privacy Settings"
+msgstr "Setări de confidențialitate"
+
+msgid "Process"
+msgstr "Proces"
+
+msgid "Product"
+msgstr "Produs"
+
+msgid "Product of A"
+msgstr "Produsul lui A"
+
+msgid "Product with Limits"
+msgstr "Produs cu limite"
+
+msgid "Product with Lower Limit"
+msgstr "Produs cu limită inferioară"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Produs cu limite în indice și exponent"
+
+msgid "Products and Coproducts"
+msgstr "Produse și coproduse"
+
+msgid "Professional"
+msgstr "Profesional"
+
+msgid "Promote"
+msgstr "Promovare"
+
+msgid "Promote to Heading 1"
+msgstr "Promovare la Titlu 1"
+
+msgid "Proofing"
+msgstr "Verificare"
+
+msgid "Proofing Issues"
+msgstr "Probleme de verificare"
+
+msgid "Proofing language"
+msgstr "Limba de verificare"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Protejare document"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Editură"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Put the caret in a content control first."
+msgstr "Puneți mai întâi cursorul într-un control de conținut."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Readuci comenzile implicite în bara de acces rapid?"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Quadratic Root"
+msgstr "Rădăcină pătrată"
+
+msgid "Quick Access Toolbar"
+msgstr "Bară de acces rapid"
+
+msgid "Quick Parts"
+msgstr "Părți rapide"
+
+msgid "Quick Tables"
+msgstr "Tabele rapide"
+
+msgid "Quote"
+msgstr "Citat"
+
+msgid "Radical"
+msgstr "Radical"
+
+msgid "Radical with Degree"
+msgstr "Radical cu grad"
+
+msgid "Radicals"
+msgstr "Radicali"
+
+msgid "Raised/lowered"
+msgstr "Ridicat/coborât"
+
+msgid "Read Aloud"
+msgstr "Citire cu voce tare"
+
+msgid "Read Aloud Status"
+msgstr "Starea citirii cu voce tare"
+
+msgid "Read Mode"
+msgstr "Mod de citire"
+
+msgid "Read\nAloud"
+msgstr "Citire\ncu voce tare"
+
+msgid "Read\nMode"
+msgstr "Mod de\ncitire"
+
+msgid "Reading"
+msgstr "Citire"
+
+msgid "Reading Column Width"
+msgstr "Lățimea coloanei de citire"
+
+msgid "Reading Highlight"
+msgstr "Evidențiere la citire"
+
+msgid "Reading Line Spacing"
+msgstr "Spațierea rândurilor la citire"
+
+msgid "Reading Mode"
+msgstr "Mod de citire"
+
+msgid "Reading Page Color"
+msgstr "Culoarea paginii de citire"
+
+msgid "Reading Speed"
+msgstr "Viteză de citire"
+
+msgid "Reading Text Size"
+msgstr "Dimensiunea textului la citire"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Citește textul îmbogățit din clipboard și păstrează formatarea."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Citește conținutul web din clipboard și păstrează formatarea."
+
+msgid "Recent documents to show:"
+msgstr "Documente recente de afișat:"
+
+msgid "Recently Used Fonts"
+msgstr "Fonturi folosite recent"
+
+msgid "Recently used symbols:"
+msgstr "Simboluri folosite recent:"
+
+msgid "Recipient List"
+msgstr "Listă de destinatari"
+
+msgid "Recipient lists"
+msgstr "Liste de destinatari"
+
+msgid "Recipients: {count}"
+msgstr "Destinatari: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Recolorați o imagine dintr-o singură culoare, cum ar fi o pictogramă"
+
+msgid "Recolor Selected Ink"
+msgstr "Recolorare cerneală selectată"
+
+msgid "Record Macro"
+msgstr "Înregistrare macrocomandă"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr "Recuperare documente"
+
+msgid "Recover Unsaved Documents"
+msgstr "Recuperare documente nesalvate"
+
+msgid "Recovery copy"
+msgstr "Copie de recuperare"
+
+msgid "Recovery is disabled while this document has a password."
+msgstr "Recuperarea este dezactivată cât timp documentul are o parolă."
+
+msgid "Red:"
+msgstr "Roșu:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Reducere indent suspendat"
+
+msgid "Reference type:"
+msgstr "Tip de referință:"
+
+msgid "References"
+msgstr "Referințe"
+
+msgid "Reflection"
+msgstr "Reflexie"
+
+msgid "Refresh printers"
+msgstr "Reîmprospătare imprimante"
+
+msgid "Region:"
+msgstr "Regiune:"
+
+msgid "Registered"
+msgstr "Înregistrat"
+
+msgid "Registered Sign"
+msgstr "Semnul de marcă înregistrată"
+
+msgid "Regular expressions"
+msgstr "Expresii regulate"
+
+msgid "Reject"
+msgstr "Respingere"
+
+msgid "Reject All Changes"
+msgstr "Respingere toate modificările"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr ""
+
+msgid "Reject and Move to Next"
+msgstr ""
+
+msgid "Reject Change"
+msgstr "Respingere modificare"
+
+msgid "Relationship"
+msgstr "Relație"
+
+msgid "Relative to original picture size"
+msgstr "Relativ la dimensiunea originală a imaginii"
+
+msgid "Remove Added Font"
+msgstr "Eliminare font adăugat"
+
+msgid "Remove condition"
+msgstr "Eliminați condiția"
+
+msgid "Remove Content Control"
+msgstr "Eliminare control de conținut"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Eliminați toate scurtăturile personalizate și restaurați tastele încorporate?"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Eliminați toate filele și grupurile personalizate și afișați din nou toate filele?"
+
+msgid "Remove field"
+msgstr "Eliminați câmpul"
+
+msgid "Remove Footer"
+msgstr "Eliminare subsol"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Eliminare din bara de acces rapid"
+
+msgid "Remove gradient stop"
+msgstr "Eliminare punct de degrade"
+
+msgid "Remove Header"
+msgstr "Eliminare antet"
+
+msgid "Remove Hyperlink"
+msgstr "Eliminare hyperlink"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Eliminați numele meu din comentarii, modificări și proprietățile fișierului la salvare"
+
+msgid "Remove Password"
+msgstr "Eliminare parolă"
+
+msgid "Remove Pen"
+msgstr "Eliminare pix"
+
+msgid "Remove recipient"
+msgstr "Eliminați destinatarul"
+
+msgid "Remove row"
+msgstr "Eliminați rândul"
+
+msgid "Remove series"
+msgstr "Eliminați seria"
+
+msgid "Remove Space After Paragraph"
+msgstr "Eliminare spațiu după paragraf"
+
+msgid "Remove Table of Contents"
+msgstr "Eliminare cuprins"
+
+msgid "Remove the control once edited"
+msgstr "Eliminați controlul după editare"
+
+msgid "Remove the space before the punctuation"
+msgstr "Eliminați spațiul dinaintea semnului de punctuație"
+
+msgid "Remove Watermark"
+msgstr "Eliminare filigran"
+
+msgid "Rename Document"
+msgstr "Redenumire document"
+
+msgid "Reopen"
+msgstr "Redeschidere"
+
+msgid "Repeat as header row on each page"
+msgstr "Repetă ca rând de antet pe fiecare pagină"
+
+msgid "Repeat Header Rows"
+msgstr "Repetare rânduri de antet"
+
+msgid "Repeating Section Content Control"
+msgstr "Control de conținut secțiune repetitivă"
+
+msgid "Replace All"
+msgstr "Înlocuire totală"
+
+msgid "Replace as you type"
+msgstr "Înlocuiți pe măsură ce scrieți"
+
+msgid "Replace Document Text"
+msgstr "Înlocuire text document"
+
+msgid "Replace text as you type"
+msgstr "Înlocuiți textul pe măsură ce scrieți"
+
+msgid "Replace with:"
+msgstr "Înlocuiește cu:"
+
+msgid "Replay"
+msgstr "Reluare"
+
+msgid "Research"
+msgstr "Cercetare"
+
+msgid "Researcher"
+msgstr "Cercetător"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Cercetătorul necesită un serviciu online; WordCraft vă păstrează documentele offline."
+
+msgid "Reset All…"
+msgstr "Resetare totală…"
+
+msgid "Reset Character Formatting"
+msgstr "Resetare formatare caractere"
+
+msgid "Reset Crop"
+msgstr "Resetare decupare"
+
+msgid "Reset Default Formatting"
+msgstr "Resetare formatare implicită"
+
+msgid "Reset Graphic"
+msgstr "Resetare grafică"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Resetare formatare paragraf"
+
+msgid "Reset Picture"
+msgstr "Resetare imagine"
+
+msgid "Reset tips"
+msgstr "Resetare sfaturi"
+
+msgid "Reset to Normal"
+msgstr "Resetare la Normal"
+
+msgid "Reset\nGraphic"
+msgstr "Resetare\ngrafică"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Redimensionare tabel prin tragere"
+
+msgid "Resolve"
+msgstr "Rezolvare"
+
+msgid "Resolved"
+msgstr "Rezolvat"
+
+msgid "Restart at 1"
+msgstr "Repornire de la 1"
+
+msgid "Restart Each Page"
+msgstr "Repornire pe fiecare pagină"
+
+msgid "Restart Each Section"
+msgstr "Repornire în fiecare secțiune"
+
+msgid "Restart list after:"
+msgstr "Repornește lista după:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr "Restaurarea deschide o copie nesalvată. Fișierul original rămâne neschimbat."
+
+msgid "Restrict Editing"
+msgstr "Restricționare editare"
+
+msgid "Restrict\nEditing"
+msgstr "Restricționare\neditare"
+
+msgid "Results"
+msgstr "Rezultate"
+
+msgid "Return address labels"
+msgstr "Etichete pentru adresa expeditorului"
+
+msgid "Return address:"
+msgstr "Adresa expeditorului:"
+
+msgid "Reviewing"
+msgstr "Revizuire"
+
+msgid "Reviewing Pane"
+msgstr "Panou de revizuire"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Revizuire - modificările devin sugestii"
+
+msgid "Revised document"
+msgstr "Document revizuit"
+
+msgid "Rewind"
+msgstr "Derulare înapoi"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Derulez înapoi. Spuneți-mi când să mă opresc."
+
+msgid "Ribbon"
+msgstr "Panglică"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Panglică și bară de acces rapid:"
+
+msgid "Ribbon tabs"
+msgstr "File din panglică"
+
+msgid "Rich Text Content Control"
+msgstr "Control de conținut text îmbogățit"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Rich Text Format (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Rich Text Format (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Dreapta (vertical)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Săgeată spre dreapta cu text deasupra"
+
+msgid "Right Arrow with Text Below"
+msgstr "Săgeată spre dreapta cu text dedesubt"
+
+msgid "Right Border"
+msgstr "Bordură dreaptă"
+
+msgid "Right border"
+msgstr "Bordură dreaptă"
+
+msgid "Right Bracket Twice"
+msgstr "Paranteză de închidere dublată"
+
+msgid "Right indent"
+msgstr "Indent la dreapta"
+
+msgid "Right Margin"
+msgstr "Margine dreaptă"
+
+msgid "Right Only"
+msgstr "Doar dreapta"
+
+msgid "Right-to-left"
+msgstr "De la dreapta la stânga"
+
+msgid "Right-to-Left Section"
+msgstr "Secțiune de la dreapta la stânga"
+
+msgid "Right-to-Left Table"
+msgstr "Tabel de la dreapta la stânga"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Direcție text de la dreapta la stânga"
+
+msgid "Rightwards Arrow Above"
+msgstr "Săgeată spre dreapta deasupra"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Harpon spre dreapta deasupra"
+
+msgid "Romanian"
+msgstr "Română"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Rădăcinile lui ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Rotește tot textul cu 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Rotește tot textul cu 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Rotire la stânga cu 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Rotire la dreapta cu 90°"
+
+msgid "Rotate with shape"
+msgstr "Rotire odată cu forma"
+
+msgid "Rounded"
+msgstr "Rotunjit"
+
+msgid "Row"
+msgstr "Rând"
+
+msgid "Row:"
+msgstr "Rând:"
+
+msgid "Rows & Columns"
+msgstr "Rânduri și coloane"
+
+msgid "Ruby text:"
+msgstr "Text ruby:"
+
+msgid "Rules"
+msgstr "Reguli"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "În text"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Résumé"
+msgstr "CV"
+
+msgid "SAMPLE"
+msgstr "EȘANTION"
+
+msgid "Sat:"
+msgstr "Sâm:"
+
+msgid "Saturation and recolor"
+msgstr "Saturație și recolorare"
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Salvează o copie în alt format. Imprimarea trece printr-un PDF pe care îl puteți imprima din orice vizualizator."
+
+msgid "Save as Word Template…"
+msgstr "Salvare ca șablon Word…"
+
+msgid "Save documents"
+msgstr "Salvare documente"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Salvați documentul pentru a activa salvarea automată"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Salvați documentul pentru a activa salvarea automată (un fișier pe care doar l-ați deschis nu este rescris până nu îl salvați)"
+
+msgid "Save these pages as PDF…"
+msgstr "Salvați aceste pagini ca PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Salvat. Salvat din nou. Tot salvat. E foarte salvat."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Salvează un șablon .dotx în folderul de șabloane. Apare în Fișier › Nou, la Personale."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Salvarea fișierului {name} a fost anulată, deci rămâne deschis și nu s-a pierdut nimic."
+
+msgid "Sayings"
+msgstr "Replici"
+
+msgid "Sayings:"
+msgstr "Replici:"
+
+msgid "Scale Drawing"
+msgstr "Desen la scară"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr "Scalare la dimensiunea hârtiei"
+
+msgid "Scatter"
+msgstr "Dispersie"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Scroll ribbon left"
+msgstr "Derulare panglică la stânga"
+
+msgid "Scroll ribbon right"
+msgstr "Derulare panglică la dreapta"
+
+msgid "Search Commands"
+msgstr "Căutare comenzi"
+
+msgid "Search commands and help"
+msgstr "Căutați comenzi și ajutor"
+
+msgid "Search document"
+msgstr "Căutare în document"
+
+msgid "Search for templates"
+msgstr "Căutați șabloane"
+
+msgid "Search icons"
+msgstr "Căutați pictograme"
+
+msgid "Search Options"
+msgstr "Opțiuni de căutare"
+
+msgid "Search:"
+msgstr "Căutare:"
+
+msgid "Secant Function"
+msgstr "Funcția secantă"
+
+msgid "Section 1.01"
+msgstr "Secțiunea 1.01"
+
+msgid "Section Break"
+msgstr "Întrerupere de secțiune"
+
+msgid "Section Breaks"
+msgstr "Întreruperi de secțiune"
+
+msgid "Section Character"
+msgstr "Caracter de secțiune"
+
+msgid "Section direction:"
+msgstr "Direcția secțiunii:"
+
+msgid "Section Mark"
+msgstr "Semn de secțiune"
+
+msgid "Section Properties"
+msgstr "Proprietăți secțiune"
+
+msgid "Sections"
+msgstr "Secțiuni"
+
+msgid "See"
+msgstr "Vezi"
+
+msgid "select a chart first"
+msgstr "selectați mai întâi o diagramă"
+
+msgid "select a connector first"
+msgstr "selectați mai întâi un conector"
+
+msgid "select a diagram first"
+msgstr "selectați mai întâi o diagramă"
+
+msgid "select a drawing canvas first"
+msgstr "selectați mai întâi un panou de desen"
+
+msgid "select a floating picture or shape first"
+msgstr "selectați mai întâi o imagine sau o formă flotantă"
+
+msgid "select a group first"
+msgstr "selectați mai întâi un grup"
+
+msgid "select a picture first"
+msgstr "selectați mai întâi o imagine"
+
+msgid "Select a picture first."
+msgstr "Selectați mai întâi o imagine."
+
+msgid "select a picture or shape first"
+msgstr "selectează mai întâi o imagine sau o formă"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Selectați o imagine, o formă, un grafic sau un tabel pentru a-l descrie."
+
+msgid "Select a place in this document:"
+msgstr "Selectați un loc din acest document:"
+
+msgid "Select a printer"
+msgstr "Selectați o imprimantă"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "selectați mai întâi o formă"
+
+msgid "select a shape or decorative text first"
+msgstr "selectați mai întâi o formă sau un text decorativ"
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Selectați o formă, o casetă de text sau un canvas de desen pentru a-i formata umplerea."
+
+msgid "select a SmartArt graphic first"
+msgstr "selectați mai întâi un grafic SmartArt"
+
+msgid "select a text box first"
+msgstr "selectați mai întâi o casetă de text"
+
+msgid "select a text box linked to another first"
+msgstr "selectați mai întâi o casetă de text legată de alta"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Selectare celulă"
+
+msgid "Select Column"
+msgstr "Selectare coloană"
+
+msgid "Select Heading and Content"
+msgstr "Selectare titlu și conținut"
+
+msgid "Select Line"
+msgstr "Selectare rând"
+
+msgid "Select Paragraph"
+msgstr "Selectare paragraf"
+
+msgid "Select Picture…"
+msgstr "Selectare imagine…"
+
+msgid "Select Range"
+msgstr "Selectare interval"
+
+msgid "Select Recipients"
+msgstr "Selectare destinatari"
+
+msgid "select recipients first"
+msgstr "selectează mai întâi destinatarii"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Selectați mai întâi destinatarii pentru a alege dintre câmpurile lor."
+
+msgid "Select recipients first to match their fields."
+msgstr "Selectați mai întâi destinatarii pentru a potrivi câmpurile lor."
+
+msgid "Select Row"
+msgstr "Selectare rând"
+
+msgid "Select Sentence"
+msgstr "Selectare propoziție"
+
+msgid "Select Table"
+msgstr "Selectare tabel"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Selectare celule de tabel prin clic"
+
+msgid "Select Text"
+msgstr "Selectare text"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Selectare text cu formatare similară"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Selectați textul, apoi bifați cine îl mai poate edita."
+
+msgid "select two or more cells to merge"
+msgstr "selectează două sau mai multe celule de îmbinat"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "selectează mai întâi două sau mai multe imagini sau forme (Shift+clic)"
+
+msgid "Select Word"
+msgstr "Selectare cuvânt"
+
+msgid "Select\nRecipients"
+msgstr "Selectare\ndestinatari"
+
+msgid "Selected Fields"
+msgstr "Câmpuri selectate"
+
+msgid "Selected text"
+msgstr "Text selectat"
+
+msgid "Selection Pane"
+msgstr "Panou de selecție"
+
+msgid "Semitransparent"
+msgstr "Semitransparent"
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Trimiteți documentul direct la dialogul de imprimare al sistemului sau salvați o copie în alt format mai jos."
+
+msgid "Sentence"
+msgstr "Propoziție"
+
+msgid "Sentence case."
+msgstr "Majusculă la începutul propoziției."
+
+msgid "Separate text at"
+msgstr "Separă textul la"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Separator:"
+
+msgid "Sepia"
+msgstr "Sepia"
+
+msgid "Sequence name:"
+msgstr "Numele secvenței:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Sârbă (chirilică)"
+
+msgid "Serbian (Latin)"
+msgstr "Sârbă (latină)"
+
+msgid "Series name"
+msgstr "Numele seriei"
+
+msgid "Series {n}"
+msgstr "Seria {n}"
+
+msgid "Set As Default"
+msgstr "Setare ca implicit"
+
+msgid "Set as default"
+msgstr "Setează ca implicită"
+
+msgid "Set As Default (Font)"
+msgstr "Setare ca implicit (Font)"
+
+msgid "Set As Default (Page Setup)"
+msgstr "Setare ca implicit (Configurare pagină)"
+
+msgid "Set As Default (Paragraph)"
+msgstr "Setare ca implicit (Paragraf)"
+
+msgid "Set as Default Language"
+msgstr "Setează ca limbă implicită"
+
+msgid "Set Caret"
+msgstr "Setare cursor"
+
+msgid "Set Character Formatting"
+msgstr "Setare formatare caractere"
+
+msgid "Set Date"
+msgstr "Setare dată"
+
+msgid "Set Equation"
+msgstr "Setare ecuație"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Setare valoare de numerotare"
+
+msgid "Set Paragraph Formatting"
+msgstr "Setare formatare paragraf"
+
+msgid "Set Proofing Language…"
+msgstr "Setare limbă de verificare…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Setare:"
+
+msgid "Shading"
+msgstr "Umbrire"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Umbră, strălucire și margini estompate"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Umplere formă"
+
+msgid "Shape Format"
+msgstr "Format formă"
+
+msgid "Shape Outline"
+msgstr "Contur formă"
+
+msgid "Shape Styles"
+msgstr "Stiluri de formă"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Etichete de expediere"
+
+msgid "Shortcut key:"
+msgstr "Tastă de scurtătură:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Afișați ghidaje de aliniere la mutarea imaginilor și formelor"
+
+msgid "Show all formatting marks"
+msgstr "Afișați toate semnele de formatare"
+
+msgid "Show All Levels"
+msgstr "Afișare toate nivelurile"
+
+msgid "Show all revisions inline"
+msgstr "Afișați toate revizuirile în text"
+
+msgid "Show changes at:"
+msgstr "Afișați modificările la:"
+
+msgid "Show changes in:"
+msgstr "Afișați modificările în:"
+
+msgid "Show Comments"
+msgstr "Afișare comentarii"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Afișează documentele cu culorile inversate, ca Vizualizare › Schimbare mod. Salvarea, imprimarea și PDF-urile nu se schimbă."
+
+msgid "Show every bibliography field"
+msgstr "Afișați fiecare câmp din bibliografie"
+
+msgid "Show First Line Only"
+msgstr "Afișare doar primul rând"
+
+msgid "Show in the Styles gallery"
+msgstr "Afișați în galeria de stiluri"
+
+msgid "Show its list number"
+msgstr "Afișați numărul din listă"
+
+msgid "Show its number relative to this field"
+msgstr "Afișați numărul relativ la acest câmp"
+
+msgid "Show its number with all higher levels"
+msgstr "Afișați numărul cu toate nivelurile superioare"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Afișare KeyTips (Alt sau F10)"
+
+msgid "Show Level"
+msgstr "Afișare nivel"
+
+msgid "Show Level 1"
+msgstr "Afișare nivelul 1"
+
+msgid "Show Level 2"
+msgstr "Afișare nivelul 2"
+
+msgid "Show Level 3"
+msgstr "Afișare nivelul 3"
+
+msgid "Show Level 4"
+msgstr "Afișare nivelul 4"
+
+msgid "Show Level 5"
+msgstr "Afișare nivelul 5"
+
+msgid "Show Level 6"
+msgstr "Afișare nivelul 6"
+
+msgid "Show Level 7"
+msgstr "Afișare nivelul 7"
+
+msgid "Show Level 8"
+msgstr "Afișare nivelul 8"
+
+msgid "Show Level 9"
+msgstr "Afișare nivelul 9"
+
+msgid "Show Markup"
+msgstr "Afișare marcaj"
+
+msgid "Show Notes"
+msgstr "Afișare note"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Afișați în baloane doar comentariile și formatarea"
+
+msgid "Show only records that will be merged"
+msgstr "Afișați doar înregistrările care vor fi îmbinate"
+
+msgid "Show or Hide Style"
+msgstr "Afișare sau ascundere stil"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Afișare bară de acces rapid"
+
+msgid "Show revisions in balloons"
+msgstr "Afișați revizuirile în baloane"
+
+msgid "Show Text Formatting"
+msgstr "Afișare formatare text"
+
+msgid "Show the Assistant"
+msgstr "Afișare Asistent"
+
+msgid "Show the community button in the title bar"
+msgstr "Afișați butonul comunității în bara de titlu"
+
+msgid "Show the equation in the line of text"
+msgstr "Afișați ecuația în rândul de text"
+
+msgid "Show the equation on a line of its own"
+msgstr "Afișați ecuația pe un rând separat"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Afișați mini-bara de instrumente când este selectat text"
+
+msgid "Show the ribbon"
+msgstr "Afișare panglică"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Afișați ecranul de start când pornește WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Afișează din nou sfaturile pe care ați cerut să nu le mai vedeți."
+
+msgid "Show/Hide ¶"
+msgstr "Afișare/ascundere ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Afișare/ascundere ¶ ({key}) arată spațiile, tabulatorii și întreruperile ascunse în text."
+
+msgid "Show\nComments"
+msgstr "Afișare\ncomentarii"
+
+msgid "Showing the first {count} items."
+msgstr "Se afișează primele {count} elemente."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Afișează un arbore: fiecare element sub elementul căruia îi aparține."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Afișează elemente în jurul unei idei centrale: primul element este centrul."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Afișează elemente de aceeași importanță ca blocuri pe rânduri."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Afișează idei care se suprapun ca cercuri suprapuse."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Afișează părți ale unui întreg ca cadrane."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Afișează părți care se construiesc una pe alta, cea mai mare jos."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Afișează pașii în ordine, de la stânga la dreapta, cu săgeți între ei."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Afișează pași care se repetă, în jurul unui cerc."
+
+msgid "Shrink Font 1 Point"
+msgstr "Micșorare font cu 1 punct"
+
+msgid "Shrink text"
+msgstr "Micșorare text"
+
+msgid "Side to Side"
+msgstr "Dintr-o parte în alta"
+
+msgid "Side\nto Side"
+msgstr "Dintr-o parte\nîn alta"
+
+msgid "Sides of a right triangle"
+msgstr "Laturile unui triunghi dreptunghic"
+
+msgid "Signature Line"
+msgstr "Linie de semnătură"
+
+msgid "Simple Frame"
+msgstr "Cadru simplu"
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Seria sinus și cosinus a lui f(x)"
+
+msgid "Sine Function"
+msgstr "Funcția sinus"
+
+msgid "Sine theta"
+msgstr "Sinus theta"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Single"
+msgstr "Simplu"
+
+msgid "Single Brackets"
+msgstr "Paranteze drepte simple"
+
+msgid "Single Closing Quote"
+msgstr "Ghilimea simplă de închidere"
+
+msgid "Single label"
+msgstr "Etichetă unică"
+
+msgid "Single Left Angle"
+msgstr "Paranteză unghiulară stângă simplă"
+
+msgid "Single Left Bar"
+msgstr "Bară stângă simplă"
+
+msgid "Single Left Brace"
+msgstr "Acoladă stângă simplă"
+
+msgid "Single Left Bracket"
+msgstr "Paranteză pătrată stângă simplă"
+
+msgid "Single Left Parenthesis"
+msgstr "Paranteză rotundă stângă simplă"
+
+msgid "Single Opening Quote"
+msgstr "Ghilimea simplă de deschidere"
+
+msgid "Single Right Brace"
+msgstr "Acoladă dreaptă simplă"
+
+msgid "Single Right Bracket"
+msgstr "Paranteză pătrată dreaptă simplă"
+
+msgid "Single Right Parenthesis"
+msgstr "Paranteză rotundă dreaptă simplă"
+
+msgid "Single Spacing"
+msgstr "Spațiere simplă"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Numele site-ului"
+
+msgid "Size (pt):"
+msgstr "Dimensiune (pt):"
+
+msgid "Size and Crop…"
+msgstr "Dimensiune și decupare…"
+
+msgid "Sketchbook"
+msgstr "Caiet de schițe"
+
+msgid "Skewed Fraction"
+msgstr "Fracție înclinată"
+
+msgid "Skip citations & bibliography"
+msgstr "Omite citările și bibliografia"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Omitere citări și bibliografie"
+
+msgid "Skip Record If"
+msgstr "Omite înregistrarea dacă"
+
+msgid "Skip Record If…"
+msgstr "Omite înregistrarea dacă…"
+
+msgid "Slant Down"
+msgstr "Înclinat în jos"
+
+msgid "Slant Up"
+msgstr "Înclinat în sus"
+
+msgid "Slovak"
+msgstr "slovacă"
+
+msgid "Slovenian"
+msgstr "slovenă"
+
+msgid "Small caps"
+msgstr "Majuscule mici"
+
+msgid "Small change"
+msgstr "Modificare mică"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Ghilimele tipografice în loc de ghilimele drepte"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "Design SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "Stiluri SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Derulare și zoom lin, cu meniuri și butoane care apar treptat. Dezactivat afișează fiecare schimbare imediat."
+
+msgid "Soft Edge"
+msgstr "Margine estompată"
+
+msgid "Soft Edges"
+msgstr "Margini estompate"
+
+msgid "Soft Glow"
+msgstr "Strălucire ușoară"
+
+msgid "Solid Accent"
+msgstr "Accent plin"
+
+msgid "Solid fill"
+msgstr "Umplere uniformă"
+
+msgid "Sometimes"
+msgstr "Uneori"
+
+msgid "Sort by:"
+msgstr "Sortează după:"
+
+msgid "Sort order:"
+msgstr "Ordinea de sortare:"
+
+msgid "Sort Recipients"
+msgstr "Sortare destinatari"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Cod sursă: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Manager de surse"
+
+msgid "Source type:"
+msgstr "Tipul sursei:"
+
+msgid "Sources in this document:"
+msgstr "Surse din acest document:"
+
+msgid "South"
+msgstr "Sud"
+
+msgid "South Africa"
+msgstr "Africa de Sud"
+
+msgid "Space"
+msgstr "Spațiu"
+
+msgid "Space after"
+msgstr "Spațiu după"
+
+msgid "Space after: {pt} pt"
+msgstr "Spațiu după: {pt} pt"
+
+msgid "Space before"
+msgstr "Spațiu înainte"
+
+msgid "Space before/after:"
+msgstr "Spațiu înainte/după:"
+
+msgid "Space before: {pt} pt"
+msgstr "Spațiu înainte: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Spațiere (pt):"
+
+msgid "Spain"
+msgstr "Spania"
+
+msgid "Spanish (Latin America)"
+msgstr "Spaniolă (America Latină)"
+
+msgid "Spanish (Mexico)"
+msgstr "Spaniolă (Mexic)"
+
+msgid "Spanish (Spain)"
+msgstr "Spaniolă (Spania)"
+
+msgid "Spanish (Uruguay)"
+msgstr "Spaniolă (Uruguay)"
+
+msgid "Sparse Matrices"
+msgstr "Matrice rare"
+
+msgid "Special Characters"
+msgstr "Caractere speciale"
+
+msgid "Specify height:"
+msgstr "Specifică înălțimea:"
+
+msgid "Speech"
+msgstr "Vorbire"
+
+msgid "Spelling & Grammar"
+msgstr "Ortografie și gramatică"
+
+msgid "Spelling &\nGrammar"
+msgstr "Ortografie și\ngramatică"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Limba de verificare a ortografiei și gramaticii: {language}."
+
+msgid "Spelling Suggestions"
+msgstr "Sugestii de ortografie"
+
+msgid "Spike"
+msgstr "Spike"
+
+msgid "Split Cells"
+msgstr "Împărțire celule"
+
+msgid "Split Table"
+msgstr "Împărțire tabel"
+
+msgid "Spreadsheet Table"
+msgstr "Tabel de foaie de calcul"
+
+msgid "Square Root"
+msgstr "Rădăcină pătrată"
+
+msgid "Square Root with Degree"
+msgstr "Rădăcină cu grad"
+
+msgid "Square Union"
+msgstr "Reuniune pătrată"
+
+msgid "Stack Object"
+msgstr "Obiect suprapus"
+
+msgid "Stack Object (Three)"
+msgstr "Obiect suprapus (trei)"
+
+msgid "Stacked Bar"
+msgstr "Bare suprapuse"
+
+msgid "Stacked Column"
+msgstr "Coloane suprapuse"
+
+msgid "Stacked Fraction"
+msgstr "Fracție suprapusă"
+
+msgid "Stacked, no bar"
+msgstr "Suprapus, fără bară"
+
+msgid "Standard Colors"
+msgstr "Culori standard"
+
+msgid "Start Enforcing Protection"
+msgstr "Pornire aplicare protecție"
+
+msgid "Start Mail Merge"
+msgstr "Pornire îmbinare corespondență"
+
+msgid "Start Mail\nMerge"
+msgstr "Pornire îmbinare\ncorespondență"
+
+msgid "Start-up"
+msgstr "Pornire"
+
+msgid "State"
+msgstr "Stat"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Mai sunteți acolo? Vă aud gândind."
+
+msgid "Stop Protection"
+msgstr "Oprire protecție"
+
+msgid "Stop Reading"
+msgstr "Oprire citire"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Oprit"
+
+msgid "Straight Arrow Connector"
+msgstr "Conector săgeată drept"
+
+msgid "Straight Connector"
+msgstr "Conector drept"
+
+msgid "Stroke {n} of {total}"
+msgstr "Trasul {n} din {total}"
+
+msgid "Strong"
+msgstr "Puternic"
+
+msgid "Structure Actions"
+msgstr "Acțiuni structură"
+
+msgid "Structures"
+msgstr "Structuri"
+
+msgid "Studio cover"
+msgstr "Copertă Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Manual Studio (exemplu)"
+
+msgid "Style based on:"
+msgstr "Stil bazat pe:"
+
+msgid "Style Inspector"
+msgstr "Inspector de stiluri"
+
+msgid "Style name:"
+msgstr "Numele stilului:"
+
+msgid "Style Set"
+msgstr "Set de stiluri"
+
+msgid "Style: APA"
+msgstr "Stil: APA"
+
+msgid "Style: {style}"
+msgstr "Stil: {style}"
+
+msgid "Styles Pane"
+msgstr "Panou stiluri"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Stiluri:"
+
+msgid "Subentry:"
+msgstr "Subintrare:"
+
+msgid "Submit print job"
+msgstr "Trimitere lucrare de imprimare"
+
+msgid "Submitting print job…"
+msgstr "Se trimite lucrarea de imprimare…"
+
+msgid "Subscript-Superscript"
+msgstr "Indice și exponent"
+
+msgid "Subscripts and Superscripts"
+msgstr "Indici și exponenți"
+
+msgid "Subset:"
+msgstr "Subset:"
+
+msgid "Subtle Emphasis"
+msgstr "Accentuare discretă"
+
+msgid "Subtle Reference"
+msgstr "Referință discretă"
+
+msgid "Suggested"
+msgstr "Sugerat"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Sumă"
+
+msgid "Sum of cosines"
+msgstr "Suma cosinusurilor"
+
+msgid "Sum or difference of sines"
+msgstr "Suma sau diferența sinusurilor"
+
+msgid "Summation"
+msgstr "Sumare"
+
+msgid "Summation from 0 to n"
+msgstr "Sumare de la 0 la n"
+
+msgid "Summation over binomials"
+msgstr "Sumare peste binomiale"
+
+msgid "Summation with Limits"
+msgstr "Sumare cu limite"
+
+msgid "Summation with Lower Limit"
+msgstr "Sumare cu limită inferioară"
+
+msgid "Summation with Subscript Limit"
+msgstr "Sumare cu limită în indice"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Sumare cu limite în indice și exponent"
+
+msgid "Summations"
+msgstr "Sumări"
+
+msgid "Suppress line numbers"
+msgstr "Suprimă numerele de rând"
+
+msgid "Surface Integral"
+msgstr "Integrală de suprafață"
+
+msgid "Surface Integral with Limits"
+msgstr "Integrală de suprafață cu limite"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Integrală de suprafață cu limite suprapuse"
+
+msgid "Swahili"
+msgstr "swahili"
+
+msgid "Swap footnotes and endnotes"
+msgstr "Schimbă între ele notele de subsol și notele de final"
+
+msgid "Swedish"
+msgstr "Suedeză"
+
+msgid "Switch Modes"
+msgstr "Schimbare mod"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Schimbare\nmod"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr "Elveția"
+
+msgid "Synonyms"
+msgstr "Sinonime"
+
+msgid "Syria"
+msgstr "Siria"
+
+msgctxt "numerals"
+msgid "System"
+msgstr "Sistem"
+
+msgid "System dictionary"
+msgstr "Dicționarul sistemului"
+
+msgid "Tab Character"
+msgstr "Caracter de tabulare"
+
+msgid "Tab character"
+msgstr "Caracter de tabulare"
+
+msgid "Tab characters"
+msgstr "Caractere de tabulare"
+
+msgid "Tab leader:"
+msgstr "Caracter de umplere tabulator:"
+
+msgid "Tab stop position:"
+msgstr "Poziție oprire de tabulator:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Opriri de tabulator de șters:"
+
+msgid "Table Column Width"
+msgstr "Lățime coloană tabel"
+
+msgid "Table Design"
+msgstr "Design tabel"
+
+msgid "Table direction:"
+msgstr "Direcție tabel:"
+
+msgid "Table Grid"
+msgstr "Grilă de tabel"
+
+msgid "Table Layout"
+msgstr "Aspect tabel"
+
+msgid "Table of Authorities"
+msgstr "Tabel de autorități"
+
+msgid "Table of Contents"
+msgstr "Cuprins"
+
+msgid "Table of Contents Options"
+msgstr "Opțiuni cuprins"
+
+msgid "Table of Contents Styles"
+msgstr "Stiluri de cuprins"
+
+msgid "Table of Figures"
+msgstr "Tabel de figuri"
+
+msgid "Table of\nContents"
+msgstr "Cuprins"
+
+msgid "Table Properties"
+msgstr "Proprietăți tabel"
+
+msgid "Table Properties…"
+msgstr "Proprietăți tabel…"
+
+msgid "Table Row Height"
+msgstr "Înălțime rând tabel"
+
+msgid "Table size"
+msgstr "Dimensiune tabel"
+
+msgid "Table Style Options"
+msgstr "Opțiuni stil de tabel"
+
+msgid "Table Styles"
+msgstr "Stiluri de tabel"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11,00\" × 17,00\""
+
+msgid "Tabs…"
+msgstr "Tabulatori…"
+
+msgid "Tabular List"
+msgstr "Listă tabelară"
+
+msgid "Tag"
+msgstr "Etichetă"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Take the last match on the page"
+msgstr "Luați ultima potrivire de pe pagină"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Nu vă grăbiți. Pagina nu pleacă nicăieri. Nici eu. Niciodată."
+
+msgid "Tamil"
+msgstr "tamilă"
+
+msgid "Tangent formula"
+msgstr "Formula tangentei"
+
+msgid "Tangent Function"
+msgstr "Funcția tangentă"
+
+msgid "TC entry fields"
+msgstr "Câmpuri de intrare TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Tehnologie"
+
+msgid "Templates and Add-ins"
+msgstr "Șabloane și suplimente"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Șabloanele salvate în folderul de șabloane apar aici."
+
+msgid "Text Box"
+msgstr "Casetă de text"
+
+msgid "Text boxes"
+msgstr "Casete de text"
+
+msgid "text boxes can't go inside a text box"
+msgstr "casetele de text nu pot fi puse în interiorul unei casete de text"
+
+msgid "Text Direction"
+msgstr "Direcție text"
+
+msgid "Text Effects"
+msgstr "Efecte de text"
+
+msgid "Text Effects and Typography"
+msgstr "Efecte de text și tipografie"
+
+msgid "Text Fill"
+msgstr "Umplere text"
+
+msgid "Text from File"
+msgstr "Text din fișier"
+
+msgid "Text Highlight Color"
+msgstr "Culoare de evidențiere text"
+
+msgid "Text indent at:"
+msgstr "Indent text la:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Textul celui mai apropiat paragraf cu un anumit stil (antete curente)"
+
+msgid "Text Outline"
+msgstr "Contur text"
+
+msgid "Text over Colon Equal"
+msgstr "Text peste două puncte egal"
+
+msgid "Text over Equal"
+msgstr "Text peste egal"
+
+msgid "Text Pane"
+msgstr "Panou text"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Dimensiune text"
+
+msgid "Text snaps to characters"
+msgstr "Textul se fixează pe caractere"
+
+msgid "Text to display:"
+msgstr "Text de afișat:"
+
+msgid "Text watermark"
+msgstr "Filigran text"
+
+msgid "Text Wrapping"
+msgstr "Încadrare text"
+
+msgid "Text\nBox"
+msgstr "Casetă\nde text"
+
+msgid "Text\nDirection"
+msgstr "Direcție\ntext"
+
+msgid "Thai"
+msgstr "thailandeză"
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Acest format nu păstrează totul, așa că documentul rămâne deschis. Salvați-l ca document Word (.docx) pentru a continua."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Parola nu este corectă. Verificați-o (parolele țin cont de majuscule/minuscule) și încercați din nou."
+
+msgid "The clipboard is empty."
+msgstr "Clipboardul este gol."
+
+msgid "the Clipboard pane is empty"
+msgstr "panoul Clipboard este gol"
+
+msgid "the cursor isn't in a table"
+msgstr "cursorul nu este într-un tabel"
+
+msgid "The date it is today"
+msgstr "Data de azi"
+
+msgid "The document has no bookmarks yet."
+msgstr "Documentul nu are încă niciun marcaj."
+
+msgid "the document is protected"
+msgstr "documentul este protejat"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Documentul este doar pentru citire, cu excepția zonelor marcate ca editabile."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Documentul va fi salvat cu parolă. Salvați-l pentru a-l proteja."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Documentul pe care îl editați păstrează numele și datele; doar fișierul salvat le omite."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Marginile nu încap pe o pagină de această dimensiune; micșorează mai întâi marginile."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Măsura trebuie să fie între {min} și {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Stilul nou preia formatarea paragrafului curent."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr "Șablonul „Normală” nu a putut fi citit, așa că acest document folosește formatarea încorporată a WordCraft."
+
+msgid "The number must be a divisor of {max}."
+msgstr "Numărul trebuie să fie un divizor al lui {max}."
+
+msgid "The number must be between 1 and {max}."
+msgstr "Numărul trebuie să fie între 1 și {max}."
+
+msgid "the paragraph is empty"
+msgstr "paragraful este gol"
+
+msgid "the paragraph starts with a space"
+msgstr "paragraful începe cu un spațiu"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Parola este opțională; fără ea oricine poate opri protecția."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Parola a fost eliminată. Salvați documentul pentru a păstra modificarea."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Imprimanta, imprimarea față-verso și numărul de pagini pe foaie se aleg în acel dialog."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Câmpul din lista de destinatari care completează fiecare parte a unui bloc de adresă și a unui rând de salut."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Verificarea ortografiei și a gramaticii s-a terminat."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr "Dicționarul ortografic pentru {language} nu a putut fi citit, deci nu este verificat. Fișier: {file}. Motiv: {reason}"
+
+msgid "the Spike is empty"
+msgstr "spike-ul este gol"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Dialogul de fișiere al sistemului nu este disponibil, așa că WordCraft îl afișează pe al lui. Pentru a obține dialogul sistemului, instalați un portal de selectare a fișierelor (cum ar fi xdg-desktop-portal-gtk) sau zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Textul de la punctul de inserare este marcat: Nu verifica ortografia și gramatica."
+
+msgid "The time right now"
+msgstr "Ora de acum"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Culori de temă"
+
+msgid "Theme Fonts"
+msgstr "Fonturi de temă"
+
+msgid "Theme List"
+msgstr "Listă de teme"
+
+msgid "Themes"
+msgstr "Teme"
+
+msgid "Then by"
+msgstr "Apoi după"
+
+msgid "Then insert:"
+msgstr "Apoi inserează:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "nu există cerneală de redat"
+
+msgid "there is nothing to undo"
+msgstr "nu există nimic de anulat"
+
+msgid "there's no citation after the caret"
+msgstr "nu există nicio citare după cursor"
+
+msgid "Thesaurus"
+msgstr "Dicționar de sinonime"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Aceste semne apar chiar dacă Afișare/ascundere ¶ este dezactivat."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Aceste câmpuri de îmbinare nu sunt în lista de destinatari:"
+
+msgid "These settings will be used for new documents."
+msgstr "Aceste setări vor fi folosite pentru documentele noi."
+
+msgid "Thick"
+msgstr "Groasă"
+
+msgid "Thick Frame"
+msgstr "Cadru gros"
+
+msgid "Thin"
+msgstr "Subțire"
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr "Acest lucru nu poate fi anulat. Fișierul original rămâne neschimbat."
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "această diagramă a fost creată în alt program: WordCraft o afișează, dar nu o poate edita"
+
+msgid "this diagram can't be edited"
+msgstr "această diagramă nu poate fi editată"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "această diagramă a fost creată în alt program: WordCraft o afișează, dar nu o poate edita"
+
+msgid "This document"
+msgstr "Acest document"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr "Doar acest document?"
+
+msgid "This field has no options."
+msgstr "Acest câmp nu are opțiuni."
+
+msgid "This folder can't be read: {error}"
+msgstr "Acest folder nu poate fi citit: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Acest font nu are caractere de afișat."
+
+msgid "this item is already at the top level"
+msgstr "acest element este deja la nivelul cel mai de sus"
+
+msgid "This page"
+msgstr "Această pagină"
+
+msgid "This password type isn't supported."
+msgstr "Acest tip de parolă nu este acceptat."
+
+msgid "This point forward"
+msgstr "De aici înainte"
+
+msgid "This section"
+msgstr "Această secțiune"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr "această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe)"
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr "această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe): folosiți \"scope\": \"document\""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "acest SmartArt a fost creat în alt program: WordCraft îl afișează, dar nu îl poate edita"
+
+msgid "this text box is already linked: break the link first"
+msgstr "această casetă de text este deja legată: întrerupeți mai întâi legătura"
+
+msgid "Three"
+msgstr "Trei"
+
+msgid "Through"
+msgstr "Prin"
+
+msgid "Tight"
+msgstr "Strâns"
+
+msgid "Tilde"
+msgstr "Tildă"
+
+msgid "Tip"
+msgstr "Sfat"
+
+msgid "Tips ({n})"
+msgstr "Sfaturi ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Title Bar"
+msgstr "Bară de titlu"
+
+msgid "Title from the document properties"
+msgstr "Titlu din proprietățile documentului"
+
+msgid "Title:"
+msgstr "Titlu:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Pentru a deschide implicit documentele Word cu WordCraft: selectați unul în Finder, alegeți Fișier › Obține informații, alegeți WordCraft la Deschide cu, apoi faceți clic pe Schimbă tot."
+
+msgid "To:"
+msgstr "Până la:"
+
+msgid "TOA Heading"
+msgstr "Titlu TOA"
+
+msgid "TOC Heading"
+msgstr "Titlu cuprins"
+
+msgid "TOC {n}"
+msgstr "Cuprins {n}"
+
+msgid "Today"
+msgstr "Azi"
+
+msgid "tOGGLE cASE"
+msgstr "iNVERSARE mAJUSCULE"
+
+msgid "Toggle Check Box"
+msgstr "Comutare casetă de selectare"
+
+msgid "Toggle Field Codes"
+msgstr "Comutare coduri de câmp"
+
+msgid "Toggle Unicode Character"
+msgstr "Comutare caracter Unicode"
+
+msgid "Top and Bottom"
+msgstr "Sus și jos"
+
+msgid "Top Border"
+msgstr "Bordură sus"
+
+msgid "Top Left Cell"
+msgstr "Celula din stânga sus"
+
+msgid "Top Margin"
+msgstr "Margine sus"
+
+msgid "Top of Page"
+msgstr "Începutul paginii"
+
+msgid "Top of the Document"
+msgstr "Începutul documentului"
+
+msgid "Top Right Cell"
+msgstr "Celula din dreapta sus"
+
+msgid "Total Row"
+msgstr "Rând total"
+
+msgid "Track Changes"
+msgstr "Urmărire modificări"
+
+msgid "Track Changes Options"
+msgstr "Opțiuni urmărire modificări"
+
+msgid "Track Changes: On"
+msgstr "Urmărire modificări: activată"
+
+msgid "Track formatting"
+msgstr "Urmărește formatarea"
+
+msgid "Track\nChanges"
+msgstr "Urmărire\nmodificări"
+
+msgid "Track\nChanges ✓"
+msgstr "Urmărire\nmodificări ✓"
+
+msgid "Tracked changes"
+msgstr "Modificări urmărite"
+
+msgid "Trademark"
+msgstr "Marcă comercială"
+
+msgid "Trademark Sign"
+msgstr "Semnul mărcii comerciale"
+
+msgid "Transparency:"
+msgstr "Transparență:"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Triangle Down"
+msgstr "Triunghi în jos"
+
+msgid "Triangle Up"
+msgstr "Triunghi în sus"
+
+msgid "Trigonometric Functions"
+msgstr "Funcții trigonometrice"
+
+msgid "Triple"
+msgstr "Triplu"
+
+msgid "Triple Dot"
+msgstr "Trei puncte"
+
+msgid "Triple Integral"
+msgstr "Integrală triplă"
+
+msgid "Triple Integral with Limits"
+msgstr "Integrală triplă cu limite"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Integrală triplă cu limite suprapuse"
+
+msgid "Trust Center"
+msgstr "Centru de încredere"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Turcă"
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Doi"
+
+msgid "Two-sided printing"
+msgstr "Imprimare față-verso"
+
+msgid "Two-sided: long edge"
+msgstr "Față-verso: pe latura lungă"
+
+msgid "Two-sided: short edge"
+msgstr "Față-verso: pe latura scurtă"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Scrieți +2 sau -1 pentru a vă muta de la pagina curentă."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Scrieți o comandă, de exemplu „inserare tabel”"
+
+msgid "Type a New List…"
+msgstr "Scrieți o listă nouă…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Scrieți un număr de pagină sau +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Scrieți o dimensiune în orice unitate, de exemplu 5 cm sau 300 px. Cealaltă latură urmează, așa că imaginea își păstrează proporțiile."
+
+msgid "Type at least one recipient."
+msgstr "Scrieți cel puțin un destinatar."
+
+msgid "Type Character Code"
+msgstr "Introducere cod de caracter"
+
+msgid "Type equations in LaTeX"
+msgstr "Scrieți ecuații în LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Scrieți ecuații în format liniar (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Scriere în ecuație"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Scrieți text normal (nematematic) în ecuație"
+
+msgid "Type Text"
+msgstr "Introducere text"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Scrieți categoriile pe lateral și o coloană de valori pentru fiecare serie."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Scrieți numele câmpului și comutatoarele lui, de exemplu PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Scrieți parola pentru a opri protecția."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Scrieți destinatarii sau încărcați-i dintr-un fișier."
+
+msgid "Typing replaces selected text"
+msgstr "Scrierea înlocuiește textul selectat"
+
+msgid "U.A.E."
+msgstr "Emiratele Arabe Unite"
+
+msgid "Ukraine"
+msgstr "Ucraina"
+
+msgid "Ukrainian"
+msgstr "Ucraineană"
+
+msgid "Unchecked symbol"
+msgstr "Simbol nebifat"
+
+msgid "Underbar"
+msgstr "Bară dedesubt"
+
+msgid "Underbrace"
+msgstr "Acoladă dedesubt"
+
+msgid "Underline Color"
+msgstr "Culoare subliniere"
+
+msgid "Underline color"
+msgstr "Culoare subliniere"
+
+msgid "Underline Words Only"
+msgstr "Subliniază doar cuvintele"
+
+msgid "Undo 1 Action"
+msgstr "Anulare 1 acțiune"
+
+msgid "Undo Actions"
+msgstr "Anulare acțiuni"
+
+msgid "Undo History"
+msgstr "Istoric anulări"
+
+msgid "Undo {n} Actions"
+msgstr "Anulare {n} acțiuni"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Anulare, anulare, anulare… acum călătorim în timp."
+
+msgid "Unformatted Text"
+msgstr "Text neformatat"
+
+msgid "Union of intersections"
+msgstr "Reuniune de intersecții"
+
+msgid "Union with Limits"
+msgstr "Reuniune cu limite"
+
+msgid "Union with Lower Limit"
+msgstr "Reuniune cu limită inferioară"
+
+msgid "Union with Plus"
+msgstr "Reuniune cu plus"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Reuniune cu limite în indice și exponent"
+
+msgid "Unions and Intersections"
+msgstr "Reuniuni și intersecții"
+
+msgid "United Kingdom"
+msgstr "Regatul Unit"
+
+msgid "United States"
+msgstr "Statele Unite"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "stil de text decorativ necunoscut `{id}`"
+
+msgid "Unlink Fields"
+msgstr "Deconectare câmpuri"
+
+msgid "Unlink\nCitations"
+msgstr "Deconectare\ncitări"
+
+msgid "Unlock Fields"
+msgstr "Deblocare câmpuri"
+
+msgid "Up Diagonal Dots"
+msgstr "Puncte diagonale ascendente"
+
+msgid "Up one level"
+msgstr "Un nivel mai sus"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Actualizare câmp"
+
+msgid "Update fields before printing"
+msgstr "Actualizați câmpurile înainte de imprimare"
+
+msgid "Update Index"
+msgstr "Actualizare index"
+
+msgid "Update Style to Match Selection"
+msgstr "Actualizare stil conform selecției"
+
+msgid "Update Styles from Template"
+msgstr "Actualizare stiluri din șablon"
+
+msgid "Update Table"
+msgstr "Actualizare tabel"
+
+msgid "Update Table of Figures"
+msgstr "Actualizare tabel de figuri"
+
+msgid "Update to Match"
+msgstr "Actualizare conform"
+
+msgid "Update to Match Selection"
+msgstr "Actualizare conform selecției"
+
+msgid "URGENT"
+msgstr "URGENT"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Folosiți „a” înaintea unui sunet consonantic"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Folosiți „an” înaintea unui sunet vocalic"
+
+msgid "Use an Existing List…"
+msgstr "Folosire listă existentă…"
+
+msgid "Use system setting"
+msgstr "Folosire setarea sistemului"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Folosiți ecranul complet al browserului (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr "Folosiți setul de stiluri și tema curente pentru toate documentele noi?"
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Folosiți tasta Insert pentru a activa și dezactiva suprascrierea"
+
+msgid "Use this formatting as the default for:"
+msgstr "Utilizați această formatare ca implicită pentru:"
+
+msgid "Use wildcards"
+msgstr "Folosiți metacaractere"
+
+msgid "User Name"
+msgstr "Nume utilizator"
+
+msgid "User name:"
+msgstr "Nume utilizator:"
+
+msgid "User templates:"
+msgstr "Șabloane utilizator:"
+
+msgid "Vector A"
+msgstr "Vectorul A"
+
+msgid "Vector AB"
+msgstr "Vectorul AB"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Version History"
+msgstr "Istoric versiuni"
+
+msgid "Version {version} ({build})"
+msgstr "Versiunea {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Aliniere verticală:"
+
+msgid "Vertical Bars"
+msgstr "Bare verticale"
+
+msgid "Vertical Dots"
+msgstr "Puncte verticale"
+
+msgid "Vietnamese"
+msgstr "vietnameză"
+
+msgid "View Alt Text…"
+msgstr "Vizualizare text alternativ…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Vizualizare linii de grilă"
+
+msgid "View State"
+msgstr "Vizualizare stare"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Vizualizare › Focalizare ascunde totul în afară de cuvintele dumneavoastră. Vă aștept afară."
+
+msgid "Viewing"
+msgstr "Vizualizare"
+
+msgid "Viewing — view the file but make no changes"
+msgstr "Vizualizare — vezi documentul cu editarea blocată"
+
+msgid "Views"
+msgstr "Vizualizări"
+
+msgid "Visual effects"
+msgstr "Efecte vizuale"
+
+msgid "Vivid 200%"
+msgstr "Intens 200%"
+
+msgid "Volume"
+msgstr "Volum"
+
+msgid "Volume Integral"
+msgstr "Integrală de volum"
+
+msgid "Volume Integral with Limits"
+msgstr "Integrală de volum cu limite"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Integrală de volum cu limite suprapuse"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Așteaptă ca lucrarea de imprimare să se termine de trimis înainte de a închide."
+
+msgid "Waiting for the save to finish…"
+msgstr "Se așteaptă terminarea salvării…"
+
+msgid "Waiting for Zotero…"
+msgstr "Se așteaptă Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Gradient cald cu contur"
+
+msgid "Warnings ({n})"
+msgstr "Avertismente ({n})"
+
+msgid "Washout"
+msgstr "Decolorat"
+
+msgid "Weather"
+msgstr "Vreme"
+
+msgid "Web Layout"
+msgstr "Aspect web"
+
+msgid "Web page (*.html)"
+msgstr "Pagină web (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Aspect\nweb"
+
+msgid "Wed"
+msgstr "Mie"
+
+msgid "Welsh"
+msgstr "galeză"
+
+msgid "West"
+msgstr "Vest"
+
+msgid "When this document was first created"
+msgstr "Când a fost creat acest document"
+
+msgid "When this document was most recently printed"
+msgstr "Când a fost imprimat acest document ultima dată"
+
+msgid "When this document was most recently saved"
+msgstr "Când a fost salvat acest document ultima dată"
+
+msgid "White Space"
+msgstr "Spațiu alb"
+
+msgid "White space"
+msgstr "Spațiu alb"
+
+msgid "Who the document properties name as author"
+msgstr "Cine este numit autor în proprietățile documentului"
+
+msgid "Whole document"
+msgstr "Tot documentul"
+
+msgid "Whole page"
+msgstr "Toată pagina"
+
+msgid "Whole Table"
+msgstr "Tot tabelul"
+
+msgid "Whole words"
+msgstr "Cuvinte întregi"
+
+msgid "Wide"
+msgstr "Lat"
+
+msgid "Widow/Orphan Control"
+msgstr "Control rânduri orfane și văduve"
+
+msgid "Widow/Orphan control"
+msgstr "Control rânduri orfane și văduve"
+
+msgid "Width and spacing"
+msgstr "Lățime și spațiere"
+
+msgid "Wildcards (regex)"
+msgstr "Metacaractere (regex)"
+
+msgid "With:"
+msgstr "Cu:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Document XML Word 2003 (*.xml)"
+
+msgid "Word Count"
+msgstr "Număr de cuvinte"
+
+msgid "Word document"
+msgstr "Document Word"
+
+msgid "Word document (*.docx)"
+msgstr "Document Word (*.docx)"
+
+msgid "Word Left"
+msgstr "Cuvânt la stânga"
+
+msgid "Word level"
+msgstr "Nivel cuvânt"
+
+msgid "Word Right"
+msgstr "Cuvânt la dreapta"
+
+msgid "Word sources"
+msgstr "Surse Word"
+
+msgid "Word XML Document (*.xml)"
+msgstr "Document XML Word (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Stiluri WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "WordCraft este acum aplicația implicită pentru documentele Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Doar cuvinte"
+
+msgid "Wrap Text"
+msgstr "Încadrare text"
+
+msgid "Wrap Text Sides"
+msgstr "Încadrare text pe laterale"
+
+msgid "Wrap\nText"
+msgstr "Încadrare\ntext"
+
+msgid "Write & Insert Fields"
+msgstr "Scriere și inserare câmpuri"
+
+msgid "Write a reply"
+msgstr "Scrieți un răspuns"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Blocaj de scriitor? Pe mine mă ajută să mă uit fix la cursor. Îmi face cu ochiul de ani de zile."
+
+msgid "x bar"
+msgstr "x barat"
+
+msgid "Year"
+msgstr "An"
+
+msgid "Yields"
+msgstr "Rezultă"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Nu ați mai salvat de ceva vreme, iar Salvarea automată este dezactivată. Salvați acum?"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Ați început o listă. Apăsați Enter de două ori pentru a o încheia sau Backspace la începutul unui element pentru a-l transforma înapoi în text."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Documentul dumneavoastră este acum cel mai salvat document din istorie."
+
+msgid "Your languages"
+msgstr "Limbile dvs."
+
+msgid "Your own dictionary"
+msgstr "Dicționarul dvs. propriu"
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Sistemul dvs. nu raportează o setare de animație, așa că efectele de animație rămân activate."
+
+msgid "Your system has animation effects turned off."
+msgstr "Sistemul dvs. are efectele de animație dezactivate."
+
+msgid "Your system has animation effects turned on."
+msgstr "Sistemul dvs. are efectele de animație activate."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: anulat"
+
+msgid "Zotero: done"
+msgstr "Zotero: gata"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} nu au putut fi citite: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} omise (limita {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Tabel {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "{contributors} contribuitori · {commits} commituri"
+
+msgid "{count} items highlighted"
+msgstr "{count} elemente evidențiate"
+
+msgid "{count} of {total} pages will print"
+msgstr "Se vor imprima {count} din {total} pagini"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "Vor fi îmbinați {count} din {total} destinatari."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Setări {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "{key} verifică ortografia și gramatica în tot documentul."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "{key} numără cuvintele, caracterele și paragrafele."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "{key} caută și înlocuiește text, formatări și caractere speciale."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "{key} repetă ultima acțiune. Formatarea a zece titluri devine brusc un clic și nouă apăsări."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "{key} începe un rând nou fără a începe un paragraf nou."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "{key} începe o pagină nouă. Mult mai ordonat decât să apăsați Enter până se întâmplă."
+
+msgid "{key} turns the selected text into a link."
+msgstr "{key} transformă textul selectat într-un link."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+clic pentru a urma linkul"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr "{language} (implicită)"
+
+msgid "{language} (dictionary unreadable)"
+msgstr "{language} (dicționar ilizibil)"
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (fără dicționar)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "{language} este acum limba implicită a documentului."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: nu s-a găsit niciun dicționar"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: WordCraft nu verifică încă ortografia și gramatica în această limbă."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} și încă {n}"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} in"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "{name} există deja. Alegeți din nou Salvare pentru a-l înlocui."
+
+msgid "{name} is protected with a password."
+msgstr "{name} este protejat cu parolă."
+
+msgid "{name} options"
+msgstr "Opțiuni {name}"
+
+msgid "{name} wasn't found."
+msgstr "{name} nu a fost găsit."
+
+msgid "{n} entries marked."
+msgstr "{n} intrări marcate."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} rânduri"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr "{paper}   {width} × {height}"
+
+msgid "{selected} of {words} words"
+msgstr "{selected} din {words} cuvinte"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pixeli"
+
+msgid "{words} words"
+msgstr "{words} cuvinte"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} de cuvinte și tot crește. La propriu. Le număr eu."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} de cuvinte! Aș arunca cu confetti, dar apoi ar trebui să fac curat."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} de cuvinte. Adică cu {words} mai multe decât am scris eu azi."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "„{text}” ({row}, {series}) nu este un număr."
+
+msgid "✓ None"
+msgstr "✓ Niciunul"
+
+msgid "➕ New comment"
+msgstr "➕ Comentariu nou"
+
+msgid "📂  Browse…"
+msgstr "📂  Răsfoire…"
