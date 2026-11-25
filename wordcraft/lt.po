@@ -106,7 +106,7 @@ msgstr "<< Šalinti"
 #. {name} placeholders are filled in when the app runs: keep each one, in any order.
 msgctxt "@msg"
 msgid "a diagram holds at most {MAX_ITEMS} items"
-msgstr ""
+msgstr "diagramoje gali būti ne daugiau kaip {MAX_ITEMS} elementų"
 
 msgid "a drawing canvas can't be ungrouped"
 msgstr "piešimo drobės negalima išgrupuoti"
@@ -214,10 +214,10 @@ msgid "Add >>"
 msgstr "Pridėti >>"
 
 msgid "Add a language"
-msgstr ""
+msgstr "Pridėti kalbą"
 
 msgid "Add a language…"
-msgstr ""
+msgstr "Pridėti kalbą…"
 
 msgid "Add a period with double-space"
 msgstr ""
@@ -346,7 +346,7 @@ msgid "Advanced Properties…"
 msgstr ""
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikanų"
 
 msgid "After:"
 msgstr "Po:"
@@ -355,16 +355,16 @@ msgid "Agents"
 msgstr "Agentai"
 
 msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
-msgstr ""
+msgstr "Prie WordCraft prijungti agentai gali rodyti jums pranešimus per Asistentą. Kai jie nutildyti, agentams pranešama, kad nenorite jų matyti."
 
 msgid "Ah, Latin. The language of deadlines."
-msgstr ""
+msgstr "A, lotynų kalba. Terminų kalba."
 
 msgid "Ah, the editing phase. My favourite. Very decisive."
-msgstr ""
+msgstr "A, redagavimo etapas. Mano mėgstamiausias. Labai ryžtingas."
 
 msgid "Albanian"
-msgstr ""
+msgstr "Albanų"
 
 msgid "Align Bottom Center"
 msgstr "Lygiuoti apačioje centre"
@@ -412,7 +412,7 @@ msgid "All Commands"
 msgstr "Visos komandos"
 
 msgid "All documents based on the Normal template?"
-msgstr ""
+msgstr "Visiems dokumentams, pagrįstiems šablonu „Normal“?"
 
 msgid "All Fonts"
 msgstr "Visi šriftai"
@@ -463,10 +463,10 @@ msgid "Alt\nText"
 msgstr "Alternatyvusis\ntekstas"
 
 msgid "an agent"
-msgstr ""
+msgstr "agentas"
 
 msgid "An installed Language pack is used after this folder."
-msgstr ""
+msgstr "Įdiegtas kalbų paketas naudojamas po šio aplanko."
 
 msgid "And"
 msgstr "Ir"
@@ -481,7 +481,7 @@ msgid "Angle Brackets with Two Separators"
 msgstr "Kampiniai skliaustai su dviem skyrikliais"
 
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 msgid "Animate the caret (it glides and fades)"
 msgstr "Animuoti žymeklį (slysta ir blunka)"
@@ -499,7 +499,7 @@ msgid "Annotation Text"
 msgstr "Pastabos tekstas"
 
 msgid "Annoying"
-msgstr ""
+msgstr "Erzinantis"
 
 msgid "Another file"
 msgstr "Kitas failas"
@@ -557,10 +557,10 @@ msgid "Arch Up"
 msgstr "Arka aukštyn"
 
 msgid "Argentina"
-msgstr ""
+msgstr "Argentina"
 
 msgid "Armenian"
-msgstr ""
+msgstr "Armėnų"
 
 msgid "Arrange\nAll"
 msgstr "Išdėstyti\nvisus"
@@ -575,7 +575,7 @@ msgid "As Recommended"
 msgstr "Kaip rekomenduojama"
 
 msgid "As you type"
-msgstr ""
+msgstr "Rašant"
 
 msgid "ASAP"
 msgstr "KUO SKUBIAU"
@@ -587,10 +587,10 @@ msgid "Asian Typography"
 msgstr "Azijos tipografija"
 
 msgid "Assistant"
-msgstr ""
+msgstr "Asistentas"
 
 msgid "Assistant Suggestions"
-msgstr ""
+msgstr "Asistento patarimai"
 
 msgid "At least"
 msgstr "Mažiausiai"
@@ -611,10 +611,10 @@ msgid "Attach…"
 msgstr "Prijungti…"
 
 msgid "Australia"
-msgstr ""
+msgstr "Australija"
 
 msgid "Austria"
-msgstr ""
+msgstr "Austrija"
 
 msgid "Auto orientation"
 msgstr "Automatinis orientavimas"
@@ -653,16 +653,16 @@ msgid "AutoFormat As You Type"
 msgstr "Automatinis formatavimas rašant"
 
 msgid "Automatic ({language})"
-msgstr ""
+msgstr "Automatinė ({language})"
 
 msgid "Automatic ({region})"
-msgstr ""
+msgstr "Automatinis ({region})"
 
 msgid "Automatic bulleted lists"
 msgstr "Automatiniai ženklinti sąrašai"
 
 msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
-msgstr ""
+msgstr "Automatinė kalba atitinka sistemos kalbą. Keičiasi meniu ir komandos; jūsų dokumentai nesikeičia."
 
 msgid "Automatic numbered lists"
 msgstr "Automatiniai numeruoti sąrašai"
@@ -689,7 +689,7 @@ msgid "Automatically update document styles"
 msgstr "Automatiškai atnaujinti dokumento stilius"
 
 msgid "AutoSave documents you have saved in WordCraft"
-msgstr ""
+msgstr "Automatiškai įrašyti dokumentus, kuriuos įrašėte WordCraft"
 
 msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
 msgstr "Nepavyko automatiškai įrašyti: {error}. Įrašykite dokumentą, kad automatinis įrašymas vėl įsijungtų."
@@ -704,7 +704,7 @@ msgid "AutoSave saves every change to the file (needs a saved document)"
 msgstr "Automatinis įrašymas įrašo kiekvieną pakeitimą į failą (reikia įrašyto dokumento)"
 
 msgid "AutoSave writes your changes to the file a moment after you stop typing."
-msgstr ""
+msgstr "Automatinis įrašymas įrašo pakeitimus į failą netrukus po to, kai nustojate rašyti."
 
 msgid "AutoText"
 msgstr "Automatinis tekstas"
@@ -770,13 +770,13 @@ msgid "Behind Text"
 msgstr "Už teksto"
 
 msgid "Belarus"
-msgstr ""
+msgstr "Baltarusija"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Baltarusių"
 
 msgid "Belgium"
-msgstr ""
+msgstr "Belgija"
 
 msgid "Below text"
 msgstr "Po tekstu"
@@ -827,10 +827,10 @@ msgid "Body text in a short paragraph to show spacing."
 msgstr "Pagrindinis tekstas trumpoje pastraipoje tarpams parodyti."
 
 msgid "Bold choice. Ctrl+Z is right there if you need it."
-msgstr ""
+msgstr "Drąsus pasirinkimas. Jei reikia, Ctrl+Z čia pat."
 
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolivija"
 
 msgid "Book"
 msgstr "Knyga"
@@ -869,10 +869,10 @@ msgid "Borders and Shading…"
 msgstr "Kraštinės ir šešėliavimas…"
 
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosnija ir Hercegovina"
 
 msgid "Bosnian"
-msgstr ""
+msgstr "Bosnių"
 
 msgid "Both Sides"
 msgstr "Abi pusės"
@@ -920,7 +920,7 @@ msgid "Brackets with Separators"
 msgstr "Laužtiniai skliaustai su skyrikliais"
 
 msgid "Brazil"
-msgstr ""
+msgstr "Brazilija"
 
 msgid "Breaks"
 msgstr "Lūžiai"
@@ -944,7 +944,7 @@ msgid "Building Block Gallery Content Control"
 msgstr "Statybinių blokų galerijos turinio valdiklis"
 
 msgid "Built in"
-msgstr ""
+msgstr "Įtaisyta"
 
 msgid "Built-In"
 msgstr "Įtaisytieji"
@@ -959,7 +959,7 @@ msgid "Built-in styles can't be deleted."
 msgstr "Įtaisytųjų stilių naikinti negalima."
 
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgarų"
 
 msgid "Bullet Library"
 msgstr "Ženklelių biblioteka"
@@ -971,7 +971,7 @@ msgid "By author"
 msgstr "Pagal autorių"
 
 msgid "Cabo Verde"
-msgstr ""
+msgstr "Žaliasis Kyšulys"
 
 msgid "Calendar"
 msgstr "Kalendorius"
@@ -983,13 +983,13 @@ msgid "Can't find a command? Press Alt+Q and type what you want to do."
 msgstr ""
 
 msgid "Can't find a command? Press {key} and type what you want to do."
-msgstr ""
+msgstr "Nerandate komandos? Paspauskite {key} ir įrašykite, ką norite padaryti."
 
 msgid "can't split at the first row"
 msgstr "negalima skaidyti ties pirma eilute"
 
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 msgid "Canvas Member"
 msgstr "Drobės narys"
@@ -1022,7 +1022,7 @@ msgid "Captions"
 msgstr "Antraštės"
 
 msgid "Careful, any further back and we'll undo the invention of paper."
-msgstr ""
+msgstr "Atsargiai, dar kiek atgal – ir atšauksime popieriaus išradimą."
 
 msgid "Caret Character"
 msgstr "Stogelio simbolis"
@@ -1040,10 +1040,10 @@ msgid "Cases and Stacks"
 msgstr "Atvejai ir rinkiniai"
 
 msgid "Catalan"
-msgstr ""
+msgstr "Katalonų"
 
 msgid "Catalan (Valencian)"
-msgstr ""
+msgstr "Katalonų (Valensijos)"
 
 msgid "Categories"
 msgstr "Kategorijos"
@@ -1238,7 +1238,7 @@ msgid "Check Spelling as You Type"
 msgstr "Tikrinti rašybą rašant"
 
 msgid "Check spelling as you type"
-msgstr ""
+msgstr "Tikrinti rašybą rašant"
 
 msgid "Check\nAccessibility"
 msgstr "Tikrinti\npritaikymą neįgaliesiems"
@@ -1262,10 +1262,10 @@ msgid "Chicago"
 msgstr "Chicago"
 
 msgid "Chile"
-msgstr ""
+msgstr "Čilė"
 
 msgid "China"
-msgstr ""
+msgstr "Kinija"
 
 msgid "Chinese (Simplified)"
 msgstr "Kinų (supaprastinta)"
@@ -1370,7 +1370,7 @@ msgid "cm"
 msgstr "cm"
 
 msgid "Col #:"
-msgstr ""
+msgstr "Stulp. nr.:"
 
 msgid "Collapse Selection"
 msgstr "Sutraukti žymėjimą"
@@ -1382,7 +1382,7 @@ msgid "Collect entries from:"
 msgstr "Rinkti įrašus iš:"
 
 msgid "Colombia"
-msgstr ""
+msgstr "Kolumbija"
 
 msgid "Colon Equal"
 msgstr "Dvitaškis lygu"
@@ -1551,7 +1551,7 @@ msgid "Controls"
 msgstr "Valdikliai"
 
 msgid "Conversions"
-msgstr ""
+msgstr "Konvertavimas"
 
 msgid "Convert between built-up and linear form"
 msgstr "Konvertuoti tarp sudėtinės ir linijinės formos"
@@ -1620,7 +1620,7 @@ msgid "Cosine Function"
 msgstr "Kosinuso funkcija"
 
 msgid "Costa Rica"
-msgstr ""
+msgstr "Kosta Rika"
 
 msgid "Cotangent Function"
 msgstr "Kotangento funkcija"
@@ -1710,7 +1710,7 @@ msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
 msgstr ""
 
 msgid "Cuba"
-msgstr ""
+msgstr "Kuba"
 
 msgid "Cube Root"
 msgstr "Kubinė šaknis"
@@ -1740,7 +1740,7 @@ msgid "Curved Connector"
 msgstr "Lenkta jungtis"
 
 msgid "Custom dictionary"
-msgstr ""
+msgstr "Pasirinktinis žodynas"
 
 msgid "Custom Document Properties"
 msgstr ""
@@ -1767,7 +1767,7 @@ msgid "Custom Watermark…"
 msgstr "Pasirinktinis vandenženklis…"
 
 msgid "Customize"
-msgstr ""
+msgstr "Tinkinti"
 
 msgid "Customize Keyboard"
 msgstr "Tinkinti klaviatūrą"
@@ -1788,7 +1788,7 @@ msgid "Cycle"
 msgstr "Ciklas"
 
 msgid "Cyprus"
-msgstr ""
+msgstr "Kipras"
 
 msgid "Czech"
 msgstr "Čekų"
@@ -1803,7 +1803,7 @@ msgid "Dark Mode"
 msgstr "Tamsusis režimas"
 
 msgid "Dark page (white text on black)"
-msgstr ""
+msgstr "Tamsus puslapis (baltas tekstas juodame fone)"
 
 msgid "Dark Red"
 msgstr ""
@@ -1830,7 +1830,7 @@ msgid "Date & Time"
 msgstr "Data ir laikas"
 
 msgid "Date formats:"
-msgstr ""
+msgstr "Datos formatai:"
 
 msgid "Date Picker Content Control"
 msgstr "Datos parinkiklio turinio valdiklis"
@@ -1845,10 +1845,10 @@ msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekoratyvūs objektai skirti tik vaizdui: ekrano skaitytuvai juos praleidžia."
 
 msgid "Decorative Text"
-msgstr ""
+msgstr "Dekoratyvusis tekstas"
 
 msgid "Decorative Text Styles"
-msgstr ""
+msgstr "Dekoratyviojo teksto stiliai"
 
 msgid "Decrease Indent"
 msgstr "Mažinti įtrauką"
@@ -1857,7 +1857,7 @@ msgid "Deep"
 msgstr "Gilus"
 
 msgid "Default formatting"
-msgstr ""
+msgstr "Numatytasis formatavimas"
 
 msgid "Default Paragraph Font"
 msgstr "Numatytasis pastraipos šriftas"
@@ -1974,25 +1974,25 @@ msgid "Diagonal Dots"
 msgstr "Įstrižainiai taškai"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Diagrama"
 
 msgid "Diagram Design"
-msgstr ""
+msgstr "Diagramos dizainas"
 
 msgid "Diagram Styles"
-msgstr ""
+msgstr "Diagramų stiliai"
 
 msgid "Dictate"
 msgstr "Diktuoti"
 
 msgid "Dictionaries"
-msgstr ""
+msgstr "Žodynai"
 
 msgid "Dictionaries folder:"
 msgstr "Žodynų aplankas:"
 
 msgid "Dictionary files"
-msgstr ""
+msgstr "Žodyno failai"
 
 msgid "Different First Page"
 msgstr "Kitoks pirmas puslapis"
@@ -2106,7 +2106,7 @@ msgid "Document template:"
 msgstr "Dokumento šablonas:"
 
 msgid "Document Text"
-msgstr ""
+msgstr "Dokumento tekstas"
 
 msgid "Document1"
 msgstr "Dokumentas1"
@@ -2124,7 +2124,7 @@ msgid "DOI"
 msgstr "DOI"
 
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Dominikos Respublika"
 
 msgid "Don't add space between paragraphs of the same style"
 msgstr "Nepridėti tarpo tarp to paties stiliaus pastraipų"
@@ -2139,7 +2139,7 @@ msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
 msgstr "Neskaityti Zotero, Mendeley ar EndNote citatų ir bibliografijų"
 
 msgid "Don't show me this tip again"
-msgstr ""
+msgstr "Daugiau nerodyti šio patarimo"
 
 msgid "Dot dash"
 msgstr "Taškas brūkšnys"
@@ -2220,7 +2220,7 @@ msgid "Download fetches the dictionary from LibreOffice's dictionary collection 
 msgstr ""
 
 msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
-msgstr ""
+msgstr "Atsisiuntimas išjungtas. Spustelėjus „Pridėti kalbą…“ arba „Įdiegti“, jis įjungiamas: tada WordCraft atsisiunčia kalbų paketus ir šriftus iš GitHub."
 
 msgid "Downloading the {language} dictionary…"
 msgstr ""
@@ -2274,7 +2274,7 @@ msgid "Drops all formatting and pastes plain text."
 msgstr "Pašalina visą formatavimą ir įklijuoja grynąjį tekstą."
 
 msgid "Dutch, Nederlands or nl"
-msgstr ""
+msgstr "Olandų, Nederlands arba nl"
 
 msgid "E-mail Messages"
 msgstr "El. laiškai"
@@ -2283,7 +2283,7 @@ msgid "East"
 msgstr ""
 
 msgid "Ecuador"
-msgstr ""
+msgstr "Ekvadoras"
 
 msgid "Edit Comment"
 msgstr "Redaguoti komentarą"
@@ -2355,10 +2355,10 @@ msgid "Editor"
 msgstr "Redaktorius"
 
 msgid "Egypt"
-msgstr ""
+msgstr "Egiptas"
 
 msgid "El Salvador"
-msgstr ""
+msgstr "Salvadoras"
 
 msgid "Elbow Arrow Connector"
 msgstr "Laužta rodyklės jungtis"
@@ -2433,7 +2433,7 @@ msgid "English (United States)"
 msgstr "Anglų (Jungtinės Valstijos)"
 
 msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
-msgstr ""
+msgstr "Anglų, šio dokumento kalbos ir visi įdiegti kalbų paketai. Kalbų paketai prideda rašybos žodynus ir skiemenavimą."
 
 msgid "Engrave"
 msgstr "Graviruoti"
@@ -2487,7 +2487,7 @@ msgid "Equal by Definition"
 msgstr "Lygu pagal apibrėžimą"
 
 msgid "Equal column width"
-msgstr ""
+msgstr "Vienodas stulpelių plotis"
 
 msgid "Equal Equal"
 msgstr "Lygu lygu"
@@ -2514,7 +2514,7 @@ msgid "Equation Options"
 msgstr "Lygties parinktys"
 
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Pusiaujo Gvinėja"
 
 msgid "Erase Ink"
 msgstr "Trinti rašalą"
@@ -2523,7 +2523,7 @@ msgid "Errors ({n})"
 msgstr "Klaidos ({n})"
 
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto"
 
 msgid "Estonian"
 msgstr "Estų"
@@ -2544,7 +2544,7 @@ msgid "Every change is recorded as a tracked change."
 msgstr "Kiekvienas keitimas įrašomas kaip sekamas keitimas."
 
 msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
-msgstr ""
+msgstr "Kiekviena komanda prieinama scenarijams ir DI agentams: paleiskite `wordcraft-cli mcp`, kad gautumėte MCP serverį, arba paleiskite programą su `--control <port>`, kad gautumėte JSON valdymo kanalą."
 
 msgid "Every field needs a name."
 msgstr "Kiekvienam laukui reikia pavadinimo."
@@ -2583,7 +2583,7 @@ msgid "Export a copy to share (PDF, Word document)"
 msgstr "Eksportuoti kopiją bendrinti (PDF, Word dokumentas)"
 
 msgid "Export Page as PNG"
-msgstr ""
+msgstr "Eksportuoti puslapį kaip PNG"
 
 msgid "Extend Selection"
 msgstr "Išplėsti žymėjimą"
@@ -2601,10 +2601,10 @@ msgid "F7 checks the spelling and grammar of the whole document."
 msgstr ""
 
 msgid "Faster: {command} is {key} on the keyboard."
-msgstr ""
+msgstr "Greičiau: {command} klaviatūroje yra {key}."
 
 msgid "Field code:"
-msgstr ""
+msgstr "Lauko kodas:"
 
 msgid "Field Codes"
 msgstr "Laukų kodai"
@@ -2616,13 +2616,13 @@ msgid "Field name"
 msgstr "Lauko pavadinimas"
 
 msgid "Field name:"
-msgstr ""
+msgstr "Lauko pavadinimas:"
 
 msgid "Field names must be different."
 msgstr "Laukų pavadinimai turi skirtis."
 
 msgid "Field names:"
-msgstr ""
+msgstr "Laukų pavadinimai:"
 
 msgid "Field:"
 msgstr "Laukas:"
@@ -2634,7 +2634,7 @@ msgid "Figure"
 msgstr "Paveikslas"
 
 msgid "File locations"
-msgstr ""
+msgstr "Failų vietos"
 
 msgid "File name:"
 msgstr "Failo pavadinimas:"
@@ -2643,7 +2643,7 @@ msgid "File type"
 msgstr ""
 
 msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
-msgstr ""
+msgstr "Failas › Naujas čia esančius .dotx ir .dotm šablonus rodo skiltyje „Asmeniniai“; „Įrašyti kaip Word šabloną“ pradeda čia."
 
 msgid "Fill color:"
 msgstr "Užpildo spalva:"
@@ -2697,7 +2697,7 @@ msgid "Finished"
 msgstr "Baigta"
 
 msgid "Finland"
-msgstr ""
+msgstr "Suomija"
 
 msgid "Finnish"
 msgstr "Suomių"
@@ -2817,10 +2817,10 @@ msgid "Formatting exceptions"
 msgstr "Formatavimo išimtys"
 
 msgid "Formatting marks"
-msgstr ""
+msgstr "Formatavimo žymės"
 
 msgid "Formatting saved for new documents:"
-msgstr ""
+msgstr "Naujiems dokumentams įrašytas formatavimas:"
 
 msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
 msgstr "Lyginami formatavimas, raidžių dydis, tarpai ir lentelės; kiti parametrai paliekami vėlesniam laikui."
@@ -2844,7 +2844,7 @@ msgid "Frames and effects"
 msgstr "Rėmeliai ir efektai"
 
 msgid "France"
-msgstr ""
+msgstr "Prancūzija"
 
 msgid "French (France)"
 msgstr "Prancūzų (Prancūzija)"
@@ -2871,7 +2871,7 @@ msgid "from Unicode (hex)"
 msgstr "iš Unicode (šešioliktainis)"
 
 msgid "From {name}"
-msgstr ""
+msgstr "Iš {name}"
 
 msgid "From:"
 msgstr "Nuo:"
@@ -2889,13 +2889,13 @@ msgid "Full\nScreen"
 msgstr "Visas\nekranas"
 
 msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
-msgstr ""
+msgstr "Įdomus faktas: tuščias puslapis – tai juodraštis, kuriam dar niekas nepasakė."
 
 msgid "Function"
 msgstr "Funkcija"
 
 msgid "Galician"
-msgstr ""
+msgstr "Galisų"
 
 msgid "Gallery"
 msgstr "Galerija"
@@ -2904,13 +2904,13 @@ msgid "GB/T 7714"
 msgstr "GB/T 7714"
 
 msgid "Georgian"
-msgstr ""
+msgstr "Gruzinų"
 
 msgid "German (Germany)"
 msgstr "Vokiečių (Vokietija)"
 
 msgid "Germany"
-msgstr ""
+msgstr "Vokietija"
 
 msgid "Get the list of languages again"
 msgstr ""
@@ -2919,7 +2919,7 @@ msgid "getartcraft.com/apps/wordcraft"
 msgstr "getartcraft.com/apps/wordcraft"
 
 msgid "Gets the list of Language packs, then this language's pack if there is one."
-msgstr ""
+msgstr "Gauna kalbų paketų sąrašą, tada šios kalbos paketą, jei jis yra."
 
 msgid "Getting the list of languages…"
 msgstr ""
@@ -2949,7 +2949,7 @@ msgid "Go To…"
 msgstr "Eiti į…"
 
 msgid "Gone! Like it was never written. Mostly because it now wasn't."
-msgstr ""
+msgstr "Dingo! Tarsi niekada nebūtų parašyta. Daugiausia todėl, kad dabar ir nebuvo."
 
 msgid "Good afternoon"
 msgstr "Laba diena"
@@ -2976,7 +2976,7 @@ msgid "Gradient stops"
 msgstr "Gradiento taškai"
 
 msgid "Grammar built in"
-msgstr ""
+msgstr "Įtaisyta gramatika"
 
 msgid "Grave"
 msgstr "Kairinis kirtis"
@@ -3039,7 +3039,7 @@ msgid "Grow Font 1 Point"
 msgstr "Didinti šriftą 1 tašku"
 
 msgid "Guatemala"
-msgstr ""
+msgstr "Gvatemala"
 
 msgid "H:"
 msgstr "A:"
@@ -3099,13 +3099,13 @@ msgid "Hex:"
 msgstr "Šešioliktainis:"
 
 msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
-msgstr ""
+msgstr "Labas! Aš Nib, jūsų rašymo asistentas. Siūlau patarimus, sparčiuosius klavišus ir kartais neprašytą nuomonę. Ar man pasilikti?"
 
 msgid "Hidden bookmarks"
 msgstr "Paslėptos žymelės"
 
 msgid "Hide Codes"
-msgstr ""
+msgstr "Slėpti kodus"
 
 msgid "Hide from style lists"
 msgstr "Slėpti iš stilių sąrašų"
@@ -3145,10 +3145,10 @@ msgid "Home folder"
 msgstr "Namų aplankas"
 
 msgid "Honduras"
-msgstr ""
+msgstr "Hondūras"
 
 msgid "Hong Kong SAR"
-msgstr ""
+msgstr "Honkongo YAR"
 
 msgid "Horizontal Line"
 msgstr "Horizontalioji linija"
@@ -3169,10 +3169,10 @@ msgid "Hue:"
 msgstr "Atspalvis:"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Vengrų"
 
 msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
-msgstr ""
+msgstr "Čia esantys Hunspell .aff ir .dic failai (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) naudojami prieš sistemos failus."
 
 msgid "Hyperbolic Cosecant Function"
 msgstr "Hiperbolinio kosekanto funkcija"
@@ -3217,10 +3217,10 @@ msgid "Hypotenuse"
 msgstr "Įžambinė"
 
 msgid "I promise it's saved. I checked. Twice."
-msgstr ""
+msgstr "Pažadu, įrašyta. Patikrinau. Du kartus."
 
 msgid "I'd write something myself, but I'm all nib and no ink."
-msgstr ""
+msgstr "Pats ką nors parašyčiau, bet aš tik plunksna be rašalo."
 
 msgid "I, II, III, …"
 msgstr "I, II, III, …"
@@ -3229,7 +3229,7 @@ msgid "i, ii, iii, …"
 msgstr "i, ii, iii, …"
 
 msgid "Icelandic"
-msgstr ""
+msgstr "Islandų"
 
 msgid "Icon Color"
 msgstr "Piktogramos spalva"
@@ -3256,7 +3256,7 @@ msgid "Ignore punctuation characters"
 msgstr "Nepaisyti skyrybos ženklų"
 
 msgid "Ignore web and file addresses"
-msgstr ""
+msgstr "Nepaisyti žiniatinklio ir failų adresų"
 
 msgid "Ignore white-space characters"
 msgstr "Nepaisyti tarpo simbolių"
@@ -3265,7 +3265,7 @@ msgid "Ignore words in capitals"
 msgstr "Nepaisyti didžiosiomis raidėmis rašytų žodžių"
 
 msgid "Ignore words with numbers"
-msgstr ""
+msgstr "Nepaisyti žodžių su skaičiais"
 
 msgid "Illustrations"
 msgstr "Iliustracijos"
@@ -3343,7 +3343,7 @@ msgid "Index {n}"
 msgstr "Rodyklė {n}"
 
 msgid "India"
-msgstr ""
+msgstr "Indija"
 
 msgid "Indonesian"
 msgstr "Indoneziečių"
@@ -3352,7 +3352,7 @@ msgid "Initial column width:"
 msgstr "Pradinis stulpelio plotis:"
 
 msgid "Initials:"
-msgstr ""
+msgstr "Inicialai:"
 
 msgid "Ink"
 msgstr "Rašalas"
@@ -3409,7 +3409,7 @@ msgid "Insert Date Field"
 msgstr "Įterpti datos lauką"
 
 msgid "Insert Diagram"
-msgstr ""
+msgstr "Įterpti diagramą"
 
 msgid "Insert Endnote"
 msgstr "Įterpti dokumento išnašą"
@@ -3457,7 +3457,7 @@ msgid "Insert Rows Below"
 msgstr "Įterpti eilutes po"
 
 msgid "Insert Shapes"
-msgstr ""
+msgstr "Įterpti figūras"
 
 msgid "Insert SmartArt"
 msgstr "Įterpti SmartArt"
@@ -3529,7 +3529,7 @@ msgid "Install Language Pack"
 msgstr ""
 
 msgid "Install spelling ({size})"
-msgstr ""
+msgstr "Įdiegti rašybą ({size})"
 
 msgid "Installed"
 msgstr ""
@@ -3571,10 +3571,10 @@ msgid "Interface language:"
 msgstr "Sąsajos kalba:"
 
 msgid "Interface size:"
-msgstr ""
+msgstr "Sąsajos dydis:"
 
 msgid "Interface theme:"
-msgstr ""
+msgstr "Sąsajos tema:"
 
 msgid "Interface\nTheme"
 msgstr "Sąsajos\ntema"
@@ -3640,13 +3640,13 @@ msgid "Ionosphere"
 msgstr "Jonosfera"
 
 msgid "Iraq"
-msgstr ""
+msgstr "Irakas"
 
 msgid "Ireland"
-msgstr ""
+msgstr "Airija"
 
 msgid "Irish"
-msgstr ""
+msgstr "Airių"
 
 msgid "Is blank"
 msgstr "Tuščias"
@@ -3664,19 +3664,19 @@ msgid "Issue"
 msgstr "Numeris"
 
 msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
-msgstr ""
+msgstr "Panašu, kad rašote laišką. Norite jam voko ar laiško šablono pradžiai?"
 
 msgid "Italy"
-msgstr ""
+msgstr "Italija"
 
 msgid "Item Color"
 msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
-msgstr ""
+msgstr "Jos žodyno nepavyko perskaityti: {reason}"
 
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaika"
 
 msgid "Join the ArtCraft community on Discord"
 msgstr "Prisijunkite prie ArtCraft bendruomenės Discord"
@@ -3685,7 +3685,7 @@ msgid "Join us on Discord: discord.gg/artcraft"
 msgstr "Prisijunkite prie mūsų Discord: discord.gg/artcraft"
 
 msgid "Jordan"
-msgstr ""
+msgstr "Jordanija"
 
 msgid "Journal"
 msgstr "Žurnalas"
@@ -3700,7 +3700,7 @@ msgid "Justified"
 msgstr "Abipusė lygiuotė"
 
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazachstanas"
 
 msgid "Keep Lines Together"
 msgstr "Neskaidyti eilučių"
@@ -3709,7 +3709,7 @@ msgid "Keep lines together"
 msgstr "Neskaidyti eilučių"
 
 msgid "Keep me around"
-msgstr ""
+msgstr "Palik mane"
 
 msgid "Keep Text Only"
 msgstr "Palikti tik tekstą"
@@ -3730,13 +3730,13 @@ msgid "Kerning for fonts:"
 msgstr "Šriftų retinimas:"
 
 msgid "Keyboard shortcuts:"
-msgstr ""
+msgstr "Spartieji klavišai:"
 
 msgid "Keys for this command:"
 msgstr "Šios komandos klavišai:"
 
 msgid "Kuwait"
-msgstr ""
+msgstr "Kuveitas"
 
 msgid "Label changes with:"
 msgstr "Etiketė keičiasi pagal:"
@@ -3790,10 +3790,10 @@ msgid "Latin text font:"
 msgstr "Lotyniško teksto šriftas:"
 
 msgid "Latvian"
-msgstr ""
+msgstr "Latvių"
 
 msgid "Layout Summary"
-msgstr ""
+msgstr "Maketo suvestinė"
 
 msgid "Layouts"
 msgstr "Maketai"
@@ -3820,7 +3820,7 @@ msgid "Leave the label out of the caption"
 msgstr "Praleisti etiketę antraštėje"
 
 msgid "Lebanon"
-msgstr ""
+msgstr "Libanas"
 
 msgid "Left Arrow with Text Above"
 msgstr "Rodyklė kairėn su tekstu viršuje"
@@ -3899,7 +3899,7 @@ msgid "Letter headings"
 msgstr "Raidžių antraštės"
 
 msgid "Letter template"
-msgstr ""
+msgstr "Laiško šablonas"
 
 msgid "Letter-Like Symbols"
 msgstr "Į raides panašūs simboliai"
@@ -3932,7 +3932,7 @@ msgid "Licence: {licence}. Source: {source}"
 msgstr ""
 
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Lichtenšteinas"
 
 msgid "Light Variations"
 msgstr "Šviesūs variantai"
@@ -3965,7 +3965,7 @@ msgid "Line and Paragraph Spacing"
 msgstr "Eilučių ir pastraipų tarpai"
 
 msgid "Line between"
-msgstr ""
+msgstr "Linija tarp stulpelių"
 
 msgid "Line Break"
 msgstr "Eilutės lūžis"
@@ -4088,7 +4088,7 @@ msgid "Lit from Top"
 msgstr "Apšviesta iš viršaus"
 
 msgid "Lithuanian"
-msgstr ""
+msgstr "Lietuvių"
 
 msgid "Load System Installed Fonts…"
 msgstr "Įkelti sistemoje įdiegtus šriftus…"
@@ -4136,19 +4136,19 @@ msgid "Logical OR with Limits"
 msgstr "Loginis ARBA su rėžiais"
 
 msgid "Lorem ipsum: because the real words are still at the café."
-msgstr ""
+msgstr "Lorem ipsum: nes tikrieji žodžiai vis dar kavinėje."
 
 msgid "Lum:"
 msgstr "Švies.:"
 
 msgid "Luxembourg"
-msgstr ""
+msgstr "Liuksemburgas"
 
 msgid "Macao SAR"
-msgstr ""
+msgstr "Makao YAR"
 
 msgid "Macedonian"
-msgstr ""
+msgstr "Makedonų"
 
 msgid "Macro name:"
 msgstr ""
@@ -4175,10 +4175,10 @@ msgid "Make WordCraft the default for Word documents…"
 msgstr "Padaryti WordCraft numatytąja „Word“ dokumentų programa…"
 
 msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
-msgstr ""
+msgstr "Padidina arba sumažina juostelę, meniu ir dialogo langus. „Automatinis“ atitinka sistemos ekrano mastelį; 100 % – vienas ekrano taškas vienam punktui. Dokumento mastelis nustatomas atskirai."
 
 msgid "Malaysia"
-msgstr ""
+msgstr "Malaizija"
 
 msgid "Manage Sources"
 msgstr "Tvarkyti šaltinius"
@@ -4226,7 +4226,7 @@ msgid "Mark Entry…"
 msgstr "Žymėti įrašą…"
 
 msgid "Mark grammar errors as you type"
-msgstr ""
+msgstr "Žymėti gramatikos klaidas rašant"
 
 msgid "Mark Index Entry"
 msgstr "Žymėti rodyklės įrašą"
@@ -4289,7 +4289,7 @@ msgid "Mesosphere"
 msgstr "Mezosfera"
 
 msgid "Mexico"
-msgstr ""
+msgstr "Meksika"
 
 msgid "Midline Dots"
 msgstr "Vidurinės linijos taškai"
@@ -4337,10 +4337,10 @@ msgid "Mon"
 msgstr "Pr"
 
 msgid "Monaco"
-msgstr ""
+msgstr "Monakas"
 
 msgid "Montenegro"
-msgstr ""
+msgstr "Juodkalnija"
 
 msgid "Month"
 msgstr "Mėnuo"
@@ -4382,7 +4382,7 @@ msgid "More Underlines…"
 msgstr "Daugiau pabraukimų…"
 
 msgid "Morocco"
-msgstr ""
+msgstr "Marokas"
 
 msgid "Move in Equation"
 msgstr "Perkelti lygtyje"
@@ -4421,7 +4421,7 @@ msgid "Moved from:"
 msgstr "Perkelta iš:"
 
 msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
-msgstr ""
+msgstr "Perkeliami objektai prisitraukia prie puslapio kraštų ir centro, paraščių ir kitų objektų. Laikykite Alt, kad perkeltumėte laisvai."
 
 msgid "Moved to"
 msgstr "Perkelta į"
@@ -4433,7 +4433,7 @@ msgid "Moves"
 msgstr "Perkėlimai"
 
 msgid "Mozambique"
-msgstr ""
+msgstr "Mozambikas"
 
 msgid "Multilevel List"
 msgstr "Daugiapakopis sąrašas"
@@ -4445,7 +4445,7 @@ msgid "Multiple Pages"
 msgstr "Keli puslapiai"
 
 msgid "Mute agent messages"
-msgstr ""
+msgstr "Nutildyti agentų pranešimus"
 
 msgid "Muted 50%"
 msgstr "Prislopinta 50 %"
@@ -4475,40 +4475,40 @@ msgid "Negated Relations"
 msgstr "Neigiami sąryšiai"
 
 msgid "Netherlands"
-msgstr ""
+msgstr "Nyderlandai"
 
 msgid "New blank documents are written in this language"
-msgstr ""
+msgstr "Nauji tušti dokumentai rašomi šia kalba"
 
 msgid "New Comment"
 msgstr "Naujas komentaras"
 
 msgid "New comments and tracked changes are recorded under this name and these initials."
-msgstr ""
+msgstr "Nauji komentarai ir sekami keitimai įrašomi šiuo vardu ir šiais inicialais."
 
 msgid "New Documents Based on This Template"
-msgstr ""
+msgstr "Nauji dokumentai, pagrįsti šiuo šablonu"
 
 msgid "New documents based on this template"
-msgstr ""
+msgstr "Nauji dokumentai, pagrįsti šiuo šablonu"
 
 msgid "New documents will use this font."
-msgstr ""
+msgstr "Nauji dokumentai naudos šį šriftą."
 
 msgid "New documents will use this page setup."
-msgstr ""
+msgstr "Nauji dokumentai naudos šią puslapio sąranką."
 
 msgid "New documents will use this paragraph formatting."
-msgstr ""
+msgstr "Nauji dokumentai naudos šį pastraipos formatavimą."
 
 msgid "New documents will use this style."
-msgstr ""
+msgstr "Nauji dokumentai naudos šį stilių."
 
 msgid "New documents will use WordCraft's built-in formatting."
-msgstr ""
+msgstr "Nauji dokumentai naudos įtaisytąjį WordCraft formatavimą."
 
 msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
-msgstr ""
+msgstr "Nauji dokumentai naudos įtaisytąjį WordCraft formatavimą. Įrašytų numatytųjų nustatymų nebus galima atkurti. Atstatyti?"
 
 msgid "New Drawing Canvas"
 msgstr "Nauja piešimo drobė"
@@ -4538,10 +4538,10 @@ msgid "New Table Style…"
 msgstr "Naujas lentelės stilius…"
 
 msgid "New word"
-msgstr ""
+msgstr "Naujas žodis"
 
 msgid "New Zealand"
-msgstr ""
+msgstr "Naujoji Zelandija"
 
 msgid "New\nComment"
 msgstr "Naujas\nkomentaras"
@@ -4571,13 +4571,13 @@ msgid "Next sentence"
 msgstr "Kitas sakinys"
 
 msgid "Nib floats over the window with tips and the occasional remark."
-msgstr ""
+msgstr "Nib plūduriuoja virš lango su patarimais ir kartais pastabomis."
 
 msgid "Nib, your assistant. Drag to move; right-click for options."
-msgstr ""
+msgstr "Nib, jūsų asistentas. Vilkite, kad perkeltumėte; dešiniuoju pelės mygtuku – parinktys."
 
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nikaragva"
 
 msgid "No accessibility issues found."
 msgstr "Pritaikymo neįgaliesiems problemų nerasta."
@@ -4625,10 +4625,10 @@ msgid "No items to show."
 msgstr "Nėra elementų, kuriuos būtų galima rodyti."
 
 msgid "No language matches your search."
-msgstr ""
+msgstr "Paieškos neatitinka jokia kalba."
 
 msgid "No languages to show yet."
-msgstr ""
+msgstr "Kalbų dar nėra."
 
 msgid "No Markup"
 msgstr "Be žymėjimo"
@@ -4679,10 +4679,10 @@ msgid "No Transform"
 msgstr "Be transformacijos"
 
 msgid "No watermark"
-msgstr ""
+msgstr "Be vandens ženklo"
 
 msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
-msgstr ""
+msgstr "Žodžių dar nėra. Komanda „Įtraukti į žodyną“ ant klaidingo žodžio įrašo jį čia."
 
 msgid "No-Width Non Break"
 msgstr "Nulinio pločio nelaužiamas"
@@ -4724,7 +4724,7 @@ msgid "Norwegian (Bokmål)"
 msgstr "Norvegų (bokmål)"
 
 msgid "Norwegian (Nynorsk)"
-msgstr ""
+msgstr "Norvegų (nynorsk)"
 
 msgid "Not"
 msgstr "Ne"
@@ -4733,7 +4733,7 @@ msgid "Not available right now"
 msgstr "Šiuo metu nepasiekiama"
 
 msgid "Not available yet"
-msgstr ""
+msgstr "Dar neprieinama"
 
 msgid "not editing an equation"
 msgstr "lygtis neredaguojama"
@@ -4757,10 +4757,10 @@ msgid "Not saved yet"
 msgstr "Dar neįrašyta"
 
 msgid "Not set"
-msgstr ""
+msgstr "Nenustatyta"
 
 msgid "Not set: the system's usual places"
-msgstr ""
+msgstr "Nenustatyta: įprastos sistemos vietos"
 
 msgid "Not used by any command"
 msgstr "Nenaudoja jokia komanda"
@@ -4829,7 +4829,7 @@ msgid "Numerals"
 msgstr "Skaitmenys"
 
 msgid "Numerals:"
-msgstr ""
+msgstr "Skaitmenys:"
 
 msgid "n×n Identity Matrix"
 msgstr "n×n vienetinė matrica"
@@ -4886,10 +4886,10 @@ msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
 msgstr "Senieji meniu klavišai: Alt, {keys}. Rašykite toliau arba paspauskite Esc, kad atšauktumėte."
 
 msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
-msgstr ""
+msgstr "Įjungta: rašant ar naudojant rodyklių klavišus žymeklis sklandžiai nuslysta į naują vietą, o jo mirksėjimas blanksta. Išjungta: jis peršoka ir mirksi."
 
 msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
-msgstr ""
+msgstr "Įjungta: WordCraft atsiveria skiltyje Failas › Pradžia su tuščiu dokumentu, šablonais ir naujausiais dokumentais. Išjungta: atsiveria tuščias dokumentas."
 
 msgid "One"
 msgstr "Vienas"
@@ -4925,7 +4925,7 @@ msgid "only in Outline view"
 msgstr "tik struktūros rodinyje"
 
 msgid "Only in this document"
-msgstr ""
+msgstr "Tik šiame dokumente"
 
 msgid "Only label and number"
 msgstr "Tik etiketė ir numeris"
@@ -4962,10 +4962,10 @@ msgid "Opening print dialog…"
 msgstr "Atidaromas spausdinimo dialogo langas…"
 
 msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
-msgstr ""
+msgstr "Nuo šiol .docx, .doc, .rtf ir .odt failai bei Word šablonai bus atveriami su WordCraft."
 
 msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
-msgstr ""
+msgstr "Atveria Parametrai › Numatytosios programos, kur pasirenkate WordCraft .docx ir kitiems dokumentų tipams."
 
 msgid "Operator"
 msgstr "Operatorius"
@@ -5055,7 +5055,7 @@ msgid "Overtype"
 msgstr "Perrašymas"
 
 msgid "Overtype (typing replaces the characters after the caret)"
-msgstr ""
+msgstr "Perrašymas (rašomas tekstas pakeičia simbolius po žymeklio)"
 
 msgid "Page Background"
 msgstr "Puslapio fonas"
@@ -5157,7 +5157,7 @@ msgid "Pages of bookmark:"
 msgstr "Žymelės puslapiai:"
 
 msgid "Panama"
-msgstr ""
+msgstr "Panama"
 
 msgid "Pane Options"
 msgstr ""
@@ -5169,7 +5169,7 @@ msgid "Paragraph Character"
 msgstr "Pastraipos simbolis"
 
 msgid "Paragraph Details"
-msgstr ""
+msgstr "Pastraipos išsami informacija"
 
 msgid "Paragraph Down"
 msgstr "Pastraipa žemyn"
@@ -5199,7 +5199,7 @@ msgid "Paragraph…"
 msgstr "Pastraipa…"
 
 msgid "Paraguay"
-msgstr ""
+msgstr "Paragvajus"
 
 msgid "Parentheses"
 msgstr "Lenktiniai skliaustai"
@@ -5259,7 +5259,7 @@ msgid "Periodical"
 msgstr "Periodinis leidinys"
 
 msgid "Persian"
-msgstr ""
+msgstr "Persų"
 
 msgid "Personal"
 msgstr "Asmeniniai"
@@ -5268,13 +5268,13 @@ msgid "Personal Templates"
 msgstr "Asmeniniai šablonai"
 
 msgid "Personalize"
-msgstr ""
+msgstr "Suasmeninti"
 
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 msgid "Philippines"
-msgstr ""
+msgstr "Filipinai"
 
 msgid "Phonetic Guide"
 msgstr "Fonetinis vadovas"
@@ -5289,7 +5289,7 @@ msgid "Pick a custom group (New Group makes one)"
 msgstr "Pasirinkite pasirinktinę grupę (ją sukuria „Nauja grupė“)"
 
 msgid "Pick a field from the list"
-msgstr ""
+msgstr "Pasirinkite lauką iš sąrašo"
 
 msgid "Picture"
 msgstr "Paveikslėlis"
@@ -5313,7 +5313,7 @@ msgid "Picture transparency"
 msgstr "Paveikslėlio skaidrumas"
 
 msgid "Picture watermark"
-msgstr ""
+msgstr "Paveikslėlio vandens ženklas"
 
 msgid "Pictures"
 msgstr "Paveikslėliai"
@@ -5349,7 +5349,7 @@ msgid "Polish"
 msgstr "Lenkų"
 
 msgid "Portugal"
-msgstr ""
+msgstr "Portugalija"
 
 msgid "Portuguese (Brazil)"
 msgstr "Portugalų (Brazilija)"
@@ -5370,7 +5370,7 @@ msgid "Preferred width:"
 msgstr "Pageidaujamas plotis:"
 
 msgid "Preserve formatting during updates"
-msgstr ""
+msgstr "Išlaikyti formatavimą atnaujinant"
 
 msgid "Preset gradients"
 msgstr "Iš anksto nustatyti gradientai"
@@ -5436,10 +5436,10 @@ msgid "Print settings"
 msgstr "Spausdinimo parametrai"
 
 msgid "Print the page color"
-msgstr ""
+msgstr "Spausdinti puslapio spalvą"
 
 msgid "Print to PDF"
-msgstr ""
+msgstr "Spausdinti į PDF"
 
 msgid "Print\nLayout"
 msgstr "Spaudinio\nmaketas"
@@ -5454,10 +5454,10 @@ msgid "Privacy for this document"
 msgstr "Šio dokumento privatumas"
 
 msgid "Privacy Options"
-msgstr ""
+msgstr "Privatumo parinktys"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Privatumo parametrai"
 
 msgid "Process"
 msgstr "Procesas"
@@ -5496,7 +5496,7 @@ msgid "Proofing Issues"
 msgstr "Tikrinimo problemos"
 
 msgid "Proofing language"
-msgstr ""
+msgstr "Tikrinimo kalba"
 
 msgid "Property names are 1–{max} characters."
 msgstr ""
@@ -5514,7 +5514,7 @@ msgid "Publisher"
 msgstr "Leidėjas"
 
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rikas"
 
 msgid "Put the caret in a content control first."
 msgstr "Pirmiausia nustatykite žymeklį turinio valdiklyje."
@@ -5523,7 +5523,7 @@ msgid "Put the default commands back on the Quick Access Toolbar?"
 msgstr "Grąžinti numatytąsias komandas į sparčiosios prieigos įrankių juostą?"
 
 msgid "Qatar"
-msgstr ""
+msgstr "Kataras"
 
 msgid "Quadratic Root"
 msgstr "Kvadratinė šaknis"
@@ -5598,7 +5598,7 @@ msgid "Reads the clipboard's web content and keeps its formatting."
 msgstr "Nuskaito iškarpinės žiniatinklio turinį ir išlaiko jo formatavimą."
 
 msgid "Recent documents to show:"
-msgstr ""
+msgstr "Rodomų naujausių dokumentų skaičius:"
 
 msgid "Recently Used Fonts"
 msgstr "Neseniai naudoti šriftai"
@@ -5658,7 +5658,7 @@ msgid "Refresh printers"
 msgstr "Atnaujinti spausdintuvus"
 
 msgid "Region:"
-msgstr ""
+msgstr "Regionas:"
 
 msgid "Registered"
 msgstr "Registruotas"
@@ -5781,7 +5781,7 @@ msgid "Replace as you type"
 msgstr "Pakeisti rašant"
 
 msgid "Replace Document Text"
-msgstr ""
+msgstr "Pakeisti dokumento tekstą"
 
 msgid "Replace text as you type"
 msgstr "Keisti tekstą rašant"
@@ -5799,7 +5799,7 @@ msgid "Researcher"
 msgstr "Tyrėjas"
 
 msgid "Researcher needs an online service; WordCraft keeps your documents offline."
-msgstr ""
+msgstr "Tyrėjui reikia internetinės paslaugos; WordCraft jūsų dokumentus laiko neprisijungus."
 
 msgid "Reset All…"
 msgstr "Atkurti viską…"
@@ -5811,7 +5811,7 @@ msgid "Reset Crop"
 msgstr "Atkurti apkarpymą"
 
 msgid "Reset Default Formatting"
-msgstr ""
+msgstr "Atstatyti numatytąjį formatavimą"
 
 msgid "Reset Graphic"
 msgstr "Atkurti grafiką"
@@ -5823,7 +5823,7 @@ msgid "Reset Picture"
 msgstr "Atkurti paveikslėlį"
 
 msgid "Reset tips"
-msgstr ""
+msgstr "Atstatyti patarimus"
 
 msgid "Reset to Normal"
 msgstr "Atkurti į įprastinį"
@@ -5889,13 +5889,13 @@ msgid "Rewind"
 msgstr "Atsukti"
 
 msgid "Rewinding. Tell me when to stop."
-msgstr ""
+msgstr "Atsukame atgal. Pasakykite, kada sustoti."
 
 msgid "Ribbon"
 msgstr "Juostelė"
 
 msgid "Ribbon and Quick Access Toolbar:"
-msgstr ""
+msgstr "Juostelė ir sparčiosios prieigos įrankių juosta:"
 
 msgid "Ribbon tabs"
 msgstr "Juostelės skirtukai"
@@ -5955,7 +5955,7 @@ msgid "Rightwards Harpoon Above"
 msgstr "Harpūnas dešinėn viršuje"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Rumunų"
 
 msgid "Roots of ax²+bx+c"
 msgstr "ax²+bx+c šaknys"
@@ -6000,7 +6000,7 @@ msgid "Run-in"
 msgstr "Įterptinis"
 
 msgid "Russia"
-msgstr ""
+msgstr "Rusija"
 
 msgid "Résumé"
 msgstr "Gyvenimo aprašymas"
@@ -6033,7 +6033,7 @@ msgid "Save these pages as PDF…"
 msgstr "Įrašyti šiuos puslapius kaip PDF…"
 
 msgid "Saved. Saved again. Still saved. It's very saved."
-msgstr ""
+msgstr "Įrašyta. Vėl įrašyta. Vis dar įrašyta. Labai įrašyta."
 
 msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
 msgstr "Įrašo .dotx šabloną jūsų šablonų aplanke. Jis rodomas skiltyje Failas › Naujas, dalyje Asmeniniai."
@@ -6042,10 +6042,10 @@ msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
 msgstr "{name} įrašymas atšauktas, todėl dokumentas tebėra atidarytas ir niekas neprarasta."
 
 msgid "Sayings"
-msgstr ""
+msgstr "Posakiai"
 
 msgid "Sayings:"
-msgstr ""
+msgstr "Posakiai:"
 
 msgid "Scale Drawing"
 msgstr "Mastelio piešinys"
@@ -6087,7 +6087,7 @@ msgid "Search Options"
 msgstr "Paieškos parinktys"
 
 msgid "Search:"
-msgstr ""
+msgstr "Ieškoti:"
 
 msgid "Secant Function"
 msgstr "Sekanto funkcija"
@@ -6126,7 +6126,7 @@ msgid "select a connector first"
 msgstr "pirmiausia pažymėkite jungtį"
 
 msgid "select a diagram first"
-msgstr ""
+msgstr "pirmiausia pažymėkite diagramą"
 
 msgid "select a drawing canvas first"
 msgstr "pirmiausia pažymėkite piešimo drobę"
@@ -6141,7 +6141,7 @@ msgid "select a picture first"
 msgstr "pirmiausia pažymėkite paveikslėlį"
 
 msgid "Select a picture first."
-msgstr ""
+msgstr "Pirmiausia pasirinkite paveikslėlį."
 
 msgid "select a picture or shape first"
 msgstr "pirmiausia pažymėkite paveikslėlį arba figūrą"
@@ -6162,7 +6162,7 @@ msgid "select a shape first"
 msgstr "pirmiausia pažymėkite figūrą"
 
 msgid "select a shape or decorative text first"
-msgstr ""
+msgstr "pirmiausia pažymėkite figūrą arba dekoratyvųjį tekstą"
 
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Pažymėkite figūrą, teksto lauką arba piešimo drobę, kad formatuotumėte jos užpildą."
@@ -6195,7 +6195,7 @@ msgid "Select Paragraph"
 msgstr "Pažymėti pastraipą"
 
 msgid "Select Picture…"
-msgstr ""
+msgstr "Pasirinkti paveikslėlį…"
 
 msgid "Select Range"
 msgstr "Pažymėti diapazoną"
@@ -6255,7 +6255,7 @@ msgid "Selection Pane"
 msgstr "Žymėjimo sritis"
 
 msgid "Semitransparent"
-msgstr ""
+msgstr "Pusiau skaidrus"
 
 msgid "Send the document straight to the system print dialog, or save a copy in another format below."
 msgstr "Siųskite dokumentą tiesiai į sistemos spausdinimo dialogo langą arba toliau įrašykite kopiją kitu formatu."
@@ -6279,7 +6279,7 @@ msgid "Sepia"
 msgstr "Sepija"
 
 msgid "Sequence name:"
-msgstr ""
+msgstr "Sekos pavadinimas:"
 
 msgid "Serbian (Cyrillic)"
 msgstr "Serbų (kirilica)"
@@ -6297,19 +6297,19 @@ msgid "Set As Default"
 msgstr "Nustatyti kaip numatytąjį"
 
 msgid "Set as default"
-msgstr ""
+msgstr "Nustatyti kaip numatytąją"
 
 msgid "Set As Default (Font)"
-msgstr ""
+msgstr "Nustatyti kaip numatytąjį (šriftas)"
 
 msgid "Set As Default (Page Setup)"
-msgstr ""
+msgstr "Nustatyti kaip numatytąjį (puslapio sąranka)"
 
 msgid "Set As Default (Paragraph)"
-msgstr ""
+msgstr "Nustatyti kaip numatytąjį (pastraipa)"
 
 msgid "Set as Default Language"
-msgstr ""
+msgstr "Nustatyti kaip numatytąją kalbą"
 
 msgid "Set Caret"
 msgstr "Nustatyti žymeklį"
@@ -6378,7 +6378,7 @@ msgid "Show alignment guides when moving pictures and shapes"
 msgstr "Rodyti lygiavimo linijas perkeliant paveikslėlius ir figūras"
 
 msgid "Show all formatting marks"
-msgstr ""
+msgstr "Rodyti visas formatavimo žymes"
 
 msgid "Show All Levels"
 msgstr "Rodyti visus lygius"
@@ -6396,7 +6396,7 @@ msgid "Show Comments"
 msgstr "Rodyti komentarus"
 
 msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
-msgstr ""
+msgstr "Rodyti dokumentus invertuotomis spalvomis, kaip Rodinys › Perjungti režimus. Įrašymas, spausdinimas ir PDF nesikeičia."
 
 msgid "Show every bibliography field"
 msgstr "Rodyti visus bibliografijos laukus"
@@ -6417,7 +6417,7 @@ msgid "Show its number with all higher levels"
 msgstr "Rodyti jo numerį su visais aukštesniais lygiais"
 
 msgid "Show KeyTips (Alt or F10)"
-msgstr ""
+msgstr "Rodyti klavišų patarimus (Alt arba F10)"
 
 msgid "Show Level"
 msgstr "Rodyti lygį"
@@ -6474,7 +6474,7 @@ msgid "Show Text Formatting"
 msgstr "Rodyti teksto formatavimą"
 
 msgid "Show the Assistant"
-msgstr ""
+msgstr "Rodyti Asistentą"
 
 msgid "Show the community button in the title bar"
 msgstr "Rodyti bendruomenės mygtuką pavadinimo juostoje"
@@ -6486,7 +6486,7 @@ msgid "Show the equation on a line of its own"
 msgstr "Rodyti lygtį atskiroje eilutėje"
 
 msgid "Show the mini toolbar when text is selected"
-msgstr ""
+msgstr "Pažymėjus tekstą rodyti mini įrankių juostą"
 
 msgid "Show the ribbon"
 msgstr "Rodyti juostelę"
@@ -6495,7 +6495,7 @@ msgid "Show the Start screen when WordCraft starts"
 msgstr "Rodyti pradžios ekraną paleidus WordCraft"
 
 msgid "Show the tips you asked not to see again."
-msgstr ""
+msgstr "Vėl rodyti patarimus, kurių paprašėte daugiau nerodyti."
 
 msgid "Show/Hide ¶"
 msgstr "Rodyti / slėpti ¶"
@@ -6504,7 +6504,7 @@ msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in y
 msgstr ""
 
 msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
-msgstr ""
+msgstr "Rodyti / slėpti ¶ ({key}) parodo tekste besislepiančius tarpus, tabuliavimo simbolius ir lūžius."
 
 msgid "Show\nComments"
 msgstr "Rodyti\nkomentarus"
@@ -6570,7 +6570,7 @@ msgid "Sine theta"
 msgstr "Sinusas teta"
 
 msgid "Singapore"
-msgstr ""
+msgstr "Singapūras"
 
 msgid "Single"
 msgstr "Viengubas"
@@ -6651,10 +6651,10 @@ msgid "Slant Up"
 msgstr "Nuolydis aukštyn"
 
 msgid "Slovak"
-msgstr ""
+msgstr "Slovakų"
 
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovėnų"
 
 msgid "Small caps"
 msgstr "Mažosios didžiosios"
@@ -6675,7 +6675,7 @@ msgid "SmartArt Styles"
 msgstr "SmartArt stiliai"
 
 msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
-msgstr ""
+msgstr "Sklandus slinkimas ir mastelio keitimas, palaipsniui atsirandantys meniu ir mygtukai. Išjungus kiekvienas pakeitimas rodomas iš karto."
 
 msgid "Soft Edge"
 msgstr "Švelnus kraštas"
@@ -6693,7 +6693,7 @@ msgid "Solid fill"
 msgstr "Vientisas užpildas"
 
 msgid "Sometimes"
-msgstr ""
+msgstr "Kartais"
 
 msgid "Sort by:"
 msgstr "Rikiuoti pagal:"
@@ -6720,7 +6720,7 @@ msgid "South"
 msgstr "Pietūs"
 
 msgid "South Africa"
-msgstr ""
+msgstr "Pietų Afrika"
 
 msgid "Space"
 msgstr "Tarpas"
@@ -6744,7 +6744,7 @@ msgid "Spacing (pt):"
 msgstr "Tarpai (pt):"
 
 msgid "Spain"
-msgstr ""
+msgstr "Ispanija"
 
 msgid "Spanish (Latin America)"
 msgstr "Ispanų (Lotynų Amerika)"
@@ -6780,7 +6780,7 @@ msgid "Spelling and grammar are checked in English (United States)."
 msgstr ""
 
 msgid "Spelling and grammar are checked in {language}."
-msgstr ""
+msgstr "Rašyba ir gramatika tikrinamos šia kalba: {language}."
 
 msgid "Spelling Suggestions"
 msgstr "Rašybos pasiūlymai"
@@ -6852,7 +6852,7 @@ msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
-msgstr ""
+msgstr "Vis dar čia? Girdžiu, kaip galvojate."
 
 msgid "Stop Protection"
 msgstr "Stabdyti apsaugą"
@@ -6897,7 +6897,7 @@ msgid "Style Inspector"
 msgstr "Stilių tikrintuvas"
 
 msgid "Style name:"
-msgstr ""
+msgstr "Stiliaus pavadinimas:"
 
 msgid "Style Set"
 msgstr "Stilių rinkinys"
@@ -6993,7 +6993,7 @@ msgid "Surface Integral with Stacked Limits"
 msgstr "Paviršinis integralas su sudėtiniais rėžiais"
 
 msgid "Swahili"
-msgstr ""
+msgstr "Svahilių"
 
 msgid "Swap footnotes and endnotes"
 msgstr "Sukeisti išnašas ir galines išnašas"
@@ -7014,20 +7014,20 @@ msgid "Switch\nWindows"
 msgstr ""
 
 msgid "Switzerland"
-msgstr ""
+msgstr "Šveicarija"
 
 msgid "Synonyms"
 msgstr "Sinonimai"
 
 msgid "Syria"
-msgstr ""
+msgstr "Sirija"
 
 msgctxt "numerals"
 msgid "System"
 msgstr "Pagal sistemą"
 
 msgid "System dictionary"
-msgstr ""
+msgstr "Sistemos žodynas"
 
 msgid "Tab Character"
 msgstr "Tabuliacijos simbolis"
@@ -7036,7 +7036,7 @@ msgid "Tab character"
 msgstr "Tabuliacijos simbolis"
 
 msgid "Tab characters"
-msgstr ""
+msgstr "Tabuliavimo simboliai"
 
 msgid "Tab leader:"
 msgstr "Tabuliacijos užpildas:"
@@ -7111,16 +7111,16 @@ msgid "Tag"
 msgstr "Žyma"
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taivanas"
 
 msgid "Take the last match on the page"
 msgstr "Imti paskutinį atitikmenį puslapyje"
 
 msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
-msgstr ""
+msgstr "Neskubėkite. Puslapis niekur nedings. Aš irgi. Niekada."
 
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilų"
 
 msgid "Tangent formula"
 msgstr "Tangento formulė"
@@ -7204,7 +7204,7 @@ msgid "Text to display:"
 msgstr "Rodomas tekstas:"
 
 msgid "Text watermark"
-msgstr ""
+msgstr "Teksto vandens ženklas"
 
 msgid "Text Wrapping"
 msgstr "Teksto laužymas"
@@ -7216,7 +7216,7 @@ msgid "Text\nDirection"
 msgstr "Teksto\nkryptis"
 
 msgid "Thai"
-msgstr ""
+msgstr "Tajų"
 
 msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
 msgstr "Šis formatas visko neišsaugo, todėl dokumentas tebėra atidarytas. Norėdami tęsti, įrašykite jį kaip „Word“ dokumentą (.docx)."
@@ -7252,10 +7252,10 @@ msgid "The document will be saved with a password. Save it to protect it."
 msgstr "Dokumentas bus įrašytas su slaptažodžiu. Įrašykite jį, kad apsaugotumėte."
 
 msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
-msgstr ""
+msgstr "Redaguojamame dokumente vardai ir datos lieka; jų neturi tik įrašytas failas."
 
 msgid "The margins don't fit on a page this size; make the margins smaller first."
-msgstr ""
+msgstr "Paraštės netelpa tokio dydžio puslapyje; pirmiausia sumažinkite paraštes."
 
 msgid "The measurement must be between {min} and {max}."
 msgstr "Matmuo turi būti nuo {min} iki {max}."
@@ -7264,7 +7264,7 @@ msgid "The new style takes the formatting of the current paragraph."
 msgstr "Naujasis stilius perima dabartinės pastraipos formatavimą."
 
 msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
-msgstr ""
+msgstr "Šablono „Normal“ nepavyko perskaityti, todėl šis dokumentas naudoja įtaisytąjį WordCraft formatavimą."
 
 msgid "The number must be a divisor of {max}."
 msgstr "Skaičius turi būti {max} daliklis."
@@ -7306,7 +7306,7 @@ msgid "The system file dialog isn't available, so WordCraft shows its own. To ge
 msgstr "Sistemos failų dialogo langas nepasiekiamas, todėl WordCraft rodo savo. Norėdami gauti sistemos dialogo langą, įdiekite failų parinkimo portalą (pvz., xdg-desktop-portal-gtk) arba zenity."
 
 msgid "The text at the insertion point is marked Do not check spelling or grammar."
-msgstr ""
+msgstr "Įterpimo vietoje esantis tekstas pažymėtas „Netikrinti rašybos ir gramatikos“."
 
 msgid "The time right now"
 msgstr "Dabartinis laikas"
@@ -7351,7 +7351,7 @@ msgid "Thesaurus"
 msgstr "Tezauras"
 
 msgid "These marks show even when Show/Hide ¶ is off."
-msgstr ""
+msgstr "Šios žymės rodomos net kai Rodyti / slėpti ¶ išjungta."
 
 msgid "These merge fields aren't in the recipient list:"
 msgstr "Šių suliejimo laukų gavėjų sąraše nėra:"
@@ -7375,10 +7375,10 @@ msgid "this chart was made in another program: WordCraft shows it but can't edit
 msgstr "ši diagrama sukurta kita programa: WordCraft ją rodo, bet negali redaguoti"
 
 msgid "this diagram can't be edited"
-msgstr ""
+msgstr "šios diagramos negalima redaguoti"
 
 msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
-msgstr ""
+msgstr "ši diagrama sukurta kita programa: WordCraft ją rodo, bet negali redaguoti"
 
 msgid "This document"
 msgstr "Šis dokumentas"
@@ -7387,10 +7387,10 @@ msgid "This document has no custom properties."
 msgstr ""
 
 msgid "This document only?"
-msgstr ""
+msgstr "Tik šiam dokumentui?"
 
 msgid "This field has no options."
-msgstr ""
+msgstr "Šis laukas neturi parinkčių."
 
 msgid "This folder can't be read: {error}"
 msgstr "Šio aplanko nepavyksta nuskaityti: {error}"
@@ -7408,16 +7408,16 @@ msgid "This password type isn't supported."
 msgstr "Šis slaptažodžio tipas nepalaikomas."
 
 msgid "This point forward"
-msgstr ""
+msgstr "Nuo šios vietos"
 
 msgid "This section"
 msgstr "Šis skyrius"
 
 msgid "this session has no Normal template (headless or without preferences)"
-msgstr ""
+msgstr "šis seansas neturi šablono „Normal“ (be grafinės sąsajos arba be nuostatų)"
 
 msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
-msgstr ""
+msgstr "šis seansas neturi šablono „Normal“ (be grafinės sąsajos arba be nuostatų): naudokite \"scope\": \"document\""
 
 msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
 msgstr "šis SmartArt sukurtas kita programa: WordCraft jį rodo, bet negali redaguoti"
@@ -7438,7 +7438,7 @@ msgid "Tilde"
 msgstr "Tildė"
 
 msgid "Tip"
-msgstr ""
+msgstr "Patarimas"
 
 msgid "Tips ({n})"
 msgstr "Patarimai ({n})"
@@ -7457,7 +7457,7 @@ msgid "Title:"
 msgstr "Pavadinimas:"
 
 msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
-msgstr ""
+msgstr "Kad Word dokumentai pagal numatytuosius nustatymus būtų atveriami su WordCraft: pažymėkite vieną programoje Finder, pasirinkite File › Get Info, skiltyje Open with pasirinkite WordCraft ir spustelėkite Change All."
 
 msgid "To:"
 msgstr "Kam:"
@@ -7538,7 +7538,7 @@ msgid "Trademark Sign"
 msgstr "Prekių ženklo simbolis"
 
 msgid "Transparency:"
-msgstr ""
+msgstr "Skaidrumas:"
 
 msgid "Transport"
 msgstr "Transportas"
@@ -7568,7 +7568,7 @@ msgid "Triple Integral with Stacked Limits"
 msgstr "Trigubas integralas su sudėtiniais rėžiais"
 
 msgid "Trust Center"
-msgstr ""
+msgstr "Patikimumo centras"
 
 msgid "Tue"
 msgstr "An"
@@ -7634,7 +7634,7 @@ msgid "Type the categories down the side and a column of values per series."
 msgstr "Įveskite kategorijas kairėje ir po vertės stulpelį kiekvienai sekai."
 
 msgid "Type the field's name and its switches, for example PAGE \\* roman."
-msgstr ""
+msgstr "Įrašykite lauko pavadinimą ir jo jungiklius, pavyzdžiui, PAGE \\* roman."
 
 msgid "Type the password to stop the protection."
 msgstr "Įveskite slaptažodį, kad išjungtumėte apsaugą."
@@ -7646,10 +7646,10 @@ msgid "Typing replaces selected text"
 msgstr "Rašomas tekstas pakeičia pažymėtą tekstą"
 
 msgid "U.A.E."
-msgstr ""
+msgstr "JAE"
 
 msgid "Ukraine"
-msgstr ""
+msgstr "Ukraina"
 
 msgid "Ukrainian"
 msgstr "Ukrainiečių"
@@ -7685,7 +7685,7 @@ msgid "Undo {n} Actions"
 msgstr "Anuliuoti veiksmų: {n}"
 
 msgid "Undo, undo, undo… we're time travelling now."
-msgstr ""
+msgstr "Atšaukti, atšaukti, atšaukti… dabar keliaujame laiku."
 
 msgid "Unformatted Text"
 msgstr "Neformatuotas tekstas"
@@ -7709,15 +7709,15 @@ msgid "Unions and Intersections"
 msgstr "Sąjungos ir sankirtos"
 
 msgid "United Kingdom"
-msgstr ""
+msgstr "Jungtinė Karalystė"
 
 msgid "United States"
-msgstr ""
+msgstr "Jungtinės Valstijos"
 
 #. {name} placeholders are filled in when the app runs: keep each one, in any order.
 msgctxt "@msg"
 msgid "unknown decorative text style `{id}`"
-msgstr ""
+msgstr "nežinomas dekoratyviojo teksto stilius `{id}`"
 
 msgid "Unlink Fields"
 msgstr "Atsieti laukus"
@@ -7741,7 +7741,7 @@ msgid "Update Field"
 msgstr "Naujinti lauką"
 
 msgid "Update fields before printing"
-msgstr ""
+msgstr "Atnaujinti laukus prieš spausdinant"
 
 msgid "Update Index"
 msgstr "Naujinti rodyklę"
@@ -7771,7 +7771,7 @@ msgid "URL"
 msgstr "URL"
 
 msgid "Uruguay"
-msgstr ""
+msgstr "Urugvajus"
 
 msgid "Use \"a\" before a consonant sound"
 msgstr "Vartoti „a“ prieš priebalsio garsą"
@@ -7789,25 +7789,25 @@ msgid "Use the browser's full screen (F11)"
 msgstr "Naudoti naršyklės viso ekrano režimą (F11)"
 
 msgid "Use the current style set and theme for all new documents?"
-msgstr ""
+msgstr "Naudoti dabartinį stilių rinkinį ir temą visiems naujiems dokumentams?"
 
 msgid "Use the Insert key to switch overtype on and off"
-msgstr ""
+msgstr "Naudoti klavišą Insert perrašymui įjungti ir išjungti"
 
 msgid "Use this formatting as the default for:"
-msgstr ""
+msgstr "Naudoti šį formatavimą kaip numatytąjį:"
 
 msgid "Use wildcards"
 msgstr "Naudoti pakaitos simbolius"
 
 msgid "User Name"
-msgstr ""
+msgstr "Vartotojo vardas"
 
 msgid "User name:"
 msgstr "Vartotojo vardas:"
 
 msgid "User templates:"
-msgstr ""
+msgstr "Vartotojo šablonai:"
 
 msgid "Vector A"
 msgstr "Vektorius A"
@@ -7816,7 +7816,7 @@ msgid "Vector AB"
 msgstr "Vektorius AB"
 
 msgid "Venezuela"
-msgstr ""
+msgstr "Venesuela"
 
 msgid "Version History"
 msgstr "Versijų istorija"
@@ -7834,7 +7834,7 @@ msgid "Vertical Dots"
 msgstr "Vertikalūs taškai"
 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamiečių"
 
 msgid "View Alt Text…"
 msgstr "Peržiūrėti alternatyvųjį tekstą…"
@@ -7849,7 +7849,7 @@ msgid "View State"
 msgstr "Rodinio būsena"
 
 msgid "View › Focus hides everything but your words. I'll wait outside."
-msgstr ""
+msgstr "Rodinys › Fokusavimas paslepia viską, išskyrus jūsų žodžius. Palauksiu lauke."
 
 msgid "Viewing"
 msgstr ""
@@ -7912,7 +7912,7 @@ msgid "Wed"
 msgstr "Tr"
 
 msgid "Welsh"
-msgstr ""
+msgstr "Valų"
 
 msgid "West"
 msgstr "Vakarai"
@@ -7957,7 +7957,7 @@ msgid "Widow/Orphan control"
 msgstr "Našlaičių eilučių valdymas"
 
 msgid "Width and spacing"
-msgstr ""
+msgstr "Plotis ir tarpai"
 
 msgid "Wildcards (regex)"
 msgstr ""
@@ -8026,7 +8026,7 @@ msgid "Write a reply"
 msgstr "Rašyti atsakymą"
 
 msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
-msgstr ""
+msgstr "Rašymo blokas? Man padeda spoksoti į žymeklį. Jis man mirksi jau daug metų."
 
 msgid "x bar"
 msgstr "x su brūkšniu"
@@ -8041,28 +8041,28 @@ msgid "You can also right-click the count in the status bar to change it."
 msgstr ""
 
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
-msgstr ""
+msgstr "Seniai neįrašėte, o automatinis įrašymas išjungtas. Įrašyti dabar?"
 
 msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
-msgstr ""
+msgstr "Pradėjote sąrašą. Du kartus paspauskite Enter, kad jį baigtumėte, arba Backspace elemento pradžioje, kad paverstumėte jį vėl tekstu."
 
 msgid "Your document is now the most saved document in history."
-msgstr ""
+msgstr "Jūsų dokumentas dabar yra daugiausiai kartų įrašytas dokumentas istorijoje."
 
 msgid "Your languages"
-msgstr ""
+msgstr "Jūsų kalbos"
 
 msgid "Your own dictionary"
-msgstr ""
+msgstr "Jūsų žodynas"
 
 msgid "Your system doesn't report an animation setting, so animation effects stay on."
-msgstr ""
+msgstr "Jūsų sistema nepraneša animacijos nustatymo, todėl animacijos efektai lieka įjungti."
 
 msgid "Your system has animation effects turned off."
 msgstr "Jūsų sistemoje animacijos efektai išjungti."
 
 msgid "Your system has animation effects turned on."
-msgstr ""
+msgstr "Jūsų sistemoje animacijos efektai įjungti."
 
 msgid "Zotero"
 msgstr "Zotero"
@@ -8104,25 +8104,25 @@ msgid "{group} settings"
 msgstr "{group}: parametrai"
 
 msgid "{key} checks the spelling and grammar of the whole document."
-msgstr ""
+msgstr "{key} patikrina viso dokumento rašybą ir gramatiką."
 
 msgid "{key} counts your words, characters and paragraphs."
-msgstr ""
+msgstr "{key} suskaičiuoja žodžius, simbolius ir pastraipas."
 
 msgid "{key} finds and replaces text, formatting and special characters."
-msgstr ""
+msgstr "{key} randa ir pakeičia tekstą, formatavimą ir specialiuosius simbolius."
 
 msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
-msgstr ""
+msgstr "{key} pakartoja paskutinį veiksmą. Dešimties antraščių formatavimas staiga tampa vienu spustelėjimu ir devyniais paspaudimais."
 
 msgid "{key} starts a new line without starting a new paragraph."
-msgstr ""
+msgstr "{key} pradeda naują eilutę nepradėdamas naujos pastraipos."
 
 msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
-msgstr ""
+msgstr "{key} pradeda naują puslapį. Kur kas tvarkingiau nei spaudyti Enter, kol taip nutiks."
 
 msgid "{key} turns the selected text into a link."
-msgstr ""
+msgstr "{key} pažymėtą tekstą paverčia saitu."
 
 msgid "{key}+Click to follow link"
 msgstr "{key}+spustelėkite, kad atidarytumėte saitą"
@@ -8131,7 +8131,7 @@ msgid "{kind}, {columns} × {rows}, {size} ({paper})"
 msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
 
 msgid "{language} (default)"
-msgstr ""
+msgstr "{language} (numatytoji)"
 
 msgid "{language} (dictionary unreadable)"
 msgstr "{language} (žodyno nepavyko nuskaityti)"
@@ -8149,13 +8149,13 @@ msgid "{language} proofing isn't installed."
 msgstr ""
 
 msgid "{language}: no dictionary found"
-msgstr ""
+msgstr "{language}: žodynas nerastas"
 
 msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
-msgstr ""
+msgstr "{language}: WordCraft dar netikrina šios kalbos rašybos ir gramatikos."
 
 msgid "{language}: {file}"
-msgstr ""
+msgstr "{language}: {file}"
 
 msgid "{language}: {file} (unreadable: {reason})"
 msgstr ""
@@ -8215,13 +8215,13 @@ msgid "{words} words"
 msgstr "Žodžių: {words}"
 
 msgid "{words} words and counting. Literally. I'm counting."
-msgstr ""
+msgstr "{words} žodž. ir vis daugiau. Tiesiogine prasme. Aš skaičiuoju."
 
 msgid "{words} words! I'd throw confetti but I'd have to clean it up."
-msgstr ""
+msgstr "{words} žodž.! Mėtyčiau konfeti, bet paskui tektų tvarkyti."
 
 msgid "{words} words. That's {words} more than I've written today."
-msgstr ""
+msgstr "{words} žodž. Tai {words} daugiau, nei šiandien parašiau aš."
 
 msgid "“{text}” ({row}, {series}) isn't a number."
 msgstr "„{text}“ ({row}, {series}) nėra skaičius."
